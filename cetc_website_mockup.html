@@ -1,0 +1,1240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CETC Foundation — Website Mockup</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #0B1F3A;
+    --blue: #1A56DB;
+    --blue-light: #EBF2FF;
+    --gold: #F59E0B;
+    --gold-light: #FEF3C7;
+    --green: #059669;
+    --green-light: #ECFDF5;
+    --text: #0B1F3A;
+    --muted: #64748B;
+    --border: #E2E8F0;
+    --white: #FFFFFF;
+    --bg: #F8FAFC;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'DM Sans', sans-serif; background: #F0F4F8; min-height: 100vh; }
+
+  /* Browser chrome */
+  .browser {
+    max-width: 1100px;
+    margin: 20px auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.18);
+  }
+  .browser-bar {
+    background: #E8EAED;
+    padding: 10px 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .dots { display: flex; gap: 6px; }
+  .dot { width: 12px; height: 12px; border-radius: 50%; }
+  .dot-r { background: #FF5F57; }
+  .dot-y { background: #FEBC2E; }
+  .dot-g { background: #28C840; }
+  .url-bar {
+    flex: 1;
+    background: white;
+    border-radius: 6px;
+    padding: 5px 14px;
+    font-size: 13px;
+    color: #444;
+    font-family: monospace;
+  }
+
+  /* Page container */
+  .page { display: none; background: var(--white); }
+  .page.active { display: block; }
+
+  /* NAVBAR */
+  nav {
+    background: var(--navy);
+    padding: 0 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 68px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .logo {
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    color: white;
+    letter-spacing: -0.3px;
+  }
+  .logo span { color: var(--gold); }
+  .nav-links { display: flex; gap: 32px; align-items: center; }
+  .nav-links a {
+    color: rgba(255,255,255,0.75);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+  .nav-links a:hover, .nav-links a.active { color: white; }
+  .nav-cta {
+    background: var(--gold);
+    color: var(--navy) !important;
+    padding: 8px 20px;
+    border-radius: 6px;
+    font-weight: 600 !important;
+  }
+
+  /* HERO */
+  .hero {
+    background: var(--navy);
+    padding: 80px 48px 0;
+    overflow: hidden;
+    position: relative;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -100px; right: -100px;
+    width: 500px; height: 500px;
+    background: radial-gradient(circle, rgba(26,86,219,0.3) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+    max-width: 1000px;
+  }
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(245,158,11,0.15);
+    border: 1px solid rgba(245,158,11,0.3);
+    color: var(--gold);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 24px;
+    letter-spacing: 0.5px;
+  }
+  .hero h1 {
+    font-family: 'Syne', sans-serif;
+    font-size: 44px;
+    font-weight: 800;
+    color: white;
+    line-height: 1.15;
+    margin-bottom: 20px;
+    letter-spacing: -1px;
+  }
+  .hero h1 em { color: var(--gold); font-style: normal; }
+  .hero p {
+    color: rgba(255,255,255,0.65);
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 36px;
+  }
+  .hero-btns { display: flex; gap: 14px; flex-wrap: wrap; }
+  .btn-primary {
+    background: var(--gold);
+    color: var(--navy);
+    padding: 13px 28px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(245,158,11,0.35); }
+  .btn-outline {
+    background: transparent;
+    color: white;
+    padding: 13px 28px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 15px;
+    cursor: pointer;
+    border: 1px solid rgba(255,255,255,0.3);
+    transition: background 0.2s;
+  }
+  .btn-outline:hover { background: rgba(255,255,255,0.08); }
+
+  /* Stats row in hero */
+  .hero-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .stat-card {
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .stat-num {
+    font-family: 'Syne', sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+    color: white;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .stat-num span { color: var(--gold); }
+  .stat-label { font-size: 13px; color: rgba(255,255,255,0.55); }
+
+  /* Trust bar */
+  .trust-bar {
+    background: rgba(255,255,255,0.05);
+    border-top: 1px solid rgba(255,255,255,0.1);
+    margin-top: 60px;
+    padding: 18px 48px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+  }
+  .trust-label { font-size: 12px; color: rgba(255,255,255,0.4); white-space: nowrap; letter-spacing: 0.5px; }
+  .trust-badges { display: flex; gap: 24px; flex-wrap: wrap; }
+  .trust-badge {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    color: rgba(255,255,255,0.75);
+    font-weight: 500;
+  }
+  .trust-icon {
+    width: 28px; height: 28px;
+    border-radius: 6px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px;
+  }
+
+  /* SECTIONS */
+  .section { padding: 72px 48px; }
+  .section-alt { background: var(--bg); }
+  .section-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 8px;
+    letter-spacing: -0.5px;
+  }
+  .section-sub { font-size: 16px; color: var(--muted); margin-bottom: 48px; }
+  .section-header { margin-bottom: 48px; }
+
+  /* HOW IT WORKS */
+  .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
+  .step {
+    text-align: center;
+    padding: 36px 24px;
+    border-radius: 16px;
+    border: 1px solid var(--border);
+    position: relative;
+    background: white;
+    transition: box-shadow 0.2s, transform 0.2s;
+  }
+  .step:hover { box-shadow: 0 8px 24px rgba(11,31,58,0.08); transform: translateY(-4px); }
+  .step-num {
+    width: 52px; height: 52px;
+    background: var(--blue-light);
+    color: var(--blue);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'Syne', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    margin: 0 auto 20px;
+  }
+  .step h3 { font-family: 'Syne', sans-serif; font-size: 18px; font-weight: 700; margin-bottom: 10px; color: var(--text); }
+  .step p { font-size: 14px; color: var(--muted); line-height: 1.6; }
+  .step-connector {
+    position: absolute;
+    top: 50px; right: -18px;
+    font-size: 20px;
+    color: var(--gold);
+    z-index: 2;
+  }
+
+  /* TRADES GRID */
+  .trades { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .trade-card {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+  .trade-card::before {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 3px;
+    background: var(--blue);
+    transform: scaleX(0);
+    transition: transform 0.2s;
+  }
+  .trade-card:hover { box-shadow: 0 8px 24px rgba(11,31,58,0.1); transform: translateY(-3px); }
+  .trade-card:hover::before { transform: scaleX(1); }
+  .trade-icon { font-size: 32px; margin-bottom: 12px; display: block; }
+  .trade-name { font-family: 'Syne', sans-serif; font-size: 15px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
+  .trade-fee { font-size: 13px; color: var(--blue); font-weight: 500; }
+  .trade-badge {
+    position: absolute;
+    top: 12px; right: 12px;
+    background: var(--green-light);
+    color: var(--green);
+    font-size: 10px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 20px;
+  }
+
+  /* CERTIFICATE PREVIEW */
+  .cert-preview {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+    align-items: center;
+  }
+  .cert-card {
+    background: linear-gradient(135deg, #0B1F3A 0%, #1A3A6B 100%);
+    border-radius: 16px;
+    padding: 40px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(11,31,58,0.3);
+  }
+  .cert-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Ccircle cx='30' cy='30' r='28'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    pointer-events: none;
+  }
+  .cert-logo { font-family: 'Syne', sans-serif; font-size: 13px; font-weight: 700; color: var(--gold); letter-spacing: 2px; margin-bottom: 24px; }
+  .cert-title-label { font-size: 11px; color: rgba(255,255,255,0.4); letter-spacing: 1px; margin-bottom: 8px; }
+  .cert-title { font-family: 'Syne', sans-serif; font-size: 22px; font-weight: 800; color: white; margin-bottom: 20px; }
+  .cert-name-label { font-size: 11px; color: rgba(255,255,255,0.4); letter-spacing: 1px; margin-bottom: 6px; }
+  .cert-name { font-family: 'Syne', sans-serif; font-size: 26px; font-weight: 700; color: var(--gold); margin-bottom: 24px; }
+  .cert-footer { display: flex; justify-content: space-between; align-items: flex-end; }
+  .cert-id { font-size: 11px; color: rgba(255,255,255,0.4); font-family: monospace; }
+  .cert-qr {
+    width: 52px; height: 52px;
+    background: white;
+    border-radius: 6px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 28px;
+  }
+  .cert-seal {
+    position: absolute;
+    top: 24px; right: 24px;
+    width: 56px; height: 56px;
+    border: 2px solid var(--gold);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px;
+  }
+  .cert-features { list-style: none; }
+  .cert-features li {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 15px;
+    color: var(--text);
+  }
+  .cert-features li:last-child { border-bottom: none; }
+  .feat-icon { font-size: 18px; }
+
+  /* PARTNER SECTION */
+  .partner-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  .partner-card {
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 32px 28px;
+    background: white;
+    transition: all 0.2s;
+  }
+  .partner-card:hover { border-color: var(--blue); box-shadow: 0 8px 24px rgba(26,86,219,0.1); }
+  .partner-type { font-size: 12px; color: var(--muted); margin-bottom: 8px; letter-spacing: 0.5px; }
+  .partner-title { font-family: 'Syne', sans-serif; font-size: 18px; font-weight: 700; color: var(--text); margin-bottom: 12px; }
+  .partner-earn {
+    font-size: 28px;
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    color: var(--green);
+    margin-bottom: 4px;
+  }
+  .partner-earn-label { font-size: 13px; color: var(--muted); margin-bottom: 20px; }
+  .partner-list { list-style: none; }
+  .partner-list li { font-size: 13px; color: var(--muted); padding: 4px 0; display: flex; gap: 8px; }
+  .partner-list li::before { content: '✓'; color: var(--green); font-weight: 700; }
+
+  /* FOOTER */
+  footer {
+    background: var(--navy);
+    padding: 48px;
+    color: rgba(255,255,255,0.6);
+  }
+  .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 40px; margin-bottom: 40px; }
+  .footer-brand .logo { margin-bottom: 12px; display: block; }
+  .footer-desc { font-size: 13px; line-height: 1.7; color: rgba(255,255,255,0.45); }
+  .footer-col h4 { font-family: 'Syne', sans-serif; font-weight: 700; color: white; font-size: 14px; margin-bottom: 16px; }
+  .footer-links { list-style: none; }
+  .footer-links li { margin-bottom: 10px; }
+  .footer-links a { font-size: 13px; color: rgba(255,255,255,0.5); text-decoration: none; cursor: pointer; }
+  .footer-links a:hover { color: white; }
+  .footer-bottom {
+    border-top: 1px solid rgba(255,255,255,0.1);
+    padding-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+  }
+
+  /* INNER PAGES */
+  .page-hero {
+    background: var(--navy);
+    padding: 60px 48px;
+  }
+  .page-hero h1 {
+    font-family: 'Syne', sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 12px;
+    letter-spacing: -0.5px;
+  }
+  .page-hero p { color: rgba(255,255,255,0.6); font-size: 16px; }
+  .breadcrumb { font-size: 13px; color: rgba(255,255,255,0.4); margin-bottom: 16px; }
+  .breadcrumb span { color: var(--gold); }
+
+  /* ASSESSMENT PAGE */
+  .exam-layout { display: grid; grid-template-columns: 280px 1fr; gap: 0; min-height: 500px; }
+  .exam-sidebar {
+    background: var(--bg);
+    border-right: 1px solid var(--border);
+    padding: 28px;
+  }
+  .exam-main { padding: 36px 40px; }
+  .timer-box {
+    background: var(--navy);
+    color: white;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  .timer-label { font-size: 12px; color: rgba(255,255,255,0.5); margin-bottom: 6px; }
+  .timer-val { font-family: 'Syne', sans-serif; font-size: 36px; font-weight: 800; color: var(--gold); }
+  .q-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; margin-bottom: 20px; }
+  .q-dot {
+    width: 36px; height: 36px;
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 12px; font-weight: 600;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: white;
+    color: var(--muted);
+  }
+  .q-dot.answered { background: var(--green); color: white; border-color: var(--green); }
+  .q-dot.current { background: var(--blue); color: white; border-color: var(--blue); }
+  .q-dot.skipped { background: var(--gold-light); color: var(--gold); border-color: var(--gold); }
+  .legend { display: flex; flex-direction: column; gap: 8px; }
+  .leg-item { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); }
+  .leg-dot { width: 14px; height: 14px; border-radius: 3px; }
+
+  .q-number { font-size: 13px; color: var(--muted); margin-bottom: 12px; }
+  .q-text { font-family: 'Syne', sans-serif; font-size: 20px; font-weight: 600; color: var(--text); line-height: 1.4; margin-bottom: 32px; }
+  .options { display: flex; flex-direction: column; gap: 12px; }
+  .option {
+    border: 1.5px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 20px;
+    cursor: pointer;
+    display: flex; align-items: center; gap: 14px;
+    font-size: 15px;
+    transition: all 0.15s;
+  }
+  .option:hover { border-color: var(--blue); background: var(--blue-light); }
+  .option.selected { border-color: var(--blue); background: var(--blue-light); color: var(--blue); }
+  .option-letter {
+    width: 30px; height: 30px;
+    border-radius: 50%;
+    border: 1.5px solid currentColor;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 600;
+    flex-shrink: 0;
+  }
+  .exam-nav { display: flex; justify-content: space-between; margin-top: 32px; }
+
+  /* CERTIFICATE VERIFY PAGE */
+  .verify-box {
+    max-width: 560px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 60px 24px;
+  }
+  .verify-icon { font-size: 56px; margin-bottom: 20px; }
+  .verify-title { font-family: 'Syne', sans-serif; font-size: 28px; font-weight: 700; margin-bottom: 12px; color: var(--text); }
+  .verify-sub { color: var(--muted); margin-bottom: 36px; font-size: 15px; }
+  .input-row { display: flex; gap: 12px; margin-bottom: 12px; }
+  .cert-input {
+    flex: 1;
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    padding: 13px 18px;
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .cert-input:focus { border-color: var(--blue); }
+  .verify-result {
+    background: var(--green-light);
+    border: 1.5px solid var(--green);
+    border-radius: 16px;
+    padding: 28px;
+    margin-top: 28px;
+    display: none;
+  }
+  .verify-result.show { display: block; }
+  .result-check { font-size: 40px; margin-bottom: 12px; }
+  .result-name { font-family: 'Syne', sans-serif; font-size: 22px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+  .result-trade { color: var(--green); font-weight: 500; margin-bottom: 20px; }
+  .result-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; text-align: left; }
+  .result-item label { font-size: 11px; color: var(--muted); display: block; margin-bottom: 2px; }
+  .result-item span { font-size: 14px; font-weight: 500; color: var(--text); }
+
+  /* ADMIN DASHBOARD */
+  .admin-layout { display: grid; grid-template-columns: 220px 1fr; min-height: 600px; }
+  .admin-sidebar {
+    background: var(--navy);
+    padding: 28px 20px;
+  }
+  .admin-menu { list-style: none; }
+  .admin-menu li {
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-size: 14px;
+    color: rgba(255,255,255,0.6);
+    cursor: pointer;
+    display: flex; align-items: center; gap: 10px;
+    margin-bottom: 4px;
+    transition: all 0.15s;
+  }
+  .admin-menu li:hover { background: rgba(255,255,255,0.08); color: white; }
+  .admin-menu li.active { background: rgba(26,86,219,0.4); color: white; }
+  .admin-content { padding: 32px; background: var(--bg); }
+  .admin-title { font-family: 'Syne', sans-serif; font-size: 24px; font-weight: 700; color: var(--text); margin-bottom: 8px; }
+  .admin-date { font-size: 13px; color: var(--muted); margin-bottom: 28px; }
+  .metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 28px; }
+  .metric {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .metric-label { font-size: 12px; color: var(--muted); margin-bottom: 8px; }
+  .metric-val { font-family: 'Syne', sans-serif; font-size: 28px; font-weight: 800; color: var(--text); }
+  .metric-change { font-size: 12px; color: var(--green); margin-top: 4px; }
+  .chart-bar-wrap { background: white; border: 1px solid var(--border); border-radius: 12px; padding: 24px; }
+  .chart-title { font-family: 'Syne', sans-serif; font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 20px; }
+  .bar-chart { display: flex; align-items: flex-end; gap: 10px; height: 140px; }
+  .bar-col { display: flex; flex-direction: column; align-items: center; gap: 6px; flex: 1; }
+  .bar {
+    width: 100%;
+    background: var(--blue);
+    border-radius: 6px 6px 0 0;
+    transition: all 0.3s;
+  }
+  .bar:hover { background: var(--gold); }
+  .bar-label { font-size: 11px; color: var(--muted); }
+
+  /* Tabs */
+  .tabs { display: flex; border-bottom: 1px solid var(--border); margin-bottom: 0; }
+  .tab {
+    padding: 16px 24px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    color: var(--muted);
+    border-bottom: 2px solid transparent;
+    transition: all 0.15s;
+  }
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--blue); border-bottom-color: var(--blue); }
+
+  /* FLOATING WA BUTTON */
+  .wa-btn {
+    position: fixed;
+    bottom: 28px; right: 28px;
+    width: 56px; height: 56px;
+    background: #25D366;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 26px;
+    box-shadow: 0 4px 16px rgba(37,211,102,0.4);
+    cursor: pointer;
+    transition: transform 0.2s;
+    z-index: 999;
+  }
+  .wa-btn:hover { transform: scale(1.1); }
+</style>
+</head>
+<body>
+
+<div class="browser">
+  <div class="browser-bar">
+    <div class="dots">
+      <div class="dot dot-r"></div>
+      <div class="dot dot-y"></div>
+      <div class="dot dot-g"></div>
+    </div>
+    <div class="url-bar" id="url-bar">🔒 cetcfoundation.org</div>
+  </div>
+
+  <!-- NAV (shared) -->
+  <nav>
+    <div class="logo">CETC <span>Foundation</span></div>
+    <div class="nav-links">
+      <a onclick="showPage('home')" id="nav-home" class="active">Home</a>
+      <a onclick="showPage('courses')" id="nav-courses">Certifications</a>
+      <a onclick="showPage('exam')" id="nav-exam">Take Exam</a>
+      <a onclick="showPage('verify')" id="nav-verify">Verify Certificate</a>
+      <a onclick="showPage('partner')" id="nav-partner">Become Partner</a>
+      <a onclick="showPage('admin')" id="nav-admin">Admin ↗</a>
+      <a onclick="showPage('courses')" class="nav-cta">Enroll Now</a>
+    </div>
+  </nav>
+
+  <!-- ═══════ HOME PAGE ═══════ -->
+  <div class="page active" id="page-home">
+
+    <div class="hero">
+      <div class="hero-grid">
+        <div>
+          <div class="hero-badge">🏆 India's Trusted Skill Assessment Body</div>
+          <h1>Apni <em>Skills</em> ko Official Certificate dein</h1>
+          <p>ISO 9001:2015 Certified • Section 8 Company • NITI Aayog Registered<br>Online assessment lekar nationally recognized certificate payein sirf ₹1,000 mein</p>
+          <div class="hero-btns">
+            <button class="btn-primary" onclick="showPage('courses')">Certification Dekhein →</button>
+            <button class="btn-outline" onclick="showPage('verify')">Certificate Verify Karein</button>
+          </div>
+        </div>
+        <div class="hero-stats">
+          <div class="stat-card">
+            <div class="stat-num">10<span>K+</span></div>
+            <div class="stat-label">Students Trained</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num">3<span>K+</span></div>
+            <div class="stat-label">Candidates Placed</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num">8<span>+</span></div>
+            <div class="stat-label">Trade Certifications</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num">500<span>+</span></div>
+            <div class="stat-label">Partner Centers</div>
+          </div>
+        </div>
+      </div>
+      <div class="trust-bar">
+        <span class="trust-label">RECOGNISED BY</span>
+        <div class="trust-badges">
+          <span class="trust-badge"><span class="trust-icon" style="background:rgba(245,158,11,0.15)">🏛️</span> NITI Aayog</span>
+          <span class="trust-badge"><span class="trust-icon" style="background:rgba(26,86,219,0.15)">📋</span> ISO 9001:2015</span>
+          <span class="trust-badge"><span class="trust-icon" style="background:rgba(5,150,105,0.15)">🏢</span> Section 8 MCA</span>
+          <span class="trust-badge"><span class="trust-icon" style="background:rgba(245,158,11,0.15)">⚡</span> MSME Udyam</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="section section-alt">
+      <div class="section-header">
+        <div class="section-title">Certification kaise milti hai?</div>
+        <div class="section-sub">Sirf 3 simple steps mein apna official certificate payein</div>
+      </div>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">1</div>
+          <h3>Register karein</h3>
+          <p>Mobile number se register karein, apna trade chunein aur ₹1,000 fee pay karein — UPI, card, netbanking accepted</p>
+          <span class="step-connector">→</span>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <h3>Online Assessment dein</h3>
+          <p>60 MCQ questions, 60 minute mein. Apne phone ya laptop se ghar se ya nearest center se dein</p>
+          <span class="step-connector">→</span>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <h3>Certificate downloadkarein</h3>
+          <p>Pass hone ke baad instant digital certificate milega — QR code verified, employer verified, lifetime valid</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-header">
+        <div class="section-title">Available Certifications</div>
+        <div class="section-sub">Apna trade chunein aur officially certified ban jayein</div>
+      </div>
+      <div class="trades">
+        <div class="trade-card" onclick="showPage('courses')">
+          <span class="trade-icon">💇</span>
+          <div class="trade-name">Beautician & Beauty Therapy</div>
+          <div class="trade-fee">₹1,000 • 60 Questions</div>
+          <span class="trade-badge">Popular</span>
+        </div>
+        <div class="trade-card" onclick="showPage('courses')">
+          <span class="trade-icon">⚡</span>
+          <div class="trade-name">Electrician</div>
+          <div class="trade-fee">₹1,000 • 60 Questions</div>
+        </div>
+        <div class="trade-card" onclick="showPage('courses')">
+          <span class="trade-icon">📱</span>
+          <div class="trade-name">Mobile Repair Tech</div>
+          <div class="trade-fee">₹1,000 • 60 Questions</div>
+          <span class="trade-badge">New</span>
+        </div>
+        <div class="trade-card" onclick="showPage('courses')">
+          <span class="trade-icon">🔧</span>
+          <div class="trade-name">Plumber</div>
+          <div class="trade-fee">₹1,000 • 60 Questions</div>
+        </div>
+        <div class="trade-card" onclick="showPage('courses')">
+          <span class="trade-icon">❄️</span>
+          <div class="trade-name">AC & Refrigeration</div>
+          <div class="trade-fee">₹1,000 • 60 Questions</div>
+        </div>
+        <div class="trade-card" onclick="showPage('courses')">
+          <span class="trade-icon">💻</span>
+          <div class="trade-name">Computer Operator</div>
+          <div class="trade-fee">₹1,000 • 60 Questions</div>
+        </div>
+        <div class="trade-card" onclick="showPage('courses')">
+          <span class="trade-icon">🔨</span>
+          <div class="trade-name">Welder</div>
+          <div class="trade-fee">₹1,000 • 60 Questions</div>
+        </div>
+        <div class="trade-card" onclick="showPage('courses')">
+          <span class="trade-icon">🛒</span>
+          <div class="trade-name">Retail Sales Associate</div>
+          <div class="trade-fee">₹1,000 • 60 Questions</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section section-alt">
+      <div class="cert-preview">
+        <div>
+          <div class="section-title">Tamper-proof Digital Certificate</div>
+          <div class="section-sub" style="margin-bottom:28px">QR code se verify hone wala certificate jo employers trust karte hain</div>
+          <ul class="cert-features">
+            <li><span class="feat-icon">🔐</span> Unique certificate number — CETC/2025/BEAUTY/000123</li>
+            <li><span class="feat-icon">📱</span> QR code scan karke instantly verify</li>
+            <li><span class="feat-icon">⬇️</span> High-resolution PDF download</li>
+            <li><span class="feat-icon">🔗</span> LinkedIn par share karo directly</li>
+            <li><span class="feat-icon">♾️</span> Lifetime validity, cloud mein stored</li>
+          </ul>
+          <button class="btn-primary" style="margin-top:28px" onclick="showPage('verify')">Sample Certificate Verify Karein →</button>
+        </div>
+        <div class="cert-card">
+          <div class="cert-logo">CETC FOUNDATION</div>
+          <div class="cert-seal">🏆</div>
+          <div class="cert-title-label">CERTIFICATE OF COMPETENCY</div>
+          <div class="cert-title">Beautician &<br>Beauty Therapy</div>
+          <div class="cert-name-label">THIS IS TO CERTIFY THAT</div>
+          <div class="cert-name">Priya Sharma</div>
+          <div style="font-size:12px;color:rgba(255,255,255,0.5);margin-bottom:8px">has successfully completed the assessment and is hereby certified</div>
+          <div style="font-size:11px;color:rgba(255,255,255,0.35);margin-bottom:20px">Grade: A • Score: 82% • Issued: Jan 2025</div>
+          <div class="cert-footer">
+            <div class="cert-id">CETC/2025/BEAUTY/001247<br>ISO 9001:2015 Certified Body</div>
+            <div class="cert-qr">⬛</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-header">
+        <div class="section-title">Partner ban kar kamaein</div>
+        <div class="section-sub">Apne institute se students ko certify karwayein aur har candidate pe commission payein</div>
+      </div>
+      <div class="partner-grid">
+        <div class="partner-card">
+          <div class="partner-type">BEAUTY ACADEMIES</div>
+          <div class="partner-title">Beauty Academy Partner</div>
+          <div class="partner-earn">₹300</div>
+          <div class="partner-earn-label">per certified student</div>
+          <ul class="partner-list">
+            <li>Bulk enrollment portal</li>
+            <li>CETC branding materials</li>
+            <li>Monthly commission payout</li>
+            <li>Partner certificate</li>
+          </ul>
+          <button class="btn-primary" style="margin-top:20px;width:100%" onclick="showPage('partner')">Register as Partner</button>
+        </div>
+        <div class="partner-card" style="border-color:var(--blue);box-shadow:0 8px 24px rgba(26,86,219,0.12)">
+          <div class="partner-type" style="color:var(--blue)">MOST POPULAR</div>
+          <div class="partner-title">ITI / Polytechnic Partner</div>
+          <div class="partner-earn">₹250</div>
+          <div class="partner-earn-label">per certified student</div>
+          <ul class="partner-list">
+            <li>Excel bulk upload</li>
+            <li>Dedicated account manager</li>
+            <li>Batch result reports</li>
+            <li>MoU with CETC Foundation</li>
+          </ul>
+          <button class="btn-primary" style="margin-top:20px;width:100%" onclick="showPage('partner')">Register as Partner</button>
+        </div>
+        <div class="partner-card">
+          <div class="partner-type">NGO / SKILL CENTERS</div>
+          <div class="partner-title">NGO Partner</div>
+          <div class="partner-earn">₹200</div>
+          <div class="partner-earn-label">per certified student</div>
+          <ul class="partner-list">
+            <li>CSR funding eligible</li>
+            <li>Government scheme access</li>
+            <li>Free trainer materials</li>
+            <li>Impact reports</li>
+          </ul>
+          <button class="btn-primary" style="margin-top:20px;width:100%" onclick="showPage('partner')">Register as Partner</button>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <span class="logo">CETC <span>Foundation</span></span>
+          <p class="footer-desc">Council for Education, Training and Certification Foundation. ISO 9001:2015 Certified Assessment Body. Section 8 Company under MCA.</p>
+          <div style="margin-top:16px;display:flex;gap:10px">
+            <span style="background:rgba(255,255,255,0.08);padding:6px 12px;border-radius:6px;font-size:12px">NGO Darpan ✓</span>
+            <span style="background:rgba(255,255,255,0.08);padding:6px 12px;border-radius:6px;font-size:12px">ISO 9001 ✓</span>
+            <span style="background:rgba(255,255,255,0.08);padding:6px 12px;border-radius:6px;font-size:12px">MSME ✓</span>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h4>Certifications</h4>
+          <ul class="footer-links">
+            <li><a>Beautician</a></li>
+            <li><a>Electrician</a></li>
+            <li><a>Mobile Repair</a></li>
+            <li><a>Plumber</a></li>
+            <li><a>AC Technician</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Quick Links</h4>
+          <ul class="footer-links">
+            <li><a onclick="showPage('verify')">Verify Certificate</a></li>
+            <li><a onclick="showPage('partner')">Become Partner</a></li>
+            <li><a onclick="showPage('exam')">Take Exam</a></li>
+            <li><a>Download Brochure</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Contact</h4>
+          <ul class="footer-links">
+            <li><a>📍 Bhiwandi, Maharashtra</a></li>
+            <li><a>📱 WhatsApp us</a></li>
+            <li><a>✉️ info@cetcfoundation.org</a></li>
+            <li><a>🕐 Mon–Sat 9am–6pm</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2025 CETC Foundation. All rights reserved.</span>
+        <span>Section 8 Company • CIN: U80903MH2025NPL000000</span>
+      </div>
+    </footer>
+  </div>
+
+  <!-- ═══════ COURSES PAGE ═══════ -->
+  <div class="page" id="page-courses">
+    <div class="page-hero">
+      <div class="breadcrumb">Home > <span>Certifications</span></div>
+      <h1>All Certifications</h1>
+      <p>Choose your trade and get officially certified in just 60 minutes</p>
+    </div>
+    <div class="tabs">
+      <div class="tab active">All Trades</div>
+      <div class="tab">Technical</div>
+      <div class="tab">Beauty & Wellness</div>
+      <div class="tab">IT & Digital</div>
+      <div class="tab">Retail & Service</div>
+    </div>
+    <div class="section">
+      <div class="trades" style="grid-template-columns:repeat(3,1fr)">
+        <div class="trade-card">
+          <span class="trade-icon">💇</span>
+          <div class="trade-name">Beautician & Beauty Therapy</div>
+          <div class="trade-fee" style="margin-bottom:10px">₹1,000 • 60 MCQ • 60 Minutes</div>
+          <div style="font-size:12px;color:var(--muted);margin-bottom:16px;line-height:1.5">Covers: Skincare, Hair styling, Makeup, Nail art, Salon management</div>
+          <div style="display:flex;gap:8px">
+            <button class="btn-primary" style="flex:1;padding:10px 0;font-size:13px">Enroll Now</button>
+            <button class="btn-outline" style="padding:10px 16px;font-size:13px;border:1px solid var(--border);color:var(--muted)">Syllabus</button>
+          </div>
+        </div>
+        <div class="trade-card">
+          <span class="trade-icon">⚡</span>
+          <div class="trade-name">Electrician</div>
+          <div class="trade-fee" style="margin-bottom:10px">₹1,000 • 60 MCQ • 60 Minutes</div>
+          <div style="font-size:12px;color:var(--muted);margin-bottom:16px;line-height:1.5">Covers: Wiring, Safety, Motors, Panels, Domestic & Industrial</div>
+          <div style="display:flex;gap:8px">
+            <button class="btn-primary" style="flex:1;padding:10px 0;font-size:13px">Enroll Now</button>
+            <button class="btn-outline" style="padding:10px 16px;font-size:13px;border:1px solid var(--border);color:var(--muted)">Syllabus</button>
+          </div>
+        </div>
+        <div class="trade-card">
+          <span class="trade-icon">📱</span>
+          <div class="trade-name">Mobile Repair Technician</div>
+          <div class="trade-fee" style="margin-bottom:10px">₹1,000 • 60 MCQ • 60 Minutes</div>
+          <div style="font-size:12px;color:var(--muted);margin-bottom:16px;line-height:1.5">Covers: Hardware, Software, Tools, Diagnostics, Customer service</div>
+          <div style="display:flex;gap:8px">
+            <button class="btn-primary" style="flex:1;padding:10px 0;font-size:13px">Enroll Now</button>
+            <button class="btn-outline" style="padding:10px 16px;font-size:13px;border:1px solid var(--border);color:var(--muted)">Syllabus</button>
+          </div>
+        </div>
+        <div class="trade-card">
+          <span class="trade-icon">❄️</span>
+          <div class="trade-name">AC & Refrigeration Tech</div>
+          <div class="trade-fee" style="margin-bottom:10px">₹1,000 • 60 MCQ • 60 Minutes</div>
+          <div style="font-size:12px;color:var(--muted);margin-bottom:16px;line-height:1.5">Covers: Installation, Gas charging, Maintenance, Fault diagnosis</div>
+          <div style="display:flex;gap:8px">
+            <button class="btn-primary" style="flex:1;padding:10px 0;font-size:13px">Enroll Now</button>
+            <button class="btn-outline" style="padding:10px 16px;font-size:13px;border:1px solid var(--border);color:var(--muted)">Syllabus</button>
+          </div>
+        </div>
+        <div class="trade-card">
+          <span class="trade-icon">💻</span>
+          <div class="trade-name">Computer Operator</div>
+          <div class="trade-fee" style="margin-bottom:10px">₹1,000 • 60 MCQ • 60 Minutes</div>
+          <div style="font-size:12px;color:var(--muted);margin-bottom:16px;line-height:1.5">Covers: MS Office, Internet, Typing, Basic accounting, Data entry</div>
+          <div style="display:flex;gap:8px">
+            <button class="btn-primary" style="flex:1;padding:10px 0;font-size:13px">Enroll Now</button>
+            <button class="btn-outline" style="padding:10px 16px;font-size:13px;border:1px solid var(--border);color:var(--muted)">Syllabus</button>
+          </div>
+        </div>
+        <div class="trade-card">
+          <span class="trade-icon">🔧</span>
+          <div class="trade-name">Plumber</div>
+          <div class="trade-fee" style="margin-bottom:10px">₹1,000 • 60 MCQ • 60 Minutes</div>
+          <div style="font-size:12px;color:var(--muted);margin-bottom:16px;line-height:1.5">Covers: Pipe fitting, Sanitation, Tools, Drawing reading, Safety</div>
+          <div style="display:flex;gap:8px">
+            <button class="btn-primary" style="flex:1;padding:10px 0;font-size:13px">Enroll Now</button>
+            <button class="btn-outline" style="padding:10px 16px;font-size:13px;border:1px solid var(--border);color:var(--muted)">Syllabus</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════ EXAM PAGE ═══════ -->
+  <div class="page" id="page-exam">
+    <div class="page-hero" style="padding:40px 48px">
+      <div class="breadcrumb">Home > <span>Online Assessment</span></div>
+      <h1>Beautician & Beauty Therapy</h1>
+      <p>60 Questions • 60 Minutes • Passing marks: 40/60</p>
+    </div>
+    <div class="exam-layout">
+      <div class="exam-sidebar">
+        <div class="timer-box">
+          <div class="timer-label">Time Remaining</div>
+          <div class="timer-val" id="timer">47:23</div>
+        </div>
+        <div style="font-size:12px;color:var(--muted);margin-bottom:10px;font-weight:500">Question Navigator</div>
+        <div class="q-grid">
+          <div class="q-dot answered">1</div>
+          <div class="q-dot answered">2</div>
+          <div class="q-dot answered">3</div>
+          <div class="q-dot skipped">4</div>
+          <div class="q-dot answered">5</div>
+          <div class="q-dot current">6</div>
+          <div class="q-dot">7</div>
+          <div class="q-dot">8</div>
+          <div class="q-dot">9</div>
+          <div class="q-dot">10</div>
+          <div class="q-dot">11</div>
+          <div class="q-dot">12</div>
+        </div>
+        <div class="legend" style="margin-top:16px">
+          <div class="leg-item"><div class="leg-dot" style="background:var(--green)"></div> Answered (5)</div>
+          <div class="leg-item"><div class="leg-dot" style="background:var(--gold)"></div> Skipped (1)</div>
+          <div class="leg-item"><div class="leg-dot" style="background:var(--blue)"></div> Current</div>
+          <div class="leg-item"><div class="leg-dot" style="background:white;border:1px solid var(--border)"></div> Not visited (54)</div>
+        </div>
+        <button class="btn-primary" style="width:100%;margin-top:24px;background:#E53E3E">Submit Exam</button>
+      </div>
+      <div class="exam-main">
+        <div class="q-number">Question 6 of 60</div>
+        <div class="q-text">Which skin type is characterized by excessive sebum production, enlarged pores, and a shiny appearance, particularly in the T-zone area?</div>
+        <div class="options" id="options">
+          <div class="option" onclick="selectOpt(this)"><div class="option-letter">A</div> Dry skin — lacks moisture and feels tight</div>
+          <div class="option selected" onclick="selectOpt(this)"><div class="option-letter">B</div> Oily skin — excess sebum, enlarged pores, T-zone shine</div>
+          <div class="option" onclick="selectOpt(this)"><div class="option-letter">C</div> Normal skin — balanced moisture and sebum levels</div>
+          <div class="option" onclick="selectOpt(this)"><div class="option-letter">D</div> Sensitive skin — easily irritated, prone to redness</div>
+        </div>
+        <div class="exam-nav">
+          <button class="btn-outline" style="border:1px solid var(--border);color:var(--muted)">← Previous</button>
+          <button class="btn-outline" style="border:1px solid var(--gold);color:var(--gold)">Skip Question</button>
+          <button class="btn-primary">Next Question →</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════ VERIFY PAGE ═══════ -->
+  <div class="page" id="page-verify">
+    <div class="page-hero">
+      <div class="breadcrumb">Home > <span>Verify Certificate</span></div>
+      <h1>Certificate Verification</h1>
+      <p>Enter certificate number or scan QR code to verify authenticity</p>
+    </div>
+    <div class="verify-box">
+      <div class="verify-icon">🔍</div>
+      <div class="verify-title">Verify CETC Certificate</div>
+      <div class="verify-sub">Certificate number enter karein (e.g. CETC/2025/BEAUTY/001247) ya QR code scan karein</div>
+      <div class="input-row">
+        <input class="cert-input" type="text" id="cert-num" placeholder="CETC/2025/BEAUTY/001247" value="CETC/2025/BEAUTY/001247">
+        <button class="btn-primary" onclick="verifyCert()">Verify →</button>
+      </div>
+      <div style="font-size:13px;color:var(--muted)">or</div>
+      <button class="btn-outline" style="margin-top:12px;border:1px solid var(--border);color:var(--muted);width:100%;padding:13px">📷 Scan QR Code</button>
+      <div class="verify-result" id="verify-result">
+        <div class="result-check">✅</div>
+        <div class="result-name">Priya Sharma</div>
+        <div class="result-trade">Beautician & Beauty Therapy — Grade A</div>
+        <div class="result-grid">
+          <div class="result-item"><label>Certificate No.</label><span>CETC/2025/BEAUTY/001247</span></div>
+          <div class="result-item"><label>Issue Date</label><span>15 January 2025</span></div>
+          <div class="result-item"><label>Score</label><span>82% (49/60)</span></div>
+          <div class="result-item"><label>Validity</label><span>Lifetime</span></div>
+          <div class="result-item"><label>Assessment Center</label><span>Pureshe Training Center, Bhiwandi</span></div>
+          <div class="result-item"><label>Certified By</label><span>CETC Foundation (ISO 9001:2015)</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════ PARTNER PAGE ═══════ -->
+  <div class="page" id="page-partner">
+    <div class="page-hero">
+      <div class="breadcrumb">Home > <span>Become a Partner</span></div>
+      <h1>Partner (AAC) Registration</h1>
+      <p>Authorized Assessment Center ban kar apne students ko certify karwayein aur commission kamayein</p>
+    </div>
+    <div class="section">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start">
+        <div>
+          <div style="font-family:'Syne',sans-serif;font-size:20px;font-weight:700;margin-bottom:24px;color:var(--text)">Partner Registration Form</div>
+          <div style="display:flex;flex-direction:column;gap:16px">
+            <div>
+              <label style="font-size:13px;color:var(--muted);display:block;margin-bottom:6px">Institute / Center Name *</label>
+              <input class="cert-input" style="width:100%" placeholder="e.g. ABC Beauty Academy, Pune" type="text">
+            </div>
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+              <div>
+                <label style="font-size:13px;color:var(--muted);display:block;margin-bottom:6px">Contact Person *</label>
+                <input class="cert-input" placeholder="Full Name" type="text">
+              </div>
+              <div>
+                <label style="font-size:13px;color:var(--muted);display:block;margin-bottom:6px">Mobile Number *</label>
+                <input class="cert-input" placeholder="10-digit number" type="text">
+              </div>
+            </div>
+            <div>
+              <label style="font-size:13px;color:var(--muted);display:block;margin-bottom:6px">Institute Type *</label>
+              <select class="cert-input" style="width:100%">
+                <option>Beauty Academy / Salon Training</option>
+                <option>ITI / Polytechnic</option>
+                <option>NGO / Skill Development Center</option>
+                <option>Coaching Institute</option>
+                <option>Individual Trainer</option>
+                <option>Corporate Training Dept.</option>
+              </select>
+            </div>
+            <div>
+              <label style="font-size:13px;color:var(--muted);display:block;margin-bottom:6px">Trades of Interest *</label>
+              <div style="display:flex;flex-wrap:wrap;gap:8px">
+                <label style="display:flex;align-items:center;gap:6px;font-size:13px;cursor:pointer"><input type="checkbox" checked> Beautician</label>
+                <label style="display:flex;align-items:center;gap:6px;font-size:13px;cursor:pointer"><input type="checkbox"> Electrician</label>
+                <label style="display:flex;align-items:center;gap:6px;font-size:13px;cursor:pointer"><input type="checkbox"> Mobile Repair</label>
+                <label style="display:flex;align-items:center;gap:6px;font-size:13px;cursor:pointer"><input type="checkbox"> Plumber</label>
+                <label style="display:flex;align-items:center;gap:6px;font-size:13px;cursor:pointer"><input type="checkbox"> Computer</label>
+              </div>
+            </div>
+            <div>
+              <label style="font-size:13px;color:var(--muted);display:block;margin-bottom:6px">Expected Monthly Students</label>
+              <input class="cert-input" style="width:100%" placeholder="e.g. 50" type="number">
+            </div>
+            <button class="btn-primary" style="width:100%;padding:14px;font-size:16px">Submit Application →</button>
+            <div style="font-size:12px;color:var(--muted);text-align:center">Team 24 ghante mein WhatsApp pe contact karegi</div>
+          </div>
+        </div>
+        <div>
+          <div style="font-family:'Syne',sans-serif;font-size:20px;font-weight:700;margin-bottom:24px;color:var(--text)">Partner Benefits</div>
+          <div style="display:flex;flex-direction:column;gap:16px">
+            <div style="background:var(--bg);border-radius:12px;padding:20px;display:flex;gap:16px;align-items:center">
+              <div style="font-size:32px">💰</div>
+              <div><div style="font-weight:600;margin-bottom:4px">₹200–₹300 per student</div><div style="font-size:13px;color:var(--muted)">Monthly payout on 1st of every month directly to bank account</div></div>
+            </div>
+            <div style="background:var(--bg);border-radius:12px;padding:20px;display:flex;gap:16px;align-items:center">
+              <div style="font-size:32px">🏆</div>
+              <div><div style="font-weight:600;margin-bottom:4px">CETC Authorized Partner Certificate</div><div style="font-size:13px;color:var(--muted)">ISO certified body ka authorized center — institute ki credibility badhegi</div></div>
+            </div>
+            <div style="background:var(--bg);border-radius:12px;padding:20px;display:flex;gap:16px;align-items:center">
+              <div style="font-size:32px">📊</div>
+              <div><div style="font-weight:600;margin-bottom:4px">Partner Dashboard</div><div style="font-size:13px;color:var(--muted)">Real-time results, batch management, earnings tracker — sabkuch ek jagah</div></div>
+            </div>
+            <div style="background:var(--bg);border-radius:12px;padding:20px;display:flex;gap:16px;align-items:center">
+              <div style="font-size:32px">📦</div>
+              <div><div style="font-weight:600;margin-bottom:4px">Free Branding Kit</div><div style="font-size:13px;color:var(--muted)">CETC logo, banners, brochures — print karo aur institute mein lagao</div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════ ADMIN PAGE ═══════ -->
+  <div class="page" id="page-admin">
+    <div class="admin-layout">
+      <div class="admin-sidebar">
+        <div style="font-family:'Syne',sans-serif;font-size:15px;font-weight:700;color:white;margin-bottom:28px">CETC Admin</div>
+        <ul class="admin-menu">
+          <li class="active">📊 Dashboard</li>
+          <li>👥 Candidates</li>
+          <li>🏫 Partners (AAC)</li>
+          <li>📝 Question Bank</li>
+          <li>📜 Certificates</li>
+          <li>💳 Payments</li>
+          <li>🔔 Notifications</li>
+          <li>📈 Reports</li>
+          <li>⚙️ Settings</li>
+        </ul>
+      </div>
+      <div class="admin-content">
+        <div class="admin-title">Dashboard</div>
+        <div class="admin-date">Thursday, 19 March 2026 — Live data</div>
+        <div class="metrics">
+          <div class="metric">
+            <div class="metric-label">Total Certifications</div>
+            <div class="metric-val">12,847</div>
+            <div class="metric-change">↑ 234 this month</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">Revenue (This Month)</div>
+            <div class="metric-val">₹2.3L</div>
+            <div class="metric-change">↑ 18% vs last month</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">Active Partners</div>
+            <div class="metric-val">487</div>
+            <div class="metric-change">↑ 23 new this month</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">Pass Rate (Avg)</div>
+            <div class="metric-val">74%</div>
+            <div class="metric-change">↑ 3% vs last month</div>
+          </div>
+        </div>
+        <div class="chart-bar-wrap">
+          <div class="chart-title">Monthly Certifications — 2025</div>
+          <div class="bar-chart">
+            <div class="bar-col"><div class="bar" style="height:40px"></div><div class="bar-label">Jan</div></div>
+            <div class="bar-col"><div class="bar" style="height:56px"></div><div class="bar-label">Feb</div></div>
+            <div class="bar-col"><div class="bar" style="height:72px"></div><div class="bar-label">Mar</div></div>
+            <div class="bar-col"><div class="bar" style="height:60px"></div><div class="bar-label">Apr</div></div>
+            <div class="bar-col"><div class="bar" style="height:90px"></div><div class="bar-label">May</div></div>
+            <div class="bar-col"><div class="bar" style="height:80px"></div><div class="bar-label">Jun</div></div>
+            <div class="bar-col"><div class="bar" style="height:100px"></div><div class="bar-label">Jul</div></div>
+            <div class="bar-col"><div class="bar" style="height:110px"></div><div class="bar-label">Aug</div></div>
+            <div class="bar-col"><div class="bar" style="height:95px"></div><div class="bar-label">Sep</div></div>
+            <div class="bar-col"><div class="bar" style="height:120px"></div><div class="bar-label">Oct</div></div>
+            <div class="bar-col"><div class="bar" style="height:130px"></div><div class="bar-label">Nov</div></div>
+            <div class="bar-col"><div class="bar" style="height:140px;background:var(--gold)"></div><div class="bar-label">Dec</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /browser -->
+
+<!-- WhatsApp button -->
+<div class="wa-btn" title="Chat on WhatsApp">💬</div>
+
+<script>
+const pages = ['home','courses','exam','verify','partner','admin'];
+const urls = {
+  home: 'cetcfoundation.org',
+  courses: 'cetcfoundation.org/certifications',
+  exam: 'cetcfoundation.org/exam/beautician',
+  verify: 'cetcfoundation.org/verify',
+  partner: 'cetcfoundation.org/partner',
+  admin: 'cetcfoundation.org/admin/dashboard'
+};
+
+function showPage(id) {
+  pages.forEach(p => {
+    document.getElementById('page-'+p).classList.remove('active');
+    const nav = document.getElementById('nav-'+p);
+    if(nav) nav.classList.remove('active');
+  });
+  document.getElementById('page-'+id).classList.add('active');
+  const nav = document.getElementById('nav-'+id);
+  if(nav) nav.classList.add('active');
+  document.getElementById('url-bar').textContent = '🔒 ' + urls[id];
+  document.querySelector('.browser').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+function selectOpt(el) {
+  document.querySelectorAll('.option').forEach(o => o.classList.remove('selected'));
+  el.classList.add('selected');
+}
+
+function verifyCert() {
+  document.getElementById('verify-result').classList.add('show');
+}
+
+// Timer countdown
+let secs = 47*60+23;
+setInterval(() => {
+  secs--;
+  if(secs < 0) secs = 0;
+  const m = Math.floor(secs/60).toString().padStart(2,'0');
+  const s = (secs%60).toString().padStart(2,'0');
+  const el = document.getElementById('timer');
+  if(el) el.textContent = m+':'+s;
+  if(secs < 600 && el) el.style.color = '#E53E3E';
+}, 1000);
+</script>
+</body>
+</html>

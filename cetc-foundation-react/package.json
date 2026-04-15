@@ -1,0 +1,24 @@
+{
+  "name": "cetc-foundation-react",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "stitch:export": "node scripts/export-stitch-screens.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.13.2",
+    "stitch": "^0.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "typescript": "~5.9.3",
+    "vite": "^5.4.21"
+  }
+}
