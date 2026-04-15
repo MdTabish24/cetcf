@@ -1,12 +1,12 @@
 services:
   - type: web
-    name: cetcf-api
+    name: cetcf-app
     runtime: node
     plan: free
     branch: main
     autoDeploy: true
-    buildCommand: cd server && npm ci
-    startCommand: cd server && npm start
+    buildCommand: npm ci && npm run build && npm --prefix server ci
+    startCommand: npm --prefix server start
     healthCheckPath: /api/health
     envVars:
       - key: NODE_ENV
@@ -14,6 +14,8 @@ services:
       - key: TRUST_PROXY
         value: "true"
       - key: DEV_MODE
+        value: "false"
+      - key: STRICT_ENV_VALIDATION
         value: "false"
       - key: DB_HOST
         fromDatabase:
@@ -75,22 +77,6 @@ services:
         sync: false
       - key: ADMIN_INITIAL_PASSWORD
         sync: false
-
-  - type: web
-    name: cetcf-web
-    runtime: static
-    plan: free
-    branch: main
-    autoDeploy: true
-    buildCommand: npm ci && npm run build
-    staticPublishPath: ./dist
-    routes:
-      - type: rewrite
-        source: /*
-        destination: /index.html
-    envVars:
-      - key: VITE_API_URL
-        value: https://cetcf-api.onrender.com/api
 
 databases:
   - name: cetcf-postgres

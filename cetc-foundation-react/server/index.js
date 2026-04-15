@@ -32,6 +32,9 @@ const adminRoutes = require('./routes/admin');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
+const frontendDistDir = path.resolve(__dirname, '..', 'dist');
+const frontendIndexFile = path.join(frontendDistDir, 'index.html');
+const hasFrontendBuild = fs.existsSync(frontendIndexFile);
 
 const envCheck = validateEnv();
 if (envCheck.warnings.length) {
@@ -128,6 +131,14 @@ app.use('/api/certificates', certificateRoutes);
 app.use('/api/partners', partnerRoutes);
 app.use('/api/admin', adminRoutes);
 
+// Serve frontend build from the same service when dist is available.
+if (hasFrontendBuild) {
+  app.use(express.static(frontendDistDir));
+  app.get(/^\/(?!api(?:\/|$)|uploads(?:\/|$)).*/, (req, res) => {
+    return res.sendFile(frontendIndexFile);
+  });
+}
+
 // ── Health Check ──────────────────────────────────────────────────────
 app.get('/api/health', async (req, res) => {
   const dbOk = await testConnection().catch(() => false);
@@ -162,6 +173,10 @@ app.get('/api', (req, res) => {
 
 // ── 404 Handler ───────────────────────────────────────────────────────
 app.use((req, res) => {
+  if (hasFrontendBuild && !req.path.startsWith('/api') && !req.path.startsWith('/uploads')) {
+    return res.sendFile(frontendIndexFile);
+  }
+
   return res.status(404).json({
     success: false,
     message: `Route not found: ${req.method} ${req.path}`,
