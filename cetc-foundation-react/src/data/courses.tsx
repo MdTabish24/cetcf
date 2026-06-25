@@ -3,6 +3,9 @@
  * Auto-generated from CETCF_Course_List.xlsx
  */
 
+import React from 'react';
+import { Sparkles, HeartPulse, Monitor, Zap, HardHat, Car, Utensils, Scissors, Sprout, Stethoscope, BookOpen, Camera, MessageCircle, Dumbbell, Wrench, Leaf, Star, Shield, Terminal, Shirt, Briefcase, Baby, Palette, ClipboardList } from 'lucide-react';
+
 export interface Course {
   sno: number;
   name: string;
@@ -11,14 +14,14 @@ export interface Course {
   level: 'Foundation' | 'Intermediate' | 'Advanced';
   slug: string;
   fee: number;
-  icon: string;
+  icon: React.ReactNode;
 }
 
 export interface Sector {
   name: string;
   color: string;
   accent: string;
-  icon: string;
+  icon: React.ReactNode;
   count: number;
 }
 
@@ -32,31 +35,31 @@ function slugify(name: string): string {
     .replace(/^-|-$/g, '');
 }
 
-const SECTOR_META: Record<string, { color: string; accent: string; icon: string }> = {
-  'Beauty & Lifestyle':                          { color: '#C2185B', accent: '#D4A017', icon: '💄' },
-  'Wellness & Alternative Therapy':              { color: '#00897B', accent: '#D4A017', icon: '🧘' },
-  'Digital & Information Technology':             { color: '#1565C0', accent: '#00BCD4', icon: '💻' },
-  'Electrical & Electronics Trades':              { color: '#F57F17', accent: '#E64A19', icon: '⚡' },
-  'Construction & Building Trades':               { color: '#5D4037', accent: '#E65100', icon: '🏗️' },
-  'Automobile & Motor Trades':                    { color: '#C62828', accent: '#455A64', icon: '🚗' },
-  'Food, Catering & Hospitality':                 { color: '#E65100', accent: '#5D4037', icon: '🍳' },
-  'Fashion, Tailoring & Textiles':                { color: '#6A1B9A', accent: '#E91E8C', icon: '🧵' },
-  'Agriculture & Rural Livelihood':               { color: '#2E7D32', accent: '#5D4037', icon: '🌾' },
-  'Healthcare & Medical Support':                 { color: '#00838F', accent: '#1565C0', icon: '🏥' },  // not in current Excel but kept for compat
-  'Education & Early Childhood':                  { color: '#283593', accent: '#D4A017', icon: '📚' },
-  'Media, Photography & Content Creation':        { color: '#4527A0', accent: '#E91E8C', icon: '📸' },
-  'Spoken Languages & Communication':             { color: '#006064', accent: '#00897B', icon: '🗣️' },
-  'Sports, Fitness & Recreation':                 { color: '#B71C1C', accent: '#0D1B3E', icon: '🏃' },
-  'Plumbing, Sanitation & Water':                 { color: '#37474F', accent: '#00897B', icon: '🔧' },
-  'Environmental & Green Skills':                 { color: '#1B5E20', accent: '#4CAF50', icon: '🌿' },
-  'Religious & Spiritual Education':              { color: '#BF360C', accent: '#FF6F00', icon: '🙏' },
-  'Security & Facility Management':               { color: '#0D1B3E', accent: '#455A64', icon: '🛡️' },
-  'Advanced Beauty, Cosmetology & Aesthetics':     { color: '#AD1457', accent: '#D4A017', icon: '✨' },
-  'Advanced IT, Programming & Tech Skills':        { color: '#0D47A1', accent: '#00E676', icon: '🖥️' },
-  'Apparel Design, Pattern Making & Fashion Technology': { color: '#7B1FA2', accent: '#E91E8C', icon: '👗' },
-  'Business, Retail & Finance':                   { color: '#1565C0', accent: '#D4A017', icon: '💼' },
-  'Child Care & Domestic Services':                { color: '#E91E63', accent: '#FF8A80', icon: '👶' },
-  'Handicrafts & Creative Arts':                   { color: '#795548', accent: '#FF9800', icon: '🎨' },
+const SECTOR_META: Record<string, { color: string; accent: string; icon: React.ReactNode }> = {
+  'Beauty & Lifestyle':                          { color: '#C2185B', accent: '#D4A017', icon: <Sparkles size={16} /> },
+  'Wellness & Alternative Therapy':              { color: '#00897B', accent: '#D4A017', icon: <HeartPulse size={16} /> },
+  'Digital & Information Technology':             { color: '#1565C0', accent: '#00BCD4', icon: <Monitor size={16} /> },
+  'Electrical & Electronics Trades':              { color: '#F57F17', accent: '#E64A19', icon: <Zap size={16} /> },
+  'Construction & Building Trades':               { color: '#5D4037', accent: '#E65100', icon: <HardHat size={16} /> },
+  'Automobile & Motor Trades':                    { color: '#C62828', accent: '#455A64', icon: <Car size={16} /> },
+  'Food, Catering & Hospitality':                 { color: '#E65100', accent: '#5D4037', icon: <Utensils size={16} /> },
+  'Fashion, Tailoring & Textiles':                { color: '#6A1B9A', accent: '#E91E8C', icon: <Scissors size={16} /> },
+  'Agriculture & Rural Livelihood':               { color: '#2E7D32', accent: '#5D4037', icon: <Sprout size={16} /> },
+  'Healthcare & Medical Support':                 { color: '#00838F', accent: '#1565C0', icon: <Stethoscope size={16} /> },
+  'Education & Early Childhood':                  { color: '#283593', accent: '#D4A017', icon: <BookOpen size={16} /> },
+  'Media, Photography & Content Creation':        { color: '#4527A0', accent: '#E91E8C', icon: <Camera size={16} /> },
+  'Spoken Languages & Communication':             { color: '#006064', accent: '#00897B', icon: <MessageCircle size={16} /> },
+  'Sports, Fitness & Recreation':                 { color: '#B71C1C', accent: '#0D1B3E', icon: <Dumbbell size={16} /> },
+  'Plumbing, Sanitation & Water':                 { color: '#37474F', accent: '#00897B', icon: <Wrench size={16} /> },
+  'Environmental & Green Skills':                 { color: '#1B5E20', accent: '#4CAF50', icon: <Leaf size={16} /> },
+  'Religious & Spiritual Education':              { color: '#BF360C', accent: '#FF6F00', icon: <Star size={16} /> },
+  'Security & Facility Management':               { color: '#0D1B3E', accent: '#455A64', icon: <Shield size={16} /> },
+  'Advanced Beauty, Cosmetology & Aesthetics':     { color: '#AD1457', accent: '#D4A017', icon: <Sparkles size={16} /> },
+  'Advanced IT, Programming & Tech Skills':        { color: '#0D47A1', accent: '#00E676', icon: <Terminal size={16} /> },
+  'Apparel Design, Pattern Making & Fashion Technology': { color: '#7B1FA2', accent: '#E91E8C', icon: <Shirt size={16} /> },
+  'Business, Retail & Finance':                   { color: '#1565C0', accent: '#D4A017', icon: <Briefcase size={16} /> },
+  'Child Care & Domestic Services':                { color: '#E91E63', accent: '#FF8A80', icon: <Baby size={16} /> },
+  'Handicrafts & Creative Arts':                   { color: '#795548', accent: '#FF9800', icon: <Palette size={16} /> },
 };
 
 function getFee(level: string): number {
@@ -67,8 +70,8 @@ function getFee(level: string): number {
   }
 }
 
-function getIcon(sector: string): string {
-  return SECTOR_META[sector]?.icon || '📋';
+function getIcon(sector: string): React.ReactNode {
+  return SECTOR_META[sector]?.icon || <ClipboardList size={16} />;
 }
 
 // Raw course data — auto-generated from CETCF_Course_List.xlsx (225 courses, 23 sectors)
@@ -323,7 +326,7 @@ export const SECTORS: Sector[] = Object.entries(
   name,
   color: SECTOR_META[name]?.color || '#0D1B3E',
   accent: SECTOR_META[name]?.accent || '#D4A017',
-  icon: SECTOR_META[name]?.icon || '📋',
+  icon: SECTOR_META[name]?.icon || <ClipboardList size={16} />,
   count,
 })).sort((a, b) => b.count - a.count);
 

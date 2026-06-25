@@ -44,7 +44,7 @@ export default function AppLayout() {
                 to="/login"
                 className="nav-link-login"
                 onClick={() => setMenuOpen(false)}
-                style={{ display: 'flex', alignItems: 'center', gap: '6px', fontWeight: 600, color: 'var(--cetc-gold)' }}
+                style={{ display: 'flex', alignItems: 'center', gap: '6px', fontWeight: 600, color: '#ffffff' }}
               >
                 <LogIn size={18} /> Login
               </Link>
