@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { Wallet, Landmark, ClipboardCheck, Handshake } from 'lucide-react';
 import api, { getUser, setToken, setUser, clearToken } from '../services/api';
 
 export default function PartnerPage() {
@@ -51,7 +52,18 @@ export default function PartnerPage() {
   const handleApply = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      const res = await api.partners.register(formData);
+      const payload = {
+        contact_name: formData.name,
+        mobile: formData.phone,
+        email: formData.email,
+        district: formData.city,
+        state: formData.state,
+        org_name: formData.centerName || `${formData.name}'s Center`,
+        address: formData.message,
+        org_type: 'Other',
+        expected_monthly_students: 0
+      };
+      const res = await api.partners.register(payload);
       if (res.success) {
         alert('Application submitted successfully! We will contact you soon.');
         setFormData({ name: '', phone: '', email: '', city: '', state: '', centerName: '', message: '' });
@@ -275,12 +287,12 @@ export default function PartnerPage() {
                 <h2 className="sec-title">AAC Partner Benefits</h2>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '16px', marginTop: '32px' }}>
                   {[
-                    { icon: '💰', title: 'Earn Per Certification', desc: 'Receive a commission for every candidate you certify.' },
-                    { icon: '🏛️', title: 'Government Recognition', desc: 'Your center operates under CETCF\'s Section 8 license.' },
-                    { icon: '📋', title: 'Ready-to-Use Exams', desc: 'We provide MCQs, online platform, and study materials.' }
+                    { icon: <Wallet size={36} color="var(--cetc-gold)" />, title: 'Earn Per Certification', desc: 'Receive a commission for every candidate you certify.' },
+                    { icon: <Landmark size={36} color="var(--cetc-gold)" />, title: 'Government Recognition', desc: 'Your center operates under CETCF\'s Section 8 license.' },
+                    { icon: <ClipboardCheck size={36} color="var(--cetc-gold)" />, title: 'Ready-to-Use Exams', desc: 'We provide MCQs, online platform, and study materials.' }
                   ].map((item, i) => (
                     <div key={i} className="card" style={{ padding: '24px', textAlign: 'center' }}>
-                      <div style={{ fontSize: '36px', marginBottom: '12px' }}>{item.icon}</div>
+                      <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px' }}>{item.icon}</div>
                       <h3 style={{ fontSize: '16px', fontWeight: 700, color: 'var(--navy)', marginBottom: '8px' }}>{item.title}</h3>
                       <p style={{ fontSize: '13px', color: 'var(--muted)', lineHeight: 1.6 }}>{item.desc}</p>
                     </div>
@@ -320,7 +332,9 @@ export default function PartnerPage() {
                       </div>
                     </div>
                     <div style={{ textAlign: 'center', marginTop: '24px' }}>
-                      <button type="submit" className="btn btn-gold btn-lg">🤝 Submit Application</button>
+                      <button type="submit" className="btn btn-gold btn-lg" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                        <Handshake size={18} /> Submit Application
+                      </button>
                     </div>
                   </div>
                 </form>

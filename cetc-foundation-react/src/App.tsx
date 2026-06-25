@@ -9,6 +9,7 @@ import PartnerPage from './pages/PartnerPage';
 import VerifyPage from './pages/VerifyPage';
 import StudentDashboardPage from './pages/StudentDashboardPage';
 import VideoPlayerPage from './pages/VideoPlayerPage';
+import LoginPage from './pages/LoginPage';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="exam" element={<ExamPage />} />
         <Route path="verify" element={<VerifyPage />} />
         <Route path="partner" element={<PartnerPage />} />
+        <Route path="login" element={<LoginPage />} />
         <Route path="admin" element={<AdminPage />} />
         <Route path="dashboard" element={<StudentDashboardPage />} />
         <Route path="video/:tradeId" element={<VideoPlayerPage />} />

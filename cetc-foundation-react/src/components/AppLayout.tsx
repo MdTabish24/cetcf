@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Link, NavLink, Outlet } from 'react-router-dom';
+import { GraduationCap, MapPin, Mail, Phone, Send, LogIn } from 'lucide-react';
 
 export default function AppLayout() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -40,12 +41,23 @@ export default function AppLayout() {
             ))}
             <li>
               <Link
+                to="/login"
+                className="nav-link-login"
+                onClick={() => setMenuOpen(false)}
+                style={{ display: 'flex', alignItems: 'center', gap: '6px', fontWeight: 600, color: 'var(--cetc-gold)' }}
+              >
+                <LogIn size={18} /> Login
+              </Link>
+            </li>
+            <li>
+              <Link
                 to="/exam"
                 className="nav-cta"
                 onClick={() => setMenuOpen(false)}
                 id="nav-cta-exam"
+                style={{ display: 'flex', alignItems: 'center', gap: '6px' }}
               >
-                🎓 Get Certified
+                <GraduationCap size={18} /> Get Certified
               </Link>
             </li>
           </ul>
@@ -118,12 +130,12 @@ export default function AppLayout() {
             <div>
               <h4 className="footer-heading">Contact Us</h4>
               <ul className="footer-links">
-                <li>📍 Thane, Maharashtra, India</li>
-                <li>📧 info@cetcf.org</li>
-                <li>📞 +91 XXXX XXXX XX</li>
+                <li style={{ display: 'flex', alignItems: 'center', gap: '8px' }}><MapPin size={16} /> Thane, Maharashtra, India</li>
+                <li style={{ display: 'flex', alignItems: 'center', gap: '8px' }}><Mail size={16} /> info@cetcf.org</li>
+                <li style={{ display: 'flex', alignItems: 'center', gap: '8px' }}><Phone size={16} /> +91 XXXX XXXX XX</li>
                 <li style={{ marginTop: '12px' }}>
-                  <Link to="/contact" className="btn btn-sm btn-outline" style={{ borderColor: 'rgba(255,255,255,0.2)', color: 'rgba(255,255,255,0.6)' }}>
-                    📩 Send Enquiry
+                  <Link to="/contact" className="btn btn-sm btn-outline" style={{ borderColor: 'rgba(255,255,255,0.2)', color: 'rgba(255,255,255,0.6)', display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                    <Send size={16} /> Send Enquiry
                   </Link>
                 </li>
               </ul>

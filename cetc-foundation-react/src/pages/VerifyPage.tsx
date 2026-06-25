@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Search, Hourglass, Lock, Zap, Download, XCircle, ClipboardCheck, Smartphone, Mail } from 'lucide-react';
 import api from '../services/api';
 
 export default function VerifyPage() {
@@ -59,7 +60,7 @@ export default function VerifyPage() {
         <div className="wrap-sm">
           <div className="verify-card" id="verify-card">
             <div style={{ textAlign: 'center', marginBottom: '24px' }}>
-              <div style={{ fontSize: '48px', marginBottom: '12px' }}>🔍</div>
+              <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px', color: 'var(--cetc-gold)' }}><Search size={48} /></div>
               <h2 style={{ fontFamily: 'var(--font-display)', fontSize: '22px', color: 'var(--navy)', marginBottom: '6px' }}>
                 Certificate Verification Portal
               </h2>
@@ -83,18 +84,19 @@ export default function VerifyPage() {
                   className="btn btn-gold"
                   disabled={loading || !certNumber.trim()}
                   id="verify-submit-btn"
+                  style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}
                 >
-                  {loading ? '⏳ Verifying...' : '🔍 Verify'}
+                  {loading ? <><Hourglass size={18} /> Verifying...</> : <><Search size={18} /> Verify</>}
                 </button>
               </div>
             </form>
 
             <div style={{ display: 'flex', gap: '16px', marginTop: '20px', justifyContent: 'center' }}>
               <span style={{ fontSize: '12px', color: 'var(--muted)', display: 'flex', alignItems: 'center', gap: '4px' }}>
-                🔒 Secure & Encrypted
+                <Lock size={14} /> Secure & Encrypted
               </span>
               <span style={{ fontSize: '12px', color: 'var(--muted)', display: 'flex', alignItems: 'center', gap: '4px' }}>
-                ⚡ Instant Results
+                <Zap size={14} /> Instant Results
               </span>
             </div>
 
@@ -129,8 +131,8 @@ export default function VerifyPage() {
                 
                 {certData.pdfUrl && (
                   <div style={{ marginTop: '20px', textAlign: 'center' }}>
-                     <a href={certData.pdfUrl} target="_blank" rel="noreferrer" className="btn btn-outline" style={{ fontSize: '13px' }}>
-                       📥 Download PDF Copy
+                     <a href={certData.pdfUrl} target="_blank" rel="noreferrer" className="btn btn-outline" style={{ fontSize: '13px', display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                       <Download size={16} /> Download PDF Copy
                      </a>
                   </div>
                 )}
@@ -146,7 +148,7 @@ export default function VerifyPage() {
                 background: 'rgba(198,40,40,0.04)',
                 textAlign: 'center',
               }} id="verify-result-notfound">
-                <div style={{ fontSize: '36px', marginBottom: '8px' }}>❌</div>
+                <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '8px', color: 'var(--danger)' }}><XCircle size={36} /></div>
                 <div style={{ fontSize: '16px', fontWeight: 700, color: 'var(--danger)' }}>Verification Failed</div>
                 <p style={{ fontSize: '13px', color: 'var(--muted)', marginTop: '6px' }}>
                   {errorMessage}
@@ -158,12 +160,12 @@ export default function VerifyPage() {
           {/* Info Cards */}
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '12px', marginTop: '32px', flexWrap: 'wrap' }}>
             {[
-              { icon: '📋', title: 'Where to find it?', desc: 'The certificate number is printed in the top-right corner of your CETCF certificate.' },
-              { icon: '📱', title: 'QR Code', desc: 'You can also scan the QR code on your certificate using any smartphone camera.' },
-              { icon: '📧', title: 'Need Help?', desc: 'Contact info@cetcf.org or call us for verification assistance.' },
+              { icon: <ClipboardCheck size={28} />, title: 'Where to find it?', desc: 'The certificate number is printed in the top-right corner of your CETCF certificate.' },
+              { icon: <Smartphone size={28} />, title: 'QR Code', desc: 'You can also scan the QR code on your certificate using any smartphone camera.' },
+              { icon: <Mail size={28} />, title: 'Need Help?', desc: 'Contact info@cetcf.org or call us for verification assistance.' },
             ].map((item, i) => (
               <div key={i} className="card" style={{ padding: '20px', textAlign: 'center' }}>
-                <div style={{ fontSize: '28px', marginBottom: '8px' }}>{item.icon}</div>
+                <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '8px', color: 'var(--navy)' }}>{item.icon}</div>
                 <h4 style={{ fontSize: '14px', fontWeight: 600, color: 'var(--navy)', marginBottom: '6px' }}>{item.title}</h4>
                 <p style={{ fontSize: '12px', color: 'var(--muted)', lineHeight: 1.5 }}>{item.desc}</p>
               </div>

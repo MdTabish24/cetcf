@@ -1,5 +1,6 @@
 import { useParams, Link, Navigate, useNavigate } from 'react-router-dom';
 import { useState } from 'react';
+import { Star, Tag, Calendar, Book, Clock, Laptop, Wallet, CheckCircle, FileText, Camera, GraduationCap, Zap, X } from 'lucide-react';
 import { getCourseBySlug, SECTORS } from '../data/courses';
 import api, { initiatePayment, getUser, setToken, setUser } from '../services/api';
 
@@ -104,8 +105,8 @@ export default function CourseDetailPage() {
           <div style={{ display: 'flex', gap: '12px', marginBottom: '16px', flexWrap: 'wrap' }}>
             <Link to="/courses" style={{ fontSize: '13px', color: 'rgba(255,255,255,0.4)' }}>← Back to Courses</Link>
           </div>
-          <div className="hero-eyebrow" style={{ background: `${color}25`, borderColor: `${color}50` }}>
-            <span>✦</span> CETCF Certified Program
+          <div className="hero-eyebrow" style={{ background: `${color}25`, borderColor: `${color}50`, display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
+            <Star size={14} /> CETCF Certified Program
           </div>
           <h1 style={{ marginBottom: '16px' }}>
             {course.name}
@@ -115,11 +116,11 @@ export default function CourseDetailPage() {
             Designed for both beginners and working professionals seeking formal certification.
           </p>
           <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
-            <span className="course-meta-tag" style={{ background: `${color}20`, color, border: `1px solid ${color}40` }}>
-              🏷️ Sector: {course.sector}
+            <span className="course-meta-tag" style={{ background: `${color}20`, color, border: `1px solid ${color}40`, display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
+              <Tag size={14} /> Sector: {course.sector}
             </span>
-            <span className="course-meta-tag" style={{ background: 'rgba(255,255,255,0.08)', color: 'rgba(255,255,255,0.7)', border: '1px solid rgba(255,255,255,0.12)' }}>
-              🗓️ Duration: {course.duration}
+            <span className="course-meta-tag" style={{ background: 'rgba(255,255,255,0.08)', color: 'rgba(255,255,255,0.7)', border: '1px solid rgba(255,255,255,0.12)', display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
+              <Calendar size={14} /> Duration: {course.duration}
             </span>
             <span className={`badge badge-${course.level.toLowerCase()}`}>
               {course.level}
@@ -134,15 +135,15 @@ export default function CourseDetailPage() {
           {/* Quick Stats */}
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))', gap: '12px', marginBottom: '48px' }}>
             {[
-              { icon: '🗓️', val: course.duration, key: 'Duration' },
-              { icon: '📚', val: '6 Units', key: 'Modules' },
-              { icon: '⏱️', val: `${totalHours} Hrs`, key: 'Total Hours' },
-              { icon: '💻', val: 'Online', key: 'Exam Mode' },
-              { icon: '💰', val: `₹${course.fee.toLocaleString('en-IN')}`, key: 'Exam Fee' },
-              { icon: '✅', val: '50%', key: 'Pass Mark' },
+              { icon: <Calendar size={24} />, val: course.duration, key: 'Duration' },
+              { icon: <Book size={24} />, val: '6 Units', key: 'Modules' },
+              { icon: <Clock size={24} />, val: `${totalHours} Hrs`, key: 'Total Hours' },
+              { icon: <Laptop size={24} />, val: 'Online', key: 'Exam Mode' },
+              { icon: <Wallet size={24} />, val: `₹${course.fee.toLocaleString('en-IN')}`, key: 'Exam Fee' },
+              { icon: <CheckCircle size={24} />, val: '50%', key: 'Pass Mark' },
             ].map((s, i) => (
               <div key={i} className="card" style={{ padding: '20px', textAlign: 'center' }}>
-                <div style={{ fontSize: '24px', marginBottom: '8px' }}>{s.icon}</div>
+                <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '8px', color: 'var(--cetc-gold)' }}>{s.icon}</div>
                 <div style={{ fontSize: '18px', fontWeight: 700, color: 'var(--navy)' }}>{s.val}</div>
                 <div style={{ fontSize: '11px', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.04em', marginTop: '2px' }}>{s.key}</div>
               </div>
@@ -160,7 +161,7 @@ export default function CourseDetailPage() {
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px', marginTop: '28px' }}>
               <div className="card" style={{ padding: '24px', textAlign: 'center', position: 'relative', overflow: 'hidden' }}>
                 <div style={{ position: 'absolute', top: 0, left: 0, right: 0, height: '3px', background: 'linear-gradient(90deg, #1A2B7A, #4A6BCA)' }}></div>
-                <div style={{ fontSize: '32px', marginBottom: '12px' }}>📝</div>
+                <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px', color: '#1A2B7A' }}><FileText size={32} /></div>
                 <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--navy)', marginBottom: '6px' }}>Theory — MCQ</div>
                 <div style={{ fontSize: '24px', fontWeight: 700, color: '#1A2B7A', marginBottom: '4px' }}>50 Marks</div>
                 <div style={{ fontSize: '12px', color: 'var(--muted)', lineHeight: 1.6 }}>
@@ -169,7 +170,7 @@ export default function CourseDetailPage() {
               </div>
               <div className="card" style={{ padding: '24px', textAlign: 'center', position: 'relative', overflow: 'hidden' }}>
                 <div style={{ position: 'absolute', top: 0, left: 0, right: 0, height: '3px', background: 'linear-gradient(90deg, var(--success), #4ABCA0)' }}></div>
-                <div style={{ fontSize: '32px', marginBottom: '12px' }}>📸</div>
+                <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px', color: 'var(--success)' }}><Camera size={32} /></div>
                 <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--navy)', marginBottom: '6px' }}>Practical — Portfolio Upload</div>
                 <div style={{ fontSize: '24px', fontWeight: 700, color: 'var(--success)', marginBottom: '4px' }}>50 Marks</div>
                 <div style={{ fontSize: '12px', color: 'var(--muted)', lineHeight: 1.6 }}>
@@ -295,16 +296,17 @@ export default function CourseDetailPage() {
                 onClick={() => handleAction('video')}
                 className="btn btn-gold" 
                 disabled={loading}
+                style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}
               >
-                🎓 Buy Video Course — ₹{(course.fee + 500).toLocaleString('en-IN')}
+                <GraduationCap size={18} /> Buy Video Course — ₹{(course.fee + 500).toLocaleString('en-IN')}
               </button>
               <button 
                 onClick={() => handleAction('rpl')}
                 className="btn btn-outline" 
                 disabled={loading}
-                style={{ background: 'rgba(255,255,255,0.1)' }}
+                style={{ background: 'rgba(255,255,255,0.1)', display: 'inline-flex', alignItems: 'center', gap: '8px' }}
               >
-                ⚡ Direct RPL Exam — ₹{course.fee.toLocaleString('en-IN')}
+                <Zap size={18} /> Direct RPL Exam — ₹{course.fee.toLocaleString('en-IN')}
               </button>
               {error && <div style={{ width: '100%', color: '#ff6b6b', fontSize: '14px', marginTop: '8px' }}>{error}</div>}
             </div>
@@ -322,8 +324,8 @@ export default function CourseDetailPage() {
           <div className="card" style={{ padding: '32px', width: '100%', maxWidth: '400px', position: 'relative' }}>
             <button 
               onClick={() => setShowAuth(false)}
-              style={{ position: 'absolute', top: '16px', right: '16px', background: 'none', border: 'none', color: '#fff', fontSize: '20px', cursor: 'pointer' }}
-            >✕</button>
+              style={{ position: 'absolute', top: '16px', right: '16px', background: 'none', border: 'none', color: '#fff', cursor: 'pointer', display: 'flex' }}
+            ><X size={20} /></button>
             <h3 style={{ marginBottom: '16px', color: '#fff' }}>Login / Register</h3>
             <p style={{ color: 'var(--muted)', fontSize: '14px', marginBottom: '24px' }}>
               Please enter your mobile number to continue with purchase.

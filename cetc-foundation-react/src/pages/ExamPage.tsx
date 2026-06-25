@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
+import { AlertTriangle, Clock, ArrowLeft, ArrowRight, PartyPopper, Frown } from 'lucide-react';
 import api, { getUser } from '../services/api';
 import { COURSES } from '../data/courses';
 
@@ -189,7 +190,9 @@ export default function ExamPage() {
             <h2 style={{ marginBottom: '16px', color: '#fff', fontSize: '24px' }}>Start Exam: {currentCourse?.name || 'Certification'}</h2>
             
             <div style={{ background: 'rgba(198,40,40,0.04)', border: '1px solid rgba(198,40,40,0.15)', borderRadius: '12px', padding: '20px', marginBottom: '24px', textAlign: 'left' }}>
-              <h4 style={{ fontSize: '13px', fontWeight: 700, color: 'var(--danger)', marginBottom: '12px' }}>⚠️ EXAM RULES</h4>
+              <h4 style={{ fontSize: '13px', fontWeight: 700, color: 'var(--danger)', marginBottom: '12px', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <AlertTriangle size={18} color="var(--danger)" /> EXAM RULES
+              </h4>
               <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '6px' }}>
                 {[
                   'Once started, the exam cannot be paused or restarted.',
@@ -226,8 +229,8 @@ export default function ExamPage() {
                 {examData.tradeName}
               </div>
               <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
-                <div style={{ color: timeRemainingMs < 300000 ? '#ff6b6b' : 'var(--gold)', fontSize: '20px', fontWeight: 'bold' }}>
-                  ⏱️ {formatTime(timeRemainingMs)}
+                <div style={{ color: timeRemainingMs < 300000 ? '#ff6b6b' : 'var(--gold)', fontSize: '20px', fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <Clock size={20} /> {formatTime(timeRemainingMs)}
                 </div>
                 <button className="btn btn-primary" onClick={handleSubmitExam} disabled={loading}>
                   Submit Exam
@@ -282,15 +285,17 @@ export default function ExamPage() {
                     className="btn btn-outline" 
                     onClick={() => setCurrentQIdx(p => Math.max(0, p - 1))}
                     disabled={currentQIdx === 0}
+                    style={{ display: 'flex', alignItems: 'center', gap: '8px' }}
                   >
-                    ← Previous
+                    <ArrowLeft size={16} /> Previous
                   </button>
                   <button 
                     className="btn btn-outline" 
                     onClick={() => setCurrentQIdx(p => Math.min(questions.length - 1, p + 1))}
                     disabled={currentQIdx === questions.length - 1}
+                    style={{ display: 'flex', alignItems: 'center', gap: '8px' }}
                   >
-                    Next →
+                    Next <ArrowRight size={16} />
                   </button>
                 </div>
               </div>
@@ -337,8 +342,8 @@ export default function ExamPage() {
 
         {step === 'result' && resultData && (
           <div className="card" style={{ maxWidth: '600px', margin: '40px auto', padding: '40px', textAlign: 'center' }}>
-            <div style={{ fontSize: '64px', marginBottom: '16px' }}>
-              {resultData.passed ? '🎉' : '😔'}
+            <div style={{ fontSize: '64px', marginBottom: '16px', display: 'flex', justifyContent: 'center' }}>
+              {resultData.passed ? <PartyPopper size={64} color="var(--success)" /> : <Frown size={64} color="var(--danger)" />}
             </div>
             <h2 style={{ color: '#fff', marginBottom: '8px', fontSize: '28px' }}>
               {resultData.passed ? 'Congratulations! You Passed.' : 'Exam Failed'}

@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
+import { Play, FileText } from 'lucide-react';
 import api, { getUser, clearToken } from '../services/api';
 
 export default function StudentDashboardPage() {
@@ -88,12 +89,12 @@ export default function StudentDashboardPage() {
                     
                     <div style={{ display: 'flex', gap: '12px' }}>
                       {enrol.pathway === 'video' && (
-                        <Link to={`/video/${enrol.trade_id}`} className="btn btn-outline" style={{ background: 'rgba(255,255,255,0.1)' }}>
-                          ▶ Watch Videos
+                        <Link to={`/video/${enrol.trade_id}`} className="btn btn-outline" style={{ background: 'rgba(255,255,255,0.1)', display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                          <Play size={16} fill="currentColor" /> Watch Videos
                         </Link>
                       )}
-                      <Link to={`/exam?trade_id=${enrol.trade_id}`} className="btn btn-gold">
-                        📝 Start Exam
+                      <Link to={`/exam?trade_id=${enrol.trade_id}`} className="btn btn-gold" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                        <FileText size={16} /> Start Exam
                       </Link>
                     </div>
                   </div>

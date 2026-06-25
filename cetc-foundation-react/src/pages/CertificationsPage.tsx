@@ -1,5 +1,6 @@
 import { useState, useMemo } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
+import { Search, X, Calendar } from 'lucide-react';
 import { COURSES, SECTORS } from '../data/courses';
 
 export default function CertificationsPage() {
@@ -38,7 +39,7 @@ export default function CertificationsPage() {
         <div className="wrap">
           {/* Search Bar */}
           <div className="search-bar" id="course-search">
-            <span style={{ fontSize: '20px' }}>🔍</span>
+            <span style={{ fontSize: '20px', display: 'flex' }}><Search size={20} /></span>
             <input
               type="text"
               placeholder="Search courses... (e.g., Beautician, Python, Electrician)"
@@ -49,9 +50,9 @@ export default function CertificationsPage() {
             {search && (
               <button
                 onClick={() => setSearch('')}
-                style={{ background: 'none', fontSize: '16px', color: 'var(--muted)' }}
+                style={{ background: 'none', fontSize: '16px', color: 'var(--muted)', display: 'flex' }}
               >
-                ✕
+                <X size={16} />
               </button>
             )}
           </div>
@@ -125,7 +126,7 @@ export default function CertificationsPage() {
                       </div>
                       <h3 className="course-card-title">{course.name}</h3>
                       <div className="course-card-meta">
-                        <span className="course-meta-tag">🗓️ {course.duration}</span>
+                        <span className="course-meta-tag" style={{ display: 'inline-flex', alignItems: 'center', gap: '6px' }}><Calendar size={14} /> {course.duration}</span>
                         <span className={`badge badge-${course.level.toLowerCase()}`}>
                           {course.level}
                         </span>
@@ -143,7 +144,7 @@ export default function CertificationsPage() {
             </div>
           ) : (
             <div className="empty-state">
-              <div className="empty-icon">🔍</div>
+              <div className="empty-icon" style={{ display: 'flex', justifyContent: 'center', marginBottom: '16px', color: 'var(--muted)' }}><Search size={48} /></div>
               <h3 className="empty-title">No courses found</h3>
               <p className="empty-desc">Try adjusting your search or filters.</p>
             </div>
