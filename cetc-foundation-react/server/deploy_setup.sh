@@ -3,7 +3,7 @@ set -e
 
 echo "Starting Backend Setup..."
 
-cd /var/www/cetcf/server
+cd /var/www/cetcf/cetc-foundation-react/server
 
 echo "Installing Node dependencies..."
 npm install --production
