@@ -1,0 +1,1443 @@
+{
+  "course_name": "Tally Prime & GST Accounting",
+  "sector": "Digital & Information Technology",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Tally Prime & Basic Accounting Concepts",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Company Management & Chart of Accounts in Tally Prime",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Voucher Entry & Inventory Management",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "GST Fundamentals & Configuration in Tally Prime",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "GST Transactions & Reports",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Advanced Tally Prime Features & Data Management",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "What is the primary function of Tally Prime in a business context?",
+      "options": {
+        "A": "Video editing and graphic design",
+        "B": "Accounting and financial management",
+        "C": "Website development",
+        "D": "Customer relationship management"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tally Prime is primarily an accounting software used for managing financial transactions and business operations."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Which accounting concept states that every transaction has two aspects (debit and credit)?",
+      "options": {
+        "A": "Money Measurement Concept",
+        "B": "Dual Aspect Concept",
+        "C": "Going Concern Concept",
+        "D": "Cost Concept"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The Dual Aspect Concept is a fundamental principle stating that every financial transaction has two corresponding effects (debit and credit)."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Which type of account does 'Cash' fall under in accounting?",
+      "options": {
+        "A": "Personal Account",
+        "B": "Real Account",
+        "C": "Nominal Account",
+        "D": "Revenue Account"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cash is a tangible asset and therefore classified as a Real Account."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "According to the Golden Rules of Accounting, what should be debited when goods are purchased on credit?",
+      "options": {
+        "A": "Cash Account",
+        "B": "Creditor's Account",
+        "C": "Purchases Account",
+        "D": "Sales Account"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "When goods are purchased, the Purchases Account (a nominal account representing expense) is debited. The Creditor's Account is credited."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Which of the following is considered a liability for a business?",
+      "options": {
+        "A": "Building",
+        "B": "Cash in Hand",
+        "C": "Loan from Bank",
+        "D": "Furniture"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A loan from a bank represents an obligation of the business to pay back money, thus it is a liability."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "What is the shortcut key to shut a company in Tally Prime?",
+      "options": {
+        "A": "Ctrl+A",
+        "B": "Ctrl+F3",
+        "C": "Alt+F4",
+        "D": "F1"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ctrl+F3 is the shortcut key used to shut the currently loaded company in Tally Prime."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Where would you navigate in Tally Prime to view the Trial Balance?",
+      "options": {
+        "A": "Gateway of Tally > Vouchers",
+        "B": "Gateway of Tally > Masters > Ledgers",
+        "C": "Gateway of Tally > Display More Reports > Trial Balance",
+        "D": "Gateway of Tally > Utilities > Backup"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Trial Balance, a key financial report, is found under Display More Reports from the Gateway of Tally."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "What is a fundamental difference between Tally ERP 9 and Tally Prime regarding the user interface?",
+      "options": {
+        "A": "Tally Prime uses a command-line interface.",
+        "B": "Tally Prime has a more modern, menu-driven and 'Go To' feature for navigation.",
+        "C": "Tally Prime only works on Linux operating systems.",
+        "D": "Tally Prime lacks keyboard shortcuts."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tally Prime introduced a significantly redesigned user interface with a 'Go To' feature for easier navigation and a more modern look compared to Tally ERP 9."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Which of the following is NOT a primary feature of Tally Prime?",
+      "options": {
+        "A": "Inventory Management",
+        "B": "Payroll Processing",
+        "C": "Video Editing",
+        "D": "GST Compliance"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tally Prime is an accounting and business management software, not a video editing tool."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "The accounting equation is Assets = Liabilities + ______.",
+      "options": {
+        "A": "Expenses",
+        "B": "Revenue",
+        "C": "Capital",
+        "D": "Drawings"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The fundamental accounting equation is Assets = Liabilities + Capital (or Owner's Equity)."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Which type of account is 'Rent Paid'?",
+      "options": {
+        "A": "Personal Account",
+        "B": "Real Account",
+        "C": "Nominal Account",
+        "D": "Asset Account"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Rent Paid is an expense, and all expenses and incomes are classified as Nominal Accounts."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "If a business owner invests personal cash into the business, which account is credited?",
+      "options": {
+        "A": "Drawings Account",
+        "B": "Cash Account",
+        "C": "Capital Account",
+        "D": "Investment Account"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "When the owner invests cash, the Capital Account (representing owner's equity) is credited, and the Cash Account is debited."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "What is the main purpose of a 'Journal' in accounting?",
+      "options": {
+        "A": "To prepare financial statements",
+        "B": "To record transactions chronologically",
+        "C": "To summarize ledger balances",
+        "D": "To calculate profit or loss"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A journal is the book of original entry where transactions are first recorded in chronological order."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Which financial statement shows the financial position of a company at a specific point in time?",
+      "options": {
+        "A": "Profit & Loss Account",
+        "B": "Cash Flow Statement",
+        "C": "Balance Sheet",
+        "D": "Trial Balance"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Balance Sheet provides a snapshot of a company's assets, liabilities, and equity at a particular date."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "What does 'Dr' typically stand for in accounting?",
+      "options": {
+        "A": "Deposit",
+        "B": "Debit",
+        "C": "Draft",
+        "D": "Drawing"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "'Dr' is the common abbreviation for Debit."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Which of the following is a key advantage of using Tally Prime for accounting?",
+      "options": {
+        "A": "It requires manual calculation of all taxes.",
+        "B": "It provides real-time financial reporting and analysis.",
+        "C": "It is exclusively for large multinational corporations.",
+        "D": "It does not support inventory management."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tally Prime offers real-time data processing, enabling businesses to generate instant financial reports and insights."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "In Tally Prime, what is the default date format displayed in most reports and entry screens (if not customized)?",
+      "options": {
+        "A": "MM/DD/YYYY",
+        "B": "YYYY-MM-DD",
+        "C": "DD-MM-YYYY",
+        "D": "DD/MM/YY"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "By default, Tally Prime typically uses the DD-MM-YYYY format for dates in India, though it can be configured based on regional settings."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "What is the first step to start working with Tally Prime after installation?",
+      "options": {
+        "A": "Install a new operating system",
+        "B": "Create or Select a Company",
+        "C": "Design a website",
+        "D": "Set up a printer"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Before you can record any transactions, you must either create a new company or select an existing one in Tally Prime."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Which menu option is used to create a new company in Tally Prime?",
+      "options": {
+        "A": "Go To > Create Company",
+        "B": "Company (Alt+K) > Create",
+        "C": "Display More Reports > Company Creation",
+        "D": "Chart of Accounts > New Company"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "From the Gateway of Tally, press Alt+K to open the Company menu, then select 'Create' to make a new company."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "What is the shortcut key sequence to alter an existing company in Tally Prime from the Gateway of Tally?",
+      "options": {
+        "A": "Alt+F3, then Alter",
+        "B": "Ctrl+A, then Company Alter",
+        "C": "Alt+K, then Alter",
+        "D": "F12, then Company Settings"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "To alter a company, you press Alt+K to open the Company menu, and then select 'Alter' from the options."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "To enable TallyVault for a company, where do you navigate?",
+      "options": {
+        "A": "Gateway of Tally > Vouchers",
+        "B": "Company (Alt+K) > Alter > Security",
+        "C": "Display More Reports > TallyVault Settings",
+        "D": "F11 (Features) > General Settings"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "TallyVault password can be set by altering the company details, which is found under the Company menu (Alt+K) and then selecting 'Alter' and navigating to the security section."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Which security control feature in Tally Prime allows restricting user access to specific reports or vouchers?",
+      "options": {
+        "A": "TallyVault Password",
+        "B": "Data Backup",
+        "C": "User Roles and Security Controls",
+        "D": "Company Splitting"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Tally Prime allows creation of user roles with specific permissions, granting or denying access to various functionalities, reports, and vouchers."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Under which predefined group should a 'Bank Account' ledger be created?",
+      "options": {
+        "A": "Current Assets",
+        "B": "Cash-in-Hand",
+        "C": "Bank Accounts",
+        "D": "Secured Loans"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tally Prime has a specific predefined group named 'Bank Accounts' for all bank-related ledgers."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "What is the primary purpose of creating 'Cost Centres' in Tally Prime?",
+      "options": {
+        "A": "To manage multiple companies",
+        "B": "To track expenses and income for specific projects, departments, or employees",
+        "C": "To set up GST rates",
+        "D": "To perform bank reconciliation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cost Centres enable tracking of expenses and income allocated to specific cost units within a business, such as departments or projects."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "If you want to maintain ledgers in multiple currencies, which feature needs to be enabled?",
+      "options": {
+        "A": "Maintain Inventory",
+        "B": "Enable GST",
+        "C": "Enable Multi-Currency",
+        "D": "Maintain Payroll"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Enable Multi-Currency' feature (accessed via F11 Company Features) must be activated to record transactions in foreign currencies."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Which option allows you to delete a ledger in Tally Prime?",
+      "options": {
+        "A": "From the 'Create Ledger' screen by pressing Alt+D",
+        "B": "From the 'Alter Ledger' screen by pressing Alt+D",
+        "C": "From the 'Display Ledger' screen by pressing Ctrl+D",
+        "D": "Ledgers cannot be deleted once created."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A ledger can be deleted from its alteration screen by pressing Alt+D. However, a ledger cannot be deleted if it has transactions recorded against it."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "When creating a new ledger for 'Salary Expense', under which group should it be placed?",
+      "options": {
+        "A": "Direct Expenses",
+        "B": "Indirect Expenses",
+        "C": "Current Liabilities",
+        "D": "Capital Account"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Salary is generally considered an operational expense not directly related to production or purchase of goods, hence it falls under Indirect Expenses."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "To view a list of all ledgers created in Tally Prime, which report would you check?",
+      "options": {
+        "A": "Balance Sheet",
+        "B": "Profit & Loss Account",
+        "C": "Chart of Accounts > Ledgers",
+        "D": "Stock Summary"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'Chart of Accounts' provides a comprehensive list of all groups and ledgers created in the company."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "What is the utility of 'Groups' in Tally Prime's Chart of Accounts?",
+      "options": {
+        "A": "To create new companies",
+        "B": "To classify ledgers of similar nature for organized reporting",
+        "C": "To enter daily transactions",
+        "D": "To backup company data"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Groups help in organizing ledgers into categories, which simplifies reporting and analysis."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "How can you set a password for a company in Tally Prime to restrict unauthorized access?",
+      "options": {
+        "A": "By setting a TallyVault password during company alteration.",
+        "B": "By changing the computer's operating system password.",
+        "C": "By renaming the company data folder.",
+        "D": "By enabling the inventory feature."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "TallyVault password provides encryption and security for company data, accessible via the Company Alteration screen."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Which of the following is NOT a predefined group in Tally Prime?",
+      "options": {
+        "A": "Capital Account",
+        "B": "Sales Account",
+        "C": "Project Income",
+        "D": "Current Assets"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Capital Account, Sales Account, and Current Assets are all predefined groups in Tally Prime. 'Project Income' would typically be a ledger under a predefined income group or a user-defined group."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "What is the shortcut key to create a new ledger directly from a voucher entry screen?",
+      "options": {
+        "A": "Ctrl+L",
+        "B": "Alt+C",
+        "C": "F9",
+        "D": "Ctrl+V"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Alt+C is a universal shortcut in Tally Prime to create a new master (ledger, stock item, etc.) from almost any input field."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "What does it mean to 'maintain accounts only' when creating a company in Tally Prime?",
+      "options": {
+        "A": "To manage only inventory without accounting.",
+        "B": "To manage financial accounting without inventory features.",
+        "C": "To only view reports, not enter data.",
+        "D": "To use Tally Prime on a single user license only."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "This option allows you to manage only the financial aspects (ledgers, vouchers) without enabling inventory management features."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "If a company operates in multiple locations and wants to track expenses per location, which feature is most suitable?",
+      "options": {
+        "A": "Multi-Currency",
+        "B": "Budgeting",
+        "C": "Cost Centres",
+        "D": "Payroll"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cost Centres are designed to track income and expenses attributable to specific organizational units or projects, making them ideal for location-wise tracking."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Which voucher type is used to record cash or bank payments in Tally Prime?",
+      "options": {
+        "A": "Receipt Voucher",
+        "B": "Payment Voucher",
+        "C": "Journal Voucher",
+        "D": "Contra Voucher"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The Payment Voucher (F5) is specifically used for recording all cash and bank payments."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "What is the shortcut key for a Sales Voucher in Tally Prime?",
+      "options": {
+        "A": "F4",
+        "B": "F5",
+        "C": "F8",
+        "D": "F9"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "F8 is the shortcut key to open the Sales Voucher in Tally Prime."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "If a business receives cash from a customer against an outstanding invoice, which voucher type will be used?",
+      "options": {
+        "A": "Payment Voucher",
+        "B": "Receipt Voucher",
+        "C": "Contra Voucher",
+        "D": "Journal Voucher"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Receipt Voucher (F6) is used to record all incoming cash or bank receipts."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Which voucher type is used for non-cash transactions like depreciation or provisions for bad debts?",
+      "options": {
+        "A": "Payment Voucher",
+        "B": "Sales Voucher",
+        "C": "Journal Voucher",
+        "D": "Receipt Voucher"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Journal Voucher (F7) is used for adjustment entries, non-cash transactions, and transfers between ledger accounts not involving cash or bank."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "To record a transfer of funds from one bank account to another within the same company, which voucher type is appropriate?",
+      "options": {
+        "A": "Payment Voucher",
+        "B": "Receipt Voucher",
+        "C": "Contra Voucher",
+        "D": "Journal Voucher"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Contra Voucher (F4) is used exclusively for cash deposits into a bank, cash withdrawals from a bank, or transfers between bank accounts within the same company."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "What is the purpose of a 'Stock Group' in Tally Prime?",
+      "options": {
+        "A": "To classify ledgers of similar nature",
+        "B": "To create new companies",
+        "C": "To classify stock items of similar nature",
+        "D": "To record cash payments"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Stock Groups help in organizing inventory items into categories, similar to how ledger groups organize ledgers."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Which unit of measure would be most appropriate for 'Laptops'?",
+      "options": {
+        "A": "Kgs",
+        "B": "Litres",
+        "C": "Nos (Numbers)",
+        "D": "Meters"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Laptops are typically counted individually, so 'Nos' (Numbers) is the most appropriate unit of measure."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "To record the receipt of goods from a supplier before a purchase invoice is received, which voucher type is used?",
+      "options": {
+        "A": "Purchase Voucher",
+        "B": "Receipt Note",
+        "C": "Sales Order",
+        "D": "Journal Voucher"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Receipt Note is used to record the physical receipt of goods, often before the actual purchase invoice arrives."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "What is the shortcut key to create a new stock item directly from an inventory voucher entry screen?",
+      "options": {
+        "A": "Ctrl+I",
+        "B": "Alt+C",
+        "C": "F2",
+        "D": "Ctrl+Alt+S"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Alt+C is the universal shortcut to create a new master (including stock items) from any field in a voucher entry screen."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Which report in Tally Prime provides details of current stock levels?",
+      "options": {
+        "A": "Balance Sheet",
+        "B": "Profit & Loss Account",
+        "C": "Stock Summary",
+        "D": "Trial Balance"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Stock Summary report provides an overview of the current quantity and value of all stock items."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "If a customer returns goods previously sold on credit, which voucher type should be used to record this?",
+      "options": {
+        "A": "Purchase Return",
+        "B": "Debit Note",
+        "C": "Credit Note",
+        "D": "Journal Voucher"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A Credit Note is issued by the seller to the buyer when goods are returned or when there is a reduction in the amount due from the buyer."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "What is the primary difference between a 'Purchase Order' and a 'Purchase Voucher' in Tally Prime?",
+      "options": {
+        "A": "Purchase Order is for services, Purchase Voucher is for goods.",
+        "B": "Purchase Order is a commitment to buy, Purchase Voucher is a record of actual purchase.",
+        "C": "Purchase Order affects inventory, Purchase Voucher does not.",
+        "D": "Purchase Order is always cash-based, Purchase Voucher is always credit-based."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A Purchase Order is a non-accounting voucher indicating an intent to purchase, while a Purchase Voucher is an accounting voucher that records the actual purchase transaction and impacts financial books."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "How can you enable the 'Order Processing' features (e.g., Sales Order, Purchase Order) in Tally Prime?",
+      "options": {
+        "A": "From the 'Company Create' screen.",
+        "B": "Through F11 (Company Features) > Inventory Features.",
+        "C": "By altering a ledger master.",
+        "D": "Order processing is always enabled by default."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Order processing features are enabled in the F11 (Company Features) under the Inventory section."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "To view outstanding sales orders, where would you navigate in Tally Prime?",
+      "options": {
+        "A": "Gateway of Tally > Vouchers > Sales",
+        "B": "Gateway of Tally > Display More Reports > Statements of Inventory > Sales Order Outstanding",
+        "C": "Gateway of Tally > Banking > Bank Reconciliation",
+        "D": "Gateway of Tally > Utilities > Data Backup"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Outstanding Sales Orders can be viewed under the 'Statements of Inventory' reports, which is accessed via 'Display More Reports'."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Which of the following is NOT a mandatory field when creating a Stock Item in Tally Prime if inventory features are enabled?",
+      "options": {
+        "A": "Name",
+        "B": "Under (Stock Group)",
+        "C": "Units",
+        "D": "Batch Details"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Name, Stock Group, and Units are typically mandatory for a stock item. Batch details are optional and enabled only if batch-wise tracking is required."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is the purpose of 'Batch-wise' details in inventory management?",
+      "options": {
+        "A": "To track the cost of goods sold.",
+        "B": "To manage the manufacturing and expiry dates of stock items.",
+        "C": "To group customers by region.",
+        "D": "To calculate employee salaries."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Batch-wise details allow tracking specific information for each batch of a stock item, such as manufacturing date, expiry date, and batch number."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "If you want to track the manufacturing date and expiry date of products, which inventory feature would you enable?",
+      "options": {
+        "A": "Godown Management",
+        "B": "Price List",
+        "C": "Batch-wise details",
+        "D": "Stock Category"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "The Batch-wise details feature in inventory management allows for tracking of manufacturing and expiry dates for perishable or time-sensitive goods."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "What does GST stand for?",
+      "options": {
+        "A": "General Sales Tax",
+        "B": "Goods and Services Tax",
+        "C": "Government Service Tax",
+        "D": "Global Standard Tax"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GST stands for Goods and Services Tax, a comprehensive indirect tax in India."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Which type of GST is levied on intra-state sales of goods and services?",
+      "options": {
+        "A": "IGST",
+        "B": "CGST & SGST",
+        "C": "UTGST",
+        "D": "Only CGST"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "For intra-state (within the same state) transactions, both Central GST (CGST) and State GST (SGST) are levied."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "What is the full form of HSN code in the context of GST?",
+      "options": {
+        "A": "Harmonized System of Numbers",
+        "B": "High Security Number",
+        "C": "Harmonized System of Nomenclature",
+        "D": "Home State Network"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "HSN stands for Harmonized System of Nomenclature, an internationally recognized system for classifying goods."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "To enable GST features in Tally Prime, which menu option do you use?",
+      "options": {
+        "A": "Gateway of Tally > Vouchers > F11",
+        "B": "F11 (Company Features) > Enable Goods and Services Tax (GST)",
+        "C": "Company (Alt+K) > GST Settings",
+        "D": "Display More Reports > GST Setup"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GST features are enabled and configured from the F11 (Company Features) screen."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Which ledger group is most appropriate for a 'CGST Output' ledger?",
+      "options": {
+        "A": "Current Assets",
+        "B": "Indirect Income",
+        "C": "Duties & Taxes",
+        "D": "Current Liabilities"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "GST ledgers (CGST, SGST, IGST) are classified under the 'Duties & Taxes' group in Tally Prime."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "What is the threshold limit for compulsory GST registration for goods in most Indian states (as per common knowledge)?",
+      "options": {
+        "A": "₹10 Lakhs",
+        "B": "₹20 Lakhs",
+        "C": "₹40 Lakhs",
+        "D": "₹75 Lakhs"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "For businesses dealing exclusively in goods, the threshold for compulsory GST registration in most states is ₹40 Lakhs annual turnover (with some exceptions)."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "What does 'SAC' stand for in the context of GST?",
+      "options": {
+        "A": "State Accounting Code",
+        "B": "Services Accounting Code",
+        "C": "Standard Asset Code",
+        "D": "System Audit Code"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SAC stands for Services Accounting Code, used for classifying services under GST."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Which GST type is applicable for sales between two different states?",
+      "options": {
+        "A": "CGST",
+        "B": "SGST",
+        "C": "IGST",
+        "D": "UTGST"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Integrated GST (IGST) is levied on inter-state supply of goods and services."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "When creating a sales ledger for GST sales, what should be the 'Type of Supply' in Tally Prime?",
+      "options": {
+        "A": "Not Applicable",
+        "B": "Goods",
+        "C": "Services",
+        "D": "Either Goods or Services, depending on the nature of sale"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "The 'Type of Supply' should be selected as 'Goods' or 'Services' based on what the sales ledger represents. If it's for both, Tally allows flexibility or separate ledgers."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "How do you set up GST rates for a stock item in Tally Prime?",
+      "options": {
+        "A": "In the Company Creation screen.",
+        "B": "In the 'GST Details' section of the Stock Item master.",
+        "C": "By entering them manually in each sales voucher.",
+        "D": "GST rates are automatically fetched from the internet."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GST rates, HSN codes, and other GST-related details are defined within the 'GST Details' section while creating or altering a Stock Item."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Which feature in Tally Prime allows you to define different GST rates for different types of goods/services efficiently?",
+      "options": {
+        "A": "Cost Centre management",
+        "B": "GST Rate Setup (from Gateway of Tally)",
+        "C": "Payroll configuration",
+        "D": "Bank Reconciliation"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tally Prime offers a dedicated 'GST Rate Setup' option (under Gateway of Tally > Display More Reports > GST Reports) to define and manage GST rates for stock items and services centrally."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "What is the purpose of a 'GSTIN' number?",
+      "options": {
+        "A": "To track employee attendance.",
+        "B": "A unique identification number for GST registered businesses.",
+        "C": "To identify bank accounts.",
+        "D": "A code for international trade."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GSTIN (Goods and Services Tax Identification Number) is a 15-digit unique identification number assigned to every GST-registered entity."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Which of the following is considered an 'Input' for GST purposes?",
+      "options": {
+        "A": "Salary Paid",
+        "B": "Raw Materials Purchased",
+        "C": "Sales Revenue",
+        "D": "Fixed Assets Sold"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Input refers to goods or services purchased by a business for use in making outward supplies, such as raw materials."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "What is the primary objective of implementing GST in India?",
+      "options": {
+        "A": "To increase the number of taxes.",
+        "B": "To simplify indirect taxation and create a common national market.",
+        "C": "To introduce new direct taxes.",
+        "D": "To promote international trade only."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GST was introduced to subsume multiple indirect taxes into a single tax, aiming for a 'one nation, one tax' regime."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "How can you define GST details for a ledger group in Tally Prime?",
+      "options": {
+        "A": "GST details cannot be defined for groups, only ledgers.",
+        "B": "By altering the group and enabling 'Set/Alter GST Details'.",
+        "C": "By setting it in the F12 configuration for all groups.",
+        "D": "Only through the 'Go To' menu."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GST details can be defined at the group level by enabling 'Set/Alter GST Details' while altering the group, which helps apply common GST settings to ledgers under that group."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Which GST category applies to Union Territories?",
+      "options": {
+        "A": "CGST",
+        "B": "SGST",
+        "C": "IGST",
+        "D": "UTGST"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Union Territory GST (UTGST) is levied on intra-union territory supply of goods and services."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "What is the significance of the 'GST Classification' feature in Tally Prime?",
+      "options": {
+        "A": "It helps in classifying customers into different groups.",
+        "B": "It allows applying pre-defined or custom GST rates and details to transactions based on item or service type.",
+        "C": "It is used for inventory valuation methods.",
+        "D": "It categorizes voucher types for easier entry."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "GST Classifications provide a flexible way to define and apply GST rates and details to a group of similar items or services, simplifying GST management."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "When recording a local (intra-state) sale of goods with GST, which GST ledgers would be debited?",
+      "options": {
+        "A": "CGST Output and SGST Output",
+        "B": "CGST Input and SGST Input",
+        "C": "IGST",
+        "D": "None of the above (GST output ledgers are credited)"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "In a sale transaction, the customer's account (or Cash/Bank) is debited, and the Sales Account, CGST Output, and SGST Output accounts are credited."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "What is 'Input Tax Credit' (ITC) under GST?",
+      "options": {
+        "A": "Tax paid on sales by the consumer.",
+        "B": "Credit for tax paid on inputs (purchases) that can be set off against output tax liability.",
+        "C": "A discount offered by the seller.",
+        "D": "Tax paid on exports."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ITC allows businesses to reduce their tax liability by claiming credit for the GST paid on purchases of goods and services."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Which GSTR report summarizes outward supplies (sales) made by a taxpayer?",
+      "options": {
+        "A": "GSTR-2",
+        "B": "GSTR-3B",
+        "C": "GSTR-1",
+        "D": "GSTR-4"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "GSTR-1 is the monthly or quarterly return that details all outward supplies (sales) of goods and services."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "If a business purchases goods from an unregistered dealer and is liable to pay GST, which mechanism applies?",
+      "options": {
+        "A": "Forward Charge Mechanism",
+        "B": "Reverse Charge Mechanism (RCM)",
+        "C": "Input Tax Credit Mechanism",
+        "D": "Zero-rated Supply"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Under the Reverse Charge Mechanism, the recipient of goods or services is liable to pay GST instead of the supplier."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "How can you view the GSTR-3B report in Tally Prime?",
+      "options": {
+        "A": "Gateway of Tally > Vouchers > F8",
+        "B": "Gateway of Tally > Display More Reports > GST Reports > GSTR-3B",
+        "C": "Company (Alt+K) > Print > GSTR-3B",
+        "D": "Inventory Info > GSTR-3B"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GSTR reports are typically accessed from 'Display More Reports' menu under 'GST Reports'."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "What is the purpose of making a 'Journal' voucher entry for 'GST Adjustment' in Tally Prime?",
+      "options": {
+        "A": "To record regular sales and purchases with GST.",
+        "B": "To adjust input tax credit, record tax payments, or correct errors not directly linked to sales/purchase vouchers.",
+        "C": "To record bank deposits and withdrawals.",
+        "D": "To create new GST masters."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Journal vouchers are often used for various GST adjustments, such as ITC reversal, tax paid on advances, or year-end adjustments, which are not directly covered by sales or purchase vouchers."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Which section of GSTR-1 deals with B2B invoices?",
+      "options": {
+        "A": "B2C (Small)",
+        "B": "B2B Invoices",
+        "C": "Nil Rated Supplies",
+        "D": "HSN-wise Summary"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GSTR-1 is structured into various tables, with a specific section dedicated to B2B (Business to Business) invoices."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "If a customer returns goods and a credit note is issued, how does it impact GST liability?",
+      "options": {
+        "A": "Increases the seller's GST liability.",
+        "B": "Reduces the seller's GST liability.",
+        "C": "Has no impact on GST liability.",
+        "D": "Increases the buyer's GST liability."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A credit note reduces the value of original sales, thereby reducing the seller's outward GST liability."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "How does Tally Prime help in ensuring GST compliance during voucher entry?",
+      "options": {
+        "A": "It requires manual calculation of all GST amounts.",
+        "B": "It provides auto-calculation of GST, HSN/SAC validation, and generates GST reports.",
+        "C": "It prevents any GST-related errors from occurring.",
+        "D": "It only supports cash transactions for GST."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tally Prime automates GST calculations, validates HSN/SAC codes, and facilitates the generation of various GST returns, simplifying compliance."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Which report provides a summary of all GST-related transactions, including input and output GST, and helps in filing returns?",
+      "options": {
+        "A": "Balance Sheet",
+        "B": "Profit & Loss Account",
+        "C": "GSTR-3B",
+        "D": "Trial Balance"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "GSTR-3B is a summary return of inward and outward supplies, ITC availed, and tax payable, crucial for monthly/quarterly GST compliance."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "What is the impact of an 'Advance Receipt' on GST liability for a service provider?",
+      "options": {
+        "A": "No GST is payable on advance receipts for services.",
+        "B": "GST is payable on advance receipts for services.",
+        "C": "It is treated as an input tax credit.",
+        "D": "It reduces the total sales value."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "As per GST law, for services, GST is payable on advances received, even if the service has not yet been rendered. For goods, this requirement has been removed."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "When recording an inter-state purchase, which GST ledger would typically be credited?",
+      "options": {
+        "A": "CGST Input",
+        "B": "SGST Input",
+        "C": "IGST Input",
+        "D": "None of the above (IGST Input is debited)"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "In an inter-state purchase, the Purchases Account is debited, and the IGST Input account is debited, while the supplier's account (or Cash/Bank) is credited."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Which GSTR report is used for reporting monthly summary of sales, purchases, and ITC availed?",
+      "options": {
+        "A": "GSTR-1",
+        "B": "GSTR-2A",
+        "C": "GSTR-3B",
+        "D": "GSTR-9"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "GSTR-3B is the monthly/quarterly self-declaration summary return for GST liabilities, ITC, and tax payments."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "What is the purpose of 'e-Way Bill' in GST?",
+      "options": {
+        "A": "To track international shipments.",
+        "B": "An electronic document required for the movement of goods above a certain value.",
+        "C": "A bill for electricity consumption.",
+        "D": "A document for claiming tax refunds."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The e-Way Bill is an electronic waybill for the movement of goods worth more than a specified amount, enhancing transparency and reducing tax evasion."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "How can you rectify errors in GST returns using Tally Prime?",
+      "options": {
+        "A": "Errors cannot be rectified once a return is filed.",
+        "B": "By making necessary adjustments in vouchers/masters and re-exporting returns for revision or subsequent period filing.",
+        "C": "By manually editing the XML file directly.",
+        "D": "By contacting the GST department for manual correction."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tally Prime allows users to identify and correct errors in transactions or masters, which then reflect in the GST reports for accurate filing or adjustments in subsequent returns."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Which type of invoice needs to be issued for exports under GST?",
+      "options": {
+        "A": "Bill of Supply",
+        "B": "Receipt Voucher",
+        "C": "Tax Invoice (or Bill of Supply for exports without payment of tax under LUT)",
+        "D": "Debit Note"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "For exports, a Tax Invoice is generally issued. If exports are made without payment of tax under a Letter of Undertaking (LUT), a 'Bill of Supply' may also be used."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is the primary purpose of 'Budgeting' in Tally Prime?",
+      "options": {
+        "A": "To record daily transactions.",
+        "B": "To set financial targets for expenses and income and compare actual performance against them.",
+        "C": "To manage inventory levels.",
+        "D": "To process payroll for employees."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Budgeting in Tally Prime helps businesses plan their financial performance and monitor deviations from the set targets."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "How can you perform a 'Bank Reconciliation' in Tally Prime?",
+      "options": {
+        "A": "Manually comparing bank statements with ledger entries outside Tally.",
+        "B": "Gateway of Tally > Banking > Bank Reconciliation.",
+        "C": "Through the 'Sales Voucher' screen.",
+        "D": "By altering the company features."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tally Prime provides a dedicated 'Bank Reconciliation' feature under the Banking menu to match bank statement entries with Tally entries."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "What is the shortcut key to take a backup of company data in Tally Prime?",
+      "options": {
+        "A": "Ctrl+B",
+        "B": "Alt+Y (Company Menu) > Backup",
+        "C": "F10",
+        "D": "Ctrl+S"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "From the Gateway of Tally, press Alt+Y to access the Company menu, then select 'Backup' to create a backup of your company data."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "What is the main advantage of 'Scenario Management' in Tally Prime?",
+      "options": {
+        "A": "To create multiple companies.",
+        "B": "To analyze the impact of hypothetical transactions (e.g., provisional entries) without affecting actual data.",
+        "C": "To manage multiple currencies.",
+        "D": "To set up user security."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Scenario Management allows users to create and analyze different 'what-if' scenarios, such as provisional entries or reversals, without altering the primary books of accounts."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Which file format is commonly used when exporting data from Tally Prime for analysis in spreadsheets?",
+      "options": {
+        "A": "PDF",
+        "B": "JPEG",
+        "C": "Excel (XLS/XLSX)",
+        "D": "TXT"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tally Prime supports exporting data to various formats, with Excel being a popular choice for further analysis in spreadsheet software."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "To transfer data from one Tally Prime installation to another, which feature would you primarily use?",
+      "options": {
+        "A": "Emailing reports",
+        "B": "Backup and Restore",
+        "C": "Printing invoices",
+        "D": "Online banking integration"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The most common and reliable method to transfer company data between Tally Prime installations is to take a backup from the source and restore it at the destination."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "What is the purpose of the 'Tally Audit' feature?",
+      "options": {
+        "A": "To automatically correct all accounting errors.",
+        "B": "To track changes made to vouchers and masters by different users, enhancing accountability.",
+        "C": "To create new ledger accounts.",
+        "D": "To perform bank reconciliation."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tally Audit is a powerful feature that allows administrators to monitor and track all alterations made to transactions and masters by various users, aiding in internal control and accountability."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "How can you create a 'Memorandum Voucher' in Tally Prime?",
+      "options": {
+        "A": "By pressing F10 (Other Vouchers) > Memo Voucher.",
+        "B": "It is created automatically by Tally.",
+        "C": "Memorandum Vouchers are not available in Tally Prime.",
+        "D": "From the 'Company Alteration' screen."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Memorandum Vouchers (Memo Vouchers) are non-accounting vouchers used to record transactions that do not affect the financial books immediately, accessed via F10 (Other Vouchers)."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "What is the shortcut key for 'Company Features' (to enable/disable functionalities like Inventory, GST, etc.) in Tally Prime?",
+      "options": {
+        "A": "F1",
+        "B": "F2",
+        "C": "F11",
+        "D": "F12"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "F11 is the shortcut key to access the 'Company Features' screen, where you can enable or disable various functionalities for your company."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Which utility allows you to repair a corrupted Tally Prime data file?",
+      "options": {
+        "A": "Tally Prime's 'Repair' utility (accessed via Tally.exe /repair)",
+        "B": "Windows Disk Cleanup utility",
+        "C": "An antivirus software",
+        "D": "The 'Delete Company' option"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Tally Prime includes a built-in repair utility that can be run to fix minor data corruption issues. It's usually accessed by running 'Tally.exe /repair' from the command prompt."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "What is the primary benefit of using 'Multi-Company' features in Tally Prime?",
+      "options": {
+        "A": "To combine all company data into one single ledger.",
+        "B": "To manage accounts of multiple distinct companies within a single Tally Prime installation.",
+        "C": "To restrict access to company data.",
+        "D": "To automatically file GST returns for all companies."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tally Prime allows users to create and manage multiple company accounts separately within the same software installation, facilitating centralized management."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "If you want to view a report with different currency values (e.g., for international transactions), which feature needs to be enabled?",
+      "options": {
+        "A": "Cost Centres",
+        "B": "Budgeting",
+        "C": "Multi-Currency",
+        "D": "Inventory Management"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Multi-Currency' feature (enabled via F11 Company Features) is necessary to record transactions and view reports in foreign currencies."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "What is the purpose of 'Emailing' reports directly from Tally Prime?",
+      "options": {
+        "A": "To create new ledger accounts.",
+        "B": "To send financial reports and documents to stakeholders (e.g., clients, auditors) quickly and efficiently.",
+        "C": "To backup company data to an email server.",
+        "D": "To perform bank reconciliation online."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tally Prime's email functionality allows users to directly send reports, invoices, and other documents to recipients, saving time and effort."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "What is the impact of 'Splitting Company Data' in Tally Prime?",
+      "options": {
+        "A": "It merges two companies into one.",
+        "B": "It creates two separate companies from an existing one, based on a specified cutoff date, preserving historical data.",
+        "C": "It deletes all company data permanently.",
+        "D": "It changes the financial year of the company."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Splitting company data is useful for closing a financial year, creating two independent companies with a clear cut-off, ensuring data integrity for both periods."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Which shortcut key is used to change the period for a report in Tally Prime?",
+      "options": {
+        "A": "F1",
+        "B": "F2",
+        "C": "Alt+F2",
+        "D": "Ctrl+A"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Alt+F2 is the shortcut to change the reporting period (From and To dates) for any report displayed in Tally Prime."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "What is the key advantage of using 'Tally.NET' services?",
+      "options": {
+        "A": "It allows printing reports on any printer.",
+        "B": "It enables remote access to Tally data, data synchronization, and provides support features.",
+        "C": "It is a free antivirus software.",
+        "D": "It automatically generates new ledger accounts."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tally.NET Services provide features like remote access, data synchronization across multiple locations, and access to Tally's support center, enhancing business connectivity and efficiency."
+    }
+  ]
+}

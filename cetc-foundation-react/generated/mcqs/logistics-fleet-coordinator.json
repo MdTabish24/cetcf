@@ -1,0 +1,1443 @@
+{
+  "course_name": "Logistics & Fleet Coordinator",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Logistics aur Supply Chain ka Parichay",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Fleet Management ke Mool Siddhant",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Inventory aur Warehouse Prabandhan",
+      "question_range": "Q35-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Parivahan aur Route Yojana",
+      "question_range": "Q51-Q67"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Suraksha, Anupalan aur Prodyogiki",
+      "question_range": "Q68-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Grahak Seva aur Sanchar",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Logistics ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Products ko sahi samay par, sahi jagah par, sahi matra mein pahunchana.",
+        "B": "Sirf products ko transport karna.",
+        "C": "Customers se paise collect karna.",
+        "D": "Company ke employees ko train karna."
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Logistics ka main aim products ko customers tak efficiently aur effectively deliver karna hai, sahi time, sahi place aur sahi quantity mein."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Supply Chain Management (SCM) mein kya shamil hota hai?",
+      "options": {
+        "A": "Raw material se final product tak ka poora flow.",
+        "B": "Sirf manufacturing process.",
+        "C": "Sirf product ki selling.",
+        "D": "Sirf marketing aur advertising."
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "SCM raw material ki sourcing se lekar final product ki customer tak delivery tak ke saare processes ko manage karta hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Automobile sector mein 'Inbound Logistics' ka kya matlab hai?",
+      "options": {
+        "A": "Finished vehicles ko dealerships tak pahunchana.",
+        "B": "Spare parts aur components ko manufacturing plant tak lana.",
+        "C": "Customer complaints ko handle karna.",
+        "D": "Vehicles ki servicing karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Inbound Logistics mein suppliers se raw materials, components, aur parts ko manufacturing facility tak lana shamil hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Outbound Logistics mein kaun si activity aati hai?",
+      "options": {
+        "A": "Raw material purchase karna.",
+        "B": "Finished goods ko customers ya dealerships tak deliver karna.",
+        "C": "Warehouse mein inventory count karna.",
+        "D": "Production line ko manage karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Outbound Logistics mein final products ko manufacturers se end-users ya distributors tak pahunchana shamil hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek efficient logistics system ka kya fayda hai?",
+      "options": {
+        "A": "Operating costs badh jaate hain.",
+        "B": "Customer satisfaction kam ho jaata hai.",
+        "C": "Delivery times kam hote hain aur costs reduce hote hain.",
+        "D": "Inventory levels badh jaate hain."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Efficient logistics se operations smooth hote hain, jisse delivery speed badhti hai aur expenses kam hote hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Third-Party Logistics (3PL) provider kya karta hai?",
+      "options": {
+        "A": "Sirf products manufacture karta hai.",
+        "B": "Logistics services (jaise warehousing, transport) ko outsource karta hai.",
+        "C": "Company ke marketing campaigns manage karta hai.",
+        "D": "Company ke HR department ko handle karta hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "3PL providers ek company ke liye logistics functions ko handle karte hain, jaise transportation, warehousing, aur distribution."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Reverse Logistics ka kya role hai automobile spare parts supply chain mein?",
+      "options": {
+        "A": "Naye parts ko dealerships tak pahunchana.",
+        "B": "Defective, unused ya returned parts ko customer se manufacturer tak wapas lana.",
+        "C": "Parts ka production karna.",
+        "D": "Parts ki quality check karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reverse Logistics mein products ya parts ko customer se wapas supply chain mein lana shamil hai, recycling, repair ya disposal ke liye."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Just-In-Time (JIT) inventory system ka primary goal kya hai?",
+      "options": {
+        "A": "Maximum inventory maintain karna.",
+        "B": "Inventory costs ko minimize karna aur waste reduce karna.",
+        "C": "Products ko slow deliver karna.",
+        "D": "Storage space ko badhana."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "JIT ka aim hai ki parts aur materials tabhi receive kiye jaayen jab unki zaroorat ho, jisse inventory holding costs aur waste kam ho."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Supply Chain mein 'bottleneck' kya hota hai?",
+      "options": {
+        "A": "Ek point jahan flow slow ho jaata hai ya ruk jaata hai.",
+        "B": "Ek naya product launch.",
+        "C": "Ek efficient process.",
+        "D": "Supply chain mein sabse tez point."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Bottleneck supply chain mein ek aisa stage ya process hai jahan capacity limited hoti hai, jisse poore system ka flow slow ho jaata hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Logistics Coordinator ka ek mukhya kaam kya hai?",
+      "options": {
+        "A": "Vehicles ko design karna.",
+        "B": "Shipments ko track aur schedule karna.",
+        "C": "Company ke financial records maintain karna.",
+        "D": "New employees ko hire karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Logistics Coordinator shipments ki movement ko plan, track aur coordinate karta hai, ensuring timely delivery."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Cross-docking ka kya fayda hai warehousing mein?",
+      "options": {
+        "A": "Long-term storage ko badhana.",
+        "B": "Inventory handling aur storage time ko kam karna.",
+        "C": "Products ko damage karna.",
+        "D": "Warehouse mein zyada staff rakhna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cross-docking mein incoming shipments ko directly outgoing shipments mein transfer kiya jaata hai, bina lambe samay tak store kiye, jisse handling costs aur time kam hote hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Automobile OEM (Original Equipment Manufacturer) ki supply chain mein kaun shamil hota hai?",
+      "options": {
+        "A": "Parts suppliers, assembly plants, dealerships.",
+        "B": "Sirf dealerships.",
+        "C": "Sirf customers.",
+        "D": "Sirf marketing agencies."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "OEM ki supply chain mein parts suppliers jo components provide karte hain, assembly plants jahan vehicles assemble hote hain, aur dealerships jo vehicles sell karte hain, sab shamil hote hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Freight forwarding company ka primary role kya hai?",
+      "options": {
+        "A": "Goods ko physically transport karna.",
+        "B": "Shippers aur carriers ke beech coordination aur documentation handle karna.",
+        "C": "Products ko manufacture karna.",
+        "D": "Warehouse space provide karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Freight forwarders international aur domestic shipments ke liye logistics services provide karte hain, jisme documentation, customs clearance aur carrier selection shamil hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Last-mile delivery ka kya matlab hai?",
+      "options": {
+        "A": "Manufacturing plant se warehouse tak ki delivery.",
+        "B": "Warehouse se final customer ke doorstep tak ki delivery.",
+        "C": "International shipments.",
+        "D": "Raw materials ki delivery."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Last-mile delivery supply chain ka final stage hai, jahan product distribution hub se end customer tak pahunchta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Logistics mein 'Lead Time' kya hota hai?",
+      "options": {
+        "A": "Product launch ka time.",
+        "B": "Order place karne se delivery receive hone tak ka samay.",
+        "C": "Customer service ka time.",
+        "D": "Warehouse mein inventory check ka time."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lead time woh total duration hai jo ek order ko process aur deliver hone mein lagti hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Supply chain visibility ka kya importance hai?",
+      "options": {
+        "A": "Sirf marketing ke liye.",
+        "B": "Poore supply chain mein products ki location aur status ko track karna.",
+        "C": "Zyada inventory maintain karna.",
+        "D": "Transportation cost badhana."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Supply chain visibility se companies ko apne products aur assets ki real-time location aur status pata chalta hai, jisse better decision-making aur problem-solving hoti hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek efficient supply chain kya achieve karti hai?",
+      "options": {
+        "A": "Increased costs and delays.",
+        "B": "Improved customer service and reduced operational expenses.",
+        "C": "Higher inventory levels and wastage.",
+        "D": "More manual processes and errors."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek efficient supply chain customer service ko behtar banati hai aur operational costs ko kam karti hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Fleet Management ka primary goal kya hai?",
+      "options": {
+        "A": "Vehicles ko sirf kharidna.",
+        "B": "Vehicles ki efficiency, safety aur cost-effectiveness ko manage karna.",
+        "C": "Drivers ko sirf hire karna.",
+        "D": "Vehicles ko paint karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fleet Management mein vehicles ke poore lifecycle ko manage karna shamil hai, unki purchase se lekar maintenance aur disposal tak, taki operations efficient aur cost-effective rahen."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Preventive Maintenance (PM) ka kya fayda hai fleet ke liye?",
+      "options": {
+        "A": "Vehicles ko zyada breakdown hone dena.",
+        "B": "Unexpected repairs ko minimize karna aur vehicle life badhana.",
+        "C": "Maintenance costs badhana.",
+        "D": "Fuel consumption badhana."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PM regular checks aur servicing se vehicles ko achhi condition mein rakhta hai, jisse breakdowns kam hote hain aur vehicle ki lifespan badhti hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Fleet Coordinator ka ek important kaam kya hai?",
+      "options": {
+        "A": "Company ke shareholders ko manage karna.",
+        "B": "Vehicle maintenance schedules aur repairs ko coordinate karna.",
+        "C": "Software develop karna.",
+        "D": "Marketing strategies banana."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fleet Coordinator vehicles ki availability aur reliability ensure karne ke liye maintenance aur repairs ko manage karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Commercial vehicles mein GPS tracking ka kya role hai?",
+      "options": {
+        "A": "Sirf entertainment ke liye.",
+        "B": "Vehicle location track karna, routes optimize karna aur driver behaviour monitor karna.",
+        "C": "Fuel tank ko refill karna.",
+        "D": "Tyres change karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GPS tracking se fleet managers vehicles ki real-time location dekh sakte hain, routes plan kar sakte hain aur driver performance ko analyze kar sakte hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Fuel efficiency ko improve karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Over-speeding karna.",
+        "B": "Regular vehicle maintenance aur proper tyre pressure maintain karna.",
+        "C": "Heavy acceleration karna.",
+        "D": "Zyada idling karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular maintenance aur sahi tyre pressure fuel consumption ko kam karne mein madad karta hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Vehicle logbook maintain karna kyun important hai?",
+      "options": {
+        "A": "Sirf shauk ke liye.",
+        "B": "Maintenance history, fuel consumption aur mileage ko record karne ke liye.",
+        "C": "Drivers ki personal details store karne ke liye.",
+        "D": "Company ke profits ko calculate karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Logbook se vehicle ki complete history track hoti hai, jo maintenance scheduling, cost analysis aur regulatory compliance ke liye zaroori hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Fleet mein vehicle downtime ka kya matlab hai?",
+      "options": {
+        "A": "Vehicle ka parking mein hona.",
+        "B": "Vehicle ka operational na hona due to maintenance ya repair.",
+        "C": "Vehicle ka road par chalna.",
+        "D": "Vehicle ka naya hona."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Downtime woh samay hai jab vehicle kaam nahi kar raha hota, usually maintenance, repair ya kisi aur reason se."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Driver safety training ka kya importance hai?",
+      "options": {
+        "A": "Sirf legal requirement poora karna.",
+        "B": "Accidents ko reduce karna aur safe driving practices ko promote karna.",
+        "C": "Drivers ko jaldi drive karne ke liye encourage karna.",
+        "D": "Fuel consumption badhana."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety training se drivers ki skills improve hoti hain, jisse accidents aur injuries kam hote hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Fleet utilization ko kaise improve kiya ja sakta hai?",
+      "options": {
+        "A": "Idle vehicles ki sankhya badhakar.",
+        "B": "Efficient route planning aur vehicle scheduling se.",
+        "C": "Kam vehicles kharidkar.",
+        "D": "Maintenance ko ignore karke."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Efficient route planning aur scheduling se vehicles ka maximum use hota hai, jisse idle time kam hota hai aur productivity badhti hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Vehicle inspection checklist mein kya shamil hona chahiye?",
+      "options": {
+        "A": "Driver ka favourite song.",
+        "B": "Tyre condition, lights, brakes, fluid levels, wipers.",
+        "C": "Vehicle ki original purchase price.",
+        "D": "Customer ka phone number."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vehicle inspection checklist mein sabhi critical components ki check shamil honi chahiye jo vehicle ki safety aur functionality ke liye zaroori hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Telematics system fleet management mein kya provide karta hai?",
+      "options": {
+        "A": "Sirf radio channels.",
+        "B": "Real-time data jaise location, speed, fuel level, engine diagnostics.",
+        "C": "Movies aur entertainment.",
+        "D": "Weather forecast."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Telematics data fleet managers ko vehicle performance, driver behaviour aur operational efficiency ke baare mein valuable insights deta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "What is the primary function of a vehicle's 'Tachograph' in commercial transport?",
+      "options": {
+        "A": "To play music for the driver.",
+        "B": "To record driving time, rest periods, and speed.",
+        "C": "To navigate routes using GPS.",
+        "D": "To measure engine temperature."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tachograph driver ke driving hours, rest periods, aur vehicle ki speed ko record karta hai, jo regulations aur safety compliance ke liye important hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Fleet mein vehicle 'lifecycle cost' mein kya shamil hai?",
+      "options": {
+        "A": "Sirf purchase price.",
+        "B": "Purchase, fuel, maintenance, insurance, aur disposal costs.",
+        "C": "Sirf fuel costs.",
+        "D": "Sirf maintenance costs."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lifecycle cost vehicle ke poore lifespan mein hone wale sabhi expenses ko include karti hai, purchase se lekar disposal tak."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Vehicle 'payload capacity' kya define karti hai?",
+      "options": {
+        "A": "Vehicle ki top speed.",
+        "B": "Maximum weight jo vehicle safely carry kar sakta hai.",
+        "C": "Fuel tank ki capacity.",
+        "D": "Number of passengers jo vehicle mein baith sakte hain."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Payload capacity woh maximum weight hai jo vehicle apne passengers aur cargo ke roop mein safely transport kar sakta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Fleet management mein 'asset tracking' ka kya fayda hai?",
+      "options": {
+        "A": "Sirf vehicle ki cleaning schedule manage karna.",
+        "B": "Vehicles aur equipment ki real-time location aur status ko monitor karna.",
+        "C": "Drivers ko entertainment provide karna.",
+        "D": "Fuel ki quality check karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Asset tracking se fleet managers ko vehicles aur anya valuable equipment ki exact location aur status pata chalti hai, jisse theft prevention aur better utilization hoti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Tyre pressure ko regular check karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf tyre ki appearance ke liye.",
+        "B": "Fuel efficiency, safety aur tyre lifespan ke liye.",
+        "C": "Vehicle ki speed badhane ke liye.",
+        "D": "Brakes ko zyada ghisane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi tyre pressure fuel efficiency ko maintain karta hai, road safety badhata hai aur tyres ki lifespan ko extend karta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Fleet management software (FMS) ka kya upyog hai?",
+      "options": {
+        "A": "Sirf email bhejne ke liye.",
+        "B": "Vehicle data, maintenance, fuel aur driver records ko centralize aur manage karna.",
+        "C": "Games khelne ke liye.",
+        "D": "Personal photos store karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FMS fleet operations ko streamline karta hai, data analysis provide karta hai aur overall efficiency ko improve karta hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Inventory Management ka kya uddeshya hai?",
+      "options": {
+        "A": "Zyada se zyada stock rakhna.",
+        "B": "Stock levels ko optimize karna, demand poori karna aur holding costs kam karna.",
+        "C": "Sirf products ko store karna.",
+        "D": "Customer complaints ko ignore karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inventory management ka aim hai ki right amount of stock available ho, taaki customer demand bhi poori ho aur excessive holding costs bhi na lagain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Automobile spare parts ke liye 'Warehouse' ka kya role hai?",
+      "options": {
+        "A": "Sirf vehicles ko park karna.",
+        "B": "Parts ko receive karna, store karna aur dispatch karna.",
+        "C": "Parts ko manufacture karna.",
+        "D": "Vehicles ko repair karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Warehouse parts ki systematic storage, handling aur movement ke liye zaroori hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "'Stockout' ka kya matlab hai?",
+      "options": {
+        "A": "Warehouse mein bahut zyada stock hona.",
+        "B": "Kisi item ka inventory mein available na hona jab uski demand ho.",
+        "C": "Naye products ka launch.",
+        "D": "Inventory ko successfully manage karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Stockout tab hota hai jab customer demand ko poora karne ke liye koi item stock mein na ho, jisse sales loss aur customer dissatisfaction hoti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "FIFO (First-In, First-Out) method ka kya fayda hai automobile parts mein?",
+      "options": {
+        "A": "Naye parts ko pehle use karna.",
+        "B": "Purane parts ko pehle use karna, taaki obsolescence aur damage kam ho.",
+        "C": "Parts ko randomly use karna.",
+        "D": "Sirf high-value parts ko pehle use karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FIFO ensures karta hai ki jo parts pehle aaye hain, woh pehle use hon, jisse expiry, damage ya obsolescence ka risk kam hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "'Safety Stock' kyun maintain kiya jaata hai?",
+      "options": {
+        "A": "Sirf zyada space consume karne ke liye.",
+        "B": "Unexpected demand spikes ya supply delays ko cope karne ke liye.",
+        "C": "Inventory costs badhane ke liye.",
+        "D": "Parts ko damage karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Safety stock ek buffer inventory hai jo unexpected situations mein stockouts se bachne ke liye maintain kiya jaata hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Warehouse layout design karte samay kya consider karna chahiye?",
+      "options": {
+        "A": "Sirf aesthetics.",
+        "B": "Efficient material flow, storage capacity aur accessibility.",
+        "C": "Sirf kitni light hai.",
+        "D": "Warehouse manager ki pasand."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek achha warehouse layout efficient operations, maximum storage utilization aur easy access provide karta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "ABC Analysis inventory management mein kya help karta hai?",
+      "options": {
+        "A": "Sabhi items ko equally treat karna.",
+        "B": "Items ko unki value aur importance ke hisaab se categorize karna.",
+        "C": "Sirf low-value items par focus karna.",
+        "D": "Inventory ko randomly arrange karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ABC analysis inventory items ko A (high-value), B (medium-value), C (low-value) categories mein divide karta hai, jisse inventory control efforts ko prioritize kiya ja sake."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Cycle Counting ka kya fayda hai?",
+      "options": {
+        "A": "Saal mein ek baar poora inventory count karna.",
+        "B": "Regularly chhote portions of inventory ko count karna, taaki accuracy maintain rahe.",
+        "C": "Sirf naye parts ko count karna.",
+        "D": "Inventory ko bilkul count na karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cycle counting se inventory records ki accuracy maintain hoti hai aur full physical inventory count ki zaroorat kam padti hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Warehouse Management System (WMS) ka kya upyog hai?",
+      "options": {
+        "A": "Sirf emails send karna.",
+        "B": "Inventory tracking, order fulfillment, receiving aur putaway processes ko automate aur optimize karna.",
+        "C": "Games khelna.",
+        "D": "Personal photos store karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "WMS warehouse operations ko streamline karta hai, accuracy badhata hai aur operational costs ko kam karta hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Material Handling Equipment (MHE) ka kya role hai warehouse mein?",
+      "options": {
+        "A": "Sirf office work karna.",
+        "B": "Goods ko efficiently move, store aur retrieve karna.",
+        "C": "Warehouse ko clean karna.",
+        "D": "Customer calls receive karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MHE (jaise forklifts, pallet jacks) goods ki movement aur storage ko safer aur faster banata hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Barcoding system inventory management mein kaise help karta hai?",
+      "options": {
+        "A": "Sirf products ko attractive dikhana.",
+        "B": "Quick aur accurate inventory identification aur tracking.",
+        "C": "Inventory ko hide karna.",
+        "D": "Manual data entry ko badhana."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Barcodes se items ko quickly scan aur identify kiya ja sakta hai, jisse data entry errors kam hote hain aur tracking efficient hoti hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "What is 'Shrinkage' in inventory management?",
+      "options": {
+        "A": "Inventory ka size mein chhota hona.",
+        "B": "Inventory loss due to theft, damage, or administrative errors.",
+        "C": "Inventory ka increase hona.",
+        "D": "Inventory ko successfully sell karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Shrinkage refers to the reduction in inventory quantity due to reasons other than sales, jaise ki chori, damage, ya record errors."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Inventory turnover ratio kya indicate karta hai?",
+      "options": {
+        "A": "Kitna stock damage hua.",
+        "B": "Kitni jaldi inventory sold aur replaced ho rahi hai.",
+        "C": "Total inventory value.",
+        "D": "Warehouse ka size."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High inventory turnover ratio indicate karta hai ki inventory efficiently manage ho rahi hai aur capital tied up nahi hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Ek efficient warehouse mein 'picking' process ka kya aim hai?",
+      "options": {
+        "A": "Items ko slowly pick karna.",
+        "B": "Orders ko accurately aur quickly fulfill karna.",
+        "C": "Sirf bade items ko pick karna.",
+        "D": "Zyada mistakes karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Efficient picking se customer orders timely aur correctly deliver hote hain, jisse customer satisfaction badhti hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Automobile parts ko store karte samay temperature aur humidity control kyun important hai?",
+      "options": {
+        "A": "Sirf workers ke comfort ke liye.",
+        "B": "Parts ko rust, corrosion aur degradation se bachane ke liye.",
+        "C": "Parts ko zyada chamakdar banane ke liye.",
+        "D": "Warehouse ko thanda rakhne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper environmental control delicate electronic parts, rubber components aur metal parts ko damage hone se bachata hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is 'Dock Scheduling' in a warehouse?",
+      "options": {
+        "A": "Drivers ke liye rest area schedule karna.",
+        "B": "Incoming aur outgoing trucks ke liye loading/unloading docks ko manage aur schedule karna.",
+        "C": "Warehouse cleaning schedule karna.",
+        "D": "Inventory counting schedule karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dock scheduling se trucks ka flow optimize hota hai, waiting times kam hote hain aur warehouse efficiency badhti hai."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Road transportation ka mukhya fayda kya hai for short to medium distances?",
+      "options": {
+        "A": "Sabse sasta mode.",
+        "B": "Flexibility aur door-to-door delivery.",
+        "C": "Sirf international transport ke liye.",
+        "D": "Bahut slow hota hai."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Road transport flexibility provide karta hai aur directly source se destination tak delivery kar sakta hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Route optimization ka kya uddeshya hai?",
+      "options": {
+        "A": "Sabse lamba route choose karna.",
+        "B": "Shortest, most efficient route find karna to save fuel aur time.",
+        "C": "Sirf scenic routes choose karna.",
+        "D": "Zyada toll roads use karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Route optimization se operational costs kam hote hain, delivery times improve hote hain aur customer satisfaction badhti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Bill of Lading (BOL) kya hai?",
+      "options": {
+        "A": "Ek marketing brochure.",
+        "B": "Carrier aur shipper ke beech ek legal document jo goods ki details aur transport terms specify karta hai.",
+        "C": "Ek employee ID card.",
+        "D": "Vehicle registration document."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "BOL ek critical legal document hai jo goods ki ownership, destination aur quantity ko confirm karta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Intermodal transportation ka kya matlab hai?",
+      "options": {
+        "A": "Sirf ek mode of transport use karna.",
+        "B": "Goods ko ek hi container mein multiple modes of transport (jaise road, rail, sea) se move karna.",
+        "C": "Sirf local delivery karna.",
+        "D": "Personal belongings transport karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Intermodal transport efficiency badhata hai aur cost-effectiveness provide karta hai by combining the strengths of different transport modes."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "POD (Proof of Delivery) ka kya importance hai?",
+      "options": {
+        "A": "Sirf driver ki signature.",
+        "B": "Goods ki successful delivery ko confirm karna aur disputes avoid karna.",
+        "C": "Fuel expenses track karna.",
+        "D": "Vehicle maintenance record karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "POD ek signed document hai jo confirm karta hai ki goods receive ho gaye hain, jo billing aur accountability ke liye zaroori hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "What is 'Consolidation' in transportation?",
+      "options": {
+        "A": "Har order ko alag se ship karna.",
+        "B": "Multiple small shipments ko ek bade shipment mein combine karna.",
+        "C": "Sirf international shipments consolidate karna.",
+        "D": "Shipments ko damage karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Consolidation se transportation costs kam hote hain aur efficiency badhti hai, especially for Less-than-Truckload (LTL) shipments."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Perishable goods (jaise kuch auto chemicals) ke liye kaun sa mode of transport sabse suitable hai?",
+      "options": {
+        "A": "Standard road transport.",
+        "B": "Refrigerated or temperature-controlled transport.",
+        "C": "Sea freight.",
+        "D": "Rail freight."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Temperature-controlled transport perishable goods ki quality aur integrity maintain karta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Freight cost calculate karte samay kya factors consider kiye jaate hain?",
+      "options": {
+        "A": "Sirf driver ka mood.",
+        "B": "Weight, volume, distance, mode of transport aur urgency.",
+        "C": "Sirf fuel price.",
+        "D": "Vehicle ka colour."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ye sab factors freight charges ko determine karte hain aur overall transportation cost ko affect karte hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "What is 'Deadheading' in logistics?",
+      "options": {
+        "A": "Truck ka full load ke saath chalna.",
+        "B": "Truck ka return trip par khaali chalna.",
+        "C": "Truck ka maintenance ke liye jana.",
+        "D": "Truck ka parking mein hona."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Deadheading inefficient hota hai kyunki isse fuel waste hota hai aur revenue generate nahi hota. Isse minimize karne ki koshish ki jaati hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Customs clearance process ki zaroorat kab padti hai?",
+      "options": {
+        "A": "Sirf domestic shipments ke liye.",
+        "B": "International borders across goods move karte samay.",
+        "C": "Sirf jab goods damaged hon.",
+        "D": "Warehouse se delivery ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customs clearance international trade mein ek mandatory process hai to ensure goods legal hain aur duties pay kiye gaye hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "GPS navigation system ka route planning mein kya fayda hai?",
+      "options": {
+        "A": "Sirf music play karna.",
+        "B": "Real-time traffic updates, shortest routes aur ETA provide karna.",
+        "C": "Fuel tank ko refill karna.",
+        "D": "Tyres change karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GPS navigation se drivers ko efficient routes milte hain, jisse time aur fuel save hota hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "What is 'Last-Mile Optimization'?",
+      "options": {
+        "A": "Warehouse se manufacturing plant tak ka route optimize karna.",
+        "B": "Final delivery stage ko efficient banana, jisme costs kam karna aur speed badhana shamil hai.",
+        "C": "International shipping routes optimize karna.",
+        "D": "Raw material procurement routes optimize karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Last-mile optimization delivery ki sabse challenging aur costly stage ko improve karta hai, especially urban areas mein."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Hazardous materials (HAZMAT) ko transport karte samay kya precautions leni chahiye?",
+      "options": {
+        "A": "Unko normal goods ke saath mix karna.",
+        "B": "Special packaging, labeling aur certified carriers ka use karna.",
+        "C": "Koi precaution na lena.",
+        "D": "Unko open container mein transport karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HAZMAT transport ke liye strict regulations hote hain safety aur environmental protection ke liye."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "A 'Hub-and-Spoke' distribution model ka kya fayda hai?",
+      "options": {
+        "A": "Har destination ke liye direct route.",
+        "B": "Central hub se multiple destinations tak efficient routing aur consolidation.",
+        "C": "Sirf ek vehicle use karna.",
+        "D": "High transportation costs."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hub-and-spoke model se network efficiency badhti hai, costs kam hote hain aur scalability milti hai, especially for large distribution networks."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Transporter selection mein kya factors important hote hain?",
+      "options": {
+        "A": "Sirf transporter ka naam.",
+        "B": "Reliability, cost, transit time, safety record aur insurance.",
+        "C": "Transporter ke drivers ki personal details.",
+        "D": "Transporter ki website ka design."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi transporter choose karna supply chain ki efficiency aur reliability ke liye crucial hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Ek 'Delivery Challan' ka kya uddeshya hai?",
+      "options": {
+        "A": "Sirf customer ko bill dena.",
+        "B": "Goods ki details specify karna jo deliver kiye ja rahe hain, without commercial value.",
+        "C": "Driver ki salary slip.",
+        "D": "Vehicle registration details."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Delivery Challan goods ki movement ko track karta hai aur receiving party ko goods ki details provide karta hai, especially jab immediate sale na ho."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "What is 'Backhauling' in transportation?",
+      "options": {
+        "A": "Only transporting goods in one direction.",
+        "B": "Picking up a load for the return trip to avoid empty travel.",
+        "C": "Transporting goods at night only.",
+        "D": "Using a smaller vehicle for transport."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Backhauling se fuel efficiency badhti hai, costs kam hote hain aur environmental impact reduce hota hai by minimizing empty runs."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Road safety regulations ka palan karna kyun important hai?",
+      "options": {
+        "A": "Sirf fine se bachne ke liye.",
+        "B": "Accidents ko prevent karna aur drivers, goods, aur public ki safety ensure karna.",
+        "C": "Delivery time badhane ke liye.",
+        "D": "Fuel consumption badhane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Road safety regulations ka palan karna sabhi road users ki suraksha ke liye aur legal compliance ke liye zaroori hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Vehicle insurance ka kya role hai fleet operations mein?",
+      "options": {
+        "A": "Sirf vehicle ko accha dikhana.",
+        "B": "Accidents, theft, aur damage se hone wale financial losses se protect karna.",
+        "C": "Fuel purchase ke liye.",
+        "D": "Vehicle ki speed badhane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Insurance fleet assets aur business ko unforeseen events se hone wale financial risks se cover karta hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Driver fatigue ko manage karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Drivers ko bina rest ke drive karne dena.",
+        "B": "Driving hours regulate karna aur regular breaks ensure karna.",
+        "C": "Sirf raat mein drive karna.",
+        "D": "Zyada coffee peene ko bolna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fatigue driving accidents ka ek major cause hai, isliye proper rest aur driving hour limits zaroori hain."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Vehicle emission norms ka palan kyun zaroori hai?",
+      "options": {
+        "A": "Sirf vehicles ko zyada costly banane ke liye.",
+        "B": "Air pollution control karna aur environmental impact kam karna.",
+        "C": "Engine power badhane ke liye.",
+        "D": "Fuel consumption badhane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emission norms environment aur public health ko protect karne ke liye banaye gaye hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "What is 'Geofencing' in fleet management technology?",
+      "options": {
+        "A": "Physical fence lagana.",
+        "B": "Virtual boundary create karna aur jab vehicle us area mein enter ya exit karta hai to alerts receive karna.",
+        "C": "Sirf vehicle ki speed limit set karna.",
+        "D": "Vehicle ko remote se start karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Geofencing se vehicle movement monitor hoti hai, unauthorized usage prevent hota hai aur operational efficiency badhti hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Fleet mein data security kyun important hai?",
+      "options": {
+        "A": "Sirf data ko hide karna.",
+        "B": "Confidential information (jaise customer data, route plans) ko unauthorized access se protect karna.",
+        "C": "Data ko delete karna.",
+        "D": "Data ko randomly share karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Data security business reputation, legal compliance aur competitive advantage ke liye crucial hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Vehicle fitness certificate ka kya importance hai?",
+      "options": {
+        "A": "Sirf ek paper ka tukda.",
+        "B": "Confirm karna ki vehicle roadworthy hai aur safety standards meet karta hai.",
+        "C": "Vehicle ki resale value badhana.",
+        "D": "Fuel efficiency check karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fitness certificate ensure karta hai ki vehicle operate karne ke liye safe hai aur regulations ka palan karta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "E-way Bill ki zaroorat kab padti hai?",
+      "options": {
+        "A": "Sirf personal trips ke liye.",
+        "B": "Goods ko ek state se dusre state mein ya state ke andar certain value se zyada transport karte samay.",
+        "C": "Sirf international transport ke liye.",
+        "D": "Vehicle purchase karte samay."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "E-way Bill GST regime ke under goods ki movement ko track karne ke liye zaroori hai, taaki tax evasion na ho."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Advanced Driver-Assistance Systems (ADAS) ka kya fayda hai?",
+      "options": {
+        "A": "Sirf drivers ko distract karna.",
+        "B": "Safety features jaise collision warning, lane departure assist provide karna.",
+        "C": "Fuel consumption badhana.",
+        "D": "Vehicle ki speed kam karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ADAS accidents ko prevent karne aur driver safety ko enhance karne mein madad karta hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "RFID technology inventory management mein kaise upyogi hai?",
+      "options": {
+        "A": "Sirf labels print karna.",
+        "B": "Items ko wirelessly track aur identify karna, bina direct line-of-sight ke.",
+        "C": "Manual counting ko badhana.",
+        "D": "Inventory ko damage karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "RFID se inventory accuracy badhti hai, counting time kam hota hai aur real-time visibility milti hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "What is 'Predictive Maintenance' in fleet management?",
+      "options": {
+        "A": "Sirf vehicle breakdown hone ke baad repair karna.",
+        "B": "Data analysis aur sensors ka use karke potential equipment failures ko predict karna.",
+        "C": "Regularly scheduled maintenance karna.",
+        "D": "Maintenance ko ignore karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Predictive maintenance se unplanned downtime kam hota hai, maintenance costs optimize hote hain aur vehicle reliability badhti hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Environmental compliance (jaise disposing of used oil) kyun important hai?",
+      "options": {
+        "A": "Sirf extra cost lagane ke liye.",
+        "B": "Pollution prevent karna aur legal penalties se bachna.",
+        "C": "Business ko promote karna.",
+        "D": "Fuel efficiency badhana."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Environmental regulations ka palan karna business ethics, legal obligations aur sustainability ke liye zaroori hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Driver logbooks ya Electronic Logging Devices (ELDs) ka kya purpose hai?",
+      "options": {
+        "A": "Sirf driver ki personal notes record karna.",
+        "B": "Driving hours, duty status aur rest periods ko accurately record karna.",
+        "C": "Vehicle ki speed badhana.",
+        "D": "Fuel consumption ignore karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "ELDs aur logbooks hours of service (HOS) regulations ka palan ensure karte hain, jisse driver fatigue aur accidents kam hote hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "What is 'Blockchain's potential' in supply chain logistics?",
+      "options": {
+        "A": "Sirf cryptocurrencies create karna.",
+        "B": "Supply chain transactions ki transparency, traceability aur security badhana.",
+        "C": "Physical goods ko store karna.",
+        "D": "Manual data entry ko promote karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Blockchain distributed ledger technology use karke supply chain data ko secure aur tamper-proof banata hai, jisse trust aur efficiency badhti hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Fleet safety policy mein kya shamil hona chahiye?",
+      "options": {
+        "A": "Sirf vehicle ka colour.",
+        "B": "Driver training, vehicle maintenance standards, accident reporting procedures.",
+        "C": "Company ki marketing strategy.",
+        "D": "Employees ki favourite food list."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek comprehensive safety policy accidents ko minimize karti hai aur safe working environment banati hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Goods-in-transit insurance kyun important hai?",
+      "options": {
+        "A": "Sirf driver ki personal belongings cover karna.",
+        "B": "Goods ko transport ke dauran damage, theft ya loss se protect karna.",
+        "C": "Vehicle ki maintenance cover karna.",
+        "D": "Fuel costs cover karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Goods-in-transit insurance businesses ko financial losses se bachata hai jo goods ke transport ke dauran ho sakte hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Vehicle inspection software ka kya fayda hai?",
+      "options": {
+        "A": "Sirf photos click karna.",
+        "B": "Digital inspection forms, real-time reporting aur maintenance scheduling provide karna.",
+        "C": "Manual inspection ko badhana.",
+        "D": "Paperwork ko badhana."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Inspection software inspection process ko streamline karta hai, accuracy badhata hai aur compliance ensure karta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Customer service logistics mein kyun important hai?",
+      "options": {
+        "A": "Sirf complaints sunne ke liye.",
+        "B": "Customer satisfaction, brand loyalty aur business growth ke liye.",
+        "C": "Delivery time badhane ke liye.",
+        "D": "Operating costs badhane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Excellent customer service se repeat business milta hai aur positive word-of-mouth marketing hoti hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Effective communication fleet coordinator ke liye kyun zaroori hai?",
+      "options": {
+        "A": "Sirf personal talks ke liye.",
+        "B": "Drivers, customers, suppliers aur internal teams ke beech smooth coordination ke liye.",
+        "C": "Information ko hide karne ke liye.",
+        "D": "Misunderstandings create karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clear aur timely communication se operations smooth hote hain aur errors kam hote hain."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Customer complaint ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Complaint ko ignore karna.",
+        "B": "Dhyan se sunna, empathy dikhana, solution offer karna aur follow up karna.",
+        "C": "Customer se argue karna.",
+        "D": "Complaint ko dusre department par daal dena."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Effective complaint handling customer retention aur brand image ko improve karta hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Logistics mein 'Proactive Communication' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf tab communicate karna jab problem ho.",
+        "B": "Customers ko potential delays ya issues ke baare mein pehle se inform karna.",
+        "C": "Sirf internal team se baat karna.",
+        "D": "Customer ko zyada information na dena."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proactive communication customer trust badhata hai aur negative impact ko kam karta hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Ek fleet coordinator ko drivers ke saath kaise communicate karna chahiye?",
+      "options": {
+        "A": "Sirf orders dena.",
+        "B": "Clear instructions, constructive feedback aur support provide karna.",
+        "C": "Unko ignore karna.",
+        "D": "Unki complaints ko dismiss karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Positive communication drivers ke morale aur performance ko boost karta hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Customer feedback collect karna kyun important hai?",
+      "options": {
+        "A": "Sirf time waste karne ke liye.",
+        "B": "Services ko improve karna, operational gaps identify karna aur customer needs samajhna.",
+        "C": "Sirf positive reviews collect karna.",
+        "D": "Feedback ko ignore karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Feedback se business ko valuable insights milte hain jisse services aur customer experience ko enhance kiya ja sake."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Conflict resolution skills fleet coordinator ke liye kyun important hain?",
+      "options": {
+        "A": "Sirf arguments jeetne ke liye.",
+        "B": "Disputes ko constructively handle karna aur working relationships maintain karna.",
+        "C": "Problems ko badhana.",
+        "D": "Conflicts ko avoid karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Conflict resolution se team harmony maintain hoti hai aur operational disruptions kam hote hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Email communication karte samay kya best practice hai?",
+      "options": {
+        "A": "Bahut lamba email likhna.",
+        "B": "Clear subject line, concise message aur professional tone use karna.",
+        "C": "Slang use karna.",
+        "D": "Attachments ke bina send karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professional emails effective communication aur clarity ensure karte hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "What is 'Escalation Matrix' in customer service?",
+      "options": {
+        "A": "Sirf problems ko ignore karna.",
+        "B": "Ek structured path jisme unresolved issues ko higher authority tak le jaaya jaata hai.",
+        "C": "Customer ko zyada options dena.",
+        "D": "Complaint ko resolve na karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Escalation matrix ensure karti hai ki complex ya critical issues timely aur appropriately address kiye jaayen."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Phone par customer se baat karte samay kya important hai?",
+      "options": {
+        "A": "Sirf jaldi se call cut karna.",
+        "B": "Active listening, clear speech aur polite tone maintain karna.",
+        "C": "Background noise rakhna.",
+        "D": "Customer ko interrupt karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Good phone etiquette professional image banati hai aur effective communication ensure karti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Documentation (jaise delivery receipts) maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf paper waste karne ke liye.",
+        "B": "Records maintain karna, legal compliance aur accountability ke liye.",
+        "C": "Information ko bhool jaana.",
+        "D": "Sirf office ko tidy rakhna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper documentation disputes ko solve karne aur operations ko audit karne mein madad karta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Teamwork ka kya importance hai logistics operations mein?",
+      "options": {
+        "A": "Sirf individual work karna.",
+        "B": "Goals achieve karna, problem-solving aur efficiency badhana.",
+        "C": "Conflicts create karna.",
+        "D": "Information ko hide karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Teamwork se coordination badhta hai aur complex tasks ko effectively handle kiya ja sakta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "What is 'Service Level Agreement (SLA)' in logistics?",
+      "options": {
+        "A": "Customer aur supplier ke beech informal agreement.",
+        "B": "Ek contract jo service standards, delivery times aur performance metrics define karta hai.",
+        "C": "Sirf customer ki feedback form.",
+        "D": "Employee ki performance review."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "SLA clear expectations set karta hai aur accountability provide karta hai, jisse customer satisfaction maintain rehti hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Customer service mein 'Empathy' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf customer ko ignore karna.",
+        "B": "Customer ke feelings aur perspective ko samajhna aur appreciate karna.",
+        "C": "Apni baat manwana.",
+        "D": "Customer ko blame karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Empathy se customers ko valued feel hota hai aur stronger relationships bante hain."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Crisis communication plan mein kya shamil hona chahiye?",
+      "options": {
+        "A": "Sirf panic karna.",
+        "B": "Designated spokespersons, pre-approved messages aur communication channels for emergencies.",
+        "C": "Koi plan na banana.",
+        "D": "Information ko chupana."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Crisis communication plan unexpected events ke dauran effective response aur minimal damage ensure karta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Logistics mein 'Feedback Loop' ka kya importance hai?",
+      "options": {
+        "A": "Sirf complaints collect karna.",
+        "B": "Continuous improvement ke liye data aur insights ko collect aur analyze karna.",
+        "C": "Feedback ko ignore karna.",
+        "D": "Sirf ek-tarfa communication."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Feedback loop se processes ko optimize kiya ja sakta hai aur customer experience ko consistently enhance kiya ja sakta hai."
+    }
+  ]
+}

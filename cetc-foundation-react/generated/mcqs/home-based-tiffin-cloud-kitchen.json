@@ -1,0 +1,1443 @@
+{
+  "course_name": "Home-Based Tiffin & Cloud Kitchen",
+  "sector": "Food, Catering & Hospitality",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Tiffin & Cloud Kitchen Business",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Kitchen Setup & Equipment",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Menu Planning & Food Costing",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Food Safety & Hygiene (FSSAI Basics)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Cooking Techniques & Food Preparation",
+      "question_range": "Q69-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Operations, Marketing & Customer Service",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek Home-based Tiffin service ka primary goal kya hota hai?",
+      "options": {
+        "A": "Regular customers ko ghar jaisa, healthy khana provide karna",
+        "B": "Sirf party aur events ke liye catering karna",
+        "C": "Bahut mehenge, gourmet dishes bechna",
+        "D": "Restaurant chain kholna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Tiffin service ka mukhya uddeshya grahakon ko niyamit roop se swasth aur ghar jaisa khana uplabdh karana hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Cloud kitchen ka doosra popular naam kya hai?",
+      "options": {
+        "A": "Fine-dining restaurant",
+        "B": "Ghost kitchen ya Virtual kitchen",
+        "C": "Dhaba",
+        "D": "Cafeteria"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cloud kitchens ko ghost kitchens, virtual kitchens, ya dark kitchens bhi kaha jata hai kyunki unka koi physical storefront ya dine-in space nahi hota."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "India mein home-based food business shuru karne ke liye sabse important legal requirement kya hai?",
+      "options": {
+        "A": "Company registration",
+        "B": "FSSAI registration ya license",
+        "C": "GST number",
+        "D": "Shop & Establishment license"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bharat mein kisi bhi prakar ka food business chalane ke liye Food Safety and Standards Authority of India (FSSAI) ka registration ya license lena anivarya hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Business planning mein SWOT analysis mein 'S' ka kya matlab hai?",
+      "options": {
+        "A": "Strategy",
+        "B": "Sales",
+        "C": "Strengths",
+        "D": "Success"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "SWOT analysis mein S - Strengths (taakat), W - Weaknesses (kamzori), O - Opportunities (avsar), aur T - Threats (khatre) hote hain."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek safal tiffin business ke liye inme se sabse zaroori kya hai?",
+      "options": {
+        "A": "Bahut fancy packaging",
+        "B": "Sirf exotic dishes banana",
+        "C": "Food quality aur consistency maintain karna",
+        "D": "Har din menu change karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Customer loyalty banane ke liye sabse zaroori hai ki aap hamesha acchi quality ka khana banayein aur taste ko consistent rakhein."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "'Aggregator-owned cloud kitchen' model mein kitchen space aur infrastructure kaun provide karta hai?",
+      "options": {
+        "A": "Food business owner khud",
+        "B": "Sarkaar (Government)",
+        "C": "Food aggregator jaise Swiggy ya Zomato",
+        "D": "Private investor"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Is model mein, Swiggy Access jaise aggregators, restaurants ko pre-built kitchen spaces provide karte hain jisse unhe naye areas mein expand karne mein aasani hoti hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Ek business plan banane ka mukhya uddeshya kya hota hai?",
+      "options": {
+        "A": "Sirf loan lene ke liye",
+        "B": "Business ke goals aur unhe haasil karne ki strategy ko outline karna",
+        "C": "Apne competitors ko dikhane ke liye",
+        "D": "Roz ka menu decide karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Business plan ek roadmap ki tarah hota hai jo aapke business ke lakshya, strategies, financial projections, aur operational plans ko detail mein batata hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Apni tiffin service ke liye 'Target Audience' decide karte waqt kya dhyan mein rakhna chahiye?",
+      "options": {
+        "A": "Sirf unki age",
+        "B": "Unka location, profession, aur food preferences",
+        "C": "Sirf unka gender",
+        "D": "Sirf unki income"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi target audience (jaise students, working professionals) ko samajhne ke liye unke location, kaam, aur khane ki pasand jaisi baaton par dhyan dena zaroori hai, taaki aap unki zaroorat poori kar sakein."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Ek small food business ke liye GST registration kab anivarya ho jaata hai?",
+      "options": {
+        "A": "Jab saalana turnover ek nirdharit seema (threshold limit) se zyada ho jaaye",
+        "B": "Business shuru karte hi",
+        "C": "Jab aap online aggregators par sell karte hain",
+        "D": "A aur C dono"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "GST registration tab zaroori hai jab aapka turnover nirdharit seema ko paar kar de, ya agar aap e-commerce platform (jaise Zomato/Swiggy) ke through sell kar rahe hain, jiske liye turnover limit nahi hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Apne tiffin business ki 'Brand Identity' banane mein kya shamil hai?",
+      "options": {
+        "A": "Business ka naam aur logo",
+        "B": "Packaging ka design",
+        "C": "Customer service ka tarika",
+        "D": "Upar ke sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Brand identity sirf logo ya naam nahi hai, balki isme packaging, customer experience, aur aapke business ki overall personality shamil hoti hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Business shuru karne ke liye 'Bootstrapping' ka kya matlab hai?",
+      "options": {
+        "A": "Bank se bada loan lena",
+        "B": "Investors se funding lena",
+        "C": "Apni personal savings aur kam se kam kharch mein business shuru karna",
+        "D": "Sarkari subsidy lena"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Bootstrapping ka matlab hai bina kisi bahari nivesh (external investment) ke, apne khud ke paiso se aur kam se kam sansadhano ka istemal karke business ko shuru karna aur chalana."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Market research karna kyun zaroori hai?",
+      "options": {
+        "A": "Apne competitors aur customer ki zarooraton ko samajhne ke liye",
+        "B": "Sirf menu price decide karne ke liye",
+        "C": "Sirf FSSAI license lene ke liye",
+        "D": "Yeh zaroori nahi hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Market research se aapko pata chalta hai ki market mein kya chal raha hai, aapke competitors kya kar rahe hain, aur aapke potential customers kya chahte hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Ek tiffin service ke liye 'USP' (Unique Selling Proposition) kya ho sakti hai?",
+      "options": {
+        "A": "Ghar ka bana authentic khana",
+        "B": "Special diet-focused meals (jaise keto, high-protein)",
+        "C": "Eco-friendly packaging ka istemal",
+        "D": "Upar ke sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "USP woh khaasiyat hai jo aapko aapke competitors se alag banati hai. Yeh kuch bhi ho sakta hai - authentic taste, healthy options, ya sustainable practices."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Sole Proprietorship business structure ka kya matlab hai?",
+      "options": {
+        "A": "Ek business jiske bahut saare partners ho",
+        "B": "Ek business jo ek hi vyakti dwara own kiya jaata hai",
+        "C": "Ek private limited company",
+        "D": "Ek sarkari sanstha"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sole Proprietorship ek business ka prakar hai jisme ek hi maalik hota hai aur wahi business ke sabhi fayde aur nuksan ke liye zimmedar hota hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "FSSAI License aur FSSAI Registration mein mukhya antar kya hai?",
+      "options": {
+        "A": "Dono ek hi cheez hai",
+        "B": "Registration chhote businesses ke liye hai, jabki License bade businesses ke liye",
+        "C": "License sasta hota hai",
+        "D": "Registration ke liye zyada documents lagte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FSSAI Registration chhote food business operators (FBOs) ke liye hota hai jinka saalana turnover 12 lakh tak ho. Isse zyada turnover hone par FSSAI State ya Central License ki zaroorat padti hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Business mein 'Break-Even Point' kya hota hai?",
+      "options": {
+        "A": "Jab business ko bahut zyada profit hota hai",
+        "B": "Jab business ko nuksan hota hai",
+        "C": "Woh point jahan business ka total revenue uske total cost ke barabar ho (No Profit, No Loss)",
+        "D": "Business ka pehla din"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Break-Even Point woh sales level hai jahan par company na to koi munafa kamati hai aur na hi koi nuksan uthati hai. Saare kharche nikal jaate hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek naye home-based tiffin service ke liye kaunsa marketing method sabse sasta aur prabhavi hai?",
+      "options": {
+        "A": "TV advertisement",
+        "B": "Newspaper advertisement",
+        "C": "Word-of-mouth aur social media marketing (WhatsApp, Facebook)",
+        "D": "Bade-bade hoardings lagana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Naye aur chhote businesses ke liye, apne social circle aur local community mein word-of-mouth (logon dwara prachar) aur social media platforms ka istemal karna sabse kam kharchila aur asardar tarika hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Commercial kitchen mein 'First-In, First-Out' (FIFO) method kiske liye istemal hota hai?",
+      "options": {
+        "A": "Staff ki attendance ke liye",
+        "B": "Food ingredients ko store aur use karne ke liye",
+        "C": "Customer orders lene ke liye",
+        "D": "Bartan dhone ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "FIFO ka matlab hai jo saaman pehle aaya hai, use pehle istemal karo. Isse food wastage kam hota hai aur purana stock pehle nikal jaata hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Ek small cloud kitchen ke liye inme se kaunsa equipment sabse zaroori hai?",
+      "options": {
+        "A": "Ek bada walk-in freezer",
+        "B": "Ek commercial 4-burner gas stove, refrigerator, aur sinks",
+        "C": "Ek ice-cream machine",
+        "D": "Ek wood-fired pizza oven"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kisi bhi kitchen ki basic zaroorat cooking range (gas stove), food ko fresh rakhne ke liye refrigerator, aur safai ke liye sinks hote hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Kitchen mein accha ventilation (hawadari) aur exhaust system kyun zaroori hai?",
+      "options": {
+        "A": "Khane ko jaldi thanda karne ke liye",
+        "B": "Dhuaan, garmi aur khane ki smell ko bahar nikalne ke liye",
+        "C": "Kitchen ko sundar dikhane ke liye",
+        "D": "Zyada shor karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek accha exhaust system kitchen mein kaam karne ke mahaul ko behtar banata hai, dhuein aur garmi ko kam karta hai, aur aag lagne ke khatre ko bhi kam karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Stainless steel ke bartan aur surfaces commercial kitchens mein kyun prefer kiye jaate hain?",
+      "options": {
+        "A": "Kyunki yeh bahut saste hote hain",
+        "B": "Kyunki yeh non-porous, saaf karne mein aasan aur zang-rodhak (rust-proof) hote hain",
+        "C": "Kyunki yeh bahut halke hote hain",
+        "D": "Kyunki yeh khane ko meetha bana dete hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stainless steel durable hota hai, isme bacteria nahi panapte, aur ise saaf karna bahut aasan hota hai, isliye yeh food safety standards ke liye sabse accha maana jaata hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Bartan saaf karne ke 3-compartment sink method mein, teesra sink kiske liye hota hai?",
+      "options": {
+        "A": "Bartano ko sabun se dhone ke liye (Wash)",
+        "B": "Bartano se sabun hatane ke liye (Rinse)",
+        "C": "Bartano ko sanitize karne ke liye (Sanitize)",
+        "D": "Bartano ko sukhane ke liye (Dry)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "3-compartment sink method ka sahi kram hai: 1. Wash (sabun aur garam paani), 2. Rinse (saaf paani), 3. Sanitize (sanitizing solution aur paani), iske baad air dry karna."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Kitchen mein alag-alag rang ke chopping boards ka istemal kyun kiya jaata hai?",
+      "options": {
+        "A": "Kitchen ko colorful banane ke liye",
+        "B": "Cross-contamination ko rokne ke liye",
+        "C": "Alag-alag chef ke liye",
+        "D": "Yeh ek purana fashion hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Alag rang ke board alag food items ke liye use hote hain (jaise laal-kaccha meat, hara-sabziyan) taaki kachhe khane ke bacteria pake hue khane mein na jayein."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Fire extinguisher ko kitchen mein kahan rakhna chahiye?",
+      "options": {
+        "A": "Ek locked store room mein",
+        "B": "Gas stove ke theek upar",
+        "C": "Ek aasaani se dikhne aur pahunchne wali jagah par, exit ke paas",
+        "D": "Kitchen ke bahar"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Aag bujhane ka yantra aisi jagah hona chahiye jahan aapat sthiti mein use aasani se liya ja sake, aamtaur par kitchen ke bahar nikalne ke raaste ke paas."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "FSSAI ke anusaar, refrigerator ka ideal temperature kya hona chahiye?",
+      "options": {
+        "A": "10°C se upar",
+        "B": "5°C ya usse neeche",
+        "C": "0°C (freezing point)",
+        "D": "8°C"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Refrigerator ko 5°C ya usse kam तापमान par rakhna chahiye taaki bacteria ki growth ko roka ja sake. Freezer ka तापमान -18°C ya usse kam hona chahiye."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Ek combi oven ka kya fayda hai?",
+      "options": {
+        "A": "Yeh sirf khana garam karta hai",
+        "B": "Yeh ek hi machine mein steam, convection (dry heat) aur dono ka combination provide karta hai",
+        "C": "Yeh sirf bake karne ke kaam aata hai",
+        "D": "Yeh oven bahut sasta hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Combi oven bahut versatile hota hai. Isme steaming, baking, roasting, sab kuch kiya ja sakta hai, jisse jagah aur samay dono ki bachat hoti hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Kitchen layout design karte waqt 'work triangle' concept kin teen cheezon ke beech ke aasan movement ko refer karta hai?",
+      "options": {
+        "A": "Stove, Sink, aur Refrigerator",
+        "B": "Stove, Microwave, aur Dustbin",
+        "C": "Sink, Dishwasher, aur Storage",
+        "D": "Cutting area, Stove, aur Serving area"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Work triangle kitchen ka ek efficiency concept hai jismein mukhya kaam ki jagah - stove (cooking), sink (cleaning), aur refrigerator (storage) - ek triangle banati hain, jisse chef ko kaam karne mein aasani ho."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Kitchen mein pest control (keet niyantran) ka sabse pehla aur zaroori step kya hai?",
+      "options": {
+        "A": "Bahut saare chemical spray karna",
+        "B": "Kitchen ko saaf suthra rakhna aur khane ko aese hi khula na chhodna",
+        "C": "Rozana pest control company ko bulana",
+        "D": "Kitchen mein andhera rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Keede-makodon ko rokne ka sabse accha tarika hai unhe khana aur panah na milne dena. Iske liye kitchen ki niyamit safai aur khane ka sahi storage bahut zaroori hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Commercial kitchen mein LPG gas cylinder istemal karte waqt kya savdhani baratni chahiye?",
+      "options": {
+        "A": "Cylinder ko hamesha leta kar (horizontally) rakhna chahiye",
+        "B": "Gas leak hone par electrical switches on/off nahi karne chahiye",
+        "C": "Leak check karne ke liye maachis ki teeli jalani chahiye",
+        "D": "Cylinder ko stove ke bilkul paas rakhna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gas leak hone par electrical switch on/off karne se chingari (spark) nikal sakti hai, jisse aag lag sakti hai. Isliye aisa bilkul nahi karna chahiye aur darwaze-khidkiyan khol deni chahiye."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Kitchen ke farsh par (floor) non-slip mats ka kya kaam hai?",
+      "options": {
+        "A": "Floor ko sundar dikhane ke liye",
+        "B": "Girne aur fisalne se bachane ke liye (to prevent slips and falls)",
+        "C": "Floor ko thanda rakhne ke liye",
+        "D": "Floor ko ganda hone se bachane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kitchen mein paani ya tel girne se farsh chikna ho jaata hai. Non-slip mats fisalne se rokte hain aur kaam karne walon ki suraksha sunishchit karte hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Ek induction cooktop, traditional gas stove se kaise behtar ho sakta hai?",
+      "options": {
+        "A": "Yeh gas se chalta hai",
+        "B": "Yeh energy efficient hai aur kam garmi paida karta hai",
+        "C": "Is par sabhi tarah ke bartan kaam karte hain",
+        "D": "Yeh gas stove se sasta hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Induction cooktop magnetic field se bartan ko direct garam karta hai, jisse energy waste nahi hoti aur kitchen bhi kam garam hota hai. Yeh gas stove se zyada safe bhi maana jaata hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Food safety management system, HACCP mein 'CCP' ka full form kya hai?",
+      "options": {
+        "A": "Critical Cooking Point",
+        "B": "Customer Complaint Point",
+        "C": "Critical Control Point",
+        "D": "Clean, Cook, Protect"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "HACCP (Hazard Analysis and Critical Control Points) mein, CCP woh step hai jahan par control lagakar food safety ke khatre ko roka ya kam kiya ja sakta hai, jaise khane ko sahi temperature tak pakana."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Dry storage area (jahan daal, chawal, masale rakhe jaate hain) kaisa hona chahiye?",
+      "options": {
+        "A": "Garam aur geela (Hot and humid)",
+        "B": "Thanda, sookha aur saaf (Cool, dry, and clean)",
+        "C": "Seedhi dhoop mein (Direct sunlight)",
+        "D": "Farsh par saara saaman rakhna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dry food items ko kharab hone se bachane ke liye unhe thandi, sookhi, aur saaf jagah par, deewar aur farsh se thoda upar shelves par store karna chahiye."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Apne kitchen equipment ki regular cleaning aur maintenance kyun zaroori hai?",
+      "options": {
+        "A": "Equipment ki life badhane aur unhe achanak kharab hone se bachane ke liye",
+        "B": "Food safety sunishchit karne ke liye",
+        "C": "Energy efficiency banaye rakhne ke liye",
+        "D": "Upar ke sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Regular maintenance se equipment lamba chalta hai, achanak breakdown nahi hota, saaf-suthra rehta hai jisse food safe rehta hai, aur sahi se kaam karne par bijli/gas ki bachat bhi hoti hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Ek tiffin service ke liye menu plan karte waqt sabse pehle kya sochna chahiye?",
+      "options": {
+        "A": "Aapke target customers kaun hain aur unhe kya pasand hai",
+        "B": "Aapke paas kaunse mehenge bartan hain",
+        "C": "Aap kaunsi dish nahi bana sakte",
+        "D": "Packaging ka rang kya hoga"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Menu hamesha target audience ko dhyan mein rakh kar banana chahiye. Unki pasand, na-pasand, aur dietary zarooraton ko samajhna sabse zaroori hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Food Cost Percentage nikalne ka sahi formula kya hai?",
+      "options": {
+        "A": "(Selling Price / Total Ingredient Cost) * 100",
+        "B": "(Total Ingredient Cost / Selling Price) * 100",
+        "C": "Selling Price - Total Ingredient Cost",
+        "D": "Total Ingredient Cost / Number of Portions"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Food cost percentage batata hai ki aapke selling price ka kitna hissa khane ki samagri par kharch hua hai. Formula: (Samagri ki kul lagat / Bikri mulya) * 100."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "'À la carte' menu kya hota hai?",
+      "options": {
+        "A": "Ek fixed meal jisme sab kuch pehle se tay hota hai",
+        "B": "Ek menu jisme har item alag se order kiya jaata hai aur uski keemat alag hoti hai",
+        "C": "Ek buffet menu",
+        "D": "Sirf drinks ka menu"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "À la carte French term hai jiska matlab hai 'by the card'. Isme customers apni pasand ke anusar alag-alag dishes order kar sakte hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Standardized recipe (maanakeekrt vidhi) ka sabse bada fayda kya hai?",
+      "options": {
+        "A": "Har baar alag taste milta hai",
+        "B": "Isse food cost badh jaati hai",
+        "C": "Har baar ek jaisa taste, quality aur portion size milta hai",
+        "D": "Ise follow karna bahut mushkil hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Standardized recipe se yeh sunishchit hota hai ki koi bhi chef banaye, dish ka swaad, matra, aur gunvatta hamesha ek jaisi rahegi, jisse food cost control mein rehti hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Kisi sabzi (jaise aloo) ka 'Yield Percentage' food costing mein kya batata hai?",
+      "options": {
+        "A": "Sabzi ka market price",
+        "B": "Chheelne aur kaatne ke baad bachi hui istemal layak matra ka pratishat",
+        "C": "Sabzi ugane mein laga samay",
+        "D": "Sabzi mein paani ki matra"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yield percentage batata hai ki kharidi hui samagri (As Purchased) mein se, waste (chhilka, etc.) nikalne ke baad kitna hissa (Edible Portion) istemal ke liye bachta hai. Yeh sahi costing ke liye zaroori hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Menu mein seasonal (mausami) sabziyan aur phal istemal karne ka sabse bada fayda kya hai?",
+      "options": {
+        "A": "Yeh mehengi hoti hain",
+        "B": "Yeh aasani se nahi milti",
+        "C": "Yeh sasti, taazi aur swaad mein behtar hoti hain",
+        "D": "Inka koi fayda nahi hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mausami phal aur sabziyan apne season mein bharpoor matra mein uplabdh hoti hain, isliye woh taazi, sasti aur zyada paushtik hoti hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Ek balanced (santulit) tiffin meal mein kya-kya shamil hona chahiye?",
+      "options": {
+        "A": "Sirf roti aur sabzi",
+        "B": "Sirf chawal aur daal",
+        "C": "Carbohydrates, protein, vitamins aur fats ka sahi mishran",
+        "D": "Sirf salad aur soup"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek santulit bhojan mein sharir ki zarooraton ko poora karne ke liye sabhi poshak tatva - jaise roti/chawal (carbs), daal/paneer (protein), sabzi/salad (vitamins) - shamil hone chahiye."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Menu Engineering mein 'Star' category ki dish ka kya matlab hai?",
+      "options": {
+        "A": "Ek dish jo popular nahi hai aur profit bhi kam deti hai",
+        "B": "Ek dish jo bahut popular hai lekin profit kam deti hai",
+        "C": "Ek dish jo bahut popular hai aur profit bhi zyada deti hai",
+        "D": "Ek dish jo popular nahi hai lekin profit zyada deti hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Menu engineering mein, 'Stars' woh dishes hoti hain jo high popularity (bahut bikti hain) aur high profitability (accha munafa deti hain) wali hoti hain. Inhe menu mein promote karna chahiye."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Tiffin service ke liye kaunsa menu type sabse aam (common) hai?",
+      "options": {
+        "A": "À la carte menu",
+        "B": "Cyclic menu (jo weekly ya monthly repeat hota hai)",
+        "C": "Static menu (jo kabhi nahi badalta)",
+        "D": "Gourmet menu"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tiffin services aamtaur par cyclic menu ka istemal karti hain, jismein har din alag-alag dishes hoti hain aur menu ek nishchit samay (jaise ek hafta) ke baad repeat hota hai. Isse variety bani rehti hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Ek dish ka selling price (bikri mulya) decide karte waqt kin cheezon ko dhyan mein rakhna chahiye?",
+      "options": {
+        "A": "Sirf ingredient ki laagat (food cost)",
+        "B": "Food cost, labour cost, overheads (bijli, gas, rent) aur profit margin",
+        "C": "Sirf competitor ka price",
+        "D": "Sirf packaging ka kharcha"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi selling price nirdharit karne ke liye aapko apni sabhi laagaton (direct aur indirect) ko jodna hoga aur uske upar apna desired profit margin lagana hoga."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Portion control (matra niyantran) kyun important hai?",
+      "options": {
+        "A": "Food cost ko control karne aur consistency banaye rakhne ke liye",
+        "B": "Customer ko kam khana dene ke liye",
+        "C": "Khana jaldi banane ke liye",
+        "D": "Yeh bilkul zaroori nahi hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Portion control se yeh sunishchit hota hai ki har customer ko ek jaisi matra mein khana mile, jisse food cost predictable rehti hai aur customer satisfaction bhi bana rehta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Ingredient ki 'As Purchased' (AP) cost aur 'Edible Portion' (EP) cost mein kya antar hai?",
+      "options": {
+        "A": "Dono hamesha barabar hoti hain",
+        "B": "AP cost poori kharidi hui matra ki hai, jabki EP cost waste nikalne ke baad bachi hui matra ki hai",
+        "C": "EP cost hamesha AP cost se kam hoti hai",
+        "D": "AP cost tax ke baad ki cost hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AP cost woh hai jo aap supplier ko poore item ke liye dete hain (jaise 1 kg aloo). EP cost us istemal layak hisse ki actual cost hai jo chheelne ke baad bachta hai (jaise 800 gm aloo)."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Contribution Margin kaise calculate kiya jaata hai?",
+      "options": {
+        "A": "Selling Price + Food Cost",
+        "B": "Selling Price / Food Cost",
+        "C": "Selling Price - Food Cost",
+        "D": "Total Sales - Total Expenses"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Contribution Margin woh rakam hai jo ek dish ko bechne par uski food cost nikalne ke baad bachti hai. Yeh rakam business ke baaki kharchon (labour, overheads) ko cover karne aur profit kamane mein madad karti hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Menu ko attractive banane ke liye kya karna chahiye?",
+      "options": {
+        "A": "Dishes ke creative aur aakarshak naam rakhna",
+        "B": "Acche se dish ko describe karna",
+        "C": "Saaf aur padhne mein aasan design ka istemal karna",
+        "D": "Upar ke sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Ek accha menu sirf dishes ki list nahi hota. Uska design, dishes ke naam, aur unka description customer ke decision ko prabhavit karta hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Kitchen mein food wastage (khane ki barbadi) kam karne ka ek prabhavi tarika kya hai?",
+      "options": {
+        "A": "Zaroorat se zyada saaman kharidna",
+        "B": "First-In, First-Out (FIFO) stock rotation method ka palan karna",
+        "C": "Bacha hua khana fenk dena",
+        "D": "Portion control na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FIFO method se yeh sunishchit hota hai ki purana stock pehle istemal ho, jisse cheezein expire hone ya kharab hone se bach jaati hain aur wastage kam hota hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Restaurant accounting mein Prime Cost kya hota hai?",
+      "options": {
+        "A": "Sirf food ki laagat",
+        "B": "Sirf labour ki laagat",
+        "C": "Total Food Cost + Total Labour Cost",
+        "D": "Rent aur bijli ka bill"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Prime Cost ek restaurant ke do sabse bade kharchon - khane ki samagri (food cost) aur staff ki salary (labour cost) - ka jod hota hai. Is par control rakhna profitability ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Customer feedback ke aadhar par menu mein badlav karna zaroori hai?",
+      "options": {
+        "A": "Haan, isse customer satisfaction badhta hai aur business improve hota hai",
+        "B": "Nahi, menu kabhi nahi badalna chahiye",
+        "C": "Sirf tab badalna chahiye jab nuksan ho raha ho",
+        "D": "Customer feedback important nahi hota"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Customer feedback aapko batata hai ki unhe kya pasand aa raha hai aur kya nahi. Iske aadhar par menu mein sudhar karne se aap customer ko behtar service de paate hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "FSSAI ka full form kya hai?",
+      "options": {
+        "A": "Food Safety and Security Authority of India",
+        "B": "Food Standards and Safety Authority of India",
+        "C": "Food Safety and Standards Authority of India",
+        "D": "Food Supply and Standards Association of India"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "FSSAI ka poora naam Food Safety and Standards Authority of India hai, jo Bharat mein khane-peene ki cheezon ke liye standard banati hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Food ke liye 'Temperature Danger Zone' kya hai, jisme bacteria tezi se badhte hain?",
+      "options": {
+        "A": "0°C se 10°C",
+        "B": "5°C se 60°C",
+        "C": "60°C se 100°C",
+        "D": "0°C se neeche"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "5 se 60 degree Celsius ke beech ka तापमान bacteria ke panapne ke liye sabse anukool hota hai. Isliye pake hue khane ko is temperature range mein 2 ghante se zyada nahi rakhna chahiye."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Khana banane ya handle karne se pehle sabse zaroori hygiene practice kya hai?",
+      "options": {
+        "A": "Mobile phone check karna",
+        "B": "Apne haathon ko sabun aur paani se kam se kam 20 second tak dhona",
+        "C": "Chef cap pehenna",
+        "D": "Taste check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Haath dhona sabse prabhavi tarika hai keetanuon ko failne se rokne ka aur food ko contaminate hone se bachane ka."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Cross-contamination (paar-dushan) ko kaise roka ja sakta hai?",
+      "options": {
+        "A": "Kachhe (raw) aur pake hue (cooked) food ke liye alag-alag chopping board aur bartan istemal karke",
+        "B": "Sabhi food items ko ek saath store karke",
+        "C": "Ek hi chaaku se sab kuch kaat kar",
+        "D": "Bina haath dhoye kachhe meat ko haath lagane ke baad salad banana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Cross-contamination tab hota hai jab kachhe food ke harmful bacteria pake hue food mein transfer ho jaate hain. Ise rokne ke liye alag-alag bartan, chopping board, aur saaf-safai zaroori hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "FSSAI ke anusaar, FoSTaC (Food Safety Training and Certification) training kiske liye anivarya hai?",
+      "options": {
+        "A": "Sirf restaurant ke maalik ke liye",
+        "B": "Sirf customers ke liye",
+        "C": "Har FBO (Food Business Operator) ke paas kam se kam ek trained aur certified Food Safety Supervisor hona chahiye",
+        "D": "Yeh kisi ke liye anivarya nahi hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "FSSAI ne yeh anivarya kiya hai ki har licensed food business mein ek Food Safety Supervisor hona chahiye jiske paas FoSTaC certification ho, taaki food safety practices ko sahi se lagu kiya ja sake."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Kachhe meat (raw meat) aur pake hue khane (cooked food) ko refrigerator mein kaise store karna chahiye?",
+      "options": {
+        "A": "Kachhe meat ko upar wale shelf par aur pake hue khane ko neeche",
+        "B": "Dono ko ek hi container mein saath-saath",
+        "C": "Kachhe meat ko neeche wale shelf par ek sealed container mein, aur pake hue khane ko upar",
+        "D": "Jaise marzi waise rakh sakte hain"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Kachhe meat ko hamesha neeche rakha jaana chahiye taaki uska juice ya paani tapak kar neeche rakhe pake hue khane par na gire aur use contaminate na kare."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Agar kitchen mein kaam karte waqt haath mein cut lag jaye to kya karna chahiye?",
+      "options": {
+        "A": "Us par dhyaan na dekar kaam karte rehna",
+        "B": "Ghaav ko saaf karke, us par waterproof bandage lagakar aur phir gloves pehen kar kaam karna",
+        "C": "Sirf paani se dho lena",
+        "D": "Us par haldi laga lena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Food safety ke liye zaroori hai ki kisi bhi ghaav ya cut ko acchi tarah cover kiya jaaye taaki usse khoon ya bacteria khane mein na mil jaaye."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Ek food handler ko agar ulti, dast ya bukhar (vomiting, diarrhea, or fever) ho to use kya karna chahiye?",
+      "options": {
+        "A": "Chup-chap kaam karte rehna",
+        "B": "Apne supervisor ko batana aur khane se door rehna jab tak theek na ho jaaye",
+        "C": "Sirf gloves pehen kar kaam karna",
+        "D": "Dawa khakar kaam par aa jaana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bimari ki haalat mein food handle karne se bimari doosron tak phail sakti hai. Isliye aise mein kaam se door rehna aur aaram karna zaroori hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Packaged food products par 'Best Before' date ka kya matlab hai?",
+      "options": {
+        "A": "Is date ke baad food khane ke liye unsafe ho jaata hai",
+        "B": "Is date tak food apni best quality (taste, freshness) par rehta hai, par uske baad bhi shayad safe ho sakta hai",
+        "C": "Yeh manufacturing date hai",
+        "D": "Yeh 'Expiry Date' ke jaisa hi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Best Before' quality ko darshata hai, jabki 'Expiry Date' safety ko. Best Before date ke baad product ki quality thodi kam ho sakti hai, lekin woh zaroori nahi ki unsafe ho."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "FSSAI License number kitne digits ka hota hai?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Har FSSAI licensed Food Business Operator ko ek 14-digit ka unique number diya jaata hai jise unhe apne premises aur food packages par display karna anivarya hota hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Kitchen ki safai ke liye istemal hone wale chemicals (jaise cleaner, disinfectant) ko kahan store karna chahiye?",
+      "options": {
+        "A": "Khane ki samagri ke saath",
+        "B": "Khane ki samagri se door, ek alag, designated area mein",
+        "C": "Stove ke paas",
+        "D": "Refrigerator ke andar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chemicals ko hamesha khane se door store karna chahiye taaki galti se bhi woh khane mein na mil jaayein, jisse chemical contamination ho sakta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Frozen food ko thaw (pighlane) karne ka sabse surakshit tarika kaunsa hai?",
+      "options": {
+        "A": "Use kitchen counter par poore din ke liye chhod dena",
+        "B": "Use refrigerator ke andar rakh kar thaw karna",
+        "C": "Garam paani mein daal kar",
+        "D": "Stove par seedha rakh kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Refrigerator mein thaw karne se food hamesha safe temperature (5°C se neeche) par rehta hai, jisse bacteria nahi panapte. Counter par chhodna sabse unsafe tarika hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Ek food handler ki personal hygiene (vyaktigat swachhata) mein kya shamil hai?",
+      "options": {
+        "A": "Saaf uniform aur apron pehenna",
+        "B": "Baalon ko cap ya hairnet se cover karna",
+        "C": "Naakhun kaate hue aur saaf rakhna",
+        "D": "Upar ke sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Personal hygiene food safety ka ek bahut mahatvapurna hissa hai. Isme saaf kapde, baalon ko dhakna, saaf naakhun, aur niyamit roop se haath dhona shamil hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Food poisoning ka sabse aam (common) karan kya hai?",
+      "options": {
+        "A": "Khane mein zyada namak hona",
+        "B": "Khane mein harmful bacteria, viruses, ya toxins ka hona",
+        "C": "Bahut zyada thanda khana khana",
+        "D": "Bahut zyada masaledaar khana khana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Food poisoning aamtaur par dooshit (contaminated) khana khane se hota hai jismein Salmonella, E. coli jaise hanikarak sookshmajeev (microorganisms) maujood hote hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Food recall kya hota hai aur FSSAI isme kya bhumika nibhata hai?",
+      "options": {
+        "A": "Customer dwara food order cancel karna",
+        "B": "Market se unsafe ya mislabeled food product ko wapas lena; FSSAI iski nigrani karta hai",
+        "C": "Restaurant dwara menu se ek dish hatana",
+        "D": "Khane ki delivery late hona"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jab koi food product health ke liye khatarnak paya jaata hai, to use company dwara market se wapas mangwaya jaata hai. FSSAI is poori prakriya ko aadeshit aur monitor karta hai taaki consumers surakshit rahen."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Kitchen ka dustbin (koodedaan) kaisa hona chahiye?",
+      "options": {
+        "A": "Bina dhakkan ka",
+        "B": "Hamesha bhara hua",
+        "C": "Dhakkan wala (with a lid) aur niyamit roop se saaf hone wala",
+        "D": "Kitchen ke theek beech mein"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Dustbin hamesha dhakka hua hona chahiye taaki usse badboo na aaye aur keede-makode aakarshit na hon. Use rozana khali aur saaf karna bhi zaroori hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Ek commercial kitchen mein istemal hone wale paani ki testing karwana kyun zaroori hai?",
+      "options": {
+        "A": "Paani ka rang dekhne ke liye",
+        "B": "Yeh sunishchit karne ke liye ki paani peene aur khana banane ke liye surakshit aur potable hai",
+        "C": "Paani ka bill kam karne ke liye",
+        "D": "Yeh zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FSSAI ke niyamon ke anusaar, commercial kitchen mein istemal hone wala paani peene yogya (potable) hona chahiye. Iski niyamit testing se yeh sunishchit hota hai ki paani mein koi harmful bacteria ya chemical nahi hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "'Sautéing' cooking method mein kya hota hai?",
+      "options": {
+        "A": "Khane ko paani mein ubalna",
+        "B": "Khane ko kam tel mein, tez aanch par jaldi se pakana",
+        "C": "Khane ko dheemi aanch par ghanto tak pakana",
+        "D": "Khane ko oven mein bake karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sautéing ek French cooking term hai jiska matlab hai 'to jump'. Isme food ko ek pan mein thode se fat (tel/butter) ke saath tez aanch par uchhal kar (toss karke) pakaya jaata hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Batch cooking ka tiffin service mein kya fayda hai?",
+      "options": {
+        "A": "Isse khana kharab ho jaata hai",
+        "B": "Ek saath zyada matra mein khana banane se samay aur energy ki bachat hoti hai",
+        "C": "Isse food cost badh jaati hai",
+        "D": "Har order ke liye alag se khana banana padta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Batch cooking mein ek hi cheez (jaise gravy, ya daal) ko badi matra mein bana kar rakh liya jaata hai, jisse order aane par service tez ho jaati hai aur samay ki bachat hoti hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Gravy ya sauce ko gaadha (thick) karne ke liye aamtaur par kya istemal hota hai?",
+      "options": {
+        "A": "Namak",
+        "B": "Cornstarch ya maide ki slurry",
+        "C": "Cheeni (Sugar)",
+        "D": "Sirka (Vinegar)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cornstarch (makki ka aata) ya maide ko thande paani mein ghol kar (slurry banakar) garam gravy mein milane se woh gaadhi ho jaati hai. Ise thickening agent kehte hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Parboiling (adha ubalna) technique ka istemal kyun kiya jaata hai?",
+      "options": {
+        "A": "Khane ko poori tarah pakane ke liye",
+        "B": "Khane ke final cooking time ko kam karne ke liye",
+        "C": "Khane ka rang hatane ke liye",
+        "D": "Khane ko meetha banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Parboiling mein sabziyon ya chawal ko thodi der ke liye ubala jaata hai. Isse order aane par unhe jaldi se fry ya bake kiya ja sakta hai, jisse service time kam ho jaata hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Professional kitchen mein 'Mise en place' (meez-on-plahs) ka kya matlab hai?",
+      "options": {
+        "A": "Khana serve karne ka tarika",
+        "B": "Cooking shuru karne se pehle saari samagri ko kaat kar, naap kar taiyar rakhna",
+        "C": "Kitchen ki safai karna",
+        "D": "Menu decide karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yeh ek French culinary phrase hai jiska matlab hai 'everything in its place'. Iska matlab hai ki chef cooking shuru karne se pehle sabhi zaroori cheezein taiyar rakhta hai, jisse cooking process smooth aur efficient ho jaata hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Food presentation (khane ki prastuti) kyun important hai?",
+      "options": {
+        "A": "Yeh important nahi hai, sirf taste ahem hai",
+        "B": "Acche presentation se khana zyada aakarshak lagta hai aur customer ka experience behtar hota hai",
+        "C": "Isse food cost kam ho jaati hai",
+        "D": "Isse khana jaldi pakta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Log pehle aankhon se khate hain. Ek sundar tarike se parosa gaya khana customer ki bhookh badhata hai aur unhe ek accha anubhav deta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Marination ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Food ko rang dena",
+        "B": "Food mein flavour add karna aur use tender (mulayam) banana",
+        "C": "Food ko preserve karna",
+        "D": "Food ka vajan badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Marination mein food (khaaskar meat ya paneer) ko masalon, dahi ya acidic liquid ke mishran mein kuch der rakha jaata hai, jisse masale andar tak chale jaate hain aur food mulayam ho jaata hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Steaming (bhaap mein pakana) cooking method ka kya fayda hai?",
+      "options": {
+        "A": "Isse khana crispy ho jaata hai",
+        "B": "Yeh ek healthy cooking method hai kyunki isme kam tel lagta hai aur nutrients bache rehte hain",
+        "C": "Isme khana bahut jaldi pakta hai",
+        "D": "Isse khane ka swaad chala jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bhaap mein pakane se khane ke poshak tatva (nutrients) nasht nahi hote aur tel ka istemal na ke barabar hota hai, isliye yeh ek bahut hi swasth tarika hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Pake hue khane ko dobara garam (reheat) karne ka sahi aur surakshit tarika kya hai?",
+      "options": {
+        "A": "Use dheere-dheere kam temperature par garam karna",
+        "B": "Use kam se kam 75°C tak, jaldi se garam karna",
+        "C": "Use thoda sa garam karke serve kar dena",
+        "D": "Use baar-baar garam aur thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Food safety ke liye, khane ko reheat karte waqt use tezi se 75°C ya usse zyada ke internal temperature tak garam karna chahiye taaki usme maujood koi bhi bacteria nasht ho jaaye."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Sous-vide (soo-veed) cooking technique kya hai?",
+      "options": {
+        "A": "Khane ko grill karna",
+        "B": "Khane ko vacuum-sealed bag mein daal kar, ek controlled temperature wale water bath mein dheere-dheere pakana",
+        "C": "Khane ko pressure cooker mein pakana",
+        "D": "Khane ko tandoor mein pakana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sous-vide ek modern cooking technique hai jismein food ko ek nishchit तापमान par paani mein pakaya jaata hai. Isse food bahut hi evenly aur perfectly pakta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Deep frying ke liye tel ka aadarsh (ideal) तापमान aamtaur par kya hota hai?",
+      "options": {
+        "A": "100°C - 120°C",
+        "B": "160°C - 180°C",
+        "C": "220°C - 250°C",
+        "D": "Tel ke ubalne tak"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi तापमान par fry karne se food bahar se crispy aur andar se pak jaata hai, aur zyada tel bhi nahi sokhta. Bahut kam ya zyada तापमान se food kharab ho sakta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Pyaaz ko caramelize karne mein kya hota hai?",
+      "options": {
+        "A": "Pyaaz ko tez aanch par jalana",
+        "B": "Pyaaz ko dheemi aanch par dheere-dheere pakana jab tak uski natural sugar brown na ho jaaye",
+        "C": "Pyaaz mein cheeni daalna",
+        "D": "Pyaaz ko ubalna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Caramelization ek aisi prakriya hai jismein pyaaz ko kam aanch par pakane se uski mithaas bahar aati hai aur uska rang gehra bhura ho jaata hai, jisse dishes mein ek alag hi swaad aata hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Garnishing ka kya matlab hai?",
+      "options": {
+        "A": "Khane mein namak daalna",
+        "B": "Dish ko serve karne se pehle use hara dhaniya, pudina ya anya cheezon se sajana",
+        "C": "Khane ko pack karna",
+        "D": "Khane ko reheat karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Garnishing ka matlab hai khane ko parosne se pehle use kisi khane yogya cheez se sajana taaki woh dekhne mein aur aakarshak lage."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Ek acchi quality ka stock (yakhni) banane ka mukhya aadhar kya hai?",
+      "options": {
+        "A": "Bahut saara tel",
+        "B": "Haddiyan (bones), sabziyan (vegetables), aur sugandhit masale (aromatics)",
+        "C": "Sirf paani aur namak",
+        "D": "Cornflour"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stock ek flavorful liquid hai jo soups aur sauces ka base hota hai. Yeh aamtaur par haddiyon, sabziyon (jaise pyaaz, gaajar), aur masalon ko paani mein dheere-dheere ubal kar banaya jaata hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Emulsification process ka ek aam kitchen udaharan kya hai?",
+      "options": {
+        "A": "Paani ubalna",
+        "B": "Mayonnaise banana (tel aur ande ki zardi ko milana)",
+        "C": "Chawal pakana",
+        "D": "Sabzi kaatna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Emulsification woh prakriya hai jismein do aise liquids ko milaya jaata hai jo aamtaur par aapas mein nahi milte, jaise tel aur paani. Mayonnaise mein ande ki zardi emulsifier ka kaam karti hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Baking aur Roasting mein mool antar kya hai?",
+      "options": {
+        "A": "Dono ek hi cheez hain",
+        "B": "Baking aamtaur par bread, cake ke liye use hota hai, jabki Roasting meat, sabziyon ke liye",
+        "C": "Baking mein zyada तापमान lagta hai",
+        "D": "Roasting mein paani ka istemal hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dono hi dry heat cooking methods hain, lekin 'baking' शब्द aamtaur par un cheezon ke liye istemal hota hai jinka structure cooking ke dauran banta hai (jaise cake). 'Roasting' solid cheezon (jaise chicken) ke liye istemal hota hai."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Ek chef ke liye acchi knife skills (chaaku chalaane ki kala) hona kyun zaroori hai?",
+      "options": {
+        "A": "Sabziyon ko tezi se aur ek samaan kaatne ke liye",
+        "B": "Kaam mein efficiency badhane ke liye",
+        "C": "Chot lagne ke khatre ko kam karne ke liye",
+        "D": "Upar ke sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Acchi knife skills se na sirf kaam jaldi aur behtar hota hai, balki sabziyan ek size ki katne se woh pakti bhi ek samaan hain. Saath hi, sahi technique se chaaku istemal karne se durghatna ka khatra kam ho jaata hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Tiffin ya cloud kitchen se food delivery ke liye sabse zaroori cheez kya hai?",
+      "options": {
+        "A": "Ek mehengi gaadi",
+        "B": "Samay par aur surakshit tarike se khana pahunchana",
+        "C": "Free mein delivery karna",
+        "D": "Delivery boy ka uniform"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ke liye sabse mahatvapurna hai ki unka khana sahi samay par aur acchi condition mein un tak pahuche. Timely and safe delivery customer satisfaction ki kunji hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Cloud kitchen ke liye online food aggregators (jaise Zomato, Swiggy) par list hone ka sabse bada fayda kya hai?",
+      "options": {
+        "A": "Yeh bahut mehenga hota hai",
+        "B": "Aapko ek bade customer base tak pahunch milti hai bina marketing ke kharch ke",
+        "C": "Aapko apna menu decide nahi karna padta",
+        "D": "Woh aapke kitchen ki safai karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aggregator platforms par pehle se hi laakhon users hote hain. Un par list hone se aapka kitchen un sabhi users ko dikhta hai, jisse aapko aasani se orders milne lagte hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Apne customers se feedback (pratikriya) lene ka sabse aasan tarika kya hai?",
+      "options": {
+        "A": "Unse kabhi na poochhna",
+        "B": "Ek chhota feedback form ya WhatsApp message bhejna",
+        "C": "Unke ghar jaakar poochhna",
+        "D": "Sirf negative comments par dhyan dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Digital tarike jaise WhatsApp, SMS ya ek simple online form bhejna feedback lene ka aasan aur prabhavi tarika hai. Isse customer ko bhi suvidha hoti hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Digital marketing mein SEO ka kya matlab hai?",
+      "options": {
+        "A": "Sales Engine Optimization",
+        "B": "Search Engine Optimization",
+        "C": "Service Engine Optimization",
+        "D": "Social Engagement Optimization"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SEO (Search Engine Optimization) ek aisi prakriya hai jisse aapki website ya online listing ko Google jaise search engines par behtar rank milti hai, taaki zyada log aapko dhoondh sakein."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Ek tiffin service ki 'Unit Economics' calculate karte waqt kin cheezon ko consider kiya jaata hai?",
+      "options": {
+        "A": "Sirf khane ka daam",
+        "B": "Prati tiffin (per unit) ka revenue aur usse judi saari laagat (food, packaging, delivery)",
+        "C": "Poore mahine ka profit",
+        "D": "Sirf delivery ka kharcha"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Unit economics ka matlab hai har ek unit (is case mein, ek tiffin) par hone wale fayde ya nuksan ka hisaab. Isse yeh pata chalta hai ki aapka business model long-term mein profitable hai ya nahi."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Food packaging ka primary (mukhya) uddeshya kya hai?",
+      "options": {
+        "A": "Sirf brand ka logo dikhana",
+        "B": "Khane ko delivery ke dauran surakshit, garam aur taaza rakhna",
+        "C": "Packaging ko mehenga banana",
+        "D": "Tiffin ka vajan badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Acchi packaging khane ko contamination, tapman mein badlav aur physical damage se bachati hai, taaki woh customer tak sahi sthiti mein pahunche."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar koi customer food quality ki shikayat (complaint) kare, to aapka pehla kadam kya hona chahiye?",
+      "options": {
+        "A": "Customer se behes karna",
+        "B": "Shikayat ko ignore kar dena",
+        "C": "Dhairya se customer ki baat sunna, maafi maangna aur samasya ka samadhan offer karna",
+        "D": "Customer ko block kar dena"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek naraz customer ko sambhalne ka sabse accha tarika hai unki baat ko ahmiyat dena, unse maafi maangna aur unhe ek santoshjanak samadhan (jaise refund ya replacement) dena. Isse unka vishwas bana rehta hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Apne cloud kitchen ke liye social media marketing ka ek udaharan dijiye.",
+      "options": {
+        "A": "Apne khane ki acchi photos Instagram ya Facebook par post karna",
+        "B": "Newspaper mein advertisement dena",
+        "C": "Pamphlet bantwana",
+        "D": "TV par ishtihaar dena"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Social media platforms jaise Instagram aur Facebook visual content ke liye best hain. Apni dishes ki aakarshak photos aur videos post karke aap aasani se customers ko attract kar sakte hain."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "CRM (Customer Relationship Management) software ka cloud kitchen mein kya upyog ho sakta hai?",
+      "options": {
+        "A": "Khana banane ke liye",
+        "B": "Customer ka data, unke order history aur preferences ko track karne ke liye",
+        "C": "Kitchen ki safai ke liye",
+        "D": "Staff ki salary banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CRM software customer ki jaankari (jaise naam, number, pichhle orders) ko ek jagah store karta hai, jisse aap unhe personalized service aur offers de sakte hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Business mein 'Customer Lifetime Value' (CLV) ka kya matlab hai?",
+      "options": {
+        "A": "Ek customer ka pehla order value",
+        "B": "Ek customer se uske poore samay aapke saath jude rehne par hone wali kul kamai ka anuman",
+        "C": "Ek customer ko acquire karne ka kharcha",
+        "D": "Saal ke ant mein hone wala profit"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CLV ek anuman hai ki ek customer apne poore relationship ke dauran aapke business ko kitna revenue dega. Yeh loyal customers ki ahmiyat ko darshata hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Ek order management system (OMS) ka kya kaam hai?",
+      "options": {
+        "A": "Menu banana",
+        "B": "Alag-alag platforms (Zomato, Swiggy, phone calls) se aane wale sabhi orders ko ek jagah manage karna",
+        "C": "Sirf customer feedback lena",
+        "D": "Marketing karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "OMS sabhi sroton se aane wale orders ko ek single dashboard par dikhata hai, jisse unhe accept karna, track karna aur manage karna aasan ho jaata hai aur koi order miss nahi hota."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Ek negative online review ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Review ko delete kar dena",
+        "B": "Reviewer se online jhagda karna",
+        "C": "Publicly, professional tarike se jawab dena, maafi maangna aur samasya ko offline suljhane ki peshkash karna",
+        "D": "Review ko poori tarah ignore kar dena"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Negative review ka professional tareeke se jawab dena dikhata hai ki aap customer feedback ko serious lete hain. Isse doosre potential customers par bhi accha prabhav padta hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Digital marketing mein 'A/B Testing' ka kya matlab hai?",
+      "options": {
+        "A": "Do alag-alag business ideas ko test karna",
+        "B": "Ek marketing campaign ke do versions (jaise do alag-alag ad images) ko compare karke dekhna ki kaunsa behtar perform karta hai",
+        "C": "Menu ki do alag-alag dishes ko test karna",
+        "D": "Apne staff ke do members ko test karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A/B testing mein audience ko do hisson mein baant kar unhe ek hi cheez ke do variants (A aur B) dikhaye jaate hain. Isse pata chalta hai ki kaunsa variant zyada prabhavi hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Apni tiffin service ko promote karne ke liye 'word-of-mouth' marketing kaise badhayein?",
+      "options": {
+        "A": "Khane ki quality kharab karke",
+        "B": "Customer service par dhyan na dekar",
+        "C": "Behtareen khana aur service dekar, aur satisfied customers ko referral discount offer karke",
+        "D": "Marketing bilkul na karke"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Jab customers aapke khane aur service se khush hote hain, to woh khud hi doosre logon ko aapke baare mein batate hain. Referral program is prakriya ko aur bhi badhava de sakta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Cloud kitchen mein inventory management (stock prabandhan) kyun zaroori hai?",
+      "options": {
+        "A": "Yeh zaroori nahi hai",
+        "B": "Ingredients ki kami (shortage) ya adhikta (wastage) se bachne ke liye aur food cost control karne ke liye",
+        "C": "Sirf yeh dekhne ke liye ki store room mein kitni jagah hai",
+        "D": "Sirf supplier se accha rishta banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi inventory management se aapko pata rehta hai ki aapke paas kitna saaman hai, kab order karna hai. Isse achanak koi cheez khatam nahi hoti aur na hi expire hone se waste hoti hai, jisse paiso ki bachat hoti hai."
+    }
+  ]
+}

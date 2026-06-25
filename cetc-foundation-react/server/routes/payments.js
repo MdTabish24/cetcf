@@ -26,7 +26,7 @@ const { UPLOADS_DIR } = require('../services/storage');
  * Create a Razorpay order for trade fee payment
  */
 router.post('/create-order', paymentLimiter, authenticate, async (req, res) => {
-  const { trade_id } = req.body;
+  const { trade_id, pathway = 'rpl' } = req.body;
   if (!trade_id) {
     return res.status(400).json({ success: false, message: 'Trade ID is required.' });
   }
@@ -55,6 +55,7 @@ router.post('/create-order', paymentLimiter, authenticate, async (req, res) => {
       user_id: req.user.id,
       trade_id,
       trade_name: trade.name,
+      pathway,
     });
 
     // Save pending payment record
@@ -91,7 +92,7 @@ router.post('/create-order', paymentLimiter, authenticate, async (req, res) => {
  * Verify Razorpay payment, enroll candidate, generate receipt
  */
 router.post('/verify', paymentLimiter, authenticate, async (req, res) => {
-  const { razorpay_order_id, razorpay_payment_id, razorpay_signature, trade_id, payment_record_id } = req.body;
+  const { razorpay_order_id, razorpay_payment_id, razorpay_signature, trade_id, payment_record_id, pathway = 'rpl' } = req.body;
 
   if (!razorpay_order_id || !razorpay_payment_id || !razorpay_signature) {
     return res.status(400).json({ success: false, message: 'Payment verification data is incomplete.' });
@@ -127,11 +128,11 @@ router.post('/verify', paymentLimiter, authenticate, async (req, res) => {
 
       // Enroll candidate (upsert)
       const candidateResult = await client.query(
-        `INSERT INTO candidates (user_id, trade_id, status)
-         VALUES ($1, $2, 'enrolled')
-         ON CONFLICT (user_id, trade_id) DO UPDATE SET status = 'enrolled'
+        `INSERT INTO candidates (user_id, trade_id, pathway, status)
+         VALUES ($1, $2, $3, 'enrolled')
+         ON CONFLICT (user_id, trade_id) DO UPDATE SET status = 'enrolled', pathway = EXCLUDED.pathway
          RETURNING *`,
-        [req.user.id, trade_id]
+        [req.user.id, trade_id, pathway]
       );
       const candidate = candidateResult.rows[0];
 

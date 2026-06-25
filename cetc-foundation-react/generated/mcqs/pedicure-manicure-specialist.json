@@ -1,0 +1,1443 @@
+{
+  "course_name": "Pedicure & Manicure Specialist",
+  "sector": "Beauty & Lifestyle",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Pedicure & Manicure, Hygiene & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Nail Anatomy & Disorders, Client Consultation",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Manicure Techniques & Products",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Pedicure Techniques & Products",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Nail Art & Enhancements Basics, Aftercare",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Salon Management, Professional Ethics & Customer Service",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Pedicure aur Manicure mein sabse important cheez kya hai?",
+      "options": {
+        "A": "Sahi nail polish ka selection",
+        "B": "Hygiene aur sanitation",
+        "C": "Client ke pasand ki music",
+        "D": "Expensive products ka use"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pedicure aur Manicure mein hygiene aur sanitation sabse important hai taaki infections na phailen."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Tools ko sterilize karne ka kya matlab hai?",
+      "options": {
+        "A": "Unhe sirf paani se dhona",
+        "B": "Sabhi microorganisms ko destroy karna",
+        "C": "Unhe sirf saaf kapde se pochna",
+        "D": "Unhe thandi jagah par rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sterilization ka matlab hai sabhi living microorganisms, including spores, ko completely destroy karna."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ek Pedicure Specialist ke liye PPE (Personal Protective Equipment) mein kya shamil hota hai?",
+      "options": {
+        "A": "Gloves aur mask",
+        "B": "Designer uniform",
+        "C": "Expensive shoes",
+        "D": "Jewellery"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "PPE mein gloves aur mask shamil hote hain taaki specialist aur client dono ki safety ensure ho sake."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Salon mein tools ko disinfect karne ke liye commonly kaun sa solution use hota hai?",
+      "options": {
+        "A": "Simple water",
+        "B": "Bleach solution",
+        "C": "Alcohol-based sanitizer",
+        "D": "Barbicide solution"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Barbicide solution salon mein tools ko disinfect karne ke liye commonly used aur effective hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Cross-contamination ko rokne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Ek hi towel sab clients par use karna",
+        "B": "Disposable items ko reuse karna",
+        "C": "Har client ke baad tools ko clean aur sanitize karna",
+        "D": "Apne nails lambe rakhna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cross-contamination rokne ke liye har client ke baad tools ko clean aur sanitize karna zaroori hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "First Aid kit salon mein kyun honi chahiye?",
+      "options": {
+        "A": "Emergency mein minor injuries ko treat karne ke liye",
+        "B": "Clients ko impress karne ke liye",
+        "C": "Salon ko bada dikhane ke liye",
+        "D": "Sirf decorative purpose ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "First Aid kit emergency mein minor cuts ya accidents ko handle karne ke liye essential hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Autoclave ka primary use kya hai?",
+      "options": {
+        "A": "Nail polish dry karna",
+        "B": "Tools ko sterilize karna",
+        "C": "Foot massage karna",
+        "D": "Salon ko garam rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Autoclave high-pressure steam use karke tools ko sterilize karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Disinfection aur sterilization mein kya difference hai?",
+      "options": {
+        "A": "Disinfection sabhi germs ko maarta hai jabki sterilization sirf kuch ko",
+        "B": "Sterilization sabhi germs ko maarta hai, disinfection sirf harmful ones ko reduce karta hai",
+        "C": "Dono same hain",
+        "D": "Disinfection liquids ke liye hai, sterilization solids ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sterilization sabhi microorganisms (including spores) ko destroy karta hai, jabki disinfection mostly pathogenic microorganisms ko reduce karta hai, but spores ko nahi."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Ek nail technician ko apne hands kab wash karne chahiye?",
+      "options": {
+        "A": "Sirf subah ek baar",
+        "B": "Har client se pehle aur baad mein",
+        "C": "Din mein sirf do baar",
+        "D": "Jab unhe yaad aaye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Har client se pehle aur baad mein hands wash karna hygiene maintain karne ke liye crucial hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Salon mein ventilation kyun important hai?",
+      "options": {
+        "A": "Products ki strong fumes ko remove karne ke liye",
+        "B": "Client ko thanda rakhne ke liye",
+        "C": "Bijli bachane ke liye",
+        "D": "Decor ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Proper ventilation chemicals aur nail products ki fumes ko remove karta hai, jisse air quality better rehti hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Sharp tools ko dispose karne ka sahi tareeka kya hai?",
+      "options": {
+        "A": "Normal dustbin mein fekna",
+        "B": "Sharps container mein dispose karna",
+        "C": "Sink mein flush karna",
+        "D": "Reuse karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sharp tools ko punctures se bachne ke liye designated sharps container mein dispose karna chahiye."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Ek Pedicure Specialist ki primary responsibility kya hai?",
+      "options": {
+        "A": "Nail art mein expert hona",
+        "B": "Client ki safety aur hygiene maintain karna",
+        "C": "Sabse expensive products use karna",
+        "D": "Jaldi se jaldi service provide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ki safety aur hygiene maintain karna Pedicure Specialist ki sabse important responsibility hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Foot spa tub ko har client ke baad kaise clean karna chahiye?",
+      "options": {
+        "A": "Sirf paani se rinse karna",
+        "B": "Scrub aur disinfectant solution se thoroughly clean karna",
+        "C": "Agli baar tak aise hi chhod dena",
+        "D": "Ek towel se pochna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Foot spa tub ko scrub aur disinfectant solution se thoroughly clean karna zaroori hai taaki bacteria na jama ho."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Hand washing ke liye minimum kitne time tak scrub karna chahiye?",
+      "options": {
+        "A": "5 seconds",
+        "B": "10 seconds",
+        "C": "20 seconds",
+        "D": "30 seconds"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Proper hand washing ke liye minimum 20 seconds tak scrub karna recommended hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Agar client ke skin par koi open cut ya wound ho toh kya karna chahiye?",
+      "options": {
+        "A": "Service continue karna",
+        "B": "Uss area ko ignore karna",
+        "C": "Service ko refuse karna ya postpone karna",
+        "D": "Upar se nail polish laga dena"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Open cut ya wound par service dene se infection ka risk badh jaata hai, isliye service ko refuse ya postpone karna chahiye."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Sanitization ka kya matlab hai?",
+      "options": {
+        "A": "Sabhi germs ko maarna",
+        "B": "Germs ki quantity ko safe level tak reduce karna",
+        "C": "Sirf tools ko clean karna",
+        "D": "Chemicals ka use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sanitization ka matlab hai germs ki growth ko reduce karna aur unki quantity ko safe level tak lana."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Nail dust ko inhale karne se bachne ke liye kya precaution leni chahiye?",
+      "options": {
+        "A": "Mask pehenna",
+        "B": "Khidki band rakhna",
+        "C": "Zor se saans lena",
+        "D": "Fast speed mein kaam karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Nail dust ko inhale karne se respiratory issues ho sakte hain, isliye mask pehenna chahiye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Nail plate kis cheez se bani hoti hai?",
+      "options": {
+        "A": "Calcium",
+        "B": "Keratin",
+        "C": "Collagen",
+        "D": "Melanin"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nail plate ek hard protein jise Keratin kehte hain, usse bani hoti hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Cuticle ka kya function hai?",
+      "options": {
+        "A": "Nail ko colour dena",
+        "B": "Nail matrix ko infection se protect karna",
+        "C": "Nail ko lamba karna",
+        "D": "Nail ko shine dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cuticle nail matrix ko bacteria aur infection se protect karta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Agar client ke nails par fungal infection ke signs dikhen toh kya karna chahiye?",
+      "options": {
+        "A": "Service continue karna aur ignore karna",
+        "B": "Anti-fungal cream lagana",
+        "C": "Service dene se mana karna aur doctor ke paas jaane ki advice dena",
+        "D": "Special nail polish laga dena"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Fungal infection contagious ho sakta hai, isliye service dene se mana karna aur client ko medical advice lene ki salaah dena professional approach hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Nail bed ka kya role hai?",
+      "options": {
+        "A": "Nail ko growth dena",
+        "B": "Nail plate ko support dena aur nourish karna",
+        "C": "Nail ko hard banana",
+        "D": "Nail ko flexibility dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nail bed nail plate ke neeche ki skin hai jo use support aur nourishment provide karti hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Ingrown toenail ko prevent karne ke liye kya advice deni chahiye?",
+      "options": {
+        "A": "Nails ko gol kaatna",
+        "B": "Nails ko straight cut karna aur bahut chhota na karna",
+        "C": "Tight shoes pehenna",
+        "D": "Nails ko bahut lamba rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nails ko straight cut karna aur unhe bahut chhota na karna ingrown toenails ko prevent karta hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Lunula kya hai?",
+      "options": {
+        "A": "Nail ka free edge",
+        "B": "Nail bed ka end",
+        "C": "Nail matrix ka visible part, half-moon shape mein",
+        "D": "Cuticle ke neeche ki skin"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Lunula nail matrix ka visible part hai jo half-moon shape mein dikhta hai nail ke base par."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Client consultation mein kya information gather karna important hai?",
+      "options": {
+        "A": "Client ki income",
+        "B": "Client ki medical history, allergies aur lifestyle",
+        "C": "Client ke favourite TV show",
+        "D": "Client ka political view"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Medical history, allergies aur lifestyle client ke liye sahi treatment plan choose karne mein help karte hain aur safety ensure karte hain."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Onychomycosis kis type ka nail disorder hai?",
+      "options": {
+        "A": "Bacterial infection",
+        "B": "Fungal infection",
+        "C": "Viral infection",
+        "D": "Allergic reaction"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Onychomycosis nails ka fungal infection hai, jisme nails discolored, thick aur brittle ho jaate hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Nail matrix ka kya kaam hai?",
+      "options": {
+        "A": "Nail ko colour dena",
+        "B": "Nail plate produce karna",
+        "C": "Nail ko shine dena",
+        "D": "Nail ko protect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nail matrix nail ke base par tissue hai jo nayi nail cells produce karta hai, jisse nail grow karta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Brittle nails (kamzor nakhun) ka common reason kya ho sakta hai?",
+      "options": {
+        "A": "Bahut zyada paani peena",
+        "B": "Nutritional deficiencies ya harsh chemicals ka use",
+        "C": "Nail polish regularly lagana",
+        "D": "Nails ko chhota rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Brittle nails nutritional deficiencies, dehydration, ya harsh chemicals ke contact mein aane se ho sakte hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Agar client ko diabetes hai toh Pedicure karte waqt kya extra precaution leni chahiye?",
+      "options": {
+        "A": "Zyada pressure se massage karna",
+        "B": "Bahut hot water use karna",
+        "C": "Minor cuts aur infections se bachne ke liye extra careful rehna",
+        "D": "Strong chemicals use karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Diabetic clients mein circulation aur healing power kam hoti hai, isliye minor cuts bhi serious ho sakte hain. Extra care zaroori hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Eponychium kya hai?",
+      "options": {
+        "A": "Nail ka top part",
+        "B": "Cuticle ke just upar ki living skin",
+        "C": "Nail ke neeche ki skin",
+        "D": "Nail ka free edge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Eponychium living skin ka part hai jo nail plate ke base par cuticle ke upar hota hai. Ise cut nahi karna chahiye."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Client consultation form mein 'Consent' section kyun important hai?",
+      "options": {
+        "A": "Sirf formal hone ke liye",
+        "B": "Client ki permission lene aur service ke risks ko samjhane ke liye",
+        "C": "Extra charges lene ke liye",
+        "D": "Client ka signature lene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Consent section client ki permission confirm karta hai aur yeh bhi ensure karta hai ki client ko service se jude potential risks ki jaankari hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Pterygium kya hai?",
+      "options": {
+        "A": "Nail ka colour change hona",
+        "B": "Cuticle ka nail plate par overgrowth hona",
+        "C": "Nail ka tootna",
+        "D": "Nail ke neeche blood clot"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pterygium ek condition hai jisme cuticle nail plate par abnormal tarike se grow karta hai, jisse nail bed chhota dikhta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Client ko home care advice dete waqt kya focus karna chahiye?",
+      "options": {
+        "A": "Sirf salon ke products sell karna",
+        "B": "Unki specific needs ke according personalized tips dena",
+        "C": "Koi bhi advice na dena",
+        "D": "Unhe sirf next appointment book karne ko kehna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Personalized home care advice client ke nail health aur service ke results ko maintain karne mein help karti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Nail discoloration ke common causes kya ho sakte hain?",
+      "options": {
+        "A": "Diet mein fruits ki kami",
+        "B": "Fungal infection, smoking, ya certain medications",
+        "C": "Bahut zyada sona",
+        "D": "Exercise na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nail discoloration fungal infections, smoking, certain medications, ya chemical exposure se ho sakti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Paronychia kis area ka infection hai?",
+      "options": {
+        "A": "Nail plate",
+        "B": "Nail bed",
+        "C": "Nail fold (cuticle area ke aas paas)",
+        "D": "Lunula"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Paronychia nail fold ke aas paas ki skin ka bacterial ya fungal infection hai, jisme redness, swelling, aur pain hota hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Basic manicure ka pehla step kya hai?",
+      "options": {
+        "A": "Nail polish lagana",
+        "B": "Nail shape karna",
+        "C": "Purani nail polish remove karna",
+        "D": "Hand massage karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi manicure service ka pehla step purani nail polish ko remove karna hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Nail ko file karte waqt sahi technique kya hai?",
+      "options": {
+        "A": "Back and forth motion mein file karna",
+        "B": "Sirf ek direction mein file karna, corner se center tak",
+        "C": "Circular motion mein file karna",
+        "D": "Jaldi jaldi file karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nails ko ek hi direction mein (corner se center tak) file karne se nail breakage prevent hota hai aur smooth finish milti hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Cuticle oil ka kya benefit hai?",
+      "options": {
+        "A": "Nails ko hard banana",
+        "B": "Cuticles ko hydrate aur soften karna",
+        "C": "Nail polish ko long-lasting banana",
+        "D": "Nail growth ko rokna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cuticle oil cuticles ko nourish aur soften karta hai, jisse woh healthy rehte hain aur crack nahi hote."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "French manicure ki pehchan kya hai?",
+      "options": {
+        "A": "Dark colour ki nail polish",
+        "B": "Nail plate par nude/pink base aur white tip",
+        "C": "Glitter wali nail polish",
+        "D": "3D nail art designs"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "French manicure mein typically nail plate par nude ya light pink base aur free edge par white tip hoti hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Nail buffing ka kya purpose hai?",
+      "options": {
+        "A": "Nail ko rough banana",
+        "B": "Nail surface ko smooth aur shiny banana",
+        "C": "Nail ko colour dena",
+        "D": "Nail ko shape dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nail buffing se nail surface smooth aur glossy ho jaati hai, jisse polish aur bhi achhi lagti hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Base coat lagana kyun zaroori hai?",
+      "options": {
+        "A": "Nail polish ko jaldi dry karne ke liye",
+        "B": "Nail ko discoloration se bachane aur polish ke liye smooth surface provide karne ke liye",
+        "C": "Nail polish ko thick banane ke liye",
+        "D": "Sirf extra shine ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Base coat nails ko staining se bachata hai aur nail polish ko achhe se adhere hone ke liye smooth base deta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Paraffin wax treatment ka kya benefit hai hands ke liye?",
+      "options": {
+        "A": "Hands ko rough banana",
+        "B": "Deep hydration aur relaxation provide karna",
+        "C": "Hands ko bleached karna",
+        "D": "Hands ko thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paraffin wax treatment hands ko deeply hydrate karta hai, blood circulation improve karta hai aur muscles ko relax karta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Top coat ka kya function hai?",
+      "options": {
+        "A": "Nail polish ko dilute karna",
+        "B": "Nail polish ko chip hone se bachana aur shine provide karna",
+        "C": "Nail growth badhana",
+        "D": "Base coat ki jagah use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Top coat nail polish ko chip hone se bachata hai, uski longevity badhata hai aur ek glossy finish deta hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Nail nipper ka use kya hai?",
+      "options": {
+        "A": "Nail polish remove karna",
+        "B": "Nails ko chhota karna",
+        "C": "Excess cuticle ya hangnails ko carefully trim karna",
+        "D": "Nail art banana"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Nail nipper ka use excess cuticle ya hangnails ko precise tarike se trim karne ke liye hota hai, nail plate ko cut karne ke liye nahi."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Gel polish application mein UV/LED lamp kyun zaroori hai?",
+      "options": {
+        "A": "Polish ko garam karne ke liye",
+        "B": "Gel polish ko cure (dry) karne ke liye",
+        "C": "Nails ko sterilize karne ke liye",
+        "D": "Salon ko light karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gel polish ko cure karne ke liye UV ya LED lamp ki zaroorat hoti hai, jo polish ko hard aur long-lasting banata hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Manicure ke dauran hand massage ka primary benefit kya hai?",
+      "options": {
+        "A": "Nail polish ko jaldi dry karna",
+        "B": "Blood circulation improve karna aur client ko relax feel karana",
+        "C": "Hands ko bleach karna",
+        "D": "Nails ko lamba karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hand massage blood circulation ko boost karta hai, muscles ko relax karta hai aur client ko overall relaxation provide karta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Kon se nail shape ko sabse strong mana jaata hai?",
+      "options": {
+        "A": "Pointed (Stiletto)",
+        "B": "Square",
+        "C": "Round/Oval",
+        "D": "Almond"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Round ya Oval shapes nails ke stress points ko distribute karte hain, jisse woh kam break hote hain aur sabse strong maane jaate hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Cuticle pusher ka sahi use kya hai?",
+      "options": {
+        "A": "Cuticle ko cut karna",
+        "B": "Cuticle ko gently push back karna",
+        "C": "Nail surface ko clean karna",
+        "D": "Nail ko shape dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cuticle pusher ka use excess cuticle ko gently nail plate se push back karne ke liye hota hai, cut karne ke liye nahi."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar client ke nails dry aur brittle hain, toh konsa product recommend karna chahiye?",
+      "options": {
+        "A": "Harsh nail remover",
+        "B": "Moisturizing hand cream aur cuticle oil",
+        "C": "Matte finish nail polish",
+        "D": "Nail growth accelerator"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Moisturizing hand cream aur cuticle oil dry aur brittle nails ko hydrate aur nourish karne mein help karte hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Nail primer ka kya use hai gel polish application mein?",
+      "options": {
+        "A": "Nail ko shine dena",
+        "B": "Gel polish ko nail plate se behtar adhesion provide karna",
+        "C": "Nail ko strong banana",
+        "D": "Nail polish ko colour dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Nail primer nail plate ko degrease karta hai aur gel polish ke liye ek sticky surface create karta hai, jisse adhesion improve hoti hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Manicure mein exfoliation ka kya role hai?",
+      "options": {
+        "A": "Nail polish ko remove karna",
+        "B": "Dead skin cells ko remove karna aur skin ko smooth banana",
+        "C": "Nail ko colour dena",
+        "D": "Hands ko massage karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Exfoliation dead skin cells ko remove karta hai, jisse skin fresh, soft aur smooth dikhti hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Nail strengthener ka kya benefit hai?",
+      "options": {
+        "A": "Nail ko colour dena",
+        "B": "Nails ko chip hone se bachana",
+        "C": "Weak aur brittle nails ko strong banana",
+        "D": "Nail growth ko slow karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Nail strengthener weak, thin aur brittle nails ko strong aur resilient banane mein help karta hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Pedicure ki shuruat kis step se hoti hai?",
+      "options": {
+        "A": "Nail polish lagana",
+        "B": "Feet ko soak karna",
+        "C": "Foot massage karna",
+        "D": "Callus remove karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pedicure ki shuruat feet ko warm water aur foot soak mein soak karne se hoti hai, jisse skin soften hoti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Callus remover ka kya purpose hai?",
+      "options": {
+        "A": "Nail polish remove karna",
+        "B": "Dry, hard skin (calluses) ko soften aur remove karna",
+        "C": "Feet ko moisturize karna",
+        "D": "Foot massage karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Callus remover specially formulated product hai jo feet par hard, dry skin (calluses) ko dissolve aur remove karta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Pumice stone ka use Pedicure mein kya hai?",
+      "options": {
+        "A": "Nail ko shine dena",
+        "B": "Rough skin aur calluses ko gently exfoliate karna",
+        "C": "Foot massage karna",
+        "D": "Nail ko shape dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pumice stone rough skin aur calluses ko gently rub karke remove karne mein help karta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Pedicure ke dauran foot massage ka benefit kya hai?",
+      "options": {
+        "A": "Nail polish ko jaldi dry karna",
+        "B": "Blood circulation improve karna, muscles ko relax karna aur stress reduce karna",
+        "C": "Feet ko bleach karna",
+        "D": "Nails ko strong banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Foot massage blood circulation ko improve karta hai, tired muscles ko relax करता है aur client ko overall relaxation deta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Agar client ke feet par warts (masse) hon toh kya karna chahiye?",
+      "options": {
+        "A": "Service continue karna",
+        "B": "Upar se nail polish laga dena",
+        "C": "Service dene se mana karna aur doctor ke paas jaane ki advice dena",
+        "D": "Warts ko khud remove karne ki koshish karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Warts contagious ho sakte hain aur specialist ko unhe treat karne ki permission nahi hoti. Doctor ke paas jaane ki advice deni chahiye."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Foot scrub ka kya use hai Pedicure mein?",
+      "options": {
+        "A": "Feet ko colour dena",
+        "B": "Dead skin cells ko exfoliate karna aur skin ko soft banana",
+        "C": "Feet ko sterilize karna",
+        "D": "Feet ko thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Foot scrub dead skin cells ko remove karta hai aur feet ko smooth aur soft banata hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Cuticle pusher ko toenails par use karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Zor se push karna",
+        "B": "Cuticle ko cut karna",
+        "C": "Gently push karna taaki nail matrix ko damage na ho",
+        "D": "Use na karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Toenails par cuticles ko gently push karna chahiye taaki nail matrix ko koi damage na ho, jisse nail growth affected ho sakti hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Foot file ya rasps ka use kya hai?",
+      "options": {
+        "A": "Nails ko file karna",
+        "B": "Hard aur rough skin ko remove karna",
+        "C": "Foot massage karna",
+        "D": "Nail polish lagana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Foot file ya rasps ka use feet par hard aur rough skin, jaise calluses, ko remove karne ke liye hota hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Spa Pedicure mein kya additional steps shamil hote hain?",
+      "options": {
+        "A": "Sirf nail polish lagana",
+        "B": "Deep exfoliation, foot mask aur extended massage",
+        "C": "Quick rinse",
+        "D": "Sirf nails cut karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Spa Pedicure mein deep exfoliation, nourishing foot mask, aur lamba relaxing massage shamil hota hai jo basic pedicure se zyada luxurious hota hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Agar client ke feet bahut dry hain, toh Pedicure ke baad kya recommend karna chahiye?",
+      "options": {
+        "A": "Regularly tight shoes pehenna",
+        "B": "Daily moisturizing foot cream ka use karna",
+        "C": "Feet ko dhona band karna",
+        "D": "Sirf nail polish change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Daily moisturizing foot cream use karne se dry feet hydrate rehte hain aur skin soft bani rehti hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Toe separators ka kya use hai Pedicure mein?",
+      "options": {
+        "A": "Toes ko strong banana",
+        "B": "Nail polish lagate waqt toes ko separate rakhna taaki polish smudge na ho",
+        "C": "Toes ko garam rakhna",
+        "D": "Toes ko clean karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Toe separators nail polish application ke dauran toes ko separate rakhte hain, jisse polish smudge nahi hoti aur application easy ho jaati hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Diabetic clients ke liye Pedicure karte waqt kaun sa tool avoid karna chahiye?",
+      "options": {
+        "A": "Nail clipper",
+        "B": "Foot file",
+        "C": "Sharp instruments like razor blades for callus removal",
+        "D": "Pumice stone"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Diabetic clients mein cuts aur wounds jaldi heal nahi hote aur infection ka risk zyada hota hai, isliye sharp instruments avoid karne chahiye."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Foot mask ka kya benefit hai?",
+      "options": {
+        "A": "Feet ko thanda karna",
+        "B": "Skin ko deep nourishment aur hydration provide karna",
+        "C": "Nail polish ko remove karna",
+        "D": "Feet ko colour dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Foot mask skin ko deep nourishment aur hydration deta hai, jisse feet soft aur supple bante hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Pedicure ke baad client ko kya advice deni chahiye taaki unki service long-lasting rahe?",
+      "options": {
+        "A": "Tight shoes pehenna",
+        "B": "Regularly moisturizing karna aur nails ko proper shape mein maintain karna",
+        "C": "Nails ko khud cut karna",
+        "D": "Koi bhi product use na karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular moisturizing aur proper nail care se pedicure ke results zyada time tak maintain rehte hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Toe nail clipper ka use karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Nail ko bahut chhota cut karna",
+        "B": "Nail ko straight cut karna aur corners ko round na karna",
+        "C": "Wet nails ko cut karna",
+        "D": "Ek hi clipper sab clients par use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Toenails ko straight cut karne se ingrown toenails ka risk kam hota hai. Corners ko round karne se ingrown nails ho sakte hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Foot spa machine mein bubbles ka kya purpose hai?",
+      "options": {
+        "A": "Sirf decoration ke liye",
+        "B": "Feet ko clean karna",
+        "C": "Massage effect provide karna aur blood circulation improve karna",
+        "D": "Paani ko garam rakhna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Foot spa machine ke bubbles massage effect dete hain, jo blood circulation ko improve karta hai aur feet ko relax karta hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Pedicure mein 'dry' massage kab kiya jaata hai?",
+      "options": {
+        "A": "Soaking se pehle",
+        "B": "Polish lagane ke baad",
+        "C": "Moisturizer ya massage cream apply karne ke baad",
+        "D": "Jab feet gande hon"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Dry massage ka matlab hai jab skin par koi oil, lotion ya cream already apply ho, jisse glide smooth hota hai. Yeh soaking aur scrubbing ke baad aur polish se pehle hota hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Basic nail art ke liye kaun sa tool sabse commonly use hota hai?",
+      "options": {
+        "A": "Nail clipper",
+        "B": "Dotting tool",
+        "C": "Pumice stone",
+        "D": "Foot file"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dotting tool dots aur small patterns banane ke liye nail art mein commonly use hota hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Gel polish application mein kya step traditional polish se different hai?",
+      "options": {
+        "A": "Base coat lagana",
+        "B": "Top coat lagana",
+        "C": "UV/LED lamp mein cure karna",
+        "D": "Nail ko shape dena"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Gel polish ko dry karne ke liye UV/LED lamp mein cure karna padta hai, jabki traditional polish air dry hoti hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Nail extensions ko remove karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Zor se pull karna",
+        "B": "Nail plate ko damage kiye bina gently remove karna",
+        "C": "Sharp objects se scrape karna",
+        "D": "Sirf paani se dhona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nail extensions ko gently aur sahi tareeke se remove karna chahiye taaki natural nail plate ko damage na ho."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Client ko gel polish ki aftercare ke liye kya advice deni chahiye?",
+      "options": {
+        "A": "Harsh chemicals se bachna aur gloves pehenna",
+        "B": "Nails ko khud file karna",
+        "C": "Gel polish ko peel off karna",
+        "D": "Zyada garam paani mein haath rakhna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Harsh chemicals aur manual work se bachne ke liye gloves pehenna gel polish ki longevity badhata hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Stamping nail art mein kya use hota hai?",
+      "options": {
+        "A": "Freehand painting",
+        "B": "Stamping plate, stamper aur scraper",
+        "C": "3D moulds",
+        "D": "Glitter powder"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stamping nail art mein pre-designed patterns wali stamping plate, stamper aur scraper ka use hota hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Nail art brushes ko clean karne ka best tareeka kya hai?",
+      "options": {
+        "A": "Paani mein dhona",
+        "B": "Nail polish remover ya brush cleaner se clean karna",
+        "C": "Kapde se pochna",
+        "D": "Unhe sukha chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nail art brushes ko nail polish remover ya special brush cleaner se clean karne se woh long-lasting rehte hain aur next use ke liye ready rehte hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Client ko nail extensions ki refill kab karani chahiye?",
+      "options": {
+        "A": "6 months baad",
+        "B": "Har 2-3 हफ्ते mein",
+        "C": "Jab unhe yaad aaye",
+        "D": "Saal mein ek baar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nail growth ke karan nail extensions ko har 2-3 हफ्ते mein refill karana zaroori hota hai taaki lift na ho aur balance bana rahe."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Ombre nail art effect kaise achieve kiya jaata hai?",
+      "options": {
+        "A": "Ek hi colour ki polish lagakar",
+        "B": "Do ya do se zyada colours ko blend karke gradient effect banana",
+        "C": "Stripes banakar",
+        "D": "Glitter lagakar"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ombre nail art mein do ya do se zyada colours ko sponge ya brush ki help se blend karke gradient effect banaya jaata hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Nail extensions ke liye primer ka kya use hai?",
+      "options": {
+        "A": "Nail ko colour dena",
+        "B": "Nail plate ko prepare karna aur product ki adhesion badhana",
+        "C": "Nail ko shine dena",
+        "D": "Nail ko dry karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Primer nail plate ko degrease karta hai aur nail extension product ke liye ek strong bond provide karta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Nail art mein rhinestones ko fix karne ke liye kya use hota hai?",
+      "options": {
+        "A": "Water",
+        "B": "Nail glue ya top coat",
+        "C": "Normal fevicol",
+        "D": "Tape"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rhinestones aur other embellishments ko nail glue ya thick top coat se fix kiya jaata hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Gel polish removal ke liye kya process follow karte hain?",
+      "options": {
+        "A": "Scrape off karna",
+        "B": "Acetone soak-off method",
+        "C": "Sirf paani se dhona",
+        "D": "Heat se remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gel polish ko acetone mein soak karke remove kiya jaata hai, jisse natural nail ko damage nahi hota."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Nail art mein 'marbling' effect kaise banate hain?",
+      "options": {
+        "A": "Straight lines draw karke",
+        "B": "Wet nail polish colours ko mix karke swirl design banana",
+        "C": "Stickers lagakar",
+        "D": "Glitter sprinkle karke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Marbling effect wet nail polish colours ko ek saath mix karke, toothpicks ya dotting tool se swirl design banakar achieve kiya jaata hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Client ko nail growth ke liye kya advice deni chahiye?",
+      "options": {
+        "A": "Diet mein protein aur biotin shamil karna",
+        "B": "Nails ko hamesha chhota rakhna",
+        "C": "Har din nail polish lagana",
+        "D": "Nails ko rough use karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Protein aur biotin rich diet healthy nail growth ke liye essential hai. Balanced diet overall nail health ko improve karti hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Acrylic nail extensions mein monomer ka kya role hai?",
+      "options": {
+        "A": "Nail ko colour dena",
+        "B": "Acrylic powder ko liquid mein dissolve karke workable consistency banana",
+        "C": "Nail ko shine dena",
+        "D": "Nail ko dry karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Monomer (liquid) acrylic powder ke saath mix hokar ek malleable bead banata hai jisse nail extensions create kiye jaate hain. Yeh air dry hota hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Nail art mein 'striping tape' ka kya use hai?",
+      "options": {
+        "A": "Nail ko cover karna",
+        "B": "Clean, crisp lines aur geometric patterns banane ke liye",
+        "C": "Nail ko repair karna",
+        "D": "Nail ko buff karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Striping tape thin lines, geometric patterns aur colour blocking effects create karne ke liye use hota hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Nail extensions ki longevity ke liye sabse important aftercare tip kya hai?",
+      "options": {
+        "A": "Unhe regularly chew karna",
+        "B": "Products ko protect karna aur gentle use karna",
+        "C": "Ghar ke saare kaam bina gloves ke karna",
+        "D": "Refills ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nail extensions ko protect karna, gentle use karna aur harsh chemicals se bachna unki longevity ke liye essential hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Client ke saath effective communication kyun zaroori hai?",
+      "options": {
+        "A": "Sirf time pass karne ke liye",
+        "B": "Client ki needs ko samajhne aur unhe satisfy karne ke liye",
+        "C": "Apni personal life share karne ke liye",
+        "D": "Dusre clients ko impress karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Effective communication client ki expectations ko samajhne aur unhe best possible service dene mein help karti hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Ek dissatisfied client ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Unhe ignore karna",
+        "B": "Unki baat sunna, empathy dikhana aur solution offer karna",
+        "C": "Unke saath argue karna",
+        "D": "Unhe salon se bahar nikal dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dissatisfied client ki baat patiently sunna, unki problem ko samajhna aur ek fair solution offer karna professional approach hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Professional ethics mein kya shamil hai?",
+      "options": {
+        "A": "Sirf paise kamana",
+        "B": "Honesty, integrity, confidentiality aur respect",
+        "C": "Competition se aage nikalna",
+        "D": "Clients ke secrets share karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professional ethics mein honesty, integrity, confidentiality aur sabhi clients ke prati respect shamil hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Salon mein appointment scheduling ka kya benefit hai?",
+      "options": {
+        "A": "Clients ko wait karana",
+        "B": "Time management ko optimize karna aur client rush ko avoid karna",
+        "C": "Sirf records maintain karna",
+        "D": "Specialists ko busy rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Appointment scheduling se time manage karna easy hota hai, client rush avoid hota hai aur sabko proper service milti hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Client records maintain karna kyun important hai?",
+      "options": {
+        "A": "Sirf billing ke liye",
+        "B": "Client ki preferences, allergies aur past services ko track karne ke liye",
+        "C": "Unhe blackmail karne ke liye",
+        "D": "Personal information collect karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client records unki preferences, health conditions aur past services ko track karne mein help karte hain, jisse personalized service provide ki ja sakti hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Ek Pedicure & Manicure Specialist ka professional appearance kaisa hona chahiye?",
+      "options": {
+        "A": "Casual aur untidy",
+        "B": "Clean, tidy aur well-groomed",
+        "C": "Bahut zyada jewellery ke saath",
+        "D": "Fashinable but unhygienic"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professional appearance mein clean, tidy aur well-groomed hona shamil hai, jo trust aur professionalism create karta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Client ko 'upsell' karna matlab kya hai?",
+      "options": {
+        "A": "Unhe saste products dena",
+        "B": "Unhe unki existing service se better ya additional service recommend karna",
+        "C": "Unhe kuch bhi kharidne ke liye force karna",
+        "D": "Unhe discount dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Upselling ka matlab hai client ko unki current choice se better ya zyada comprehensive service recommend karna jo unki needs ko aur achhe se fulfill kare."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Salon mein emergency procedures ki jaankari kyun honi chahiye?",
+      "options": {
+        "A": "Sirf rules follow karne ke liye",
+        "B": "Accidents ya unforeseen situations ko safely handle karne ke liye",
+        "C": "Clients ko darane ke liye",
+        "D": "Extra training dikhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency procedures ki jaankari hone se kisi bhi accident ya unforeseen situation ko calm aur safely handle kiya ja sakta hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Client ko loyalty program mein shamil hone ke liye encourage karna kis baat ka example hai?",
+      "options": {
+        "A": "Bad customer service",
+        "B": "Client retention strategy",
+        "C": "Loss-making strategy",
+        "D": "Sirf promotion"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Loyalty programs clients ko repeat visits ke liye reward karte hain, jo client retention aur long-term business ke liye beneficial hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar client late ho jaaye appointment ke liye toh kya karna chahiye?",
+      "options": {
+        "A": "Unhe service dene se mana karna",
+        "B": "Unhe accommodate karne ki koshish karna, agar possible ho toh, ya next available slot offer karna",
+        "C": "Unse argue karna",
+        "D": "Unhe wait karana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client satisfaction ke liye unhe accommodate karne ki koshish karna ya politely next slot offer karna best professional practice hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Professional boundaries maintain karna kyun essential hai?",
+      "options": {
+        "A": "Clients ko door rakhne ke liye",
+        "B": "Professional relationship maintain karne aur uncomfortable situations se bachne ke liye",
+        "C": "Sirf rules follow karne ke liye",
+        "D": "Personal favours mangne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Professional boundaries maintain karne se client-specialist relationship respectful aur professional bani rehti hai, aur uncomfortable situations avoid hoti hain."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Feedback forms ka kya use hai salon mein?",
+      "options": {
+        "A": "Sirf paper waste karne ke liye",
+        "B": "Client satisfaction measure karne aur services ko improve karne ke liye",
+        "C": "Clients ka time waste karne ke liye",
+        "D": "Sirf formality ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Feedback forms se client satisfaction levels ka pata chalta hai aur valuable insights milte hain services ko improve karne ke liye."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Salon mein product knowledge kyun important hai?",
+      "options": {
+        "A": "Sirf products ko store karne ke liye",
+        "B": "Clients ko sahi products recommend karne aur unke questions ka answer dene ke liye",
+        "C": "Products ko waste karne ke liye",
+        "D": "Products ko display karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Product knowledge specialist ko clients ki needs ke according sahi products recommend karne aur unke doubts clear karne mein help karta hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Teamwork ka kya importance hai salon mein?",
+      "options": {
+        "A": "Sirf gossip karne ke liye",
+        "B": "Smooth operations, positive work environment aur better client experience ke liye",
+        "C": "Apni zimmedari dusron par dalne ke liye",
+        "D": "Competition create karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Teamwork se salon operations smooth rehte hain, ek positive work environment banta hai aur ultimately client experience improve hota hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Client ki personal information ko kaise treat karna chahiye?",
+      "options": {
+        "A": "Dusre clients ke saath share karna",
+        "B": "Strictly confidential rakhna",
+        "C": "Social media par post karna",
+        "D": "Publicly discuss karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ki personal information ko strictly confidential rakhna professional ethics ka ek important part hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Continuous learning aur skill upgrade kyun essential hai Pedicure & Manicure Specialist ke liye?",
+      "options": {
+        "A": "Sirf degree lene ke liye",
+        "B": "Latest trends, techniques aur products ke saath updated rehne aur better service provide karne ke liye",
+        "C": "Purani techniques ko bhoolne ke liye",
+        "D": "Apne competitors se peeche rehne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Beauty industry constantly evolve ho rahi hai, isliye latest trends aur techniques se updated rehna client satisfaction aur career growth ke liye zaroori hai."
+    }
+  ]
+}

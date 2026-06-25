@@ -1,0 +1,1443 @@
+{
+  "course_name": "Scaffolding & Shuttering Technician",
+  "sector": "Construction & Building Trades",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Scaffolding & Shuttering, Safety Basics",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Scaffolding Components & Types",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Scaffolding Erection & Dismantling Procedures",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Shuttering Components & Types",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Shuttering Erection & Dismantling Procedures",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Quality, Inspection & Maintenance, Advanced Safety",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Scaffolding ka primary purpose kya hai construction site par?",
+      "options": {
+        "A": "Material storage ke liye",
+        "B": "Workers ko height par safe working platform provide karna",
+        "C": "Building ko support dena",
+        "D": "Traffic control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Scaffolding ka mukhya uddeshya workers ko unchai par surakshit aur stable platform dena hai taaki ve apna kaam theek se kar sakein."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Shuttering ko aur kis naam se jaana jaata hai construction industry mein?",
+      "options": {
+        "A": "Reinforcement",
+        "B": "Formwork",
+        "C": "Concreting",
+        "D": "Masonry"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shuttering ko aam taur par 'Formwork' ke naam se jaana jaata hai, jo concrete ko shape dene ke liye use hota hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "PPE ka full form kya hai?",
+      "options": {
+        "A": "Personal Protection Equipment",
+        "B": "Project Planning Equipment",
+        "C": "Public Protection Element",
+        "D": "Permanent Protection Erection"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "PPE ka matlab 'Personal Protection Equipment' hai, jo workers ko hazards se bachane ke liye pehnaya jaata hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Working at height par sabse common hazard kya hai?",
+      "options": {
+        "A": "Noise pollution",
+        "B": "Falling objects",
+        "C": "Electrical shock",
+        "D": "Fire hazard"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Working at height par girne wali cheezein (falling objects) aur workers ka girna (falls from height) sabse common hazards hain."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Scaffolding technician ke liye kaun sa PPE zaroori hai?",
+      "options": {
+        "A": "Safety helmet, safety shoes, safety harness",
+        "B": "Gloves, earplugs, goggles",
+        "C": "Reflective vest, dust mask, rain suit",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Scaffolding technician ko safety helmet, safety shoes, safety harness, gloves, earplugs, goggles aur reflective vest jaise sabhi PPE ki zaroorat pad sakti hai, depending on the task and site conditions."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Scaffold par chadhte ya utarte samay 'three-point contact' rule ka kya matlab hai?",
+      "options": {
+        "A": "Scaffold ko teen jagah se pakadna",
+        "B": "Teen workers ka ek saath upar ya neeche jaana",
+        "C": "Do haath aur ek pair, ya do pair aur ek haath ka contact banaye rakhna",
+        "D": "Sirf teen rungs ka istemal karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Three-point contact ka matlab hai ladder ya scaffold par chadhte/utarte samay hamesha do haath aur ek pair ya do pair aur ek haath ka contact banaye rakhna, taaki balance bana rahe."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Agar scaffolding par 'Do Not Use' tag laga ho, toh uska kya matlab hai?",
+      "options": {
+        "A": "Scaffolding abhi ban raha hai",
+        "B": "Scaffolding unsafe hai aur use nahi karna chahiye",
+        "C": "Scaffolding par sirf authorized person hi ja sakte hain",
+        "D": "Scaffolding temporary use ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "'Do Not Use' tag ka matlab hai ki scaffolding unsafe hai aur use tab tak use nahi karna chahiye jab tak use theek na kar diya jaaye aur inspect na kar liya jaaye."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Shuttering ka main role kya hai concrete work mein?",
+      "options": {
+        "A": "Concrete ko strength dena",
+        "B": "Concrete ko dry hone mein help karna",
+        "C": "Fresh concrete ko desired shape aur support provide karna",
+        "D": "Concrete ko mix karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Shuttering, ya formwork, fresh concrete ko tab tak support aur shape deta hai jab tak woh set aur strong na ho jaaye."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Scaffolding erection se pehle site par kya check karna zaroori hai?",
+      "options": {
+        "A": "Nearby restaurants",
+        "B": "Ground ki stability aur level",
+        "C": "Weather forecast for next month",
+        "D": "Colour of the building"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Scaffolding ke liye stable aur level ground bahut zaroori hai, taaki woh gir na jaaye. Ground ki stability aur load-bearing capacity check karna essential hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Kaun sa safety rule Scaffolding aur Shuttering dono mein common hai?",
+      "options": {
+        "A": "Working at height par fall protection use karna",
+        "B": "Heavy machinery operate karna",
+        "C": "Welding operations karna",
+        "D": "Paint karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Dono mein working at height involved hoti hai, isliye fall protection (jaise safety harness, guardrails) ka use karna dono ke liye common aur critical safety rule hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Scaffolding erection ke dauran electric lines se kitni minimum safe distance maintain karni chahiye?",
+      "options": {
+        "A": "1 meter",
+        "B": "2 meters",
+        "C": "3 meters",
+        "D": "Depend karta hai voltage par"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Electric lines se safe distance voltage par depend karti hai. High voltage lines ke liye zyada distance chahiye hoti hai. Hamesha local safety regulations aur electrical safety guidelines follow karne chahiye."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Scaffolding work ke liye 'competent person' ka kya matlab hai?",
+      "options": {
+        "A": "Koi bhi jo scaffolding laga sake",
+        "B": "Ek vyakti jiske paas required knowledge, training aur experience ho hazards ko identify aur control karne ke liye",
+        "C": "Site manager",
+        "D": "Koi bhi engineer"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Competent person woh vyakti hota hai jiske paas zaroori knowledge, training aur experience ho taaki woh potential hazards ko pehchan sake aur unhe control karne ke liye sahi kadam utha sake."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Shuttering removal ya 'stripping' kab shuru karna chahiye?",
+      "options": {
+        "A": "Concrete daalne ke turant baad",
+        "B": "Jab concrete apni required strength kaafi had tak achieve kar le",
+        "C": "Jab site par koi na ho",
+        "D": "Subah jaldi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shuttering ko tabhi hatana chahiye jab concrete itna strong ho jaaye ki woh apna load aur us par aane wale live loads ko bina support ke bear kar sake. Iske liye curing period aur strength requirements ko follow karna zaroori hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Work site par emergency exit routes ko clear rakhna kyon zaroori hai?",
+      "options": {
+        "A": "Taki log aasani se lunch break par ja sakein",
+        "B": "Fire ya other emergencies mein safe evacuation ke liye",
+        "C": "Material movement ke liye",
+        "D": "Ventilation ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency exit routes ko hamesha clear rakhna chahiye taaki fire, medical emergency ya kisi aur khatre ki situation mein workers aur staff safely evacuate kar sakein."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Scaffolding ke niche 'toe boards' lagane ka kya fayda hai?",
+      "options": {
+        "A": "Scaffold ko zyada stable banana",
+        "B": "Choti cheezon ko scaffold se neeche girne se rokna",
+        "C": "Workers ko aasani se chalne dena",
+        "D": "Scaffold ko zyada attractive banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Toe boards (ya kick plates) working platform ke edges par lagaye jaate hain taaki tools, debris ya chhote items neeche girkar neeche kaam kar rahe logon ko chot na pahunchayein."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Shuttering panels ko reuse karte waqt kya check karna important hai?",
+      "options": {
+        "A": "Unka colour",
+        "B": "Unki cleanliness aur damage ke liye inspection",
+        "C": "Unka weight",
+        "D": "Unka brand"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shuttering panels ko reuse karne se pehle unhe achhe se saaf karna aur damage, cracks ya deformities ke liye inspect karna zaroori hai, taaki agle pour mein concrete ki quality achhi rahe aur safety bhi bani rahe."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Site par 'Housekeeping' ka kya matlab hai?",
+      "options": {
+        "A": "Site par ghar banana",
+        "B": "Site ko saaf, organized aur hazard-free rakhna",
+        "C": "Site par khaana banana",
+        "D": "Site par decoration karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Housekeeping ka matlab hai work area ko neat, tidy aur saaf-suthra rakhna, taaki accidents aur injuries se bacha ja sake."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Scaffolding mein 'standard' ka kya role hai?",
+      "options": {
+        "A": "Horizontal support dena",
+        "B": "Vertical support dena aur load ko ground tak transfer karna",
+        "C": "Working platform banana",
+        "D": "Scaffold ko diagonally brace karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Standards scaffolding ke vertical members hote hain jo load ko upar se neeche tak transfer karte hain aur scaffold ko height dete hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "'Ledger' scaffolding ka kaun sa component hai?",
+      "options": {
+        "A": "Vertical member",
+        "B": "Horizontal member jo standards ko connect karta hai",
+        "C": "Diagonal brace",
+        "D": "Base plate"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ledgers horizontal members hote hain jo standards ko parallel mein connect karte hain aur working platform ko support dete hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Scaffolding mein 'base plate' aur 'sole plate' ka kya kaam hai?",
+      "options": {
+        "A": "Scaffold ko colour karna",
+        "B": "Load ko zyada area par distribute karna aur sinking se bachana",
+        "C": "Scaffold ko upar uthana",
+        "D": "Scaffold ko decorate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Base plate aur sole plate (jo base plate ke neeche rakhi jaati hai) load ko bade area par distribute karte hain, jisse scaffold zameen mein dhasne se bachta hai aur stability badhti hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Tube and coupler scaffolding mein tubes ko connect karne ke liye kis fitting ka use hota hai?",
+      "options": {
+        "A": "Nails",
+        "B": "Ropes",
+        "C": "Couplers",
+        "D": "Welding"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tube and coupler scaffolding mein tubes ko aapas mein jodkar structure banane ke liye couplers (jaise right-angle coupler, swivel coupler) ka use hota hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Working platform banate waqt 'guardrails' ka kya importance hai?",
+      "options": {
+        "A": "Workers ko garmi se bachana",
+        "B": "Workers ko platform se neeche girne se rokna",
+        "C": "Material ko distribute karna",
+        "D": "Scaffold ko zyada load bear karne mein help karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Guardrails (top rail, mid rail) working platform ke edges par lagaye jaate hain taaki workers ko accidentally neeche girne se roka ja sake, jo fall protection ka ek critical hissa hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Mobile scaffolding ka kya fayda hai?",
+      "options": {
+        "A": "Ye bahut uncha banaya ja sakta hai",
+        "B": "Isse ek jagah se dusri jagah aasani se move kiya ja sakta hai",
+        "C": "Ye bahut sasta hota hai",
+        "D": "Isse concrete daalne ke liye use karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mobile scaffolding mein wheels hote hain, jisse ise ek jagah se dusri jagah aasani se move kiya ja sakta hai, jo un tasks ke liye beneficial hai jahan frequent repositioning ki zaroorat hoti hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Suspended scaffolding kya hota hai?",
+      "options": {
+        "A": "Zameen se khada kiya hua scaffold",
+        "B": "Rope ya chains se building ke top se latkaya hua scaffold",
+        "C": "Wheels wala scaffold",
+        "D": "Bamboo se bana scaffold"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Suspended scaffolding, jise swing stage bhi kehte hain, building ke top se ropes ya chains ke zariye latkaya jaata hai aur uski height ko adjust kiya ja sakta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Scaffolding mein 'transom' ka kya kaam hai?",
+      "options": {
+        "A": "Standards ko vertically connect karna",
+        "B": "Standards aur ledgers ke beech platform ko support karna",
+        "C": "Diagonal bracing provide karna",
+        "D": "Base ko stable karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Transoms ledgers par rest karte hain aur working platform (decking) ko support provide karte hain. Ye ledgers ke perpendicular hote hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "System scaffolding, tube and coupler scaffolding se kaise alag hai?",
+      "options": {
+        "A": "System scaffolding mein pre-fabricated components hote hain jo aasani se lock ho jaate hain",
+        "B": "System scaffolding sirf wood se banta hai",
+        "C": "System scaffolding ko move nahi kar sakte",
+        "D": "System scaffolding mein koi safety features nahi hote"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "System scaffolding mein pre-engineered aur pre-fabricated components hote hain jo jaldi aur aasani se assemble aur dismantle ho jaate hain, jabki tube and coupler mein individual tubes aur couplers manually jode jaate hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Scaffolding ke 'bracing' ka kya importance hai?",
+      "options": {
+        "A": "Scaffold ko zyada colourful banana",
+        "B": "Scaffold ko lateral (side-to-side) stability dena",
+        "C": "Scaffold ko upar uthana",
+        "D": "Workers ko rest karne ki jagah dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bracing (diagonal ya cross bracing) scaffolding ko lateral forces (jaise hawa ka dabav) se bachata hai aur structure ko side se girne se rokkar stability provide karta hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Scaffolding ladders ki incline angle kitni honi chahiye for safe access?",
+      "options": {
+        "A": "90 degrees (straight up)",
+        "B": "75 degrees (1:4 ratio of rise to run)",
+        "C": "45 degrees",
+        "D": "30 degrees"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Portable ladders ke liye generally 75-degree angle (ya 1:4 ratio) recommended hota hai, matlab har 4 units height ke liye 1 unit base se door. Ye angle stability aur ease of climbing ke liye best hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Decking ya planks ke beech maximum allowable gap kitna hona chahiye scaffolding platform par?",
+      "options": {
+        "A": "No gap",
+        "B": "1 inch",
+        "C": "2 inches",
+        "D": "As per site requirement"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Safety regulations ke mutabik, scaffolding platforms par decking ya planks ke beech koi bhi considerable gap nahi hona chahiye jahan se tools ya workers gir sakein. Ideally, gaps minimal hone chahiye aur 1 inch se zyada nahi."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Birdcage scaffolding kis type ke work ke liye use hota hai?",
+      "options": {
+        "A": "Narrow facades par",
+        "B": "Large internal areas jaise ceilings ya domes ke liye",
+        "C": "Mobile access ke liye",
+        "D": "Heavy load lifting ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Birdcage scaffolding large internal areas jaise auditoriums, halls, ya high ceilings ko support dene ke liye use hota hai, jahan workers ko bade area par access chahiye hota hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Cantilever scaffolding ka use kab kiya jaata hai?",
+      "options": {
+        "A": "Jab ground support available ho",
+        "B": "Jab building ke neeche se support lena possible na ho",
+        "C": "Jab bahut low height par kaam karna ho",
+        "D": "Jab circular structure par kaam karna ho"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cantilever scaffolding tab use hota hai jab ground level se support possible na ho, jaise building ke upper floors par ya obstructions ke upar. Isme scaffold building se bahar ki taraf extend hota hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Putlog scaffolding mein putlogs ka kya role hai?",
+      "options": {
+        "A": "Ye free-standing hote hain",
+        "B": "Ye ek end par ledgers se connect hote hain aur dusre end par wall mein support lete hain",
+        "C": "Ye sirf vertical support dete hain",
+        "D": "Ye mobile platform provide karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Putlog scaffolding mein putlogs horizontal members hote hain jo ek end par ledger se attach hote hain aur dusre end par building ki wall mein support lete hain, jisse platform ko support milta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Scaffolding tag system mein 'Green Tag' ka kya matlab hai?",
+      "options": {
+        "A": "Scaffold unsafe hai, use na karein",
+        "B": "Scaffold safe hai aur use ke liye ready hai",
+        "C": "Scaffold abhi ban raha hai",
+        "D": "Scaffold temporary hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Green tag indicate karta hai ki scaffolding fully erected, inspected, aur safe hai use karne ke liye."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Scaffolding planks kis material ke bane ho sakte hain?",
+      "options": {
+        "A": "Steel only",
+        "B": "Wood, steel, ya aluminium",
+        "C": "Plastic only",
+        "D": "Glass"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Scaffolding planks ya decking material wood, steel, ya aluminium ho sakta hai, depending on the load requirements aur site conditions."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Scaffolding erect karte waqt sabse pehla step kya hona chahiye?",
+      "options": {
+        "A": "Planks lagana",
+        "B": "Standards khade karna",
+        "C": "Base plates aur sole plates lagana",
+        "D": "Guardrails lagana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Scaffolding ki stability ke liye sabse pehle ground ko prepare karke base plates aur sole plates ko sahi jagah par place karna zaroori hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Scaffolding ko building se 'tie-in' karna kyon zaroori hai?",
+      "options": {
+        "A": "Scaffold ko zyada load bear karne mein help karne ke liye",
+        "B": "Scaffold ko building se alag dikhane ke liye",
+        "C": "Scaffold ko lateral movement aur overturn se rokne ke liye",
+        "D": "Scaffold ko easily dismantle karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Tie-ins scaffold ko building se jodte hain, jisse scaffold lateral forces (jaise hawa) ke karan hilne ya girne se bachta hai aur uski overall stability badhti hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Scaffolding dismantle karte waqt kis cheez ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Upar se neeche tak order mein dismantle karna",
+        "B": "Neeche se upar tak dismantle karna",
+        "C": "Ek saath saare components nikal dena",
+        "D": "Components ko randomly nikalna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Scaffolding ko dismantle karte waqt safety aur stability maintain karne ke liye hamesha top-down (upar se neeche) order mein kaam karna chahiye, jaise usko erect kiya gaya tha reverse order mein."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Scaffolding erection ke dauran tools aur components ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Upar se neeche fenk dena",
+        "B": "Ropes ya hoists ka use karke safely upar/neeche bhejna",
+        "C": "Apne haath mein lekar chadhte utarte samay",
+        "D": "Kisi ko bhi de dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools aur components ko safely upar ya neeche bhejne ke liye ropes, hoists, ya bucket system ka use karna chahiye, taaki girne ka khatra na ho."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Scaffolding inspection kitni baar honi chahiye?",
+      "options": {
+        "A": "Sirf ek baar erection ke baad",
+        "B": "Har din work shuru hone se pehle, aur kisi bhi modification ya adverse weather ke baad",
+        "C": "Hafte mein ek baar",
+        "D": "Jab man kare"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scaffolding ki regular inspection bahut zaroori hai. Har din kaam shuru hone se pehle, kisi bhi modification ke baad, aur tez hawa, baarish ya earthquake jaise adverse weather conditions ke baad iski jaanch honi chahiye."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Scaffolding erection ke dauran 'plumb and level' ka kya matlab hai?",
+      "options": {
+        "A": "Scaffold ko colourful banana",
+        "B": "Scaffold ke vertical components ko seedha aur horizontal components ko barabar (level) rakhna",
+        "C": "Scaffold ko zyada load bear karne mein help karna",
+        "D": "Scaffold ko aasani se move karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Plumb (seedha) aur level (barabar) rakhna scaffolding ki stability aur load-bearing capacity ke liye critical hai. Isse structure properly aligned rehta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Scaffolding erection ke liye 'Scaffold Erection Plan' kyon zaroori hai?",
+      "options": {
+        "A": "Sirf records ke liye",
+        "B": "Safe aur efficient erection ke liye detailed instructions provide karna",
+        "C": "Workers ko busy rakhne ke liye",
+        "D": "Cost badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scaffold Erection Plan mein design details, sequence of erection, safety precautions, aur required materials shamil hote hain, jo safe aur efficient work ke liye essential hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Scaffolding par material ya tools ko over-load karna kyon dangerous hai?",
+      "options": {
+        "A": "Scaffold ka colour kharab ho jaayega",
+        "B": "Scaffold ki structural integrity compromise ho sakti hai aur woh collapse kar sakta hai",
+        "C": "Material ganda ho jaayega",
+        "D": "Workers ko zyada kaam karna padega"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Har scaffold ki ek maximum safe working load hoti hai. Isse zyada load daalne par scaffold collapse ho sakta hai, jisse serious accidents ho sakte hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Scaffolding ke niche 'exclusion zone' kyon banaya jaata hai?",
+      "options": {
+        "A": "Taki wahan koi baith na sake",
+        "B": "Falling objects se neeche ke logon ko bachane ke liye",
+        "C": "Material storage ke liye",
+        "D": "Parking ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Exclusion zone ek area hota hai jahan unauthorised persons ko entry nahi hoti, khaaskar scaffolding ke neeche, taaki girne wale objects se unhe chot na lage."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Scaffolding par ladders ko kaise secure karna chahiye?",
+      "options": {
+        "A": "Sirf neeche se pakad kar",
+        "B": "Top aur bottom dono jagah se tie ya clamp karke",
+        "C": "Ladder ko side mein rakh kar",
+        "D": "Kisi bhi tarah se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ladders ko hamesha top aur bottom dono jagah se securely tie ya clamp karna chahiye, taaki woh slip na karein aur stability bani rahe."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Scaffolding ke components ko store karte waqt kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Unhe randomly ek jagah fenk dena",
+        "B": "Unhe saaf karke, sort karke aur properly stack karke rakhna",
+        "C": "Unhe dhoop mein rakhna",
+        "D": "Unhe paani mein daal dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper storage se components ki lifespan badhti hai, damage se bachav hota hai, aur agle use ke liye aasani se available rehte hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Scaffolding par kaam karte waqt loose tools ko kaise prevent karna chahiye from falling?",
+      "options": {
+        "A": "Unhe tight pockets mein rakhna",
+        "B": "Tool lanyards ka use karna ya tool belts mein secure karna",
+        "C": "Unhe haath mein pakad kar rakhna",
+        "D": "Unhe platform par aise hi chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tool lanyards aur secure tool belts ka use karke tools ko girne se roka ja sakta hai, jisse neeche kaam kar rahe logon ko chot lagne ka khatra kam hota hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Agar scaffolding par koi component damaged ho jaaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Use ignore kar dena",
+        "B": "Use turant replace ya repair karna aur competent person ko inform karna",
+        "C": "Us par tape laga dena",
+        "D": "Us par paint kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Damaged components scaffold ki stability ko compromise kar sakte hain. Unhe turant replace ya repair karna aur competent person ko inform karna safety ke liye critical hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Scaffolding ko electrical hazards se kaise bachaya ja sakta hai?",
+      "options": {
+        "A": "Scaffold ko wooden banakar",
+        "B": "Live electrical lines se adequate clearance maintain karna",
+        "C": "Scaffold par lights lagakar",
+        "D": "Scaffold ko paani se dhokar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electrical lines se safe working distance maintain karna aur unhe de-energize ya insulate karna electrical shock ke khatre ko kam karta hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Scaffolding erection ke dauran 'Tag-out system' ka kya role hai?",
+      "options": {
+        "A": "Scaffold ko decoration dena",
+        "B": "Scaffold ki status (safe, unsafe, under construction) ko clearly indicate karna",
+        "C": "Scaffold ko zyada load bear karne mein help karna",
+        "D": "Scaffold ko aasani se move karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tag-out system (Red, Yellow, Green tags) scaffold ki current safety status ko inform karta hai, jisse workers ko pata chalta hai ki scaffold use karne layak hai ya nahi."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Mobile scaffolding ko move karte waqt kya precautions leni chahiye?",
+      "options": {
+        "A": "Wheels ko lock kar dena",
+        "B": "Upar se saare workers aur materials ko remove karna",
+        "C": "Scaffold ko upar se push karna",
+        "D": "Sirf wheels ko unlock karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Mobile scaffolding ko move karne se pehle us par se saare workers aur materials ko hata dena chahiye. Wheels ko unlock karne ke baad, scaffolding ko neeche se gently push karna chahiye, aur move karne ke baad wheels ko fir se lock kar dena chahiye."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Scaffolding erection ke liye 'fall arrest system' ka use kab karna chahiye?",
+      "options": {
+        "A": "Jab height 1.8 meter se zyada ho",
+        "B": "Jab height 3 meters se zyada ho",
+        "C": "Jab height 6 feet (approx 1.8m) ya usse zyada ho aur guardrails na hon",
+        "D": "Kabhi nahi"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Fall arrest system (safety harness, lanyard) ka use tab karna zaroori hai jab working height 6 feet (ya local regulations ke hisaab se) se zyada ho aur collective fall protection (jaise guardrails) provide na kiya gaya ho."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Shuttering mein 'plywood' ka use kyon popular hai?",
+      "options": {
+        "A": "Ye bahut sasta hota hai",
+        "B": "Ye smooth finish deta hai aur reuse kiya ja sakta hai",
+        "C": "Ye bahut halka hota hai",
+        "D": "Ye waterproof hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plywood shuttering ek smooth surface deta hai aur use kai baar reuse kiya ja sakta hai agar properly maintain kiya jaaye. Iski strength-to-weight ratio bhi achhi hoti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Steel shuttering ka kya fayda hai over wooden shuttering?",
+      "options": {
+        "A": "Ye lightweight hota hai",
+        "B": "Ye zyada durable hota hai aur kai baar reuse kiya ja sakta hai",
+        "C": "Ye sasta hota hai",
+        "D": "Ye non-reusable hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Steel shuttering bahut durable hota hai, kai baar reuse kiya ja sakta hai, aur concrete ko ek smooth finish deta hai. Iski strength bhi zyada hoti hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "'Props' ka kya role hai shuttering support mein?",
+      "options": {
+        "A": "Horizontal support dena",
+        "B": "Vertical support dena, khaaskar slabs aur beams ke liye",
+        "C": "Diagonal bracing provide karna",
+        "D": "Shuttering ko assemble karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Props (adjustable steel props ya wooden props) vertical supports hote hain jo shuttering ko neeche se support dete hain, khaaskar jab concrete daala jaata hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Beam shuttering mein 'soffit' ka kya matlab hai?",
+      "options": {
+        "A": "Beam ka side panel",
+        "B": "Beam ka bottom panel",
+        "C": "Beam ka top panel",
+        "D": "Beam ko support dene wala prop"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Soffit beam shuttering ka bottom panel hota hai, jis par concrete rest karta hai. Ye beam ke neeche ka hissa form karta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Column shuttering mein 'yokes' ka kya kaam hai?",
+      "options": {
+        "A": "Column shuttering ko decorate karna",
+        "B": "Column shuttering panels ko tightly hold karna taaki concrete pressure ko resist kar sakein",
+        "C": "Column shuttering ko upar uthana",
+        "D": "Column shuttering ko neeche se support dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yokes, ya clamps, column shuttering ke panels ko horizontal direction mein tightly hold karte hain taaki fresh concrete ke lateral pressure ko resist kiya ja sake aur column apni shape maintain kar sake."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Shuttering mein 'walers' ka kya use hai?",
+      "options": {
+        "A": "Shuttering ko vertical support dena",
+        "B": "Shuttering panels ko align aur support karna, aur ties/bolts ko distribute karna",
+        "C": "Shuttering ko aasani se dismantle karna",
+        "D": "Shuttering ko waterproof banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Walers horizontal members hote hain jo shuttering panels ko support aur alignment dete hain, aur wall ties ke load ko distribute karte hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Plastic shuttering ka kya fayda hai chhote projects ke liye?",
+      "options": {
+        "A": "Ye bahut heavy hota hai",
+        "B": "Ye lightweight, reusable aur easy to handle hota hai",
+        "C": "Ye bahut expensive hota hai",
+        "D": "Ye sirf ek baar use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Plastic shuttering lightweight hota hai, aasani se assemble aur dismantle ho jaata hai, aur kai baar reuse kiya ja sakta hai, jisse chhote projects ke liye ye cost-effective option hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Shuttering mein 'ties' ka kya kaam hai?",
+      "options": {
+        "A": "Shuttering panels ko alag rakhna",
+        "B": "Opposite shuttering panels ko ek saath hold karna taaki concrete pressure se panels bahar na fail jayein",
+        "C": "Shuttering ko upar uthana",
+        "D": "Shuttering ko neeche se support dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ties, ya form ties, shuttering panels ko ek doosre se jodte hain aur concrete ke lateral pressure ko resist karte hain, jisse desired width maintain rehti hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Slab shuttering mein 'floor joists' ka kya role hai?",
+      "options": {
+        "A": "Slab ko vertical support dena",
+        "B": "Slab shuttering panels ko direct support dena",
+        "C": "Slab ko reinforce karna",
+        "D": "Slab ko smooth finish dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Floor joists (ya battens) horizontal members hote hain jo slab shuttering panels ko direct support dete hain, aur khud props ya girders par support lete hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Circular column shuttering ke liye kaun sa material commonly use hota hai?",
+      "options": {
+        "A": "Flat wooden planks",
+        "B": "Steel ya fibre-reinforced plastic (FRP) circular sections",
+        "C": "Square plywood panels",
+        "D": "Brickwork"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Circular columns ke liye, pre-fabricated steel ya FRP circular forms use kiye jaate hain jo desired shape aasani se de sakte hain aur reuse bhi ho sakte hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Shuttering ke liye 'release agent' (mould release oil) kyon use kiya jaata hai?",
+      "options": {
+        "A": "Concrete ko zyada chipkaane ke liye",
+        "B": "Shuttering ko concrete se aasani se alag karne aur surface finish ko behtar banane ke liye",
+        "C": "Shuttering ko waterproof banane ke liye",
+        "D": "Shuttering ko strong banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Release agent shuttering surface par apply kiya jaata hai taaki concrete set hone ke baad shuttering ko aasani se remove kiya ja sake aur concrete surface par koi damage na ho."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Shuttering mein 'kickers' ka kya role hai?",
+      "options": {
+        "A": "Shuttering ko neeche se support dena",
+        "B": "Wall shuttering ke base ko position aur align karna, aur concrete ke initial pour ko contain karna",
+        "C": "Shuttering ko aasani se dismantle karna",
+        "D": "Shuttering ko upar uthana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Kickers chhote wooden ya concrete blocks hote hain jo wall shuttering ke base par place kiye jaate hain. Ye shuttering panels ko sahi position mein hold karte hain aur first pour ke concrete ko bahar nikalne se rokte hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Modular shuttering system ka kya fayda hai?",
+      "options": {
+        "A": "Ye sirf ek baar use hota hai",
+        "B": "Ye pre-fabricated, standard-sized panels ka use karta hai jo quick assembly aur high reuse value dete hain",
+        "C": "Ye bahut heavy hota hai",
+        "D": "Ye sirf curves ke liye use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Modular shuttering system standard-sized, reusable panels ka use karta hai, jisse assembly time kam hota hai aur efficiency badhti hai. Ye versatile bhi hota hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Shuttering ki design karte waqt kis factor ka khaas dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Shuttering ka colour",
+        "B": "Fresh concrete ka pressure aur structural load",
+        "C": "Shuttering ka weight",
+        "D": "Shuttering ka brand"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shuttering ko fresh concrete ke hydrostatic pressure aur us par aane wale workers aur equipment ke live loads ko safely bear karne ke liye design kiya jaana chahiye."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Timber shuttering ke liye kaun sa wood type prefer kiya jaata hai?",
+      "options": {
+        "A": "Softwood, jaise pine",
+        "B": "Hardwood, jaise teak",
+        "C": "Koi bhi wood chalega",
+        "D": "Sirf treated wood"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Timber shuttering ke liye softwood jaise pine ya fir ke liye generally prefer kiya jaata hai kyunki ye aasani se cut aur nail ho jaata hai, aur cost-effective hota hai. Hardwood bahut mahanga aur mushkil hota hai kaam karne mein."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Shuttering panels mein joints ko seal kyon karna chahiye?",
+      "options": {
+        "A": "Taki shuttering sundar lage",
+        "B": "Taki concrete slurry joints se leak na ho aur honeycombing se bacha ja sake",
+        "C": "Taki shuttering strong ho jaaye",
+        "D": "Taki shuttering aasani se remove ho sake"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Joints ko seal karne se concrete ki slurry (cement paste) leak nahi hoti, jisse concrete mein voids (honeycombing) nahi bante aur finished surface quality achhi rehti hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Formwork ke liye 'sheathing' ka kya matlab hai?",
+      "options": {
+        "A": "Formwork ko support dene wale props",
+        "B": "Formwork ki outer layer jo concrete ke directly contact mein aati hai",
+        "C": "Formwork ke ties",
+        "D": "Formwork ke bracing members"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sheathing, ya facing, formwork ka woh surface hota hai jo fresh concrete ke directly contact mein aata hai. Ye concrete ko smooth finish deta hai aur uski desired shape banata hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Shuttering erection se pehle kis cheez ka check karna zaroori hai?",
+      "options": {
+        "A": "Nearby coffee shop",
+        "B": "Drawing aur specification ke according layout aur marking",
+        "C": "Weather forecast for next year",
+        "D": "Colour of the shuttering panels"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shuttering erection se pehle, drawings aur specifications ke hisaab se exact layout aur markings check karna zaroori hai taaki structure sahi dimensions mein bane."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Shuttering erection ke dauran 'levelling' ka kya importance hai?",
+      "options": {
+        "A": "Shuttering ko colourful banana",
+        "B": "Taki concrete ki surface flat aur horizontal bane",
+        "C": "Shuttering ko zyada load bear karne mein help karna",
+        "D": "Shuttering ko aasani se dismantle karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shuttering ko properly level karna zaroori hai taaki concrete pour hone ke baad uski top surface flat aur horizontal bane, jo structural integrity aur aesthetics ke liye important hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Concrete pouring ke dauran shuttering ki stability maintain rakhne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Shuttering ko dheela chhod dena",
+        "B": "Extra bracing aur support provide karna",
+        "C": "Concrete ko bahut jaldi daalna",
+        "D": "Shuttering ko modify karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Concrete pouring ke dauran shuttering par considerable pressure aata hai. Isliye, uski stability maintain rakhne ke liye additional bracing aur supports provide karna zaroori hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Shuttering removal ke baad panels ko kaise treat karna chahiye?",
+      "options": {
+        "A": "Unhe aise hi chhod dena",
+        "B": "Unhe saaf karke, repair karke aur release agent laga kar storage karna",
+        "C": "Unhe jaldi se dispose kar dena",
+        "D": "Unhe paint kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shuttering panels ko saaf karna, damage ke liye inspect karna, repair karna aur release agent lagakar store karna unki lifespan badhata hai aur future reuse ke liye ready rakhta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Stripping operations ke dauran kya safety precautions leni chahiye?",
+      "options": {
+        "A": "Koi bhi PPE na pehnna",
+        "B": "Fall protection, head protection aur foot protection ka use karna",
+        "C": "Andhere mein kaam karna",
+        "D": "Bina supervision ke kaam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stripping operations mein bhi girne ka, sir par chot lagne ka aur pair par cheezein girne ka khatra hota hai, isliye proper PPE aur safety precautions lena zaroori hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Shuttering ke dismantling sequence ka kya importance hai?",
+      "options": {
+        "A": "Koi importance nahi hai",
+        "B": "Concrete structure ko damage hone se bachane aur workers ki safety ke liye",
+        "C": "Dismantling ko slow karne ke liye",
+        "D": "Sirf rules follow karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek proper dismantling sequence follow karna zaroori hai taaki concrete structure ko unneccessary stress na pade aur workers ko girne wale components se chot na lage."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Shuttering ko dismantle karne ke baad concrete surface par kya check karna chahiye?",
+      "options": {
+        "A": "Surface ka colour",
+        "B": "Honeycombing, blowholes, cracks jaise defects",
+        "C": "Surface ki temperature",
+        "D": "Surface ki hardness"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shuttering hatane ke baad concrete surface ko defects jaise honeycombing (voids), blowholes (small air bubbles), cracks, aur alignment errors ke liye inspect karna chahiye."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Slab shuttering ko remove karne ka ideal time kis par depend karta hai?",
+      "options": {
+        "A": "Weather forecast par",
+        "B": "Concrete ki strength aur curing period par",
+        "C": "Workers ki availability par",
+        "D": "Site manager ke mood par"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Slab shuttering ko tabhi remove karna chahiye jab concrete ne apni required strength (usually 70-85% of characteristic strength) achieve kar li ho. Iske liye curing period aur concrete mix design ko consider kiya jaata hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Shuttering erection ke dauran kya 'tolerance' maintain karni chahiye?",
+      "options": {
+        "A": "Koi tolerance nahi",
+        "B": "Dimensions aur alignment mein specified limits ke andar rehna",
+        "C": "Jitna ho sake utna inaccurate rehna",
+        "D": "Sirf visual check karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tolerance ka matlab hai ki shuttering ki dimensions aur alignment mein kitni deviation allow ki ja sakti hai. Specified limits ke andar rehna structural integrity aur quality ke liye zaroori hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Shuttering components ko lift karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Bina kisi plan ke lift karna",
+        "B": "Proper lifting equipment (jaise crane, hoist) aur slings ka use karna",
+        "C": "Haath se uthana chahe kitna bhi heavy ho",
+        "D": "Kisi ko bhi lift karne dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Heavy shuttering components ko lift karne ke liye proper lifting equipment aur trained personnel ka use karna chahiye taaki accidents aur injuries se bacha ja sake."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Shuttering panels ke edge protection ka kya matlab hai?",
+      "options": {
+        "A": "Panels ko colour karna",
+        "B": "Panels ke edges ko damage se bachane ke liye reinforcement ya capping lagana",
+        "C": "Panels ko aasani se dismantle karna",
+        "D": "Panels ko waterproof banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Edge protection, jaise metal capping, panels ke edges ko damage se bachata hai, khaaskar jab unhe baar-baar handle aur reuse kiya jaata hai, jisse unki lifespan badhti hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Shuttering erection mein 'chamfer strips' ka kya use hai?",
+      "options": {
+        "A": "Sharp corners ko rounded ya beveled banana",
+        "B": "Shuttering ko strong banana",
+        "C": "Shuttering ko waterproof banana",
+        "D": "Shuttering ko aasani se dismantle karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Chamfer strips wooden ya plastic ke hote hain jo shuttering ke andar corners par lagaye jaate hain taaki concrete ke sharp edges ko rounded ya beveled finish mile, jisse future damage kam hota hai aur aesthetics achhe hote hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Shuttering ko remove karne ke baad, next step kya hona chahiye for the concrete structure?",
+      "options": {
+        "A": "Turant paint karna",
+        "B": "Curing process shuru karna ya continue karna",
+        "C": "Us par load daalna",
+        "D": "Us par paani daalna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shuttering removal ke baad, concrete ki proper curing bahut zaroori hai taaki woh apni full strength achieve kar sake aur cracks se bacha ja sake."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Shuttering erection ke dauran 'verticality' check karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Measuring tape",
+        "B": "Spirit level ya plumb bob",
+        "C": "Hammer",
+        "D": "Wrench"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shuttering ke vertical members ki seedhaai (verticality) check karne ke liye spirit level ya plumb bob ka use kiya jaata hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Shuttering ke liye 'pre-assembly' ka kya fayda hai?",
+      "options": {
+        "A": "Site par zyada noise karna",
+        "B": "Site par erection time kam karna aur quality control behtar karna",
+        "C": "Components ko damage karna",
+        "D": "Cost badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pre-assembly ka matlab hai shuttering components ko site par ya off-site pehle se assemble kar lena. Isse site par erection time kam hota hai aur quality control behtar hota hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Agar shuttering dismantle karte waqt concrete ko damage ho jaaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Use ignore kar dena",
+        "B": "Damage ko inspect karna aur repair ke liye supervisor ko inform karna",
+        "C": "Us par paint kar dena",
+        "D": "Us par aur concrete daal dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar concrete ko damage hota hai toh use inspect karna aur repair ke liye supervisor ko inform karna zaroori hai, taaki structure ki integrity maintain rahe."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Scaffolding 'Handover Certificate' ka kya importance hai?",
+      "options": {
+        "A": "Ye sirf ek paper hai",
+        "B": "Ye confirm karta hai ki scaffold inspect kiya gaya hai, safe hai aur use ke liye ready hai",
+        "C": "Ye scaffold ki ownership change karta hai",
+        "D": "Ye scaffold ko dismantle karne ki permission deta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Handover Certificate ek official document hota hai jo is baat ki pushti karta hai ki scaffold competent person dwara inspect kiya gaya hai aur use ke liye safe hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Shuttering ki 'quality control' mein kya shamil hai?",
+      "options": {
+        "A": "Sirf cost check karna",
+        "B": "Materials ki quality, dimensions ki accuracy, joints ki tightness aur support ki adequacy check karna",
+        "C": "Shuttering ka colour check karna",
+        "D": "Shuttering ko decorate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Quality control mein shuttering ke har aspect ki jaanch karna shamil hai taaki woh specifications ke mutabik ho aur concrete ko desired shape aur finish de sake."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Scaffolding ke components ki regular 'maintenance' kyon zaroori hai?",
+      "options": {
+        "A": "Components ko naya dikhane ke liye",
+        "B": "Unki lifespan badhane aur safety maintain karne ke liye",
+        "C": "Unhe bechne ke liye",
+        "D": "Unhe ganda karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular cleaning, lubrication, repair aur storage se scaffolding components ki lifespan badhti hai aur unki structural integrity maintain rehti hai, jisse safety bhi ensure hoti hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Shuttering mein 'rebar clearance' ka kya matlab hai?",
+      "options": {
+        "A": "Rebar ko shuttering se chipka kar rakhna",
+        "B": "Rebar aur shuttering ke beech required space maintain karna taaki concrete rebar ko poori tarah cover kar sake",
+        "C": "Rebar ko shuttering se bahar rakhna",
+        "D": "Rebar ko shuttering ke upar rakhna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Rebar clearance (ya cover) bahut zaroori hai taaki reinforcement bars ko concrete ki ek protective layer mile, jo corrosion se bachati hai aur fire resistance badhati hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Scaffolding par kaam karte waqt 'fall protection' ka primary goal kya hai?",
+      "options": {
+        "A": "Workers ko thand se bachana",
+        "B": "Workers ko height se girne se rokna ya unke girne ke impact ko kam karna",
+        "C": "Workers ko dhoop se bachana",
+        "D": "Workers ko zyada kaam karne se rokna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fall protection systems, jaise guardrails, safety nets, aur personal fall arrest systems, workers ko height se girne se bachane ya girne par chot ko kam karne ke liye design kiye jaate hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Shuttering ke 'reuse factor' ko kaise improve kiya ja sakta hai?",
+      "options": {
+        "A": "Use ek baar hi use karke",
+        "B": "Proper handling, cleaning, repairing aur storage se",
+        "C": "Use bina saaf kiye rakh kar",
+        "D": "Use tod kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Achhi tarah se maintain kiye gaye shuttering panels ko kai baar reuse kiya ja sakta hai, jisse project cost kam hoti hai aur environmental impact bhi kam hota hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Scaffolding par 'load capacity' ka kya matlab hai?",
+      "options": {
+        "A": "Scaffold kitna weight utha sakta hai",
+        "B": "Scaffold kitna colour utha sakta hai",
+        "C": "Scaffold kitni height tak ja sakta hai",
+        "D": "Scaffold kitni tezi se move kar sakta hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Load capacity ka matlab hai ki ek scaffold kitna maximum safe weight (workers, tools, materials) bear kar sakta hai bina structural failure ke."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Shuttering ke liye 'Risk Assessment' kyon zaroori hai?",
+      "options": {
+        "A": "Sirf formality ke liye",
+        "B": "Potential hazards ko identify karne aur unhe control karne ke liye",
+        "C": "Cost badhane ke liye",
+        "D": "Kaam ko delay karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Risk assessment mein shuttering work se jude sabhi khatron ko pehchana jaata hai aur unhe kam karne ya eliminate karne ke liye measures implement kiye jaate hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Agar scaffolding par koi emergency situation ho, toh sabse pehla step kya hona chahiye?",
+      "options": {
+        "A": "Pani dalna",
+        "B": "Alarm bajana aur emergency services ko inform karna",
+        "C": "Bhag jaana",
+        "D": "Selfie lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency mein, turant alarm bajana aur relevant emergency services (fire, medical) ko inform karna sabse pehla aur critical step hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Shuttering ke 'pre-pour inspection' mein kya check kiya jaata hai?",
+      "options": {
+        "A": "Shuttering ka colour",
+        "B": "Alignment, bracing, cleanliness, release agent application aur reinforcement placement",
+        "C": "Shuttering ka weight",
+        "D": "Shuttering ka brand"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Concrete pour karne se pehle shuttering ki thorough inspection zaroori hai taaki yeh ensure kiya ja sake ki sab kuch theek hai aur koi problem na ho."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Scaffolding se girne wale tools ya materials se bachne ke liye kya kiya ja sakta hai?",
+      "options": {
+        "A": "Neeche kisi ko khada na hone dena",
+        "B": "Toe boards, guardrails, debris nets aur exclusion zones ka use karna",
+        "C": "Tools ko upar se fenk dena",
+        "D": "Sirf bade tools use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Toe boards, guardrails, debris nets aur exclusion zones sabhi falling objects se neeche ke logon ko bachane ke liye effective measures hain."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Shuttering ke 'backpropping' ka kya matlab hai?",
+      "options": {
+        "A": "Shuttering ko peeche se support dena",
+        "B": "Neeche ke floors par additional support dena jab upar ke floors par concrete pour kiya ja raha ho",
+        "C": "Shuttering ko dismantle karna",
+        "D": "Shuttering ko repair karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Backpropping mein neeche ke floors par props lagaye jaate hain taaki upper floors par concrete pour karne par aane wale extra load ko safely transfer kiya ja sake, aur neeche ke structure ko damage na ho."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Scaffolding par 'access' ke liye kaun sa method sabse safe mana jaata hai?",
+      "options": {
+        "A": "Scaffold ke frame par chadna",
+        "B": "Properly erected ladders ya stair towers ka use karna",
+        "C": "Rassi se chadna",
+        "D": "Kisi aur scaffold par se jump karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Properly installed ladders, stair towers ya ramps scaffolding par safe access provide karte hain. Scaffold ke structural members par chadna unsafe hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Shuttering ke 'curing' process ka kya importance hai?",
+      "options": {
+        "A": "Concrete ko jaldi sukhana",
+        "B": "Concrete ki strength, durability aur crack resistance ko improve karna",
+        "C": "Concrete ko naya dikhana",
+        "D": "Concrete ko aasani se todna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Curing mein concrete ko moisture aur temperature control mein rakha jaata hai taaki woh properly hydrate ho aur apni full strength, durability aur crack resistance achieve kar sake."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Scaffolding aur Shuttering work ke liye 'Permit-to-Work' system ka kya fayda hai?",
+      "options": {
+        "A": "Sirf paperwork badhana",
+        "B": "High-risk activities ko control karna aur yeh ensure karna ki sabhi safety precautions liye gaye hain",
+        "C": "Kaam ko slow karna",
+        "D": "Workers ko extra payment dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Permit-to-Work system ek formal authorization process hai jo high-risk tasks se pehle safety measures ki confirmation ensure karta hai, jisse accidents ka khatra kam hota hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Scaffolding ya Shuttering technician ko 'confined space' mein kaam karte waqt kya extra precaution leni chahiye?",
+      "options": {
+        "A": "Zyada shor karna",
+        "B": "Ventilation, gas detection aur rescue plan ensure karna",
+        "C": "Andhere mein kaam karna",
+        "D": "Akela kaam karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confined spaces mein oxygen deficiency, toxic gases aur entrapment ka khatra hota hai. Isliye proper ventilation, gas detection equipment aur ek ready rescue plan bahut zaroori hai."
+    }
+  ]
+}

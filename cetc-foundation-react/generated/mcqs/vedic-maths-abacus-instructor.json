@@ -1,0 +1,1443 @@
+{
+  "course_name": "Vedic Maths & Abacus Instructor",
+  "sector": "Education & Early Childhood",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Abacus & Vedic Maths",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Abacus - Basic Operations (Addition & Subtraction)",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Abacus - Advanced Operations (Multiplication & Division)",
+      "question_range": "Q35-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Vedic Maths - Sutras for Basic Operations",
+      "question_range": "Q51-Q67"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Vedic Maths - Advanced Sutras & Applications",
+      "question_range": "Q68-83"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Classroom Management & Teaching Methodology",
+      "question_range": "Q84-100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Abacus tool ka aavishkar kis civilisation mein hua maana jaata hai?",
+      "options": {
+        "A": "Mesopotamian",
+        "B": "Indian",
+        "C": "Egyptian",
+        "D": "Greek"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Abacus ka sabse purana roop Mesopotamia mein lagbhag 2700–2300 BC mein istemal kiya gaya tha. Isse 'Sumerian Abacus' bhi kehte hain."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Standard Soroban Abacus mein, horizontal bar ke upar har rod par kitne beads hote hain?",
+      "options": {
+        "A": "1 bead",
+        "B": "2 beads",
+        "C": "4 beads",
+        "D": "5 beads"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Upar wale beads ko 'Heavenly Beads' kehte hain aur har rod par ek hi hota hai, jiski value 5 hoti hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Vedic Maths kis prachin Bharatiya granth par aadharit hai?",
+      "options": {
+        "A": "Ramayana",
+        "B": "Mahabharata",
+        "C": "Atharvaveda",
+        "D": "Arthashastra"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Vedic Mathematics ko Swami Bharati Krishna Tirtha ji ne Atharvaveda ke parishishto (appendices) se punah khoja tha."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Abacus seekhne se bachhon mein sabse bada fayda kya hota hai?",
+      "options": {
+        "A": "Sirf calculation speed badhti hai",
+        "B": "Concentration aur visualization power improve hoti hai",
+        "C": "Handwriting sundar ho jaati hai",
+        "D": "Social skills develop hoti hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Abacus practice se bachhon ka concentration, memory, aur anzan (mental calculation) ke liye visualization power behtar hoti hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Abacus ke horizontal bar ko kya kehte hain jo beads ko upar aur neeche ke hisson mein baant'ta hai?",
+      "options": {
+        "A": "Frame",
+        "B": "Rod",
+        "C": "Beam or Bar",
+        "D": "Divider"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Horizontal bar jo upper aur lower beads ko alag karta hai, use Beam ya Bar kehte hain. Isse 'Answer Line' bhi kaha jaata hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "'Anzan' shabd ka kya matlab hai, jo Abacus training mein use hota hai?",
+      "options": {
+        "A": "Abacus par calculation karna",
+        "B": "Abacus ko reset karna",
+        "C": "Bina Abacus ke, mann mein uski tasveer banakar calculation karna",
+        "D": "Abacus ke beads ko ginnna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Anzan ek Japanese term hai jiska matlab hai 'mental calculation'. Ismein student apne dimaag mein abacus ki image banakar calculations karte hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Vedic Maths mein kul kitne Sutras (aphorisms) hain?",
+      "options": {
+        "A": "10",
+        "B": "16",
+        "C": "20",
+        "D": "25"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Swami Bharati Krishna Tirtha ji ki pustak 'Vedic Mathematics' mein 16 mukhya Sutras aur 13 Up-sutras (sub-formulae) ka varnan hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Abacus par '0' (zero) kaise represent kiya jaata hai?",
+      "options": {
+        "A": "Saare beads ko beam se door karke",
+        "B": "Saare beads ko beam ke paas laakar",
+        "C": "Sirf upper bead ko beam ke paas laakar",
+        "D": "Sirf lower beads ko beam ke paas laakar"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Jab kisi rod par koi bhi bead (upper ya lower) beam ko touch nahi kar raha ho, to us rod ki value zero hoti hai. Isse 'clearing the abacus' bhi kehte hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Ek instructor ke taur par, aap naye student ko Abacus aur Vedic Maths mein se pehle kya seekhne ki salah denge, agar student 6 saal ka hai?",
+      "options": {
+        "A": "Vedic Maths, kyunki woh aasan hai",
+        "B": "Abacus, kyunki yeh ek physical tool hai jo concrete learning mein madad karta hai",
+        "C": "Dono ek saath shuru kar sakte hain",
+        "D": "Student ki marzi par chhod denge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Chhote bachhon (5-8 saal) ke liye Abacus behtar shuruaat hai. Yeh ek tangible tool hai jisse unki motor skills aur concentration develop hoti hai. Vedic Maths thoda abstract ho sakta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Vedic Maths ka mool siddhant kya hai?",
+      "options": {
+        "A": "Calculations ko lamba aur detailed banana",
+        "B": "Calculations ko tez, aasan aur mann mein karne layak banana",
+        "C": "Sirf geometry ke problems solve karna",
+        "D": "Calculator ka istemal promote karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vedic Maths ka mool siddhant hai ki complex calculations ko simple, one-line sutras ki madad se fast aur efficient banaya jaaye."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Abacus par 'unit rod' aamtaur par kahan hoti hai?",
+      "options": {
+        "A": "Sabse baayi (leftmost) rod",
+        "B": "Sabse daayi (rightmost) rod",
+        "C": "Center mein, jahan ek dot laga hota hai",
+        "D": "Kahin bhi ho sakti hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Standard practice ke anusaar, unit rod (ikai ka sthan) ko center mein lage hue dots mein se kisi ek par set kiya jaata hai, taaki decimal calculations mein aasani ho."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Swami Bharati Krishna Tirtha ji ne Vedic Maths par apni kitab kab likhi thi?",
+      "options": {
+        "A": "1850-1860",
+        "B": "1911-1918",
+        "C": "1965",
+        "D": "1990"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Unhone ye sutras 1911 se 1918 ke beech vanon mein adhyatmik sadhana karte hue punah khoje the. Kitab unke nidhan ke baad 1965 mein publish hui."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Abacus ke lower beads ko kya kaha jaata hai aur unki value kya hoti hai?",
+      "options": {
+        "A": "Heavenly beads, value 5 each",
+        "B": "Earthly beads, value 1 each",
+        "C": "Water beads, value 2 each",
+        "D": "Sky beads, value 10 each"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Neeche ke chaar beads ko 'Earthly beads' kehte hain aur har bead ki value 1 hoti hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek instructor ke roop mein, aapka pehla session kis cheez par focus hona chahiye?",
+      "options": {
+        "A": "Seedhe complex sawal solve karwana",
+        "B": "Student ka introduction, tool (Abacus) se familiarity, aur finger movements",
+        "C": "Parents ko fees ke baare mein samjhana",
+        "D": "Student ka test lena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pehla session hamesha student ke saath ek achha rapport banane, unhe tool se comfortable karne, aur basic finger exercises par kendrit hona chahiye."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Vedic Maths ke sutra 'Ekadhikena Purvena' ka kya arth hai?",
+      "options": {
+        "A": "Pichle wale se ek kam",
+        "B": "Sabhi ko 9 se",
+        "C": "Pichle wale se ek adhik",
+        "D": "Vertically aur Crosswise"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "'Ekadhikena Purvena' ka Sanskrit mein arth hai 'By one more than the previous one'. Yeh sutra multiplication aur squares nikalne mein kaam aata hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Abacus par 7 represent karne ke liye, beam ke paas kaunse beads honge?",
+      "options": {
+        "A": "Ek upper bead aur do lower beads",
+        "B": "Do upper beads aur ek lower bead",
+        "C": "Sirf teen lower beads",
+        "D": "Ek upper bead aur teen lower beads"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "7 represent karne ke liye, 5 ki value wala ek upper bead (heavenly bead) aur 1-1 ki value wale do lower beads (earthly beads) ko beam se touch karwaya jaata hai (5 + 2 = 7)."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Dono, Abacus aur Vedic Maths, ka common objective kya hai?",
+      "options": {
+        "A": "Rote memorization ko badhawa dena",
+        "B": "Mental calculation skills ko behtar banana aur maths ke darr ko kam karna",
+        "C": "Sirf exam mein marks laana",
+        "D": "Calculator par nirbharta badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dono hi पद्धतियां (methods) bachhon ki mental arithmetic abilities ko badhane, unka confidence build karne aur mathematics ko ek interesting subject banane par focus karti hain."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Abacus par addition ke liye lower beads ko upar karne ke liye kis ungli ka istemal hota hai?",
+      "options": {
+        "A": "Index finger",
+        "B": "Thumb",
+        "C": "Middle finger",
+        "D": "Ring finger"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Standard practice mein, lower beads ko upar (add) karne ke liye angoothe (thumb) ka istemal kiya jaata hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Abacus par subtraction ke liye lower beads ko neeche karne ke liye kis ungli ka istemal hota hai?",
+      "options": {
+        "A": "Index finger",
+        "B": "Thumb",
+        "C": "Little finger",
+        "D": "Middle finger"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Lower beads ko neeche (subtract) karne ke liye tarjani ungli (index finger) ka istemal kiya jaata hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Abacus mein 'Small Friend' concept ka istemal kab hota hai?",
+      "options": {
+        "A": "Jab 10 ka complement use karna ho",
+        "B": "Jab 5 ka complement use karna ho",
+        "C": "Jab multiplication karna ho",
+        "D": "Jab division karna ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Small Friend' (ya complements of 5) ka istemal tab hota hai jab addition ya subtraction ke liye us rod par sufficient lower beads na ho, lekin upper bead (5) available ho."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Agar aapko Abacus par 3 mein 4 jodna hai, to aap kaunsa formula use karenge?",
+      "options": {
+        "A": "Seedhe 4 beads upar karenge",
+        "B": "Small Friend: +4 = +5 -1",
+        "C": "Big Friend: +4 = +10 -6",
+        "D": "Combination: +4 = +10 -5 -1"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Rod par 3 hai, yaani 1 lower bead bacha hai. 4 add karne ke liye sufficient beads nahi hain. 5 ka bead already use ho chuka hai (ya nahi bhi). Isliye Big Friend formula (+10 -6) use hoga. Agli rod par +10 karenge aur current rod se -6."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Abacus par 6 mein se 4 ghatane (subtract) ke liye, sahi kriya kya hogi?",
+      "options": {
+        "A": "Seedhe 4 lower beads neeche karenge",
+        "B": "Big Friend: -4 = -10 +6",
+        "C": "Small Friend: -4 = -5 +1",
+        "D": "Pehle 1 lower bead neeche, fir 3 aur neeche"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "6 (1 upper, 1 lower bead) mein se 4 ghatane ke liye sufficient lower beads nahi hain. Isliye Small Friend subtraction formula (-4 = -5 +1) ka istemal hoga: 5 ka bead hatayenge aur 1 ka bead add karenge."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "'Big Friend' kiske complements hote hain?",
+      "options": {
+        "A": "5",
+        "B": "9",
+        "C": "10",
+        "D": "100"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "'Big Friend' pairs woh do numbers hote hain jinka jod 10 hota hai, jaise (1,9), (2,8), (3,7), (4,6)."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Abacus par 28 + 14 ka calculation karte samay, unit rod par 8+4 kaise karenge?",
+      "options": {
+        "A": "Seedhe 4 add karenge",
+        "B": "+4 = +5 -1",
+        "C": "+4 = +10 -6",
+        "D": "Pehle 2 add, fir 2 add"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Unit rod par 8 hai. 4 add karne ke liye beads nahi hain. Isliye Big Friend formula +4 = +10 -6 ka istemal hoga. Next (tens) rod par 1 add karenge aur current (unit) rod se 6 subtract karenge."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Ek student 7+2 ko Abacus par 10 calculate kar raha hai. Ek instructor ke taur par aap kya karenge?",
+      "options": {
+        "A": "Use daantenge",
+        "B": "Uske finger movement ko check karenge aur sahi process dobara batayenge",
+        "C": "Use calculator use karne ko kahenge",
+        "D": "Ignore kar denge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Yeh ek common mistake ho sakti hai. Instructor ko student ke process ko observe karna chahiye aur use sahi tarike se (7 set karke fir 2 beads upar karna) samjhana chahiye."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Abacus par 52 - 17 ka calculation karte samay, tens rod par 5-1 aur unit rod par 2-7 karna hai. 2-7 kaise karenge?",
+      "options": {
+        "A": "Seedhe 7 subtract karenge",
+        "B": "Big Friend: -7 = -10 +3",
+        "C": "Small Friend: -7 = -5 -2",
+        "D": "Yeh calculation possible nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Unit rod par 2 hai, 7 subtract nahi kar sakte. Isliye hum tens rod se 1 'borrow' lenge (yaani -10 karenge) aur unit rod par 7 ka Big Friend (3) add karenge. Formula: -7 = -10 +3."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Abacus par 'Combination Formula' ka istemal kab hota hai?",
+      "options": {
+        "A": "Jab Small Friend aur Big Friend dono direct apply na ho paayein",
+        "B": "Sirf multiplication mein",
+        "C": "Sirf division mein",
+        "D": "Jab numbers 100 se bade ho"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Combination formula tab use hota hai jab addition/subtraction ke liye na to Small Friend (5 ka complement) available ho aur na hi Big Friend (10 ka complement) direct lag sake. Example: 6+7. Yahan +7 ke liye +10-3 lagana hai, par -3 ke liye beads nahi hai. To -3 ke liye -5+2 use hoga. Pura formula: +7 = +10 -5 +2."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Agar ek rod par 9 set hai, aur aapko 8 add karna hai, to aap kya karenge?",
+      "options": {
+        "A": "Agli rod par 1 add karenge aur current rod par 2 subtract karenge (+10 -2)",
+        "B": "Agli rod par 1 add karenge aur current rod par 8 rehne denge",
+        "C": "Current rod par 1 add karenge",
+        "D": "Yeh possible nahi hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Yeh Big Friend addition ka case hai. 9 mein 8 add karne ke liye, hum formula +8 = +10 -2 ka istemal karte hain. Isliye, agle (tens) rod par 1 add karenge aur current (unit) rod se 2 subtract karenge. Answer: 17."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Abacus par 11 - 3 kaise karenge?",
+      "options": {
+        "A": "Tens rod se 1 hatayenge, unit rod par 7 add karenge (-10 +7)",
+        "B": "Unit rod se 1 hatayenge, fir 2 aur",
+        "C": "Tens rod se 1 hatayenge, unit rod par 3 add karenge",
+        "D": "Unit rod par 1 se 3 subtract nahi ho sakta"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "11 (tens rod par 1, unit rod par 1) mein se 3 ghatana hai. Unit rod par 1 se 3 nahi ghata sakte. Big Friend subtraction formula -3 = -10 +7 use hoga. Tens rod se 10 kam karenge aur unit rod par 7 add karenge. Answer: 8."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Small friend of 2 for addition is?",
+      "options": {
+        "A": "+5 -3",
+        "B": "+5 -2",
+        "C": "+5 -4",
+        "D": "+10 -8"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "2 ka small friend 3 hota hai (2+3=5). Addition ke liye formula hai +2 = +5 -3. Matlab 5 add karo aur 3 subtract karo."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Abacus par 4 + 3 karne ke liye kaunsa formula lagega?",
+      "options": {
+        "A": "Direct 3 beads add",
+        "B": "Big Friend: +3 = +10 -7",
+        "C": "Small Friend: +3 = +5 -2",
+        "D": "Combination: +3 = +10 -5 -2"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Rod par 4 hai, 3 add karne ke liye sufficient lower beads nahi hain (sirf 0 bache hain). Lekin upper bead (5) available hai. Isliye Small Friend formula +3 = +5 -2 use hoga. 5 add karenge aur 2 subtract karenge. Answer: 7."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Ek student ko Big Friends yaad karne mein mushkil ho rahi hai. Aap use yaad karwane ke liye kaunsi technique istemal karenge?",
+      "options": {
+        "A": "Use ratta maarne ko kahenge",
+        "B": "Use '10 ke dost' ki kahani ya fingers par 10 ke pairs banakar sikhayenge",
+        "C": "Use Abacus chhodne ko kahenge",
+        "D": "Use punishment denge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chhote bachhon ko concepts yaad karwane ke liye kahaniyan, games, aur visual aids (jaise fingers) ka istemal karna ek prabhavi teaching method hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Abacus par 15 + 25 kaise solve karenge?",
+      "options": {
+        "A": "Pehle 15 set karenge, fir tens rod par 2 add karenge, fir unit rod par 5 add karenge",
+        "B": "Pehle 15 set karenge, fir tens rod par 2 add karenge, fir unit rod par +5 = +10 -5 formula lagayenge",
+        "C": "Pehle 15 set karenge, fir 25 seedha add karenge",
+        "D": "Pehle 25 set karenge, fir 10 add karenge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "15 set hai. 25 add karna hai. Tens rod par +2 seedha ho jayega (total 3). Unit rod par 5 hai, aur 5 add karna hai. Iske liye Big Friend formula +5 = +10 -5 use hoga. Agli (tens) rod par 1 add karenge (total 4) aur unit rod se 5 subtract karenge (total 0). Answer: 40."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Abacus par numbers ko 'clear' ya 'reset' karne ka kya matlab hai?",
+      "options": {
+        "A": "Sabhi beads ko beam ke paas laana",
+        "B": "Sabhi beads ko beam se door karke Abacus ko zero par set karna",
+        "C": "Sirf unit rod ko zero karna",
+        "D": "Abacus ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Calculation shuru karne se pehle ya naya calculation karne se pehle, sabhi beads ko unki resting position (beam se door) mein laya jaata hai, jisse Abacus ki value zero ho jaati hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Abacus par 12 x 3 ka calculation kaise shuru karenge?",
+      "options": {
+        "A": "Abacus ke left side par 12 set karenge aur right side par 3",
+        "B": "Abacus ke left side par multiplicand (12) set karenge aur fir calculation shuru karenge",
+        "C": "Abacus ke right side par 12 set karenge",
+        "D": "Abacus par multiplication possible nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Standard method mein, multiplicand (12) ko Abacus ke left side ki rods par set kiya jaata hai. Multiplier (3) ko mann mein rakha jaata hai. Fir, 3 ko 1 se aur fir 2 se multiply karke answer right side par set karte hain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Abacus par 24 x 6 ka sahi answer kya hoga?",
+      "options": {
+        "A": "124",
+        "B": "144",
+        "C": "134",
+        "D": "154"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Step 1: 6 x 2 = 12. Abacus par 12 set karein. Step 2: 6 x 4 = 24. Abacus par pichle result mein 24 add karein (120 + 24). Answer: 144."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Abacus par division karte samay, dividend (bhaajya) ko kahan rakha jaata hai?",
+      "options": {
+        "A": "Abacus ke center mein",
+        "B": "Abacus ke right side mein",
+        "C": "Abacus ke left side mein",
+        "D": "Kahin bhi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aam taur par, division mein dividend ko Abacus ke right side mein set kiya jaata hai, aur divisor ko left side mein. Quotient (bhaagphal) center ya left mein develop hota hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Agar 48 ÷ 4 karna hai, to pehla step kya hoga?",
+      "options": {
+        "A": "4 ko 8 se divide karna",
+        "B": "4 ko 4 se divide karna",
+        "C": "48 mein se 4 ghatana",
+        "D": "4 ko 48 se multiply karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Division hamesha highest place value se shuru hota hai. Isliye, pehle dividend ke pehle digit (4) ko divisor (4) se divide karenge. 4 ÷ 4 = 1."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Abacus par 7 x 8 ka result kya hoga?",
+      "options": {
+        "A": "54",
+        "B": "56",
+        "C": "63",
+        "D": "64"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Single digit multiplication tables se, 7 times 8 is 56. Isko Abacus par set karne ke liye, tens rod par 5 aur unit rod par 6 set karenge."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Multi-digit multiplication (e.g., 34 x 21) karte samay, answer ke liye kitni rods chhodni (skip) chahiye?",
+      "options": {
+        "A": "Multiplicand ke digits + Multiplier ke digits",
+        "B": "Multiplicand ke digits",
+        "C": "Multiplier ke digits",
+        "D": "Koi rod nahi chhodni chahiye"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Ek common rule hai ki answer set karne ke liye, multiplicand (34 - 2 digits) aur multiplier (21 - 2 digits) ke total digits (2+2=4) ke barabar rods right side par chhod deni chahiye. Isse answer ke liye sufficient space milta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Ek student ko 16 x 4 solve karne mein problem ho rahi hai. Aap use kaise guide karenge?",
+      "options": {
+        "A": "Use kahin aur se dekh kar likhne ko kahenge",
+        "B": "Use steps mein todenge: Pehle 4x10 (ya 4x1) solve karo, fir 4x6 solve karo, aur dono ko jodo",
+        "C": "Use multiplication chhod kar sirf addition karne ko kahenge",
+        "D": "Yeh uske level ke liye mushkil hai bol kar taal denge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Complex problems ko chote, manageable steps mein todna ek achhi teaching strategy hai. 4x1=04, 4x6=24. Inhe Abacus par sahi place value par add karenge (40+24=64)."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Abacus par 144 ÷ 12 ka answer kya hoga?",
+      "options": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "14"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Step 1: 14 mein 12 kitni baar aata hai? 1 baar. Quotient mein 1 likhein. 14-12=2. Remainder is 2. Step 2: Agla digit (4) neeche laayein, number bana 24. 24 mein 12 kitni baar aata hai? 2 baar. Quotient mein 2 likhein. 24-24=0. Final quotient is 12."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Abacus par multiplication ke liye prerequisite kya hai?",
+      "options": {
+        "A": "Tez addition aur subtraction skills",
+        "B": "Division aana chahiye",
+        "C": "English aani chahiye",
+        "D": "Computer ka gyan"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Multiplication on abacus is essentially a series of additions. Isliye, student ko Abacus par addition aur subtraction mein mahir hona zaroori hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Abacus par 55 ÷ 8 mein, quotient (bhaagphal) aur remainder (shesh) kya hoga?",
+      "options": {
+        "A": "Q=6, R=7",
+        "B": "Q=7, R=6",
+        "C": "Q=6, R=6",
+        "D": "Q=5, R=8"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "8 ka table padhne par, 8 x 6 = 48. 55 - 48 = 7. 7, 8 se chhota hai, isliye aage divide nahi ho sakta. Toh Quotient (bhaagphal) 6 hai aur Remainder (shesh) 7 hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Abacus par 2-digit number ko 1-digit number se multiply karna sikhane ka sabse aasan tarika kya hai?",
+      "options": {
+        "A": "Pehle unit digit ko multiply karna",
+        "B": "Pehle tens digit ko multiply karna",
+        "C": "Dono ko ek saath multiply karna",
+        "D": "Student ko khud figure out karne dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Standard method mein hum left to right chalte hain. Isliye, pehle multiplier ko multiplicand ke tens digit se multiply karte hain, answer set karte hain, fir unit digit se multiply karke uske result ko pehle waale mein add karte hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar ek student 32 x 5 ko 15010 likh raha hai (3x5=15, 2x5=10), to uski kya galti hai?",
+      "options": {
+        "A": "Usne multiplication galat kiya hai",
+        "B": "Usne place value ka dhyan nahi rakha aur results ko aage-peeche likh diya",
+        "C": "Usne addition galat kiya hai",
+        "D": "Usne Abacus galat set kiya hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Student ne partial products ko sahi se combine nahi kiya. 5x30=150 aur 5x2=10. Sahi answer 150+10=160 hai. Usne place value ko overlap karne ke bajaye concatenate kar diya."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Abacus par division ke liye, student ko kya achhe se aana chahiye?",
+      "options": {
+        "A": "Multiplication tables aur subtraction",
+        "B": "Sirf addition",
+        "C": "Drawing",
+        "D": "Sirf tables"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Division is repeated subtraction, aur quotient pata karne ke liye multiplication tables ka gyan hona zaroori hai. Isliye, ye dono skills division ke liye anivarya hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "231 x 4 ka answer Abacus par kya hoga?",
+      "options": {
+        "A": "824",
+        "B": "924",
+        "C": "914",
+        "D": "8124"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Left to right: 4x2=08 (set 8 on hundreds rod), 4x3=12 (add 1 to hundreds, 2 to tens rod), 4x1=04 (add 4 to units rod). Final answer: 924."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Abacus par decimals ke saath multiplication sikhate waqt, instructor ko sabse pehle kya samjhana chahiye?",
+      "options": {
+        "A": "Decimal point ko kaise ignore karein",
+        "B": "Unit rod ka concept aur decimal point kahan lagega",
+        "C": "Sirf whole numbers par focus karna",
+        "D": "Calculator ka istemal"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Decimal calculations ke liye, pehle unit rod ko fix karna zaroori hai. Multiplication ke baad, multiplicand aur multiplier ke total decimal places ko ginkar answer mein sahi jagah par decimal lagana sikhana important hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "625 ÷ 25 ka abacus par result kya aayega?",
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "15"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Step 1: 62 mein 25 kitni baar jaata hai? 2 baar (25*2=50). Quotient=2. 62-50=12. Step 2: 5 neeche laayein, number bana 125. 125 mein 25 kitni baar jaata hai? 5 baar (25*5=125). Quotient=25. Remainder=0."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Vedic Maths ka sutra 'Nikhilam Navatashcaramam Dashatah' kis tarah ke multiplication ke liye sabse upyukt hai?",
+      "options": {
+        "A": "Kisi bhi number ke liye",
+        "B": "Jab numbers base (10, 100, 1000) ke paas ho",
+        "C": "Jab numbers 5 se end hote ho",
+        "D": "Sirf 2-digit numbers ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nikhilam Sutra (All from 9 and the last from 10) tab istemal hota hai jab numbers base jaise 10, 100, etc. ke nazdeek hote hain. Jaise 98 x 97 or 102 x 104."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Nikhilam sutra ka istemal karke 96 x 98 kaise solve karenge?",
+      "options": {
+        "A": "96-2 / (-4)x(-2) = 9408",
+        "B": "96+98 / 4x2 = 1948",
+        "C": "98-6 / 4x2 = 9208",
+        "D": "100-4 / 100-2 = 9608"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Base 100 hai. 96=100-4, 98=100-2. Left part: 96-2 (cross subtract) = 94. Right part: (-4)x(-2) = 08. Answer: 9408."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Sutra 'Ekadhikena Purvena' ka istemal karke 35 x 35 kaise solve karenge?",
+      "options": {
+        "A": "3x3 / 5x5 = 925",
+        "B": "3x(3+1) / 5x5 = 1225",
+        "C": "3x5 / 3x5 = 1515",
+        "D": "4x4 / 5x5 = 1625"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh sutra tab lagta hai jab unit digits ka sum 10 ho aur baaki digits same ho. Left part: 3 x (iska ek adhik, yaani 4) = 12. Right part: 5 x 5 = 25. Answer: 1225."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "'Urdhva-Tiryagbyam' sutra ka kya arth hai?",
+      "options": {
+        "A": "Vertically and Crosswise",
+        "B": "All from 9, last from 10",
+        "C": "By one more than the previous",
+        "D": "Transpose and Apply"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Urdhva-Tiryagbyam ka matlab hai 'Vertically and Crosswise'. Yeh ek general multiplication method hai jo sabhi tarah ke numbers ke liye kaam karta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Urdhva-Tiryagbyam se 21 x 32 kaise solve karenge?",
+      "options": {
+        "A": "6 / 7 / 2 = 672",
+        "B": "2x3 / 1x2 = 62",
+        "C": "2x2 / 1x3 = 43",
+        "D": "5 / 3 / 2 = 532"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Step 1 (Right, Vertically): 1x2 = 2. Step 2 (Crosswise): (2x2)+(1x3) = 4+3 = 7. Step 3 (Left, Vertically): 2x3 = 6. Answer: 672."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Vedic Maths mein 1000 - 457 ko 'Nikhilam' sutra se kaise subtract karenge?",
+      "options": {
+        "A": "Normal subtraction karenge",
+        "B": "4 ko 9 se, 5 ko 9 se, 7 ko 10 se ghatayenge: 543",
+        "C": "Sabhi ko 10 se ghatayenge: 653",
+        "D": "Sabhi ko 9 se ghatayenge: 542"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sutra hai 'All from 9 and the last from 10'. Isliye: 9-4=5, 9-5=4, 10-7=3. Answer: 543. Yeh base numbers se subtraction ko bahut aasan bana deta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Ek student ko 998 x 997 multiply karne ko kaha gaya. Aap use kaunsa Vedic sutra suggest karenge?",
+      "options": {
+        "A": "Urdhva-Tiryagbyam",
+        "B": "Ekadhikena Purvena",
+        "C": "Nikhilam Sutra",
+        "D": "Paravartya Yojayet"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Kyunki dono numbers base 1000 ke bahut paas hain, Nikhilam Sutra is calculation ko mann mein karne ke liye sabse tez aur aasan tarika hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Vedic Maths mein 'Dot Method' (Rekhank) aamtaur par kis operation ke liye use hota hai?",
+      "options": {
+        "A": "Multiplication",
+        "B": "Division",
+        "C": "Addition",
+        "D": "Square Roots"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dot method ya Rekhank, column-wise addition mein 'carry-over' ko manage karne ka ek visual tarika hai. Jab sum 10 ya usse zyada hota hai, to pichle column ke number par ek dot laga diya jaata hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "'Antyayordashake'pi' sutra kab lagu hota hai?",
+      "options": {
+        "A": "Jab last digits ka sum 10 ho aur previous parts same ho",
+        "B": "Jab first digits ka sum 10 ho",
+        "C": "Jab sabhi digits same ho",
+        "D": "Jab base ke paas ho"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Yeh 'Ekadhikena Purvena' ka ek special case hai. Sutra ka arth hai 'jab last digits ka jod 10 ho'. Example: 43 x 47. Yahan 3+7=10 aur pichla part '4' same hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Nikhilam Sutra se 103 x 105 kaise karenge?",
+      "options": {
+        "A": "103+5 / 3x5 = 10815",
+        "B": "103-5 / 3x5 = 9815",
+        "C": "100+8 / 15 = 10815",
+        "D": "103x100 + 103x5"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Base 100 hai. 103=100+3, 105=100+5. Left part: 103+5 (cross add) = 108. Right part: 3x5 = 15. Answer: 10815."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Ek instructor ke taur par, aap Urdhva-Tiryagbyam method sikhane ke liye sabse pehle kya karenge?",
+      "options": {
+        "A": "Seedhe 3x3 digit ka example denge",
+        "B": "2x2 digit ke example ke liye pattern (dots ka istemal karke) samjhayenge",
+        "C": "Formula ratne ko kahenge",
+        "D": "Yeh method skip kar denge kyunki yeh mushkil hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "General methods ko sikhane ka best tarika visual patterns (jaise dots) ka istemal karna hai. 2x2 se shuru karke student concept ko samajh jaata hai, fir use 3x3 aur aage badhaya ja sakta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Sutra 'Ekanyunena Purvena' ka upyog khas taur par kis number se multiplication ke liye hota hai?",
+      "options": {
+        "A": "Series of 9s (9, 99, 999)",
+        "B": "Series of 5s (5, 15, 25)",
+        "C": "Series of 1s (11, 111)",
+        "D": "Kisi bhi number se"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "'By one less than the previous one' sutra tab bahut kaam aata hai jab multiplier 9, 99, 999 etc. ho. Example: 43 x 99. Left part: 43-1=42. Right part: 100-43=57. Answer: 4257."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Vedic Maths mein 'Base' ka concept kyun important hai?",
+      "options": {
+        "A": "Yeh calculations ko mushkil banata hai",
+        "B": "Yeh calculations ko ek reference point dekar aasan banata hai, khas kar Nikhilam jaise sutras mein",
+        "C": "Yeh sirf geometry mein use hota hai",
+        "D": "Iska koi khas mahatva nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Base (10, 100, 1000, etc.) ka concept Vedic Maths ki neev hai. Numbers base se kitne kam ya zyada hain, iske aadhar par kai sutras kaam karte hain aur calculation ko saral banate hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "72 x 78 solve karne ke liye kaunsa sutra sabse aasan hai?",
+      "options": {
+        "A": "Nikhilam",
+        "B": "Urdhva-Tiryagbyam",
+        "C": "Ekadhikena Purvena / Antyayordashake'pi",
+        "D": "Paravartya Yojayet"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Yahan last digits (2 aur 8) ka sum 10 hai, aur pehla digit (7) same hai. Isliye 'Ekadhikena Purvena' sutra lagega. Left part: 7 x (7+1) = 56. Right part: 2 x 8 = 16. Answer: 5616."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Agar ek student 88 x 97 ko Urdhva-Tiryagbyam se kar raha hai, to kya yeh galat hai?",
+      "options": {
+        "A": "Haan, yeh galat hai, sirf Nikhilam use hona chahiye",
+        "B": "Nahi, yeh galat nahi hai, lekin Nikhilam se yeh zyada aasan aur tez hoga",
+        "C": "Haan, Urdhva-Tiryagbyam sirf 2x2 ke liye hai",
+        "D": "Nahi, Urdhva-Tiryagbyam hi best method hai iske liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Urdhva-Tiryagbyam ek general method hai aur isse answer sahi aayega. Lekin ek achhe instructor ko student ko yeh bhi batana chahiye ki specific cases mein (jaise numbers near base) Nikhilam jaise special sutras zyada efficient hote hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "10000 - 628 ka answer 'All from 9, last from 10' se kya hoga?",
+      "options": {
+        "A": "9372",
+        "B": "9482",
+        "C": "0 ko 9 se, 6 ko 9 se, 2 ko 9 se, 8 ko 10 se = 9372",
+        "D": "10000 mein se 628 normal tarike se minus karenge"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Number 628 ko hum 0628 likhenge taaki digits barabar ho jayein. Fir sutra lagayenge: 9-0=9, 9-6=3, 9-2=7, 10-8=2. Answer: 9372."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Vedic Maths sikhane ka primary goal kya hai?",
+      "options": {
+        "A": "Students ko traditional methods bhulwa dena",
+        "B": "Students mein logical thinking aur problem-solving skills develop karna",
+        "C": "Students ko sirf tricks sikhana",
+        "D": "Students ko exam pass karwana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vedic Maths sirf speed ke liye nahi hai. Iska bada goal students ko numbers ke saath khelna sikhana, patterns pehchanna, aur unki overall logical and analytical abilities ko badhana hai."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Sutra 'Yavadunam' ka prayog aamtaur par kya nikalne ke liye hota hai?",
+      "options": {
+        "A": "Multiplication",
+        "B": "Division",
+        "C": "Squares of numbers near a base",
+        "D": "Cube roots"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Yavadunam Tavadunikritya Vargancha Yojayet sutra ka arth hai 'Whatever the extent of its deficiency, lessen it still further to that extent; and also set up the square of that deficiency'. Yeh base ke paas wale numbers ka square nikalne ke liye hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Yavadunam sutra se 97 ka square (97^2) kaise nikalenge?",
+      "options": {
+        "A": "97-3 / 3^2 = 9409",
+        "B": "97+3 / 3^2 = 10009",
+        "C": "97x97 normal method se",
+        "D": "97-3 / (-3)^2 = 9409"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Base 100 hai. Deficiency/kami = 3. Left part: Number - deficiency = 97-3 = 94. Right part: (deficiency)^2 = (-3)^2 = 09. Answer: 9409."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Vedic Maths mein 'Vinculum' numbers kya hote hain?",
+      "options": {
+        "A": "Positive numbers",
+        "B": "Negative numbers",
+        "C": "Aise numbers jinmein positive aur negative digits dono ho",
+        "D": "Fractions"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Vinculum ya bar numbers, calculations ko aasan banane ke liye use hote hain. Ismein bade digits (6,7,8,9) ko chote negative digits (bar 4, bar 3, bar 2, bar 1) mein convert kiya jaata hai. Jaise 8 ko 1 bar 2 (10-2) likh sakte hain."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Number 19 ko Vinculum number mein kaise convert karenge?",
+      "options": {
+        "A": "1 bar 9",
+        "B": "2 bar 1",
+        "C": "19 hi rahega",
+        "D": "20"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Last digit (9) ko 10 se subtract karte hain (10-9=1) aur uspar bar lagate hain. Uske pehle wale digit (1) mein 1 add karte hain (1+1=2). So, 19 becomes 2 bar 1."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Sutra 'Paravartya Yojayet' ka upyog kisliye hota hai?",
+      "options": {
+        "A": "General Multiplication",
+        "B": "General Division",
+        "C": "Finding Squares",
+        "D": "Checking answers"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Paravartya Yojayet' ka arth hai 'Transpose and Apply'. Yeh ek algebraic division method hai jo Nikhilam division ka ek extension hai, khas taur par jab divisor base se thoda bada ho."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Vedic Maths mein answer check karne ki sabse popular technique kaunsi hai?",
+      "options": {
+        "A": "Digit Sum Method (Beejank)",
+        "B": "Re-calculating",
+        "C": "Approximation",
+        "D": "Using calculator"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Digit Sum (Beejank) method, jise casting out nines bhi kehte hain, answers ko tezi se verify karne ka ek bahut hi prabhavi tarika hai. Ismein number ke digits ko tab tak joda jaata hai jab tak single digit na mil jaaye."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Number 583 ka Digit Sum (Beejank) kya hoga?",
+      "options": {
+        "A": "16",
+        "B": "7",
+        "C": "5",
+        "D": "8"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "5 + 8 + 3 = 16. Kyunki yeh single digit nahi hai, isse fir se jodenge: 1 + 6 = 7. Toh 583 ka Beejank 7 hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Ek student ne 12 x 13 = 156 solve kiya. Ise Digit Sum method se kaise check karenge?",
+      "options": {
+        "A": "DS(12) x DS(13) = DS(156) -> 3 x 4 = 12 -> 3. DS(156) = 3. Sahi hai.",
+        "B": "DS(12) + DS(13) = DS(156) -> 3 + 4 = 7. DS(156) = 3. Galat hai.",
+        "C": "12+13 = 25 -> 7. 156 -> 3. Galat hai.",
+        "D": "Yeh method yahan kaam nahi karega"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "LHS: Digit Sum of 12 is 1+2=3. Digit Sum of 13 is 1+3=4. LHS Digit Sum = 3x4=12, jiska Digit Sum 1+2=3 hai. RHS: Digit Sum of 156 is 1+5+6=12, jiska Digit Sum 1+2=3 hai. Kyunki LHS DS = RHS DS, answer ke sahi hone ki sambhavna bahut zyada hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Sutra 'Anurupyena' ka kya arth hai aur yeh kab use hota hai?",
+      "options": {
+        "A": "Proportionality; jab numbers base ke paas na ho lekin unke sub-base ke paas ho",
+        "B": "Subtraction; jab numbers bade ho",
+        "C": "Addition; jab numbers decimal mein ho",
+        "D": "Squaring; kisi bhi number ke liye"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Anurupyena ka matlab hai 'proportionality'. Yeh Nikhilam ka hi ek roop hai jo tab use hota hai jab numbers working base (jaise 20, 30, 50, 200) ke paas ho. Example: 42 x 43, yahan working base 40 hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "102 ka square (102^2) Yavadunam sutra se kya hoga?",
+      "options": {
+        "A": "102+2 / 2^2 = 10404",
+        "B": "102-2 / 2^2 = 10004",
+        "C": "10204",
+        "D": "10402"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Base 100 hai. Surplus/adhik = 2. Left part: Number + surplus = 102+2 = 104. Right part: (surplus)^2 = 2^2 = 04. Answer: 10404."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Digit Sum method kab fail ho sakta hai ya galat-fehmi paida kar sakta hai?",
+      "options": {
+        "A": "Jab answer mein digits ka order galat ho (e.g., 156 ki jagah 165)",
+        "B": "Jab answer mein 9 ya 0 ki galti ho",
+        "C": "Dono A aur B",
+        "D": "Yeh kabhi fail nahi hota"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Digit Sum method digits ke sum par kaam karta hai, unke order par nahi. Isliye 156, 165, 516, 615 sabka Digit Sum 3 hi hoga. Saath hi, 9 ka Digit Sum 0 ke barabar maana jaata hai, isliye 9 ya 0 ki galti pakadna mushkil ho sakta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Vedic Maths mein 'Duplex' (Dwandwa Yoga) ka concept kis cheez ke liye use hota hai?",
+      "options": {
+        "A": "Multiplication",
+        "B": "Division",
+        "C": "General method for finding Squares",
+        "D": "Subtraction"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Dwandwa Yoga ya Duplex method kisi bhi number ka square nikalne ka ek general method hai. Single digit 'a' ka duplex a^2 hota hai, do digit 'ab' ka duplex 2ab hota hai, teen digit 'abc' ka duplex 2ac + b^2 hota hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Paravartya Yojayet method se 123 ÷ 12 solve karte samay, divisor ka transposed digit kya hoga?",
+      "options": {
+        "A": "12",
+        "B": "2",
+        "C": "-2 (bar 2)",
+        "D": "-1, -2 (bar 1, bar 2)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Divisor 12 base 10 se 2 zyada hai. Paravartya method mein hum is '2' ko transpose karke '-2' (ya bar 2) bana dete hain aur fir division process mein iska istemal karte hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Vedic Maths mein 3-digit numbers ke cube nikalne ke liye kaunsa sutra upyogi hai?",
+      "options": {
+        "A": "Nikhilam Sutra",
+        "B": "Anurupyena Sutra",
+        "C": "Yavadunam Sutra",
+        "D": "Uparokt sabhi ka vistarit roop (extensions)"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Cubes nikalne ke liye koi ek sutra nahi hai, balki Yavadunam, Nikhilam, aur Anurupyena sutras ke extensions (up-sutras) ka istemal kiya jaata hai, jo number ke base ya sub-base par depend karta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Ek student ko sikhate waqt, Vinculum numbers ka sabse bada fayda kya batayenge?",
+      "options": {
+        "A": "Yeh dekhne mein achhe lagte hain",
+        "B": "Yeh bade digits (6,7,8,9) ko hata kar calculation ko aasan banate hain, khas kar subtraction mein",
+        "C": "Yeh har sawal ko lamba kar dete hain",
+        "D": "Inka koi practical use nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vinculum ka mukhya uddeshya calculations ko saral banana hai. Jab numbers mein sirf 0,1,2,3,4,5 digits hote hain, to multiplication aur subtraction jaise operations bina 'carry' ya 'borrow' ke aasan ho jaate hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Duplex method ka istemal karke 43 ka square (43^2) nikalne ka sahi kram kya hai?",
+      "options": {
+        "A": "D(4) / D(43) / D(3) = 16 / 24 / 9 = 1849",
+        "B": "D(4) / D(3) = 16 / 9 = 169",
+        "C": "D(43) = 2x4x3 = 24",
+        "D": "4^2 + 3^2 = 16+9 = 25"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Step 1: Duplex of 4 = 4^2 = 16. Step 2: Duplex of 43 = 2*4*3 = 24. Step 3: Duplex of 3 = 3^2 = 9. Ab combine karenge right to left with carry: 9 | 24 | 16 -> 9 | 4 (2 carry) | 16+2 -> 1849."
+    },
+    {
+      "qno": 84,
+      "module": 6,
+      "question": "Ek 5-saal ke bachhe ko Abacus sikhane ke liye, aapki pehli class ka focus kya hona chahiye?",
+      "options": {
+        "A": "Addition ke formulas",
+        "B": "Abacus ke saath khelna, beads ko upar-neeche karna, aur finger gym",
+        "C": "Multiplication tables",
+        "D": "Weekly test ka syllabus"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chhote bachhon ko naye tool se introduce karne ka sabse achha tarika play-way method hai. Unhe tool ke saath comfortable hone de, finger exercises karwayein, taaki unki motor skills develop ho."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Agar ek student class mein dhyan nahi de raha hai, to ek prabhavi instructor kya karega?",
+      "options": {
+        "A": "Use class se bahar nikal dega",
+        "B": "Uske parents se complain karega",
+        "C": "Apni teaching method ko aur engaging banane ki koshish karega, jaise games ya activities shamil karke",
+        "D": "Use ignore karega"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Student ka dhyan bhatakna aksar teaching method ke monotonous hone ka sanket hota hai. Ek achhe instructor ko apni teaching mein variety laani chahiye aur student ko activity mein shamil karna chahiye."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Ek mixed-age group (6 saal aur 9 saal) ki class ko aap kaise manage karenge?",
+      "options": {
+        "A": "Sabko ek hi speed se padhayenge",
+        "B": "Har student ko unke level ke hisab se alag-alag worksheet aur tasks denge",
+        "C": "Sirf 9 saal wale bachho par dhyan denge",
+        "D": "Class cancel kar denge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Differentiated instruction mixed-age ya mixed-ability classrooms ke liye zaroori hai. Har bachhe ki apni learning speed hoti hai, isliye unhe unke level ke anusaar kaam dena chahiye."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Ek achhe lesson plan mein kya-kya shamil hona chahiye?",
+      "options": {
+        "A": "Sirf topic ka naam",
+        "B": "Objective, materials needed, activity, time allocation, aur assessment",
+        "C": "Sirf homework questions",
+        "D": "Sirf games ki list"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek complete lesson plan mein yeh sabhi cheezein honi chahiye taaki class smooth aur effective tareeke se chal sake."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Aap student ki progress ko kaise track karenge?",
+      "options": {
+        "A": "Sirf final exam se",
+        "B": "Regular observation, weekly quizzes, aur performance charts ke through",
+        "C": "Parents se pooch kar",
+        "D": "Progress track karne ki zaroorat nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Continuous assessment student ki progress ko samajhne aur jahan zaroorat ho wahan madad karne ke liye zaroori hai. Isse student aur parents dono ko regular feedback milta hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Ek parent aapse poochta hai, 'Abacus seekhne se mere bachhe ke school maths mein kya fayda hoga?'. Aapka sabse achha jawab kya hoga?",
+      "options": {
+        "A": "School maths ka isse koi lena-dena nahi hai",
+        "B": "Abacus se bachhe ki calculation speed, concentration, aur confidence badhega, jo use overall academic performance mein help karega",
+        "C": "Aapka bachha school mein top karega",
+        "D": "Yeh to bachhe par depend karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh ek professional aur sahi jawab hai. Abacus se develop hui skills (concentration, memory, visualization) sirf maths tak seemit nahi rehti, balki doosre subjects mein bhi fayda karti hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Apni Vedic Maths/Abacus center ki marketing ke liye aap kaunsa tarika apnayenge?",
+      "options": {
+        "A": "Local schools mein free demo classes organize karna",
+        "B": "Social media par student testimonials share karna",
+        "C": "Local newspapers mein pamphlets dalwana",
+        "D": "Uparokt sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Ek successful center chalaane ke liye ek multi-pronged marketing strategy zaroori hai. In sabhi tariko se aap zyada se zyada potential students aur parents tak pahunch sakte hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Ek student baar-baar ek hi galti (e.g., Big Friend formula mein) kar raha hai. Aap kya karenge?",
+      "options": {
+        "A": "Use daantenge aur practice karne ko kahenge",
+        "B": "Concept ko ek alag, saral tarike se (jaise kahani ya real-life example se) dobara samjhayenge",
+        "C": "Us topic ko skip kar denge",
+        "D": "Use class ke baad rukne ko kahenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar ek tarika kaam nahi kar raha hai, to instructor ko apna approach badalna chahiye. Alag-alag teaching aids aur methods ka istemal karne se student ko concept samajhne mein aasani ho sakti hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Classroom mein positive learning environment banane ke liye kya zaroori hai?",
+      "options": {
+        "A": "Students ki har galti par unhe tokna",
+        "B": "Students ke efforts ki tareef karna aur unhe sawal poochne ke liye encourage karna",
+        "C": "Class mein ekdum shanti banaye rakhna",
+        "D": "Sirf achhe students par dhyan dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Positive reinforcement aur ek open, non-judgmental mahaul banane se students ka confidence badhta hai aur woh aage badh kar seekhne ki koshish karte hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Vedic Maths ki class ko interesting banane ke liye aap kya kar sakte hain?",
+      "options": {
+        "A": "Sutras ke peeche ki history aur stories batana",
+        "B": "Maths puzzles aur speed calculation contests karwana",
+        "C": "Real-life examples (jaise shopping bills) se sutras ko jodna",
+        "D": "Uparokt sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "In sabhi techniques se class interactive aur engaging banti hai, aur students ko subject mein interest aata hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Ek naya Abacus/Vedic Maths center kholne ke liye, sabse pehli zaroorat kya hai?",
+      "options": {
+        "A": "Ek bada sa office",
+        "B": "Ek well-structured curriculum aur teaching material",
+        "C": "Bahut saare students",
+        "D": "Mehngi marketing"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Kisi bhi educational center ki neev (foundation) uska curriculum hota hai. Bina ek achhe, well-researched curriculum aur material ke, aap students ko quality education nahi de sakte, chahe aapke paas kitni bhi achhi location ya marketing ho."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Aap bachho ko 'Anzan' (mental abacus) ke liye kaise taiyar karenge?",
+      "options": {
+        "A": "Pehle din se hi bina Abacus ke calculation karwayenge",
+        "B": "Pehle Abacus par unki pakad mazboot karenge, fir unhe aankhein band karke Abacus ko imagine karne ke liye encourage karenge",
+        "C": "Anzan sikhana zaroori nahi hai",
+        "D": "Sirf hoshiyar bachho ko hi Anzan sikhayenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Anzan physical abacus skills ka hi agla level hai. Jab tak student ke finger movements aur concepts Abacus par clear na ho, woh use mentally visualize nahi kar payega. Isliye, yeh ek gradual process hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Ek instructor ki sabse important quality kya hoti hai?",
+      "options": {
+        "A": "Subject knowledge",
+        "B": "Patience (dhairya)",
+        "C": "Communication skills",
+        "D": "Uparokt sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Ek achha instructor banne ke liye subject ki gehri jaankari, bachhon (khas kar chhote bachhon) ke saath deal karne ke liye dhairya, aur apne gyan ko aasan bhasha mein samjhane ki kala, ye sabhi zaroori hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Aap apne students ko motivate karne ke liye kya karenge?",
+      "options": {
+        "A": "Star charts, certificates, ya 'Student of the Week' jaise rewards ka istemal karenge",
+        "B": "Unki tulna doosre students se karenge",
+        "C": "Unhe hamesha difficult sawal denge",
+        "D": "Unhe unke haal par chhod denge"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Positive reinforcement aur small rewards bachhon ko motivate karne aur unka morale high rakhne mein bahut madad karte hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Agar aapko pata chale ki aapke area mein pehle se hi ek Abacus center hai, to aapko kya karna chahiye?",
+      "options": {
+        "A": "Apna center kholne ka idea chhod dena chahiye",
+        "B": "Unse kam fees rakhni chahiye",
+        "C": "Apni teaching quality, curriculum, aur student experience par focus karke unse behtar banne ki koshish karni chahiye",
+        "D": "Unke baare mein galat afwah failani chahiye"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Competition se darne ke bajaye, use ek motivation ke roop mein lena chahiye. Market mein hamesha quality education ki jagah hoti hai. Apne Unique Selling Points (USPs) par focus karna sahi strategy hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Ek professional instructor ke tour par, aapko apni skills ko update karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Ek baar course kar liya, kaafi hai",
+        "B": "Advanced courses karna, workshops attend karna, aur teaching mein naye trends ke baare mein padhna",
+        "C": "Sirf apne experience par nirbhar rehna",
+        "D": "Doosre instructors se baat nahi karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Education ek dynamic field hai. Ek achhe instructor ko hamesha naya seekhte rehna chahiye (lifelong learning) taaki woh apne students ko best aur updated knowledge de sake."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Course ke ant mein, aap students ka final assessment kaise karenge?",
+      "options": {
+        "A": "Sirf written test se",
+        "B": "Sirf oral test se",
+        "C": "Written test (Vedic Maths), practical test (Abacus speed), aur oral test (concepts) ka combination",
+        "D": "Assessment ki zaroorat nahi hai, sabko certificate de denge"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek comprehensive assessment mein student ki sabhi skills (theoretical, practical, aur conceptual clarity) ko parakhna chahiye. Isse unki learning ka sahi mulyankan hota hai."
+    }
+  ]
+}

@@ -141,8 +141,8 @@ export const tradeApi = {
 // ── Payment APIs ──────────────────────────────────────────────────────
 
 export const paymentApi = {
-  createOrder: (tradeId: number) =>
-    request('POST', '/payments/create-order', { trade_id: tradeId }),
+  createOrder: (tradeId: number, pathway: string = 'rpl') =>
+    request('POST', '/payments/create-order', { trade_id: tradeId, pathway }),
 
   verify: (data: {
     razorpay_order_id: string;
@@ -150,6 +150,7 @@ export const paymentApi = {
     razorpay_signature: string;
     trade_id: number;
     payment_record_id?: number;
+    pathway?: string;
   }) => request('POST', '/payments/verify', data),
 
   getReceipt: (paymentId: number) =>
@@ -309,10 +310,11 @@ export async function initiatePayment(
   tradeId: number,
   userName: string,
   userMobile: string,
+  pathway: string = 'rpl',
   onSuccess: (data: Record<string, unknown>) => void,
   onFailure: (err: string) => void
 ): Promise<void> {
-  const orderRes = await paymentApi.createOrder(tradeId);
+  const orderRes = await paymentApi.createOrder(tradeId, pathway);
   if (!orderRes.success) { onFailure(orderRes.message || 'Could not create order.'); return; }
 
   const { order, key } = orderRes as Record<string, unknown>;
@@ -326,6 +328,7 @@ export async function initiatePayment(
       razorpay_signature: 'dev_signature',
       trade_id: tradeId,
       payment_record_id: paymentRecordId,
+      pathway,
     });
 
     if (verifyRes.success) {
@@ -353,6 +356,7 @@ export async function initiatePayment(
         razorpay_signature: response.razorpay_signature as string,
         trade_id: tradeId,
         payment_record_id: paymentRecordId,
+        pathway,
       });
       if (verifyRes.success) {
         onSuccess(verifyRes);

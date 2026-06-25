@@ -1,0 +1,1443 @@
+{
+  "course_name": "Auto AC Technician",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Electrical & Electronics for Auto AC",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Refrigeration Basics & Principles",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Auto AC System Components & Operation",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Diagnosis & Troubleshooting of AC Systems",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "AC System Service, Repair & Maintenance",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Safety, Tools & Environmental Regulations",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek auto AC circuit mein, 'voltage' kya measure karta hai?",
+      "options": {
+        "A": "Current flow ki speed",
+        "B": "Electrical pressure ya potential difference",
+        "C": "Resistance to current flow",
+        "D": "Power consumption"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Voltage electrical pressure ko measure karta hai jo current ko circuit mein push karta hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Agar ek auto AC system mein fuse blow ho jaye, toh iska kya matlab ho sakta hai?",
+      "options": {
+        "A": "Circuit mein high resistance hai",
+        "B": "Circuit mein overcurrent ya short circuit hai",
+        "C": "Voltage bahut kam hai",
+        "D": "Battery discharged hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fuse overcurrent ya short circuit se circuit ko protect karta hai. Blow hone ka matlab hai ki circuit mein ek fault hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ohm's Law ke according, agar voltage constant ho aur resistance badh jaye, toh current pe kya effect hoga?",
+      "options": {
+        "A": "Current badhega",
+        "B": "Current kam hoga",
+        "C": "Current pe koi asar nahi hoga",
+        "D": "Current zero ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ohm's Law (V=IR) ke according, agar voltage constant ho aur resistance badhe, toh current kam hoga."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Auto AC clutch engage karne ke liye kis component ka use hota hai?",
+      "options": {
+        "A": "Capacitor",
+        "B": "Resistor",
+        "C": "Relay",
+        "D": "Diode"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Relay ek electrical switch hai jo high current ko control karne ke liye low current signal ka use karta hai, jaise AC clutch."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek wiring diagram mein, 'GND' kis cheez ko represent karta hai?",
+      "options": {
+        "A": "Ground",
+        "B": "Generator",
+        "C": "Gearbox",
+        "D": "Gauge"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "'GND' ground connection ko signify karta hai, jo ek circuit ka common return path hota hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Agar ek AC blower motor sirf high speed par chal raha hai aur low speeds par nahi, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Blower motor faulty hai",
+        "B": "Blower motor resistor faulty hai",
+        "C": "AC compressor faulty hai",
+        "D": "Refrigerant level low hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blower motor resistor blower ki speeds ko control karta hai. Agar resistor faulty ho, toh low speeds kaam nahi karti."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Ek multimeter ka use kis cheez ke liye kiya jata hai?",
+      "options": {
+        "A": "Refrigerant pressure check karne ke liye",
+        "B": "Electrical voltage, current aur resistance measure karne ke liye",
+        "C": "Vacuum level check karne ke liye",
+        "D": "Leak detect karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Multimeter ek versatile tool hai jo electrical parameters jaise voltage, current aur resistance ko measure karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Auto AC system mein pressure switch ka kya function hai?",
+      "options": {
+        "A": "Cabin temperature control karna",
+        "B": "Compressor ko low ya high refrigerant pressure se protect karna",
+        "C": "Blower speed control karna",
+        "D": "Condenser fan ko on/off karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pressure switch compressor ko damage se bachane ke liye, low ya high refrigerant pressure ki condition mein use band kar deta hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Series circuit mein components kaise connect hote hain?",
+      "options": {
+        "A": "Side-by-side, har ek ka apna path",
+        "B": "Ek ke baad ek, ek hi path mein",
+        "C": "Ek common point pe saare connect hote hain",
+        "D": "Parallel aur series ka mix"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Series circuit mein components ek hi path mein ek ke baad ek connect hote hain."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Auto AC system mein ek thermistor kis type ka sensor hai?",
+      "options": {
+        "A": "Pressure sensor",
+        "B": "Humidity sensor",
+        "C": "Temperature sensor",
+        "D": "Flow sensor"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Thermistor ek type ka resistor hai jiski resistance temperature ke saath change hoti hai, isliye yeh temperature sensor ke roop mein use hota hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Agar ek auto AC system ka clutch coil open ho jaye, toh kya hoga?",
+      "options": {
+        "A": "Clutch hamesha engage rahega",
+        "B": "Clutch kabhi engage nahi hoga",
+        "C": "Clutch intermittently engage hoga",
+        "D": "Compressor overheat ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Open clutch coil ka matlab hai ki electrical path toot gaya hai, jisse magnetic field nahi banegi aur clutch engage nahi hoga."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Diode ka primary function kya hai ek electrical circuit mein?",
+      "options": {
+        "A": "Current ko dono directions mein flow hone dena",
+        "B": "Current ko sirf ek direction mein flow hone dena",
+        "C": "Voltage ko regulate karna",
+        "D": "Resistance provide karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Diode ek semiconductor device hai jo current ko sirf ek direction mein flow hone deta hai (unidirectional current flow)."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Auto AC control panel mein 'Recirculation' button ka kya purpose hai?",
+      "options": {
+        "A": "Fresh air ko andar lana",
+        "B": "Cabin ke andar ki air ko circulate karna",
+        "C": "Heater ko on karna",
+        "D": "Defroster ko activate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Recirculation mode cabin ke andar ki hawa ko hi circulate karta hai, bahar ki hawa ko andar aane se rokta hai, jisse jaldi cooling hoti hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek auto AC system mein 'ECM' (Engine Control Module) ka kya role ho sakta hai?",
+      "options": {
+        "A": "Sirf engine ki performance control karna",
+        "B": "AC compressor operation ko monitor aur control karna",
+        "C": "Tyre pressure monitor karna",
+        "D": "Door locks operate karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Modern vehicles mein, ECM AC compressor ke engagement ko engine load, RPM aur other parameters ke hisaab se control karta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Agar ek electrical connector corroded ho, toh circuit pe kya asar padega?",
+      "options": {
+        "A": "Resistance kam ho jayegi",
+        "B": "Current flow smooth ho jayega",
+        "C": "Resistance badh jayegi aur current flow kam ho jayega",
+        "D": "Voltage badh jayega"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Corrosion se electrical contact kharab ho jata hai, jisse resistance badh jati hai aur current flow ruk jata hai ya kam ho jata hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Ek auto AC system mein 'blower motor' ka kya kaam hai?",
+      "options": {
+        "A": "Refrigerant ko circulate karna",
+        "B": "Cabin ke andar hawa circulate karna",
+        "C": "Compressor ko drive karna",
+        "D": "Condenser ko cool karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Blower motor evaporator se thandi hawa ko cabin mein push karta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Auto AC system mein 'capacitor' ka kya role ho sakta hai (agar present ho)?",
+      "options": {
+        "A": "Resistance provide karna",
+        "B": "Electrical energy store karna aur release karna",
+        "C": "Current ko regulate karna",
+        "D": "Voltage ko step-up karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Capacitor electrical energy ko store karta hai aur જરૂરત padne par release karta hai, jaise kuch blower motors mein starting torque provide karne ke liye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Refrigeration cycle ka primary goal kya hai?",
+      "options": {
+        "A": "Heat produce karna",
+        "B": "Heat ko ek jagah se dusri jagah transfer karna",
+        "C": "Electricity generate karna",
+        "D": "Water purify karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Refrigeration cycle ka main kaam heat ko cabin se bahar nikalna hai, jisse cooling ho sake."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Refrigerant R-134a kis type ka refrigerant hai?",
+      "options": {
+        "A": "CFC",
+        "B": "HCFC",
+        "C": "HFC",
+        "D": "HFO"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "R-134a Hydrofluorocarbon (HFC) hai, jo ozone layer ke liye non-depleting hai lekin iska GWP (Global Warming Potential) high hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Refrigeration cycle mein 'evaporation' process kahan hota hai?",
+      "options": {
+        "A": "Compressor",
+        "B": "Condenser",
+        "C": "Evaporator",
+        "D": "Receiver/Drier"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Evaporator mein liquid refrigerant heat absorb karke vapor mein convert hota hai, jisse cooling hoti hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Jab liquid refrigerant vapor mein change hota hai, toh woh kya karta hai?",
+      "options": {
+        "A": "Heat release karta hai",
+        "B": "Heat absorb karta hai",
+        "C": "Pressure increase karta hai",
+        "D": "Volume decrease karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Evaporation ek endothermic process hai jismein refrigerant surrounding se latent heat of vaporization absorb karta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Condenser ka primary function kya hai refrigeration cycle mein?",
+      "options": {
+        "A": "Refrigerant ko compress karna",
+        "B": "Refrigerant se heat absorb karna",
+        "C": "Refrigerant se heat release karna",
+        "D": "Refrigerant ko filter karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Condenser high-pressure, high-temperature gaseous refrigerant se heat ko ambient air mein release karta hai, jisse woh liquid mein condense ho sake."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Superheat kya hai?",
+      "options": {
+        "A": "Liquid refrigerant ka temperature uske boiling point se upar",
+        "B": "Vapor refrigerant ka temperature uske saturation temperature se upar",
+        "C": "Liquid refrigerant ka temperature uske freezing point se niche",
+        "D": "Vapor refrigerant ka temperature uske condensing point se niche"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Superheat evaporator outlet par vapor refrigerant ka temperature hai jo uske saturation temperature se kitna upar hai. Yeh ensure karta hai ki compressor mein sirf vapor enter kare."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Subcooling kya hai?",
+      "options": {
+        "A": "Vapor refrigerant ka temperature uske saturation temperature se upar",
+        "B": "Liquid refrigerant ka temperature uske saturation temperature se niche",
+        "C": "Refrigerant ka freezing point",
+        "D": "Refrigerant ka boiling point"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Subcooling condenser outlet par liquid refrigerant ka temperature hai jo uske saturation temperature se kitna niche hai. Yeh ensure karta hai ki expansion valve mein sirf liquid refrigerant enter kare."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Refrigerant ke pressure aur boiling point ke beech kya relationship hai?",
+      "options": {
+        "A": "Pressure badhne par boiling point kam hota hai",
+        "B": "Pressure badhne par boiling point badhta hai",
+        "C": "Pressure aur boiling point ka koi sambandh nahi hai",
+        "D": "Boiling point hamesha constant rehta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Higher pressure par, refrigerant ka boiling point badh jata hai, aur lower pressure par, boiling point kam ho jata hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Kis type ka oil auto AC system mein refrigerant ke saath circulate hota hai?",
+      "options": {
+        "A": "Engine oil",
+        "B": "Gear oil",
+        "C": "PAG (Polyalkylene Glycol) oil ya POE (Polyol Ester) oil",
+        "D": "Brake fluid"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Auto AC systems mein specific refrigeration oils (jaise PAG ya POE) use hote hain jo refrigerant ke saath compatible hote hain aur compressor ko lubricate karte hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Agar ek refrigerant system mein moisture (nami) enter kar jaye, toh kya ho sakta hai?",
+      "options": {
+        "A": "Cooling performance badh jayegi",
+        "B": "System mein acid ban sakta hai aur components ko damage kar sakta hai",
+        "C": "Refrigerant ka pressure kam ho jayega",
+        "D": "Compressor oil ka level badh jayega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Moisture refrigerant aur oil ke saath react karke corrosive acids bana sakta hai, jo system components ko damage karte hain aur blockages bhi create kar sakte hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Refrigeration cycle mein 'compression' process kahan hota hai?",
+      "options": {
+        "A": "Evaporator",
+        "B": "Condenser",
+        "C": "Expansion valve",
+        "D": "Compressor"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Compressor low-pressure, low-temperature gaseous refrigerant ko high-pressure, high-temperature gas mein compress karta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Latent heat kya hai?",
+      "options": {
+        "A": "Woh heat jo temperature change karti hai",
+        "B": "Woh heat jo substance ka state change karti hai (temperature constant rehta hai)",
+        "C": "Woh heat jo pressure change karti hai",
+        "D": "Woh heat jo volume change karti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Latent heat woh energy hai jo kisi substance ke phase (state) change ke liye required hoti hai bina uska temperature badlaye."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Refrigerant R-1234yf ka kya benefit hai over R-134a?",
+      "options": {
+        "A": "Higher GWP (Global Warming Potential)",
+        "B": "Lower GWP",
+        "C": "Sasta hai",
+        "D": "Zyada cooling provide karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "R-1234yf ka GWP R-134a se significantly kam hai, isliye yeh environmental friendly option hai aur naye vehicles mein use hota hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Agar ek refrigerant system mein air (non-condensables) enter kar jaye, toh kya hoga?",
+      "options": {
+        "A": "System efficiency badh jayegi",
+        "B": "Condenser pressure bahut high ho jayega",
+        "C": "Evaporator pressure kam ho jayega",
+        "D": "Compressor oil ka level kam ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Air non-condensable gas hai, jo condenser mein space occupy karti hai aur heat transfer ko obstruct karti hai, jisse head pressure (condenser pressure) abnormaly high ho jata hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Refrigerant ke 'critical temperature' ka kya matlab hai?",
+      "options": {
+        "A": "Woh temperature jis par refrigerant freeze ho jata hai",
+        "B": "Woh temperature jis par refrigerant boil ho jata hai",
+        "C": "Woh temperature jiske upar gas ko liquid mein condense nahi kiya ja sakta, chahe kitna bhi pressure apply kiya jaye",
+        "D": "Woh temperature jiske niche gas ko liquid mein condense nahi kiya ja sakta"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Critical temperature woh temperature hai jiske upar koi bhi gas, kitna bhi pressure apply karne par, liquid mein condense nahi ho sakti."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Refrigeration cycle mein heat transfer kaise hota hai condenser mein?",
+      "options": {
+        "A": "Evaporation",
+        "B": "Conduction aur Convection",
+        "C": "Radiation only",
+        "D": "Sublimation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Condenser mein heat refrigerant se condenser fins aur tubes mein conduction se transfer hoti hai, aur phir ambient air mein convection se transfer hoti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Kya refrigerant flammable ho sakte hain?",
+      "options": {
+        "A": "Nahi, sab non-flammable hote hain",
+        "B": "Haan, kuch naye refrigerants (jaise R-1234yf) mildly flammable hain",
+        "C": "Sirf purane CFC refrigerants flammable the",
+        "D": "Sirf jab oil ke saath mix ho tab"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kuch naye refrigerants, jaise R-1234yf, mildly flammable category mein aate hain, jiske liye special handling procedures ki zaroorat hoti hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Auto AC system ka 'heart' kis component ko kaha jata hai?",
+      "options": {
+        "A": "Evaporator",
+        "B": "Condenser",
+        "C": "Compressor",
+        "D": "Expansion valve"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Compressor refrigeration cycle ka 'heart' hai kyunki yeh refrigerant ko circulate karta hai aur pressure badhata hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Condenser aam taur par kahan laga hota hai ek gaadi mein?",
+      "options": {
+        "A": "Dashboard ke andar",
+        "B": "Engine compartment mein, radiator ke saamne",
+        "C": "Trunk mein",
+        "D": "Gaadi ke niche"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Condenser ko radiator ke saamne lagaya jata hai taki usse maximum airflow mil sake aur heat effectively dissipate ho sake."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Evaporator ka primary location kahan hota hai?",
+      "options": {
+        "A": "Engine compartment",
+        "B": "Gaadi ke front bumper ke paas",
+        "C": "Dashboard ke andar, blower motor ke paas",
+        "D": "Fuel tank ke paas"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Evaporator dashboard ke andar hota hai jahan se blower motor thandi hawa ko cabin mein push karta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Receiver/Drier ka kya function hai?",
+      "options": {
+        "A": "Refrigerant ko compress karna",
+        "B": "Liquid refrigerant ko store karna aur moisture ko remove karna",
+        "C": "Vapor refrigerant ko condense karna",
+        "D": "Refrigerant flow ko regulate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Receiver/Drier high-side mein hota hai, liquid refrigerant ko store karta hai aur desiccant ke through moisture aur contaminants ko absorb karta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Orifice tube aur Expansion Valve mein kya difference hai?",
+      "options": {
+        "A": "Orifice tube refrigerant flow ko regulate karta hai, expansion valve nahi",
+        "B": "Expansion valve refrigerant flow ko regulate karta hai, orifice tube nahi",
+        "C": "Orifice tube fixed restriction hai, expansion valve variable restriction",
+        "D": "Dono ka function same hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Orifice tube ek fixed restriction hai jo refrigerant pressure ko drop karta hai. Expansion valve ek variable restriction hai jo evaporator outlet temperature/pressure ke hisaab se refrigerant flow ko adjust karta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Accumulator kahan laga hota hai aur uska kya kaam hai?",
+      "options": {
+        "A": "High-side mein, liquid refrigerant store karta hai",
+        "B": "Low-side mein, liquid refrigerant ko compressor mein jaane se rokta hai",
+        "C": "High-side mein, vapor refrigerant store karta hai",
+        "D": "Low-side mein, moisture remove karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Accumulator low-side mein evaporator ke baad laga hota hai, aur yeh ensure karta hai ki compressor mein sirf gaseous refrigerant enter kare, liquid slugging se bachata hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Compressor ka 'clutch' kis cheez ko engage karta hai?",
+      "options": {
+        "A": "Condenser fan",
+        "B": "Compressor pulley aur compressor shaft",
+        "C": "Blower motor",
+        "D": "Engine fan"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Compressor clutch engine ki power ko compressor ke shaft tak transfer karta hai, jisse compressor operate karta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Ek auto AC system mein 'high-pressure switch' ka kya purpose hai?",
+      "options": {
+        "A": "System ko low pressure se protect karna",
+        "B": "System ko excessively high pressure se protect karna",
+        "C": "Cabin temperature control karna",
+        "D": "Condenser fan speed control karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High-pressure switch compressor ko off kar deta hai agar system pressure ek certain threshold se upar chala jaye, damage se bachane ke liye."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Serpentine belt ka kya role hai auto AC system mein?",
+      "options": {
+        "A": "Refrigerant ko circulate karna",
+        "B": "Compressor ko engine power se drive karna",
+        "C": "AC lines ko support karna",
+        "D": "Blower motor ko drive karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Serpentine belt engine se power lekar AC compressor pulley ko rotate karta hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "AC lines aur hoses kis material se bane hote hain?",
+      "options": {
+        "A": "Copper",
+        "B": "PVC",
+        "C": "Rubber aur Aluminium",
+        "D": "Steel"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "AC lines aam taur par aluminium se bani hoti hain, aur hoses special multi-layer rubber se bani hoti hain jo refrigerant leakage ko rokti hain."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Cabin air filter kahan laga hota hai aur uska kya kaam hai?",
+      "options": {
+        "A": "Engine air intake mein, engine ko protect karta hai",
+        "B": "Evaporator ke saamne, cabin air ko filter karta hai",
+        "C": "Fuel line mein, fuel ko filter karta hai",
+        "D": "Refrigerant line mein, refrigerant ko filter karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cabin air filter blower motor ke air intake par laga hota hai aur dust, pollen, aur other particles ko cabin mein aane se rokta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Variable displacement compressor ka kya fayda hai?",
+      "options": {
+        "A": "Hamesha full capacity par chalta hai",
+        "B": "Engine load ko kam karta hai aur fuel efficiency badhata hai",
+        "C": "Sasta hota hai",
+        "D": "Zyada noise karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Variable displacement compressor apni capacity ko adjust kar sakta hai cooling demand ke hisaab se, jisse engine par load kam padta hai aur fuel efficiency improve hoti hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Ambient temperature sensor ka kya function hai AC system mein?",
+      "options": {
+        "A": "Cabin temperature measure karna",
+        "B": "Engine temperature measure karna",
+        "C": "Gaadi ke bahar ka temperature measure karna",
+        "D": "Refrigerant temperature measure karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ambient temperature sensor bahar ke temperature ko measure karta hai, jo AC system ko optimize karne mein help karta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar AC system mein desiccant bag saturated ho jaye, toh kya ho sakta hai?",
+      "options": {
+        "A": "Cooling performance badh jayegi",
+        "B": "Moisture system mein circulate hogi aur acid banayegi",
+        "C": "Refrigerant pressure kam ho jayega",
+        "D": "Compressor oil ka color change ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Saturated desiccant moisture ko absorb nahi kar payega, jisse moisture system mein circulate hogi aur corrosive acid formation ho sakta hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Expansion valve mein 'sensing bulb' ka kya kaam hai?",
+      "options": {
+        "A": "Condenser pressure ko sense karna",
+        "B": "Evaporator outlet par refrigerant temperature ko sense karna",
+        "C": "Ambient temperature ko sense karna",
+        "D": "Cabin temperature ko sense karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sensing bulb evaporator outlet line par laga hota hai aur wahan ke refrigerant temperature ko sense karta hai, jiske base par expansion valve refrigerant flow ko adjust karta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Automatic Climate Control (ACC) system mein temperature ko kaise maintain kiya jata hai?",
+      "options": {
+        "A": "Sirf compressor ko on/off karke",
+        "B": "Manual adjustment se",
+        "C": "Multiple sensors aur actuators ke through temperature, fan speed aur air distribution ko adjust karke",
+        "D": "Sirf heater ko control karke"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "ACC system sensors (temperature, sun load, etc.) aur actuators ka use karke set temperature ko automatically maintain karta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "AC system mein 'low-side service port' kahan laga hota hai?",
+      "options": {
+        "A": "Compressor ke discharge side par",
+        "B": "Condenser ke inlet par",
+        "C": "Accumulator ya suction line par",
+        "D": "Receiver/Drier par"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Low-side service port low-pressure side par hota hai, aam taur par accumulator ya compressor ke suction line par."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Agar AC system mein cooling nahi ho rahi hai, toh sabse pehla check kya hona chahiye?",
+      "options": {
+        "A": "Engine oil level",
+        "B": "Tyre pressure",
+        "C": "AC compressor clutch engage ho raha hai ya nahi",
+        "D": "Wiper blades ki condition"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Agar compressor clutch engage nahi ho raha hai, toh compressor nahi chalega aur cooling nahi hogi. Yeh basic check hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Manifold gauge set ka use kya hai?",
+      "options": {
+        "A": "Engine RPM measure karna",
+        "B": "AC system ke high aur low side pressures ko measure karna",
+        "C": "Battery voltage check karna",
+        "D": "Fuel pressure measure karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Manifold gauge set AC system ke high (discharge) aur low (suction) side pressures ko accurately measure karta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Agar AC system mein low-side pressure bahut kam hai aur high-side pressure bhi kam hai, toh kya indication ho sakta hai?",
+      "options": {
+        "A": "Overcharged system",
+        "B": "Compressor faulty hai",
+        "C": "Refrigerant level low hai",
+        "D": "Expansion valve stuck open hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dono sides par low pressure refrigerant ki kami ko indicate karta hai, jo leak ki wajah se ho sakti hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Agar AC system mein high-side pressure bahut high hai aur low-side pressure bhi high hai, toh kya indication ho sakta hai?",
+      "options": {
+        "A": "Undercharged system",
+        "B": "Condenser blocked hai",
+        "C": "Overcharged system",
+        "D": "Compressor faulty hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dono sides par high pressure system ke overcharged hone ka indication hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "UV dye ka use kis liye kiya jata hai AC system diagnosis mein?",
+      "options": {
+        "A": "Refrigerant ka type identify karne ke liye",
+        "B": "Leaks detect karne ke liye",
+        "C": "Compressor oil ka level check karne ke liye",
+        "D": "System ki efficiency badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "UV dye refrigerant ke saath inject kiya jata hai aur leak spots par glow karta hai jab UV light se dekha jata hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Agar AC system se 'hissing' sound aa rahi hai jab engine off ho, toh yeh kis cheez ka sign ho sakta hai?",
+      "options": {
+        "A": "Normal operation hai",
+        "B": "Refrigerant leak ka sign hai",
+        "C": "Blower motor sound hai",
+        "D": "Engine cooling fan ki sound hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hissing sound pressure equalize hone ki wajah se ho sakti hai jab refrigerant leak ho raha ho."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Jab AC system mein blower motor nahi chal raha ho, toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Refrigerant pressure",
+        "B": "Blower motor fuse",
+        "C": "Compressor clutch",
+        "D": "Condenser fan"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical components ke saath problem hone par, fuse sabse pehle check karna chahiye."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Agar AC system intermittently cool kar raha hai (ruk ruk kar), toh kya possible cause ho sakta hai?",
+      "options": {
+        "A": "System overcharged hai",
+        "B": "Low refrigerant level ya faulty pressure switch",
+        "C": "Blower motor faulty hai",
+        "D": "Condenser blocked hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Low refrigerant ya faulty pressure switch compressor ko baar baar engage aur disengage kar sakta hai, jisse intermittent cooling hoti hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Electronic leak detector ka kya fayda hai over soap bubbles method?",
+      "options": {
+        "A": "Sasta hota hai",
+        "B": "Zyada accurate aur small leaks detect kar sakta hai",
+        "C": "Sirf bade leaks detect karta hai",
+        "D": "Koi fayda nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electronic leak detectors bahut sensitive hote hain aur bahut chhote refrigerant leaks ko bhi detect kar sakte hain jo soap bubbles se nahi dikhte."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Agar evaporator coil freeze ho rahi hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "System overcharged hai",
+        "B": "Low refrigerant level ya faulty expansion valve/orifice tube",
+        "C": "Condenser fan nahi chal raha hai",
+        "D": "Compressor oil kam hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Low refrigerant level ya restricted expansion valve evaporator mein pressure ko itna kam kar sakte hain ki ice formation ho jaye. Ya fir blower motor ki problem bhi ho sakti hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "AC system mein 'abnormal noise' aana kis component ki fault ka sign ho sakta hai?",
+      "options": {
+        "A": "Compressor",
+        "B": "Evaporator",
+        "C": "Receiver/Drier",
+        "D": "Expansion valve"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Compressor ke internal parts wear hone ya bearing failure hone par abnormal noise (grinding, rattling) aa sakti hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar condenser fan nahi chal raha hai, toh high-side pressure pe kya asar padega?",
+      "options": {
+        "A": "Pressure kam hoga",
+        "B": "Pressure bahut badh jayega",
+        "C": "Pressure pe koi asar nahi hoga",
+        "D": "Pressure fluctuate karega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Condenser fan heat dissipation mein help karta hai. Agar woh nahi chalega, toh heat trap ho jayegi aur high-side pressure dangerously high ho jayega."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Jab AC system ka performance check karte hain, toh cabin ke 'vent temperature' ko kis tool se measure karte hain?",
+      "options": {
+        "A": "Manifold gauge",
+        "B": "Multimeter",
+        "C": "Thermometer",
+        "D": "Pressure gauge"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Vent temperature ko measure karne ke liye thermometer ka use kiya jata hai, jo cooling efficiency ka direct indication deta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Agar AC system mein 'clogged orifice tube' ho, toh pressure readings kaisi hongi?",
+      "options": {
+        "A": "High-side normal, low-side high",
+        "B": "High-side low, low-side high",
+        "C": "High-side high, low-side very low",
+        "D": "Dono sides normal"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Clogged orifice tube high-side mein pressure build-up karega aur low-side mein refrigerant flow kam hone ki wajah se pressure bahut kam ho jayega."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "AC system mein 'dampers' ka kya role hai troubleshooting ke dauran?",
+      "options": {
+        "A": "Refrigerant flow control karna",
+        "B": "Airflow direction aur temperature control karna",
+        "C": "Compressor speed control karna",
+        "D": "Pressure release karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dampers airflow ko direct karte hain aur hot/cold air mix ko control karte hain. Agar yeh stuck ho jayein, toh cooling ya heating ki problem aa sakti hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar AC system mein compressor chal raha hai lekin cooling nahi ho rahi, aur high-side pressure bahut low hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Overcharged system",
+        "B": "Compressor internal damage (no compression)",
+        "C": "Condenser blocked hai",
+        "D": "Expansion valve stuck closed"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar compressor chal raha hai lekin pressure difference create nahi kar raha hai, toh iska matlab hai ki uske internal components damaged hain aur woh compress nahi kar raha."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Visual inspection mein kya cheezein check karni chahiye AC system ke liye?",
+      "options": {
+        "A": "Loose belts, damaged hoses, oil leaks, clogged condenser fins",
+        "B": "Engine oil level, tyre pressure",
+        "C": "Brake fluid level, wiper fluid level",
+        "D": "Fuel filter condition"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Visual inspection mein physical damage, leaks, aur blockages ko check kiya jata hai jo AC performance ko affect kar sakte hain."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Refrigerant recovery ka kya matlab hai?",
+      "options": {
+        "A": "System mein naya refrigerant dalna",
+        "B": "System se refrigerant ko safely remove karke recycle karna",
+        "C": "Refrigerant ko hawa mein release karna",
+        "D": "System ko flush karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Refrigerant recovery ek process hai jismein system se refrigerant ko ek special machine ka use karke safely nikal kar store kiya jata hai, environmental protection ke liye."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "AC system ko vacuum karne ka kya purpose hai?",
+      "options": {
+        "A": "System ko refrigerant se bharne ke liye",
+        "B": "System se air aur moisture ko remove karne ke liye",
+        "C": "Leaks detect karne ke liye",
+        "D": "Compressor ko lubricate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vacuuming system se non-condensable gases (air) aur moisture ko remove karta hai, jo system performance aur longevity ke liye critical hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Jab ek AC system ko recharge karte hain, toh refrigerant kis state mein add karna chahiye?",
+      "options": {
+        "A": "Sirf gas (vapor) form mein",
+        "B": "Sirf liquid form mein",
+        "C": "Low-side mein vapor, high-side mein liquid",
+        "D": "Depends on the system and method"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Modern systems mein, accurate charging ke liye liquid form mein hi charge karte hain, lekin low-side mein slow charging ke liye vapor form bhi use hota hai. Manufacturer's guidelines follow karna zaroori hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Agar AC compressor replace karna ho, toh system ko flush karna kyun zaroori hai?",
+      "options": {
+        "A": "Naye compressor ko lubricate karne ke liye",
+        "B": "Purane compressor ke debris aur contaminants ko remove karne ke liye",
+        "C": "Refrigerant ko recycle karne ke liye",
+        "D": "System ko leak-proof banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Compressor failure ke baad, metal debris aur acid system mein circulate ho sakte hain. Flushing unhe remove karta hai taki naya compressor contaminate na ho."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "AC system mein oil add karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Koi bhi oil use kar sakte hain",
+        "B": "Sahi type aur quantity ka oil use karna",
+        "C": "Oil ko hawa mein expose karna",
+        "D": "Oil ko garam karke dalna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi type (PAG/POE) aur quantity ka oil hi use karna chahiye, aur moisture absorption se bachane ke liye use sealed rakhna chahiye."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Receiver/Drier ko kab replace karna chahiye?",
+      "options": {
+        "A": "Har 5 saal mein",
+        "B": "Jab bhi system open ho ya major component replace ho",
+        "C": "Sirf jab leak ho",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Receiver/Drier ka desiccant moisture absorb karta hai. Jab system open hota hai, toh woh ambient moisture ko absorb kar leta hai aur apni effectiveness kho deta hai, isliye use replace karna advisable hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "AC system mein O-rings aur seals ko replace karte waqt kya zaroori hai?",
+      "options": {
+        "A": "Unhe dry install karna",
+        "B": "Unhe compressor oil se lubricate karna",
+        "C": "Purane wale hi use karna",
+        "D": "Unhe heat karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "O-rings aur seals ko compressor oil se lubricate karne se woh properly seal hote hain aur damage hone se bachte hain during installation."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Agar AC system mein ek minor leak mil jaye, toh use kaise repair karte hain?",
+      "options": {
+        "A": "Leak sealer dal kar",
+        "B": "Component ko replace karke ya leak ko weld/braze karke",
+        "C": "System ko overcharge karke",
+        "D": "Leak ko ignore karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Leak sealers temporary solutions ho sakte hain, lekin proper repair mein leaking component ko replace karna ya leak ko permanently seal karna shamil hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "AC system ka belt tension check karna kyun important hai?",
+      "options": {
+        "A": "Engine noise kam karne ke liye",
+        "B": "Compressor ko proper power mile aur belt slip na kare",
+        "C": "Fuel efficiency badhane ke liye",
+        "D": "Tyre wear kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Correct belt tension ensure karta hai ki compressor ko engine se sufficient power mile aur belt slip na kare, jisse AC performance maintain rahe."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Cabin air filter ko kitni baar replace karna chahiye?",
+      "options": {
+        "A": "Kabhi nahi",
+        "B": "Har 5 saal mein",
+        "C": "Manufacturer ke recommendations ke according (aam taur par 1-2 saal mein)",
+        "D": "Sirf jab AC kaam na kare"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cabin air filter ko regularly replace karna chahiye (manufacturer ke schedule ke hisaab se) taaki cabin air quality aur AC airflow maintain rahe."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Agar AC system mein compressor replace kar rahe hain, toh kis type ke oil ka use karna chahiye?",
+      "options": {
+        "A": "Engine oil",
+        "B": "Wahi type ka refrigeration oil jo system ke liye specify kiya gaya hai",
+        "C": "Brake fluid",
+        "D": "Koi bhi synthetic oil"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Refrigerant aur compressor ke compatibility ke liye specific type ka refrigeration oil (PAG ya POE) hi use karna chahiye."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "AC system ko recharge karne ke baad, performance check kaise karte hain?",
+      "options": {
+        "A": "Tyre pressure check karke",
+        "B": "Vent temperature aur pressure readings check karke",
+        "C": "Horn baja kar",
+        "D": "Headlights on karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Recharge ke baad, vent temperature aur high/low side pressure readings ko check karke system ki proper functioning aur cooling performance verify ki jati hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Agar ek AC hose damaged ho jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Tape se repair karna",
+        "B": "Poori hose assembly ko replace karna",
+        "C": "Leak sealer dal kar",
+        "D": "Us section ko cut karke jod dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AC hoses high pressure mein kaam karti hain aur unhe proper seal karna bahut zaroori hai. Damaged hose ko poori assembly ke saath replace karna hi best practice hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Evaporator coil ko clean karna kyun important hai?",
+      "options": {
+        "A": "Refrigerant flow badhane ke liye",
+        "B": "Airflow aur cooling efficiency improve karne ke liye",
+        "C": "Noise kam karne ke liye",
+        "D": "Compressor ki life badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Evaporator coil par dust aur debris accumulate ho sakte hain, jisse airflow restrict hota hai aur cooling efficiency kam hoti hai. Cleaning se yeh problems solve hoti hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "AC system mein leak repair karne ke baad, kya step follow karna zaroori hai before recharging?",
+      "options": {
+        "A": "Gaadi ko drive karna",
+        "B": "System ko vacuum karna",
+        "C": "Engine ko restart karna",
+        "D": "Tyre pressure check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Leak repair ke baad system ko vacuum karna zaroori hai taaki usmein se air aur moisture nikal jaye, jo system ko damage kar sakte hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Auto AC system mein 'preventive maintenance' mein kya shamil hai?",
+      "options": {
+        "A": "Sirf compressor replacement",
+        "B": "Regular refrigerant top-up",
+        "C": "Cabin air filter check/replacement, belt inspection, condenser cleaning, system performance check",
+        "D": "Engine oil change"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Preventive maintenance mein regular checks aur replacements shamil hain jo system ko efficiently chalne mein help karte hain aur bade repairs se bachate hain."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Refrigerant handling karte waqt sabse important PPE (Personal Protective Equipment) kya hai?",
+      "options": {
+        "A": "Safety glasses ya face shield",
+        "B": "Helmet",
+        "C": "Gloves",
+        "D": "A aur C dono"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Refrigerant skin aur eyes ke contact mein aane par frostbite kar sakta hai, isliye safety glasses/face shield aur gloves bahut zaroori hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Refrigerant cylinder ko store karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Direct sunlight mein rakhna",
+        "B": "Vertically, secure jagah par store karna",
+        "C": "Horizontally, kisi bhi jagah par rakhna",
+        "D": "Heat source ke paas rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Refrigerant cylinders ko vertically, secure aur cool jagah par store karna chahiye, direct sunlight aur heat se door."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Vacuum pump ka kya kaam hai AC service mein?",
+      "options": {
+        "A": "Refrigerant ko recover karna",
+        "B": "System se air aur moisture ko evacuate karna",
+        "C": "Refrigerant ko charge karna",
+        "D": "Leaks detect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vacuum pump system ko deep vacuum tak pull karta hai, jisse air aur moisture bahar nikal jate hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Agar refrigerant leak ho jaye confined space mein, toh kya karna chahiye?",
+      "options": {
+        "A": "Ventilation on karna aur area evacuate karna",
+        "B": "Wahin par reh kar leak repair karna",
+        "C": "Panic karna",
+        "D": "Light jalana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Refrigerant displacement se oxygen level kam ho sakta hai, jo suffocation ka cause ban sakta hai. Proper ventilation aur evacuation zaroori hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "F-Gas Regulations ka kya purpose hai?",
+      "options": {
+        "A": "Fuel efficiency badhana",
+        "B": "Fluorinated greenhouse gases ke emissions ko control karna",
+        "C": "Food safety maintain karna",
+        "D": "Fire safety regulations"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "F-Gas Regulations ka aim high GWP (Global Warming Potential) wale refrigerants ke emissions ko kam karna hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Kis tool ka use kiya jata hai AC fittings ko tight karne ke liye?",
+      "options": {
+        "A": "Pliers",
+        "B": "Adjustable wrench",
+        "C": "Torque wrench",
+        "D": "Hammer"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Torque wrench ka use recommended torque value tak fittings ko tight karne ke liye kiya jata hai, jo proper sealing aur damage prevention ke liye essential hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Refrigerant recovery machine ka kya function hai?",
+      "options": {
+        "A": "System mein naya refrigerant add karna",
+        "B": "System se refrigerant ko recover, recycle aur recharge karna",
+        "C": "System ko vacuum karna",
+        "D": "Leaks detect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Recovery machine ek all-in-one unit hai jo refrigerant ko recover, recycle aur recharge kar sakti hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar AC system mein electrical work kar rahe hain, toh kya sabse pehle karna chahiye?",
+      "options": {
+        "A": "Engine start karna",
+        "B": "Battery disconnect karna",
+        "C": "AC on karna",
+        "D": "Refrigerant recover karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical shock aur accidental activation se bachne ke liye, battery ko disconnect karna sabse pehla safety step hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Ozone Depleting Substances (ODS) ka kya matlab hai?",
+      "options": {
+        "A": "Woh substances jo engine ko damage karte hain",
+        "B": "Woh substances jo Earth ke ozone layer ko deplete karte hain",
+        "C": "Woh substances jo water ko pollute karte hain",
+        "D": "Woh substances jo soil ko degrade karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "ODS jaise CFCs aur HCFCs woh chemicals hain jo stratospheric ozone layer ko destroy karte hain."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Flammable refrigerants (jaise R-1234yf) handle karte waqt kya extra precaution leni chahiye?",
+      "options": {
+        "A": "Sirf normal PPE",
+        "B": "Spark-free tools use karna aur area ko ventilate karna",
+        "C": "Leak detector use nahi karna",
+        "D": "System ko overcharge karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flammable refrigerants ke saath spark-free tools, proper ventilation aur ignition sources se door rehna critical hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "AC service ke dauran 'cross-contamination' kya hai?",
+      "options": {
+        "A": "Engine oil aur AC oil ka mix hona",
+        "B": "Alag-alag type ke refrigerants ka mix hona",
+        "C": "Dust aur debris ka system mein enter karna",
+        "D": "Water aur refrigerant ka mix hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cross-contamination ka matlab hai ki ek type ka refrigerant (jaise R-134a) dusre type ke refrigerant (jaise R-1234yf) ke saath mix ho jaye, jo system ko damage kar sakta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Agar ek technician ko refrigerant exposure ho jaye (eyes mein), toh kya immediate action lena chahiye?",
+      "options": {
+        "A": "Aankhon ko rub karna",
+        "B": "Turant medical attention lena aur aankhon ko pani se flush karna",
+        "C": "Kuch bhi nahi karna",
+        "D": "Petrol se saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Refrigerant se frostbite ho sakta hai. Turant medical attention lena aur aankhon ko clean water se flush karna zaroori hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "AC system mein leak test karne ke liye 'nitrogen' ka use kyun kiya jata hai?",
+      "options": {
+        "A": "Yeh sasta hai",
+        "B": "Yeh inert gas hai aur system mein moisture add nahi karta",
+        "C": "Yeh refrigerant ko replace karta hai",
+        "D": "Yeh cooling provide karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Nitrogen ek inert aur dry gas hai, jo system mein moisture ya impurities add kiye bina high pressure par leak test karne ke liye safe hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "AC system ke components ko discard karte waqt, kya safety guideline follow karni chahiye?",
+      "options": {
+        "A": "Components ko normal trash mein dal dena",
+        "B": "Unhe proper channels ke through recycle ya dispose karna",
+        "C": "Unhe jala dena",
+        "D": "Components ko open area mein chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AC components (jaise compressor, condenser) mein residual refrigerant ya oil ho sakta hai, isliye unhe environmental regulations ke according dispose karna chahiye."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Ek auto AC technician ke liye 'continuous learning' kyun important hai?",
+      "options": {
+        "A": "Sirf naye tools kharidne ke liye",
+        "B": "Technology aur refrigerants mein changes ko update rehne ke liye",
+        "C": "Purani techniques bhulne ke liye",
+        "D": "Zyada paise kamane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Automotive AC technology aur refrigerants constantly evolve ho rahe hain, isliye technicians ko update rehna zaroori hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Workshop mein 'good housekeeping' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf tools ko saaf rakhna",
+        "B": "Workshop ko saaf, organized aur safe rakhna",
+        "C": "Customers se accha behave karna",
+        "D": "Sirf emergency exits ko clear rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Good housekeeping mein workspace ko saaf, organized, aur obstruction-free rakhna shamil hai, jo accidents ko rokta hai aur efficiency badhata hai."
+    }
+  ]
+}

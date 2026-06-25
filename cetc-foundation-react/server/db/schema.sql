@@ -73,11 +73,23 @@ CREATE TABLE IF NOT EXISTS candidates (
   id SERIAL PRIMARY KEY,
   user_id INTEGER REFERENCES users(id) ON DELETE CASCADE,
   trade_id INTEGER REFERENCES trades(id) ON DELETE RESTRICT,
+  pathway VARCHAR(20) DEFAULT 'rpl' CHECK (pathway IN ('video', 'rpl')),
   enrollment_date TIMESTAMP DEFAULT NOW(),
   status VARCHAR(20) DEFAULT 'enrolled' CHECK (status IN ('enrolled','exam_ready','passed','failed','expired')),
   attempts_used INTEGER DEFAULT 0,
   max_attempts INTEGER DEFAULT 3,
   UNIQUE(user_id, trade_id)
+);
+
+-- Course videos (for the Video Pathway)
+CREATE TABLE IF NOT EXISTS course_videos (
+  id SERIAL PRIMARY KEY,
+  trade_id INTEGER REFERENCES trades(id) ON DELETE CASCADE,
+  title VARCHAR(255) NOT NULL,
+  video_url TEXT NOT NULL,
+  duration_mins INTEGER,
+  order_index INTEGER DEFAULT 0,
+  created_at TIMESTAMP DEFAULT NOW()
 );
 
 -- Exam sessions

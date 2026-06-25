@@ -1,0 +1,272 @@
+{
+  "course_name": "CCTV Installation & Maintenance",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_weeks": 8,
+  "total_hours": 120,
+  "hero_description": "Master the essential skills of CCTV system installation, configuration, and maintenance. This hands-on course equips you with practical knowledge to install surveillance systems in homes, shops, offices, and industrial facilities across India. Gain industry-recognized certification and launch a rewarding career in the fast-growing security technology sector.",
+  "overview_description": "This foundation-level course covers complete CCTV system knowledge from basic camera types and wiring to advanced DVR/NVR setup and troubleshooting. You will learn to install analog and IP cameras, configure recording systems, maintain equipment, and provide customer support. The course includes real-world projects, hands-on practice with actual CCTV equipment, and job-ready skills demanded by security companies, retailers, and corporate offices across India.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Fundamentals of CCTV Systems & Camera Types",
+      "week_range": "Week 1",
+      "hours": 15,
+      "topics": [
+        "Introduction to CCTV systems — what is CCTV, why it's important, and uses in India",
+        "Analog cameras (CCD/CMOS) — specifications, resolution (D1, 2MP, 4MP), and applications",
+        "IP/Network cameras — advantages, PoE technology, and modern surveillance trends",
+        "Thermal and specialty cameras — night vision, infrared, and PTZ (Pan-Tilt-Zoom) cameras",
+        "Camera lens types — fixed, varifocal, and motorized lenses with focal length calculations",
+        "Sensor technology and image quality — frame rates, compression, and video standards",
+        "Comparison of camera types — analog vs IP, advantages and disadvantages",
+        "Indian market trends — popular brands (Hikvision, CP Plus, Uniview) and customer preferences",
+        "Safety and compliance — IS codes for surveillance, privacy laws, and workplace safety"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Recording Devices, Storage & System Architecture",
+      "week_range": "Week 1-2",
+      "hours": 15,
+      "topics": [
+        "DVR (Digital Video Recorder) systems — architecture, specifications, and operation",
+        "NVR (Network Video Recorder) systems — IP-based recording, advantages, and setup",
+        "Hybrid DVR systems — mixing analog and IP cameras in one system",
+        "Hard drive selection — capacity calculation, RAID systems, and reliability",
+        "Storage calculation — determining HDD size based on camera count, resolution, and retention days",
+        "Video compression standards — H.264, H.265, and MJPEG explained for Indian customers",
+        "System architecture — star topology, daisy-chain, and network configurations",
+        "Backup systems — cloud storage, USB backup, and remote access setup",
+        "Power requirements — UPS sizing, backup battery systems, and power distribution"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Cabling, Wiring & Electrical Installation Basics",
+      "week_range": "Week 2-3",
+      "hours": 18,
+      "topics": [
+        "Coaxial cable types — RG59, RG6, and their specifications for analog systems",
+        "Network cables (Cat5e, Cat6) — twisted pair, shielding, and IP camera wiring",
+        "Cable routing best practices — conduit selection, cable management, and protection",
+        "Termination techniques — BNC connectors, RJ45 crimping, and soldering basics",
+        "Power supply wiring — 12V DC distribution, 230V AC connections, and circuit protection",
+        "Earthing and grounding — safety standards, lightning protection, and surge protection",
+        "Cable testing — using multimeter, cable tester, and identifying faults",
+        "Indoor vs outdoor installation — weatherproofing, conduit types, and UV protection",
+        "Installation tools — crimper, stripper, tester, multimeter, and safety equipment",
+        "Common wiring mistakes — troubleshooting poor connections and signal loss",
+        "IS codes compliance — Indian electrical standards for surveillance installations",
+        "Cost estimation — material calculation and project budgeting for Indian market"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Camera Installation, Positioning & Configuration",
+      "week_range": "Week 3-4",
+      "hours": 20,
+      "topics": [
+        "Site survey and planning — identifying camera locations, coverage areas, and blind spots",
+        "Angle and field of view calculation — using lens calculator and distance formulas",
+        "Height and mounting considerations — optimal camera height for different applications",
+        "Indoor camera installation — ceiling, wall mounting, and dome camera setup",
+        "Outdoor camera installation — weatherproofing, housing selection, and bracket installation",
+        "Installation in retail shops — covering billing counter, entry/exit, and stockroom",
+        "Office and corporate installation — conference rooms, corridors, and parking areas",
+        "Residential installation — entrance gates, balconies, and living areas",
+        "Industrial facility installation — factory floors, warehouses, and restricted zones",
+        "Camera focusing and lens adjustment — manual and motorized lens tuning",
+        "Image quality verification — checking resolution, color accuracy, and night vision",
+        "Analog camera configuration — video level adjustment and signal optimization"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "DVR/NVR Setup, Configuration & Remote Access",
+      "week_range": "Week 4-5",
+      "hours": 20,
+      "topics": [
+        "DVR initial setup — powering on, HDD installation, and system initialization",
+        "Camera detection and channel mapping — auto-detect and manual channel assignment",
+        "Recording settings — continuous, scheduled, and motion detection recording",
+        "Video quality settings — resolution, frame rate, and bitrate configuration",
+        "Time and date settings — synchronization, NTP server setup, and timezone configuration",
+        "User account management — admin password, user privileges, and access control",
+        "Network configuration — IP address, gateway, DNS, and DHCP settings",
+        "Remote viewing setup — port forwarding, DDNS, and mobile app configuration",
+        "Cloud integration — connecting to manufacturer cloud services for Indian users",
+        "Backup and export — manual backup, scheduled backup, and video export procedures",
+        "Alarm and notification settings — motion alerts, email notifications, and push alerts",
+        "NVR-specific features — PoE power management, bandwidth optimization, and advanced search"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Maintenance, Troubleshooting & Customer Support",
+      "week_range": "Week 5-8",
+      "hours": 32,
+      "topics": [
+        "Preventive maintenance — cleaning lenses, checking connections, and firmware updates",
+        "Seasonal maintenance — monsoon protection, dust management, and heat dissipation",
+        "HDD maintenance — SMART monitoring, health check, and replacement procedures",
+        "Firmware updates — checking versions, downloading updates, and installation process",
+        "Backup and data recovery — restoring from backup, data corruption handling",
+        "Common issues diagnosis — no video, poor image quality, and network connectivity problems",
+        "Camera troubleshooting — checking power, cable continuity, and signal levels",
+        "DVR/NVR troubleshooting — boot issues, recording failures, and system crashes",
+        "Network troubleshooting — connectivity issues, IP conflicts, and bandwidth problems",
+        "Remote access issues — port forwarding, firewall configuration, and DDNS problems",
+        "Performance optimization — system speed, storage management, and resource allocation",
+        "Customer communication — explaining issues, providing solutions, and documentation",
+        "Service documentation — creating installation reports, maintenance logs, and handover documents",
+        "Warranty and service policies — Indian manufacturer warranty terms and service procedures"
+      ]
+    }
+  ],
+  "assessment": {
+    "theory_marks": 50,
+    "theory_format": "25 Questions x 2 Marks (Multiple Choice & Short Answer)",
+    "theory_duration": "45 minutes",
+    "practical_marks": 50,
+    "practical_format": "Hands-on installation, configuration, and troubleshooting tasks using actual CCTV equipment",
+    "practical_items": [
+      {
+        "title": "Camera Installation & Positioning",
+        "description": "Candidate must correctly install and position 2 different camera types (dome and bullet), ensuring proper angle, focus, and mounting. Assessor checks coverage area, image quality, and installation standards compliance.",
+        "marks": 12
+      },
+      {
+        "title": "Cable Termination & Testing",
+        "description": "Candidate must terminate 3 coaxial and 3 network cables with proper connectors (BNC and RJ45), test continuity, and verify signal strength using appropriate tools.",
+        "marks": 10
+      },
+      {
+        "title": "DVR/NVR Configuration",
+        "description": "Candidate must set up a 4-channel DVR/NVR system, detect cameras, configure recording settings, set up user accounts, and enable remote viewing with proper documentation.",
+        "marks": 15
+      },
+      {
+        "title": "Troubleshooting & Maintenance",
+        "description": "Candidate must diagnose and resolve 3 simulated CCTV system problems (no video, poor quality, network issue), document findings, and demonstrate preventive maintenance procedures.",
+        "marks": 13
+      }
+    ],
+    "total_marks": 100,
+    "pass_percentage": 50
+  },
+  "eligibility": [
+    "Minimum age: 14 years (or 16 years for some states)",
+    "Minimum education: Class 8th pass (or equivalent)",
+    "No prior experience required",
+    "Already working in CCTV field? Apply for Recognition of Prior Learning (RPL) exam",
+    "Valid government ID proof required (Aadhaar, PAN, Voter ID, or Passport)",
+    "Applicable for all Indian citizens and registered foreign nationals",
+    "No age upper limit — open for working professionals and career changers"
+  ],
+  "learning_outcomes": [
+    "Install and configure analog and IP CCTV cameras in residential, commercial, and industrial settings",
+    "Select appropriate cabling, connectors, and tools for CCTV system installation",
+    "Set up DVR and NVR recording systems with proper storage calculation and backup procedures",
+    "Configure remote access, mobile viewing, and cloud integration for CCTV systems",
+    "Diagnose and troubleshoot common CCTV system problems using standard testing methods",
+    "Perform preventive maintenance and provide professional customer support for CCTV installations"
+  ],
+  "career_paths": [
+    {
+      "title": "CCTV Technician (Installation & Maintenance)",
+      "type": "Employment",
+      "salary": "15000-35000/month",
+      "icon": "🔧"
+    },
+    {
+      "title": "Security System Installer",
+      "type": "Employment",
+      "salary": "18000-40000/month",
+      "icon": "🏢"
+    },
+    {
+      "title": "Self-Employed CCTV Installation Specialist",
+      "type": "Self-Employment",
+      "salary": "30000-80000/month",
+      "icon": "👨‍💼"
+    },
+    {
+      "title": "CCTV System Integrator",
+      "type": "Self-Employment",
+      "salary": "40000-100000/month",
+      "icon": "🌐"
+    },
+    {
+      "title": "Security Company Supervisor/Manager",
+      "type": "Employment",
+      "salary": "25000-50000/month",
+      "icon": "📊"
+    },
+    {
+      "title": "CCTV Equipment Distributor/Retailer",
+      "type": "Entrepreneurship",
+      "salary": "50000-150000/month",
+      "icon": "🏪"
+    },
+    {
+      "title": "Technical Support Executive (CCTV)",
+      "type": "Employment",
+      "salary": "12000-28000/month",
+      "icon": "☎️"
+    },
+    {
+      "title": "CCTV Trainer/Instructor",
+      "type": "Employment",
+      "salary": "20000-45000/month",
+      "icon": "📚"
+    }
+  ],
+  "exam_fee": 1000,
+  "additional_info": {
+    "course_benefits": [
+      "Industry-recognized CETCF certification valid across India",
+      "Hands-on training with real CCTV equipment and tools",
+      "Practical experience with popular brands (Hikvision, CP Plus, Uniview, Dahua)",
+      "Job placement assistance through partner security companies",
+      "Lifetime access to course materials and video tutorials",
+      "Free upgrade training when new technologies are introduced",
+      "Certificate with QR code verification for employers"
+    ],
+    "job_market_insights": [
+      "CCTV installation demand growing 25% annually in India",
+      "Retail sector (shops, malls) is largest employer of CCTV technicians",
+      "Residential societies increasingly installing CCTV systems",
+      "Government projects (Smart Cities) creating massive opportunities",
+      "Average project value: ₹50,000-500,000 for small to medium installations",
+      "Experienced technicians earn ₹50,000+ through freelance projects",
+      "Tier-2 and Tier-3 cities have high demand with lower competition"
+    ],
+    "tools_equipment_required": [
+      "Coaxial cable stripper and crimper",
+      "Network cable crimper (RJ45)",
+      "Digital multimeter",
+      "Cable tester (coaxial and network)",
+      "Power drill with bits",
+      "Screwdriver set (Phillips and flat head)",
+      "Tape measure",
+      "Safety glasses and gloves",
+      "Ladder (aluminum, 6-8 feet)",
+      "CCTV training kit with DVR, cameras, and cables"
+    ],
+    "recommended_books_resources": [
+      "CCTV Installation & Maintenance Manual by CETCF",
+      "IS 13818 (Code of Practice for Closed Circuit Television Systems)",
+      "Manufacturer manuals: Hikvision, CP Plus, Uniview",
+      "Online forums: CCTV India, Security Professionals Group",
+      "YouTube channels: CCTV installation tutorials by certified trainers"
+    ],
+    "industry_certifications_alignment": [
+      "CETCF Level 1 & 2 Certification (Progressive pathway)",
+      "Manufacturer-specific certifications (Hikvision, CP Plus)",
+      "International certifications (ASIS, IISECTT) for career advancement",
+      "Advanced courses: IP Surveillance, Access Control, Integrated Security Systems"
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "course_name": "Mobile Phone Repair Technician",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_weeks": 8,
+  "total_hours": 120,
+  "hero_description": "Master the essential skills to repair and maintain mobile phones professionally. This foundation course equips you with hands-on knowledge of smartphone hardware, software troubleshooting, and common repair techniques used in Indian mobile service centers. Start your career in one of India's fastest-growing electronics repair sectors.",
+  "overview_description": "This comprehensive 2-month program covers mobile phone anatomy, diagnostic procedures, component-level repairs, software troubleshooting, and customer service practices. You'll learn to handle Android and iOS devices, diagnose hardware faults, perform screen replacements, battery repairs, and charging port fixes. The course combines theoretical knowledge with practical workshop training to prepare you for real-world repair scenarios.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Mobile Phone Fundamentals & Safety Practices",
+      "week_range": "Week 1-2",
+      "hours": 16,
+      "topics": [
+        "Mobile phone evolution and types — History from 2G to 5G smartphones, different phone categories (budget, mid-range, flagship)",
+        "Basic mobile phone anatomy — Understanding motherboard, display, battery, charging port, antenna, and internal components",
+        "Safety protocols in mobile repair — Electrical safety, electrostatic discharge (ESD) prevention, tool safety, and workspace organization",
+        "Personal protective equipment (PPE) — Anti-static wrist bands, gloves, safety glasses, and proper handling techniques",
+        "Common hazards and prevention — Battery explosion risks, chemical exposure, electrical shocks, and safe disposal methods",
+        "Workplace setup and organization — Proper workbench arrangement, tool storage, component management, and cleanliness standards",
+        "Mobile phone operating systems overview — Android architecture, iOS basics, and differences between systems",
+        "Introduction to mobile repair tools — Screwdrivers, opening tools, tweezers, multimeters, and diagnostic equipment"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Mobile Phone Hardware Components & Diagnostics",
+      "week_range": "Week 2-3",
+      "hours": 18,
+      "topics": [
+        "Display technology and types — LCD, AMOLED, IPS screens, resolution standards, and common display issues in Indian market phones",
+        "Battery technology and specifications — Lithium-ion, capacity measurement (mAh), voltage ratings, and battery health assessment",
+        "Charging systems and ports — USB Type-C, Micro USB, Lightning connectors, wireless charging, and fast charging technologies",
+        "Processor and RAM function — Understanding CPU, GPU, RAM types (LPDDR), and their role in phone performance",
+        "Storage systems — Internal storage types (eMMC, UFS), microSD cards, and storage-related problems",
+        "Camera modules and sensors — Front and rear camera components, image sensors, and common camera malfunctions",
+        "Audio systems — Speaker types, microphone placement, audio jack components, and sound-related issues",
+        "Diagnostic tools and testing — Multimeters, thermal imaging, battery testers, and software diagnostic apps",
+        "Using diagnostic software — AIDA64, CPU-Z, phone manufacturer diagnostic tools, and interpreting test results",
+        "Identifying hardware faults — Visual inspection techniques, fault detection methods, and creating repair estimates",
+        "Component-level identification — Reading circuit board labels, understanding component placement, and recognizing IC chips",
+        "Power delivery systems — Understanding voltage regulation, power distribution on motherboards, and short circuit detection"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Screen Replacement & Display Repairs",
+      "week_range": "Week 3-4",
+      "hours": 20,
+      "topics": [
+        "Display disassembly techniques — Safe screen removal using heat guns, opening tools, and adhesive solvents",
+        "Screen glass removal and replacement — Separating digitizer from LCD, handling fragile components, and avoiding further damage",
+        "LCD panel repair procedures — Checking for internal damage, cleaning LCD surfaces, and replacing faulty panels",
+        "Touch screen calibration — Post-replacement calibration, sensitivity adjustments, and testing touch response",
+        "Screen adhesive application — Using proper adhesives (B7000, LOCA), applying even pressure, and curing times",
+        "Common display problems — Dead pixels, color bleeding, unresponsive touch, and ghost touches",
+        "Waterproofing after screen replacement — Proper sealing techniques, gasket placement, and testing water resistance",
+        "Popular phone models screen replacement — Samsung Galaxy series, Redmi, Realme, OnePlus, and iPhone screen replacement procedures",
+        "Screen quality assessment — Identifying original vs. refurbished screens, quality testing, and customer communication",
+        "Troubleshooting display issues — Brightness problems, flickering screens, color distortion, and connector issues",
+        "Curved and notch display handling — Special techniques for curved edges, notch displays, and edge-to-edge screens",
+        "Cost estimation for screen repairs — Understanding pricing in Indian market, supplier relationships, and profit margins"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Battery, Charging & Power System Repairs",
+      "week_range": "Week 4-5",
+      "hours": 18,
+      "topics": [
+        "Battery removal and installation — Proper battery extraction, handling precautions, and safe installation procedures",
+        "Battery health assessment — Using battery diagnostic apps, understanding battery health percentage, and degradation signs",
+        "Charging port repair and replacement — Cleaning corroded ports, micro-soldering damaged ports, and replacing USB connectors",
+        "Charging cable issues — Identifying faulty cables, testing with multimeters, and understanding charging standards",
+        "Power button repair — Cleaning, replacement, and troubleshooting power-related issues",
+        "Battery swelling and explosion prevention — Identifying swollen batteries, safe removal procedures, and disposal methods",
+        "Wireless charging troubleshooting — Coil testing, alignment issues, and foreign object detection",
+        "Fast charging problems — Recognizing incompatible chargers, voltage regulation issues, and device temperature management",
+        "Battery replacement for popular models — Samsung, Xiaomi, Oppo, Vivo, Apple, and other Indian market phones",
+        "Power management IC (PMIC) understanding — Role of power management chips, common failures, and heat-related issues",
+        "Thermal management — Heat dissipation techniques, thermal paste application, and preventing overheating",
+        "Testing charging systems — Using multimeters, testing voltage output, and current measurement for safety verification"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Software Troubleshooting & Mobile OS Management",
+      "week_range": "Week 5-6",
+      "hours": 18,
+      "topics": [
+        "Android operating system basics — File structure, system partitions, and boot process understanding",
+        "iOS operating system basics — iOS architecture, file management, and iOS-specific features",
+        "Bootloader and recovery mode — Accessing recovery, fastboot mode, and safe mode on different phones",
+        "Factory reset procedures — Complete data wipe, factory reset methods, and data backup importance",
+        "ROM flashing and custom ROMs — Understanding ROM files, flashing procedures, and risks of custom ROMs",
+        "Stock ROM installation — Finding official ROMs, flashing stock firmware, and reverting from custom ROMs",
+        "Common software issues — Freezing, lagging, app crashes, and system errors troubleshooting",
+        "Malware and virus removal — Identifying infected devices, removing malware safely, and preventing infections",
+        "Software update procedures — System updates, security patches, and update-related issues",
+        "Backup and data recovery — Cloud backups, local backups, and data recovery from damaged devices",
+        "Performance optimization — Clearing cache, managing storage, disabling unnecessary apps, and RAM management",
+        "IMEI and software authentication — Understanding IMEI numbers, device verification, and avoiding counterfeit devices"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Business Operations & Customer Service Excellence",
+      "week_range": "Week 6-8",
+      "hours": 30,
+      "topics": [
+        "Mobile repair shop setup — Workspace design, tool investment, spare parts sourcing, and initial capital requirements in India",
+        "Supplier relationships and sourcing — Finding reliable spare parts suppliers, quality verification, and cost management",
+        "Inventory management — Tracking spare parts, managing stock levels, and reducing wastage",
+        "Pricing strategies — Cost calculation, competitive pricing in Indian markets, and profit margin management",
+        "Customer communication skills — Explaining technical issues in simple language, managing expectations, and building trust",
+        "Warranty and after-sales service — Providing warranties, handling complaints, and maintaining customer relationships",
+        "Documentation and record keeping — Service records, warranty cards, customer data management, and GST compliance",
+        "Diagnostic and repair estimates — Creating accurate estimates, communicating delays, and transparent pricing",
+        "Quality assurance and testing — Final testing procedures, ensuring repairs work properly, and customer satisfaction",
+        "Handling difficult customers — Problem resolution, refund policies, and maintaining professionalism",
+        "Building reputation online — Google reviews, social media presence, and word-of-mouth marketing",
+        "Legal and compliance requirements — GST registration, warranty laws in India, consumer protection, and insurance considerations",
+        "Time management and efficiency — Scheduling repairs, managing workload, and meeting customer deadlines"
+      ]
+    }
+  ],
+  "assessment": {
+    "theory_marks": 50,
+    "theory_format": "25 Questions x 2 Marks (Multiple Choice & Short Answer)",
+    "theory_duration": "45 minutes",
+    "practical_marks": 50,
+    "practical_format": "Hands-on repair demonstrations and component identification tasks under supervised conditions",
+    "practical_items": [
+      {
+        "title": "Screen Replacement Practical",
+        "description": "Candidate must successfully disassemble a mobile phone, replace a damaged display screen, reassemble, and test touch functionality. Evaluation based on proper technique, time taken, and final working condition.",
+        "marks": 15
+      },
+      {
+        "title": "Battery Replacement & Power System Diagnosis",
+        "description": "Candidate must safely remove and replace a mobile phone battery, test charging functionality using multimeter, diagnose charging port issues, and document findings in a service report.",
+        "marks": 15
+      },
+      {
+        "title": "Hardware Fault Diagnosis & Component Identification",
+        "description": "Candidate must identify various mobile phone components on a circuit board, diagnose hardware faults using diagnostic tools, and create a repair estimate with proper documentation.",
+        "marks": 10
+      },
+      {
+        "title": "Software Troubleshooting & OS Management",
+        "description": "Candidate must troubleshoot software issues, perform factory reset, flash stock firmware if needed, and resolve common OS-related problems on both Android and iOS devices.",
+        "marks": 10
+      }
+    ],
+    "total_marks": 100,
+    "pass_percentage": 50
+  },
+  "eligibility": [
+    "Minimum age: 14 years (or as per local regulations)",
+    "Minimum education: Class 8th pass or equivalent",
+    "No prior mobile repair experience required",
+    "Already working as mobile technician? Apply for Recognition of Prior Learning (RPL) direct exam",
+    "Valid photo ID proof required (Aadhaar, Voter ID, Passport, or PAN)",
+    "Open for all Indian citizens and foreign nationals with valid visa",
+    "Medical fitness: No serious hand tremors or vision problems that prevent detailed work",
+    "Basic English/Hindi language understanding for safety and technical documentation"
+  ],
+  "learning_outcomes": [
+    "Identify and understand all major mobile phone components and their functions correctly",
+    "Perform safe disassembly and reassembly of mobile phones following proper procedures",
+    "Diagnose hardware faults using appropriate tools and diagnostic methods accurately",
+    "Execute screen replacement, battery replacement, and charging port repairs professionally",
+    "Troubleshoot software issues and manage mobile operating systems effectively",
+    "Provide excellent customer service and maintain proper repair documentation and records",
+    "Apply safety protocols to prevent electrical hazards and component damage consistently",
+    "Create accurate repair estimates and manage mobile repair shop operations efficiently"
+  ],
+  "career_paths": [
+    {
+      "title": "Mobile Repair Technician (Service Center)",
+      "type": "Employment",
+      "salary": "12000-28000/month",
+      "icon": "🏢"
+    },
+    {
+      "title": "Authorized Service Center Manager",
+      "type": "Employment",
+      "salary": "20000-45000/month",
+      "icon": "👔"
+    },
+    {
+      "title": "Independent Mobile Repair Shop Owner",
+      "type": "Self-Employment",
+      "salary": "25000-80000/month",
+      "icon": "🏪"
+    },
+    {
+      "title": "Mobile Parts Supplier/Distributor",
+      "type": "Entrepreneurship",
+      "salary": "30000-100000/month",
+      "icon": "📦"
+    },
+    {
+      "title": "Mobile Device Technician (Corporate)",
+      "type": "Employment",
+      "salary": "15000-35000/month",
+      "icon": "💼"
+    },
+    {
+      "title": "Mobile Repair Trainer/Instructor",
+      "type": "Employment",
+      "salary": "18000-40000/month",
+      "icon": "👨‍🏫"
+    },
+    {
+      "title": "Warranty Service Technician",
+      "type": "Employment",
+      "salary": "14000-32000/month",
+      "icon": "✓"
+    },
+    {
+      "title": "Mobile Repair Franchise Owner",
+      "type": "Entrepreneurship",
+      "salary": "40000-120000/month",
+      "icon": "🌟"
+    }
+  ],
+  "exam_fee": 1000,
+  "additional_information": {
+    "industry_demand": "Mobile phone repair is one of India's fastest-growing sectors with over 50 crore smartphones in use. Demand for skilled technicians is increasing by 25% annually across metros, tier-2, and tier-3 cities.",
+    "market_overview": "India's mobile repair market is valued at ₹8000+ crores with opportunities in authorized service centers, independent shops, and e-commerce repair services. Growing smartphone penetration in rural areas creates additional opportunities.",
+    "job_market_areas": "Delhi, Mumbai, Bangalore, Hyderabad, Chennai, Pune, Kolkata, Jaipur, Ahmedabad, and smaller cities all have strong demand for mobile technicians.",
+    "tools_investment": "Initial tool kit costs ₹8000-15000. Complete workshop setup (with spare parts inventory) requires ₹2-5 lakhs for independent business.",
+    "certification_benefits": "CETCF certification improves employability by 40%, enables shop registration for warranty services, and supports government scheme eligibility for self-employment loans.",
+    "further_advancement": "After this foundation course, candidates can pursue Advanced Mobile Repair (Level 2), Tablet & Laptop Repair, or Electronics Technician certifications.",
+    "placement_support": "Graduates can connect with 500+ authorized service centers, franchise opportunities, and corporate device management companies across India."
+  }
+}

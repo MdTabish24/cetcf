@@ -1,0 +1,235 @@
+{
+  "course_name": "DTH & Cable TV Technician",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_weeks": 4,
+  "total_hours": 60,
+  "hero_description": "Master the skills to install, maintain, and troubleshoot DTH and Cable TV systems across India. This foundation course trains you to become a certified technician capable of handling customer installations, signal quality checks, and technical repairs in the rapidly growing broadcast television sector.",
+  "overview_description": "This 1-month intensive program covers complete DTH and Cable TV technology, from basic concepts to hands-on installation and maintenance. You will learn about satellite signals, cable distribution networks, set-top boxes, dish alignment, and customer service practices used by major operators like Tata Sky, Airtel Digital TV, and local cable providers throughout India.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Fundamentals of DTH & Cable TV Systems",
+      "week_range": "Week 1",
+      "hours": 15,
+      "topics": [
+        "Introduction to DTH (Direct-to-Home) technology — satellite-based TV delivery system working principles",
+        "Cable TV network basics — cable distribution, headend systems, and signal transmission over coaxial cables",
+        "Difference between DTH and Cable TV — comparison of service models, coverage, and customer base in India",
+        "Broadcasting standards in India — PAL/NTSC formats, digital standards, and regulatory framework by Ministry of Information & Broadcasting",
+        "Frequency bands and spectrum allocation — C-band, Ku-band usage, and Indian satellite positions (INSAT series)",
+        "Signal flow diagram — from satellite/headend to customer TV set, understanding each component's role",
+        "Role of set-top boxes — analog vs digital STBs, encryption, and conditional access systems",
+        "Major DTH and Cable operators in India — Tata Sky, Airtel Digital TV, Dish TV, Den Networks, and local cable operators",
+        "Safety regulations and standards — electrical safety, RF radiation limits, and TRAI guidelines for technicians"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "DTH System Components & Installation Hardware",
+      "week_range": "Week 1-2",
+      "hours": 15,
+      "topics": [
+        "Satellite dish types and specifications — dish sizes (60cm, 75cm, 90cm), gain calculations, and Indian weather considerations",
+        "Dish mounting structures — wall mount, pole mount, roof mount, and structural load calculations for Indian homes",
+        "LNB (Low Noise Block) converter — types, frequency conversion, noise figure, and polarization (vertical/horizontal)",
+        "Coaxial cables — RG-6, RG-59 specifications, impedance (75 ohms), shielding quality, and Indian brand standards",
+        "Connectors and adapters — F-type connectors, BNC, RCA types, crimping techniques, and waterproofing for Indian monsoon",
+        "Set-top box types — HD boxes, 4K boxes, recording boxes, and compatibility with different TV models",
+        "Cable distribution amplifiers — signal boosters, specifications, power requirements, and placement in cable networks",
+        "Grounding and earthing systems — lightning protection, bonding requirements, and safety for rooftop installations",
+        "Cable splitters and combiners — passive components, insertion loss, return loss, and proper usage in home networks",
+        "Power supply systems — backup power needs, UPS requirements for DTH headends, and customer premises equipment",
+        "Installation tools and equipment — signal meter, multimeter, cable stripper, crimper, compass, inclinometer, and measurement tape"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "DTH Dish Alignment & Signal Reception",
+      "week_range": "Week 2",
+      "hours": 15,
+      "topics": [
+        "Satellite positioning — orbital slots of Indian satellites (INSAT 4A, 4B, 4CR at 93.5°E, 55°E, 74°E), azimuth and elevation calculations",
+        "Geographical coordinates and dish pointing — latitude/longitude of Indian cities, elevation angle formulas for different regions",
+        "Compass usage and magnetic declination — true north vs magnetic north, declination values for Indian cities",
+        "Elevation angle calculation — step-by-step procedure using satellite position and customer location",
+        "Azimuth angle calculation — directional finding using compass and mathematical formulas specific to Indian geography",
+        "Dish alignment procedure — step-by-step installation, fine-tuning for maximum signal strength",
+        "Signal strength measurement — using signal meter, reading dBm values, acceptable signal levels (above -65 dBm for good reception)",
+        "Signal quality assessment — BER (Bit Error Rate), MER (Modulation Error Ratio), and visual quality checks",
+        "Polarization adjustment — vertical and horizontal polarization, skew angle adjustment for Indian satellite positions",
+        "Weather impact on signals — rain fade, cloud cover effects in different Indian regions, seasonal variations",
+        "Troubleshooting weak signals — repositioning dish, checking connections, LNB replacement, and cable damage assessment",
+        "Documentation and customer handover — signal strength records, dish orientation details, and maintenance guidelines"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Cable TV Network Installation & Maintenance",
+      "week_range": "Week 2-3",
+      "hours": 15,
+      "topics": [
+        "Cable TV network architecture — headend, trunk lines, distribution lines, drop lines, and tap points in Indian cable networks",
+        "Headend equipment — signal reception, modulation, multiplexing, and scrambling systems used by Indian cable operators",
+        "Cable distribution planning — network design for residential societies, commercial areas, and rural Indian villages",
+        "Trunk cable installation — laying underground cables, aerial cable routes, and protection against theft in Indian context",
+        "Tap installation and connection — signal splitting, subscriber connection points, and indoor wiring standards",
+        "In-home cable wiring — routing cables through walls, use of conduits, wall-mounted boxes, and aesthetic considerations",
+        "Signal level optimization — maintaining proper signal levels at each tap point, amplifier placement and settings",
+        "Cable splitter and combiner usage — passive vs active components, proper impedance matching, and cascade limitations",
+        "Grounding and bonding in cable networks — safety standards, lightning protection, and compliance with electrical codes",
+        "Cable maintenance schedules — regular signal checks, amplifier servicing, corrosion prevention, and seasonal maintenance",
+        "Subscriber connection and disconnection — proper procedures, documentation, and security sealing of connections",
+        "Billing and customer management — connection documentation, service activation, and disconnect procedures"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Set-Top Box Configuration & Troubleshooting",
+      "week_range": "Week 3",
+      "hours": 10,
+      "topics": [
+        "Set-top box types and models — understanding different STB models from major manufacturers, Indian market variants",
+        "Initial setup and activation — unpacking, connection to TV and power, first-time boot procedures",
+        "Menu navigation and basic settings — language selection, picture settings, audio configuration, and regional preferences",
+        "Channel scanning and tuning — auto-scan procedures, manual channel addition, favorite channel management",
+        "Conditional Access System (CAS) — smart card insertion, activation procedures, and understanding encryption",
+        "Subscription and recharge — online recharge methods, balance checking, package selection for Indian operators",
+        "Remote control operation — standard functions, learning remote codes, and troubleshooting non-responsive remotes",
+        "Video output options — HDMI, composite video, RF output selection based on TV type and cable quality",
+        "Audio output configuration — stereo, surround sound, and audio sync issues with older TV sets",
+        "Common STB problems — no signal, no picture, no sound, frozen screen, and step-by-step troubleshooting procedures",
+        "Software updates and firmware — when and how to update, common update issues, and rollback procedures",
+        "Customer support and warranty — understanding warranty terms, service center locations in India, and complaint registration"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Professional Skills, Safety & Career Development",
+      "week_range": "Week 3-4",
+      "hours": 10,
+      "topics": [
+        "Electrical safety fundamentals — understanding voltage, current, grounding, and protection against electric shock",
+        "RF radiation safety — understanding electromagnetic fields, safe exposure limits, and protective measures for technicians",
+        "Height and fall safety — working on rooftops and poles, safety harness usage, and accident prevention protocols",
+        "Customer communication skills — explaining technical concepts in simple language, handling complaints professionally",
+        "Work ethics and punctuality — reliability, honesty in diagnosis, and building customer trust in Indian market",
+        "Documentation and record-keeping — maintaining installation records, service logs, and customer contact information",
+        "Entrepreneurship opportunities — starting own DTH/Cable service business, franchise models, and local market analysis",
+        "Licensing and certification — CETCF certification benefits, renewal procedures, and industry recognition in India",
+        "Continuous learning — staying updated with technology changes, attending refresher courses, and professional development",
+        "Quality assurance practices — checking installation quality, customer satisfaction surveys, and feedback handling"
+      ]
+    }
+  ],
+  "assessment": {
+    "theory_marks": 50,
+    "theory_format": "25 Questions x 2 Marks each",
+    "theory_duration": "45 minutes",
+    "practical_marks": 50,
+    "practical_format": "Hands-on assessment of DTH installation, cable connections, signal measurement, and troubleshooting capabilities",
+    "practical_items": [
+      {
+        "title": "DTH Dish Installation & Alignment",
+        "description": "Candidate must install a satellite dish, calculate correct azimuth and elevation angles for a given location, align the dish properly, and achieve signal strength above -65 dBm. Assessment includes dish mounting, LNB connection, cable routing, and documentation of signal measurements.",
+        "marks": 15
+      },
+      {
+        "title": "Cable TV Connection & Wiring",
+        "description": "Candidate must perform proper in-home cable wiring, install connectors, use splitters correctly, and ensure proper signal levels at the TV set. Assessment includes cable routing, connector crimping, grounding, and final signal quality verification.",
+        "marks": 12
+      },
+      {
+        "title": "Set-Top Box Configuration",
+        "description": "Candidate must unpack and set up a set-top box, connect it to TV and power supply, perform channel scanning, activate subscription, and demonstrate basic menu navigation and troubleshooting of common STB issues.",
+        "marks": 10
+      },
+      {
+        "title": "Fault Diagnosis & Troubleshooting",
+        "description": "Candidate must diagnose simulated faults (weak signal, no picture, no sound, frozen screen) and provide correct solutions using signal meter and basic tools. Assessment includes identifying root causes and implementing appropriate fixes.",
+        "marks": 13
+      }
+    ],
+    "total_marks": 100,
+    "pass_percentage": 50
+  },
+  "eligibility": [
+    "Minimum age: 14 years (with parental consent if below 18)",
+    "Minimum education: Class 8th pass or equivalent",
+    "No prior experience in DTH/Cable TV required",
+    "Already working as technician? Apply for RPL (Recognition of Prior Learning) direct exam",
+    "Valid government ID proof required (Aadhar, PAN, Driving License, or Passport)",
+    "Medical fitness certificate for safety-sensitive work (optional but recommended)",
+    "Applicable for all Indian citizens and registered foreign nationals"
+  ],
+  "learning_outcomes": [
+    "Install and configure DTH satellite dishes with proper azimuth and elevation angles for Indian satellite positions",
+    "Perform complete cable TV network connections and in-home wiring with correct signal levels and grounding",
+    "Measure and optimize signal strength using signal meters and achieve acceptable reception quality standards",
+    "Set up, activate, and troubleshoot set-top boxes and resolve common customer issues independently",
+    "Apply electrical and RF safety practices and work safely at heights during rooftop installations",
+    "Provide professional customer service, maintain documentation, and support business growth in DTH/Cable sector"
+  ],
+  "career_paths": [
+    {
+      "title": "DTH Installation Technician",
+      "type": "Employment",
+      "salary": "12000-22000/month",
+      "icon": "🛰️"
+    },
+    {
+      "title": "Cable TV Network Technician",
+      "type": "Employment",
+      "salary": "11000-20000/month",
+      "icon": "📡"
+    },
+    {
+      "title": "Field Service Engineer",
+      "type": "Employment",
+      "salary": "15000-28000/month",
+      "icon": "🔧"
+    },
+    {
+      "title": "Independent DTH Service Provider",
+      "type": "Self-Employment",
+      "salary": "20000-50000/month",
+      "icon": "💼"
+    },
+    {
+      "title": "Local Cable Operator",
+      "type": "Entrepreneurship",
+      "salary": "30000-100000/month",
+      "icon": "🏢"
+    },
+    {
+      "title": "DTH Franchise Partner",
+      "type": "Entrepreneurship",
+      "salary": "25000-75000/month",
+      "icon": "🤝"
+    },
+    {
+      "title": "Technical Support Executive",
+      "type": "Employment",
+      "salary": "13000-24000/month",
+      "icon": "☎️"
+    },
+    {
+      "title": "Network Maintenance Supervisor",
+      "type": "Employment",
+      "salary": "18000-35000/month",
+      "icon": "👨‍💼"
+    }
+  ],
+  "exam_fee": 1000,
+  "additional_info": {
+    "certification_validity": "3 years from date of issue",
+    "renewal_procedure": "Refresher course or direct exam after 3 years",
+    "industry_partners": "Tata Sky, Airtel Digital TV, Dish TV, Den Networks, Hathway, local cable operators across India",
+    "job_market_outlook": "High demand for DTH and Cable TV technicians across India with 20+ million active subscribers. Growing 5G and broadband adoption creating additional opportunities in hybrid networks.",
+    "average_installation_fee_india": "DTH installation: ₹500-1500, Cable connection: ₹300-800, Service calls: ₹200-500",
+    "regional_considerations": "Different Indian regions have varying satellite coverage, weather patterns, and local cable network structures. Technicians should be familiar with local geography and operator-specific procedures.",
+    "language_support": "Training available in Hindi and English. All major operators provide technician support in regional languages.",
+    "tools_cost_estimate": "Basic toolkit (meter, crimper, stripper, cables): ₹3000-5000. Professional toolkit: ₹8000-15000"
+  }
+}

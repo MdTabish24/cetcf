@@ -1,321 +1,334 @@
-import { useEffect, useState } from 'react';
-import type { FormEvent } from 'react';
-import { partnerForm } from '../data/mockupContent';
-import { partnerApi, tradeApi } from '../services/api';
+import { useState, useEffect } from 'react';
+import api, { getUser, setToken, setUser, clearToken } from '../services/api';
 
-type TradeOption = {
-  id: number;
-  name: string;
-};
-
-function PartnerPage() {
-  const [form, setForm] = useState({
-    org_name: '',
-    contact_name: '',
-    mobile: '',
-    org_type: partnerForm.fields.find((field) => field.type === 'select')?.options?.[0] || '',
-    email: '',
-    state: '',
-    district: '',
-    address: '',
-    expected_monthly_students: '',
-    password: '',
+export default function PartnerPage() {
+  const [user, setLocalUser] = useState(getUser());
+  
+  // Marketing Form State
+  const [formData, setFormData] = useState({
+    name: '', phone: '', email: '', city: '', state: '', centerName: '', message: '',
   });
-  const [trades, setTrades] = useState<TradeOption[]>([]);
-  const [selectedTrades, setSelectedTrades] = useState<number[]>([]);
-  const [loadingTrades, setLoadingTrades] = useState(true);
-  const [submitting, setSubmitting] = useState(false);
-  const [message, setMessage] = useState<{ type: 'success' | 'error'; text: string } | null>(null);
+
+  // Login State
+  const [loginPhone, setLoginPhone] = useState('');
+  const [loginPassword, setLoginPassword] = useState('');
+  const [loginError, setLoginError] = useState('');
+  const [isLoginView, setIsLoginView] = useState(false);
+
+  // Dashboard State
+  const [activeTab, setActiveTab] = useState('dashboard');
+  const [loading, setLoading] = useState(false);
+  const [data, setData] = useState<any>(null);
+
+  const isPartner = user && user.role === 'partner';
 
   useEffect(() => {
-    let mounted = true;
-
-    async function loadTrades() {
-      setLoadingTrades(true);
-      const response = await tradeApi.list();
-
-      if (!mounted) return;
-
-      if (response.success && Array.isArray(response.trades)) {
-        const tradeRows = response.trades as Array<Record<string, unknown>>;
-        const mapped = tradeRows
-          .map((trade) => ({
-            id: Number(trade.id),
-            name: String(trade.name || ''),
-          }))
-          .filter((trade) => trade.id > 0 && trade.name);
-
-        setTrades(mapped);
-        setSelectedTrades(mapped[0] ? [mapped[0].id] : []);
-      } else {
-        setTrades([]);
-      }
-
-      setLoadingTrades(false);
+    if (isPartner) {
+      fetchData();
     }
+  }, [isPartner, activeTab]);
 
-    loadTrades().catch(() => {
-      if (!mounted) return;
-      setLoadingTrades(false);
-      setMessage({ type: 'error', text: 'Failed to load trades. Please refresh and try again.' });
-    });
+  const fetchData = async () => {
+    setLoading(true);
+    setData(null);
+    try {
+      if (activeTab === 'dashboard') {
+        const res = await api.partners.getDashboard();
+        if (res.success) setData(res.data || res.dashboard);
+      } else if (activeTab === 'batches') {
+        const res = await api.partners.getBatches();
+        if (res.success) setData(res.batches);
+      } else if (activeTab === 'earnings') {
+        const res = await api.partners.getEarnings();
+        if (res.success) setData(res.earnings);
+      }
+    } catch (e) {
+      console.error(e);
+    }
+    setLoading(false);
+  };
 
-    return () => {
-      mounted = false;
-    };
-  }, []);
+  const handleApply = async (e: React.FormEvent) => {
+    e.preventDefault();
+    try {
+      const res = await api.partners.register(formData);
+      if (res.success) {
+        alert('Application submitted successfully! We will contact you soon.');
+        setFormData({ name: '', phone: '', email: '', city: '', state: '', centerName: '', message: '' });
+      } else {
+        alert(res.message || 'Application failed');
+      }
+    } catch (err) {
+      alert('Network error');
+    }
+  };
 
-  function updateField(name: string, value: string) {
-    setForm((prev) => ({ ...prev, [name]: value }));
-  }
+  const handleLogin = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setLoginError('');
+    try {
+      const res = await api.auth.partnerLogin(loginPhone, loginPassword);
+      if (res.success) {
+        setToken(res.token as string);
+        setUser(res.user as any);
+        setLocalUser(res.user as any);
+      } else {
+        setLoginError(res.message || 'Login failed');
+      }
+    } catch (err) {
+      setLoginError('Network error');
+    }
+  };
 
-  function toggleTrade(tradeId: number) {
-    setSelectedTrades((prev) =>
-      prev.includes(tradeId) ? prev.filter((id) => id !== tradeId) : [...prev, tradeId]
+  const handleLogout = () => {
+    clearToken();
+    setLocalUser(null);
+  };
+
+  if (isPartner) {
+    return (
+      <div style={{ display: 'flex', minHeight: '100vh', background: '#f8fafc' }}>
+        {/* Sidebar */}
+        <aside style={{ width: '250px', background: 'var(--navy)', color: '#fff', padding: '24px 0', position: 'relative' }}>
+          <div style={{ padding: '0 24px', marginBottom: '32px' }}>
+            <h2 style={{ fontSize: '20px', color: 'var(--gold)' }}>AAC Portal</h2>
+            <p style={{ fontSize: '12px', opacity: 0.7 }}>{(user as any)?.name}</p>
+          </div>
+          <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+            {['dashboard', 'enroll', 'batches', 'earnings'].map(tab => (
+              <li key={tab}>
+                <button
+                  onClick={() => setActiveTab(tab)}
+                  style={{
+                    width: '100%', textAlign: 'left', padding: '12px 24px',
+                    background: activeTab === tab ? 'rgba(255,255,255,0.1)' : 'transparent',
+                    border: 'none', color: activeTab === tab ? 'var(--gold)' : '#fff',
+                    cursor: 'pointer', textTransform: 'capitalize', fontSize: '15px'
+                  }}
+                >
+                  {tab}
+                </button>
+              </li>
+            ))}
+          </ul>
+          <div style={{ position: 'absolute', bottom: '24px', left: '24px' }}>
+            <button onClick={handleLogout} className="btn btn-sm btn-outline" style={{ color: '#fff', borderColor: 'rgba(255,255,255,0.2)' }}>
+              Logout
+            </button>
+          </div>
+        </aside>
+
+        {/* Main Content */}
+        <main style={{ flex: 1, padding: '32px' }}>
+          <h1 style={{ fontSize: '24px', color: 'var(--navy)', textTransform: 'capitalize', marginBottom: '24px' }}>
+            {activeTab} Overview
+          </h1>
+
+          {loading ? (
+            <div>Loading data...</div>
+          ) : (
+            <div>
+              {/* Dashboard Tab */}
+              {activeTab === 'dashboard' && data && (
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '16px' }}>
+                  <div className="card" style={{ padding: '24px' }}>
+                    <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Total Enrolled</div>
+                    <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--navy)' }}>{data.total_candidates || 0}</div>
+                  </div>
+                  <div className="card" style={{ padding: '24px' }}>
+                    <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Active Batches</div>
+                    <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--navy)' }}>{data.total_batches || 0}</div>
+                  </div>
+                  <div className="card" style={{ padding: '24px' }}>
+                    <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Certificates Issued</div>
+                    <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--success)' }}>{data.total_certificates || 0}</div>
+                  </div>
+                  <div className="card" style={{ padding: '24px' }}>
+                    <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Total Earnings</div>
+                    <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--gold)' }}>₹{data.total_earnings || 0}</div>
+                  </div>
+                </div>
+              )}
+
+              {/* Enroll Tab */}
+              {activeTab === 'enroll' && (
+                <div className="card" style={{ padding: '32px', maxWidth: '600px' }}>
+                  <h3 style={{ marginBottom: '16px' }}>Enroll Candidate</h3>
+                  <p style={{ fontSize: '13px', color: 'var(--muted)', marginBottom: '24px' }}>
+                    Use the bulk enrollment feature to upload an Excel file of your students, or contact admin for API integration.
+                  </p>
+                  <button className="btn btn-gold" onClick={() => alert('Bulk Excel Enrollment coming soon!')}>
+                    Upload Bulk Excel
+                  </button>
+                </div>
+              )}
+
+              {/* Batches Tab */}
+              {activeTab === 'batches' && data && (
+                <div className="card" style={{ padding: '24px', overflowX: 'auto' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '16px' }}>
+                    <h3 style={{ fontSize: '16px' }}>Your Batches</h3>
+                    <button className="btn btn-sm btn-gold">Create Batch</button>
+                  </div>
+                  <table style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse' }}>
+                    <thead>
+                      <tr style={{ borderBottom: '1px solid #eee' }}>
+                        <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Batch Name</th>
+                        <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Trade</th>
+                        <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Students</th>
+                        <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Status</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {data.map((b: any) => (
+                        <tr key={b.id} style={{ borderBottom: '1px solid #f8f9fa' }}>
+                          <td style={{ padding: '12px', fontSize: '14px', fontWeight: 600 }}>{b.name}</td>
+                          <td style={{ padding: '12px', fontSize: '14px' }}>{b.trade_name}</td>
+                          <td style={{ padding: '12px', fontSize: '14px' }}>{b.student_count}</td>
+                          <td style={{ padding: '12px', fontSize: '14px' }}>{b.status}</td>
+                        </tr>
+                      ))}
+                      {data.length === 0 && <tr><td colSpan={4} style={{ padding: '24px', textAlign: 'center' }}>No batches found</td></tr>}
+                    </tbody>
+                  </table>
+                </div>
+              )}
+
+              {/* Earnings Tab */}
+              {activeTab === 'earnings' && data && (
+                <div className="card" style={{ padding: '24px', overflowX: 'auto' }}>
+                   <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '16px' }}>
+                    <h3 style={{ fontSize: '16px' }}>Commission Payouts</h3>
+                  </div>
+                  <table style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse' }}>
+                    <thead>
+                      <tr style={{ borderBottom: '1px solid #eee' }}>
+                        <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Date</th>
+                        <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Amount</th>
+                        <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Status</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {data.map((e: any) => (
+                        <tr key={e.id} style={{ borderBottom: '1px solid #f8f9fa' }}>
+                          <td style={{ padding: '12px', fontSize: '14px' }}>{new Date(e.date).toLocaleDateString()}</td>
+                          <td style={{ padding: '12px', fontSize: '14px', fontWeight: 600, color: 'var(--success)' }}>₹{e.amount}</td>
+                          <td style={{ padding: '12px', fontSize: '14px' }}>{e.status}</td>
+                        </tr>
+                      ))}
+                      {data.length === 0 && <tr><td colSpan={3} style={{ padding: '24px', textAlign: 'center' }}>No earning records found</td></tr>}
+                    </tbody>
+                  </table>
+                </div>
+              )}
+            </div>
+          )}
+        </main>
+      </div>
     );
   }
 
-  async function handleSubmit(e: FormEvent<HTMLFormElement>) {
-    e.preventDefault();
-    setMessage(null);
-
-    if (!form.org_name || !form.contact_name || !form.mobile || !form.org_type || !form.state) {
-      setMessage({ type: 'error', text: 'Please fill all required fields marked with *.' });
-      return;
-    }
-
-    if (!/^[6-9]\d{9}$/.test(form.mobile.trim())) {
-      setMessage({ type: 'error', text: 'Please enter a valid 10-digit Indian mobile number.' });
-      return;
-    }
-
-    if (!selectedTrades.length) {
-      setMessage({ type: 'error', text: 'Please select at least one trade of interest.' });
-      return;
-    }
-
-    setSubmitting(true);
-    const response = await partnerApi.register({
-      org_name: form.org_name.trim(),
-      org_type: form.org_type,
-      contact_name: form.contact_name.trim(),
-      mobile: form.mobile.trim(),
-      email: form.email.trim() || undefined,
-      state: form.state.trim(),
-      district: form.district.trim() || undefined,
-      address: form.address.trim() || undefined,
-      interested_trades: selectedTrades,
-      expected_monthly_students: form.expected_monthly_students
-        ? Number(form.expected_monthly_students)
-        : undefined,
-      password: form.password || undefined,
-    });
-    setSubmitting(false);
-
-    if (response.success) {
-      setMessage({ type: 'success', text: String(response.message || 'Application submitted successfully.') });
-      setForm((prev) => ({
-        ...prev,
-        org_name: '',
-        contact_name: '',
-        mobile: '',
-        email: '',
-        state: '',
-        district: '',
-        address: '',
-        expected_monthly_students: '',
-        password: '',
-      }));
-      return;
-    }
-
-    setMessage({ type: 'error', text: String(response.message || 'Registration failed. Please try again.') });
-  }
-
+  // Not logged in -> Show Marketing / Login
   return (
-    <div className="page">
-      <section className="page-hero">
-        <div className="breadcrumb">Home &gt; <span>Become a Partner</span></div>
-        <h1>{partnerForm.title}</h1>
-        <p>{partnerForm.subtitle}</p>
-      </section>
-
-      <section className="section">
-        <div className="partner-layout">
-          <div className="partner-form">
-            <div className="section-title">Partner Registration Form</div>
-            <form className="form-stack" onSubmit={handleSubmit}>
-              <div>
-                <label>Institute / Center Name *</label>
-                <input
-                  className="cert-input"
-                  placeholder="e.g. ABC Beauty Academy, Pune"
-                  type="text"
-                  value={form.org_name}
-                  onChange={(e) => updateField('org_name', e.target.value)}
-                />
-              </div>
-              <div className="form-row">
-                <div>
-                  <label>Contact Person *</label>
-                  <input
-                    className="cert-input"
-                    placeholder="Full Name"
-                    type="text"
-                    value={form.contact_name}
-                    onChange={(e) => updateField('contact_name', e.target.value)}
-                  />
-                </div>
-                <div>
-                  <label>Mobile Number *</label>
-                  <input
-                    className="cert-input"
-                    placeholder="10-digit number"
-                    type="text"
-                    maxLength={10}
-                    value={form.mobile}
-                    onChange={(e) => updateField('mobile', e.target.value.replace(/\D/g, '').slice(0, 10))}
-                  />
-                </div>
-              </div>
-              <div>
-                <label>Institute Type *</label>
-                <select
-                  className="cert-input"
-                  value={form.org_type}
-                  onChange={(e) => updateField('org_type', e.target.value)}
-                >
-                  {partnerForm.fields
-                    .find((field) => field.type === 'select')
-                    ?.options?.map((option) => (
-                      <option key={option}>{option}</option>
-                    ))}
-                </select>
-              </div>
-              <div className="form-row">
-                <div>
-                  <label>Email</label>
-                  <input
-                    className="cert-input"
-                    placeholder="name@example.com"
-                    type="email"
-                    value={form.email}
-                    onChange={(e) => updateField('email', e.target.value)}
-                  />
-                </div>
-                <div>
-                  <label>State *</label>
-                  <input
-                    className="cert-input"
-                    placeholder="e.g. Maharashtra"
-                    type="text"
-                    value={form.state}
-                    onChange={(e) => updateField('state', e.target.value)}
-                  />
-                </div>
-              </div>
-              <div className="form-row">
-                <div>
-                  <label>District</label>
-                  <input
-                    className="cert-input"
-                    placeholder="e.g. Thane"
-                    type="text"
-                    value={form.district}
-                    onChange={(e) => updateField('district', e.target.value)}
-                  />
-                </div>
-                <div>
-                  <label>Password (for partner login)</label>
-                  <input
-                    className="cert-input"
-                    placeholder="Min 6 characters"
-                    type="password"
-                    value={form.password}
-                    onChange={(e) => updateField('password', e.target.value)}
-                  />
-                </div>
-              </div>
-              <div>
-                <label>Address</label>
-                <input
-                  className="cert-input"
-                  placeholder="Institute full address"
-                  type="text"
-                  value={form.address}
-                  onChange={(e) => updateField('address', e.target.value)}
-                />
-              </div>
-              <div>
-                <label>Trades of Interest *</label>
-                {loadingTrades ? (
-                  <div className="form-note">Loading trades...</div>
-                ) : (
-                  <div className="trade-checks">
-                    {trades.length ? (
-                      trades.map((trade) => (
-                        <label key={trade.id} className="check-item">
-                          <input
-                            type="checkbox"
-                            checked={selectedTrades.includes(trade.id)}
-                            onChange={() => toggleTrade(trade.id)}
-                          />
-                          {trade.name}
-                        </label>
-                      ))
-                    ) : (
-                      <div className="form-note">No active trades available right now.</div>
-                    )}
-                  </div>
-                )}
-              </div>
-              <div>
-                <label>Expected Monthly Students</label>
-                <input
-                  className="cert-input"
-                  placeholder="e.g. 50"
-                  type="number"
-                  min={0}
-                  value={form.expected_monthly_students}
-                  onChange={(e) => updateField('expected_monthly_students', e.target.value)}
-                />
-              </div>
-              {message && (
-                <div
-                  className="form-note"
-                  style={{
-                    color: message.type === 'success' ? '#047857' : '#b91c1c',
-                    textAlign: 'left',
-                    fontSize: '12px',
-                  }}
-                >
-                  {message.text}
-                </div>
-              )}
-              <button className="btn-primary full-width" type="submit" disabled={submitting || loadingTrades}>
-                {submitting ? 'Submitting...' : partnerForm.submitLabel}
-              </button>
-              <div className="form-note">{partnerForm.note}</div>
-            </form>
-          </div>
-          <div className="partner-benefits">
-            <div className="section-title">Partner Benefits</div>
-            <div className="benefit-list">
-              {partnerForm.benefits.map((benefit) => (
-                <div key={benefit.title} className="benefit-card">
-                  <div className="benefit-icon">{benefit.icon}</div>
-                  <div>
-                    <div className="benefit-title">{benefit.title}</div>
-                    <div className="benefit-text">{benefit.detail}</div>
-                  </div>
-                </div>
-              ))}
-            </div>
+    <>
+      <section className="page-hero" id="partner-hero">
+        <div className="wrap">
+          <span className="sec-eyebrow" style={{ color: 'var(--gold-light)' }}>Partnership Program</span>
+          <h1>Become an <span style={{ color: 'var(--gold-light)' }}>Authorized Assessment Center</span></h1>
+          <p className="page-hero-sub">
+            Join CETCF's partner network. Earn commissions for every certified candidate.
+            Operate your own government-authorized assessment center in your city.
+          </p>
+          <div style={{ marginTop: '24px', display: 'flex', gap: '16px', justifyContent: 'center' }}>
+            <button className="btn btn-gold" onClick={() => setIsLoginView(false)}>Apply Now</button>
+            <button className="btn btn-outline" style={{ borderColor: 'rgba(255,255,255,0.4)', color: '#fff' }} onClick={() => setIsLoginView(true)}>
+              AAC Login
+            </button>
           </div>
         </div>
       </section>
-    </div>
+      <div className="gold-rule"></div>
+
+      <section className="section" id="partner-content">
+        <div className="wrap">
+          {isLoginView ? (
+             <div className="card" style={{ padding: '40px', maxWidth: '400px', margin: '0 auto' }}>
+              <h2 className="sec-title" style={{ textAlign: 'center', marginBottom: '24px' }}>AAC Partner Login</h2>
+              {loginError && <div style={{ color: 'red', marginBottom: '16px', fontSize: '14px', textAlign: 'center' }}>{loginError}</div>}
+              <form onSubmit={handleLogin}>
+                <div className="form-group">
+                  <label className="form-label">Registered Phone Number</label>
+                  <input type="tel" required className="form-input" value={loginPhone} onChange={e => setLoginPhone(e.target.value)} />
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Password</label>
+                  <input type="password" required className="form-input" value={loginPassword} onChange={e => setLoginPassword(e.target.value)} />
+                </div>
+                <button type="submit" className="btn btn-gold" style={{ width: '100%', marginTop: '16px' }}>Login to AAC Portal</button>
+              </form>
+             </div>
+          ) : (
+            <>
+              {/* Application Form & Benefits */}
+              <div style={{ marginBottom: '56px' }}>
+                <span className="sec-eyebrow">Why Partner With CETCF?</span>
+                <h2 className="sec-title">AAC Partner Benefits</h2>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '16px', marginTop: '32px' }}>
+                  {[
+                    { icon: '💰', title: 'Earn Per Certification', desc: 'Receive a commission for every candidate you certify.' },
+                    { icon: '🏛️', title: 'Government Recognition', desc: 'Your center operates under CETCF\'s Section 8 license.' },
+                    { icon: '📋', title: 'Ready-to-Use Exams', desc: 'We provide MCQs, online platform, and study materials.' }
+                  ].map((item, i) => (
+                    <div key={i} className="card" style={{ padding: '24px', textAlign: 'center' }}>
+                      <div style={{ fontSize: '36px', marginBottom: '12px' }}>{item.icon}</div>
+                      <h3 style={{ fontSize: '16px', fontWeight: 700, color: 'var(--navy)', marginBottom: '8px' }}>{item.title}</h3>
+                      <p style={{ fontSize: '13px', color: 'var(--muted)', lineHeight: 1.6 }}>{item.desc}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              <div style={{ maxWidth: '700px', margin: '0 auto' }}>
+                <span className="sec-eyebrow" style={{ textAlign: 'center', display: 'block' }}>Apply Now</span>
+                <h2 className="sec-title" style={{ textAlign: 'center' }}>AAC Partner Application</h2>
+                <form onSubmit={handleApply} id="partner-application-form">
+                  <div className="card" style={{ padding: '32px' }}>
+                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
+                      <div className="form-group">
+                        <label className="form-label">Full Name *</label>
+                        <input className="form-input" type="text" name="name" required value={formData.name} onChange={e => setFormData({...formData, name: e.target.value})} />
+                      </div>
+                      <div className="form-group">
+                        <label className="form-label">Phone Number *</label>
+                        <input className="form-input" type="tel" name="phone" required value={formData.phone} onChange={e => setFormData({...formData, phone: e.target.value})} />
+                      </div>
+                      <div className="form-group">
+                        <label className="form-label">Email *</label>
+                        <input className="form-input" type="email" name="email" required value={formData.email} onChange={e => setFormData({...formData, email: e.target.value})} />
+                      </div>
+                      <div className="form-group">
+                        <label className="form-label">Center Name</label>
+                        <input className="form-input" type="text" name="centerName" value={formData.centerName} onChange={e => setFormData({...formData, centerName: e.target.value})} />
+                      </div>
+                      <div className="form-group">
+                        <label className="form-label">City *</label>
+                        <input className="form-input" type="text" name="city" required value={formData.city} onChange={e => setFormData({...formData, city: e.target.value})} />
+                      </div>
+                      <div className="form-group">
+                        <label className="form-label">State *</label>
+                        <input className="form-input" type="text" name="state" required value={formData.state} onChange={e => setFormData({...formData, state: e.target.value})} />
+                      </div>
+                    </div>
+                    <div style={{ textAlign: 'center', marginTop: '24px' }}>
+                      <button type="submit" className="btn btn-gold btn-lg">🤝 Submit Application</button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </>
+          )}
+        </div>
+      </section>
+    </>
   );
 }
-
-export default PartnerPage;

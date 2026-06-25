@@ -1,0 +1,1443 @@
+{
+  "course_name": "MS Office & Digital Literacy",
+  "sector": "Digital & Information Technology",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Computers & Digital Literacy Basics",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Microsoft Word: Document Creation & Formatting",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Microsoft Excel: Spreadsheet Management & Data Analysis",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Microsoft PowerPoint: Presentation Design & Delivery",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Email & Internet Productivity Tools",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Digital Citizenship & Cybersecurity Basics",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which component is considered the 'brain' of the computer, responsible for executing instructions?",
+      "options": {
+        "A": "RAM",
+        "B": "Hard Drive",
+        "C": "CPU",
+        "D": "Monitor"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Central Processing Unit (CPU) is responsible for interpreting and executing most of the commands from the computer's hardware and software."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Which of the following is an example of an input device?",
+      "options": {
+        "A": "Printer",
+        "B": "Speaker",
+        "C": "Keyboard",
+        "D": "Monitor"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A keyboard is an input device used to enter text and commands into a computer. Printers, speakers, and monitors are output devices."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "What is the primary function of an Operating System (OS)?",
+      "options": {
+        "A": "To create documents",
+        "B": "To manage computer hardware and software resources",
+        "C": "To browse the internet",
+        "D": "To play games"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "An Operating System manages all of the computer's hardware and software, making it easier for users to interact with the computer and for applications to run."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Which type of software is Microsoft Word?",
+      "options": {
+        "A": "System Software",
+        "B": "Utility Software",
+        "C": "Application Software",
+        "D": "Operating System"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Microsoft Word is an application software, designed to perform specific tasks for the user, such as word processing."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "What does 'WWW' stand for in the context of the internet?",
+      "options": {
+        "A": "World Wide Web",
+        "B": "World Web Wide",
+        "C": "Web World Wide",
+        "D": "Wide World Web"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "WWW stands for World Wide Web, which is a system of interconnected hypertext documents accessed via the Internet."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Which of these is a common web browser?",
+      "options": {
+        "A": "Microsoft Excel",
+        "B": "Google Chrome",
+        "C": "Adobe Photoshop",
+        "D": "VLC Media Player"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Google Chrome is a popular web browser used to access websites on the internet. The others are application software for different purposes."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "What is a 'folder' used for in a computer's file system?",
+      "options": {
+        "A": "To store physical documents",
+        "B": "To organize and store files",
+        "C": "To delete files permanently",
+        "D": "To print documents"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Folders (or directories) are used to organize and store files on a computer, much like physical folders organize paper documents."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "What is the purpose of 'RAM' in a computer?",
+      "options": {
+        "A": "Permanent storage of data",
+        "B": "Temporary storage for active programs and data",
+        "C": "Processing graphical information",
+        "D": "Connecting to the internet"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RAM (Random Access Memory) is volatile memory used for temporary storage of data that the CPU is actively using, allowing quick access to currently running programs and data."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Which port is commonly used to connect a USB flash drive to a computer?",
+      "options": {
+        "A": "HDMI port",
+        "B": "Ethernet port",
+        "C": "USB port",
+        "D": "VGA port"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "USB (Universal Serial Bus) ports are standard for connecting peripheral devices like flash drives, keyboards, and mice."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "What is the term for a malicious software designed to disrupt, damage, or gain unauthorized access to a computer system?",
+      "options": {
+        "A": "Freeware",
+        "B": "Shareware",
+        "C": "Malware",
+        "D": "Browser"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Malware is a general term for malicious software, including viruses, worms, and Trojans, designed to harm computer systems."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What is the function of a search engine?",
+      "options": {
+        "A": "To send and receive emails",
+        "B": "To create spreadsheets",
+        "C": "To search for information on the World Wide Web",
+        "D": "To design presentations"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Search engines like Google, Bing, and DuckDuckGo are designed to help users find information on the vast network of the World Wide Web."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Which of the following is NOT a type of computer storage device?",
+      "options": {
+        "A": "Hard Disk Drive (HDD)",
+        "B": "Solid State Drive (SSD)",
+        "C": "Graphics Processing Unit (GPU)",
+        "D": "USB Flash Drive"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A GPU (Graphics Processing Unit) is a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images, frames, or animations for output to a display device. HDD, SSD, and USB Flash Drives are all types of storage devices."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "When you 'cut' a file or folder, where does it temporarily go?",
+      "options": {
+        "A": "Recycle Bin",
+        "B": "Desktop",
+        "C": "Clipboard",
+        "D": "Documents folder"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "When you cut (or copy) an item, it is temporarily stored in the Clipboard, a special memory area, until you paste it."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "What is 'cloud storage'?",
+      "options": {
+        "A": "Storing data on a local external hard drive",
+        "B": "Storing data on remote servers accessed over the internet",
+        "C": "Storing data on a USB flash drive",
+        "D": "Storing data directly on the computer's hard drive"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cloud storage involves storing digital data in logical pools, which are physical storage across multiple servers (and often locations), rather than on local devices."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "A 'firewall' in a computer system is primarily used for:",
+      "options": {
+        "A": "Boosting internet speed",
+        "B": "Preventing unauthorized access to and from a private network",
+        "C": "Cleaning up temporary files",
+        "D": "Managing printer queues"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A firewall acts as a barrier, controlling incoming and outgoing network traffic based on predefined security rules to protect against unauthorized access."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "What is the hexadecimal representation of the binary number 1010?",
+      "options": {
+        "A": "A",
+        "B": "10",
+        "C": "F",
+        "D": "5"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "In binary, 1010 represents 8 + 0 + 2 + 0 = 10 in decimal. In hexadecimal, 'A' represents the decimal value 10."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Which networking topology is characterized by all devices being connected to a central hub or switch?",
+      "options": {
+        "A": "Bus topology",
+        "B": "Ring topology",
+        "C": "Star topology",
+        "D": "Mesh topology"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "In a star topology, each device in the network is connected to a central device like a hub or a switch. This is common in many office LANs."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Which ribbon tab in MS Word would you use to change the font size and style?",
+      "options": {
+        "A": "Insert",
+        "B": "Page Layout",
+        "C": "Home",
+        "D": "View"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Home' tab in MS Word contains the Font group, which allows users to change font type, size, style (bold, italic, underline), and color."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "What is the shortcut key to save a document in MS Word?",
+      "options": {
+        "A": "Ctrl + X",
+        "B": "Ctrl + S",
+        "C": "Ctrl + P",
+        "D": "Ctrl + V"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ctrl + S is the universal shortcut for saving a document across most applications, including MS Word."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "To add a page number to your document, which tab should you go to?",
+      "options": {
+        "A": "Home",
+        "B": "Insert",
+        "C": "Review",
+        "D": "References"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'Insert' tab allows you to add various elements to your document, including page numbers, headers, footers, pictures, and tables."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Which feature helps you correct spelling and grammar errors in MS Word?",
+      "options": {
+        "A": "Thesaurus",
+        "B": "Word Count",
+        "C": "Spell Check & Grammar",
+        "D": "AutoCorrect"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Spell Check & Grammar' feature (often found under the 'Review' tab) identifies and suggests corrections for spelling and grammatical errors."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "What is the default orientation for a new document in MS Word?",
+      "options": {
+        "A": "Landscape",
+        "B": "Portrait",
+        "C": "Booklet",
+        "D": "Web Layout"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The default page orientation in MS Word is Portrait, where the height of the page is greater than its width."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "To apply consistent formatting to headings throughout a document, which feature would be most efficient?",
+      "options": {
+        "A": "Manually changing font for each heading",
+        "B": "Using Format Painter",
+        "C": "Applying Styles",
+        "D": "Copy-pasting headings"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Using 'Styles' (e.g., Heading 1, Heading 2) is the most efficient way to apply and maintain consistent formatting across multiple elements in a document."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Which option allows you to merge multiple cells into a single cell within a table in MS Word?",
+      "options": {
+        "A": "Split Cells",
+        "B": "Merge Cells",
+        "C": "Distribute Columns",
+        "D": "AutoFit Contents"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Merge Cells' combines two or more selected cells into one larger cell within a table. This option is usually found in the Layout tab under Table Tools."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "What is the purpose of 'Track Changes' in MS Word?",
+      "options": {
+        "A": "To count the number of words in a document",
+        "B": "To record all modifications made to a document by different users",
+        "C": "To create a table of contents automatically",
+        "D": "To compare two different versions of a document"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Track Changes' allows users to see all edits, insertions, deletions, and formatting changes made to a document, often by multiple reviewers, and then accept or reject them."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "You need to create a professional letterhead for your company. Which MS Word feature would you use to place a company logo and contact information that appears on every page?",
+      "options": {
+        "A": "Text Box",
+        "B": "Header and Footer",
+        "C": "Watermark",
+        "D": "Shapes"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Headers and Footers are designated areas at the top and bottom of each page respectively, ideal for consistent elements like company logos, contact info, page numbers, and document titles."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "What does 'Ctrl + Z' do in MS Word?",
+      "options": {
+        "A": "Redo the last action",
+        "B": "Undo the last action",
+        "C": "Zoom in",
+        "D": "Save the document"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ctrl + Z is the universal shortcut to undo the last action performed in most applications, including MS Word."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Which view displays a document as it would appear on a web page?",
+      "options": {
+        "A": "Print Layout View",
+        "B": "Read Mode View",
+        "C": "Web Layout View",
+        "D": "Outline View"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Web Layout View shows how your document would look as a web page, fitting the content to the window and displaying text and objects as they appear online."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "If you want to send a personalized letter to multiple recipients, what MS Word feature would you use?",
+      "options": {
+        "A": "Find and Replace",
+        "B": "Mail Merge",
+        "C": "Comments",
+        "D": "Macros"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mail Merge is a powerful feature that allows you to create a batch of personalized documents, such as letters, emails, or labels, for a mass mailing or distribution."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "What is the purpose of a 'section break' in MS Word?",
+      "options": {
+        "A": "To start a new paragraph",
+        "B": "To insert a page break",
+        "C": "To divide a document into parts with different formatting options",
+        "D": "To create a table of contents"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A section break allows you to divide your document into sections and apply different formatting (like page orientation, margins, or headers/footers) to each section independently."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Which of the following is an example of character formatting?",
+      "options": {
+        "A": "Line spacing",
+        "B": "Indentation",
+        "C": "Bold text",
+        "D": "Alignment"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Character formatting applies to individual characters or selected text (e.g., bold, italic, font size). Line spacing, indentation, and alignment are paragraph formatting options."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "What is a 'template' in MS Word?",
+      "options": {
+        "A": "A blank document with no formatting",
+        "B": "A pre-designed document that you can use as a starting point",
+        "C": "A tool to translate text into different languages",
+        "D": "A feature for comparing document versions"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A template is a pre-designed document that includes specific layouts, styles, and often placeholder text, serving as a blueprint for new documents."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "To ensure that two words always stay together on the same line, even if text wraps, you should use:",
+      "options": {
+        "A": "A regular space",
+        "B": "A tab character",
+        "C": "A non-breaking space",
+        "D": "A hyphen"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A non-breaking space (Ctrl+Shift+Space) prevents two words from being separated by a line break, ensuring they always appear together on the same line."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Which option allows you to quickly apply the formatting of one piece of text to another?",
+      "options": {
+        "A": "Copy and Paste",
+        "B": "Format Painter",
+        "C": "Styles",
+        "D": "Themes"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Format Painter allows you to copy all the formatting from one object or text and apply it to another, saving time and ensuring consistency."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "In Excel, what is the intersection of a row and a column called?",
+      "options": {
+        "A": "Table",
+        "B": "Range",
+        "C": "Cell",
+        "D": "Worksheet"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A cell is the basic unit of a worksheet, formed by the intersection of a row and a column, where you enter data."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Which symbol must all formulas in Excel begin with?",
+      "options": {
+        "A": "#",
+        "B": "$",
+        "C": "=",
+        "D": "@"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "All formulas in Excel must start with an equals sign (=) to indicate that the cell contains a calculation."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Which function would you use to add a range of numbers in Excel?",
+      "options": {
+        "A": "AVERAGE()",
+        "B": "COUNT()",
+        "C": "SUM()",
+        "D": "MAX()"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The SUM() function is used to add all the numbers in a specified range of cells."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "What does 'A1:C5' refer to in Excel?",
+      "options": {
+        "A": "A single cell",
+        "B": "A range of cells from A1 to C5",
+        "C": "A column header",
+        "D": "A row number"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A1:C5 denotes a range of cells, starting from cell A1 and extending to cell C5, including all cells within that rectangular block."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "To quickly reorder a list of names alphabetically, which Excel feature would you use?",
+      "options": {
+        "A": "Filter",
+        "B": "Sort",
+        "C": "Conditional Formatting",
+        "D": "Find and Replace"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'Sort' feature in Excel allows you to arrange data in ascending or descending order based on one or more columns."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "What is the purpose of the '$' sign in an Excel formula, like '$A$1'?",
+      "options": {
+        "A": "It indicates a currency value",
+        "B": "It makes the cell reference absolute",
+        "C": "It marks the beginning of a range",
+        "D": "It denotes a text string"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The '$' sign makes a cell reference absolute, meaning that when the formula is copied to other cells, the reference (either row, column, or both) will not change."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Which chart type is best suited for showing the proportion of different categories relative to a total?",
+      "options": {
+        "A": "Line Chart",
+        "B": "Bar Chart",
+        "C": "Pie Chart",
+        "D": "Scatter Plot"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A Pie Chart is ideal for displaying parts of a whole, where each slice represents a percentage or proportion of the total."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "You have a list of sales data and want to quickly see all sales above a certain amount. Which feature should you use?",
+      "options": {
+        "A": "Sort",
+        "B": "Format Painter",
+        "C": "Filter",
+        "D": "Data Validation"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'Filter' feature allows you to display only the rows that meet specific criteria, such as sales above a certain amount."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "What is the result of the Excel formula '=2+3*4'?",
+      "options": {
+        "A": "20",
+        "B": "14",
+        "C": "24",
+        "D": "10"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Excel follows the order of operations (PEMDAS/BODMAS). Multiplication is performed before addition: 3*4 = 12, then 2+12 = 14."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Which of these is NOT a valid number format in Excel?",
+      "options": {
+        "A": "Currency",
+        "B": "Date",
+        "C": "Text",
+        "D": "Picture"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Currency, Date, and Text are all valid number formats or cell formats in Excel. 'Picture' is an object you can insert, not a data format."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "What is 'Conditional Formatting' used for in Excel?",
+      "options": {
+        "A": "To create complex formulas",
+        "B": "To apply formatting to cells based on their values",
+        "C": "To protect cells from being edited",
+        "D": "To merge cells"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Conditional Formatting allows you to automatically apply formatting (like colors, icons, or data bars) to cells that meet specific criteria or conditions."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "If you want to look up a value in a table and return a corresponding value from another column, which function would you most likely use?",
+      "options": {
+        "A": "SUMIF()",
+        "B": "COUNTIF()",
+        "C": "VLOOKUP()",
+        "D": "IF()"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "VLOOKUP (Vertical Lookup) is a powerful Excel function used to find data in a large table or range by searching for a value in the first column and returning a value in the same row from a specified column."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Which error message indicates that a formula refers to an invalid cell reference?",
+      "options": {
+        "A": "#VALUE!",
+        "B": "#DIV/0!",
+        "C": "#REF!",
+        "D": "#NAME?"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "The #REF! error occurs when a formula refers to a cell that has been deleted or is invalid. It indicates a 'reference error'."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "To repeat a header row on every printed page of a large spreadsheet, which option would you configure?",
+      "options": {
+        "A": "Page Break Preview",
+        "B": "Print Area",
+        "C": "Print Titles",
+        "D": "Scaling"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "In the Page Setup dialog box (under Page Layout tab), 'Print Titles' allows you to specify rows or columns to repeat at the top or left of every printed page."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "What is the primary benefit of using 'Tables' (Ctrl+T) in Excel for data management?",
+      "options": {
+        "A": "It automatically creates charts",
+        "B": "It applies advanced statistical analysis",
+        "C": "It provides structured data with built-in filtering, sorting, and automatic formula extension",
+        "D": "It converts the data into a PDF"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Excel Tables offer numerous benefits for data management, including automatic filtering/sorting buttons, banded rows for readability, automatic expansion of formulas to new rows, and structured references."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "To calculate the number of cells in a range that contain numbers, which function should be used?",
+      "options": {
+        "A": "COUNTA()",
+        "B": "COUNT()",
+        "C": "COUNTBLANK()",
+        "D": "SUM()"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The COUNT() function counts the number of cells that contain numbers and numbers within the list of arguments. COUNTA() counts non-empty cells, and COUNTBLANK() counts empty cells."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Which of the following describes a 'relative cell reference' in Excel?",
+      "options": {
+        "A": "A cell reference that does not change when copied",
+        "B": "A cell reference that adjusts based on its new location when copied",
+        "C": "A cell reference that always refers to the same worksheet",
+        "D": "A cell reference that uses a name instead of coordinates"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A relative cell reference (e.g., A1) changes when a formula is copied to another cell. If you copy a formula from B1 to B2, a reference to A1 will become A2."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "What is the primary purpose of Microsoft PowerPoint?",
+      "options": {
+        "A": "To create documents",
+        "B": "To manage spreadsheets",
+        "C": "To create and deliver presentations",
+        "D": "To send emails"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Microsoft PowerPoint is a presentation program, primarily used to create slideshows composed of text, graphics, and other objects for on-screen presentations."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Which view in PowerPoint allows you to see all your slides as thumbnails, making it easy to rearrange them?",
+      "options": {
+        "A": "Normal View",
+        "B": "Slide Show View",
+        "C": "Outline View",
+        "D": "Slide Sorter View"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Slide Sorter View displays all the slides in your presentation as thumbnails, allowing you to easily reorder, delete, or duplicate slides."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "To add movement effects to objects on a slide (like text flying in), you would use:",
+      "options": {
+        "A": "Transitions",
+        "B": "Animations",
+        "C": "Themes",
+        "D": "Slide Masters"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Animations are movement effects applied to individual objects (text, images, shapes) within a single slide, controlling how they appear, disappear, or emphasize."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "What is a 'Transition' in PowerPoint?",
+      "options": {
+        "A": "A special effect for an object on a slide",
+        "B": "A movement effect from one slide to the next during a presentation",
+        "C": "A pre-designed set of colors and fonts",
+        "D": "A way to print speaker notes"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A slide transition is the visual effect that occurs when you move from one slide to the next during a presentation."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Which tab would you use to insert an image or a shape into your PowerPoint slide?",
+      "options": {
+        "A": "Home",
+        "B": "Design",
+        "C": "Insert",
+        "D": "Review"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Insert' tab is where you find options to add various objects to your slides, such as images, shapes, charts, tables, videos, and audio."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "What is the purpose of the 'Slide Master' in PowerPoint?",
+      "options": {
+        "A": "To run a spell check on all slides",
+        "B": "To control the overall design and layout of all slides in a presentation",
+        "C": "To reorder slides quickly",
+        "D": "To add animations to objects"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Slide Master is the top slide in a hierarchy of slides that stores information about the theme and slide layouts of a presentation, including background, color, fonts, effects, placeholder sizes, and positioning."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "To start a slide show from the current slide, which keyboard shortcut can be used?",
+      "options": {
+        "A": "F5",
+        "B": "Shift + F5",
+        "C": "Ctrl + S",
+        "D": "Alt + F5"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "F5 starts the presentation from the beginning, while Shift + F5 starts the presentation from the currently selected slide."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Which feature allows you to add spoken commentary to your presentation?",
+      "options": {
+        "A": "Speaker Notes",
+        "B": "Record Narration",
+        "C": "Rehearse Timings",
+        "D": "Insert Audio"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Record Narration' feature (often found under the Slide Show tab) allows you to record your voice over your slides and save it as part of the presentation."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "If you want to quickly change the entire look of your presentation (colors, fonts, effects) without manually adjusting each slide, you should apply a:",
+      "options": {
+        "A": "Slide Layout",
+        "B": "Theme",
+        "C": "Background Style",
+        "D": "Animation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Theme is a predefined set of colors, fonts, and visual effects that you can apply to your entire presentation to give it a professional and consistent look."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Which file format is commonly used for saving a PowerPoint presentation?",
+      "options": {
+        "A": ".DOCX",
+        "B": ".XLSX",
+        "C": ".PPTX",
+        "D": ".PDF"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": ".PPTX is the standard file extension for Microsoft PowerPoint presentations since Office 2007."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "To hide a slide during a presentation without deleting it, you would use the:",
+      "options": {
+        "A": "Delete Slide option",
+        "B": "Hide Slide option",
+        "C": "Skip Slide option",
+        "D": "Remove Slide option"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Hide Slide' feature allows you to skip a specific slide during a slideshow without removing it from your presentation. You can unhide it at any time."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "What is the primary function of 'Speaker Notes' in PowerPoint?",
+      "options": {
+        "A": "To display on the main screen for the audience",
+        "B": "To provide a private area for the presenter to add reminders or talking points",
+        "C": "To automatically generate a summary of the presentation",
+        "D": "To add background music to slides"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Speaker Notes are private notes for the presenter, visible only to them (e.g., in Presenter View), to help them remember key points or additional information during the presentation."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "When embedding a video in PowerPoint, what is the key advantage over linking to a video file?",
+      "options": {
+        "A": "It always results in a smaller file size",
+        "B": "The video will always play, even if the original file is moved or deleted",
+        "C": "It allows for more advanced video editing within PowerPoint",
+        "D": "It improves the presentation's overall performance"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Embedding a video integrates the video file directly into the presentation, ensuring it will play regardless of whether the original source file is available. Linking only creates a pointer, which can break if the source file is moved."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Which of the following is considered good practice for designing effective PowerPoint slides?",
+      "options": {
+        "A": "Using small font sizes to fit more text",
+        "B": "Including as much text as possible on each slide",
+        "C": "Using contrasting colors for text and background to ensure readability",
+        "D": "Applying a different animation to every object"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Good design principles include using high contrast for readability, using clear and concise text, and avoiding excessive animations or cluttered slides."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Which option allows you to automatically advance slides after a set amount of time during a presentation?",
+      "options": {
+        "A": "Manual advance",
+        "B": "On Click",
+        "C": "Rehearse Timings",
+        "D": "Custom Animation"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'Rehearse Timings' feature allows you to practice your presentation and record the time you spend on each slide. These timings can then be used to automatically advance slides during the actual presentation."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "To create a custom path for an object to move along on a slide, you would use which type of animation?",
+      "options": {
+        "A": "Entrance Effect",
+        "B": "Exit Effect",
+        "C": "Motion Path",
+        "D": "Emphasis Effect"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Motion Path animations allow you to create a custom path that an object will follow across the slide, providing precise control over its movement."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "When sharing a PowerPoint presentation, to ensure that everyone can view it even if they don't have PowerPoint installed, you should save it as a:",
+      "options": {
+        "A": ".PPTX",
+        "B": ".DOCX",
+        "C": ".PDF",
+        "D": ".XLSX"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Saving a presentation as a PDF (Portable Document Format) ensures that it can be opened and viewed on virtually any device with a PDF reader, preserving its formatting regardless of the original software."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "What does 'CC' stand for in an email?",
+      "options": {
+        "A": "Carbon Copy",
+        "B": "Customer Copy",
+        "C": "Confidential Copy",
+        "D": "Contact Copy"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CC stands for Carbon Copy, meaning recipients in this field will receive a copy of the email and their addresses will be visible to all other recipients."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Which field in an email allows you to send a copy to recipients without their email addresses being visible to others?",
+      "options": {
+        "A": "To",
+        "B": "CC",
+        "C": "Subject",
+        "D": "BCC"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "BCC stands for Blind Carbon Copy. Recipients in the BCC field receive a copy of the email, but their addresses are hidden from all other recipients, including those in the To and CC fields."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "What is the importance of a strong password?",
+      "options": {
+        "A": "To make it easier to remember",
+        "B": "To protect your accounts from unauthorized access",
+        "C": "To speed up your internet connection",
+        "D": "To ensure your emails are always delivered"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A strong password (a combination of uppercase, lowercase, numbers, and symbols) makes it significantly harder for unauthorized individuals to guess or crack your account, thus protecting your data."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Which of the following is an example of an email client?",
+      "options": {
+        "A": "Google Chrome",
+        "B": "Microsoft Edge",
+        "C": "Mozilla Thunderbird",
+        "D": "Adobe Acrobat Reader"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mozilla Thunderbird is a free, open-source cross-platform email client. Google Chrome and Microsoft Edge are web browsers, and Adobe Acrobat Reader is for PDFs."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "What is the term for unsolicited and often unwanted bulk email messages?",
+      "options": {
+        "A": "Newsletter",
+        "B": "Spam",
+        "C": "Phishing",
+        "D": "Attachment"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spam refers to irrelevant or inappropriate messages sent on the Internet to a large number of recipients, often for advertising or malicious purposes."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "When writing a professional email, what is considered good etiquette for the 'Subject' line?",
+      "options": {
+        "A": "Leaving it blank",
+        "B": "Using all caps to get attention",
+        "C": "Making it clear, concise, and informative",
+        "D": "Including your full message in the subject line"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A good subject line quickly tells the recipient what the email is about, helping them prioritize and understand the context before opening."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Which cloud storage service is provided by Google?",
+      "options": {
+        "A": "OneDrive",
+        "B": "iCloud",
+        "C": "Google Drive",
+        "D": "Dropbox"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Google Drive is a file storage and synchronization service developed by Google. OneDrive is from Microsoft, iCloud from Apple, and Dropbox is an independent service."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "What is the primary benefit of using cloud storage for your files?",
+      "options": {
+        "A": "It makes your computer run faster",
+        "B": "It provides access to your files from any device with an internet connection",
+        "C": "It eliminates the need for antivirus software",
+        "D": "It automatically prints all your documents"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cloud storage allows users to access their files and data from any device (computer, tablet, smartphone) as long as they have an internet connection and the necessary login credentials."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "To search for an exact phrase on Google, you should enclose the phrase in:",
+      "options": {
+        "A": "Parentheses ()",
+        "B": "Square brackets []",
+        "C": "Quotation marks \"\"",
+        "D": "Asterisks **"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Using quotation marks around a phrase (e.g., \"digital literacy course\") tells the search engine to look for that exact sequence of words."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Which of these is an example of an online collaboration tool for documents?",
+      "options": {
+        "A": "Microsoft Paint",
+        "B": "Google Docs",
+        "C": "Windows Media Player",
+        "D": "Calculator"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Google Docs allows multiple users to create, edit, and collaborate on documents in real-time online."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "What is 'phishing' in the context of email security?",
+      "options": {
+        "A": "Sending legitimate marketing emails",
+        "B": "Attempting to trick users into revealing sensitive information by impersonating a trustworthy entity",
+        "C": "Filtering spam emails",
+        "D": "Attaching large files to an email"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers, by disguising as a trustworthy entity in an electronic communication."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "When attaching a large file to an email, what is a common best practice?",
+      "options": {
+        "A": "Send it as multiple smaller attachments",
+        "B": "Compress the file or upload it to cloud storage and share a link",
+        "C": "Send it without notifying the recipient",
+        "D": "Avoid sending large files altogether"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Email providers often have attachment size limits. Compressing the file (e.g., to a .zip file) or using cloud storage and sharing a link are efficient ways to send large files."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "What is the main advantage of using a dedicated email client (like Outlook or Thunderbird) over webmail (like Gmail in a browser)?",
+      "options": {
+        "A": "It requires an internet connection at all times",
+        "B": "It often offers offline access to emails and more advanced organizational features",
+        "C": "It is always faster than webmail",
+        "D": "It automatically filters all spam"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dedicated email clients often provide more robust features for managing multiple accounts, advanced filtering, and crucially, offline access to downloaded emails and calendars, which webmail typically doesn't offer as comprehensively."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "What is a 'URL'?",
+      "options": {
+        "A": "Universal Resource Locator - the address of a web page",
+        "B": "User Registration Link",
+        "C": "Uniform Resource Language",
+        "D": "Upload Resource List"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "A URL (Uniform Resource Locator) is the address of a given unique resource on the World Wide Web, such as a web page, image, or video."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "When participating in an online meeting, what is a key etiquette to follow?",
+      "options": {
+        "A": "Keep your microphone on at all times",
+        "B": "Interrupt speakers to share your thoughts immediately",
+        "C": "Mute your microphone when not speaking to minimize background noise",
+        "D": "Always have your video turned off"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Muting your microphone when not speaking is crucial to prevent background noise from disrupting the meeting and ensures clarity for the active speaker."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Which protocol is typically used for sending emails from a client to a server?",
+      "options": {
+        "A": "POP3",
+        "B": "IMAP",
+        "C": "SMTP",
+        "D": "HTTP"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending email across the Internet. POP3 and IMAP are used for receiving emails."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is 'Netiquette'?",
+      "options": {
+        "A": "A type of internet connection",
+        "B": "The rules of polite behavior on the Internet",
+        "C": "A software for network security",
+        "D": "A tool for tracking website visitors"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Netiquette is a portmanteau of 'network etiquette' or 'Internet etiquette', referring to the set of social conventions that facilitate interaction over networks."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Why is it important to regularly back up your data?",
+      "options": {
+        "A": "To free up space on your hard drive",
+        "B": "To ensure you can recover data in case of loss, damage, or corruption",
+        "C": "To speed up your computer's performance",
+        "D": "To prevent malware infections"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data backup is crucial for disaster recovery, allowing you to restore your files if the originals are lost due to hardware failure, accidental deletion, or cyberattacks."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "What is the best practice for creating a strong password?",
+      "options": {
+        "A": "Use your birth date or name",
+        "B": "Use a combination of uppercase, lowercase, numbers, and symbols",
+        "C": "Use a dictionary word that is easy to remember",
+        "D": "Use the same password for all your accounts"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Strong passwords are long and complex, incorporating a mix of character types to make them difficult to guess or crack."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "What does 'digital footprint' refer to?",
+      "options": {
+        "A": "The physical size of your computer",
+        "B": "The trail of data you leave behind from your online activities",
+        "C": "The amount of data stored on your hard drive",
+        "D": "The number of websites you visit daily"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A digital footprint is the unique set of traceable data and activities left behind by a user's digital actions, such as website visits, email exchanges, and social media posts."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Which of these is a common sign of a phishing email?",
+      "options": {
+        "A": "A personalized greeting with your correct name",
+        "B": "A request for sensitive information like passwords or bank details",
+        "C": "A formal tone with correct grammar and spelling",
+        "D": "An email from a known official government domain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Phishing emails often attempt to trick recipients into revealing sensitive information by asking for credentials, clicking suspicious links, or downloading malicious attachments."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "What is the purpose of antivirus software?",
+      "options": {
+        "A": "To speed up internet browsing",
+        "B": "To protect a computer from viruses and other malicious software",
+        "C": "To create and edit documents",
+        "D": "To organize files and folders"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Antivirus software is designed to detect, prevent, and remove malicious software, such as viruses, worms, and Trojans, from computer systems."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "What should you do if you receive a suspicious email asking for your login credentials?",
+      "options": {
+        "A": "Immediately click on the link and enter your details",
+        "B": "Reply to the sender asking for clarification",
+        "C": "Delete the email and report it as spam/phishing",
+        "D": "Forward it to all your contacts for their opinion"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The safest action for a suspicious email requesting credentials is to delete it and report it as phishing to your email provider. Never click links or reply to such emails."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Which term describes the act of harassing, threatening, or embarrassing someone online?",
+      "options": {
+        "A": "Networking",
+        "B": "Cyberbullying",
+        "C": "Online collaboration",
+        "D": "Digital marketing"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cyberbullying is bullying that takes place over digital devices like cell phones, computers, and tablets, through texting, apps, or online social media."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "What is a 'license agreement' for software?",
+      "options": {
+        "A": "A document proving software ownership",
+        "B": "A legal contract that defines how you can use the software",
+        "C": "A payment receipt for the software",
+        "D": "A guide on how to install the software"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A software license agreement (EULA - End-User License Agreement) is a legal contract between the software developer or publisher and the end-user, specifying the terms under which the software can be used."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "If your computer is running very slowly, what is a common first step in troubleshooting?",
+      "options": {
+        "A": "Buy a new computer",
+        "B": "Reinstall the operating system immediately",
+        "C": "Restart the computer",
+        "D": "Delete all your personal files"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Restarting the computer is often the first and most effective troubleshooting step, as it can clear temporary glitches, free up RAM, and resolve many minor software issues."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "What is the concept of 'digital divide'?",
+      "options": {
+        "A": "The separation of digital and analog signals",
+        "B": "The gap between those who have access to information technology and those who don't",
+        "C": "The difference between software and hardware",
+        "D": "The distinction between online and offline activities"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The digital divide refers to the unequal access to information and communication technologies (ICT), such as the internet, between different groups of people, often based on socioeconomic status, geography, or other factors."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "What is 'Two-Factor Authentication (2FA)' and why is it important?",
+      "options": {
+        "A": "It requires two different passwords for one account",
+        "B": "It's a security method requiring two distinct forms of identification to verify a user's identity, significantly enhancing security",
+        "C": "It means you can only log in from two specific devices",
+        "D": "It's a feature for sharing your login with two people"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "2FA adds an extra layer of security by requiring a second verification method (like a code from your phone) in addition to your password, making it much harder for unauthorized users to access your account even if they know your password."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "If a website address starts with 'https://' instead of 'http://', what does the 's' signify?",
+      "options": {
+        "A": "Slow connection",
+        "B": "Secure connection",
+        "C": "Standard page",
+        "D": "Server-side page"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 's' in 'https' stands for 'secure', indicating that the connection to the website is encrypted and secure, protecting data exchanged between your browser and the site."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Which of the following describes 'copyright' in the digital world?",
+      "options": {
+        "A": "The right to copy any digital content freely",
+        "B": "The exclusive legal right to reproduce, publish, sell, or distribute an original work (digital or otherwise)",
+        "C": "A type of digital file format",
+        "D": "A method to compress digital images"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Copyright protects original works of authorship (including digital content like software, music, images, and text) and grants the creator exclusive rights to their use and distribution."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "What is the primary risk of connecting to unsecured public Wi-Fi networks?",
+      "options": {
+        "A": "Your internet speed will be slow",
+        "B": "Your device might get a virus automatically",
+        "C": "Your data can be easily intercepted by malicious actors",
+        "D": "You cannot access secure websites"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Unsecured public Wi-Fi networks often lack encryption, making it easy for hackers to snoop on your internet traffic and intercept sensitive information like passwords and personal data."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Which of the following is NOT a good practice for digital privacy?",
+      "options": {
+        "A": "Reviewing privacy settings on social media accounts",
+        "B": "Sharing personal information freely with unknown online contacts",
+        "C": "Using a VPN for sensitive online activities",
+        "D": "Being cautious about what you post online"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sharing personal information freely with unknown online contacts is a major risk to digital privacy and can lead to identity theft, scams, or other malicious activities."
+    }
+  ]
+}

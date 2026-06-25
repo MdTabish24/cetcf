@@ -1,0 +1,1443 @@
+{
+  "course_name": "Electric Vehicle (EV) Basics",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to EVs & Basic Concepts",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "EV Components - Batteries",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "EV Components - Motors & Controllers",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Charging Infrastructure & Safety",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "EV Maintenance & Diagnostics",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Future Trends & Environmental Impact",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek BEV ka full form kya hai?",
+      "options": {
+        "A": "Battery Electric Vehicle",
+        "B": "Basic Electric Vehicle",
+        "C": "Bharat Electric Vehicle",
+        "D": "Binary Electric Vehicle"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "BEV ka full form Battery Electric Vehicle hota hai, jismein vehicle poori tarah battery power par chalti hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "EVs mein 'range anxiety' ka kya matlab hai?",
+      "options": {
+        "A": "Gaadi ki speed kam hone ka darr",
+        "B": "Battery charge khatam hone ka darr raste mein",
+        "C": "Charging station na milne ka darr",
+        "D": "B and C dono"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Range anxiety ka matlab hai battery charge khatam hone ka darr aur raste mein charging station na milne ka darr, jisse driver destination tak pahunch paayega ya nahi, iski chinta hoti hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Kon sa EV type petrol engine aur electric motor dono use karta hai, jise battery charge karne ki zaroorat nahi padti?",
+      "options": {
+        "A": "BEV (Battery Electric Vehicle)",
+        "B": "PHEV (Plug-in Hybrid Electric Vehicle)",
+        "C": "HEV (Hybrid Electric Vehicle)",
+        "D": "FCEV (Fuel Cell Electric Vehicle)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "HEV (Hybrid Electric Vehicle) mein petrol engine aur electric motor dono hote hain, aur iski battery ko external source se charge karne ki zaroorat nahi padti, woh engine ya regenerative braking se charge hoti hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Electric current ki unit kya hai?",
+      "options": {
+        "A": "Volt",
+        "B": "Ampere",
+        "C": "Watt",
+        "D": "Ohm"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electric current ko Ampere (A) mein maapa jaata hai. Volt voltage ki unit hai, Watt power ki aur Ohm resistance ki."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "EV mein sabse common battery type kaunsa hai?",
+      "options": {
+        "A": "Lead-acid",
+        "B": "Nickel-metal hydride (NiMH)",
+        "C": "Lithium-ion (Li-ion)",
+        "D": "Sodium-ion"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Modern EVs mein Lithium-ion batteries sabse zyada use hoti hain unki high energy density aur long life ke kaaran."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "EVs ke major environmental benefit kya hain?",
+      "options": {
+        "A": "Kam noise pollution",
+        "B": "Zero tailpipe emissions",
+        "C": "Kam running cost",
+        "D": "A aur B dono"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "EVs zero tailpipe emissions provide karte hain aur ICE vehicles ke comparison mein kam noise pollution karte hain, jo environmental benefits hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "DC current ka kya matlab hai?",
+      "options": {
+        "A": "Current jo direction periodically change karta hai",
+        "B": "Current jo sirf ek direction mein flow karta hai",
+        "C": "Current jo high voltage par hota hai",
+        "D": "Current jo low voltage par hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "DC (Direct Current) woh current hai jo sirf ek direction mein flow karta hai. Batteries aur electronic circuits DC current use karte hain."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "EV powertrain mein kis component ka kaam battery se aane wali DC power ko motor ke liye AC power mein convert karna hai?",
+      "options": {
+        "A": "Charger",
+        "B": "Battery Management System (BMS)",
+        "C": "Inverter",
+        "D": "Converter"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Inverter DC power ko AC power mein convert karta hai, jo ki electric motor ko drive karne ke liye zaroori hai. Converter ek DC voltage level ko dusre DC voltage level mein badalta hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Ek EV ki 'energy consumption' ko kis unit mein maapa jaata hai?",
+      "options": {
+        "A": "Kilowatts (kW)",
+        "B": "Kilowatt-hours (kWh)",
+        "C": "Volts (V)",
+        "D": "Amperes (A)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Energy consumption ko Kilowatt-hours (kWh) mein maapa jaata hai, jo ek EV ki battery capacity aur kitni energy woh use karti hai, use darshata hai. kW power ki unit hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "EV mein regenerative braking ka kya fayda hai?",
+      "options": {
+        "A": "Brakes ki life badhata hai",
+        "B": "Battery ko charge karta hai",
+        "C": "Gaadi ki range badhata hai",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Regenerative braking gaadi ki kinetic energy ko electricity mein convert karke battery ko charge karta hai, jisse brake wear kam hota hai aur gaadi ki range badhti hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "FCEV ka full form kya hai aur yeh kaise power generate karta hai?",
+      "options": {
+        "A": "Fuel Cell Electric Vehicle; hydrogen aur oxygen se electricity banata hai",
+        "B": "Fast Charging Electric Vehicle; high power charging use karta hai",
+        "C": "Fuel Combustion Electric Vehicle; fuel ko jalakar electricity banata hai",
+        "D": "Full Cycle Electric Vehicle; poora cycle electricity par chalta hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "FCEV ka matlab Fuel Cell Electric Vehicle hai, jo hydrogen aur oxygen ko combine karke electricity generate karta hai, jisse motor chalti hai aur sirf paani exhaust hota hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "EVs mein power loss ko kam karne ke liye kon si technology use hoti hai?",
+      "options": {
+        "A": "High-resistance wiring",
+        "B": "Efficient motor designs",
+        "C": "Heavy chassis materials",
+        "D": "Slow charging systems"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Efficient motor designs, jaise Permanent Magnet Synchronous Motors (PMSM), EVs mein power loss ko kam karne aur efficiency badhane mein madad karte hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Ek EV mein 'thermal management system' ka primary role kya hai?",
+      "options": {
+        "A": "Interior cabin ko thanda rakhna",
+        "B": "Battery aur motor ko optimum temperature par maintain karna",
+        "C": "Charging speed ko control karna",
+        "D": "Brakes ko thanda rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Thermal management system battery aur electric motor ko optimum working temperature par maintain karta hai, jisse unki performance, efficiency aur life badhti hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Bharat mein EV adoption ko promote karne ke liye government ki ek scheme ka naam bataiye.",
+      "options": {
+        "A": "PM-KISAN",
+        "B": "FAME India",
+        "C": "Make in India",
+        "D": "Swachh Bharat Abhiyan"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "FAME (Faster Adoption and Manufacturing of Hybrid and Electric Vehicles) India scheme government dwara EVs ko promote karne ke liye shuru ki gayi hai, jisme subsidies aur charging infrastructure development shamil hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "PHEV aur BEV mein kya main difference hai?",
+      "options": {
+        "A": "PHEV mein petrol engine hota hai, BEV mein nahi",
+        "B": "PHEV ko plug-in karke charge karna padta hai, BEV ko nahi",
+        "C": "BEV ki range kam hoti hai PHEV se",
+        "D": "PHEV mein regenerative braking nahi hoti"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "PHEV (Plug-in Hybrid Electric Vehicle) mein ek petrol engine aur ek electric motor dono hote hain, aur iski battery ko external source se bhi charge kiya ja sakta hai. BEV (Battery Electric Vehicle) mein sirf electric motor hoti hai aur woh poori tarah battery par chalti hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Ek high-voltage EV battery pack ko dismantle karte samay sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "Gaadi ko lift par uthana",
+        "B": "High-voltage system ko safely shut down aur disable karna",
+        "C": "Tools collect karna",
+        "D": "Vehicle ka bonnet kholna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High-voltage EV battery pack ke saath kaam karte samay, sabse pehle high-voltage system ko safely shut down aur disable karna zaroori hai, taaki electric shock ka khatra na ho."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "EVs mein 'V2G' technology ka kya matlab hai?",
+      "options": {
+        "A": "Vehicle to Garage",
+        "B": "Vehicle to Grid",
+        "C": "Vehicle to Generator",
+        "D": "Vehicle to Ground"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "V2G (Vehicle-to-Grid) technology mein EV apni battery mein stored extra electricity ko power grid mein wapas bhej sakti hai, jab grid ko zaroorat ho."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "EV battery ki capacity ko kis unit mein express kiya jaata hai?",
+      "options": {
+        "A": "Volts (V)",
+        "B": "Amperes (A)",
+        "C": "Kilowatt-hours (kWh)",
+        "D": "Watts (W)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "EV battery ki capacity ko Kilowatt-hours (kWh) mein express kiya jaata hai, jo usmein store ki ja sakne wali total energy ko darshata hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "BMS (Battery Management System) ka main kaam kya hai?",
+      "options": {
+        "A": "Gaadi ki speed control karna",
+        "B": "Battery cells ko monitor aur balance karna",
+        "C": "HVAC system control karna",
+        "D": "Infotainment system chalana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "BMS (Battery Management System) battery cells ke voltage, current aur temperature ko monitor karta hai, aur unhe balance rakhta hai, jisse battery ki safety aur life badhti hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Li-ion batteries ka ek disadvantage kya hai?",
+      "options": {
+        "A": "High energy density",
+        "B": "Long cycle life",
+        "C": "Thermal runaway ka risk",
+        "D": "Lightweight"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Li-ion batteries mein high energy density hoti hai, lekin unmein thermal runaway ka risk hota hai agar unhe properly manage na kiya jaaye, jisse overheating ya aag lag sakti hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Battery pack mein cells ko thanda rakhne ke liye kaun sa system use hota hai?",
+      "options": {
+        "A": "Air cooling",
+        "B": "Liquid cooling",
+        "C": "Passive cooling",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Battery packs ko thanda rakhne ke liye air cooling, liquid cooling ya passive cooling jaise systems use kiye jaate hain, taaki cells optimum temperature par operate karein."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Ek EV battery ki 'cycle life' kya darshati hai?",
+      "options": {
+        "A": "Battery ka weight",
+        "B": "Battery kitne baar charge aur discharge ho sakti hai",
+        "C": "Battery ki physical size",
+        "D": "Battery ka voltage"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery ki cycle life yeh darshati hai ki battery apni original capacity ka ek certain percentage maintain karte hue kitne full charge-discharge cycles complete kar sakti hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Agar EV battery pack mein koi damage ho, toh kya action lena chahiye?",
+      "options": {
+        "A": "Turant repair karne ki koshish karein",
+        "B": "Vehicle ko drive karte rahein",
+        "C": "Qualified technician ko inform karein aur safety protocols follow karein",
+        "D": "Paani daal dein"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Damage EV battery pack ke saath kaam karna khatarnak ho sakta hai. Hamesha qualified technician ko inform karein aur high-voltage safety protocols ko follow karein."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "EV battery pack ke andar individual cells ko monitor karne ka main reason kya hai?",
+      "options": {
+        "A": "Gaadi ka music system control karna",
+        "B": "Cell voltage aur temperature ko balance karna",
+        "C": "Tires ka pressure check karna",
+        "D": "Wiper speed adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Individual cells ko monitor karne se unke voltage aur temperature ko balance rakha ja sakta hai, jisse battery pack ki overall performance, safety aur life badhti hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "EV battery ki 'state of charge' (SOC) kya batati hai?",
+      "options": {
+        "A": "Battery ka health status",
+        "B": "Battery mein kitni energy bachi hai",
+        "C": "Battery ka temperature",
+        "D": "Battery ki age"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "State of Charge (SOC) battery mein bachi hui energy ko percentage mein darshati hai, jaise phone ki battery percentage."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "High voltage battery pack par kaam karte samay kaun sa PPE (Personal Protective Equipment) zaroori hai?",
+      "options": {
+        "A": "Safety glasses",
+        "B": "Insulated gloves",
+        "C": "Flame-retardant clothing",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "High voltage battery pack par kaam karte samay safety glasses, insulated gloves aur flame-retardant clothing jaise PPEs zaroori hain, taaki electric shock aur aag se bacha ja sake."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "EV battery pack mein 'series' connection ka kya fayda hai?",
+      "options": {
+        "A": "Total voltage badhata hai",
+        "B": "Total current badhata hai",
+        "C": "Total capacity badhata hai",
+        "D": "Battery ka weight kam karta hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Cells ko series mein connect karne se total voltage badhta hai, jo EV motor ko high power supply karne ke liye zaroori hai. Parallel connection current aur capacity badhata hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Nickel-metal hydride (NiMH) batteries ka ek common use case kya hai EV industry mein?",
+      "options": {
+        "A": "Pure BEVs",
+        "B": "Plug-in Hybrid Electric Vehicles (PHEVs)",
+        "C": "Full Hybrid Electric Vehicles (HEVs)",
+        "D": "Electric bicycles"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "NiMH batteries historically full Hybrid Electric Vehicles (HEVs) mein common thi, jaise Toyota Prius, unki reliability aur cost-effectiveness ke kaaran. Modern BEVs zyada Li-ion use karte hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Battery pack ki 'degradation' ka kya matlab hai?",
+      "options": {
+        "A": "Battery ka physical damage",
+        "B": "Battery ki capacity aur performance ka samay ke saath kam hona",
+        "C": "Battery ka overcharge hona",
+        "D": "Battery ka undercharge hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery degradation ka matlab hai battery ki maximum charge holding capacity aur power delivery ability ka samay ke saath kam hona, jo natural aging aur usage ke kaaran hota hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "EV battery pack ko replace karne se pehle kya precaution lena chahiye?",
+      "options": {
+        "A": "Vehicle ko wash karna",
+        "B": "Ignition off karna aur high-voltage disconnect karna",
+        "C": "Music system on karna",
+        "D": "Tires ka pressure check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "EV battery pack ko replace karne se pehle, ignition off karna aur high-voltage system ko disconnect karna (service plug remove karna) sabse zaroori safety precaution hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "EV battery mein 'thermal runaway' ko rokne ke liye BMS kya karta hai?",
+      "options": {
+        "A": "Battery ko zyada charge hone deta hai",
+        "B": "Temperature ko monitor karta hai aur cooling system ko activate karta hai",
+        "C": "Battery ko zyada discharge hone deta hai",
+        "D": "Battery cells ko disconnect kar deta hai bina warning ke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "BMS battery cell temperatures ko continuously monitor karta hai aur agar temperature kisi critical point se zyada ho, toh cooling system ko activate karta hai ya power output ko limit karta hai, taaki thermal runaway ko roka ja sake."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "EV battery pack mein 'busbars' ka kya function hai?",
+      "options": {
+        "A": "Cooling liquid circulate karna",
+        "B": "Individual cells ko mechanical support dena",
+        "C": "Cells ke beech electrical connection provide karna",
+        "D": "Battery pack ko insulate karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Busbars thick metallic strips hoti hain jo battery pack ke andar individual cells ya modules ke beech low-resistance electrical connection provide karti hain, high currents ko safely carry karne ke liye."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Ek EV battery pack ki 'power density' kya darshati hai?",
+      "options": {
+        "A": "Kitni energy store kar sakti hai",
+        "B": "Kitni jaldi energy deliver kar sakti hai",
+        "C": "Kitna weight hai battery ka",
+        "D": "Kitna size hai battery ka"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Power density yeh darshati hai ki battery kitni jaldi energy deliver kar sakti hai (i.e., kitni power output de sakti hai), jo acceleration aur high-speed driving ke liye important hai. Energy density kitni energy store kar sakti hai, yeh batati hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "EV battery pack ko recycle karna kyon zaroori hai?",
+      "options": {
+        "A": "Valuable materials recover karne ke liye",
+        "B": "Environmental pollution kam karne ke liye",
+        "C": "Hazardous waste ko properly manage karne ke liye",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "EV battery packs mein valuable materials hote hain jinhe recover kiya ja sakta hai. Recycling environmental pollution ko kam karta hai aur hazardous waste ko safely dispose karne mein madad karta hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "EV mein electric motor ka primary function kya hai?",
+      "options": {
+        "A": "Battery ko charge karna",
+        "B": "Wheels ko ghumana",
+        "C": "AC system chalana",
+        "D": "Power steering provide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electric motor battery se electricity lekar wheels ko ghumane ke liye mechanical power generate karti hai, jisse vehicle chalti hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "EV motor controller (inverter) ka main role kya hai?",
+      "options": {
+        "A": "Battery cells ko monitor karna",
+        "B": "Battery voltage ko control karna",
+        "C": "Motor ki speed aur torque control karna",
+        "D": "Charging process manage karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Motor controller (inverter) battery se aane wali DC power ko motor ke liye variable frequency aur voltage AC power mein convert karta hai, jisse motor ki speed aur torque control hoti hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Regenerative braking mein motor kaise kaam karti hai?",
+      "options": {
+        "A": "Power consume karti hai",
+        "B": "Generator ki tarah kaam karti hai",
+        "C": "Neutral rehti hai",
+        "D": "Overheat ho jaati hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regenerative braking ke dauran, electric motor generator ki tarah kaam karti hai, vehicle ki kinetic energy ko electricity mein convert karke battery ko charge karti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Permanent Magnet Synchronous Motor (PMSM) ka ek fayda kya hai?",
+      "options": {
+        "A": "Kam efficiency",
+        "B": "High power density",
+        "C": "Zyada maintenance",
+        "D": "Heavy weight"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PMSM motors high power density aur high efficiency provide karti hain, isliye yeh modern EVs mein bahut common hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "EV drive train mein 'reduction gear' ka kya function hai?",
+      "options": {
+        "A": "Motor ki speed badhana",
+        "B": "Motor ke torque ko badhana aur speed kam karna",
+        "C": "Battery ko charge karna",
+        "D": "Gaadi ko reverse karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reduction gear motor ki high rotational speed ko kam karta hai aur torque ko badhata hai, jisse wheels ko zaroori power milti hai. EVs mein single-speed reduction gear common hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "EV mein power electronics ka kya role hai?",
+      "options": {
+        "A": "Vehicle ki body design karna",
+        "B": "Electrical power ko efficiently control aur convert karna",
+        "C": "Tires banana",
+        "D": "Seat material choose karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Power electronics devices jaise inverters aur converters electrical power ko efficiently control aur convert karte hain, jo EV powertrain ke liye essential hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Induction motors (asynchronous motors) ka ek characteristic kya hai?",
+      "options": {
+        "A": "Unmein permanent magnets hote hain",
+        "B": "Unmein rotor current induced hota hai",
+        "C": "Unmein brushes hote hain",
+        "D": "Woh sirf DC power par chalte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Induction motors mein rotor current stator ke rotating magnetic field dwara induce hota hai. Inmein permanent magnets nahi hote aur yeh AC power par chalte hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Ek EV motor mein 'stator' ka kya kaam hai?",
+      "options": {
+        "A": "Magnetic field create karna",
+        "B": "Rotor ko ghumana",
+        "C": "Power supply karna",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Stator motor ka stationary part hota hai jisme windings hoti hain. Jab current in windings se guzarta hai, toh ek rotating magnetic field create hota hai jo rotor ko ghumata hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "EV motor ke liye cooling system kyon zaroori hai?",
+      "options": {
+        "A": "Motor ko overcharge hone se bachane ke liye",
+        "B": "Motor ki efficiency aur life badhane ke liye",
+        "C": "Vehicle ke interior ko thanda rakhne ke liye",
+        "D": "Noise kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electric motors high power output ke dauran heat generate karti hain. Cooling system unhe optimum temperature par maintain karta hai, jisse unki performance, efficiency aur life badhti hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "EV mein 'on-board charger' ka kya function hai?",
+      "options": {
+        "A": "DC fast charging provide karna",
+        "B": "AC grid power ko DC mein convert karke battery charge karna",
+        "C": "Motor ko power supply karna",
+        "D": "Regenerative braking control karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "On-board charger AC grid power (jaise ghar ki supply) ko DC power mein convert karta hai, jisse EV ki high voltage battery charge ho sakti hai. DC fast chargers mein yeh conversion station par hota hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "EV transmission system mein 'differential' ka kya role hai?",
+      "options": {
+        "A": "Motor ki speed control karna",
+        "B": "Wheels ko alag-alag speed par ghumane dena",
+        "C": "Battery ko charge karna",
+        "D": "Brakes ko activate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Differential wheels ko alag-alag speed par ghumane deta hai, jo corners lete samay zaroori hai, taaki gaadi smoothly turn kar sake."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "EV motor ke 'torque' ka kya matlab hai?",
+      "options": {
+        "A": "Motor ki speed",
+        "B": "Motor ki rotational force",
+        "C": "Motor ka weight",
+        "D": "Motor ki efficiency"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Torque motor ki rotational force ko darshata hai, jo gaadi ko accelerate karne aur hills par chadhne ke liye zaroori hai. EVs high instant torque ke liye jaane jaate hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "EV motor ke winding insulation ki health check karna kyon zaroori hai?",
+      "options": {
+        "A": "Gaadi ki paint quality check karne ke liye",
+        "B": "Short circuits aur electrical failures se bachne ke liye",
+        "C": "Tires ki condition check karne ke liye",
+        "D": "Wiper blades badalne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Motor winding insulation ki health check karna bahut zaroori hai, kyuki damaged insulation short circuits, electrical failures aur safety hazards ka kaaran ban sakta hai. Iske liye insulation resistance test kiya jaata hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "EV motor ke control mein 'Pulse Width Modulation' (PWM) ka kya role hai?",
+      "options": {
+        "A": "Motor ki physical size control karna",
+        "B": "Motor ko supply ki gayi average voltage control karna",
+        "C": "Motor ka temperature control karna",
+        "D": "Motor ke noise level control karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "PWM ek technique hai jismein motor ko supply ki gayi average voltage ko pulses ki width (duration) ko vary karke control kiya jaata hai, jisse motor ki speed aur torque smoothly adjust hoti hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "EV motor mein bearings ka failure kis wajah se ho sakta hai?",
+      "options": {
+        "A": "Over-lubrication",
+        "B": "Under-lubrication ya contamination",
+        "C": "Kam speed par chalana",
+        "D": "Low voltage supply"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Motor bearings ka failure under-lubrication, contamination (dust, water), excessive load, ya improper installation ke kaaran ho sakta hai, jisse friction badhta hai aur wear hota hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Electric motor ke stator windings mein short circuit detect karne ka ek tareeka kya hai?",
+      "options": {
+        "A": "Tire pressure check karna",
+        "B": "Motor ke resistance ko measure karna (multimeter se)",
+        "C": "Headlights on karna",
+        "D": "Horn bajana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Stator windings mein short circuit detect karne ke liye multimeter se resistance measure kiya ja sakta hai. Agar resistance expected value se considerably kam ho, toh short circuit ho sakta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "EV mein 'transaxle' ka kya function hai?",
+      "options": {
+        "A": "Battery ko hold karna",
+        "B": "Motor, reduction gear aur differential ko ek unit mein combine karna",
+        "C": "Charging port provide karna",
+        "D": "Suspension system ka part hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Transaxle ek compact unit hai jo motor, reduction gear aur differential ko combine karti hai, khas kar front-wheel-drive EVs mein, jisse space bachta hai aur drivetrain simple hota hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Level 2 EV charging mein kaun sa power source use hota hai?",
+      "options": {
+        "A": "Standard household 120V AC outlet",
+        "B": "240V AC outlet",
+        "C": "DC fast charger",
+        "D": "Solar panels directly"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Level 2 charging mein 240V AC outlet use hota hai, jo Level 1 se tez charge karta hai aur ghar ya public charging stations par common hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "DC fast charging ko Level 3 charging bhi kehte hain. Iska main fayda kya hai?",
+      "options": {
+        "A": "Sabse sasta charging option",
+        "B": "Sabse tez charging option",
+        "C": "Ghar par install karna aasaan hai",
+        "D": "Sabse kam power consume karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "DC fast charging (Level 3) sabse tez charging option hai, jo EV ko kuch hi minutes mein 80% tak charge kar sakta hai, lambi yatraon ke liye ideal hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "India mein public DC fast charging ke liye kaun sa connector standard ban raha hai?",
+      "options": {
+        "A": "Type 1 (J1772)",
+        "B": "CHAdeMO",
+        "C": "CCS2 (Combined Charging System 2)",
+        "D": "Tesla Supercharger"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "India mein CCS2 (Combined Charging System 2) DC fast charging ke liye preferred standard ban raha hai, jo AC aur DC charging dono ko support karta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "EV charging station par 'earthing' kyon zaroori hai?",
+      "options": {
+        "A": "Charging speed badhane ke liye",
+        "B": "Electric shock se bachne ke liye aur safety ke liye",
+        "C": "Charging cable ko thanda rakhne ke liye",
+        "D": "Charger ko sundar dikhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Earthing (grounding) electric shock se bachne aur electrical safety ensure karne ke liye bahut zaroori hai, khas kar high voltage charging systems mein."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "EV ko pani mein ya bahut geeli jagah par charge karte samay kya precaution lena chahiye?",
+      "options": {
+        "A": "Koi precaution nahi",
+        "B": "Charging cable ko tightly wrap karein",
+        "C": "Ensure karein ki charging equipment aur connector dry hon",
+        "D": "Charger par plastic sheet daal dein"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Pani electrical conductivity badhata hai aur shock ka khatra badha deta hai. Hamesha ensure karein ki charging equipment aur connector dry hon aur pani ke contact mein na aayein."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Kisi EV mein high voltage system par kaam karte samay, 'lockout/tagout' procedure ka kya matlab hai?",
+      "options": {
+        "A": "Vehicle ko lock karna",
+        "B": "Energy sources ko disable aur tag karna",
+        "C": "Tools ko lock karna",
+        "D": "Battery ko lock karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lockout/tagout procedure mein high voltage system ko disconnect karke use lock kar diya jaata hai aur warning tags lagaye jaate hain, taaki galti se bhi koi system ko energize na kar de."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Bharat EV Charger specification ka kya fayda hai?",
+      "options": {
+        "A": "International standards ko follow karta hai",
+        "B": "India ke liye specific aur cost-effective charging solution provide karta hai",
+        "C": "Sirf luxury EVs ko charge karta hai",
+        "D": "Sirf AC charging support karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bharat EV Charger specification India ke liye develop kiya gaya hai, jo local conditions aur requirements ke hisaab se cost-effective aur robust charging solution provide karta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "EV charging cable ko damage se bachane ke liye kya karna chahiye?",
+      "options": {
+        "A": "Usko zameen par drag karna",
+        "B": "Usko gadi ke niche se nikalna",
+        "C": "Carefully handle karna aur proper storage mein rakhna",
+        "D": "Usko garmi mein chhod dena"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Charging cable ko carefully handle karna aur use proper storage mein rakhna uske damage ko rokta hai, jisse safety aur functionality maintain rehti hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "EV charging station par 'overload protection' kyon zaroori hai?",
+      "options": {
+        "A": "Charger ki speed badhane ke liye",
+        "B": "Electrical system ko damage se bachane ke liye",
+        "C": "Charging cable ko lamba karne ke liye",
+        "D": "Charging cost kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overload protection electrical circuits ko excessive current flow se hone wale damage se bachati hai, jisse aag ya equipment failure ka risk kam hota hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Ek EV fire emergency mein, kis type ke extinguisher ka use karna chahiye?",
+      "options": {
+        "A": "Water extinguisher (paani)",
+        "B": "Foam extinguisher",
+        "C": "Class D (metal fire) ya CO2 extinguisher",
+        "D": "Dry chemical (ABC) extinguisher"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "EV battery fires mein high voltage aur lithium jaise reactive metals shamil ho sakte hain. Isliye Class D (metal fire) extinguisher ya CO2 extinguisher recommended hain. Paani ya foam electric shock ka khatra badha sakte hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "EV charging infrastructure mein 'smart charging' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf mobile app se charge karna",
+        "B": "Charging process ko schedule aur optimize karna",
+        "C": "Sirf fast charging karna",
+        "D": "Wireless charging karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Smart charging mein charging process ko optimize kiya jaata hai, jaise peak hours mein charging avoid karna, renewable energy se charge karna, ya grid stability maintain karna, jisse cost aur load manage hota hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "EV charging ke liye 'Type 2' connector ka ek common naam kya hai?",
+      "options": {
+        "A": "J1772",
+        "B": "Mennekes",
+        "C": "CHAdeMO",
+        "D": "CCS"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Type 2 connector ko 'Mennekes' connector bhi kehte hain aur yeh Europe aur India mein AC charging ke liye ek common standard hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "High voltage EV cables ko kaise identify kiya jaata hai?",
+      "options": {
+        "A": "Blue colour se",
+        "B": "Green colour se",
+        "C": "Orange colour se",
+        "D": "Black colour se"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "High voltage EV cables ko generally distinctive orange colour se identify kiya jaata hai, taaki technicians aur emergency personnel ko high voltage components ki pehchan ho sake."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "EV charging station par 'Residual Current Device' (RCD) kyon lagaya jaata hai?",
+      "options": {
+        "A": "Over-current protection ke liye",
+        "B": "Earth leakage current se protection ke liye",
+        "C": "Voltage regulation ke liye",
+        "D": "Charging speed control ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "RCD (ya RCCB) earth leakage current ko detect karta hai aur power supply ko turant disconnect kar deta hai, jisse electric shock ka khatra kam hota hai, khas kar jab koi fault ho."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Agar EV charging cable garm ho rahi hai, toh iska kya matlab ho sakta hai?",
+      "options": {
+        "A": "Normal operation hai",
+        "B": "Under-current flow ho raha hai",
+        "C": "Overload ya loose connection ho sakta hai",
+        "D": "Charger kharab hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Charging cable ka excessive garm hona overload, loose connection, ya cable damage ka sanket ho sakta hai, jo safety hazard create kar sakta hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "EV charging process mein 'handshake protocol' ka kya role hai?",
+      "options": {
+        "A": "Charger aur vehicle ke beech communication establish karna",
+        "B": "Charging speed increase karna",
+        "C": "Battery temperature control karna",
+        "D": "Charging cable ko lock karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Handshake protocol charger aur EV ke beech communication establish karta hai, jismein vehicle apni battery status aur required charging parameters batati hai, aur charger uske hisaab se power supply adjust karta hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "EV ko public charging station par charge karte samay, kis baat ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Apne charger ko use karna",
+        "B": "Charging etiquette aur parking rules follow karna",
+        "C": "Dusri gaadiyon ko block karna",
+        "D": "Charging port ko khula chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Public charging stations par charging etiquette aur parking rules follow karna zaroori hai, taaki sabhi users ko suvidha mil sake aur parking spaces ka sahi upyog ho."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "EV ki routine maintenance mein kaun sa check shamil nahi hota hai?",
+      "options": {
+        "A": "Tire pressure check",
+        "B": "Brake fluid level check",
+        "C": "Engine oil change",
+        "D": "Wiper blade inspection"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "EVs mein internal combustion engine nahi hota, isliye engine oil change ki zaroorat nahi padti. Baaki sab checks routine EV maintenance ka part hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "EV mein 'Brake Fluid' ki importance kya hai?",
+      "options": {
+        "A": "Battery ko thanda rakhna",
+        "B": "Braking system ko hydraulic pressure provide karna",
+        "C": "Motor ko lubricate karna",
+        "D": "Windshield clean karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Brake fluid braking system mein hydraulic pressure transfer karta hai, jisse brake pedal dabane par calipers activate hote hain aur gaadi rukti hai. Yeh EVs aur ICE vehicles dono mein zaroori hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "EV diagnostic tool 'OBD-II scanner' ka kya kaam hai?",
+      "options": {
+        "A": "Gaadi ki speed badhana",
+        "B": "Vehicle ke onboard computer se error codes read karna",
+        "C": "Battery ko charge karna",
+        "D": "Tires change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "OBD-II (On-Board Diagnostics II) scanner vehicle ke onboard computer se diagnostic trouble codes (DTCs) ko read karta hai, jisse technicians faults ko identify kar sakte hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Agar EV mein 'Check EV System' warning light aati hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Ignor karna",
+        "B": "Turant drive karte rehna",
+        "C": "Gaadi ko safe jagah par park karna aur qualified technician se check karwana",
+        "D": "Battery ko disconnect karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Warning light aane par gaadi ko safe jagah par park karna aur qualified technician se check karwana zaroori hai, kyuki yeh high voltage system mein serious fault ka sanket ho sakta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "EV battery ke 'State of Health' (SOH) ko kaise determine karte hain?",
+      "options": {
+        "A": "Battery ka physical colour dekh kar",
+        "B": "Battery ki current capacity ko original capacity se compare karke",
+        "C": "Battery ka weight measure karke",
+        "D": "Battery ki cleanliness dekh kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "State of Health (SOH) battery ki current performance ko uski original factory performance se compare karke determine kiya jaata hai, jo uski overall degradation ko darshata hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "High voltage system par kaam karte samay 'insulation tester' ka kya use hai?",
+      "options": {
+        "A": "Voltage level measure karna",
+        "B": "Current flow measure karna",
+        "C": "Insulation resistance check karna",
+        "D": "Battery temperature measure karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Insulation tester high voltage cables aur components ke insulation ki integrity ko check karta hai. Agar insulation weak ho toh electric shock ya component failure ka risk hota hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "EV mein 'cooling system' ka maintenance kyon zaroori hai?",
+      "options": {
+        "A": "Interior cabin ko thanda rakhne ke liye",
+        "B": "Battery aur motor ko overheat hone se bachane ke liye",
+        "C": "Power steering ko operate karne ke liye",
+        "D": "Brakes ko lubricate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "EV cooling system battery aur motor jaise critical components ko optimum temperature par maintain karta hai. Regular maintenance unki efficiency aur life ke liye zaroori hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "EV mein 'auxiliary battery' (12V battery) ka kya function hai?",
+      "options": {
+        "A": "Electric motor ko drive karna",
+        "B": "Low voltage accessories aur systems ko power dena",
+        "C": "High voltage battery ko charge karna",
+        "D": "Regenerative braking mein help karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Auxiliary 12V battery low voltage systems jaise headlights, infotainment, power windows aur vehicle ki startup electronics ko power deti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "EV mein 'tire rotation' kyon zaroori hai?",
+      "options": {
+        "A": "Battery range badhane ke liye",
+        "B": "Tires ka even wear ensure karne ke liye",
+        "C": "Brakes ko thanda rakhne ke liye",
+        "D": "Motor efficiency badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tire rotation tires ka even wear ensure karta hai, jisse unki life badhti hai aur vehicle ki handling aur safety maintain rehti hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Agar EV mein koi high voltage component replace karna ho, toh kya procedure follow karna chahiye?",
+      "options": {
+        "A": "Directly replace kar dena",
+        "B": "High voltage system ko disable aur safety protocols follow karna",
+        "C": "Sirf gloves pehn kar kaam karna",
+        "D": "Battery ko overcharge karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High voltage components ko replace karte samay, high voltage system ko disable karna (service disconnect plug remove karna) aur proper safety protocols ko follow karna anivarya hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "EV ke 'suspension system' ka regular check kyon zaroori hai?",
+      "options": {
+        "A": "Charging time kam karne ke liye",
+        "B": "Ride comfort, handling aur tire wear ke liye",
+        "C": "Battery temperature control karne ke liye",
+        "D": "Motor noise kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Suspension system ka regular check ride comfort, vehicle handling aur tire wear ke liye zaroori hai, khaas kar EVs mein jo battery pack ke kaaran heavy hote hain."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "EV mein 'HVAC system' ka kya role hai aur uska maintenance kyon zaroori hai?",
+      "options": {
+        "A": "Sirf battery ko thanda rakhna",
+        "B": "Cabin heating aur cooling; passenger comfort ke liye",
+        "C": "Motor ko lubricate karna",
+        "D": "Brakes ko activate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HVAC (Heating, Ventilation, and Air Conditioning) system cabin heating aur cooling provide karta hai, jo passenger comfort ke liye zaroori hai. Iska maintenance system ki efficiency maintain karta hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "EV mein battery pack leak hone par kya action lena chahiye?",
+      "options": {
+        "A": "Leak ko ignore karna",
+        "B": "Leakage area ko touch karna",
+        "C": "Immediately safety protocols follow karna, area ko ventilate karna aur qualified personnel ko inform karna",
+        "D": "Battery pack ko paani se dhona"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Battery pack leakage hazardous ho sakta hai. Immediately safety protocols follow karein, area ko acche se ventilate karein aur qualified personnel ko inform karein. Leakage ko kabhi bhi touch na karein."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "EV mein 'Diagnostic Trouble Codes' (DTCs) ko clear karne se pehle kya zaroori hai?",
+      "options": {
+        "A": "Gaadi ko test drive karna",
+        "B": "Root cause ko identify aur repair karna",
+        "C": "Battery ko disconnect karna",
+        "D": "Tires ka pressure adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DTCs ko clear karne se pehle underlying fault ya root cause ko identify aur repair karna bahut zaroori hai, anyatha fault dobara aa jaayega. DTCs sirf symptoms batate hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "EV mein 'power steering fluid' ka level check karna kyon zaroori hai?",
+      "options": {
+        "A": "EVs mein electric power steering hota hai jisme fluid ki zaroorat nahi hoti",
+        "B": "Brakes ko operate karne ke liye",
+        "C": "Motor ko lubricate karne ke liye",
+        "D": "Battery ko thanda rakhne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Most modern EVs mein Electric Power Steering (EPS) system hota hai, jismein hydraulic fluid ki zaroorat nahi padti. Isliye power steering fluid level check karna EV maintenance ka part nahi hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "EV service karte samay 'safety interlocks' ka kya role hai?",
+      "options": {
+        "A": "Service door ko lock karna",
+        "B": "High voltage system ko automatically disable karna jab koi access panel khula ho",
+        "C": "Tires ko lock karna",
+        "D": "Charger ko lock karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Safety interlocks devices hote hain jo high voltage system ko automatically disable kar dete hain jab koi high voltage component ka access panel ya service door khola jaata hai, jisse technicians ki safety ensure hoti hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "'Vehicle-to-Grid' (V2G) technology ka ek potential fayda kya hai?",
+      "options": {
+        "A": "EVs ko sirf ghar par charge karna",
+        "B": "EVs ko power grid ke liye energy storage ke roop mein use karna",
+        "C": "EVs ko sirf solar power se chalana",
+        "D": "EVs ko bina charger ke charge karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "V2G technology EVs ko power grid ke liye distributed energy storage ke roop mein use karne ka potential rakhti hai, jisse grid stability badhti hai aur renewable energy ka better use hota hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Autonomous EVs (self-driving cars) mein sabse important technology kaun si hai?",
+      "options": {
+        "A": "Strong AC system",
+        "B": "Advanced sensors aur AI",
+        "C": "Manual transmission",
+        "D": "Petrol engine"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Autonomous EVs advanced sensors (cameras, radar, lidar) aur Artificial Intelligence (AI) ka use karte hain apne surroundings ko sense karne aur drive karne ke liye."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "EVs ke through 'carbon footprint' kam karne ka main tareeka kya hai?",
+      "options": {
+        "A": "Zyada fast charging karna",
+        "B": "Zero tailpipe emissions provide karna",
+        "C": "Gaadi ko kam chalana",
+        "D": "Sirf white colour ki gaadiyan kharidna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "EVs zero tailpipe emissions provide karte hain, jisse local air pollution aur greenhouse gas emissions kam hote hain, khas kar agar electricity renewable sources se bani ho."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "'Sustainable mobility' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf private vehicles ka use karna",
+        "B": "Transportation options jo environmental, social aur economic needs ko balance karte hain",
+        "C": "Sirf public transport use karna",
+        "D": "Sirf air travel use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sustainable mobility aise transportation options ko refer karti hai jo long-term mein environmental damage kam kare, social equity badhaye aur economic viability maintain kare."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "EV battery recycling ka ek fayda kya hai?",
+      "options": {
+        "A": "Battery ka weight kam karna",
+        "B": "Expensive rare earth metals ko recover karna",
+        "C": "Battery ko naya banana",
+        "D": "Battery ko dispose karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "EV battery recycling se valuable aur expensive rare earth metals jaise Lithium, Cobalt, Nickel ko recover kiya ja sakta hai, jo naye battery production ke liye use ho sakte hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "India mein EV manufacturing ko boost karne ke liye government kya kar rahi hai?",
+      "options": {
+        "A": "EVs par tax badha rahi hai",
+        "B": "FAME India jaisi schemes aur production-linked incentives de rahi hai",
+        "C": "Petrol cars ko promote kar rahi hai",
+        "D": "EV charging stations ko band kar rahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Government FAME India scheme, PLI (Production Linked Incentive) schemes aur other policies ke through EV manufacturing aur adoption ko promote kar rahi hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "EVs ko 'silent vehicles' kyon kehte hain?",
+      "options": {
+        "A": "Unmein horn nahi hota",
+        "B": "Unmein engine noise nahi hota",
+        "C": "Unmein music system nahi hota",
+        "D": "Woh bahut dheere chalte hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "EVs ko silent vehicles kehte hain kyuki unmein internal combustion engine nahi hota, isliye woh ICE vehicles ke comparison mein bahut kam noise create karte hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "EVs mein 'bi-directional charging' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf ek direction mein charge karna",
+        "B": "Vehicle se grid tak aur grid se vehicle tak power flow karna",
+        "C": "Sirf AC charging karna",
+        "D": "Wireless charging karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bi-directional charging (V2G ka ek part) mein power vehicle ki battery se grid mein ja sakti hai aur grid se vehicle mein bhi aa sakti hai, jisse grid management mein flexibility milti hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "EV battery ke 'second life' applications ka kya matlab hai?",
+      "options": {
+        "A": "Usi EV mein dobara use karna",
+        "B": "Kam demanding applications mein use karna, jaise grid storage",
+        "C": "Nayi battery banana",
+        "D": "Battery ko dispose karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "EV batteries jab vehicle use ke liye apni capacity kho deti hain, toh unhe kam demanding applications jaise grid-scale energy storage ya residential backup power mein 'second life' di ja sakti hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "EV market mein 'gigafactory' term kyon use hota hai?",
+      "options": {
+        "A": "Bahut bade charging station ke liye",
+        "B": "Bahut bade EV battery manufacturing plants ke liye",
+        "C": "Bahut bade EV showroom ke liye",
+        "D": "Bahut bade EV service center ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gigafactory ek term hai jo bahut bade scale par EV batteries aur related components manufacture karne wale plants ke liye use hota hai, jaise Tesla ki gigafactories."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "EVs ke adoption se urban areas mein kaun sa pollution kam ho sakta hai?",
+      "options": {
+        "A": "Light pollution",
+        "B": "Noise pollution aur air pollution",
+        "C": "Water pollution",
+        "D": "Soil pollution"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "EVs ke adoption se urban areas mein noise pollution (engine noise kam hone se) aur air pollution (zero tailpipe emissions se) kam hota hai, jisse shahar zyada livable bante hain."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Fuel Cell Electric Vehicles (FCEVs) ka ek challenge kya hai?",
+      "options": {
+        "A": "Bahut saste hote hain",
+        "B": "Hydrogen infrastructure ki kami",
+        "C": "Battery charging ki zaroorat nahi",
+        "D": "Zero emissions"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "FCEVs ka ek major challenge hydrogen production, storage aur distribution ke liye extensive infrastructure ki kami hai, jo unke wide adoption ko limit karta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "EV technology mein 'solid-state batteries' ka kya potential fayda hai?",
+      "options": {
+        "A": "Kam energy density",
+        "B": "Behtar safety, zyada energy density aur faster charging",
+        "C": "Heavy weight",
+        "D": "Liquid electrolyte use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Solid-state batteries future EV technology hain jinka potential fayda behtar safety (no flammable liquid electrolyte), zyada energy density (longer range) aur faster charging hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "India mein EV charging infrastructure develop karne mein kya challenges hain?",
+      "options": {
+        "A": "High availability of land",
+        "B": "High initial investment aur grid capacity issues",
+        "C": "Low demand for EVs",
+        "D": "Sasti electricity"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "India mein EV charging infrastructure develop karne ke major challenges mein high initial investment, limited grid capacity, aur reliable power supply ki availability shamil hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "EVs ke 'Total Cost of Ownership' (TCO) mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf purchase price",
+        "B": "Purchase price, running cost, maintenance, aur resale value",
+        "C": "Sirf insurance cost",
+        "D": "Sirf fuel cost"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "TCO mein vehicle ki purchase price, electricity/fuel cost, insurance, maintenance, repairs, aur resale value jaise sabhi expenses shamil hote hain, jo long-term cost ko darshate hain."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "EVs ko promoting karne se 'energy security' kaise badhti hai?",
+      "options": {
+        "A": "Petrol aur diesel par dependency badh jaati hai",
+        "B": "Imported crude oil par dependency kam hoti hai",
+        "C": "Sirf foreign battery suppliers par dependency badhti hai",
+        "D": "Domestic electricity production par koi asar nahi padta"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "EVs ko promote karne se imported crude oil par dependency kam hoti hai, kyuki vehicles electricity par chalte hain, jo domestic sources se produce ho sakti hai, jisse desh ki energy security badhti hai."
+    }
+  ]
+}

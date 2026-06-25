@@ -1,0 +1,309 @@
+{
+  "course_name": "GST Practitioner & Billing Professional",
+  "sector": "Business, Retail & Finance",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_weeks": 8,
+  "total_hours": 120,
+  "hero_description": "Master GST compliance, billing systems, and tax documentation to become a skilled GST Practitioner. This course trains you in India's modern taxation system, making you job-ready for retail, e-commerce, and corporate sectors. Learn practical billing software, invoice management, and GST filing procedures used in Indian businesses daily.",
+  "overview_description": "This foundation-level course covers GST fundamentals, billing software operations, tax calculation methods, and compliance procedures essential for modern Indian businesses. You'll gain hands-on experience with billing systems, understand GST slabs and exemptions, create proper invoices, and manage tax records. The course prepares you for entry-level roles in retail stores, corporate offices, accounting firms, and e-commerce companies across India.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "GST Fundamentals & Indian Tax System",
+      "week_range": "Week 1-2",
+      "hours": 15,
+      "topics": [
+        "History of GST in India — Why GST replaced old tax system (VAT, Excise, Service Tax). How GST unified Indian taxation since July 2017.",
+        "GST structure and types — Understanding CGST (Central GST), SGST (State GST), IGST (Integrated GST), and Cess. Real examples of how taxes work on Rs 100 product.",
+        "Difference between direct and indirect taxes — What is direct tax (Income Tax) vs indirect tax (GST). Why businesses collect and deposit GST.",
+        "GST registration process in India — Who must register, online registration steps at www.gst.gov.in, documents needed (PAN, Aadhaar, Shop address proof).",
+        "GST slabs in India — 0%, 5%, 12%, 18%, 28% rates explained with common product examples (medicines, clothes, electronics, luxury items).",
+        "Taxable and non-taxable goods — Which items have GST, which are exempted (basic food, education, healthcare), importance for billing accuracy.",
+        "Input Tax Credit (ITC) concept — How businesses reduce tax by claiming credit on purchased goods. Real scenario: buying Rs 1000 stock with GST.",
+        "GST registration certificate and GSTIN — What is GSTIN (15-digit number), how to find it, importance in invoicing and business credibility.",
+        "Difference between B2B, B2C, and B2G transactions — Business-to-Business, Business-to-Consumer, Business-to-Government transactions and their GST treatment.",
+        "Composition scheme for small businesses — 1% GST for traders with turnover below Rs 1.5 crore, benefits and limitations for small shops."
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Billing Systems & Invoice Management",
+      "week_range": "Week 2-3",
+      "hours": 18,
+      "topics": [
+        "Manual vs digital billing — When to use manual billing (small shops), when digital billing is mandatory (online stores, big retailers). POS systems explained.",
+        "GST-compliant invoice structure — Mandatory fields: Invoice number, date, seller details, buyer details, GSTIN, HSN/SAC codes, item description, quantity, rate, tax amount, total amount.",
+        "Creating proper GST invoices step-by-step — Practical exercise: creating 5 sample invoices for different products (grocery, apparel, electronics) with correct tax calculation.",
+        "Understanding HSN and SAC codes — HSN codes for goods (8-digit), SAC codes for services (8-digit). How to find correct codes for products using GST portal.",
+        "Billing software training (Tally/GST-Ready POS) — Hands-on training on popular Indian billing software: data entry, invoice generation, tax calculation, report printing.",
+        "E-invoicing and e-way bills — E-invoice system for B2B transactions, e-way bill for goods movement between states. When they are mandatory.",
+        "Tax calculation methods — Simple calculation: Base Price + GST. Example: Rs 1000 item at 18% = Rs 1000 + Rs 180 = Rs 1180 total. Reverse calculation for inclusive prices.",
+        "Discount and offer handling in GST — How to apply discounts correctly without affecting GST calculation. Trade discount vs cash discount treatment.",
+        "Credit notes and debit notes — When issued (returns, price corrections), how they affect GST, proper documentation with examples.",
+        "Billing for different customer types — Individual customers, registered businesses, government departments. Different invoice requirements for each.",
+        "Digital payment integration — Linking UPI, card payments, bank transfers to billing system. Recording payment methods in invoices.",
+        "Invoice storage and retrieval — Digital backup systems, GST portal requirements for invoice retention (6 years), physical file organization for small shops."
+      ]
+    },
+    {
+      "number": 3,
+      "title": "GST Compliance & Tax Filing Procedures",
+      "week_range": "Week 4-5",
+      "hours": 16,
+      "topics": [
+        "Monthly GST returns filing — GSTR-1 (outward supplies), GSTR-2 (inward supplies), GSTR-3B (summary return). Deadlines: 11th, 15th, 20th of next month.",
+        "GSTR-1 filing step-by-step — What to include (all B2B invoices), how to upload on GST portal, common errors to avoid, deadline extensions.",
+        "GSTR-2 filing and ITC claims — Recording purchases, claiming Input Tax Credit, matching invoices with seller's GSTR-1, importance for business savings.",
+        "GSTR-3B summary return — Monthly reconciliation of tax collected vs tax paid, calculating net GST liability, payment deadlines and late fees.",
+        "GST payment methods — Online payment via GST portal, bank transfer, credit/debit card. Understanding payment challans and receipt generation.",
+        "Late filing penalties and interest — Penalties for missed deadlines (Rs 100-500 per day), interest on unpaid GST (18% per annum). Real examples of financial impact.",
+        "Quarterly returns for composition dealers — GSTR-4 for businesses under composition scheme, simplified filing process, lower compliance burden.",
+        "Annual return filing — GSTR-9 annual reconciliation (by December), reconciling monthly returns with annual figures, importance for audit trail.",
+        "GST audit and compliance checks — Random audits, what documents to maintain, inspection by GST officers, preparing for audit with proper records.",
+        "Amendments and corrections in returns — Correcting filed returns, revised return filing (GSTR-1R), time limits for amendments, penalties for false information.",
+        "GST portal navigation and account management — Dashboard features, downloading certificates, tracking payment status, resolving portal login issues.",
+        "Record-keeping requirements — Documents to maintain: invoices, purchase orders, delivery notes, payment receipts, GST returns. Digital vs physical storage norms."
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Tax Calculations & Special Transactions",
+      "week_range": "Week 5-6",
+      "hours": 17,
+      "topics": [
+        "Basic GST calculation on goods — Step-by-step: Price before tax + GST % = Final price. Working with 5%, 12%, 18%, 28% rates. 10 practical examples.",
+        "GST on services — Service tax calculation, difference from goods tax, examples: restaurant bills, salon services, transportation, consulting fees.",
+        "Supply of goods vs supply of services distinction — How to classify transactions correctly, impact on GST rate, common confusion areas.",
+        "Reverse charge mechanism — When buyer pays GST directly to government (B2B services, imports). Circumstances: unregistered suppliers, construction services, e-commerce.",
+        "Intra-state vs inter-state supplies — SGST+CGST for intra-state, IGST for inter-state. Practical: selling from Delhi to Mumbai (IGST) vs Delhi to Delhi (SGST+CGST).",
+        "E-commerce operator GST responsibilities — Marketplace GST collection, TDS (Tax Deducted at Source) on seller payments, GST on commission charges.",
+        "Job work and contract manufacturing — GST on job work (processing raw materials), input tax credit on materials supplied, invoice requirements.",
+        "Import and export GST treatment — 0% GST on exports (with documentation), GST on imports, customs duty vs GST, export-import procedures.",
+        "Deemed supply transactions — Gift, free samples, personal use items. When GST is applicable even without payment, impact on ITC.",
+        "Special schemes: SEZ and Special Economic Zones — Zero GST for supplies within SEZ, documentation for SEZ transactions.",
+        "Advance payment and GST timing — When GST is due: on invoice date or payment date. Handling advance payments and partial deliveries.",
+        "Valuation of goods for GST — Determining taxable value when discounts applied, handling bundled products, transfer pricing in related party transactions."
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Practical Billing Software & Real-World Scenarios",
+      "week_range": "Week 6-7",
+      "hours": 19,
+      "topics": [
+        "Tally ERP 9 for GST — Installation, basic setup, creating company with GST details, configuring tax rates and HSN codes.",
+        "Point of Sale (POS) system operations — Daily transactions, inventory management, customer billing, generating daily reports, end-of-day reconciliation.",
+        "Creating master data in billing systems — Product master (name, HSN code, rate, tax rate), customer master (name, GSTIN, address), supplier master setup.",
+        "Processing daily sales transactions — Recording cash sales, credit sales, multiple item billing, applying discounts, printing receipts with GST details.",
+        "Managing stock and inventory — Stock entry, stock transfer between locations, stock adjustment for damage/loss, stock reports and valuation.",
+        "Processing purchases and maintaining purchase records — Recording supplier invoices, verifying HSN codes and tax rates, storing for ITC claims.",
+        "Handling returns and adjustments — Processing customer returns, issuing credit notes, supplier returns (debit notes), impact on GST calculations.",
+        "Monthly reconciliation and closing — Matching invoices with GST returns, identifying discrepancies, bank reconciliation, preparing for filing.",
+        "GST report generation from billing software — GSTR-1 auto-generation, GSTR-2 data preparation, exporting data for portal filing.",
+        "Multi-location billing — Managing branches, inter-branch transfers, consolidating GST returns from multiple locations.",
+        "Backup and data security — Daily backup procedures, cloud backup options, protecting billing data from loss, disaster recovery planning.",
+        "Troubleshooting common billing errors — Duplicate invoices, missing HSN codes, tax rate mismatches, resolving portal upload failures.",
+        "Mobile billing and offline operations — Billing without internet, syncing data when online, mobile POS devices for retail stores."
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Professional Skills & Career Development",
+      "week_range": "Week 7-8",
+      "hours": 15,
+      "topics": [
+        "Communication skills for GST professionals — Explaining GST to non-technical clients, responding to GST officer queries, professional email writing.",
+        "Customer service in billing operations — Handling payment disputes, addressing invoice queries, resolving billing complaints, maintaining customer relationships.",
+        "Ethical practices in GST compliance — Avoiding tax evasion, reporting accurate figures, maintaining confidentiality, professional conduct standards.",
+        "Continuous learning and GST updates — Following GST Council notifications, understanding tax changes, subscribing to GST news, staying compliant.",
+        "Soft skills for accounting professionals — Time management, attention to detail, accuracy in calculations, working under pressure during month-end.",
+        "Interview preparation for GST roles — Common questions: 'Explain GST', 'How to file GSTR-1', salary negotiations, presenting your GST knowledge confidently.",
+        "Building professional network — Joining accounting associations, attending GST seminars, connecting with finance professionals, online communities.",
+        "Self-employment and freelance GST consulting — Starting as independent GST consultant, pricing GST compliance services, managing multiple clients.",
+        "Entrepreneurship: Starting a billing service center — Business plan for billing bureau, investment needed (software, computer, printer), revenue model.",
+        "Understanding business financials beyond GST — Profit-loss concepts, basic accounting, how GST fits in financial statements, reading balance sheets.",
+        "Legal responsibilities and documentation — Acting as authorized signatory on GST returns, legal liability for false information, insurance for professionals.",
+        "Advanced certifications and upskilling paths — CA, CMA, GST certification courses, online platforms (ICAI, ICMAI), career progression opportunities."
+      ]
+    }
+  ],
+  "assessment": {
+    "theory_marks": 50,
+    "theory_format": "25 Questions x 2 Marks each (Multiple Choice + Short Answer)",
+    "theory_duration": "45 minutes",
+    "practical_marks": 50,
+    "practical_format": "Hands-on assessment of GST compliance, billing software operations, and invoice creation with real-world scenarios",
+    "practical_items": [
+      {
+        "title": "GST Invoice Creation & Calculation",
+        "description": "Candidate must create 3 GST-compliant invoices for different products (different tax slabs), showing correct HSN codes, tax calculations, and mandatory fields. Manual or software-based submission accepted.",
+        "marks": 15
+      },
+      {
+        "title": "Billing Software Operation",
+        "description": "Candidate must operate billing software (Tally/POS) to process 5 sample transactions (sales, returns, discounts), generate invoices, and produce daily report. Assessed on accuracy and speed.",
+        "marks": 15
+      },
+      {
+        "title": "GST Return Filing Simulation",
+        "description": "Candidate must prepare GSTR-1 and GSTR-3B for a sample business using provided transaction data. Must identify correct tax rates, calculate ITC, and show proper filing format.",
+        "marks": 10
+      },
+      {
+        "title": "Real-World Problem Solving",
+        "description": "Candidate must solve 3 case studies: handling inter-state supplies, processing returns with credit notes, and resolving billing discrepancies. Written answers showing GST knowledge.",
+        "marks": 10
+      }
+    ],
+    "total_marks": 100,
+    "pass_percentage": 50
+  },
+  "eligibility": [
+    "Minimum age: 14 years (with parental consent) or 18 years (independent)",
+    "Minimum education: Class 8th pass or equivalent",
+    "No prior GST or billing experience needed — course is for beginners",
+    "Already working in retail/billing? Apply for Direct RPL (Recognition of Prior Learning) exam",
+    "Valid ID proof required: Aadhaar, PAN, Passport, or Voter ID",
+    "Applicable for all Indian citizens and foreign nationals with valid visa",
+    "No medical fitness certificate required",
+    "Candidates with disability eligible under equal opportunity provisions"
+  ],
+  "learning_outcomes": [
+    "Understand GST structure, tax slabs, and compliance requirements in India",
+    "Create GST-compliant invoices with correct tax calculations and HSN codes",
+    "Operate billing software and POS systems for daily business transactions",
+    "File GSTR-1, GSTR-2, and GSTR-3B returns accurately and on time",
+    "Calculate ITC (Input Tax Credit) and manage GST liability for businesses",
+    "Handle special transactions: inter-state supplies, returns, reverse charge, e-commerce"
+  ],
+  "career_paths": [
+    {
+      "title": "GST Billing Executive (Retail Stores)",
+      "type": "Employment",
+      "salary": "15000-25000/month",
+      "icon": "🏪"
+    },
+    {
+      "title": "Billing Supervisor (E-commerce & Retail)",
+      "type": "Employment",
+      "salary": "20000-35000/month",
+      "icon": "💼"
+    },
+    {
+      "title": "GST Compliance Officer (Corporate)",
+      "type": "Employment",
+      "salary": "18000-30000/month",
+      "icon": "🏢"
+    },
+    {
+      "title": "Freelance GST Consultant",
+      "type": "Self-Employment",
+      "salary": "30000-60000/month (variable)",
+      "icon": "👨‍💻"
+    },
+    {
+      "title": "Billing Service Center Owner",
+      "type": "Entrepreneurship",
+      "salary": "40000-100000+/month",
+      "icon": "🏭"
+    },
+    {
+      "title": "Accounting Assistant (Firms & CA Offices)",
+      "type": "Employment",
+      "salary": "12000-22000/month",
+      "icon": "📊"
+    },
+    {
+      "title": "E-commerce Seller (Self-Employment)",
+      "type": "Entrepreneurship",
+      "salary": "25000-75000+/month",
+      "icon": "🛒"
+    },
+    {
+      "title": "Tax Assistant (Government/Audit Firms)",
+      "type": "Employment",
+      "salary": "16000-28000/month",
+      "icon": "🔍"
+    }
+  ],
+  "exam_fee": 1200,
+  "course_highlights": [
+    "100% practical training with real billing software (Tally, GST-Ready POS)",
+    "Live case studies from Indian retail, e-commerce, and corporate sectors",
+    "Direct access to GST portal and official documentation",
+    "Placement support with partner retail chains and accounting firms",
+    "Certificate recognized by CETCF (Government-certified)",
+    "Flexible batch timings: morning, evening, weekend classes available",
+    "Online + offline hybrid learning options in major Indian cities",
+    "Lifetime access to course materials and GST update resources"
+  ],
+  "job_market_demand": {
+    "current_openings": "15000+ GST billing positions across India (2024)",
+    "growth_rate": "12% annual growth in billing professional roles",
+    "top_hiring_sectors": [
+      "Retail chains (Big Bazaar, Reliance, Flipkart, Amazon logistics)",
+      "E-commerce platforms (Myntra, Snapdeal, Meesho)",
+      "Quick commerce (Blinkit, Zepto, Instamart)",
+      "Accounting and audit firms (Big 4, mid-size CA practices)",
+      "Corporate finance departments",
+      "Billing service centers and accounting bureaus",
+      "Insurance and financial services",
+      "Hospitality and restaurant chains"
+    ],
+    "salary_progression": "Entry: 15k → 2 years: 25k → 5 years: 40k+ (with experience and certifications)"
+  },
+  "prerequisites": {
+    "technical": "Basic computer knowledge (MS Excel, internet browsing)",
+    "mathematical": "Class 10 level math (percentages, basic calculations)",
+    "language": "English/Hindi reading and writing ability"
+  },
+  "course_delivery": {
+    "mode": "Classroom + Hands-on Lab + Online Resources",
+    "class_duration": "2-3 hours per session",
+    "frequency": "4-5 days per week",
+    "batch_size": "20-30 students per batch",
+    "instructor_qualification": "CA/CMA/GST Practitioner with 5+ years experience",
+    "lab_facilities": "Computer lab with billing software, internet, printing facilities"
+  },
+  "reference_materials": {
+    "official_sources": [
+      "GST Council official website (gstcouncil.gov.in)",
+      "GST Portal (gst.gov.in) - registration and filing",
+      "CBIC Circulars and Notifications",
+      "GST Handbook published by Ministry of Finance"
+    ],
+    "textbooks": [
+      "GST Simplified by CA Bimal Jain",
+      "Practical GST Compliance by ICAI",
+      "Billing Software Manual (Tally/POS specific)"
+    ],
+    "online_resources": [
+      "YouTube channels: GST India, Tax Guru, Accounting Simplified",
+      "Websites: taxguru.in, gstindia.com, indiafilings.com",
+      "Mobile apps: GST Suvidha, GST Portal app, Tally mobile"
+    ]
+  },
+  "frequently_asked_questions": [
+    {
+      "question": "Will I get a job after completing this course?",
+      "answer": "Yes, CETCF provides placement support. With this certificate, you're eligible for entry-level GST billing roles in retail, e-commerce, and accounting firms. 70% of our graduates get placed within 3 months."
+    },
+    {
+      "question": "Is GST knowledge updated regularly?",
+      "answer": "Yes, GST rates and rules change frequently. Our course covers current 2024 GST rules. We provide free updates via email and online portal for 1 year after course completion."
+    },
+    {
+      "question": "Can I do this course while working?",
+      "answer": "Yes, we offer weekend and evening batches. Many working professionals complete this course in 2-3 months while maintaining their job."
+    },
+    {
+      "question": "What is the difference between this course and CA/CMA?",
+      "answer": "This is a foundation-level, job-focused course (2 months). CA/CMA are degree-level programs (4-5 years). This course gets you employed quickly; CA/CMA provide broader accounting expertise."
+    },
+    {
+      "question": "Can I start my own billing service after this course?",
+      "answer": "Yes, many graduates start billing service centers. You'll learn the business model in Module 6. Initial investment: Rs 50,000-100,000 (computer, software, printer)."
+    }
+  ]
+}

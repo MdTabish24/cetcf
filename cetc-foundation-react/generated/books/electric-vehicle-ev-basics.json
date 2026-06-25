@@ -1,0 +1,277 @@
+{
+  "course_name": "Electric Vehicle (EV) Basics",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_weeks": 8,
+  "total_hours": 120,
+  "hero_description": "Master the fundamentals of Electric Vehicles and launch your career in India's fastest-growing automotive sector. This hands-on certification program equips you with essential knowledge about EV technology, battery systems, charging infrastructure, and maintenance—preparing you for immediate employment in the rapidly expanding EV industry across India.",
+  "overview_description": "This comprehensive 8-week foundation course covers everything you need to know about Electric Vehicles, from basic principles of electric propulsion to practical troubleshooting and safety protocols. You'll learn about battery technology, charging systems, electrical components, and gain practical experience with real EV systems used in Indian markets. Perfect for school leavers, career-changers, and aspiring technicians looking to enter the booming EV sector.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Introduction to Electric Vehicles and Industry Overview",
+      "week_range": "Week 1-2",
+      "hours": 15,
+      "topics": [
+        "History and evolution of Electric Vehicles globally and in India — from early concepts to modern Tesla, Tata Nexon EV, Mahindra XUV400, and local brands",
+        "Types of Electric Vehicles — Battery Electric Vehicles (BEV), Plug-in Hybrid Electric Vehicles (PHEV), Hybrid Electric Vehicles (HEV), and Fuel Cell Vehicles (FCV)",
+        "Advantages and disadvantages of EVs — cost savings, environmental benefits, performance, range anxiety, and infrastructure challenges in India",
+        "Indian EV market landscape — government policies, FAME India scheme, subsidies, and growth projections for 2024-2030",
+        "Comparison between traditional ICE (Internal Combustion Engine) vehicles and Electric Vehicles — efficiency, emissions, operating costs",
+        "Global EV manufacturers vs Indian EV manufacturers — understanding market leaders like Tata, Mahindra, BYD, MG Motor, and emerging startups",
+        "Career opportunities in EV sector — technician, service engineer, charging station operator, battery specialist, and entrepreneurship options",
+        "Environmental impact and sustainability — carbon footprint reduction, recycling, and circular economy in EV industry",
+        "Government initiatives and incentives — FAME-II scheme, state subsidies, GST benefits, and charging infrastructure development programs"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Electrical Fundamentals and EV Power Systems",
+      "week_range": "Week 2-3",
+      "hours": 18,
+      "topics": [
+        "Basic electrical concepts — voltage, current, resistance, power, and Ohm's Law with practical EV applications",
+        "AC (Alternating Current) vs DC (Direct Current) — understanding three-phase AC, single-phase AC, and DC systems used in EVs",
+        "Electrical circuits in EVs — series circuits, parallel circuits, and mixed circuits with real-world EV examples",
+        "Safety in electrical systems — earthing, grounding, circuit protection, fuses, circuit breakers, and MCBs used in EV charging",
+        "Power distribution systems in EVs — high-voltage systems (400V+), low-voltage systems (12V), and isolation between them",
+        "Electrical measuring instruments — multimeter, clamp meter, insulation tester, and how to use them safely on EV systems",
+        "Common electrical faults in EVs — short circuits, open circuits, ground faults, and diagnostic procedures",
+        "Wiring and cable standards for EVs — IEC standards, Indian standards, color coding, and cable sizing calculations",
+        "Protection systems — relays, contactors, solenoids, and their role in EV safety and control",
+        "Practical hands-on — measuring voltage and current in EV charging systems, testing circuits, and safe handling of tools"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Battery Technology and Energy Storage Systems",
+      "week_range": "Week 3-4",
+      "hours": 20,
+      "topics": [
+        "Battery fundamentals — how batteries work, electrochemistry basics, and energy conversion principles",
+        "Lithium-ion battery technology — cell structure, chemistry, advantages over lead-acid, and why it's standard in modern EVs",
+        "Battery specifications and parameters — voltage, capacity (Ah/kWh), energy density, power density, and C-rating explained",
+        "Battery pack architecture — series and parallel cell arrangements, cell balancing, and thermal management in EV batteries",
+        "Battery Management System (BMS) — monitoring, balancing, temperature control, voltage regulation, and safety functions",
+        "State of Charge (SOC) and State of Health (SOH) — calculation methods, importance, and how BMS maintains battery health",
+        "Temperature management in batteries — cooling systems, thermal sensors, and why overheating reduces battery life",
+        "Battery degradation and cycle life — understanding capacity fade, calendar aging, and extending battery lifespan through proper charging",
+        "Alternative battery technologies — solid-state batteries, LFP (Lithium Iron Phosphate), and emerging technologies for future EVs",
+        "Battery safety and hazards — thermal runaway, overcharging, deep discharge, and emergency procedures",
+        "Battery recycling and second-life applications — environmental responsibility, circular economy, and emerging Indian recycling startups",
+        "Practical hands-on — disassembling battery modules, identifying cell types, measuring battery voltage, and understanding BMS display readings"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "EV Charging Infrastructure and Systems",
+      "week_range": "Week 4-5",
+      "hours": 18,
+      "topics": [
+        "Charging standards in India — Type 2 connectors, CCS (Combined Charging System), CHAdeMO, and Indian standards for AC/DC charging",
+        "Charging levels explained — Level 1 (household 230V), Level 2 (wall-mounted 32A), DC fast charging (50-350 kW), and charging time comparisons",
+        "AC charging systems — onboard chargers, power electronics, and how vehicles convert AC to DC for battery charging",
+        "DC fast charging systems — charging station components, power conversion, cooling systems, and grid integration challenges",
+        "Home charging setup — installing 7.4 kW and 11 kW chargers, electrical requirements, safety considerations, and cost in India",
+        "Public charging networks in India — NITI Aayog charging stations, private networks (Fortum, Shell, Tata Power), and coverage across states",
+        "Charging station operation and maintenance — monitoring systems, payment methods, troubleshooting common issues, and user support",
+        "Grid integration and smart charging — load management, vehicle-to-grid (V2G) technology, and demand response programs",
+        "Battery charging optimization — fast charging vs slow charging, optimal charging strategies, and impact on battery longevity",
+        "Safety protocols during charging — PPE requirements, electrical safety, emergency procedures, and customer safety guidelines",
+        "Practical hands-on — connecting EV to different charger types, reading charging display data, identifying charger faults, and safe disconnection procedures"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "EV Components, Systems, and Vehicle Architecture",
+      "week_range": "Week 5-6",
+      "hours": 19,
+      "topics": [
+        "Electric motor types — AC induction motors, permanent magnet motors, and switched reluctance motors used in Indian EVs",
+        "Motor specifications — power output (kW), torque (Nm), RPM range, efficiency, and thermal characteristics",
+        "Motor control systems — inverters, motor controllers, and how they manage speed and torque delivery",
+        "Power transmission in EVs — single-speed reduction gearbox, direct drive, and advantages over multi-gear transmissions",
+        "Regenerative braking system — how EVs recover energy during braking, efficiency gains, and impact on range",
+        "Braking systems in EVs — friction brakes, brake-by-wire technology, ABS integration, and safety considerations",
+        "Steering and suspension — modifications for EV weight distribution, lower center of gravity, and handling characteristics",
+        "HVAC systems in EVs — cabin heating (heat pump technology), cooling, defogging, and energy consumption management",
+        "Vehicle Control Unit (VCU) and onboard electronics — central processing, sensor integration, and communication protocols (CAN bus)",
+        "Safety systems — airbags, stability control, collision detection, and EV-specific safety features",
+        "Auxiliary systems — 12V power distribution, lighting systems, windshield wipers, and low-voltage power management",
+        "Practical hands-on — identifying major EV components, understanding component layouts, reading system diagrams, and tracing electrical connections"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "EV Maintenance, Troubleshooting, and Career Development",
+      "week_range": "Week 6-8",
+      "hours": 30,
+      "topics": [
+        "Preventive maintenance in EVs — service intervals, fluid checks (coolant, brake fluid), filter replacements, and tire maintenance",
+        "Battery health monitoring — SOH assessment, capacity testing, cell voltage measurement, and when to recommend battery service",
+        "Troubleshooting electrical faults — using diagnostic tools, reading error codes, interpreting BMS messages, and systematic fault-finding",
+        "Common EV problems and solutions — range degradation, slow charging, battery imbalance, motor noise, and brake issues",
+        "Software updates and diagnostics — OBD-II readers for EVs, manufacturer diagnostic tools, and remote diagnostics via cloud platforms",
+        "Safety protocols during EV service — high-voltage safety, lockout-tagout procedures, insulation testing, and emergency disconnection",
+        "Tire and wheel maintenance — specific tire requirements for EVs, pressure monitoring, and impact on range",
+        "Cabin climate control troubleshooting — heat pump diagnostics, refrigerant handling, and energy efficiency optimization",
+        "Brake system maintenance — brake fluid flushing, pad replacement, and regenerative braking system calibration",
+        "Electrical connector maintenance — corrosion prevention, contact cleaning, and waterproofing for charging connectors",
+        "Career pathways in EV sector — EV technician, service advisor, charging station operator, battery specialist, and entrepreneurship opportunities",
+        "Skill development and certifications — advanced EV courses, manufacturer training programs, and international certifications (IMR, IMERC)",
+        "Entrepreneurship in EV sector — starting a charging station business, mobile repair service, battery reconditioning, and franchising opportunities",
+        "Practical hands-on — complete vehicle inspection checklist, battery health assessment, charging system diagnostics, fault code interpretation, and customer communication skills"
+      ]
+    }
+  ],
+  "assessment": {
+    "theory_marks": 50,
+    "theory_format": "25 Questions × 2 Marks each (Multiple Choice + Short Answer)",
+    "theory_duration": "45 minutes",
+    "practical_marks": 50,
+    "practical_format": "Hands-on assessment of EV systems, charging procedures, diagnostics, and safety protocols",
+    "practical_items": [
+      {
+        "title": "EV Component Identification and System Understanding",
+        "description": "Candidate must identify major EV components (motor, battery pack, inverter, BMS, charger), explain their functions, and trace electrical connections on an actual EV or training model. Submit detailed component diagram with labels and functional descriptions.",
+        "marks": 15
+      },
+      {
+        "title": "Battery and Charging System Diagnostics",
+        "description": "Candidate must perform battery health check using BMS data, measure voltage across battery modules, test charging system output, and identify any faults. Submit diagnostic report with readings, analysis, and recommendations.",
+        "marks": 15
+      },
+      {
+        "title": "Safe Charging Procedure and Troubleshooting",
+        "description": "Candidate must safely connect an EV to AC and DC chargers, monitor charging process, interpret charging display data, and troubleshoot common charging issues. Demonstrate proper safety protocols and customer communication.",
+        "marks": 10
+      },
+      {
+        "title": "Electrical Safety and Preventive Maintenance",
+        "description": "Candidate must demonstrate high-voltage safety procedures, perform insulation testing, check coolant levels, inspect brake system, and create a maintenance checklist. Submit safety checklist and maintenance report.",
+        "marks": 10
+      }
+    ],
+    "total_marks": 100,
+    "pass_percentage": 50
+  },
+  "eligibility": [
+    "Minimum age: 14 years (with parental consent for candidates below 18)",
+    "Minimum education: Class 8th pass or equivalent",
+    "No prior experience needed — completely beginner-friendly",
+    "Already working in automotive sector? Apply for RPL (Recognition of Prior Learning) exam",
+    "Valid government ID proof required at registration (Aadhaar, PAN, Voter ID, Driving License)",
+    "Medical fitness certificate may be required for practical training involving high-voltage systems",
+    "Open to all candidates regardless of gender, caste, religion, or economic background",
+    "Recommended: Basic computer literacy for understanding digital diagnostic tools"
+  ],
+  "learning_outcomes": [
+    "Understand the fundamentals of Electric Vehicle technology, architecture, and how they differ from traditional vehicles",
+    "Identify and explain major EV components including motors, batteries, inverters, and charging systems",
+    "Perform safe electrical measurements and diagnostics on EV systems using appropriate tools and safety protocols",
+    "Operate different types of EV chargers (AC Level 2, DC fast charging) and troubleshoot common charging issues",
+    "Assess battery health, understand State of Charge and State of Health, and perform basic battery diagnostics",
+    "Execute preventive maintenance procedures and systematic troubleshooting of electrical and mechanical EV faults",
+    "Apply high-voltage safety protocols and emergency procedures when working on EV systems",
+    "Identify career opportunities in the EV sector and plan professional development in this rapidly growing industry"
+  ],
+  "career_paths": [
+    {
+      "title": "EV Service Technician",
+      "type": "Employment",
+      "salary": "18000-35000/month",
+      "icon": "🔧",
+      "description": "Work at authorized EV service centers, dealerships, or multi-brand workshops. Diagnose, maintain, and repair electric vehicles. High demand across major cities like Bangalore, Mumbai, Delhi, and Pune."
+    },
+    {
+      "title": "EV Charging Station Operator",
+      "type": "Employment / Self-Employment",
+      "salary": "15000-30000/month",
+      "icon": "⚡",
+      "description": "Operate and maintain public/private EV charging stations. Ensure smooth customer experience, monitor equipment, and perform regular maintenance. Growing opportunities with NITI Aayog and private networks."
+    },
+    {
+      "title": "Battery Specialist/Technician",
+      "type": "Employment",
+      "salary": "20000-40000/month",
+      "icon": "🔋",
+      "description": "Specialize in battery diagnostics, health monitoring, and replacement. Work with battery manufacturers or service centers. Highest growth potential as battery technology becomes critical."
+    },
+    {
+      "title": "EV Charging Station Entrepreneur",
+      "type": "Entrepreneurship",
+      "salary": "30000-75000+/month",
+      "icon": "🏢",
+      "description": "Start your own charging station business in residential societies, commercial complexes, or highways. Government subsidies available under FAME-II scheme. Initial investment: ₹5-15 lakhs depending on location and charger type."
+    },
+    {
+      "title": "Mobile EV Repair Service Owner",
+      "type": "Self-Employment",
+      "salary": "25000-50000/month",
+      "icon": "🚐",
+      "description": "Provide on-site EV repair and maintenance services. Visit customer locations for diagnostics and repairs. Growing demand in metro cities where convenience is valued."
+    },
+    {
+      "title": "EV Service Advisor/Sales",
+      "type": "Employment",
+      "salary": "20000-45000/month",
+      "icon": "💼",
+      "description": "Work at EV dealerships as service advisor or sales consultant. Explain EV technology to customers, manage service bookings, and handle customer relationships. Excellent communication skills required."
+    },
+    {
+      "title": "EV Training Instructor",
+      "type": "Employment",
+      "salary": "25000-50000/month",
+      "icon": "📚",
+      "description": "After gaining 2-3 years of experience, become a trainer at vocational institutes, manufacturer training centers, or corporate training programs. Teach next generation of EV technicians."
+    },
+    {
+      "title": "Battery Recycling Technician",
+      "type": "Employment",
+      "salary": "18000-35000/month",
+      "icon": "♻️",
+      "description": "Work with battery recycling startups and facilities. Extract valuable materials from used EV batteries. Emerging sector with high growth potential and environmental impact."
+    }
+  ],
+  "exam_fee": 1200,
+  "additional_information": {
+    "course_highlights": [
+      "100% practical hands-on training with real EV systems",
+      "Access to latest EV diagnostic tools and equipment",
+      "Training on vehicles like Tata Nexon EV, Mahindra XUV400, MG ZS EV, and other popular Indian EVs",
+      "Guidance on government subsidies and FAME-II scheme benefits",
+      "Lifetime job placement support and alumni network",
+      "Industry-recognized certification valid across India",
+      "Flexible batch timings (morning, evening, weekend options)",
+      "Digital learning materials and video tutorials for self-study"
+    ],
+    "training_methodology": [
+      "Classroom lectures with real-world case studies",
+      "Hands-on practical training in equipped workshop",
+      "Live demonstrations on actual EV systems",
+      "Group projects and problem-solving exercises",
+      "Industry expert guest lectures",
+      "Internship opportunities with service centers",
+      "Mock assessments and doubt-clearing sessions"
+    ],
+    "required_tools_and_equipment": [
+      "Digital multimeter",
+      "Clamp meter",
+      "Insulation tester",
+      "Battery load tester",
+      "OBD-II scanner for EVs",
+      "Safety equipment (PPE, gloves, safety glasses)",
+      "Basic hand tools (screwdrivers, spanners, pliers)",
+      "Torque wrench"
+    ],
+    "post_course_support": [
+      "Job placement assistance with top EV service centers",
+      "Resume building and interview preparation",
+      "Advanced course recommendations (EV Advanced Diagnostics, Battery Management Systems)",
+      "Entrepreneurship mentoring for business startup",
+      "Alumni network for peer learning and job referrals",
+      "Continuous skill updates through webinars and workshops"
+    ]
+  }
+}

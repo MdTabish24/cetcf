@@ -1,0 +1,230 @@
+{
+  "course_name": "Computer Hardware & Networking",
+  "sector": "Digital & Information Technology",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_weeks": 12,
+  "total_hours": 180,
+  "hero_description": "Master the fundamentals of computer hardware assembly, maintenance, and networking in just 12 weeks. This hands-on foundation course prepares you for entry-level roles in IT support, system assembly, and network administration across India's growing tech sector.",
+  "overview_description": "This comprehensive program covers computer hardware components, system assembly, troubleshooting, network basics, and practical maintenance skills. You'll gain practical experience with real hardware, learn industry-standard practices, and develop the technical foundation needed for careers in IT support, hardware technician roles, and networking positions in India's thriving digital economy.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Computer Hardware Fundamentals",
+      "week_range": "Week 1-2",
+      "hours": 30,
+      "topics": [
+        "Introduction to Computer Systems — history, evolution, and types of computers used in India",
+        "CPU Architecture — processor types, cores, cache, and performance metrics in Indian market",
+        "Motherboard Components — chipsets, BIOS/UEFI, form factors, and Indian OEM specifications",
+        "Memory Systems — RAM types, DDR generations, capacity planning, and installation procedures",
+        "Storage Devices — HDD vs SSD technology, SATA/NVMe interfaces, and data storage solutions",
+        "Power Supply Units — wattage calculation, efficiency ratings, and safety standards in India",
+        "Cooling Systems — CPU coolers, case fans, thermal management, and Indian climate considerations",
+        "Input/Output Devices — keyboards, mice, monitors, printers, and peripheral connectivity standards",
+        "BIOS/UEFI Settings — boot sequence, hardware monitoring, overclocking basics, and security features",
+        "Hardware Safety Standards — ESD protection, proper handling, and workplace safety in Indian IT facilities"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "System Assembly & Configuration",
+      "week_range": "Week 3-4",
+      "hours": 30,
+      "topics": [
+        "Pre-Assembly Planning — hardware compatibility checking and Indian component sourcing guidelines",
+        "Motherboard Installation — standoff placement, screw specifications, and anti-static procedures",
+        "CPU Installation — socket types, thermal paste application, cooler mounting, and Indian brand preferences",
+        "RAM Installation — DIMM orientation, slot configuration, dual-channel setup, and capacity expansion",
+        "Storage Device Installation — hard drive mounting, SSD installation, cable connections, and RAID basics",
+        "Power Supply Installation — PSU mounting, cable routing, 24-pin/8-pin connectors, and safety checks",
+        "Graphics Card Installation — PCIe slot insertion, power connectors, driver requirements, and cooling",
+        "Case Assembly — cable management, front panel connectors, USB headers, and audio connectors",
+        "System Testing — POST procedures, BIOS verification, stress testing, and performance benchmarking",
+        "Documentation — assembly logs, hardware inventory, warranty registration, and Indian compliance requirements",
+        "Troubleshooting Assembly Issues — common problems, error codes, and resolution procedures",
+        "Custom Build Planning — specification matching for different use cases and Indian budget constraints"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Operating Systems Installation & Maintenance",
+      "week_range": "Week 5-6",
+      "hours": 30,
+      "topics": [
+        "Operating System Overview — Windows, Linux, macOS, and their applications in Indian enterprises",
+        "Windows Installation — media creation, boot process, partition schemes, and Indian license compliance",
+        "Linux Installation — distribution selection, Ubuntu/CentOS setup, and server deployment in India",
+        "Partition Management — MBR vs GPT, disk partitioning tools, and data organization strategies",
+        "Driver Installation — chipset drivers, GPU drivers, network drivers, and Indian OEM support",
+        "System Updates — Windows Updates, security patches, and update management in corporate India",
+        "User Account Management — account creation, permissions, UAC settings, and multi-user configuration",
+        "File System Basics — NTFS, ext4, file permissions, and backup strategies for Indian businesses",
+        "System Performance Optimization — startup programs, disk cleanup, registry maintenance, and resource monitoring",
+        "Antivirus & Security Software — installation, configuration, scanning procedures, and Indian cybersecurity standards",
+        "Troubleshooting OS Issues — boot failures, driver conflicts, system crashes, and recovery procedures",
+        "Virtualization Basics — VM creation, guest OS installation, and resource allocation for testing environments"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Networking Fundamentals & Protocols",
+      "week_range": "Week 7-8",
+      "hours": 30,
+      "topics": [
+        "Network Basics — LAN, WAN, MAN, and network topologies used in Indian organizations",
+        "OSI Model — seven layers, data flow, and practical application in Indian IT infrastructure",
+        "TCP/IP Protocol Suite — IPv4, IPv6, TCP, UDP, and Indian IP allocation standards",
+        "IP Addressing — subnetting, CIDR notation, private/public IPs, and Indian ISP conventions",
+        "Network Devices — routers, switches, hubs, gateways, and their roles in Indian networks",
+        "Ethernet Standards — 10/100/1000 Mbps, Cat5/Cat6 cables, and Indian broadband specifications",
+        "Wireless Networking — WiFi standards (802.11), frequency bands, and Indian telecom regulations",
+        "DNS & DHCP — domain name resolution, DHCP server configuration, and Indian domain registration",
+        "Network Security Basics — firewalls, NAT, port forwarding, and Indian cybersecurity framework",
+        "Network Troubleshooting Tools — ping, ipconfig, tracert, netstat, and diagnostic procedures",
+        "Internet Connectivity — broadband types, connection setup, and Indian ISP service integration",
+        "Network Performance — bandwidth calculation, latency measurement, and optimization for Indian networks"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Network Installation & Configuration",
+      "week_range": "Week 9-10",
+      "hours": 30,
+      "topics": [
+        "Network Planning — site survey, cabling infrastructure, and Indian building code compliance",
+        "Cabling Infrastructure — copper cabling, fiber optics, conduit routing, and Indian installation standards",
+        "Network Device Configuration — router setup, switch configuration, VLAN creation, and Indian telecom integration",
+        "Wireless Network Setup — WiFi access point installation, SSID configuration, security settings, and Indian frequency compliance",
+        "IP Configuration — static IP assignment, DHCP server setup, and DNS configuration for Indian networks",
+        "Network Sharing — file sharing, printer sharing, and resource access control in Indian organizations",
+        "Internet Connection Sharing — ICS setup, proxy configuration, and bandwidth management",
+        "Network Monitoring — traffic analysis, performance monitoring, and Indian compliance logging",
+        "Network Backup Solutions — backup server setup, incremental backups, and disaster recovery for Indian businesses",
+        "VPN Configuration — VPN client setup, connection establishment, and secure remote access for Indian enterprises",
+        "Network Security Implementation — firewall rules, access control lists, and Indian data protection standards",
+        "Troubleshooting Network Issues — connectivity problems, speed issues, and resolution procedures"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Maintenance, Troubleshooting & Professional Practice",
+      "week_range": "Week 11-12",
+      "hours": 30,
+      "topics": [
+        "Preventive Maintenance — cleaning, dust management, thermal monitoring, and Indian climate adaptation",
+        "Hardware Troubleshooting — diagnostic procedures, error code interpretation, and component replacement",
+        "Software Troubleshooting — malware removal, system recovery, and performance restoration",
+        "Hardware Upgrades — RAM upgrade, storage expansion, GPU installation, and cost-benefit analysis",
+        "Printer Maintenance — cartridge replacement, driver updates, network printer setup, and Indian consumables sourcing",
+        "Monitor & Display Issues — resolution adjustment, color calibration, and troubleshooting procedures",
+        "Keyboard & Mouse Issues — connection problems, driver installation, and replacement procedures",
+        "Power Issues — UPS configuration, power backup solutions, and Indian electrical standards",
+        "Data Recovery — recovery tools, backup restoration, and data safety procedures",
+        "Professional Documentation — service reports, maintenance logs, and Indian record-keeping standards",
+        "Customer Service Skills — communication, problem-solving, and professional conduct in Indian IT industry",
+        "Certification Preparation — exam strategies, time management, and revision techniques for CETCF certification"
+      ]
+    }
+  ],
+  "assessment": {
+    "theory_marks": 50,
+    "theory_format": "25 Questions x 2 Marks (Multiple Choice & Short Answer)",
+    "theory_duration": "45 minutes",
+    "practical_marks": 50,
+    "practical_format": "Hands-on demonstration of hardware assembly, network configuration, and troubleshooting tasks",
+    "practical_items": [
+      {
+        "title": "Computer System Assembly",
+        "description": "Candidate must assemble a complete computer system including motherboard installation, CPU mounting, RAM installation, storage device setup, and power supply connection with proper cable management and safety procedures",
+        "marks": 15
+      },
+      {
+        "title": "Hardware Troubleshooting & Maintenance",
+        "description": "Candidate must diagnose and resolve hardware issues, perform system optimization, install drivers, update BIOS, and document findings in a maintenance report",
+        "marks": 12
+      },
+      {
+        "title": "Network Configuration & Testing",
+        "description": "Candidate must configure network settings, establish connectivity, troubleshoot network issues using diagnostic tools, and document network topology and IP configuration",
+        "marks": 13
+      },
+      {
+        "title": "Operating System Installation & Setup",
+        "description": "Candidate must install an operating system, configure partitions, install drivers, create user accounts, install security software, and optimize system performance",
+        "marks": 10
+      }
+    ],
+    "total_marks": 100,
+    "pass_percentage": 50
+  },
+  "eligibility": [
+    "Minimum age: 14 years",
+    "Minimum education: Class 8th pass or equivalent",
+    "No prior technical experience required",
+    "Valid photo ID proof required (Aadhaar/PAN/Voter ID/Passport)",
+    "Currently employed in IT field? Apply for Recognition of Prior Learning (RPL) exam",
+    "Applicable for all Indian citizens and foreign nationals with valid visa",
+    "No maximum age limit",
+    "Physical fitness to handle hardware components and stand for extended periods during practical sessions"
+  ],
+  "learning_outcomes": [
+    "Assemble, configure, and test complete computer systems according to industry standards and safety protocols",
+    "Install, configure, and troubleshoot operating systems on desktop and laptop computers",
+    "Design, implement, and troubleshoot local area networks using standard networking protocols and devices",
+    "Diagnose and resolve hardware and software issues using systematic troubleshooting methodologies",
+    "Perform preventive maintenance and optimize computer system performance for reliability and efficiency",
+    "Apply professional practices including documentation, customer communication, and adherence to Indian IT industry standards"
+  ],
+  "career_paths": [
+    {
+      "title": "Computer Hardware Technician",
+      "type": "Employment",
+      "salary": "15,000-30,000/month",
+      "icon": "🖥️"
+    },
+    {
+      "title": "IT Support Executive (Level 1)",
+      "type": "Employment",
+      "salary": "18,000-35,000/month",
+      "icon": "📞"
+    },
+    {
+      "title": "Network Administrator Assistant",
+      "type": "Employment",
+      "salary": "20,000-40,000/month",
+      "icon": "🌐"
+    },
+    {
+      "title": "System Assembly Technician",
+      "type": "Employment",
+      "salary": "16,000-32,000/month",
+      "icon": "⚙️"
+    },
+    {
+      "title": "Self-Employed Computer Repair Professional",
+      "type": "Self-Employment",
+      "salary": "25,000-60,000/month",
+      "icon": "🔧"
+    },
+    {
+      "title": "Computer Retail & Sales Associate",
+      "type": "Employment",
+      "salary": "14,000-28,000/month",
+      "icon": "🏪"
+    },
+    {
+      "title": "Data Center Technician",
+      "type": "Employment",
+      "salary": "22,000-45,000/month",
+      "icon": "🏢"
+    },
+    {
+      "title": "Computer Hardware Entrepreneurship",
+      "type": "Entrepreneurship",
+      "salary": "30,000-100,000+/month",
+      "icon": "💼"
+    }
+  ],
+  "exam_fee": 1000
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "Two Wheeler Mechanic Certification",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Safety & Workshop Practices",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Two-Wheeler Engine Systems",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Fuel, Ignition & Electrical Systems",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Transmission, Clutch & Drive Systems",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Chassis, Suspension & Braking Systems",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Maintenance, Troubleshooting & Customer Service",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Workshop mein kaam karte samay kaun sa personal protective equipment (PPE) sabse zaroori hai?",
+      "options": {
+        "A": "Helmet",
+        "B": "Safety Goggles",
+        "C": "Raincoat",
+        "D": "Party Hat"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety Goggles aankhon ko metal chips, chemicals aur flying debris se bachane ke liye sabse zaroori hain."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ek spanner ka sahi size kaise select karte hain?",
+      "options": {
+        "A": "Jo haath mein fit ho",
+        "B": "Nut ya bolt ke size ke hisaab se",
+        "C": "Sabse bada spanner use karna chahiye",
+        "D": "Sabse chhota spanner use karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spanner ka size hamesha nut ya bolt ke size se match hona chahiye, taaki slipping aur damage se bacha ja sake."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Engine oil spill hone par usse kaise saaf karna chahiye?",
+      "options": {
+        "A": "Paani se dho den",
+        "B": "Kapde se ponch den",
+        "C": "Sawdust ya absorbent material ka use karke",
+        "D": "Aise hi chhod den"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Engine oil spills ko sawdust ya special absorbent material se saaf karna chahiye, taaki slipping na ho aur environment ko nuksaan na pahunche."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Ek tyre pressure gauge ka kya kaam hai?",
+      "options": {
+        "A": "Tyre ka colour check karna",
+        "B": "Tyre mein hawa bharna",
+        "C": "Tyre mein hawa ka pressure maapna",
+        "D": "Tyre ki life badhana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tyre pressure gauge tyre ke andar hawa ke dabav (pressure) ko sahi tareeke se maapne ke liye use hota hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Welding karte samay kis tarah ke goggles pehenne chahiye?",
+      "options": {
+        "A": "Transparent safety goggles",
+        "B": "Tinted welding goggles",
+        "C": "Sunglasses",
+        "D": "Regular reading glasses"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Welding se nikalne wali tez roshni aur UV rays se aankhon ko bachane ke liye tinted welding goggles zaroori hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Ek multimeter ka upyog kis cheez ke liye hota hai?",
+      "options": {
+        "A": "Tyre pressure check karne ke liye",
+        "B": "Engine oil level check karne ke liye",
+        "C": "Voltage, current aur resistance maapne ke liye",
+        "D": "Fuel level check karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Multimeter electrical circuits mein voltage, current aur resistance jaise parameters ko maapne ke liye ek versatile tool hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Workshop mein fire extinguisher kis type ka hona chahiye two-wheeler fires ke liye?",
+      "options": {
+        "A": "Water type",
+        "B": "Foam type",
+        "C": "CO2 or Dry Chemical (ABC) type",
+        "D": "Sand bucket"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Two-wheeler fires mein electrical (Class C) aur flammable liquids (Class B) involved ho sakte hain, isliye CO2 ya Dry Chemical (ABC) type extinguisher sabse effective hota hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Two-wheeler ko lift karne ke liye kaun sa tool sabse safe hai?",
+      "options": {
+        "A": "Bricks ke upar rakhna",
+        "B": "Hydraulic lift ya centre stand",
+        "C": "Kisi dost ko pakadne ke liye kehna",
+        "D": "Deewar ke sahare khada karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hydraulic lift ya centre stand two-wheeler ko stable aur safe tareeke se lift karne ke liye design kiye gaye hain, jo accidents se bachate hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Used engine oil ko kaise dispose karna chahiye?",
+      "options": {
+        "A": "Drain mein baha den",
+        "B": "Mitti mein daal den",
+        "C": "Authorized recycling centre ya collection point par",
+        "D": "Kachre ke dibbe mein phenk den"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Used engine oil ek hazardous waste hai aur isse environment ko nuksaan pahunchane se bachane ke liye authorized recycling centres par hi dispose karna chahiye."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek torque wrench ka kya use hai?",
+      "options": {
+        "A": "Nuts ko loose karne ke liye",
+        "B": "Bolts ko ek specific torque par tight karne ke liye",
+        "C": "Rust hatane ke liye",
+        "D": "Tyre change karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Torque wrench bolts aur nuts ko manufacturer ke specified torque settings par tight karne ke liye use hota hai, jo components ki safety aur longevity ke liye critical hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Battery acid spill hone par kya precautions leni chahiye?",
+      "options": {
+        "A": "Directly haath se saaf karen",
+        "B": "Paani aur baking soda solution se neutralize karen",
+        "C": "Kisi bhi kapde se ponch den",
+        "D": "Usko sukhne ka intezaar karen"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Battery acid corrosive hota hai. Isse neutralize karne ke liye paani aur baking soda solution ka upyog karna chahiye aur hamesha gloves aur safety goggles pehenne chahiye."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Workshop mein tools ko properly organize karna kyun zaroori hai?",
+      "options": {
+        "A": "Taki workshop achha dikhe",
+        "B": "Taki tools jaldi mil jaayen aur safety bani rahe",
+        "C": "Taki tools chori na hon",
+        "D": "Sirf naye tools ko organize karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper tool organization se kaam karne mein efficiency aati hai aur tools ke idhar-udhar pade hone se hone wale accidents se bacha ja sakta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Electrical work karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Rubber gloves pehenna",
+        "B": "Bina insulation wale tools use karna",
+        "C": "Geeli zameen par khade hona",
+        "D": "Power supply on rakhna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Electrical shocks se bachne ke liye rubber gloves pehenna aur insulated tools ka upyog karna zaroori hai. Power supply ko disconnect karna bhi ek important step hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek vise ka primary function kya hai?",
+      "options": {
+        "A": "Items ko kaatna",
+        "B": "Items ko securely pakadna",
+        "C": "Items ko polish karna",
+        "D": "Items ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vise ka upyog workpieces ko securely clamp karne ke liye hota hai, taaki un par drilling, filing ya sawing jaise operations kiye ja saken."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Compressed air gun use karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Directly skin par use karen",
+        "B": "Safety glasses pehenna",
+        "C": "High pressure par use karen",
+        "D": "Kisi bhi direction mein blow karen"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Compressed air gun se particles tez speed se nikal sakte hain, jo aankhon ko nuksaan pahuncha sakte hain. Isliye safety glasses pehenna zaroori hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Parts ko clean karne ke liye konse solvent ka use karna safe hai?",
+      "options": {
+        "A": "Petrol",
+        "B": "Diesel",
+        "C": "Specialized parts cleaner",
+        "D": "Kerosene"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Specialized parts cleaner non-flammable aur less toxic hote hain, jo parts ko effectively clean karte hain aur safety bhi maintain karte hain. Petrol aur Diesel flammable hain aur unka use dangerous ho sakta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Workshop floor ko dry aur clean rakhna kyun important hai?",
+      "options": {
+        "A": "Taki tools chamakte rahen",
+        "B": "Taki slip aur fall accidents se bacha ja sake",
+        "C": "Taki customers impress hon",
+        "D": "Taki floor wear out na ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oil, grease ya paani ke spills slip aur fall accidents ka karan ban sakte hain. Floor ko dry aur clean rakhna safety ke liye critical hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Ek 4-stroke engine mein kitne strokes hote hain ek power cycle complete karne ke liye?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "4-stroke engine mein intake, compression, power (combustion) aur exhaust, yeh chaar strokes hote hain ek complete cycle ke liye."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Piston ka kya kaam hota hai engine mein?",
+      "options": {
+        "A": "Fuel store karna",
+        "B": "Cylinder mein upar aur neeche move karke power generate karna",
+        "C": "Engine ko thanda rakhna",
+        "D": "Spark generate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Piston combustion ke pressure ko crankshaft tak transmit karta hai, jo rotational motion mein convert hota hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Engine oil ka primary function kya hai?",
+      "options": {
+        "A": "Engine ko garam karna",
+        "B": "Engine parts ko lubricate karna",
+        "C": "Engine ko fuel supply karna",
+        "D": "Engine ko decorate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Engine oil moving parts ke beech friction ko kam karta hai, wear aur tear se bachata hai, aur engine ko thanda rakhne mein bhi help karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Air-cooled engine mein cooling kaise hoti hai?",
+      "options": {
+        "A": "Radiator aur coolant se",
+        "B": "Fins aur surrounding air flow se",
+        "C": "Water pump se",
+        "D": "Oil cooler se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Air-cooled engines mein cylinder head aur cylinder block par fins hote hain jo surface area badhate hain, aur hawa unke upar se guzar kar garmi ko dissipate karti hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Valve clearance adjustment kyun zaroori hai?",
+      "options": {
+        "A": "Engine ko zyada fuel dene ke liye",
+        "B": "Valves ko sahi samay par kholne aur band karne ke liye",
+        "C": "Engine ki awaaz kam karne ke liye",
+        "D": "Spark plug ko saaf rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sahi valve clearance valves ko thermal expansion ke bawajood properly seal hone aur sahi timing par operate karne mein help karta hai, jo engine performance aur efficiency ke liye critical hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Crankshaft ka kya role hai engine mein?",
+      "options": {
+        "A": "Valves ko operate karna",
+        "B": "Piston ki linear motion ko rotational motion mein convert karna",
+        "C": "Fuel ko atomize karna",
+        "D": "Air filter ko support karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Crankshaft connecting rod ke through piston ki upar-neeche ki movement ko wheel tak pahunchane wali rotational energy mein badalta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "2-stroke engine mein lubrication kaise hoti hai?",
+      "options": {
+        "A": "Separate oil sump se",
+        "B": "Fuel ke saath oil mix karke",
+        "C": "Radiator mein oil daal kar",
+        "D": "Grease se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Traditional 2-stroke engines mein engine oil ko fuel ke saath mix kiya jaata hai, jo combustion chamber mein jal jaata hai aur parts ko lubricate karta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Camshaft ka kya kaam hai?",
+      "options": {
+        "A": "Crankshaft ko ghumana",
+        "B": "Valves ko sahi timing par kholna aur band karna",
+        "C": "Spark plug ko power dena",
+        "D": "Fuel pump chalana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Camshaft par lobes hote hain jo rotate karte samay valves ko push karte hain, jisse intake aur exhaust valves sahi samay par operate hote hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Agar engine oil level bahut kam ho toh kya ho sakta hai?",
+      "options": {
+        "A": "Engine zyada power dega",
+        "B": "Engine parts mein friction badhega aur wear hoga",
+        "C": "Fuel efficiency badhegi",
+        "D": "Engine bahut thanda rahega"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Low engine oil level lubrication ko kam karta hai, jisse engine components mein friction badhta hai, overheating aur severe damage ho sakta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Compression test kya check karta hai?",
+      "options": {
+        "A": "Engine mein fuel ka pressure",
+        "B": "Engine ke cylinders mein air-fuel mixture ka pressure",
+        "C": "Battery ka voltage",
+        "D": "Tyre ka pressure"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Compression test engine ke cylinders ki sealing integrity ko maapta hai, jo piston rings, valves aur head gasket ki condition batata hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Piston rings ka kya function hai?",
+      "options": {
+        "A": "Piston ko cylinder se chipkaye rakhna",
+        "B": "Combustion gases ko seal karna aur oil ko cylinder wall se scrape karna",
+        "C": "Piston ko thanda rakhna",
+        "D": "Piston ko colour karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Piston rings combustion gases ko cylinder se leak hone se rokte hain aur cylinder walls se excess oil ko scrape karke combustion chamber mein jaane se bachate hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Ek liquid-cooled engine mein coolant ka kya role hai?",
+      "options": {
+        "A": "Fuel ko clean karna",
+        "B": "Engine se garmi absorb karke radiator mein dissipate karna",
+        "C": "Engine parts ko lubricate karna",
+        "D": "Exhaust gases ko filter karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Coolant engine se heat ko absorb karta hai aur use radiator mein circulate karta hai jahan se garmi hawa mein release ho jaati hai, engine ko optimum temperature par rakhta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Cylinder head gasket ka kya kaam hai?",
+      "options": {
+        "A": "Engine ko decorate karna",
+        "B": "Cylinder head aur engine block ke beech gas-tight seal provide karna",
+        "C": "Engine oil ko store karna",
+        "D": "Valves ko operate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Head gasket combustion gases, engine oil aur coolant ko mix hone se rokta hai aur cylinder head aur block ke beech ek tight seal banata hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Agar exhaust se blue smoke nikal raha hai toh kya indication ho sakta hai?",
+      "options": {
+        "A": "Zyada fuel jal raha hai",
+        "B": "Engine oil jal raha hai",
+        "C": "Engine bahut thanda hai",
+        "D": "Engine mein paani mix ho gaya hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Blue smoke engine oil ke combustion chamber mein jalne ka sign hai, jo worn piston rings ya valve seals ke karan ho sakta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Overheating ka ek common karan kya hai liquid-cooled engines mein?",
+      "options": {
+        "A": "Zyada fuel",
+        "B": "Low coolant level ya faulty radiator",
+        "C": "Spark plug kharab hona",
+        "D": "Tyre pressure kam hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Coolant ki kami, radiator ka block hona, ya coolant pump ka kharab hona overheating ka karan ban sakta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Crankcase breather valve ka kya function hai?",
+      "options": {
+        "A": "Fuel vapour release karna",
+        "B": "Crankcase pressure regulate karna",
+        "C": "Engine oil fill karna",
+        "D": "Engine ko thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Crankcase breather valve blow-by gases ko crankcase se nikalne deta hai, jisse pressure build-up nahi hota aur engine seals ko damage se bachaya jaata hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Valve tappet noise ka kya matlab ho sakta hai?",
+      "options": {
+        "A": "Engine oil level high hai",
+        "B": "Valve clearance galat hai",
+        "C": "Fuel tank khaali hai",
+        "D": "Tyre flat hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tappet noise (clicking sound) aksar galat valve clearance ya worn tappets ka indication hota hai, jise adjust karna zaroori hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Spark plug ka kya kaam hai engine mein?",
+      "options": {
+        "A": "Fuel ko store karna",
+        "B": "Air filter karna",
+        "C": "Air-fuel mixture ko ignite karne ke liye spark create karna",
+        "D": "Engine oil circulate karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Spark plug electrical energy ko spark mein convert karta hai jo combustion chamber mein air-fuel mixture ko ignite karta hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Carburetor ka primary function kya hai?",
+      "options": {
+        "A": "Engine ko thanda karna",
+        "B": "Air aur fuel ko sahi ratio mein mix karna",
+        "C": "Exhaust gases ko filter karna",
+        "D": "Tyre pressure maintain karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Carburetor engine ko chalane ke liye zaroori air aur fuel ke mixture ko sahi proportion mein banata hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Air filter ko regular clean ya replace karna kyun zaroori hai?",
+      "options": {
+        "A": "Engine ki awaaz badhane ke liye",
+        "B": "Dust aur impurities ko engine mein jaane se rokne ke liye",
+        "C": "Fuel tank ko clean rakhne ke liye",
+        "D": "Spark plug ko chamkane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Air filter engine mein saaf hawa jaane deta hai aur dust particles ko rokta hai, jisse engine ka wear kam hota hai aur performance achhi rehti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Agar spark plug par black, sooty deposit ho toh kya indication hai?",
+      "options": {
+        "A": "Lean air-fuel mixture",
+        "B": "Rich air-fuel mixture (zyada fuel)",
+        "C": "Sahi air-fuel mixture",
+        "D": "Overheating"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Black, sooty deposit suggests ki engine ko zyada fuel mil raha hai ya air filter choked hai, jisse incomplete combustion ho rahi hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Battery ke terminals par white powdery substance kya indicate karta hai?",
+      "options": {
+        "A": "Battery fully charged hai",
+        "B": "Battery leakage ya corrosion",
+        "C": "Battery naya hai",
+        "D": "Battery thanda hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "White powdery substance battery terminals par corrosion ka sign hai, jo battery acid ke leakage ya vaporisation se hota hai aur electrical connection ko kamzor karta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Fuel injector ka kya kaam hai modern two-wheelers mein?",
+      "options": {
+        "A": "Fuel ko store karna",
+        "B": "Fuel ko atomize karke engine mein spray karna",
+        "C": "Fuel ko filter karna",
+        "D": "Fuel tank ko seal karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fuel injector ECU ke control mein fuel ko fine spray ke roop mein engine mein deliver karta hai, jisse combustion efficient hoti hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "CDI (Capacitor Discharge Ignition) unit ka kya role hai?",
+      "options": {
+        "A": "Fuel pump chalana",
+        "B": "Spark plug ko high voltage current provide karna",
+        "C": "Headlights control karna",
+        "D": "Horn bajana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CDI unit battery se low voltage ko high voltage mein convert karta hai aur use spark plug tak bhejta hai, jisse ignition hoti hai. Yeh ignition timing bhi control karta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Agar headlight dim ho rahi hai toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Tyre pressure kam hai",
+        "B": "Battery weak hai ya charging system mein problem hai",
+        "C": "Fuel level kam hai",
+        "D": "Engine oil kam hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dim headlights aksar weak battery ya charging system (alternator/stator) mein fault ka sign hoti hain, jo electrical components ko sufficient power nahi de pa raha."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Fuse ka kya function hai electrical circuit mein?",
+      "options": {
+        "A": "Voltage badhana",
+        "B": "Circuit ko overload se bachana",
+        "C": "Current kam karna",
+        "D": "Wire ko lamba karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fuse ek safety device hai jo excessive current flow hone par melt ho kar circuit ko break karta hai, jisse components damage hone se bach jaate hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Fuel filter ko replace karna kyun zaroori hai?",
+      "options": {
+        "A": "Engine ko garam rakhne ke liye",
+        "B": "Fuel ko impurities se saaf rakhne ke liye",
+        "C": "Tyre ko inflate karne ke liye",
+        "D": "Horn ko loud karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fuel filter fuel se dust, rust aur doosri impurities ko remove karta hai, jisse carburetor ya fuel injectors clog hone se bach jaate hain."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Ignition coil ka kya kaam hai?",
+      "options": {
+        "A": "Low voltage ko high voltage mein convert karna",
+        "B": "Fuel ko store karna",
+        "C": "Engine ko thanda karna",
+        "D": "Brakes ko activate karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ignition coil battery se 12V supply ko thousands of volts mein step-up karta hai, jo spark plug ko ignite karne ke liye zaroori hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar starter motor sirf 'click' sound kare aur engine crank na ho toh kya possible problem hai?",
+      "options": {
+        "A": "Fuel tank khaali hai",
+        "B": "Battery weak hai ya connections loose hain",
+        "C": "Spark plug kharab hai",
+        "D": "Tyre flat hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Clicking sound aksar low battery voltage, weak battery, ya loose/corroded battery terminals ka sign hota hai, jisse starter motor ko sufficient current nahi mil pata."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Regulator/Rectifier ka kya function hai?",
+      "options": {
+        "A": "Engine oil pressure regulate karna",
+        "B": "AC current ko DC mein convert karna aur voltage regulate karna",
+        "C": "Fuel flow control karna",
+        "D": "Brake fluid level check karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Regulator/Rectifier alternator/stator se aane wale AC current ko DC mein convert karta hai aur battery charging ke liye voltage ko regulate karta hai, jisse electrical system safe rehta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Worn out spark plug se kya effect ho sakta hai?",
+      "options": {
+        "A": "Better fuel efficiency",
+        "B": "Engine misfire, poor performance aur low mileage",
+        "C": "Headlights brighter honge",
+        "D": "Brakes better kaam karenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Worn spark plug weak spark produce karta hai, jisse incomplete combustion hoti hai, engine misfire karta hai aur fuel efficiency kam ho jaati hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Battery water (distilled water) top-up kyun zaroori hai?",
+      "options": {
+        "A": "Battery ko thanda rakhne ke liye",
+        "B": "Electrolyte level maintain karne aur battery life badhane ke liye",
+        "C": "Battery ko clean rakhne ke liye",
+        "D": "Battery ko zyada current dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Distilled water electrolyte level ko maintain karta hai jo battery ke proper functioning aur long life ke liye essential hai. Evaporation se water level kam ho jaata hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Fuel pump ka kya function hai EFI (Electronic Fuel Injection) systems mein?",
+      "options": {
+        "A": "Fuel ko filter karna",
+        "B": "Fuel ko high pressure par injectors tak deliver karna",
+        "C": "Fuel ko store karna",
+        "D": "Fuel ko garam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "EFI systems mein fuel pump fuel tank se fuel ko high pressure par fuel injectors tak pahunchata hai, taaki atomization sahi ho sake."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Wiring harness mein loose connection se kya problem ho sakti hai?",
+      "options": {
+        "A": "Engine zyada smooth chalega",
+        "B": "Intermittent electrical issues, component failure ya fire risk",
+        "C": "Tyre life badhegi",
+        "D": "Fuel efficiency badhegi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Loose connections se resistance badhta hai, jo overheating, intermittent circuit breaks, aur worst case mein short circuit ya fire ka karan ban sakta hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Clutch ka kya function hai two-wheeler mein?",
+      "options": {
+        "A": "Engine ko thanda karna",
+        "B": "Engine power ko transmission se engage ya disengage karna",
+        "C": "Tyre pressure check karna",
+        "D": "Fuel supply control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clutch engine aur gearbox ke beech power connection ko control karta hai, jisse gear smoothly change kiye ja sakte hain aur vehicle start/stop hota hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Wet multi-plate clutch mein oil ka kya role hai?",
+      "options": {
+        "A": "Friction badhana",
+        "B": "Clutch plates ko thanda aur lubricate karna",
+        "C": "Clutch ko dry rakhna",
+        "D": "Clutch ko garam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wet clutch mein oil clutch plates ko lubricate aur cool karta hai, jisse smooth engagement aur disengagement hoti hai aur wear kam hota hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Gearbox ka kya kaam hai?",
+      "options": {
+        "A": "Engine speed regulate karna",
+        "B": "Engine se wheels tak power transmit karna aur torque/speed ratio change karna",
+        "C": "Brakes ko control karna",
+        "D": "Fuel economy improve karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gearbox engine ki power ko different gears ke through wheels tak pahunchata hai, jisse vehicle ki speed aur torque requirements ke hisaab se power adjust hoti hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Agar clutch slip ho raha hai toh kya indication hai?",
+      "options": {
+        "A": "Engine zyada power de raha hai",
+        "B": "Clutch plates worn out hain ya adjustment galat hai",
+        "C": "Tyre pressure high hai",
+        "D": "Fuel tank full hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clutch slipping ka matlab hai ki engine power wheels tak poori tarah nahi pahunch rahi. Yeh worn clutch plates, weak springs ya incorrect clutch adjustment ke karan hota hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Chain drive system mein chain lubrication kyun zaroori hai?",
+      "options": {
+        "A": "Chain ko colour karne ke liye",
+        "B": "Friction kam karne, wear rokne aur chain life badhane ke liye",
+        "C": "Chain ko garam rakhne ke liye",
+        "D": "Chain ko loose karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chain lubrication friction ko kam karta hai, rust se bachata hai aur chain links ko smooth operate karne mein help karta hai, jisse chain ki life badhti hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "CVT (Continuously Variable Transmission) system ka kya fayda hai?",
+      "options": {
+        "A": "Manual gear shifting",
+        "B": "Smooth acceleration aur better fuel efficiency",
+        "C": "Zyada maintenance",
+        "D": "Heavy duty applications ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CVT engine ko optimal RPM par maintain karta hai, jisse smooth acceleration milti hai aur fuel efficiency bhi improve hoti hai kyunki koi fixed gear ratios nahi hote."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Sprocket wear check karte samay kya dekhna chahiye?",
+      "options": {
+        "A": "Sprocket ka colour",
+        "B": "Teeth ka shape, kya woh sharp ya hook-shaped ho gaye hain",
+        "C": "Sprocket ka size",
+        "D": "Sprocket ka material"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Worn sprockets ke teeth sharp ya hook-shaped ho jaate hain, jo chain ko damage kar sakte hain aur drive system ki efficiency kam kar dete hain. Sprocket aur chain ko ek saath replace karna chahiye."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Shaft drive system ka kya fayda hai chain drive ke mukable?",
+      "options": {
+        "A": "Lightweight aur sasta",
+        "B": "Kam maintenance aur clean operation",
+        "C": "Zyada noise",
+        "D": "Zyada power loss"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Shaft drive systems ko kam maintenance ki zaroorat hoti hai, woh clean hote hain aur quieter bhi hote hain, lekin generally zyada heavy aur expensive hote hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Clutch cable free play adjustment kyun zaroori hai?",
+      "options": {
+        "A": "Clutch lever ko tight karne ke liye",
+        "B": "Clutch ko properly engage aur disengage karne ke liye",
+        "C": "Engine ki speed badhane ke liye",
+        "D": "Brake lever ko adjust karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi free play clutch ko poori tarah engage aur disengage hone deta hai. Zyada free play se clutch poora engage nahi hoga aur slipping ho sakti hai, kam free play se clutch drag kar sakta hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Gear shifting mein difficulty ka ek common karan kya hai?",
+      "options": {
+        "A": "Tyre pressure kam hona",
+        "B": "Low transmission fluid level ya worn clutch",
+        "C": "Headlight kharab hona",
+        "D": "Horn bajana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gear shifting problems low transmission fluid, worn clutch components, ya shift mechanism mein issues ke karan ho sakti hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Agar chain bahut tight ho toh kya ho sakta hai?",
+      "options": {
+        "A": "Chain ki life badhegi",
+        "B": "Gearbox output shaft aur wheel bearings par stress badhega",
+        "C": "Zyada power milegi",
+        "D": "Chain smooth chalegi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bahut tight chain gearbox output shaft aur wheel bearings par unnecessary stress daalti hai, jisse wear badhta hai aur components fail ho sakte hain."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Final drive system mein kaun se components hote hain?",
+      "options": {
+        "A": "Engine aur carburetor",
+        "B": "Clutch, gearbox aur drive chain/shaft",
+        "C": "Suspension aur brakes",
+        "D": "Headlight aur taillight"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Final drive system mein clutch, gearbox aur drive mechanism (chain, belt ya shaft) shamil hote hain jo engine power ko rear wheel tak pahunchate hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Automatic scooters mein kaun sa transmission system commonly use hota hai?",
+      "options": {
+        "A": "Manual gearbox",
+        "B": "Shaft drive",
+        "C": "CVT (Continuously Variable Transmission)",
+        "D": "Chain drive"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Automatic scooters mein CVT system commonly use hota hai jo gear shifting ki zaroorat ko eliminate karta hai aur smooth ride deta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Clutch plates ko inspect karte samay kya check karna chahiye?",
+      "options": {
+        "A": "Unka colour",
+        "B": "Wear, warping ya glazing",
+        "C": "Unka weight",
+        "D": "Unka brand"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clutch plates par wear marks, warpage (tedha-medha hona) ya glazing (chamkila hona) slipping ya jerky engagement ka karan ban sakte hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Agar gear engage karne mein 'grinding' sound aaye toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Clutch poora disengage nahi ho raha",
+        "B": "Engine oil level high hai",
+        "C": "Tyre pressure high hai",
+        "D": "Headlight bulb kharab hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Grinding sound tab aata hai jab clutch poori tarah disengage nahi hota, jisse gears engage karte samay takraate hain. Iska karan incorrect clutch adjustment ya worn clutch components ho sakte hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Drive belt (scooters mein) ko kab replace karna chahiye?",
+      "options": {
+        "A": "Jab uska colour change ho",
+        "B": "Jab usmein cracks, fraying ya excessive wear ho",
+        "C": "Har 5000 km par",
+        "D": "Jab vehicle ki speed kam ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drive belt ko uski condition ke hisaab se replace karna chahiye. Cracks, fraying ya excessive wear belt failure ka karan ban sakte hain."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Gear oil ka kya function hai gearbox mein?",
+      "options": {
+        "A": "Gears ko garam karna",
+        "B": "Gears ko lubricate karna aur friction kam karna",
+        "C": "Gears ko saaf karna",
+        "D": "Gears ko tight karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gear oil gears ke beech friction aur wear ko kam karta hai, unhe thanda rakhta hai aur smooth operation provide karta hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Telescopic front forks ka kya primary function hai?",
+      "options": {
+        "A": "Engine ko support karna",
+        "B": "Front wheel ko support karna aur shocks absorb karna",
+        "C": "Fuel tank ko pakadna",
+        "D": "Headlight ko attach karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Telescopic forks front wheel ko hold karte hain aur road bumps aur irregularities se hone wale shocks ko absorb karke smooth ride provide karte hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Drum brake system mein kaun se components hote hain?",
+      "options": {
+        "A": "Disc aur caliper",
+        "B": "Brake shoes, drum aur cam",
+        "C": "Brake pads aur rotor",
+        "D": "Master cylinder aur slave cylinder"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drum brake system mein brake shoes hote hain jo drum ke andar expand hokar friction generate karte hain aur vehicle ko slow ya stop karte hain."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Tyre pressure ko maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Tyre ko bada dikhane ke liye",
+        "B": "Safety, handling aur tyre life ke liye",
+        "C": "Tyre ko garam rakhne ke liye",
+        "D": "Fuel tank ko full rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi tyre pressure vehicle ki stability, braking performance aur fuel efficiency ko maintain karta hai, aur tyre ke uneven wear ko rokta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Disc brake system mein brake fluid ka kya role hai?",
+      "options": {
+        "A": "Brake pads ko lubricate karna",
+        "B": "Brake lever ke force ko caliper tak transmit karna",
+        "C": "Disc ko thanda karna",
+        "D": "Brake pads ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Brake fluid hydraulic pressure ko transmit karta hai master cylinder se caliper tak, jisse brake pads disc par press hote hain aur braking hoti hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Monoshock rear suspension ka kya fayda hai twin shock ke mukable?",
+      "options": {
+        "A": "Zyada maintenance",
+        "B": "Better handling, lighter weight aur centralized mass",
+        "C": "Kam travel",
+        "D": "Zyada sasta"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Monoshock system single shock absorber ka use karta hai, jo better handling, lighter weight aur centralized mass provide karta hai, jisse ride quality improve hoti hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Agar brake lever spongy feel ho toh kya indication hai?",
+      "options": {
+        "A": "Brake pads naye hain",
+        "B": "Brake fluid mein air hai ya fluid level kam hai",
+        "C": "Brakes bahut tight hain",
+        "D": "Tyre pressure sahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Spongy brake lever ka matlab hai ki brake system mein air trapped hai ya brake fluid level kam hai, jisse hydraulic pressure properly build nahi ho pa raha."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Front suspension fork oil ko kab replace karna chahiye?",
+      "options": {
+        "A": "Har baar jab fuel bharwayen",
+        "B": "Manufacturer ke specified intervals par ya jab performance degrade ho",
+        "C": "Kabhi nahi",
+        "D": "Jab tyre change karen"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fork oil time ke saath apni viscosity aur damping properties kho deta hai. Isse regular intervals par replace karna smooth ride aur suspension ki longevity ke liye zaroori hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Wheel alignment ka kya fayda hai?",
+      "options": {
+        "A": "Engine ko thanda rakhna",
+        "B": "Tyre wear kam karna, handling improve karna aur steering stability badhana",
+        "C": "Fuel tank ko clean rakhna",
+        "D": "Brakes ko tight karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi wheel alignment se tyre evenly wear hote hain, vehicle ki handling aur steering response achha hota hai, aur ride smooth rehti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar brake pads worn out hon toh kya sign milega?",
+      "options": {
+        "A": "Smooth braking",
+        "B": "Squealing noise, extended braking distance aur vibration",
+        "C": "Tyre zyada ghisenge",
+        "D": "Fuel efficiency badhegi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Worn brake pads se braking efficiency kam hoti hai, metal-to-metal contact ke karan squealing noise aata hai aur braking distance badh jaata hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Chassis/Frame ka kya role hai two-wheeler mein?",
+      "options": {
+        "A": "Engine ko lubricate karna",
+        "B": "Engine, suspension aur doosre components ko support karna",
+        "C": "Tyre ko inflate karna",
+        "D": "Brake fluid store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chassis two-wheeler ka structural skeleton hota hai jo saare major components ko hold karta hai aur overall integrity provide karta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Tyre ki tread depth check karna kyun zaroori hai?",
+      "options": {
+        "A": "Tyre ko naya dikhane ke liye",
+        "B": "Wet weather mein grip aur safety maintain karne ke liye",
+        "C": "Tyre ka weight check karne ke liye",
+        "D": "Tyre ka brand check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Adequate tread depth wet conditions mein paani ko displace karke grip provide karti hai. Kam tread depth se hydroplaning ka risk badh jaata hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "ABS (Anti-lock Braking System) ka kya fayda hai?",
+      "options": {
+        "A": "Braking distance kam karna",
+        "B": "Hard braking ke dauran wheels ko lock hone se rokna aur steering control maintain karna",
+        "C": "Fuel efficiency badhana",
+        "D": "Engine power badhana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ABS emergency braking mein wheels ko lock hone se rokta hai, jisse rider vehicle ko steer kar paata hai aur control maintain rehta hai, safety badhti hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Rear suspension mein preload adjustment ka kya use hai?",
+      "options": {
+        "A": "Suspension ki height adjust karna",
+        "B": "Rider ke weight aur load ke hisaab se spring stiffness adjust karna",
+        "C": "Suspension ko lock karna",
+        "D": "Shock absorber ko lubricate karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Preload adjustment spring ki initial compression ko change karta hai, jisse rider ke weight ya luggage ke hisaab se suspension ki height aur stiffness adjust hoti hai, proper sag maintain hota hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Brake fluid DOT-3 aur DOT-4 mein kya difference hai?",
+      "options": {
+        "A": "Colour difference",
+        "B": "Boiling point aur chemical composition",
+        "C": "Price difference",
+        "D": "Brand difference"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DOT-4 ka dry aur wet boiling point DOT-3 se zyada hota hai, jo high-performance vehicles mein better braking performance provide karta hai. Yeh chemical composition mein bhi alag hote hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Agar handlebar vibrate kare toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Engine oil level kam hai",
+        "B": "Unbalanced wheels, loose steering head bearings ya worn suspension components",
+        "C": "Fuel tank full hai",
+        "D": "Brakes bahut tight hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Handlebar vibrations unbalanced wheels, loose steering head bearings, bent forks ya worn suspension components ke karan ho sakti hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Tyre sidewall par 'Tire Size' ke baad 'P' ya 'LT' kya indicate karta hai?",
+      "options": {
+        "A": "Tyre ka colour",
+        "B": "Passenger car ya Light Truck tyre",
+        "C": "Tyre ka pressure",
+        "D": "Tyre ka brand"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'P' passenger car tyre ke liye aur 'LT' light truck tyre ke liye hota hai, jo tyre ke intended use aur load capacity ko batata hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Ek two-wheeler ki regular servicing kyun zaroori hai?",
+      "options": {
+        "A": "Sirf usko chamkane ke liye",
+        "B": "Performance, safety aur longevity maintain karne ke liye",
+        "C": "Zyada fuel kharch karne ke liye",
+        "D": "Engine ko garam rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular servicing se vehicle ki performance, safety aur reliability bani rehti hai, aur major breakdowns se bacha ja sakta hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Agar two-wheeler start na ho toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Engine oil level",
+        "B": "Fuel level aur ignition system (spark)",
+        "C": "Tyre pressure",
+        "D": "Horn kaam kar raha hai ya nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Engine ko start hone ke liye fuel, air aur spark ki zaroorat hoti hai. Sabse pehle fuel level aur spark plug ki condition check karni chahiye."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Customer ko service ke baad kya provide karna chahiye?",
+      "options": {
+        "A": "Sirf bill",
+        "B": "Detailed invoice, kiye gaye kaam ki list aur next service ki recommendation",
+        "C": "Ek naya helmet",
+        "D": "Ek free wash"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Transparency aur trust build karne ke liye customer ko detailed invoice, kiye gaye kaam ki list aur future maintenance ki recommendations deni chahiye."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Agar engine se unusual knocking sound aaye toh kya ho sakta hai?",
+      "options": {
+        "A": "Engine bahut smooth chal raha hai",
+        "B": "Low engine oil pressure, worn bearings ya pre-ignition",
+        "C": "Tyre mein hawa kam hai",
+        "D": "Fuel tank khaali hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Knocking sound engine ke andar severe mechanical problem ka sign ho sakta hai jaise ki worn connecting rod bearings, crankshaft bearings, ya pre-ignition."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Two-wheeler ki battery life badhane ke liye kya karna chahiye?",
+      "options": {
+        "A": "Usko hamesha discharge rakhen",
+        "B": "Regularly check karen aur terminals saaf rakhen",
+        "C": "Usko garam jagah par rakhen",
+        "D": "Sirf naya battery khariden"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery terminals ko corrosion se bachana aur electrolyte level (agar applicable ho) maintain karna battery ki life ko significantly badhata hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Diagnostic Trouble Codes (DTCs) ka kya importance hai modern EFI bikes mein?",
+      "options": {
+        "A": "Engine ka colour batane ke liye",
+        "B": "Engine management system mein faults identify karne ke liye",
+        "C": "Tyre size batane ke liye",
+        "D": "Fuel tank capacity batane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DTCs specific system failures ya malfunctions ko pinpoint karte hain, jisse mechanic ko troubleshooting mein help milti hai aur repair process faster hota hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Customer complaints ko effectively kaise handle karna chahiye?",
+      "options": {
+        "A": "Unko ignore karen",
+        "B": "Dhyan se sunein, empathy dikhayen aur solution offer karen",
+        "C": "Unko gussa dikhayen",
+        "D": "Unko doosre mechanic ke paas bhej den"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer service mein dhyan se sunna, unki problem ko samajhna aur satisfactory solution provide karna bahut zaroori hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar two-wheeler ka mileage kam ho raha hai toh kya possible reasons ho sakte hain?",
+      "options": {
+        "A": "Tyre pressure high hai",
+        "B": "Clogged air filter, worn spark plug, incorrect tyre pressure ya poor engine tuning",
+        "C": "Brakes bahut loose hain",
+        "D": "Headlight bahut bright hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Low mileage ke kayi reasons ho sakte hain jaise ki air filter ka choked hona, spark plug ka kharab hona, tyre pressure kam hona ya engine ka sahi se tune na hona."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Pre-delivery inspection (PDI) mein kya check karna chahiye?",
+      "options": {
+        "A": "Sirf vehicle ka colour",
+        "B": "Saare fluids, electricals, controls, aur fit-finish check karna",
+        "C": "Sirf engine start karke dekhna",
+        "D": "Tyre ka brand check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PDI mein vehicle ke saare systems aur components ko thoroughly check kiya jaata hai taaki customer ko delivery se pehle vehicle perfect condition mein mile."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar bike chalte samay 'pull' ho rahi hai ek side mein toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Engine oil kam hai",
+        "B": "Uneven tyre pressure, bent chassis ya suspension issue",
+        "C": "Fuel tank khaali hai",
+        "D": "Horn kaam nahi kar raha"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Vehicle ka ek side mein pull hona uneven tyre pressure, bent chassis, fork alignment problem, ya brake dragging ka sign ho sakta hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Customer ko vehicle maintenance schedule ki importance kyun batani chahiye?",
+      "options": {
+        "A": "Taki unko zyada paise kharch karne pade",
+        "B": "Taki unka vehicle reliable rahe, safe ho aur uski resale value achhi ho",
+        "C": "Taki customer baar-baar workshop aaye",
+        "D": "Taki vehicle zyada fuel consume kare"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular maintenance se vehicle ki life badhti hai, performance achhi rehti hai, safety ensure hoti hai aur future mein bade kharchon se bacha ja sakta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Troubleshooting karte samay systematic approach ka kya matlab hai?",
+      "options": {
+        "A": "Randomly parts change karna",
+        "B": "Problem ko identify karna, possible causes eliminate karna aur step-by-step diagnose karna",
+        "C": "Sirf customers se poochhna",
+        "D": "Internet par search karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Systematic troubleshooting se problem ko jaldi aur accurately diagnose kiya ja sakta hai, jisse time aur resources waste nahi hote."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Workshop mein service records maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf paperwork badhane ke liye",
+        "B": "Vehicle ki service history track karne, warranty claims aur future diagnosis ke liye",
+        "C": "Customers ko impress karne ke liye",
+        "D": "Engine ko clean rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Service records vehicle ki history ko track karte hain, jo warranty claims, maintenance planning aur future troubleshooting ke liye valuable hote hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Agar two-wheeler ka engine over-rev ho raha hai lekin speed nahi badh rahi toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Tyre pressure kam hai",
+        "B": "Clutch slipping",
+        "C": "Brakes bahut tight hain",
+        "D": "Fuel tank khaali hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Engine ka over-rev hona lekin speed na badhna clutch slipping ka classic sign hai, jahan engine power wheels tak poori tarah transmit nahi ho pa rahi."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Customer ko spare parts ki authenticity ke baare mein inform karna kyun zaroori hai?",
+      "options": {
+        "A": "Taki unko zyada paise kharch karne pade",
+        "B": "Taki unko original aur reliable parts milen aur safety ensure ho",
+        "C": "Taki unko confusion ho",
+        "D": "Taki parts jaldi kharab hon"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Original aur genuine spare parts vehicle ki safety, performance aur longevity ke liye critical hote hain. Customers ko iski importance batani chahiye."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek mechanic ko hamesha updated rehna kyun zaroori hai new models aur technology ke saath?",
+      "options": {
+        "A": "Sirf fashion ke liye",
+        "B": "Naye vehicles ko effectively service aur repair karne ke liye",
+        "C": "Purane models ko bhoolne ke liye",
+        "D": "Customers ko confuse karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Automobile industry mein naye models aur technologies constantly evolve ho rahi hain. Updated rehna mechanic ko competent aur effective rehne mein help karta hai."
+    }
+  ]
+}

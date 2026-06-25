@@ -1,0 +1,1443 @@
+{
+  "course_name": "Waterproofing & Sealing Technician",
+  "sector": "Construction & Building Trades",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Waterproofing & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Substrate Preparation & Material Handling",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Types of Waterproofing Materials & Techniques - Part 1 (Membrane Systems)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Types of Waterproofing Materials & Techniques - Part 2 (Sealants & Other Systems)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Quality Control, Testing & Repair",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Advanced Applications & Project Management Basics",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Waterproofing ka primary goal kya hai?",
+      "options": {
+        "A": "Structure ko aesthetic look dena",
+        "B": "Water ingress ko prevent karna",
+        "C": "Building ki height badhana",
+        "D": "Interior temperature maintain karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Waterproofing ka mukhya uddeshya building structure mein paani ke ghusne (ingress) ko rokna hai, jisse damage aur leakage se bacha ja sake."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "PPE ka full form kya hai jo waterproofing ke kaam mein use hota hai?",
+      "options": {
+        "A": "Personal Protection Equipment",
+        "B": "Professional Performance Evaluation",
+        "C": "Primary Project Expense",
+        "D": "Portable Power Element"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "PPE ka matlab 'Personal Protection Equipment' hai, jo workers ko kaam ke dauran chot ya exposure se bachane ke liye zaroori hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Waterproofing ke liye surface preparation kyu important hai?",
+      "options": {
+        "A": "Taaki material kam kharch ho",
+        "B": "Taaki waterproofing material ki adhesion achhi ho",
+        "C": "Taaki kaam jaldi khatam ho",
+        "D": "Taaki worker ko zyada mehnat na karni pade"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper surface preparation se waterproofing material ki substrate par pakad (adhesion) achhi hoti hai, jisse uski effectiveness aur durability badhti hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Waterproofing technician ko kaam karte samay kaun sa safety gear pehna chahiye?",
+      "options": {
+        "A": "Sunglasses aur cap",
+        "B": "Safety helmet, gloves, safety shoes, goggles",
+        "C": "Wristwatch aur ring",
+        "D": "Normal clothes aur chappal"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Waterproofing ka kaam karte samay safety helmet, gloves, safety shoes, aur goggles jaise PPE pehna bahut zaroori hai, taaki accidents se bacha ja sake."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Substrate mein cracks hone par waterproofing se pehle kya karna chahiye?",
+      "options": {
+        "A": "Directly waterproofing material laga dena chahiye",
+        "B": "Cracks ko repair karna chahiye",
+        "C": "Cracks ko ignore kar dena chahiye",
+        "D": "Zyada primer laga dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waterproofing se pehle substrate mein maujood cracks ko repair karna bahut zaroori hai, warna cracks se paani andar ja sakta hai aur waterproofing fail ho sakti hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Waterproofing ke liye commonly use hone wala tool kya hai?",
+      "options": {
+        "A": "Hammer drill",
+        "B": "Trowel",
+        "C": "Measuring tape",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Waterproofing ke kaam mein trowel material lagane ke liye, measuring tape measurement ke liye, aur kabhi-kabhi hammer drill surface preparation ke liye bhi use hota hai. Isliye, 'All of the above' sahi answer hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Waterproofing ka main benefit kya hai building ke liye?",
+      "options": {
+        "A": "Building ki re-sale value badhati hai",
+        "B": "Structure ko moisture damage se protect karti hai",
+        "C": "Energy bills kam karti hai",
+        "D": "Noise pollution kam karti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Waterproofing building structure ko moisture aur paani se hone wale nuksaan se bachati hai, jisse uski life aur strength bani rehti hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Hazardous chemicals ke saath kaam karte samay kaun sa PPE sabse important hai?",
+      "options": {
+        "A": "Safety goggles aur chemical resistant gloves",
+        "B": "Normal T-shirt aur shorts",
+        "C": "Fancy shoes",
+        "D": "Headphones"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Hazardous chemicals ke saath kaam karte samay aankhon aur skin ko bachane ke liye safety goggles aur chemical resistant gloves sabse important hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Waterproofing se pehle surface ko dry hona kyu zaroori hai?",
+      "options": {
+        "A": "Geeli surface par material zyada lagta hai",
+        "B": "Geeli surface par material ki adhesion achhi nahi hoti",
+        "C": "Geeli surface par kaam karna mushkil hota hai",
+        "D": "Geeli surface par material jaldi sukh jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Zyadatar waterproofing materials ko dry surface par hi achhe se apply kiya ja sakta hai, kyunki geeli surface par unki adhesion weak ho sakti hai, jisse waterproofing fail ho sakti hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Waterproofing ke kaam mein fire safety ka dhyan rakhna kyu important hai?",
+      "options": {
+        "A": "Kyunki kuch materials flammable hote hain",
+        "B": "Kyunki workers ko garmi lagti hai",
+        "C": "Kyunki light ki zaroorat hoti hai",
+        "D": "Kyunki kaam jaldi ho jaata hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Kuch waterproofing materials, especially bituminous membranes aur unke primers, flammable ho sakte hain. Isliye fire safety ka dhyan rakhna bahut zaroori hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Job site par first aid kit hona kyu zaroori hai?",
+      "options": {
+        "A": "Minor injuries ko immediately treat karne ke liye",
+        "B": "Lunch break ke liye",
+        "C": "Tools store karne ke liye",
+        "D": "Customers ko impress karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "First aid kit job site par minor injuries aur cuts ko turant treat karne ke liye bahut zaroori hai, taaki koi bhi chot badhe nahi."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Confined spaces mein kaam karte samay kaun si precaution leni chahiye?",
+      "options": {
+        "A": "Normal tarike se kaam karein",
+        "B": "Proper ventilation aur gas detection equipment use karein",
+        "C": "Zyada logon ko andar bhejein",
+        "D": "Koi precaution lene ki zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confined spaces mein toxic gases ya oxygen ki kami ho sakti hai. Isliye proper ventilation aur gas detection equipment ka upyog karna, aur 'permit-to-work' system follow karna bahut zaroori hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Waterproofing ke kaam mein 'hot work' kya hota hai?",
+      "options": {
+        "A": "Garmi mein kiya jaane wala kaam",
+        "B": "Flame ya heat generate karne wala kaam, jaise torching",
+        "C": "Tez dhoop mein kiya jaane wala kaam",
+        "D": "Heavy lifting wala kaam"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hot work mein flame ya high heat ka use hota hai, jaise bituminous membranes ko torch-apply karna. Ismein fire hazards ka special dhyan rakhna padta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Waterproofing materials ke MSDS (Material Safety Data Sheet) ko padhna kyu important hai?",
+      "options": {
+        "A": "Taaki material ka colour pata chale",
+        "B": "Taaki material ke safe handling aur storage ki information mile",
+        "C": "Taaki material ka price pata chale",
+        "D": "Taaki material ki availability pata chale"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "MSDS mein material ke chemical properties, potential hazards, safe handling procedures, first aid measures, aur storage instructions ki detailed information hoti hai, jo safety ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Site par electrical safety ke liye kya karna chahiye?",
+      "options": {
+        "A": "Loose wires ko ignore karein",
+        "B": "Damaged electrical tools ka use karein",
+        "C": "Properly insulated tools aur RCD (Residual Current Device) use karein",
+        "D": "Paani ke paas electrical work karein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Electrical safety ke liye damaged tools ko avoid karna, wires ko theek se manage karna, aur RCD jaise safety devices ka use karna zaroori hai, taaki electric shock se bacha ja sake."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Waterproofing ke kaam mein 'fall protection' kab zaroori hota hai?",
+      "options": {
+        "A": "Jab bhi heights par kaam kar rahe hon",
+        "B": "Sirf jab baarish ho rahi ho",
+        "C": "Sirf jab subah kaam kar rahe hon",
+        "D": "Kabhi nahi"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Jab bhi technician heights par, jaise ki chhat (roof) ya elevated platforms par kaam kar raha ho, tab fall protection (harness, guardrails) zaroori hai taaki girne se bacha ja sake."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Waterproofing mein 'negative side' waterproofing ka kya matlab hai?",
+      "options": {
+        "A": "Waterproofing material ko structure ke andar se apply karna",
+        "B": "Waterproofing material ko structure ke bahar se apply karna",
+        "C": "Waterproofing material ko neeche se apply karna",
+        "D": "Waterproofing material ko upar se apply karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Negative side waterproofing tab ki jaati hai jab paani structure ke bahar se aa raha ho, lekin material ko structure ke andar ki taraf se apply kiya jaata hai, jaise basements mein."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Substrate preparation mein sabse pehla step kya hota hai?",
+      "options": {
+        "A": "Primer lagana",
+        "B": "Surface ko saaf karna",
+        "C": "Cracks repair karna",
+        "D": "Material ko mix karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Substrate preparation mein sabse pehle surface ko dhool, mitti, loose particles, grease, aur oil se achhe se saaf karna hota hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Loose particles ko surface se hatane ke liye kaun sa method use kiya jaata hai?",
+      "options": {
+        "A": "Water jet cleaning",
+        "B": "Wire brush ya broom se saaf karna",
+        "C": "Vacuum cleaner",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Loose particles ko hatane ke liye water jet cleaning, wire brush, broom, aur vacuum cleaner sabhi methods effective ho sakte hain, depend karta hai surface type aur contamination par."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Concrete surface par waterproofing se pehle curing period ka dhyan rakhna kyu zaroori hai?",
+      "options": {
+        "A": "Taaki concrete ka colour achha aaye",
+        "B": "Taaki concrete apni full strength achieve kar le",
+        "C": "Taaki concrete jaldi dry ho jaaye",
+        "D": "Taaki concrete ko polish kiya ja sake"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Concrete ko uski full strength achieve karne aur shrinkage cracks ko minimize karne ke liye proper curing period dena zaroori hai, warna waterproofing material theek se perform nahi karega."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Primer ka kya role hai waterproofing system mein?",
+      "options": {
+        "A": "Sirf surface ko colour dena",
+        "B": "Waterproofing material aur substrate ke beech adhesion badhana",
+        "C": "Surface ko rough banana",
+        "D": "Paani ko absorb karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Primer waterproofing material aur substrate ke beech ek strong bond banata hai, jisse adhesion improve hoti hai aur waterproofing system ki performance badhti hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Substrate mein blowholes ya pinholes ko kaise treat karna chahiye?",
+      "options": {
+        "A": "Ignore kar dena chahiye",
+        "B": "Sealant ya repair mortar se fill karna chahiye",
+        "C": "Sirf primer laga dena chahiye",
+        "D": "Unpar extra membrane laga dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blowholes aur pinholes paani ke liye entry points ban sakte hain. Inhe waterproofing se pehle suitable sealant ya repair mortar se fill karna zaroori hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Waterproofing materials ko store karte samay kin baaton ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Direct sunlight se door, dry place par store karein",
+        "B": "Geeli jagah par store karein",
+        "C": "Khule mein chhod dein",
+        "D": "High temperature wali jagah par rakhein"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Waterproofing materials ko direct sunlight, extreme temperatures aur moisture se bachane ke liye dry aur cool place par store karna chahiye, jisse unki shelf life aur quality bani rahe."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Old waterproofing layer ko naye application se pehle kyu hatana chahiye?",
+      "options": {
+        "A": "Naya material uspar theek se adhere nahi karega",
+        "B": "Purana layer looks kharab karta hai",
+        "C": "Zyada material kharch hoga",
+        "D": "Kaam jaldi ho jaayega"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Agar purana waterproofing layer damaged ya incompatible hai, toh naya material uspar theek se adhere nahi karega, jisse waterproofing fail ho sakti hai. Isliye use remove karna zaroori hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Convex or concave fillets (coving) corners par kyu banaye jaate hain?",
+      "options": {
+        "A": "Taaki corners sharp dikhein",
+        "B": "Taaki material ko corners par easily spread kiya ja sake aur stress concentrate na ho",
+        "C": "Taaki paani corners mein jama ho jaaye",
+        "D": "Sirf decorative purpose ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Corners par fillets banaye jaate hain taaki sharp angles ko smooth kiya ja sake. Isse waterproofing material ko apply karna aasan hota hai aur corners par stress concentration kam hota hai, jisse cracking ka risk kam ho jaata hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Waterproofing material ko mix karte samay kin baaton ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Manufacturer ke instructions follow karein",
+        "B": "Koi bhi tool use kar sakte hain",
+        "C": "Kitna bhi paani mila sakte hain",
+        "D": "Jitna chahe utna mix karein"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Material ki proper consistency aur performance ke liye manufacturer ke instructions (mixing ratio, mixing time, tools) ko strictly follow karna zaroori hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Contaminated surface par waterproofing karne se kya ho sakta hai?",
+      "options": {
+        "A": "Waterproofing material ki life badh jaati hai",
+        "B": "Adhesion fail ho sakti hai",
+        "C": "Waterproofing zyada effective ho jaati hai",
+        "D": "Koi farak nahi padta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Contaminated surface par waterproofing material theek se adhere nahi kar paata, jisse adhesion fail ho sakti hai aur waterproofing system compromise ho jaata hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Metal surfaces ko waterproofing se pehle kaise prepare karna chahiye?",
+      "options": {
+        "A": "Rust aur scale ko remove karein, phir degrease karein",
+        "B": "Directly primer laga dein",
+        "C": "Sirf paani se dho dein",
+        "D": "Unpar paint kar dein"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Metal surfaces se rust, scale aur grease ko achhe se remove karna zaroori hai, taaki waterproofing material ki adhesion achhi ho sake aur corrosion na ho."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Liquid waterproofing materials ko store karte samay containers ko sealed rakhna kyu zaroori hai?",
+      "options": {
+        "A": "Taaki colour change na ho",
+        "B": "Taaki evaporation na ho aur material dry na ho",
+        "C": "Taaki smell na aaye",
+        "D": "Taaki containers kharab na hon"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Liquid materials ko sealed rakhna zaroori hai taaki evaporation se material dry na ho, ya contaminants usmein na ghus paayein, jisse uski working life aur quality bani rahe."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Waterproofing ke kaam mein 'bond breaker' ka kya role hai?",
+      "options": {
+        "A": "Adhesion ko badhana",
+        "B": "Waterproofing material ko substrate se alag karna, jahan movement expect ki jaati hai",
+        "C": "Surface ko saaf karna",
+        "D": "Cracks ko fill karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bond breaker ek material hota hai jo waterproofing material ko substrate ya adjacent surface se bond hone se rokta hai, khaaskar wahan jahan movement expected ho, taaki waterproofing layer crack na ho."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Waterproofing material ki shelf life kis par depend karti hai?",
+      "options": {
+        "A": "Material ki quantity par",
+        "B": "Storage conditions aur manufacturing date par",
+        "C": "Worker ki skill par",
+        "D": "Weather conditions par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Material ki shelf life uske manufacturing date aur proper storage conditions (temperature, humidity) par depend karti hai. Incorrect storage se material kharab ho sakta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Substrate preparation mein 'levelling' kyu important hai?",
+      "options": {
+        "A": "Taaki waterproofing layer uniform ho aur paani jama na ho",
+        "B": "Taaki surface rough ho jaaye",
+        "C": "Taaki material kam kharch ho",
+        "D": "Taaki kaam jaldi ho jaaye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Levelling se surface smooth aur uniform banti hai, jisse waterproofing material evenly apply hota hai aur paani kahin jama nahi hota, jo waterproofing ki effectiveness ke liye zaroori hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Bituminous primer ko apply karne ke baad kitne der tak sukhne dena chahiye?",
+      "options": {
+        "A": "Immediately membrane laga dein",
+        "B": "Manufacturer ke specified drying time ka wait karein",
+        "C": "Ek ghante mein laga dein",
+        "D": "Kabhi nahi sukhne dein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bituminous primer ko apply karne ke baad manufacturer dwara specify kiye gaye drying time tak wait karna zaroori hai, taaki solvents evaporate ho jaayein aur primer achhe se set ho jaaye, jisse membrane ki adhesion achhi ho."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Cementitious waterproofing se pehle concrete surface ko 'damp' kyu karna chahiye?",
+      "options": {
+        "A": "Taaki material jaldi set ho",
+        "B": "Taaki material ki workability badhe aur premature drying na ho",
+        "C": "Taaki material kam lage",
+        "D": "Taaki surface thandi rahe"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cementitious waterproofing materials ke liye, surface ko damp karne se material ki workability badhti hai, aur concrete surface material se paani ko jaldi absorb nahi karti, jisse premature drying aur cracking ka risk kam hota hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Bituminous membrane waterproofing mein commonly kaun si heat source use hoti hai?",
+      "options": {
+        "A": "Hair dryer",
+        "B": "Gas torch",
+        "C": "Electric heater",
+        "D": "Microwave"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bituminous membrane waterproofing mein, khaaskar torch-applied membranes ke liye, gas torch ka use hota hai membrane ko heat karke substrate par fuse karne ke liye."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "APP (Atactic Polypropylene) modified bituminous membrane ki kya property hai?",
+      "options": {
+        "A": "High flexibility at low temperatures",
+        "B": "High UV resistance aur thermal stability",
+        "C": "Self-adhesive property",
+        "D": "Water-based composition"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "APP modified bituminous membranes apni high UV resistance aur thermal stability ke liye jaane jaate hain, jo unhe garmi wale climates ke liye suitable banata hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "SBS (Styrene Butadiene Styrene) modified bituminous membrane ki kya property hai?",
+      "options": {
+        "A": "High rigidity",
+        "B": "High flexibility aur elasticity at low temperatures",
+        "C": "Low puncture resistance",
+        "D": "Solvent-based only"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SBS modified bituminous membranes apni high flexibility aur elasticity ke liye jaane jaate hain, khaaskar thande climates mein, jo unhe structural movements ko accommodate karne mein madad karta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Liquid-applied waterproofing membrane lagane ka sabse common method kya hai?",
+      "options": {
+        "A": "Torch se heat karna",
+        "B": "Brush ya roller se apply karna",
+        "C": "Nails se fix karna",
+        "D": "Glue se chipkana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Liquid-applied membranes ko aam taur par brush, roller, ya spray gun se apply kiya jaata hai, jo ek seamless coating banate hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Self-adhesive waterproofing membranes ko apply karte samay kis cheez ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Primer ki zaroorat nahi hoti",
+        "B": "Overlap joints ko achhe se press karna",
+        "C": "Surface ko geela rakhna",
+        "D": "Torch se heat karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Self-adhesive membranes ko proper adhesion ke liye overlap joints par achhe se press karna zaroori hai, taaki koi air bubble na rahe aur water-tight seal bane."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Cementitious waterproofing materials ki kya khaasiyat hai?",
+      "options": {
+        "A": "High flexibility",
+        "B": "Breathable hote hain aur positive/negative side par lag sakte hain",
+        "C": "UV resistant nahi hote",
+        "D": "Sirf metal surfaces ke liye hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cementitious waterproofing materials breathable hote hain, matlab ye moisture vapor ko pass hone dete hain jabki liquid water ko rokte hain. Ye positive aur negative dono sides par use ho sakte hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Polyurethane (PU) liquid membrane ki kya property hai?",
+      "options": {
+        "A": "Very low elasticity",
+        "B": "High elasticity, crack-bridging ability aur UV resistance",
+        "C": "Only for interior use",
+        "D": "Needs torch application"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PU liquid membranes apni high elasticity, outstanding crack-bridging ability, aur UV resistance ke liye jaane jaate hain, jo unhe exposed areas ke liye ideal banata hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Fibre-reinforced liquid membranes kyu use kiye jaate hain?",
+      "options": {
+        "A": "Sirf colour ke liye",
+        "B": "Tensile strength aur crack resistance badhane ke liye",
+        "C": "Weight kam karne ke liye",
+        "D": "Drying time kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Fibre-reinforced liquid membranes mein fibres add kiye jaate hain taaki unki tensile strength aur crack resistance badh sake, khaaskar jahan movement ya minor cracking expected ho."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Waterproofing membrane ke overlaps kitne hone chahiye?",
+      "options": {
+        "A": "No overlap needed",
+        "B": "Minimum 75mm se 100mm",
+        "C": "Sirf 10mm",
+        "D": "Jitna zyada ho utna achha"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waterproofing membrane rolls ko apply karte samay, ek water-tight seal banane ke liye minimum 75mm se 100mm ka overlap rakhna zaroori hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Bituminous membranes ke saath 'reinforcement mat' kyu use kiya jaata hai?",
+      "options": {
+        "A": "Sirf look ke liye",
+        "B": "Membrane ki tensile strength aur puncture resistance badhane ke liye",
+        "C": "Membrane ko patla karne ke liye",
+        "D": "Drying time kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bituminous membranes mein polyester ya fiberglass jaise reinforcement mats use kiye jaate hain taaki unki tensile strength, tear resistance, aur puncture resistance badh sake, jisse membrane zyada durable bane."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Liquid-applied membranes ki drying time kis par depend karti hai?",
+      "options": {
+        "A": "Sirf material ke colour par",
+        "B": "Temperature, humidity aur coating thickness par",
+        "C": "Worker ki speed par",
+        "D": "Tools ke type par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Liquid-applied membranes ki drying time surrounding temperature, relative humidity, aur apply ki gayi coating ki thickness par directly depend karti hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Torch-applied bituminous membrane lagane se pehle surface par primer kyu lagate hain?",
+      "options": {
+        "A": "Taaki membrane jaldi chipak jaaye",
+        "B": "Taaki adhesion achhi ho aur surface dust-free ho",
+        "C": "Taaki surface black ho jaaye",
+        "D": "Taaki membrane ko aasani se hata saken"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Primer surface ki porosity ko seal karta hai, dust ko bind karta hai, aur bituminous membrane ke liye ek sticky base provide karta hai, jisse adhesion significantly improve hoti hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Waterproofing membrane ko vertical surfaces par kaise apply karna chahiye?",
+      "options": {
+        "A": "Top se bottom tak",
+        "B": "Bottom se top tak",
+        "C": "Middle se start karein",
+        "D": "Kisi bhi direction mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vertical surfaces par membrane ko bottom se top ki taraf apply karna chahiye, taaki overlaps downward-facing hon aur paani unke andar na ghuse."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Acrylic liquid waterproofing membrane ki kya property hai?",
+      "options": {
+        "A": "Solvent-based aur high chemical resistance",
+        "B": "Water-based, UV stable aur economical",
+        "C": "Requires torch application",
+        "D": "Very high crack-bridging ability"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Acrylic membranes water-based hote hain, UV stable hote hain, aur economical hote hain. Ye aam taur par exposed roofs par use kiye jaate hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Liquid-applied membrane ke liye 'wet film thickness' aur 'dry film thickness' kya denote karte hain?",
+      "options": {
+        "A": "Ek hi cheez hai",
+        "B": "Wet film thickness liquid state mein hoti hai, dry film thickness sukhne ke baad",
+        "C": "Wet film thickness sukhne ke baad hoti hai",
+        "D": "Dry film thickness liquid state mein hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wet film thickness material ko apply karte samay uski thickness hoti hai, jabki dry film thickness solvents ya paani ke evaporate hone ke baad bachi hui solid layer ki thickness hoti hai. Ye dono alag hote hain kyunki material shrink hota hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Waterproofing membrane ko corners aur edges par kaise reinforce karna chahiye?",
+      "options": {
+        "A": "Extra layer of membrane ya fabric reinforcement use karein",
+        "B": "Sirf ek hi layer laga dein",
+        "C": "Corners ko ignore karein",
+        "D": "Zyada primer laga dein"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Corners aur edges high-stress areas hote hain jahan cracking ka risk zyada hota hai. Inhe extra layers of membrane ya fabric reinforcement strips se reinforce karna chahiye taaki waterproofing intact rahe."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Bituminous membrane ke application ke baad 'ponding' kyu avoid karna chahiye?",
+      "options": {
+        "A": "Ponding se membrane ka colour kharab hota hai",
+        "B": "Ponding se membrane par stress aata hai aur uski life kam ho sakti hai",
+        "C": "Ponding se membrane jaldi sukh jaati hai",
+        "D": "Ponding se waterproofing zyada effective hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ponding (paani ka jama hona) waterproofing membrane par constant hydrostatic pressure dalta hai aur use UV degradation aur chemical attack ke liye zyada expose karta hai, jisse membrane ki life kam ho sakti hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Sealant ka primary function kya hai?",
+      "options": {
+        "A": "Structure ko decorate karna",
+        "B": "Joints aur gaps ko fill karna aur movement accommodate karna",
+        "C": "Load-bearing capacity badhana",
+        "D": "Surface ko smooth banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sealant ka mukhya kaam joints, cracks, aur gaps ko fill karna hai, taaki paani aur hawa andar na ja sake, aur saath hi structural movement ko accommodate karna hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Silicone sealants ki kya khaasiyat hai?",
+      "options": {
+        "A": "Paintable hote hain",
+        "B": "Excellent UV resistance aur flexibility",
+        "C": "Low temperature par hard ho jaate hain",
+        "D": "Sirf interior use ke liye hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Silicone sealants apni excellent UV resistance, high flexibility, aur temperature stability ke liye jaane jaate hain, jo unhe exterior applications ke liye ideal banata hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Polyurethane (PU) sealants ki kya property hai?",
+      "options": {
+        "A": "Poor adhesion to most substrates",
+        "B": "Good adhesion, flexibility aur paintable",
+        "C": "Not resistant to chemicals",
+        "D": "Very short service life"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PU sealants apni achhi adhesion, flexibility, aur paintability ke liye jaane jaate hain. Ye construction joints mein widely use hote hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Sealant application se pehle 'backer rod' kyu use kiya jaata hai?",
+      "options": {
+        "A": "Joint ko decorate karne ke liye",
+        "B": "Sealant ki depth ko control karne aur three-sided adhesion ko rokne ke liye",
+        "C": "Joint ko clean karne ke liye",
+        "D": "Sealant ki curing speed badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Backer rod sealant ki depth ko control karta hai, uski shape ko maintain karta hai, aur three-sided adhesion ko prevent karta hai, jisse sealant apni full flexibility achieve kar sake."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Crystalline waterproofing materials kaise kaam karte hain?",
+      "options": {
+        "A": "Surface par ek layer banate hain",
+        "B": "Concrete ke pores mein crystals grow karke unhe seal karte hain",
+        "C": "Surface ko colour karte hain",
+        "D": "Paani ko absorb karte hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Crystalline waterproofing materials concrete ke pores aur capillaries mein chemical reaction karke insoluble crystals banate hain, jo paani ko block kar dete hain aur concrete ko waterproof banate hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Injection grouting ka use kab kiya jaata hai?",
+      "options": {
+        "A": "Nayi building banane ke liye",
+        "B": "Existing structures mein cracks aur voids ko fill karke leakage rokne ke liye",
+        "C": "Surface ko smooth banane ke liye",
+        "D": "Paint karne se pehle"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Injection grouting existing structures mein leakage ko rokne ke liye use hoti hai, jahan cracks, voids, ya honeycombs mein pressure se grout inject kiya jaata hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Water repellents kya karte hain?",
+      "options": {
+        "A": "Ek film banakar surface ko seal karte hain",
+        "B": "Surface ki porosity ko kam karte hain, jisse paani repel hota hai",
+        "C": "Surface ko colour karte hain",
+        "D": "Cracks ko fill karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Water repellents surface ke pores mein penetrate karte hain aur unki hydrophobicity badhate hain, jisse paani surface par bead up hokar slide off ho jaata hai, lekin surface breathable rehti hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Sealant gun ka kya role hai sealant application mein?",
+      "options": {
+        "A": "Sealant ko mix karna",
+        "B": "Sealant ko uniform pressure se apply karna",
+        "C": "Sealant ko sukhana",
+        "D": "Sealant ko hatana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sealant gun sealant cartridges se material ko nikalne aur joints mein uniform pressure aur control ke saath apply karne ke liye use hoti hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Polysulfide sealants ki kya khaasiyat hai?",
+      "options": {
+        "A": "Poor chemical resistance",
+        "B": "Excellent chemical resistance, fuel resistance aur long-term flexibility",
+        "C": "Not suitable for submerged conditions",
+        "D": "Very quick curing"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Polysulfide sealants apni outstanding chemical resistance, fuel resistance, aur long-term flexibility ke liye jaane jaate hain, khaaskar fuel storage tanks aur chemical processing areas mein."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "'Tooling' of sealant ka kya matlab hai?",
+      "options": {
+        "A": "Sealant gun ko load karna",
+        "B": "Apply kiye gaye sealant ko smooth karna aur shape dena",
+        "C": "Sealant ko remove karna",
+        "D": "Sealant ko mix karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tooling ek process hai jismein apply kiye gaye sealant ko ek tooling tool ya finger se smooth kiya jaata hai, taaki achhi adhesion mile aur ek neat finish aaye."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Bituminous mastic sealants kahan use hote hain?",
+      "options": {
+        "A": "High movement joints mein",
+        "B": "Low movement joints aur repair work mein",
+        "C": "Glass sealing mein",
+        "D": "Submerged conditions mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bituminous mastic sealants aam taur par low movement joints, cracks aur repair work mein use hote hain, jahan high flexibility ki zaroorat nahi hoti."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Sealant application se pehle joint surfaces par 'primer' kyu lagate hain?",
+      "options": {
+        "A": "Sirf colour ke liye",
+        "B": "Adhesion ko improve karne ke liye",
+        "C": "Joint ko geela karne ke liye",
+        "D": "Sealant ko zyada flexible banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sealant primers joint surfaces ki adhesion properties ko enhance karte hain, khaaskar porous substrates par ya jahan high performance required ho."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Expansion joints mein kaun sa sealant use karna chahiye?",
+      "options": {
+        "A": "Rigid mortar",
+        "B": "High-flexibility sealant jaise PU ya Silicone",
+        "C": "Normal cement",
+        "D": "Tar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Expansion joints structural movement ko accommodate karte hain, isliye unmein high flexibility wale sealants jaise Polyurethane (PU) ya Silicone sealants use karne chahiye."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Hydrophilic waterstops kaise kaam karte hain?",
+      "options": {
+        "A": "Paani ko repel karte hain",
+        "B": "Paani ke contact mein aane par swell hokar seal banate hain",
+        "C": "Paani ko absorb karte hain aur soft ho jaate hain",
+        "D": "Sirf decoration ke liye hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hydrophilic waterstops construction joints mein use hote hain. Ye paani ke contact mein aane par swell (phool) jaate hain aur joint ko seal kar dete hain, paani ke ghusne ko rokte hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Bituminous protection boards ka kya use hai waterproofing mein?",
+      "options": {
+        "A": "Sirf decorative purposes ke liye",
+        "B": "Waterproofing membrane ko physical damage se bachane ke liye",
+        "C": "Waterproofing membrane ko chipkane ke liye",
+        "D": "Surface ko rough banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bituminous protection boards waterproofing membrane ke upar lagaye jaate hain taaki use backfilling, heavy traffic, ya sharp objects se hone wale physical damage se protect kiya ja sake."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Sealant application mein 'skinning time' ka kya matlab hai?",
+      "options": {
+        "A": "Sealant ke andar tak sukhne ka time",
+        "B": "Sealant ki surface par ek non-tacky film banne ka time",
+        "C": "Sealant ko mix karne ka time",
+        "D": "Sealant ko remove karne ka time"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Skinning time woh time hota hai jab sealant apply hone ke baad uski surface par ek non-tacky film ban jaati hai. Iske baad sealant ko tool nahi karna chahiye."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Waterproofing ke liye 'geotextile fabric' kahan use hota hai?",
+      "options": {
+        "A": "Decorative layer ke roop mein",
+        "B": "Waterproofing membrane ko support aur protection dene ke liye, aur drainage mein",
+        "C": "Sirf colour ke liye",
+        "D": "Surface ko smooth banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Geotextile fabrics waterproofing membrane ko puncture se bachane, tensile strength provide karne, aur drainage systems mein filtration aur separation layer ke roop mein use hote hain."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Waterproofing mein leak detection ka sabse common method kya hai?",
+      "options": {
+        "A": "Coin toss",
+        "B": "Visual inspection aur water ponding test",
+        "C": "Smell test",
+        "D": "Sound test"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Leak detection ke liye visual inspection (cracks, stains dekhna) aur water ponding test (paani jama karke leakage dekhna) sabse common aur effective methods hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Water ponding test kitne time ke liye karna chahiye?",
+      "options": {
+        "A": "1-2 ghante",
+        "B": "Minimum 24 se 48 ghante",
+        "C": "Sirf 15 minute",
+        "D": "Ek hafte"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Water ponding test ko kam se kam 24 se 48 ghante tak karna chahiye, taaki paani ko chote se chote cracks aur imperfections se penetrate karne ka poora mauka mile."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Waterproofing membrane mein minor puncture ko kaise repair karna chahiye?",
+      "options": {
+        "A": "Ignore kar dein",
+        "B": "Ek patch (same material ka) laga kar seal karein",
+        "C": "Sirf paint kar dein",
+        "D": "Nayi membrane laga dein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Minor punctures ko usi waterproofing material ke patch se repair kiya ja sakta hai, jise puncture ke size se bada kaat kar achhe se seal kiya jaata hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Adhesion test kyu kiya jaata hai waterproofing mein?",
+      "options": {
+        "A": "Material ka colour check karne ke liye",
+        "B": "Waterproofing material ki substrate par pakad (bond strength) check karne ke liye",
+        "C": "Material ki quantity check karne ke liye",
+        "D": "Drying time check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Adhesion test se yeh pata chalta hai ki waterproofing material substrate par kitni achhi tarah se chipka hua hai, jo uski long-term performance ke liye critical hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Waterproofing failure ka sabse common reason kya hai?",
+      "options": {
+        "A": "Expensive material ka use",
+        "B": "Poor surface preparation aur improper application",
+        "C": "Achha weather",
+        "D": "Experienced workers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Zyadatar waterproofing failures poor surface preparation, galat application techniques, ya incompatible materials ke use ki wajah se hote hain."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Thermo-graphic leak detection ka kya fayda hai?",
+      "options": {
+        "A": "Ye sirf din mein kaam karta hai",
+        "B": "Non-destructive method hai aur hidden moisture ko detect karta hai",
+        "C": "Sirf visible leaks detect karta hai",
+        "D": "Bahut sasta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Thermo-graphic leak detection ek non-destructive method hai jo infrared cameras ka use karke temperature differences ko detect karta hai, jisse hidden moisture aur leaks ka pata chalta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Waterproofing membrane mein blister (bula) kyu bante hain?",
+      "options": {
+        "A": "Material bahut patla lagaya gaya hai",
+        "B": "Trapped moisture ya air ke karan jo heat se expand hoti hai",
+        "C": "Surface bahut clean thi",
+        "D": "Material bahut jaldi sukh gaya"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blisters tab bante hain jab membrane ke neeche trapped moisture ya air heat ke karan expand hoti hai, jisse membrane surface se lift ho jaati hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Agar waterproofing membrane mein bade cracks aa gaye hain, toh repair kaise karenge?",
+      "options": {
+        "A": "Sirf paint kar dein",
+        "B": "Affected area ko remove karke naya membrane patch lagayein",
+        "C": "Us par tape laga dein",
+        "D": "Use ignore kar dein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bade cracks ya damage ke liye, affected area ko remove karke, surface ko prepare karke, aur naya membrane patch lagana sabse effective repair method hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Leakage ke source ko identify karna kyu important hai repair se pehle?",
+      "options": {
+        "A": "Taaki repair sahi jagah par ho aur permanent solution mile",
+        "B": "Taaki repair work zyada time le",
+        "C": "Taaki zyada material kharch ho",
+        "D": "Koi zarurat nahi"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Agar leakage ka source theek se identify nahi kiya gaya, toh repair temporary hoga aur leakage phir se ho sakti hai. Sahi source pata hone se permanent solution milta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Electronic leak detection method ka kya fayda hai?",
+      "options": {
+        "A": "Sirf visible leaks detect karta hai",
+        "B": "Non-destructive hai aur pin-point accuracy se leaks detect karta hai",
+        "C": "Bahut sasta hai aur koi skill nahi chahiye",
+        "D": "Sirf interior use ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Electronic leak detection (jaise vector mapping, spark testing) non-destructive methods hain jo waterproofing membranes mein chote se chote punctures ya leaks ko high accuracy ke saath detect karte hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Waterproofing membrane mein 'fish mouths' kyu bante hain?",
+      "options": {
+        "A": "Proper overlap na hone aur air trapping ke karan",
+        "B": "Membrane bahut achhi tarah se lagi hai",
+        "C": "Surface bahut smooth thi",
+        "D": "Drying time bahut kam tha"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Fish mouths tab bante hain jab membrane ke overlaps theek se seal nahi hote ya air trapped ho jaati hai, jisse edges lift ho jaati hain aur paani andar ghus sakta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Repair work mein 'compatibility' ka kya matlab hai?",
+      "options": {
+        "A": "Naya repair material purane material ke saath achhe se mix ho",
+        "B": "Naya repair material purane material se alag ho",
+        "C": "Repair material ka colour achha ho",
+        "D": "Repair material sasta ho"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Compatibility ka matlab hai ki naya repair material purane waterproofing system ke saath chemically aur physically compatible hona chahiye, taaki achha bond bane aur repair effective ho."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Waterproofing failure ko rokne ke liye sabse achha tareeka kya hai?",
+      "options": {
+        "A": "Saste material use karna",
+        "B": "Proper design, quality materials aur skilled application",
+        "C": "Kam layers lagana",
+        "D": "Inspection na karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Waterproofing failures ko rokne ke liye sahi design, high-quality materials, aur experienced technicians dwara proper application bahut zaroori hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Waterproofing repair ke baad 're-testing' kyu zaroori hai?",
+      "options": {
+        "A": "Sirf formality ke liye",
+        "B": "Taaki confirm ho sake ki repair successful raha hai aur leakage band ho gayi hai",
+        "C": "Taaki worker ko zyada kaam mile",
+        "D": "Taaki material waste ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Repair ke baad re-testing (jaise water ponding test) karna zaroori hai taaki yeh confirm ho sake ki leakage successfully band ho gayi hai aur repair effective raha hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Crack injection repair mein kaun sa material use hota hai?",
+      "options": {
+        "A": "Plain water",
+        "B": "Epoxy ya Polyurethane resin",
+        "C": "Sand",
+        "D": "Normal paint"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Crack injection repair mein high-pressure pumps ka use karke Epoxy ya Polyurethane resins ko cracks mein inject kiya jaata hai, jo cracks ko seal kar dete hain aur structural integrity ko restore karte hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Waterproofing system ki durability kis par depend karti hai?",
+      "options": {
+        "A": "Sirf material ke colour par",
+        "B": "Material ki quality, application method, aur environmental factors par",
+        "C": "Sirf worker ki age par",
+        "D": "Drying time par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waterproofing system ki durability material ki quality, uske application method, aur site par maujood environmental factors (UV exposure, temperature variations) par depend karti hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Terrace waterproofing ke liye sabse common material kaun sa hai?",
+      "options": {
+        "A": "Normal paint",
+        "B": "Bituminous membranes ya Liquid-applied PU/Acrylic membranes",
+        "C": "Wallpaper",
+        "D": "Glass sheets"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Terrace waterproofing ke liye bituminous membranes (APP/SBS) aur liquid-applied PU ya acrylic membranes sabse common aur effective solutions hain, jo UV resistance aur flexibility provide karte hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Basement waterproofing mein 'drainage board' ka kya role hai?",
+      "options": {
+        "A": "Sirf decorative purpose ke liye",
+        "B": "Waterproofing membrane ko protect karna aur paani ko drain karna",
+        "C": "Basement ko garam rakhna",
+        "D": "Basement ko thanda rakhna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Basement waterproofing mein drainage board waterproofing membrane ko backfilling ke damage se protect karta hai aur structure ke paas jama hone wale paani ko drain kar deta hai, jisse hydrostatic pressure kam hota hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Bathroom waterproofing mein sabse critical area kaun sa hai?",
+      "options": {
+        "A": "Ceiling",
+        "B": "Shower area aur floor-wall junctions",
+        "C": "Doorway",
+        "D": "Window"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bathroom waterproofing mein shower area aur floor-wall junctions sabse critical hote hain, kyunki yahan paani ka direct aur constant exposure hota hai, jahan leakage ka risk sabse zyada hota hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Swimming pool waterproofing ke liye kis tarah ke materials ki zaroorat hoti hai?",
+      "options": {
+        "A": "Normal paint",
+        "B": "High chemical resistance aur flexibility wale materials",
+        "C": "Paper sheets",
+        "D": "Wood planks"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Swimming pool waterproofing mein aise materials ki zaroorat hoti hai jo constant water exposure, chlorine chemicals, aur structural movements ko withstand kar saken, jaise high-performance cementitious ya PU systems."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Green roof waterproofing mein kaun si extra layer zaroori hoti hai?",
+      "options": {
+        "A": "Sirf waterproofing membrane",
+        "B": "Root barrier layer",
+        "C": "Extra paint layer",
+        "D": "Glass layer"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Green roofs mein plants ki roots waterproofing membrane ko damage kar sakti hain. Isliye ek dedicated root barrier layer zaroori hoti hai jo roots ko penetrate karne se rokti hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Waterproofing project ke liye cost estimation mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf material cost",
+        "B": "Material cost, labour cost, equipment cost aur overheads",
+        "C": "Sirf labour cost",
+        "D": "Sirf profit margin"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cost estimation mein material ki lagat, workers ki mazdoori, equipment ka kharch, aur anya overhead expenses (transport, supervision) sab shamil hote hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Client ko project ke dauran regularly update karna kyu zaroori hai?",
+      "options": {
+        "A": "Taaki client bore ho jaaye",
+        "B": "Taaki trust bana rahe aur koi miscommunication na ho",
+        "C": "Taaki kaam mein der ho",
+        "D": "Sirf extra bill banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular communication se client ka trust bana rehta hai, unhe project progress ki jaankari milti rehti hai, aur kisi bhi samasya ko jaldi suljhaya ja sakta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Waterproofing contract mein 'warranty' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf material ki guarantee",
+        "B": "Workmanship aur material ki guarantee ek specified period ke liye",
+        "C": "Sirf labour ki guarantee",
+        "D": "Koi guarantee nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Warranty ek commitment hoti hai ki waterproofing work aur materials ek specified period ke liye defect-free rahenge, aur agar koi problem aati hai toh use repair kiya jaayega."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Waterproofing project completion ke baad kaun se documents client ko dene chahiye?",
+      "options": {
+        "A": "Sirf bill",
+        "B": "Warranty certificate, maintenance guidelines aur 'as-built' drawings (agar applicable ho)",
+        "C": "Sirf photos",
+        "D": "Kuch bhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Completion par warranty certificate, future maintenance ke liye guidelines, aur 'as-built' drawings dena professional practice hai, jo client ko system ko maintain karne mein madad karta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Waterproofing ke kaam mein 'quality check' kyu zaroori hai?",
+      "options": {
+        "A": "Sirf time waste karne ke liye",
+        "B": "Taaki work specification aur standards ke according ho",
+        "C": "Taaki material zyada lage",
+        "D": "Sirf photo khinchne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Quality check se yeh confirm hota hai ki waterproofing work specified standards, design aur manufacturer ke guidelines ke anusaar kiya gaya hai, jisse long-term performance assured hoti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Waterproofing ke kaam mein 'drip edge' ka kya function hai?",
+      "options": {
+        "A": "Paani ko roof ke edge par jama karna",
+        "B": "Paani ko roof edge se dur direct karna, taaki walls par na bahe",
+        "C": "Roof ko decorate karna",
+        "D": "Roof ko support dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Drip edge ek metal flashing hota hai jo roof ke edges par install kiya jaata hai, taaki paani roof edge se dur gir kar walls par behne se bache aur wall damage na ho."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Waterproofing project ke liye 'site survey' kyu important hai?",
+      "options": {
+        "A": "Sirf client se milne ke liye",
+        "B": "Existing conditions ko samajhne aur sahi solution recommend karne ke liye",
+        "C": "Kaam ko delay karne ke liye",
+        "D": "Sirf photos lene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Site survey se existing conditions, substrate type, damage extent, aur specific requirements ko samajhne mein madad milti hai, jisse ek effective aur customised waterproofing solution provide kiya ja sake."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Waterproofing mein 'UV stability' ka kya matlab hai?",
+      "options": {
+        "A": "Material ka colour change na ho",
+        "B": "Material direct sunlight (UV rays) ke exposure par degrade na ho",
+        "C": "Material paani ko absorb na kare",
+        "D": "Material bahut flexible ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "UV stability ka matlab hai ki material ultraviolet (UV) rays ke direct exposure par bhi apni physical aur chemical properties ko maintain rakhe, degrade na ho."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Project schedule banate samay kin factors ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Sirf workers ki availability",
+        "B": "Weather conditions, material delivery, curing times aur work sequence",
+        "C": "Sirf client ki pasand",
+        "D": "Sirf profit margin"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Effective project schedule banane ke liye weather, material delivery, har step ke curing times, aur kaam ke sequence jaise factors ka dhyan rakhna zaroori hai taaki project smoothly complete ho."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Waterproofing ke kaam mein 'drainage' ka kya importance hai?",
+      "options": {
+        "A": "Drainage ki koi zaroorat nahi",
+        "B": "Surface se paani ko efficiently remove karna, taaki ponding na ho",
+        "C": "Surface ko geela rakhna",
+        "D": "Sirf decoration ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper drainage waterproofing system ki life aur effectiveness ke liye critical hai. Ye surface par paani ko jama hone se rokta hai, jisse hydrostatic pressure aur material degradation kam hota hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Waterproofing ke baad 'maintenance' kyu zaroori hai?",
+      "options": {
+        "A": "Sirf paisa kharch karne ke liye",
+        "B": "System ki long-term performance aur life ko ensure karne ke liye",
+        "C": "Maintenance se system kharab hota hai",
+        "D": "Koi zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular maintenance, jaise cleaning aur minor repairs, waterproofing system ki long-term performance aur life ko ensure karta hai aur major failures ko rokta hai."
+    }
+  ]
+}

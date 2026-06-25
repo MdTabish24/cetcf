@@ -1,0 +1,381 @@
+import { useParams, Link, Navigate, useNavigate } from 'react-router-dom';
+import { useState } from 'react';
+import { getCourseBySlug, SECTORS } from '../data/courses';
+import api, { initiatePayment, getUser, setToken, setUser } from '../services/api';
+
+export default function CourseDetailPage() {
+  const { slug } = useParams<{ slug: string }>();
+  const course = slug ? getCourseBySlug(slug) : undefined;
+
+  if (!course) {
+    return <Navigate to="/courses" replace />;
+  }
+
+  const sectorMeta = SECTORS.find(s => s.name === course.sector);
+  const color = sectorMeta?.color || '#0D1B3E';
+  const durationMonths = parseInt(course.duration) || 3;
+  const totalHours = durationMonths * 60;
+
+  const navigate = useNavigate();
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState('');
+  
+  // Auth Modal State
+  const [showAuth, setShowAuth] = useState(false);
+  const [authStep, setAuthStep] = useState<'mobile' | 'otp'>('mobile');
+  const [mobile, setMobile] = useState('');
+  const [otp, setOtp] = useState('');
+  const [pendingPathway, setPendingPathway] = useState<'video' | 'rpl' | null>(null);
+
+  const handleAction = (pathway: 'video' | 'rpl') => {
+    const user = getUser() as any;
+    if (!user) {
+      setPendingPathway(pathway);
+      setShowAuth(true);
+      return;
+    }
+    startCheckout(user, pathway);
+  };
+
+  const startCheckout = async (user: any, pathway: string) => {
+    setLoading(true);
+    setError('');
+    try {
+      // Mock trade ID for frontend-only data
+      const tradeId = (course as any).id || 1; 
+      await initiatePayment(
+        tradeId,
+        user.name || 'Student',
+        user.mobile,
+        pathway,
+        () => {
+          setLoading(false);
+          alert(`Payment Successful! Enrolled in ${pathway} pathway.`);
+          navigate('/dashboard');
+        },
+        (err) => {
+          setLoading(false);
+          setError(err);
+        }
+      );
+    } catch (err) {
+      setLoading(false);
+      setError('An error occurred starting checkout.');
+    }
+  };
+
+  const handleSendOtp = async () => {
+    if (mobile.length !== 10) return setError('Invalid mobile number');
+    setLoading(true);
+    setError('');
+    const res = await api.auth.sendOtp(mobile);
+    setLoading(false);
+    if (res.success) {
+      setAuthStep('otp');
+      if (res.devOtp) alert(`TEST OTP: ${res.devOtp}`);
+    } else {
+      setError(res.message || 'Failed to send OTP');
+    }
+  };
+
+  const handleVerifyOtp = async () => {
+    if (otp.length < 4) return setError('Invalid OTP');
+    setLoading(true);
+    setError('');
+    const res = await api.auth.verifyOtp(mobile, otp);
+    setLoading(false);
+    if (res.success && res.token && res.user) {
+      setToken(res.token as string);
+      setUser(res.user as Record<string, unknown>);
+      setShowAuth(false);
+      if (pendingPathway) {
+        startCheckout(res.user, pendingPathway);
+      }
+    } else {
+      setError(res.message || 'Invalid OTP');
+    }
+  };
+
+  return (
+    <>
+      {/* Hero */}
+      <section className="page-hero" style={{ paddingBottom: '48px' }} id="course-detail-hero">
+        <div className="wrap">
+          <div style={{ display: 'flex', gap: '12px', marginBottom: '16px', flexWrap: 'wrap' }}>
+            <Link to="/courses" style={{ fontSize: '13px', color: 'rgba(255,255,255,0.4)' }}>← Back to Courses</Link>
+          </div>
+          <div className="hero-eyebrow" style={{ background: `${color}25`, borderColor: `${color}50` }}>
+            <span>✦</span> CETCF Certified Program
+          </div>
+          <h1 style={{ marginBottom: '16px' }}>
+            {course.name}
+          </h1>
+          <p className="page-hero-sub" style={{ marginBottom: '20px' }}>
+            A comprehensive {course.duration.toLowerCase()} certification program in the {course.sector} sector.
+            Designed for both beginners and working professionals seeking formal certification.
+          </p>
+          <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+            <span className="course-meta-tag" style={{ background: `${color}20`, color, border: `1px solid ${color}40` }}>
+              🏷️ Sector: {course.sector}
+            </span>
+            <span className="course-meta-tag" style={{ background: 'rgba(255,255,255,0.08)', color: 'rgba(255,255,255,0.7)', border: '1px solid rgba(255,255,255,0.12)' }}>
+              🗓️ Duration: {course.duration}
+            </span>
+            <span className={`badge badge-${course.level.toLowerCase()}`}>
+              {course.level}
+            </span>
+          </div>
+        </div>
+      </section>
+      <div className="gold-rule"></div>
+
+      <section className="section" id="course-detail-content">
+        <div className="wrap">
+          {/* Quick Stats */}
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))', gap: '12px', marginBottom: '48px' }}>
+            {[
+              { icon: '🗓️', val: course.duration, key: 'Duration' },
+              { icon: '📚', val: '6 Units', key: 'Modules' },
+              { icon: '⏱️', val: `${totalHours} Hrs`, key: 'Total Hours' },
+              { icon: '💻', val: 'Online', key: 'Exam Mode' },
+              { icon: '💰', val: `₹${course.fee.toLocaleString('en-IN')}`, key: 'Exam Fee' },
+              { icon: '✅', val: '50%', key: 'Pass Mark' },
+            ].map((s, i) => (
+              <div key={i} className="card" style={{ padding: '20px', textAlign: 'center' }}>
+                <div style={{ fontSize: '24px', marginBottom: '8px' }}>{s.icon}</div>
+                <div style={{ fontSize: '18px', fontWeight: 700, color: 'var(--navy)' }}>{s.val}</div>
+                <div style={{ fontSize: '11px', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.04em', marginTop: '2px' }}>{s.key}</div>
+              </div>
+            ))}
+          </div>
+
+          {/* Assessment Structure */}
+          <div style={{ marginBottom: '48px' }}>
+            <span className="sec-eyebrow">Assessment & Marking</span>
+            <h2 className="sec-title">Exam Structure</h2>
+            <p className="sec-subtitle">
+              The exam is fully automated. All components are completed online via the CETCF portal.
+            </p>
+
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px', marginTop: '28px' }}>
+              <div className="card" style={{ padding: '24px', textAlign: 'center', position: 'relative', overflow: 'hidden' }}>
+                <div style={{ position: 'absolute', top: 0, left: 0, right: 0, height: '3px', background: 'linear-gradient(90deg, #1A2B7A, #4A6BCA)' }}></div>
+                <div style={{ fontSize: '32px', marginBottom: '12px' }}>📝</div>
+                <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--navy)', marginBottom: '6px' }}>Theory — MCQ</div>
+                <div style={{ fontSize: '24px', fontWeight: 700, color: '#1A2B7A', marginBottom: '4px' }}>50 Marks</div>
+                <div style={{ fontSize: '12px', color: 'var(--muted)', lineHeight: 1.6 }}>
+                  25 multiple-choice questions × 2 marks each. 45-minute timer. Auto-scored instantly.
+                </div>
+              </div>
+              <div className="card" style={{ padding: '24px', textAlign: 'center', position: 'relative', overflow: 'hidden' }}>
+                <div style={{ position: 'absolute', top: 0, left: 0, right: 0, height: '3px', background: 'linear-gradient(90deg, var(--success), #4ABCA0)' }}></div>
+                <div style={{ fontSize: '32px', marginBottom: '12px' }}>📸</div>
+                <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--navy)', marginBottom: '6px' }}>Practical — Portfolio Upload</div>
+                <div style={{ fontSize: '24px', fontWeight: 700, color: 'var(--success)', marginBottom: '4px' }}>50 Marks</div>
+                <div style={{ fontSize: '12px', color: 'var(--muted)', lineHeight: 1.6 }}>
+                  Upload evidence items — photos/videos demonstrating your skills. Auto-scored on completion.
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Eligibility & Outcomes */}
+          <div style={{ marginBottom: '48px' }}>
+            <span className="sec-eyebrow">Who Can Enrol & What You'll Achieve</span>
+            <h2 className="sec-title">Eligibility & Learning Outcomes</h2>
+
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '20px', marginTop: '28px' }}>
+              <div className="card" style={{ padding: '24px' }}>
+                <h4 style={{ fontSize: '13px', fontWeight: 700, color: 'var(--navy)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '16px', paddingBottom: '10px', borderBottom: `2px solid ${color}`, display: 'inline-block' }}>
+                  Eligibility Criteria
+                </h4>
+                <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                  {[
+                    'Minimum age: 14 years',
+                    'Minimum education: Class 8th pass',
+                    'No prior experience needed — beginners welcome',
+                    'Already working? Apply for direct RPL exam',
+                    'Valid ID proof required at registration',
+                    'Applicable for male & female candidates',
+                  ].map((item, i) => (
+                    <li key={i} style={{ fontSize: '13px', display: 'flex', gap: '10px', alignItems: 'flex-start', lineHeight: 1.5 }}>
+                      <span style={{ width: '18px', height: '18px', borderRadius: '50%', background: color, color: '#fff', fontSize: '9px', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0, marginTop: '2px' }}>✓</span>
+                      {item}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              <div className="card" style={{ padding: '24px' }}>
+                <h4 style={{ fontSize: '13px', fontWeight: 700, color: 'var(--navy)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '16px', paddingBottom: '10px', borderBottom: '2px solid var(--gold)', display: 'inline-block' }}>
+                  Learning Outcomes
+                </h4>
+                <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                  {[
+                    `Understand core concepts of ${course.name}`,
+                    'Apply practical skills in real-world scenarios',
+                    'Follow industry safety and hygiene standards',
+                    'Demonstrate professional competency through assessment',
+                    'Build a professional portfolio or work samples',
+                    'Gain confidence for employment or self-employment',
+                  ].map((item, i) => (
+                    <li key={i} style={{ fontSize: '13px', display: 'flex', gap: '10px', alignItems: 'flex-start', lineHeight: 1.5 }}>
+                      <span style={{ width: '18px', height: '18px', borderRadius: '50%', background: 'var(--gold)', color: '#fff', fontSize: '9px', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0, marginTop: '2px' }}>✓</span>
+                      {item}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          {/* Certificate Preview */}
+          <div style={{ marginBottom: '48px' }}>
+            <span className="sec-eyebrow">Certification</span>
+            <h2 className="sec-title">Certificate You Will Receive</h2>
+            <p className="sec-subtitle">
+              On passing all exam components, your CETCF certificate is issued with a unique Certificate ID and QR verification code.
+            </p>
+
+            <div style={{ display: 'flex', justifyContent: 'center', marginTop: '28px' }}>
+              <div style={{
+                maxWidth: '580px',
+                width: '100%',
+                background: 'linear-gradient(135deg, #FFFEF7, #FFF9E6)',
+                border: '2px solid var(--gold)',
+                borderRadius: '16px',
+                padding: '32px',
+                textAlign: 'center',
+                position: 'relative',
+              }}>
+                <div style={{ position: 'absolute', inset: '6px', border: '1px solid rgba(184,134,11,0.2)', borderRadius: '12px', pointerEvents: 'none' }}></div>
+                <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--navy)' }}>COUNCIL FOR EDUCATION, TRAINING & CERTIFICATION FOUNDATION</div>
+                <div style={{ fontSize: '10px', color: 'var(--muted)', marginTop: '2px' }}>ISO 9001:2015 Certified · Section 8 Company</div>
+                <div style={{ fontFamily: 'var(--font-display)', fontSize: '22px', color: 'var(--navy)', margin: '14px 0' }}>Certificate of Completion</div>
+                <div style={{ fontSize: '13px', color: 'var(--muted)' }}>This is to certify that</div>
+                <div style={{ fontSize: '18px', fontWeight: 700, color: 'var(--gold)', margin: '8px 0', paddingBottom: '6px', borderBottom: '2px solid var(--gold)', maxWidth: '280px', marginLeft: 'auto', marginRight: 'auto' }}>
+                  [Candidate Name]
+                </div>
+                <div style={{ fontSize: '15px', fontWeight: 700, color: 'var(--navy)', margin: '10px 0' }}>
+                  {course.name}
+                </div>
+                <div style={{ display: 'flex', justifyContent: 'center', gap: '12px', flexWrap: 'wrap', marginTop: '16px' }}>
+                  <span style={{ fontSize: '10px', fontWeight: 600, padding: '4px 10px', border: '1.5px solid var(--border)', borderRadius: '4px', color: 'var(--muted)' }}>
+                    Cert No: CETC/2025/XXX/XXXXXX
+                  </span>
+                  <span style={{ fontSize: '10px', fontWeight: 600, padding: '4px 10px', border: '1.5px solid var(--border)', borderRadius: '4px', color: 'var(--muted)' }}>
+                    QR Verified ✓
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* CTA Banner */}
+          <div style={{
+            background: 'linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%)',
+            borderRadius: '16px',
+            padding: '36px 40px',
+            display: 'flex',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            gap: '24px',
+            flexWrap: 'wrap',
+          }}>
+            <div>
+              <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '22px', color: '#fff', marginBottom: '8px' }}>
+                Ready to Get Certified in {course.name}?
+              </h3>
+              <p style={{ fontSize: '13px', color: 'rgba(255,255,255,0.6)', lineHeight: 1.6, maxWidth: '420px' }}>
+                Start your journey today. Take the online exam from home and receive your government-recognized certificate.
+              </p>
+            </div>
+            <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+              <button 
+                onClick={() => handleAction('video')}
+                className="btn btn-gold" 
+                disabled={loading}
+              >
+                🎓 Buy Video Course — ₹{(course.fee + 500).toLocaleString('en-IN')}
+              </button>
+              <button 
+                onClick={() => handleAction('rpl')}
+                className="btn btn-outline" 
+                disabled={loading}
+                style={{ background: 'rgba(255,255,255,0.1)' }}
+              >
+                ⚡ Direct RPL Exam — ₹{course.fee.toLocaleString('en-IN')}
+              </button>
+              {error && <div style={{ width: '100%', color: '#ff6b6b', fontSize: '14px', marginTop: '8px' }}>{error}</div>}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Auth Modal overlay */}
+      {showAuth && (
+        <div style={{
+          position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, 
+          background: 'rgba(0,0,0,0.8)', zIndex: 9999,
+          display: 'flex', alignItems: 'center', justifyContent: 'center'
+        }}>
+          <div className="card" style={{ padding: '32px', width: '100%', maxWidth: '400px', position: 'relative' }}>
+            <button 
+              onClick={() => setShowAuth(false)}
+              style={{ position: 'absolute', top: '16px', right: '16px', background: 'none', border: 'none', color: '#fff', fontSize: '20px', cursor: 'pointer' }}
+            >✕</button>
+            <h3 style={{ marginBottom: '16px', color: '#fff' }}>Login / Register</h3>
+            <p style={{ color: 'var(--muted)', fontSize: '14px', marginBottom: '24px' }}>
+              Please enter your mobile number to continue with purchase.
+            </p>
+            
+            {authStep === 'mobile' ? (
+              <div className="form-group">
+                <label className="form-label">Mobile Number</label>
+                <input 
+                  type="text" 
+                  className="form-control" 
+                  placeholder="10-digit number"
+                  value={mobile}
+                  onChange={e => setMobile(e.target.value.replace(/\D/g, '').slice(0, 10))}
+                />
+                <button 
+                  className="btn btn-gold" 
+                  style={{ width: '100%', marginTop: '16px' }}
+                  onClick={handleSendOtp}
+                  disabled={loading || mobile.length !== 10}
+                >
+                  {loading ? 'Sending...' : 'Send OTP'}
+                </button>
+              </div>
+            ) : (
+              <div className="form-group">
+                <label className="form-label">Enter OTP</label>
+                <input 
+                  type="text" 
+                  className="form-control" 
+                  placeholder="4 or 6 digit OTP"
+                  value={otp}
+                  onChange={e => setOtp(e.target.value.replace(/\D/g, '').slice(0, 6))}
+                />
+                <button 
+                  className="btn btn-gold" 
+                  style={{ width: '100%', marginTop: '16px' }}
+                  onClick={handleVerifyOtp}
+                  disabled={loading || otp.length < 4}
+                >
+                  {loading ? 'Verifying...' : 'Verify & Continue'}
+                </button>
+                <div style={{ textAlign: 'center', marginTop: '16px' }}>
+                  <button onClick={() => setAuthStep('mobile')} style={{ background: 'none', border: 'none', color: 'var(--muted)', fontSize: '12px', cursor: 'pointer', textDecoration: 'underline' }}>Change Mobile Number</button>
+                </div>
+              </div>
+            )}
+            
+            {error && <div style={{ color: '#ff6b6b', fontSize: '14px', marginTop: '16px', textAlign: 'center' }}>{error}</div>}
+          </div>
+        </div>
+      )}
+    </>
+  );
+}

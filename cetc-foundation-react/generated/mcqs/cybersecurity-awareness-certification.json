@@ -1,0 +1,1443 @@
+{
+  "course_name": "Cybersecurity Awareness Certification",
+  "sector": "Digital & Information Technology",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Cybersecurity & Basic Concepts",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Common Cyber Threats & Attacks",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Protecting Your Digital Identity & Data",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Secure Internet Usage & Best Practices",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Workplace Cybersecurity & Compliance",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Incident Response & Future Trends",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "What is the primary goal of cybersecurity?",
+      "options": {
+        "A": "To increase internet speed",
+        "B": "To protect systems, networks, and data from digital attacks",
+        "C": "To develop new software applications",
+        "D": "To reduce electricity consumption of computers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The primary goal of cybersecurity is to protect digital assets like systems, networks, and data from unauthorized access, damage, or theft."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Which of the following is NOT a core principle of the CIA Triad in cybersecurity?",
+      "options": {
+        "A": "Confidentiality",
+        "B": "Integrity",
+        "C": "Availability",
+        "D": "Authenticity"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The CIA Triad stands for Confidentiality, Integrity, and Availability, which are the fundamental pillars of information security. Authenticity is related but not one of the core three."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Why is cybersecurity awareness important for every employee in an organization?",
+      "options": {
+        "A": "It helps employees become IT experts.",
+        "B": "Employees are often the first line of defense against cyber threats.",
+        "C": "It reduces the need for IT security teams.",
+        "D": "It allows employees to bypass security protocols."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Employees are frequently targeted by cyber attackers through methods like phishing. Their awareness and adherence to security practices are crucial in preventing breaches."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "What does 'Confidentiality' in the CIA Triad refer to?",
+      "options": {
+        "A": "Ensuring data is accurate and untampered.",
+        "B": "Ensuring data is accessible when needed.",
+        "C": "Protecting information from unauthorized access.",
+        "D": "Verifying the identity of users."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Confidentiality ensures that sensitive information is accessed only by authorized individuals or systems."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Which term describes a software program designed to cause damage or gain unauthorized access to a computer system?",
+      "options": {
+        "A": "Firewall",
+        "B": "Antivirus",
+        "C": "Malware",
+        "D": "Operating System"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Malware (malicious software) is a general term for any software designed to harm or exploit a computer, network, or data."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "What is the primary purpose of a firewall?",
+      "options": {
+        "A": "To speed up internet connection",
+        "B": "To monitor and control incoming and outgoing network traffic",
+        "C": "To create backups of data",
+        "D": "To encrypt sensitive files"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A firewall acts as a barrier, filtering network traffic based on security rules to protect a network from unauthorized access."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Which of the following best describes 'social engineering' in cybersecurity?",
+      "options": {
+        "A": "Using advanced hacking tools to break into systems.",
+        "B": "Manipulating people to divulge confidential information.",
+        "C": "Developing secure social media platforms.",
+        "D": "Encrypting communications between individuals."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Social engineering is a psychological manipulation of people into performing actions or divulging confidential information."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "What does 'Integrity' in the CIA Triad refer to?",
+      "options": {
+        "A": "Ensuring data is accessible to authorized users.",
+        "B": "Protecting data from unauthorized modification or deletion.",
+        "C": "Keeping data secret from unauthorized individuals.",
+        "D": "Confirming the user's identity."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Integrity ensures that data remains accurate, consistent, and trustworthy throughout its lifecycle, preventing unauthorized alteration."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Which entity is generally responsible for implementing and enforcing cybersecurity policies within an organization?",
+      "options": {
+        "A": "Human Resources Department",
+        "B": "Sales Department",
+        "C": "IT Security Department/Team",
+        "D": "Marketing Department"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The IT Security Department or a dedicated security team is responsible for developing, implementing, and enforcing cybersecurity policies and procedures."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Why is regular data backup considered a crucial cybersecurity practice?",
+      "options": {
+        "A": "It speeds up computer performance.",
+        "B": "It prevents malware from infecting files.",
+        "C": "It helps recover data lost due to system failure, cyberattack, or accidental deletion.",
+        "D": "It encrypts all stored information automatically."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Regular data backup is essential for disaster recovery, allowing organizations and individuals to restore data in case of data loss events like ransomware attacks or hardware failures."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What is the primary distinction between a 'vulnerability' and a 'threat' in cybersecurity?",
+      "options": {
+        "A": "A vulnerability is a weakness, while a threat is a potential danger that exploits that weakness.",
+        "B": "A threat is a weakness, while a vulnerability is a potential danger.",
+        "C": "They are interchangeable terms with no significant difference.",
+        "D": "A vulnerability is always external, while a threat is always internal."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "A vulnerability is a weakness in a system or design that can be exploited. A threat is a potential danger that could exploit that vulnerability to compromise security."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "What does 'Availability' in the CIA Triad ensure?",
+      "options": {
+        "A": "Only authorized users can access data.",
+        "B": "Data remains accurate and complete.",
+        "C": "Authorized users have timely and reliable access to information.",
+        "D": "Users are always logged in."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Availability ensures that systems, applications, and data are accessible and usable by authorized users when they are needed."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Which of the following is an example of a physical security measure for cybersecurity?",
+      "options": {
+        "A": "Using strong passwords",
+        "B": "Installing antivirus software",
+        "C": "Locking server rooms and using access cards",
+        "D": "Encrypting hard drives"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Physical security measures protect physical assets like servers, computers, and data centers from unauthorized physical access, theft, or damage."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "What role does 'risk assessment' play in cybersecurity?",
+      "options": {
+        "A": "It is used solely for determining employee salaries.",
+        "B": "It identifies, evaluates, and prioritizes potential cyber threats and vulnerabilities.",
+        "C": "It automates all security tasks.",
+        "D": "It replaces the need for security training."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Risk assessment is a critical process in cybersecurity to understand the potential impact of threats and vulnerabilities, allowing organizations to allocate resources effectively to mitigate risks."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "What is the term for an attempt to discover valid usernames and passwords by trying many combinations?",
+      "options": {
+        "A": "Phishing",
+        "B": "Brute-force attack",
+        "C": "Malware injection",
+        "D": "Denial-of-Service (DoS)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A brute-force attack involves systematically trying every possible combination of characters until the correct password or key is found."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Why is it important for an organization to have a clear cybersecurity policy document?",
+      "options": {
+        "A": "It helps to reduce internet usage costs.",
+        "B": "It provides guidelines for employees on acceptable use, data handling, and security procedures.",
+        "C": "It is only relevant for the IT department.",
+        "D": "It automatically detects and removes all cyber threats."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A cybersecurity policy document sets the rules and expectations for all employees regarding the secure use of organizational assets and data, ensuring a consistent approach to security."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Which term refers to the practice of protecting computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide?",
+      "options": {
+        "A": "Data Analytics",
+        "B": "System Administration",
+        "C": "Cybersecurity",
+        "D": "Network Engineering"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "This is the comprehensive definition of cybersecurity, encompassing protection against various digital threats and ensuring the safety and continuity of digital services."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "What is 'phishing'?",
+      "options": {
+        "A": "A type of computer virus that infects email attachments.",
+        "B": "An attempt to trick individuals into revealing sensitive information by masquerading as a trustworthy entity.",
+        "C": "A network security device that filters traffic.",
+        "D": "A method for encrypting data on a hard drive."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Phishing attacks typically involve deceptive emails, messages, or websites designed to steal credentials or other sensitive data."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Which type of malware is designed to encrypt a victim's files and demand a ransom payment for their release?",
+      "options": {
+        "A": "Spyware",
+        "B": "Adware",
+        "C": "Ransomware",
+        "D": "Trojan"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ransomware is a specific type of malware that blocks access to a computer system or encrypts data until a sum of money is paid."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "What is the main characteristic of a 'Trojan horse' malware?",
+      "options": {
+        "A": "It replicates itself across networks without user interaction.",
+        "B": "It appears to be legitimate software but secretly carries malicious functions.",
+        "C": "It records user keystrokes to steal passwords.",
+        "D": "It displays unwanted advertisements."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Trojan horse disguises itself as harmless software to trick users into installing it, then performs malicious actions in the background."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Which attack involves an attacker impersonating a specific, high-value target (like a CEO or senior executive) to trick an employee into performing an action or divulging information?",
+      "options": {
+        "A": "Smishing",
+        "B": "Whaling",
+        "C": "Pharming",
+        "D": "Spamming"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Whaling is a highly targeted form of spear phishing that specifically aims at senior executives or high-profile individuals within an organization."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "What is a 'Distributed Denial of Service (DDoS)' attack?",
+      "options": {
+        "A": "An attack that encrypts all data on a server.",
+        "B": "An attack that attempts to make an online service unavailable by overwhelming it with traffic from multiple compromised computer systems.",
+        "C": "An attack that steals user passwords from a database.",
+        "D": "An attack that injects malicious code into a website."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "DDoS attacks aim to exhaust the resources of a targeted system, making it unavailable to legitimate users, by flooding it with a massive amount of traffic from a botnet."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "What is 'spyware' primarily designed to do?",
+      "options": {
+        "A": "Display unsolicited advertisements.",
+        "B": "Replicate itself across networks.",
+        "C": "Monitor and collect user information without their knowledge.",
+        "D": "Block access to files until a ransom is paid."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Spyware secretly gathers information about a user's activities, such as browsing habits, keystrokes, and personal data, and sends it to a third party."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Which social engineering technique involves an attacker physically following an authorized person into a restricted area?",
+      "options": {
+        "A": "Phishing",
+        "B": "Tailgating/Piggybacking",
+        "C": "Vishing",
+        "D": "Shoulder surfing"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tailgating (or piggybacking) is a physical social engineering technique where an unauthorized person gains entry by following closely behind an authorized person."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "What is the primary difference between a 'virus' and a 'worm'?",
+      "options": {
+        "A": "A virus targets files, while a worm targets networks.",
+        "B": "A virus requires a host program and user action to spread, while a worm can self-replicate independently.",
+        "C": "A worm is always more destructive than a virus.",
+        "D": "Viruses only affect Windows, while worms affect all operating systems."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The key distinction is that viruses need user intervention (e.g., opening an infected file) and attach to legitimate programs, while worms are standalone malicious programs that can self-replicate and spread across networks without human interaction."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Which type of phishing attack uses voice communication (phone calls) to trick victims?",
+      "options": {
+        "A": "Smishing",
+        "B": "Whaling",
+        "C": "Vishing",
+        "D": "Pharming"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Vishing is a portmanteau of 'voice' and 'phishing', using phone calls to carry out phishing attacks."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "What is the term for a malicious program that secretly records keystrokes made by a user?",
+      "options": {
+        "A": "Rootkit",
+        "B": "Keylogger",
+        "C": "Botnet",
+        "D": "Adware"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A keylogger is a type of spyware that monitors and logs every keystroke a user makes on their keyboard, often used to steal passwords and sensitive information."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Which of the following is a common indicator of a phishing email?",
+      "options": {
+        "A": "It comes from a recognized government agency.",
+        "B": "It has perfect grammar and spelling.",
+        "C": "It requests urgent action and personal information.",
+        "D": "It includes a legitimate company logo."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Phishing emails often create a sense of urgency and ask for sensitive personal or financial information, which legitimate organizations rarely do via email."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "What is 'Adware' primarily known for?",
+      "options": {
+        "A": "Encrypting files and demanding ransom.",
+        "B": "Displaying unwanted and often intrusive advertisements.",
+        "C": "Granting remote control over a computer.",
+        "D": "Stealing banking credentials silently."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Adware is software that automatically displays or downloads advertising material (often in the form of pop-ups) to a user's computer."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Which type of attack involves redirecting legitimate website traffic to a fake website to steal credentials, often without the user knowing?",
+      "options": {
+        "A": "Phishing",
+        "B": "Smishing",
+        "C": "Pharming",
+        "D": "Vishing"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Pharming is a cyberattack intended to redirect users of a website to a fraudulent website that mimics the legitimate one, even if the user types the correct URL."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "What is 'Shoulder Surfing'?",
+      "options": {
+        "A": "Using a telescope to view someone's screen from a distance.",
+        "B": "Observing someone entering sensitive information, like a PIN or password, over their shoulder.",
+        "C": "Hacking into a Wi-Fi network.",
+        "D": "Scanning for open ports on a network."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shoulder surfing is a low-tech social engineering technique where an attacker directly observes a person's private information, typically passwords or PINs, as they type."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Which term describes a network of private computers infected with malicious software and controlled as a group without the owners' knowledge?",
+      "options": {
+        "A": "Intranet",
+        "B": "Botnet",
+        "C": "Extranet",
+        "D": "VPN"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A botnet is a collection of internet-connected devices, each running one or more bots, used to perform coordinated tasks, often for malicious purposes like DDoS attacks."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "What is a 'zero-day exploit'?",
+      "options": {
+        "A": "An attack that happens on the first day of the month.",
+        "B": "A vulnerability that is known to the software vendor and users for zero days before a patch is released.",
+        "C": "A newly discovered software vulnerability for which no patch or fix is available yet.",
+        "D": "An exploit used by new hackers with zero experience."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A zero-day exploit targets a vulnerability that is unknown to the software vendor or public, meaning 'zero days' have passed since the vendor learned of the vulnerability, giving them no time to prepare a fix."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "What is 'Smishing'?",
+      "options": {
+        "A": "Phishing attempts conducted via social media.",
+        "B": "Phishing attempts conducted via SMS text messages.",
+        "C": "Phishing attempts conducted via voice calls.",
+        "D": "Phishing attempts conducted via physical mail."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Smishing is a form of phishing that uses text messages (SMS) to trick people into giving up personal information."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Which of the following is the strongest password?",
+      "options": {
+        "A": "Password123",
+        "B": "MyDogSpot",
+        "C": "P@$$w0rd!",
+        "D": "F0rtun@t3Ly_N0_On3_Kn0w$!"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Strong passwords are long, complex, and include a mix of uppercase and lowercase letters, numbers, and special characters. Option D is significantly longer and more complex than the others."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "What is Multi-Factor Authentication (MFA)?",
+      "options": {
+        "A": "Using a single, very long password.",
+        "B": "Using multiple passwords for different accounts.",
+        "C": "Requiring two or more verification methods to gain access to a resource.",
+        "D": "Authenticating using only biometric data."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "MFA enhances security by requiring users to provide two or more different types of credentials for verification, typically something they know (password), something they have (phone), or something they are (fingerprint)."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Why should you avoid using the same password for multiple online accounts?",
+      "options": {
+        "A": "It makes your computer run slower.",
+        "B": "If one account is compromised, all accounts using that password could be at risk.",
+        "C": "Websites will block your access.",
+        "D": "It makes it harder to remember your passwords."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Reusing passwords makes you vulnerable to 'credential stuffing' attacks, where attackers use stolen credentials from one breach to try and access other accounts."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "What is the '3-2-1 rule' for data backup?",
+      "options": {
+        "A": "3 backups, 2 onsite, 1 offsite",
+        "B": "3 copies, on 2 different media, with 1 copy offsite",
+        "C": "3 devices, 2 users, 1 password",
+        "D": "3 hours, 2 days, 1 week backup schedule"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The 3-2-1 rule is a data backup strategy: keep at least three copies of your data, store copies on two different types of storage media, and keep one backup copy offsite."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Which tool is recommended for securely managing multiple complex passwords?",
+      "options": {
+        "A": "A sticky note on your monitor",
+        "B": "A simple text file on your desktop",
+        "C": "A password manager",
+        "D": "Your web browser's built-in password saving feature (without master password)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Password managers securely store and encrypt all your passwords behind a single master password, generate strong unique passwords, and often autofill them for you."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "What is the benefit of encrypting sensitive data stored on your hard drive?",
+      "options": {
+        "A": "It makes your computer run faster.",
+        "B": "It prevents unauthorized access to the data if the device is lost or stolen.",
+        "C": "It protects against malware infections.",
+        "D": "It reduces the storage space required for files."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Encryption scrambles data into an unreadable format, ensuring that even if an unauthorized person gains access to the device, they cannot understand the information without the decryption key."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "When disposing of old electronic devices (e.g., computers, smartphones), what is the most secure way to handle your data?",
+      "options": {
+        "A": "Simply delete files and empty the recycle bin.",
+        "B": "Perform a factory reset.",
+        "C": "Physically destroy the storage media or use data wiping software.",
+        "D": "Sell them without doing anything."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Simply deleting files or a factory reset does not permanently remove data. Data wiping software overwrites data multiple times, and physical destruction renders the data inaccessible."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Which authentication factor is 'something you are'?",
+      "options": {
+        "A": "Password",
+        "B": "PIN",
+        "C": "Fingerprint",
+        "D": "OTP (One-Time Password)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Biometric data like fingerprints, facial recognition, or iris scans fall under the 'something you are' category of authentication factors."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "What is the main risk associated with oversharing personal information on social media?",
+      "options": {
+        "A": "Your friends might get bored.",
+        "B": "It can be used by cybercriminals for social engineering or identity theft.",
+        "C": "It slows down your internet connection.",
+        "D": "It increases your phone's battery consumption."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cybercriminals can piece together information from social media to create convincing phishing attacks, impersonate you, or answer security questions for other accounts."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "To protect your online privacy, what setting should you regularly review on your social media accounts and apps?",
+      "options": {
+        "A": "Notification settings",
+        "B": "Display language settings",
+        "C": "Privacy settings",
+        "D": "Account recovery options"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Regularly reviewing and adjusting privacy settings helps control who sees your posts, personal information, and location data."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "What is the purpose of a One-Time Password (OTP) in authentication?",
+      "options": {
+        "A": "To replace your main password permanently.",
+        "B": "To provide a second, temporary layer of security that is valid for only one login session.",
+        "C": "To allow multiple users to share a single account.",
+        "D": "To recover a forgotten password without any other verification."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "OTPs are a common form of MFA, providing a unique, short-lived code that adds an extra layer of security, as it becomes invalid after one use or a short period."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Which of the following describes 'identity theft'?",
+      "options": {
+        "A": "Stealing a physical wallet.",
+        "B": "Unauthorized use of someone's personal information for financial gain or to commit fraud.",
+        "C": "Losing your phone.",
+        "D": "Forgetting your password."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Identity theft occurs when someone uses another person's personal identifying information, like name, Social Security number, or credit card number, without their permission."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "In the context of data protection, what does 'data minimization' refer to?",
+      "options": {
+        "A": "Storing as much data as possible.",
+        "B": "Collecting and retaining only the necessary data for a specific purpose.",
+        "C": "Deleting data immediately after collection.",
+        "D": "Making data publicly available."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Data minimization is a principle of data protection that states organizations should collect, process, and store only the absolute minimum amount of personal data required to achieve a specific purpose."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "When creating a strong password, which characteristic is generally considered most important?",
+      "options": {
+        "A": "It should be your birthdate.",
+        "B": "It should be short and easy to remember.",
+        "C": "Its length and complexity (mix of characters).",
+        "D": "It should be a common word from the dictionary."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Length and complexity significantly increase the time and computational power required for an attacker to crack a password through brute-force attacks."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "What is the best practice for securing your home Wi-Fi network?",
+      "options": {
+        "A": "Keep the default network name (SSID) and password.",
+        "B": "Hide the network name (SSID) and use WPA2/WPA3 encryption with a strong password.",
+        "C": "Turn off encryption for faster speeds.",
+        "D": "Allow anyone to connect without a password."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Changing the default SSID, using strong encryption like WPA2 or WPA3, and setting a strong, unique password are essential steps to secure a Wi-Fi network."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Which of the following is an example of a 'something you have' authentication factor?",
+      "options": {
+        "A": "Your mother's maiden name",
+        "B": "A security token or smartphone with an authenticator app",
+        "C": "Your voice pattern",
+        "D": "A secret question's answer"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Something you have' refers to physical objects or devices that you possess, such as a smart card, a hardware token, or a mobile phone receiving an OTP."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "What is 'tokenization' in the context of data security?",
+      "options": {
+        "A": "A method of granting temporary access to a system.",
+        "B": "Replacing sensitive data with a unique, non-sensitive identifier (token) that cannot be reverse-engineered.",
+        "C": "A process of creating digital signatures for documents.",
+        "D": "A way to distribute data across multiple servers."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tokenization is a data security technique that replaces sensitive data with a randomly generated, non-sensitive equivalent called a token. This token can then be used in place of the original data, reducing the risk of a breach."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "What does 'HTTPS' at the beginning of a website URL indicate?",
+      "options": {
+        "A": "The website is very fast.",
+        "B": "The connection to the website is encrypted and secure.",
+        "C": "The website is hosted on a public server.",
+        "D": "The website contains only static content."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "HTTPS (Hypertext Transfer Protocol Secure) indicates that communication between your browser and the website is encrypted, protecting your data from eavesdropping and tampering."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Why is connecting to public Wi-Fi networks risky?",
+      "options": {
+        "A": "They are always very slow.",
+        "B": "They can be easily monitored by malicious actors, leading to data interception.",
+        "C": "They automatically install malware on your device.",
+        "D": "They consume too much battery power."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Public Wi-Fi networks often lack proper security, making it easy for attackers to intercept data (e.g., passwords, personal information) through 'man-in-the-middle' attacks."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "What is the purpose of antivirus software?",
+      "options": {
+        "A": "To speed up your computer's performance.",
+        "B": "To prevent, detect, and remove malicious software like viruses, worms, and Trojans.",
+        "C": "To back up your files automatically.",
+        "D": "To connect to secure websites."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Antivirus software scans, detects, and removes malicious programs from your computer, providing a crucial layer of defense against malware."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Which of the following is the most secure practice when downloading software from the internet?",
+      "options": {
+        "A": "Download from any website that offers the software for free.",
+        "B": "Download only from the official vendor's website or trusted app stores.",
+        "C": "Download from peer-to-peer file-sharing networks.",
+        "D": "Disable your antivirus before downloading to speed up the process."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Downloading software from official sources minimizes the risk of installing malicious or tampered versions of programs, which are common vectors for malware."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Why is it important to keep your operating system and applications updated?",
+      "options": {
+        "A": "Updates always introduce new features.",
+        "B": "Updates often include security patches that fix known vulnerabilities.",
+        "C": "Updates make your computer run slower.",
+        "D": "Updates are only for aesthetic changes."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Software updates frequently address security flaws and bugs that could be exploited by attackers, making regular updates a critical security practice."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "What should you do if you receive an email with a suspicious attachment from an unknown sender?",
+      "options": {
+        "A": "Open the attachment immediately to see what it is.",
+        "B": "Forward it to all your contacts as a warning.",
+        "C": "Delete the email without opening any attachments or clicking links.",
+        "D": "Reply to the sender asking for clarification."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Opening suspicious attachments or clicking links in such emails can lead to malware infection or phishing. The safest action is to delete it."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "What is a Virtual Private Network (VPN) primarily used for?",
+      "options": {
+        "A": "To create a local area network (LAN) without cables.",
+        "B": "To encrypt your internet connection and hide your IP address, enhancing privacy and security.",
+        "C": "To block all internet access.",
+        "D": "To share files directly with other users."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A VPN creates a secure, encrypted connection over a less secure network, like the internet, providing privacy by masking your IP address and encrypting your data traffic."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Which of the following is the most secure browser setting for handling cookies?",
+      "options": {
+        "A": "Allow all cookies.",
+        "B": "Block all cookies.",
+        "C": "Block third-party cookies and clear cookies on browser close.",
+        "D": "Allow only first-party cookies and keep them indefinitely."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Blocking third-party cookies helps prevent cross-site tracking, and clearing cookies on browser close limits the amount of personal data stored on your device, enhancing privacy without significantly impacting usability."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Before clicking a link in an email or on a webpage, what is a good practice to check its legitimacy?",
+      "options": {
+        "A": "Click it quickly before it disappears.",
+        "B": "Hover your mouse cursor over the link to reveal the actual URL.",
+        "C": "Assume all links are safe.",
+        "D": "Copy the link and paste it into a search engine."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hovering over a link (without clicking) allows you to see the true destination URL, which can help you identify phishing attempts where the displayed text differs from the actual link."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "What is the danger of 'typosquatting' (URL hijacking)?",
+      "options": {
+        "A": "It makes websites load slower.",
+        "B": "It redirects users who mistype a URL to a malicious website.",
+        "C": "It sends spam emails to your inbox.",
+        "D": "It changes the default font on websites."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Typosquatting involves registering domain names that are common misspellings of legitimate websites to trick users into visiting fake sites, often for phishing or malware distribution."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Which of the following should you avoid doing on public Wi-Fi?",
+      "options": {
+        "A": "Browsing news websites.",
+        "B": "Checking your bank account or making online purchases.",
+        "C": "Watching streaming videos.",
+        "D": "Sending non-sensitive emails."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Transmitting sensitive information like banking credentials or payment details over unsecured public Wi-Fi is highly risky due to the potential for data interception."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "What is the primary function of a web browser's 'private browsing' or 'incognito mode'?",
+      "options": {
+        "A": "To hide your IP address from websites.",
+        "B": "To prevent websites from tracking you.",
+        "C": "To not save your browsing history, cookies, and site data after the session.",
+        "D": "To block all advertisements."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Private browsing modes prevent the browser from saving local data like history, cookies, and form data for that session, but they do not inherently hide your IP address or stop all website tracking."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "What is a 'browser extension' and what security risk can it pose?",
+      "options": {
+        "A": "It's a built-in browser feature; no risks.",
+        "B": "It's an add-on that enhances browser functionality, but malicious ones can track data or inject ads.",
+        "C": "It's a type of web server; only impacts server security.",
+        "D": "It's a browser update; always safe."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Browser extensions can significantly enhance functionality, but if they are poorly coded or malicious, they can access your browsing data, inject ads, or even steal credentials, posing a significant security risk."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "When configuring software on your device, what is the safest approach to permissions?",
+      "options": {
+        "A": "Grant all requested permissions.",
+        "B": "Only grant permissions that are absolutely necessary for the software's functionality.",
+        "C": "Ignore all permission requests.",
+        "D": "Grant permissions only if the software is free."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Granting excessive permissions can allow software to access sensitive data or perform actions beyond its legitimate purpose, increasing security risks. Adhering to the principle of least privilege is crucial."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "What is a common sign that a website might be untrustworthy or malicious?",
+      "options": {
+        "A": "It has a modern design.",
+        "B": "It uses HTTPS.",
+        "C": "It has numerous pop-up ads, misspelled words, and requests for unusual information.",
+        "D": "It loads very quickly."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Malicious websites often exhibit poor design, grammatical errors, excessive ads, and try to trick users into providing personal information or downloading unwanted software."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Before giving an app access to your device's camera or microphone, what should you consider?",
+      "options": {
+        "A": "If the app is free.",
+        "B": "If the app genuinely needs those permissions for its core function and if you trust the developer.",
+        "C": "If the app is popular.",
+        "D": "If it requires an internet connection."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Granting camera or microphone access to untrusted apps can lead to privacy breaches. Always evaluate if the requested permissions align with the app's stated purpose and the developer's reputation."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "What is the concept of 'Least Privilege' in the context of user accounts?",
+      "options": {
+        "A": "Giving users maximum access to everything.",
+        "B": "Granting users only the minimum necessary access rights to perform their job functions.",
+        "C": "Allowing all users to be administrators.",
+        "D": "Restricting users to only one application."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The principle of least privilege ensures that users, programs, or processes are given only the essential permissions to perform their intended tasks, reducing the potential damage from a compromised account or system."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Why is it important for employees to follow the company's Acceptable Use Policy (AUP)?",
+      "options": {
+        "A": "To ensure they get maximum internet speed.",
+        "B": "To ensure responsible and secure use of company IT resources.",
+        "C": "To avoid doing any work.",
+        "D": "To challenge IT department rules."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "An AUP outlines the rules for using organizational IT systems, ensuring employees understand their responsibilities in maintaining security and productivity."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "What should an employee do if they suspect a cybersecurity incident (e.g., malware, phishing attempt) at work?",
+      "options": {
+        "A": "Try to fix it themselves immediately.",
+        "B": "Ignore it and hope it goes away.",
+        "C": "Report it to the designated IT security team or supervisor immediately.",
+        "D": "Share it with colleagues to get their opinion."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Prompt reporting of suspected incidents allows the IT security team to investigate and mitigate potential threats quickly, preventing wider damage."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "What is 'data classification' in a workplace context?",
+      "options": {
+        "A": "Arranging data alphabetically.",
+        "B": "Categorizing data based on its sensitivity and importance to determine appropriate security controls.",
+        "C": "Deleting old data.",
+        "D": "Storing data in different folders."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Data classification helps organizations understand the value and sensitivity of their data, enabling them to apply the correct level of protection (e.g., encryption, access controls) to each category."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Which of the following describes a 'Clean Desk Policy'?",
+      "options": {
+        "A": "A policy that requires employees to clean their desks daily.",
+        "B": "A policy that requires employees to clear their desks of sensitive documents and devices when not present.",
+        "C": "A policy about office aesthetics.",
+        "D": "A policy to reduce paper usage."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A Clean Desk Policy aims to protect sensitive information from unauthorized viewing or theft by ensuring that documents, removable media, and devices are secured when an employee leaves their workspace."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "What is the primary concern with 'Bring Your Own Device (BYOD)' policies in the workplace?",
+      "options": {
+        "A": "Employees might prefer their personal devices over company-issued ones.",
+        "B": "Ensuring the security and compliance of personal devices accessing company data.",
+        "C": "The cost of maintaining personal devices.",
+        "D": "Personal devices are generally faster than company devices."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "BYOD programs introduce challenges in maintaining corporate data security, as personal devices may not have the same level of security controls, patching, or monitoring as company-issued equipment."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "What is the significance of the IT Act, 2000 (India) for cybersecurity in the workplace?",
+      "options": {
+        "A": "It regulates social media usage only.",
+        "B": "It provides legal framework for electronic transactions and addresses cybercrimes and data protection.",
+        "C": "It mandates the use of specific software.",
+        "D": "It only applies to government organizations."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The Information Technology Act, 2000, and its amendments, is the primary law in India dealing with cybercrime and e-commerce, outlining legal recognition for electronic transactions and penalties for cyber offenses, directly impacting workplace cybersecurity compliance."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "When handling sensitive company data, what is a crucial best practice?",
+      "options": {
+        "A": "Share it freely with anyone who asks.",
+        "B": "Store it on personal cloud storage for easy access.",
+        "C": "Follow established data handling policies, including encryption and access controls.",
+        "D": "Print multiple copies for backup."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Adhering to company data handling policies, which typically include measures like encryption, restricted access, and proper disposal, is essential for protecting sensitive information."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "What is the primary purpose of regular cybersecurity training for employees?",
+      "options": {
+        "A": "To make employees responsible for all IT security.",
+        "B": "To educate them about current threats, company policies, and best practices to reduce human error.",
+        "C": "To test their technical skills.",
+        "D": "To certify them as IT professionals."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Human error is a significant factor in many cyber incidents. Regular training empowers employees to recognize threats, follow policies, and act as an effective human firewall."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "What is the risk of using unauthorized software on a company device?",
+      "options": {
+        "A": "It might not be compatible with other software.",
+        "B": "It could introduce vulnerabilities, malware, or violate licensing agreements.",
+        "C": "It makes the device run faster.",
+        "D": "It improves productivity."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Unauthorized software often lacks security vetting, can contain malware, or create backdoors, compromising the entire company network and potentially leading to legal issues due to license violations."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "What is the 'principle of least privilege' as applied to employees' access to company systems?",
+      "options": {
+        "A": "Employees should have access to all systems by default.",
+        "B": "Employees should only be granted the minimum access rights necessary to perform their job duties.",
+        "C": "Only IT staff should have any access to company systems.",
+        "D": "Employees should be able to grant themselves any access they need."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Granting least privilege reduces the attack surface and potential damage if an employee's account is compromised, as the attacker would only have limited access."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Why is proper disposal of company documents and media (e.g., USB drives) important?",
+      "options": {
+        "A": "To save space in the office.",
+        "B": "To prevent sensitive information from falling into the wrong hands.",
+        "C": "To comply with environmental regulations only.",
+        "D": "To make recycling easier."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Disposing of sensitive documents by shredding and digital media by wiping or physical destruction prevents data remnants from being recovered and misused by unauthorized individuals."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "When working remotely, what is a key cybersecurity precaution for employees?",
+      "options": {
+        "A": "Using public Wi-Fi without a VPN.",
+        "B": "Ensuring their home network is secure and using company-provided VPN/security tools.",
+        "C": "Sharing company data with family members for review.",
+        "D": "Disabling all security software for better performance."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Remote work environments can introduce new attack vectors. Securing home networks, using VPNs, and adhering to company security protocols are vital to protect corporate data."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "What is the primary objective of a Data Loss Prevention (DLP) solution in a corporate environment?",
+      "options": {
+        "A": "To prevent employees from accessing the internet.",
+        "B": "To detect and prevent sensitive data from leaving the organization's control.",
+        "C": "To encrypt all incoming email.",
+        "D": "To automatically back up all company data."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DLP solutions monitor, detect, and block sensitive data from being transferred, copied, or printed in an unauthorized manner, helping to prevent data breaches and comply with regulations."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Which of the following is an example of an 'insider threat'?",
+      "options": {
+        "A": "A hacker from an external country attacking the network.",
+        "B": "A disgruntled employee intentionally leaking confidential company data.",
+        "C": "A natural disaster causing data loss.",
+        "D": "A phishing email from an unknown sender."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "An insider threat comes from within an organization, from employees, contractors, or business associates who have legitimate access to company systems and data."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "What is the importance of using screen lock and strong passwords on company laptops and mobile devices?",
+      "options": {
+        "A": "It prevents the battery from draining quickly.",
+        "B": "It protects against unauthorized access if the device is lost or stolen.",
+        "C": "It improves the device's processing speed.",
+        "D": "It is only for aesthetic purposes."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Screen locks and strong passwords are fundamental physical security measures that prevent unauthorized users from accessing data and systems on a lost or stolen device."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "What is the primary reason for conducting regular security audits and vulnerability assessments in a workplace?",
+      "options": {
+        "A": "To find reasons to fire employees.",
+        "B": "To identify and remediate security weaknesses before they can be exploited by attackers.",
+        "C": "To demonstrate compliance with environmental regulations.",
+        "D": "To reduce the amount of data stored on servers."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Security audits and vulnerability assessments are proactive measures to continuously evaluate an organization's security posture, identify gaps, and ensure controls are effective against evolving threats."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is the first step an employee should take upon discovering a potential cyber incident (e.g., ransomware message)?",
+      "options": {
+        "A": "Try to pay the ransom immediately.",
+        "B": "Disconnect the affected device from the network (unplug Ethernet, turn off Wi-Fi).",
+        "C": "Reformat the hard drive.",
+        "D": "Continue working as usual."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Isolating the infected device from the network prevents the spread of malware to other systems and allows the security team to investigate without further compromise."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Why is it crucial to have an 'Incident Response Plan' in an organization?",
+      "options": {
+        "A": "It helps to avoid all cyberattacks completely.",
+        "B": "It provides a structured approach to detect, respond to, and recover from cyber incidents effectively.",
+        "C": "It is only for legal compliance purposes.",
+        "D": "It replaces the need for cybersecurity insurance."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "An Incident Response Plan ensures that an organization can minimize damage, reduce recovery time, and learn from security incidents by following predefined steps."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "After a cyber incident, what is a critical step in the recovery phase?",
+      "options": {
+        "A": "Immediately restore data from the oldest backup available.",
+        "B": "Conduct a post-mortem analysis to identify root causes and improve defenses.",
+        "C": "Blame the first person who reported the incident.",
+        "D": "Stop all business operations indefinitely."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A post-mortem analysis helps an organization understand what happened, how to prevent similar incidents in the future, and improve its overall security posture."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Which emerging technology introduces new cybersecurity challenges due to its vast interconnectedness and potential for data collection?",
+      "options": {
+        "A": "Desktop publishing",
+        "B": "Internet of Things (IoT)",
+        "C": "Typewriters",
+        "D": "Fax machines"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IoT devices often have weak security, are difficult to patch, and collect vast amounts of data, making them attractive targets and potential entry points for attackers."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "What is the role of 'containment' in an incident response process?",
+      "options": {
+        "A": "To notify all affected parties immediately.",
+        "B": "To limit the scope and impact of the incident and prevent further damage.",
+        "C": "To restore all systems to their pre-incident state.",
+        "D": "To collect forensic evidence without altering it."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Containment is a critical phase where actions are taken to stop the spread of an attack, such as isolating infected systems, to prevent further compromise."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "What is a potential cybersecurity risk associated with Artificial Intelligence (AI)?",
+      "options": {
+        "A": "AI systems are inherently unhackable.",
+        "B": "AI can be used to automate and enhance cyberattacks, such as generating convincing phishing emails or discovering vulnerabilities.",
+        "C": "AI will replace all human cybersecurity analysts.",
+        "D": "AI only improves security, never degrades it."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "While AI can enhance defenses, it can also be weaponized by attackers to create more sophisticated malware, automate reconnaissance, and generate highly personalized social engineering attacks."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Why is 'continuous monitoring' an important aspect of modern cybersecurity?",
+      "options": {
+        "A": "It allows IT to watch what employees are doing at all times.",
+        "B": "Cyber threats are constantly evolving, requiring ongoing vigilance and adaptation of defenses.",
+        "C": "It helps to reduce electricity bills.",
+        "D": "It replaces the need for human security teams."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Continuous monitoring involves real-time surveillance of systems and networks to detect anomalies and potential threats, essential because new vulnerabilities and attack methods emerge constantly."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "What is the primary benefit of staying informed about emerging cyber threats?",
+      "options": {
+        "A": "It helps you win arguments with colleagues.",
+        "B": "It allows individuals and organizations to proactively adapt their defenses and practices.",
+        "C": "It makes you an expert hacker.",
+        "D": "It guarantees complete immunity from all attacks."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Awareness of current and emerging threats enables proactive measures, such as updating security software, patching vulnerabilities, and adjusting policies, to stay ahead of attackers."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "In the context of incident response, what does 'eradication' involve?",
+      "options": {
+        "A": "Notifying law enforcement.",
+        "B": "Removing the root cause of the incident, such as deleting malware and fixing vulnerabilities.",
+        "C": "Restoring systems from backup.",
+        "D": "Conducting forensic analysis."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Eradication focuses on eliminating the threat completely from the affected systems and network, ensuring that the attacker's presence is removed and vulnerabilities are closed."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "What is a 'supply chain attack' in cybersecurity?",
+      "options": {
+        "A": "An attack on a company's financial supply chain.",
+        "B": "An attack that targets an organization by compromising less secure elements in its supply chain (e.g., third-party software vendors).",
+        "C": "An attack on physical logistics systems.",
+        "D": "An attack that disrupts the delivery of goods."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Supply chain attacks exploit trust relationships. Attackers compromise a vendor or supplier to gain access to their customers' systems or data, often by injecting malware into legitimate software updates or products."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "What is the importance of 'threat intelligence' in modern cybersecurity?",
+      "options": {
+        "A": "It's a database of all known viruses.",
+        "B": "It provides insights into current and potential threats, attacker tactics, techniques, and procedures (TTPs) to enable proactive defense.",
+        "C": "It's a way to spy on competitors.",
+        "D": "It replaces all security software."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Threat intelligence is evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Which future trend in cybersecurity is characterized by the convergence of operational technology (OT) and information technology (IT) networks?",
+      "options": {
+        "A": "Quantum computing",
+        "B": "Industrial Control System (ICS) security",
+        "C": "Cloud computing",
+        "D": "Big Data analytics"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ICS security deals with protecting the computer systems that control physical processes in industries (OT), which are increasingly interconnected with enterprise IT networks, creating new attack surfaces and complex security challenges."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Why is user education considered a vital, ongoing process in cybersecurity?",
+      "options": {
+        "A": "Because technology constantly changes, and new threats emerge.",
+        "B": "Because employees forget everything after one training session.",
+        "C": "Because it's a mandatory legal requirement for all businesses.",
+        "D": "Because it's cheaper than investing in security software."
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The threat landscape evolves continuously. Ongoing education ensures employees are up-to-date on the latest threats, social engineering techniques, and best practices to maintain a strong human firewall."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "What is the concept of a 'Zero Trust' security model?",
+      "options": {
+        "A": "Trust everyone by default, but verify occasionally.",
+        "B": "Never trust, always verify, regardless of whether the user is inside or outside the network.",
+        "C": "Trust only users within the internal network.",
+        "D": "Eliminate all security checks for known users."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Zero Trust is a security model that assumes no user or device, whether inside or outside the network, should be implicitly trusted. Every access attempt must be authenticated and authorized."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "What is the primary goal of the 'lessons learned' phase after a cyber incident?",
+      "options": {
+        "A": "To assign blame to specific individuals.",
+        "B": "To document what happened, what worked, what didn't, and how to improve future incident response.",
+        "C": "To create a public statement about the incident.",
+        "D": "To determine the financial cost of the incident."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'lessons learned' phase is crucial for organizational learning and continuous improvement, ensuring that the incident's insights are used to strengthen defenses and refine response procedures."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Which of the following is a key aspect of 'proactive security'?",
+      "options": {
+        "A": "Waiting for an attack to occur before reacting.",
+        "B": "Implementing security measures and practices to prevent attacks before they happen.",
+        "C": "Only focusing on physical security.",
+        "D": "Ignoring minor vulnerabilities."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proactive security involves anticipating potential threats and implementing safeguards, such as regular patching, vulnerability scanning, and security awareness training, to prevent breaches rather than just reacting to them."
+    }
+  ]
+}

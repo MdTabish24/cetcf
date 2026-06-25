@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Beautician &amp; Makeup Artist — CETCF Syllabus</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+  :root {
+    --ink:     #1A1025;
+    --navy:    #0D1B3E;
+    --gold:    #B8860B;
+    --gold-l:  #D4A017;
+    --rose:    #C2185B;
+    --rose-l:  #E91E8C;
+    --cream:   #FDF8F2;
+    --warm:    #FAF3EA;
+    --border:  #EDE0D0;
+    --muted:   #7A6A5A;
+    --white:   #FFFFFF;
+    --success: #1B7A4A;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--cream);
+    color: var(--ink);
+    line-height: 1.6;
+  }
+
+  /* ── HERO BAND ── */
+  .hero {
+    background: var(--navy);
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 56px 32px 48px;
+    display: flex;
+    gap: 48px;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    right: -60px; top: -60px;
+    width: 400px; height: 400px;
+    background: radial-gradient(circle, rgba(194,24,91,.18) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero::after {
+    content: '';
+    position: absolute;
+    left: 30%; bottom: -40px;
+    width: 300px; height: 300px;
+    background: radial-gradient(circle, rgba(184,134,11,.12) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-left { flex: 1; }
+  .hero-eyebrow {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(194,24,91,.18);
+    border: 1px solid rgba(194,24,91,.35);
+    color: #E91E8C;
+    font-size: 11px; font-weight: 600;
+    letter-spacing: .1em; text-transform: uppercase;
+    padding: 5px 14px; border-radius: 20px;
+    margin-bottom: 18px;
+  }
+  .hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(28px, 4vw, 48px);
+    font-weight: 700;
+    color: var(--white);
+    line-height: 1.15;
+    margin-bottom: 14px;
+  }
+  .hero h1 span { color: #E91E8C; }
+  .hero-sub {
+    font-size: 15px;
+    color: rgba(255,255,255,.65);
+    max-width: 480px;
+    line-height: 1.7;
+    margin-bottom: 28px;
+  }
+  .hero-tags { display: flex; gap: 10px; flex-wrap: wrap; }
+  .hero-tag {
+    font-size: 12px; font-weight: 500;
+    padding: 6px 14px; border-radius: 6px;
+    border: 1px solid rgba(255,255,255,.15);
+    color: rgba(255,255,255,.8);
+    display: flex; align-items: center; gap: 6px;
+  }
+  .hero-tag.gold { border-color: rgba(194,24,91,.35); color: #E91E8C; background: rgba(194,24,91,.18); }
+  .hero-right { flex-shrink: 0; }
+  .hero-stat-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    width: 240px;
+  }
+  .hstat {
+    background: rgba(255,255,255,.06);
+    border: 1px solid rgba(255,255,255,.1);
+    border-radius: 10px;
+    padding: 14px 16px;
+    text-align: center;
+  }
+  .hstat .v { font-size: 22px; font-weight: 700; color: #E91E8C; }
+  .hstat .l { font-size: 10px; color: rgba(255,255,255,.5); margin-top: 2px; letter-spacing:.04em; text-transform:uppercase; }
+
+  /* ── GOLD RULE ── */
+  .gold-rule { height: 3px; background: linear-gradient(90deg, #C2185B, var(--gold), #C2185B); }
+
+  /* ── WRAPPER ── */
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 0 32px; }
+
+  /* ── SECTION SPACING ── */
+  .section { padding: 56px 0; }
+  .section + .section { border-top: 1px solid var(--border); }
+
+  /* ── SECTION LABEL ── */
+  .sec-label {
+    font-size: 10px; font-weight: 700;
+    letter-spacing: .14em; text-transform: uppercase;
+    color: #C2185B; margin-bottom: 6px;
+  }
+  .sec-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(20px, 2.5vw, 28px);
+    font-weight: 600;
+    color: var(--navy);
+    margin-bottom: 8px;
+  }
+  .sec-sub { font-size: 14px; color: var(--muted); line-height: 1.7; max-width: 620px; }
+
+  /* ── OVERVIEW CARDS ── */
+  .overview-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-top: 32px; }
+  .ov-card { background: var(--white); border: 1px solid var(--border); border-radius: 12px; padding: 20px 16px; text-align: center; }
+  .ov-card .icon { font-size: 26px; margin-bottom: 10px; }
+  .ov-card .val { font-size: 18px; font-weight: 700; color: var(--navy); }
+  .ov-card .key { font-size: 11px; color: var(--muted); margin-top: 3px; text-transform: uppercase; letter-spacing: .04em; }
+
+  /* ── MODULES ── */
+  .modules-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; margin-top: 32px; }
+  .module-card { background: var(--white); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
+  .module-head { padding: 18px 20px; display: flex; align-items: center; gap: 14px; border-bottom: 1px solid var(--border); background: var(--warm); }
+  .mod-badge { width: 36px; height: 36px; border-radius: 50%; background: var(--navy); color: #E91E8C; font-size: 13px; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .mod-info { flex: 1; min-width: 0; }
+  .mod-title { font-size: 14px; font-weight: 600; color: var(--navy); }
+  .mod-week { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .mod-hrs { font-size: 11px; font-weight: 600; color: #C2185B; }
+  .module-body { padding: 16px 20px; }
+  .topic-list { list-style: none; }
+  .topic-list li { font-size: 13px; color: var(--ink); padding: 5px 0; border-bottom: 1px solid #F5EFE8; display: flex; align-items: flex-start; gap: 8px; line-height: 1.4; }
+  .topic-list li:last-child { border-bottom: none; }
+  .topic-list li::before { content: '◆'; font-size: 6px; color: #C2185B; margin-top: 5px; flex-shrink: 0; }
+
+  /* ── ASSESSMENT TABLE ── */
+  .assess-table { width: 100%; border-collapse: collapse; margin-top: 28px; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 16px rgba(0,0,0,.05); }
+  .assess-table thead tr { background: var(--navy); }
+  .assess-table thead th { padding: 14px 18px; text-align: left; font-size: 12px; font-weight: 600; color: #E91E8C; letter-spacing: .04em; text-transform: uppercase; }
+  .assess-table tbody tr { background: var(--white); border-bottom: 1px solid var(--border); transition: background .15s; }
+  .assess-table tbody tr:hover { background: var(--warm); }
+  .assess-table tbody tr:last-child { border-bottom: none; }
+  .assess-table td { padding: 13px 18px; font-size: 14px; color: var(--ink); }
+  .assess-table td:first-child { font-weight: 500; }
+  .mark-badge { display: inline-block; font-size: 12px; font-weight: 700; padding: 3px 10px; border-radius: 20px; }
+  .mark-theory { background: #E8EDFF; color: #1A2B7A; }
+  .mark-practical { background: #E8F8F0; color: var(--success); }
+  .mark-total { background: var(--navy); color: #E91E8C; }
+  .pass-chip { display: inline-flex; align-items: center; gap: 5px; background: #E8F8F0; color: var(--success); font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 20px; border: 1px solid #C0E8D0; }
+
+  /* ── ELIGIBILITY & OUTCOMES ── */
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 28px; }
+  .info-block { background: var(--white); border: 1px solid var(--border); border-radius: 14px; padding: 24px; }
+  .info-block h4 { font-size: 13px; font-weight: 700; color: var(--navy); text-transform: uppercase; letter-spacing: .06em; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid #C2185B; display: inline-block; }
+  .check-list { list-style: none; }
+  .check-list li { font-size: 13px; color: var(--ink); padding: 6px 0; display: flex; align-items: flex-start; gap: 10px; line-height: 1.5; }
+  .check-list li .ck { width: 18px; height: 18px; border-radius: 50%; color: white; font-size: 9px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-top: 1px; }
+  .check-list li .ck.rose { background: #C2185B; }
+  .check-list li .ck.gold { background: var(--gold); }
+
+  /* ── CAREER PATH ── */
+  .career-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin-top: 28px; }
+  .career-card { background: var(--white); border: 1px solid var(--border); border-radius: 12px; padding: 18px 16px; display: flex; align-items: flex-start; gap: 12px; }
+  .career-icon { font-size: 24px; flex-shrink: 0; }
+  .career-info { flex: 1; }
+  .career-title { font-size: 13px; font-weight: 600; color: var(--navy); margin-bottom: 3px; }
+  .career-type { font-size: 11px; color: var(--muted); }
+
+  /* ── EXAM MODE ── */
+  .exam-modes { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-top: 28px; }
+  .exam-mode-card { background: var(--white); border: 1px solid var(--border); border-radius: 14px; padding: 22px 20px; text-align: center; position: relative; overflow: hidden; }
+  .exam-mode-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; }
+  .exam-mode-card.theory::before { background: linear-gradient(90deg, #1A2B7A, #4A6BCA); }
+  .exam-mode-card.practical::before { background: linear-gradient(90deg, var(--success), #4ABCA0); }
+  .em-icon { font-size: 32px; margin-bottom: 12px; }
+  .em-title { font-size: 14px; font-weight: 700; color: var(--navy); margin-bottom: 6px; }
+  .em-marks { font-size: 22px; font-weight: 700; margin-bottom: 4px; }
+  .theory .em-marks { color: #1A2B7A; }
+  .practical .em-marks { color: var(--success); }
+  .em-desc { font-size: 12px; color: var(--muted); line-height: 1.6; }
+
+  /* ── PATHWAY BANNER ── */
+  .pathway-banner { background: linear-gradient(135deg, var(--navy) 0%, #162347 100%); border-radius: 16px; padding: 36px 40px; margin-top: 28px; display: flex; justify-content: space-between; align-items: center; gap: 24px; }
+  .pb-left h3 { font-family: 'Playfair Display', serif; font-size: 22px; color: var(--white); margin-bottom: 8px; }
+  .pb-left p { font-size: 13px; color: rgba(255,255,255,.6); line-height: 1.6; max-width: 420px; }
+  .pb-btns { display: flex; gap: 10px; flex-shrink: 0; flex-wrap: wrap; }
+  .btn-p { padding: 11px 22px; border-radius: 8px; font-size: 13px; font-weight: 600; text-decoration: none; border: none; cursor: pointer; transition: all .2s; }
+  .btn-gold { background: var(--gold); color: var(--navy); }
+  .btn-gold:hover { background: var(--gold-l); }
+  .btn-outline { border: 1.5px solid rgba(255,255,255,.3); color: var(--white); background: transparent; }
+  .btn-outline:hover { border-color: var(--gold); color: var(--gold-l); }
+
+  /* ── CERT PREVIEW ── */
+  .cert-preview { background: linear-gradient(135deg, #FFFEF7, #FFF9E6); border: 2px solid var(--gold); border-radius: 14px; padding: 28px 32px; margin-top: 28px; text-align: center; position: relative; }
+  .cert-preview::before { content: ''; position: absolute; inset: 6px; border: 1px solid rgba(184,134,11,.2); border-radius: 10px; pointer-events: none; }
+  .cert-org { font-size: 14px; font-weight: 700; color: var(--navy); }
+  .cert-tag { font-size: 10px; color: var(--muted); margin-top: 2px; }
+  .cert-title { font-family: 'Playfair Display', serif; font-size: 26px; color: var(--navy); margin: 12px 0; }
+  .cert-name-line { font-size: 13px; color: var(--muted); }
+  .cert-name { display: block; font-size: 20px; font-weight: 700; color: var(--gold); margin: 8px 0; padding-bottom: 6px; border-bottom: 2px solid var(--gold); max-width: 320px; margin-left: auto; margin-right: auto; }
+  .cert-course { font-size: 15px; font-weight: 700; color: var(--navy); margin: 10px 0; }
+  .cert-badges-row { display: flex; justify-content: center; gap: 14px; flex-wrap: wrap; margin-top: 20px; }
+  .cert-badge-sm { font-size: 10px; font-weight: 600; padding: 4px 10px; border: 1.5px solid var(--border); border-radius: 4px; color: var(--muted); }
+
+  /* ── FOOTER ── */
+  .page-footer { background: var(--navy); color: rgba(255,255,255,.5); text-align: center; padding: 20px 32px; font-size: 12px; }
+  .page-footer strong { color: #E91E8C; }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 768px) {
+    .hero-inner { flex-direction: column; padding: 36px 20px; }
+    .hero-stat-grid { width: 100%; }
+    .modules-grid { grid-template-columns: 1fr; }
+    .two-col { grid-template-columns: 1fr; }
+    .exam-modes { grid-template-columns: 1fr; }
+    .pathway-banner { flex-direction: column; padding: 28px 24px; }
+    .wrap { padding: 0 20px; }
+  }
+
+  @media print {
+    .pathway-banner, .pb-btns { display: none; }
+    body { background: white; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-left">
+      <div class="hero-eyebrow">
+        <span>✦</span> CETCF Certified Program
+      </div>
+      <h1>Beautician<br><span>&amp; Makeup Artist</span></h1>
+      <p class="hero-sub">Yeh Beautician &amp; Makeup Artist course aapko beauty industry mein entry level skills provide karega. Aapko basic skincare, hair removal, nail care aur everyday makeup techniques sikhaye jayenge, jisse aap ek confident beauty professional ban saken.</p>
+      <div class="hero-tags">
+        <div class="hero-tag gold">🏷️ Sector: Beauty &amp; Lifestyle</div>
+        <div class="hero-tag">🔄 Course + RPL Pathway + Certification</div>
+      </div>
+    </div>
+    <div class="hero-right">
+      <div class="hero-stat-grid">
+        <div class="hstat"><div class="v">100</div><div class="l">Total Marks</div></div>
+        <div class="hstat"><div class="v">50%</div><div class="l">Pass Mark</div></div>
+        <div class="hstat"><div class="v">12</div><div class="l">Weeks</div></div>
+        <div class="hstat"><div class="v">₹1,000</div><div class="l">Exam Fee</div></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="gold-rule"></div>
+
+<!-- OVERVIEW -->
+<div class="wrap">
+<section class="section">
+  <div class="sec-label">Course Overview</div>
+  <div class="sec-title">What this program covers</div>
+  <p class="sec-sub">Iss program mein aap hygiene practices, client consultation, facials, waxing, manicure, pedicure, aur party makeup jaise essential services mein hands-on training paayenge. Indian clients ki preferences aur market demands ko dhyan mein rakhte hue yeh course design kiya gaya hai.</p>
+
+  <div class="overview-grid">
+    <div class="ov-card"><div class="icon">🗓️</div><div class="val">3 Months</div><div class="key">Duration</div></div>
+    <div class="ov-card"><div class="icon">📚</div><div class="val">6 Units</div><div class="key">Modules</div></div>
+    <div class="ov-card"><div class="icon">⏱️</div><div class="val">180 Hrs</div><div class="key">Total Contact Hours</div></div>
+    <div class="ov-card"><div class="icon">💻</div><div class="val">Online</div><div class="key">Exam Mode</div></div>
+    <div class="ov-card"><div class="icon">🔄</div><div class="val">Dual</div><div class="key">Training + RPL</div></div>
+  </div>
+</section>
+
+<!-- MODULES / SYLLABUS -->
+<section class="section">
+  <div class="sec-label">Detailed Syllabus</div>
+  <div class="sec-title">Module-by-Module Breakdown</div>
+  <p class="sec-sub">Each module is designed to be practical-first. Theory gives the foundation; practical sessions build the real skill.</p>
+
+  <div class="modules-grid">
+
+    <div class="module-card">
+      <div class="module-head">
+        <div class="mod-badge">01</div>
+        <div class="mod-info">
+          <div class="mod-title">Fundamentals of Beauty &amp; Salon Management</div>
+          <div class="mod-week">Week 1-2 &nbsp;|&nbsp; <span class="mod-hrs">30 Hours</span></div>
+        </div>
+      </div>
+      <div class="module-body">
+        <ul class="topic-list">
+          <li>Beauty Industry ka Introduction &amp; Career Scope in India — Indian beauty market, jobs aur growth ke mauke.</li>
+          <li>Personal Grooming &amp; Professional Etiquette — Kaise presentable dikhein aur clients se professional tareeke se baat karein.</li>
+          <li>Hygiene, Sanitation &amp; Sterilization — Beauty tools aur workspace ko saaf aur germ-free kaise rakhein.</li>
+          <li>Salon Safety &amp; First Aid Basics — Salon mein safety rules aur emergency situations ke liye basic first aid.</li>
+          <li>Client Consultation &amp; Communication Skills — Client ki needs samajhna, unko services explain karna aur achhe se communicate karna.</li>
+          <li>Skin &amp; Hair Anatomy ka Basic Gyaan — Skin types, hair growth cycle aur body parts ka fundamental knowledge.</li>
+          <li>Product Knowledge &amp; Storage — Different beauty products ko pehchanna, unke uses aur unhe sahi se store karna.</li>
+          <li>Salon Environment &amp; Workflow Management — Salon operations ko samajhna, appointments aur time manage karna.</li>
+          <li>Beauty Tools aur Equipment ka Use &amp; Maintenance — Common beauty tools ko operate karna aur unki care karna.</li>
+          <li>Basic Customer Service &amp; Client Retention Tips — Clients ko khush rakhna aur unhe wapas aane ke liye encourage karna.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="module-card">
+      <div class="module-head">
+        <div class="mod-badge">02</div>
+        <div class="mod-info">
+          <div class="mod-title">Skincare Basics &amp; Facial Treatments</div>
+          <div class="mod-week">Week 3-4 &nbsp;|&nbsp; <span class="mod-hrs">30 Hours</span></div>
+        </div>
+      </div>
+      <div class="module-body">
+        <ul class="topic-list">
+          <li>Skin Types &amp; Conditions ko Pehchanna — Oily, dry, combination, sensitive skin aur common skin problems (pimples, pigmentation).</li>
+          <li>Daily Skincare Routine &amp; Product Selection — Cleansing, toning, moisturizing (CTM) ka importance aur sahi products chunna.</li>
+          <li>Basic Facial Steps: Cleansing, Toning, Exfoliation — Face ko saaf karna, dead skin hatana aur skin ko refresh karna.</li>
+          <li>Face Massage Techniques (Basic) — Blood circulation improve karna aur client ko relax karna.</li>
+          <li>Steam &amp; Extraction ka Sahi Tareeka — Blackheads aur whiteheads ko safely aur hygienically remove karna.</li>
+          <li>Face Packs &amp; Masks ka Application — Different skin types ke liye suitable face packs aur masks lagana.</li>
+          <li>Cleanup Facial (Normal Skin) ka Practical — Ghar par ya salon mein basic cleanup ka hands-on practice.</li>
+          <li>Fruit Facial (Dry/Dehydrated Skin) ka Practical — Natural ingredients se skin ko nourish aur hydrate karna.</li>
+          <li>Eye Care &amp; Lip Care Treatments — Dark circles, puffy eyes aur chapped lips ke liye special care.</li>
+          <li>Aftercare Advice for Clients — Facial ke baad skin ki care kaise karein, iske liye clients ko guidance dena.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="module-card">
+      <div class="module-head">
+        <div class="mod-badge">03</div>
+        <div class="mod-info">
+          <div class="mod-title">Hair Removal Techniques</div>
+          <div class="mod-week">Week 5-6 &nbsp;|&nbsp; <span class="mod-hrs">30 Hours</span></div>
+        </div>
+      </div>
+      <div class="module-body">
+        <ul class="topic-list">
+          <li>Hair Growth Cycle &amp; Types of Hair — Hair growth patterns aur body hair ke different types ko samajhna.</li>
+          <li>Threading (Eyebrows, Upper Lip, Forehead) ka Practical — Dhage se unwanted hair remove karne ki technique.</li>
+          <li>Waxing ka Introduction &amp; Types (Hot, Cold, Rica) — Different types of wax aur unke specific uses.</li>
+          <li>Waxing Preparation &amp; Aftercare — Skin ko wax ke liye ready karna aur waxing ke baad care tips.</li>
+          <li>Full Arm &amp; Half Leg Waxing ka Practical — Hands-on practice for waxing arms aur legs.</li>
+          <li>Underarm &amp; Stomach/Back Waxing ka Practical — Sensitive areas par waxing ki technique.</li>
+          <li>Bleaching ka Sahi Tareeka (Face &amp; Body) — Hair ko lighten karne ke liye bleaching process.</li>
+          <li>Hygiene &amp; Safety while Hair Removal — Hair removal ke dauran infections se bachne ke tareeke.</li>
+          <li>Ingrown Hair &amp; Skin Irritation se Bachao — Waxing ke side effects ko prevent aur treat karna.</li>
+          <li>Client Comfort &amp; Pain Management Tips — Hair removal ke dauran client ko comfortable feel karana.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="module-card">
+      <div class="module-head">
+        <div class="mod-badge">04</div>
+        <div class="mod-info">
+          <div class="mod-title">Hand &amp; Foot Care (Manicure &amp; Pedicure)</div>
+          <div class="mod-week">Week 7-8 &nbsp;|&nbsp; <span class="mod-hrs">30 Hours</span></div>
+        </div>
+      </div>
+      <div class="module-body">
+        <ul class="topic-list">
+          <li>Nail Anatomy &amp; Common Nail Problems — Nails ki structure aur common nail infections/issues.</li>
+          <li>Manicure ka Sahi Tareeka (Classic Manicure) — Hands ko clean, shapely aur soft banane ki complete process.</li>
+          <li>Pedicure ka Sahi Tareeka (Classic Pedicure) — Feet ko clean, smooth aur fresh banane ki complete process.</li>
+          <li>Nail Shaping &amp; Filing Techniques — Different nail shapes (square, oval, round) aur filing methods.</li>
+          <li>Cuticle Care &amp; Nail Buffing — Cuticles ko safely push back karna aur nails ko shine karna.</li>
+          <li>Hand &amp; Foot Massage Techniques — Relaxation aur blood circulation improve karne ke liye massage.</li>
+          <li>Nail Polish Application (Basic) — Perfect aur long-lasting nail polish lagane ka tareeka.</li>
+          <li>Basic Nail Art Designs (e.g., French, polka dots) — Simple aur attractive nail art designs banana.</li>
+          <li>Paraffin Wax Treatment (Hands &amp; Feet) ka Introduction — Deep moisturizing aur relaxation ke liye paraffin wax.</li>
+          <li>Hygiene &amp; Sterilization for Manicure/Pedicure Tools — Manicure aur pedicure tools ko saaf aur sterilize karna.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="module-card">
+      <div class="module-head">
+        <div class="mod-badge">05</div>
+        <div class="mod-info">
+          <div class="mod-title">Everyday &amp; Party Makeup</div>
+          <div class="mod-week">Week 9-10 &nbsp;|&nbsp; <span class="mod-hrs">30 Hours</span></div>
+        </div>
+      </div>
+      <div class="module-body">
+        <ul class="topic-list">
+          <li>Makeup Products ka Introduction &amp; Selection — Different makeup products (foundations, concealers, etc.) aur unhe chunna.</li>
+          <li>Makeup Tools &amp; Brushes ka Use &amp; Maintenance — Makeup brushes aur applicators ko use karna aur saaf rakhna.</li>
+          <li>Skin Preparation for Makeup: Cleansing, Toning, Moisturizing, Priming — Makeup se pehle skin ko ready karna.</li>
+          <li>Foundation &amp; Concealer Application (Skin Tone Matching) — Perfect base makeup ke liye sahi shade chunna aur blend karna.</li>
+          <li>Basic Eye Makeup: Kajal, Eyeliner, Mascara — Everyday look ke liye essential eye makeup techniques.</li>
+          <li>Eyebrow Shaping &amp; Filling — Eyebrows ko define aur fill karke face ko frame karna.</li>
+          <li>Lipstick Application &amp; Lip Liner Techniques — Lips ko shape dena aur long-lasting lipstick lagana.</li>
+          <li>Blush &amp; Bronzer Application — Face ko contour karna, blush se color dena aur bronzer se warmth add karna.</li>
+          <li>Day Makeup Look ka Practical — Simple, natural aur everyday use ke liye makeup look create karna.</li>
+          <li>Party Makeup Look ka Practical (Basic Smokey Eye/Glam Lips) — Special occasions ke liye thoda bold aur glamorous look.</li>
+          <li>Makeup Removal &amp; Aftercare — Makeup ko sahi tareeke se remove karna aur skin ki care karna.</li>
+          <li>Client Consultation for Makeup Looks — Client ki preferences aur occasion ke hisab se makeup plan karna.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="module-card">
+      <div class="module-head">
+        <div class="mod-badge">06</div>
+        <div class="mod-info">
+          <div class="mod-title">Professional Development &amp; Client Service</div>
+          <div class="mod-week">Week 11-12 &nbsp;|&nbsp; <span class="mod-hrs">30 Hours</span></div>
+        </div>
+      </div>
+      <div class="module-body">
+        <ul class="topic-list">
+          <li>Customer Service Excellence &amp; Client Handling — Clients ko best experience dena aur unki needs ko samajhna.</li>
+          <li>Selling Skills for Beauty Products &amp; Services — Clients ko suitable products aur services recommend karna.</li>
+          <li>Client Feedback &amp; Complaint Management — Clients ka feedback lena aur complaints ko professionally handle karna.</li>
+          <li>Building Your Portfolio &amp; Social Media Presence — Apne kaam ki photos aur videos se ek strong portfolio banana.</li>
+          <li>Pricing Your Services &amp; Basic Billing — Apni services ka sahi price decide karna aur basic billing karna.</li>
+          <li>Career Opportunities in Beauty Industry — Beautician aur makeup artist ke roop mein career growth aur next steps.</li>
+          <li>Freelancing &amp; Entrepreneurship ka Basic Gyaan — Apna business shuru karne aur freelance kaam karne ki fundamentals.</li>
+          <li>Continuous Learning &amp; Skill Upgradation — Nayi techniques aur trends seekhte rehna.</li>
+          <li>Time Management &amp; Salon Operations — Din bhar ke kaam ko efficiently manage karna.</li>
+          <li>Professional Ethics &amp; Confidentiality — Clients ki privacy maintain karna aur professional standards follow karna.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ASSESSMENT -->
+<section class="section">
+  <div class="sec-label">Assessment &amp; Marking</div>
+  <div class="sec-title">Exam Structure</div>
+  <p class="sec-sub">The exam is fully automated. All components are completed online via the CETCF portal.</p>
+
+  <div class="exam-modes">
+    <div class="exam-mode-card theory">
+      <div class="em-icon">📝</div>
+      <div class="em-title">Theory — MCQ</div>
+      <div class="em-marks">50 Marks</div>
+      <div class="em-desc">25 Questions x 2 Marks. 45 minutes timer. Auto-scored instantly on submission.</div>
+    </div>
+    <div class="exam-mode-card practical">
+      <div class="em-icon">📸</div>
+      <div class="em-title">Practical — Portfolio Upload</div>
+      <div class="em-marks">50 Marks</div>
+      <div class="em-desc">Candidates ko live models par di gayi beauty services perform karni hongi, jismein hygiene, technique aur client satisfaction par marks diye jayenge.</div>
+    </div>
+  </div>
+
+  <table class="assess-table">
+    <thead><tr><th>Component</th><th>Marks</th><th>Format</th><th>Mode</th><th>Pass Requirement</th></tr></thead>
+    <tbody>
+      <tr>
+        <td>Theory (MCQ)</td>
+        <td><span class="mark-badge mark-theory">50 Marks</span></td>
+        <td>25 Questions x 2 Marks</td>
+        <td>Online Portal — Auto Timer</td>
+        <td>Minimum 25/50 (50%)</td>
+      </tr>
+      <tr>
+        <td>Practical Assessment</td>
+        <td><span class="mark-badge mark-practical">50 Marks</span></td>
+        <td>Candidates ko live models par di gayi beauty services perform karni hongi, jismein hygiene, technique aur client satisfaction par marks diye jayenge.</td>
+        <td>Upload via CETCF Portal</td>
+        <td>Minimum 25/50 (50%)</td>
+      </tr>
+      <tr style="background:#FAFAFA; font-weight:600">
+        <td><strong>Total</strong></td>
+        <td><span class="mark-badge mark-total">100 Marks</span></td>
+        <td>—</td>
+        <td>All Online</td>
+        <td><span class="pass-chip">✓ 50 / 100 to Pass</span></td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+
+<!-- PRACTICAL EVIDENCE REQUIRED -->
+<section class="section">
+  <div class="sec-label">Practical Submission</div>
+  <div class="sec-title">What to Upload for Practical Assessment</div>
+  <p class="sec-sub">Upload the following evidence items through the CETCF candidate portal.</p>
+  <div style="margin-top:28px; display:flex; flex-direction:column; gap:10px;">
+
+    <div style="background:var(--white);border:1px solid var(--border);border-radius:12px;padding:18px 22px;display:flex;align-items:center;gap:18px;">
+      <div style="width:40px;height:40px;border-radius:50%;background:var(--navy);color:var(--gold-l);font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">1</div>
+      <div style="flex:1">
+        <div style="font-size:14px;font-weight:600;color:var(--navy);">Basic Facial &amp; Threading</div>
+        <div style="font-size:12px;color:var(--muted);margin-top:3px;">Candidate ko ek live model par basic cleanup facial (cleansing, toning, exfoliation, steam, extraction) aur eyebrow &amp; upper lip threading perform karna hoga.</div>
+      </div>
+      <div style="font-size:18px;font-weight:700;color:var(--success);flex-shrink:0;">20 Marks</div>
+    </div>
+
+    <div style="background:var(--white);border:1px solid var(--border);border-radius:12px;padding:18px 22px;display:flex;align-items:center;gap:18px;">
+      <div style="width:40px;height:40px;border-radius:50%;background:var(--navy);color:var(--gold-l);font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">2</div>
+      <div style="flex:1">
+        <div style="font-size:14px;font-weight:600;color:var(--navy);">Manicure &amp; Pedicure</div>
+        <div style="font-size:12px;color:var(--muted);margin-top:3px;">Candidate ko ek live model par classic manicure aur pedicure perform karna hoga, jismein nail shaping, cuticle care, massage aur basic nail polish application shamil hai.</div>
+      </div>
+      <div style="font-size:18px;font-weight:700;color:var(--success);flex-shrink:0;">20 Marks</div>
+    </div>
+
+    <div style="background:var(--white);border:1px solid var(--border);border-radius:12px;padding:18px 22px;display:flex;align-items:center;gap:18px;">
+      <div style="width:40px;height:40px;border-radius:50%;background:var(--navy);color:var(--gold-l);font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">3</div>
+      <div style="flex:1">
+        <div style="font-size:14px;font-weight:600;color:var(--navy);">Party Makeup Look</div>
+        <div style="font-size:12px;color:var(--muted);margin-top:3px;">Candidate ko ek live model par skin prep, foundation, basic eye makeup (e.g., smokey eye ya defined eyes), blush aur lip application ke saath ek party makeup look create karna hoga.</div>
+      </div>
+      <div style="font-size:18px;font-weight:700;color:var(--success);flex-shrink:0;">10 Marks</div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ELIGIBILITY + OUTCOMES -->
+<section class="section">
+  <div class="sec-label">Who Can Enrol &amp; What You'll Achieve</div>
+  <div class="sec-title">Eligibility &amp; Learning Outcomes</div>
+
+  <div class="two-col">
+    <div class="info-block">
+      <h4>Eligibility Criteria</h4>
+      <ul class="check-list">
+        <li><span class="ck rose">✓</span> Minimum age: 14 years</li>
+        <li><span class="ck rose">✓</span> Minimum education: Class 8th pass</li>
+        <li><span class="ck rose">✓</span> No prior experience needed</li>
+        <li><span class="ck rose">✓</span> Already working? Apply for direct RPL exam</li>
+        <li><span class="ck rose">✓</span> Valid ID proof required at registration</li>
+        <li><span class="ck rose">✓</span> Applicable for all candidates</li>
+      </ul>
+    </div>
+    <div class="info-block">
+      <h4>Learning Outcomes</h4>
+      <ul class="check-list">
+        <li><span class="ck gold">✓</span> Basic salon hygiene, sanitation aur safety protocols ko samajhna aur follow karna.</li>
+        <li><span class="ck gold">✓</span> Client consultation effectively perform karna aur unki needs ke according services recommend karna.</li>
+        <li><span class="ck gold">✓</span> Basic facial treatments (cleanup, fruit facial) aur hair removal techniques (threading, waxing, bleaching) ko successfully perform karna.</li>
+        <li><span class="ck gold">✓</span> Manicure aur pedicure services ko proper technique ke saath execute karna, jismein nail shaping aur basic nail art bhi shamil hai.</li>
+        <li><span class="ck gold">✓</span> Everyday aur party makeup looks create karna, jismein skin prep, foundation, eye makeup aur lip application shamil hai.</li>
+        <li><span class="ck gold">✓</span> Customer service skills develop karna, client feedback handle karna aur career growth ke liye basic entrepreneurial steps samajhna.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- CAREER PATHS -->
+<section class="section">
+  <div class="sec-label">After Certification</div>
+  <div class="sec-title">Career &amp; Self-Employment Paths</div>
+  <p class="sec-sub">A CETCF Beautician &amp; Makeup Artist certificate opens doors across employment, freelance, and self-employment avenues.</p>
+
+  <div class="career-grid">
+
+    <div class="career-card">
+      <div class="career-icon">💅</div>
+      <div class="career-info">
+        <div class="career-title">Junior Beautician</div>
+        <div class="career-type">Employment — ₹₹8,000 - ₹15,000/month</div>
+      </div>
+    </div>
+
+    <div class="career-card">
+      <div class="career-icon">💄</div>
+      <div class="career-info">
+        <div class="career-title">Makeup Assistant</div>
+        <div class="career-type">Employment — ₹₹10,000 - ₹20,000/month</div>
+      </div>
+    </div>
+
+    <div class="career-card">
+      <div class="career-icon">✨</div>
+      <div class="career-info">
+        <div class="career-title">Freelance Beauty Artist</div>
+        <div class="career-type">Self-Employment — ₹₹15,000 - ₹35,000/month (variable)</div>
+      </div>
+    </div>
+
+    <div class="career-card">
+      <div class="career-icon">✂️</div>
+      <div class="career-info">
+        <div class="career-title">Salon Assistant</div>
+        <div class="career-type">Employment — ₹₹7,000 - ₹12,000/month</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CERT PREVIEW -->
+<section class="section">
+  <div class="sec-label">Certification</div>
+  <div class="sec-title">Certificate You Will Receive</div>
+  <p class="sec-sub">On passing all exam components, your CETCF certificate is issued with a unique Certificate ID and QR verification code.</p>
+
+  <div style="display:flex; justify-content:center; margin-top:28px;">
+    <div style="max-width:620px; width:100%;">
+      <div class="cert-preview">
+        <div class="cert-org">Council for Education, Training & Certification Foundation</div>
+        <div class="cert-tag">ISO 9001:2015 Certified · Section 8 Company (Govt. of India) · Lic. 181729</div>
+        <div class="cert-title">Certificate of Completion</div>
+        <div class="cert-name-line">This is to certify that</div>
+        <span class="cert-name">[Candidate Name]</span>
+        <div class="cert-course">has successfully completed the certified program in<br><strong>Beautician &amp; Makeup Artist</strong></div>
+        <div class="cert-badges-row">
+          <span class="cert-badge-sm">🆔 CETC/2025/BEAUTY/XXXXXX</span>
+          <span class="cert-badge-sm">📱 QR Verified</span>
+          <span class="cert-badge-sm">🌐 cetcf.org/verify</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PATHWAY BANNER -->
+<section class="section">
+  <div class="pathway-banner">
+    <div class="pb-left">
+      <h3>Ready to Get Certified?</h3>
+      <p>Choose your pathway — study online with our video course, or if you're already skilled, take the RPL exam directly. Either way, your Beautician &amp; Makeup Artist certificate is just an exam away.</p>
+    </div>
+    <div class="pb-btns">
+      <a href="#" class="btn-p btn-gold">Start Learning</a>
+      <a href="#" class="btn-p btn-outline">Take RPL Exam</a>
+    </div>
+  </div>
+</section>
+
+</div><!-- .wrap -->
+
+<!-- FOOTER -->
+<div class="page-footer">
+  © 2025 <strong>CETCF</strong> — Council for Education, Training & Certification Foundation. All rights reserved.
+</div>
+
+</body>
+</html>

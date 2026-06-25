@@ -1,0 +1,1443 @@
+{
+  "course_name": "Graphic Design — Canva & CorelDRAW",
+  "sector": "Digital & Information Technology",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Graphic Design & Design Principles",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Getting Started with Canva",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Advanced Canva Techniques",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Introduction to CorelDRAW",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Vector Graphics & CorelDRAW Techniques",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Project Management & Output",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which of the following is NOT a fundamental element of design?",
+      "options": {
+        "A": "Line",
+        "B": "Shape",
+        "C": "Software",
+        "D": "Color"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Software is a tool used in design, not a fundamental element of design itself. Line, shape, and color are core elements."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "What is the primary purpose of 'contrast' in graphic design?",
+      "options": {
+        "A": "To make all elements look the same",
+        "B": "To create visual interest and hierarchy",
+        "C": "To hide important information",
+        "D": "To use only bright colors"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Contrast helps to differentiate elements, making certain parts stand out and guiding the viewer's eye, thereby creating visual interest and hierarchy."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Which color model is primarily used for designs intended for print?",
+      "options": {
+        "A": "RGB",
+        "B": "CMYK",
+        "C": "HSV",
+        "D": "HEX"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CMYK (Cyan, Magenta, Yellow, Key/Black) is a subtractive color model used in color printing. RGB (Red, Green, Blue) is used for digital displays."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "What does 'typography' primarily refer to in graphic design?",
+      "options": {
+        "A": "The use of photographs",
+        "B": "The style and appearance of text",
+        "C": "The arrangement of shapes",
+        "D": "The process of drawing vectors"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Typography is the art and technique of arranging type to make written language legible, readable, and appealing when displayed. It involves font choice, size, leading, kerning, and tracking."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Which principle of design refers to the equal distribution of visual weight in a composition?",
+      "options": {
+        "A": "Emphasis",
+        "B": "Movement",
+        "C": "Balance",
+        "D": "Rhythm"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Balance is the distribution of the visual weight of objects, colors, texture, and space. It can be symmetrical or asymmetrical."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "When designing a logo, what is the most crucial aspect to consider for its effectiveness?",
+      "options": {
+        "A": "Using many colors",
+        "B": "Complexity and intricate details",
+        "C": "Memorability and scalability",
+        "D": "Following current trends strictly"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "An effective logo should be memorable, easily recognizable, and scalable to look good across various sizes and mediums without losing clarity."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "What is the main difference between a 'serif' and 'sans-serif' typeface?",
+      "options": {
+        "A": "Serif fonts are always bold, sans-serif are not.",
+        "B": "Serif fonts have small decorative lines at the ends of strokes, sans-serif do not.",
+        "C": "Sans-serif fonts are only used for headlines.",
+        "D": "Serif fonts are more modern than sans-serif fonts."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Serifs are the small decorative strokes that extend from the ends of letters. Sans-serif fonts lack these strokes, hence 'sans' (without) serif."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "A designer is creating a poster for a local festival. Which design principle should they apply to ensure the most important information (e.g., date, time) stands out?",
+      "options": {
+        "A": "Repetition",
+        "B": "Unity",
+        "C": "Emphasis",
+        "D": "Rhythm"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Emphasis is used to draw attention to a particular part of the design, making it the focal point. This is crucial for highlighting key information."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "What is the purpose of a 'mood board' in the initial phase of a graphic design project?",
+      "options": {
+        "A": "To finalize the project budget",
+        "B": "To gather visual inspiration and define the project's aesthetic direction",
+        "C": "To write the final copy for the design",
+        "D": "To present the completed design to the client"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A mood board is a collection of images, textures, colors, and text that helps to communicate the overall feel, style, and direction of a design project before starting the actual design work."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Which term describes the space between individual characters in a block of text?",
+      "options": {
+        "A": "Leading",
+        "B": "Kerning",
+        "C": "Tracking",
+        "D": "Baseline"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kerning is the adjustment of space between two specific characters to improve their visual appearance and readability. Tracking adjusts the spacing evenly across a range of characters."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What is the primary function of a 'visual hierarchy' in a design?",
+      "options": {
+        "A": "To use as many different fonts as possible",
+        "B": "To guide the viewer's eye through the content in order of importance",
+        "C": "To make all elements equally prominent",
+        "D": "To reduce the overall size of the design"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Visual hierarchy arranges elements in a way that implies importance, guiding the viewer's eye through the design from the most important information to the least."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "A client wants a vibrant, energetic design for a children's product. Which color palette would be most appropriate?",
+      "options": {
+        "A": "Monochromatic cool colors",
+        "B": "Muted earth tones",
+        "C": "Bright, contrasting primary and secondary colors",
+        "D": "Dark, desaturated colors"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bright, contrasting primary and secondary colors (like reds, yellows, blues, greens) are typically associated with energy, playfulness, and appeal to children."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "What does 'negative space' (or white space) contribute to a design?",
+      "options": {
+        "A": "It always means there's missing content.",
+        "B": "It creates clutter and confusion.",
+        "C": "It helps define and emphasize positive space, improving readability and focus.",
+        "D": "It is only used in minimalist designs."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Negative space is the empty area around and between design elements. It's crucial for giving elements room to breathe, improving readability, creating emphasis, and adding sophistication."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "When considering the target audience for a design, why is it important to understand their demographics and psychographics?",
+      "options": {
+        "A": "To make the design as generic as possible.",
+        "B": "To tailor the visual language, messaging, and overall aesthetic to resonate with them.",
+        "C": "To limit the reach of the design to a small group.",
+        "D": "To ensure the design is only understood by experts."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Understanding demographics (age, gender, income) and psychographics (values, interests, lifestyle) allows a designer to create a design that effectively communicates and appeals directly to the intended audience."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "A designer is asked to create a series of social media posts that look cohesive and part of a single campaign. Which design principle is most relevant to achieve this consistency?",
+      "options": {
+        "A": "Contrast",
+        "B": "Variety",
+        "C": "Unity/Harmony",
+        "D": "Movement"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Unity or harmony ensures that all elements of a design work together to create a cohesive and visually pleasing whole, making different posts feel like part of the same campaign."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "What is the primary difference between raster and vector images?",
+      "options": {
+        "A": "Raster images are always smaller in file size.",
+        "B": "Vector images are made of pixels, raster images are made of mathematical paths.",
+        "C": "Raster images lose quality when scaled, vector images do not.",
+        "D": "Vector images are only used for photographs."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Raster images (like photos) are composed of pixels and become pixelated when scaled up. Vector images (like logos) are composed of mathematical paths and can be scaled infinitely without loss of quality."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "In color theory, what are 'analogous colors'?",
+      "options": {
+        "A": "Colors directly opposite each other on the color wheel.",
+        "B": "Colors that are side-by-side on the color wheel and share a common hue.",
+        "C": "Colors that are all derived from the same single hue.",
+        "D": "Colors that create a strong sense of tension and vibrancy."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Analogous colors are groups of three colors that are next to each other on the color wheel, sharing a common color, and are often found in nature, creating serene and comfortable designs."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "To start a new design in Canva, which option would you typically select first?",
+      "options": {
+        "A": "Upload",
+        "B": "Templates",
+        "C": "Elements",
+        "D": "Text"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "While you can start with a blank canvas, Canva primarily encourages starting with a template to quickly create professional-looking designs."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Which of these is a common way to add text to your design in Canva?",
+      "options": {
+        "A": "Dragging an image into the text box",
+        "B": "Clicking on the 'Text' tab in the left sidebar",
+        "C": "Right-clicking anywhere on the canvas",
+        "D": "Using the 'Uploads' section"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'Text' tab in Canva's left sidebar provides options to add headings, subheadings, body text, and pre-designed text combinations."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "What is the main advantage of using Canva's pre-designed templates?",
+      "options": {
+        "A": "They prevent any customization.",
+        "B": "They ensure your design looks exactly like everyone else's.",
+        "C": "They provide a professional starting point and save time.",
+        "D": "They can only be used for personal projects."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Canva templates offer professionally designed layouts, graphics, and text, allowing users to quickly create high-quality designs by simply customizing the content."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "How can you change the background color of a design in Canva?",
+      "options": {
+        "A": "By clicking on the 'Elements' tab",
+        "B": "By selecting the background and using the color picker in the toolbar",
+        "C": "By dragging a photo from your uploads onto the canvas",
+        "D": "By pressing the 'Delete' key"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "When the background is selected (or nothing is selected), a color picker option appears in the toolbar at the top, allowing you to choose a new background color or gradient."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Which file format is generally best for downloading a Canva design for sharing on social media while maintaining good quality and a small file size?",
+      "options": {
+        "A": "PDF Print",
+        "B": "SVG",
+        "C": "JPG or PNG",
+        "D": "MP4 Video"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "JPG is good for photos with continuous tones, and PNG is excellent for graphics with transparency or sharp edges, both offering good quality and reasonable file size for web/social media."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "What does the 'Elements' tab in Canva allow you to add to your design?",
+      "options": {
+        "A": "Only text boxes",
+        "B": "Photos from your computer",
+        "C": "Shapes, lines, icons, illustrations, and frames",
+        "D": "Pre-designed full page layouts"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Elements' tab is a vast library of graphic assets, including shapes, lines, frames, stickers, charts, and more, to enhance your designs."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "To resize an image proportionally in Canva, you should drag it from which part?",
+      "options": {
+        "A": "The middle of any side",
+        "B": "Any corner handle",
+        "C": "The center of the image",
+        "D": "The top edge only"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dragging from a corner handle allows you to resize an object proportionally, maintaining its aspect ratio. Dragging from a side handle will stretch or squash the image."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "If you want to quickly duplicate an element on your Canva design, which shortcut key or action can you use?",
+      "options": {
+        "A": "Shift + Click",
+        "B": "Ctrl/Cmd + D (or Alt/Option + Drag)",
+        "C": "Ctrl/Cmd + X",
+        "D": "Delete key"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ctrl/Cmd + D is the standard shortcut for duplicating selected elements in Canva. Alternatively, holding Alt/Option and dragging an element also duplicates it."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Which feature in Canva allows you to upload your own images, videos, and audio files?",
+      "options": {
+        "A": "Templates",
+        "B": "Elements",
+        "C": "Uploads",
+        "D": "Photos"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Uploads' tab is where users can bring in their own media files from their computer to use in their Canva designs."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "When working with layers in Canva, what does the 'Position' tool allow you to do?",
+      "options": {
+        "A": "Change the color of an element",
+        "B": "Send elements forward or backward in the stacking order",
+        "C": "Rotate an element",
+        "D": "Group multiple elements together"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Position' tool in Canva allows you to arrange elements relative to each other (e.g., 'Bring forward', 'Send backward') and align them on the page."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "You've added a photo to your Canva design, but it's too dark. Which option in the toolbar would you use to fix this?",
+      "options": {
+        "A": "Crop",
+        "B": "Flip",
+        "C": "Edit Image (Adjust)",
+        "D": "Animate"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'Edit Image' option (formerly 'Effects' or 'Adjust') provides tools for brightness, contrast, saturation, and other photo adjustments."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "What is the primary function of the 'Group' feature in Canva?",
+      "options": {
+        "A": "To animate multiple elements simultaneously.",
+        "B": "To lock elements in place so they cannot be moved.",
+        "C": "To treat multiple selected elements as a single object for easier manipulation.",
+        "D": "To change the color of all selected elements at once."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Grouping combines multiple elements so they can be moved, resized, or rotated together as one unit, simplifying the design process."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "A designer wants to create a consistent look for a series of social media posts using Canva. What is the most efficient way to ensure all posts have the same font styles and brand colors?",
+      "options": {
+        "A": "Manually select fonts and colors for each post.",
+        "B": "Use the 'Brand Kit' feature (Canva Pro) or save a template with brand elements.",
+        "C": "Download and re-upload each post to match.",
+        "D": "Only use Canva's default font and color options."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The 'Brand Kit' (Canva Pro feature) allows you to set brand colors, fonts, and logos for quick access and consistent application across all designs. For free users, creating a custom template with these elements is the best approach."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "You've finished a design in Canva and want to share it with a colleague for review before finalizing. What is the most appropriate sharing option?",
+      "options": {
+        "A": "Download as JPG and email it.",
+        "B": "Use the 'Share' button and invite them to 'edit' or 'comment'.",
+        "C": "Print it out and show them.",
+        "D": "Download as PDF and upload to a cloud service."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Canva's 'Share' feature allows direct collaboration, enabling colleagues to view, comment, or even edit the design directly within Canva, streamlining the feedback process."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "What is the primary benefit of using 'frames' in Canva?",
+      "options": {
+        "A": "They add a border around the entire design.",
+        "B": "They allow you to easily crop images into specific shapes.",
+        "C": "They are only for decorative purposes and don't hold images.",
+        "D": "They automatically animate your images."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Frames are placeholder shapes into which you can drag and drop images. The image automatically crops to fit the shape of the frame, providing a quick way to create interesting image layouts."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Which option in Canva would you use to remove the background from an uploaded image?",
+      "options": {
+        "A": "Crop tool",
+        "B": "Filter tool",
+        "C": "Background Remover (under Edit Image)",
+        "D": "Transparency slider"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "The 'Background Remover' tool, found under 'Edit Image' (often a Canva Pro feature), uses AI to automatically detect and remove the background from subjects in your photos."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "You want to ensure your text is perfectly aligned to the center of your page in Canva. After selecting the text, which option would you use?",
+      "options": {
+        "A": "Drag it manually until it looks right.",
+        "B": "Use the 'Position' tool and select 'Center' and 'Middle'.",
+        "C": "Right-click and choose 'Align Horizontally'.",
+        "D": "Press the Spacebar multiple times."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Position' tool provides precise alignment options, including 'Center' (horizontal) and 'Middle' (vertical) relative to the page or selected group."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "What is the primary function of Canva's 'Brand Kit' feature (Canva Pro)?",
+      "options": {
+        "A": "To create new brand logos automatically.",
+        "B": "To store and apply brand colors, fonts, and logos across all your designs.",
+        "C": "To analyze your brand's market performance.",
+        "D": "To connect your Canva account to social media."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The Brand Kit allows users to upload their brand logo, set brand colors, and choose brand fonts, making it easy to maintain brand consistency across all designs with a single click."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "When customizing a template in Canva, what should be your first consideration after choosing a template?",
+      "options": {
+        "A": "Changing all colors to black and white.",
+        "B": "Replacing placeholder text and images with your own content.",
+        "C": "Deleting half of the elements to simplify it.",
+        "D": "Printing it immediately to check quality."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The most effective way to customize a template is to first replace its generic content with your specific text, images, and data, then adjust styling as needed."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Which Canva feature allows multiple users to work on the same design simultaneously?",
+      "options": {
+        "A": "Download as PDF",
+        "B": "Version History",
+        "C": "Share and Collaborate",
+        "D": "Magic Resize"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Canva's 'Share' option allows you to invite others to 'edit' or 'comment' on your design, facilitating real-time collaboration."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "What is the purpose of using 'grids' and 'frames' in advanced Canva designs?",
+      "options": {
+        "A": "To restrict image placement.",
+        "B": "To organize images and maintain a consistent layout effortlessly.",
+        "C": "To add a watermark to your images.",
+        "D": "They are purely decorative and have no functional purpose."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grids and frames are excellent for creating structured layouts for multiple images, ensuring visual consistency and making it easy to swap images while maintaining the design integrity."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "A designer needs to create a presentation in Canva, and they want elements to appear with a subtle entrance effect. Which feature would they use?",
+      "options": {
+        "A": "Filters",
+        "B": "Background Remover",
+        "C": "Animate",
+        "D": "Crop"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'Animate' feature in Canva allows you to add various motion effects to elements or entire pages, making presentations more dynamic."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "If you want to apply the exact same formatting (font, size, color) from one text box to another in Canva, what is the most efficient way?",
+      "options": {
+        "A": "Manually copy and paste each attribute.",
+        "B": "Use the 'Copy Style' (paint roller) tool.",
+        "C": "Delete the old text box and create a new one.",
+        "D": "There is no such feature; you have to do it manually."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Copy Style' tool (represented by a paint roller icon) allows you to quickly copy the formatting of one element and apply it to another, saving time and ensuring consistency."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "What is the benefit of using 'Layers' panel (Canva Pro) when designing complex graphics?",
+      "options": {
+        "A": "It only shows hidden elements.",
+        "B": "It allows for precise selection, organization, and manipulation of individual elements, especially when they overlap.",
+        "C": "It automatically groups all elements together.",
+        "D": "It generates new elements for your design."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The Layers panel gives you a clear overview of all elements in your design, allowing you to easily select, reorder, lock, or hide specific elements, which is crucial for complex compositions."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "A small business owner wants to create a consistent look for their social media posts, stories, and banners. How can Canva's 'Magic Resize' (Canva Pro) feature help them?",
+      "options": {
+        "A": "It automatically generates new content for different platforms.",
+        "B": "It resizes a design to multiple dimensions for different platforms with one click.",
+        "C": "It optimizes images for faster loading times.",
+        "D": "It changes the color palette of the design."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Magic Resize allows you to instantly transform a single design into various formats (e.g., Instagram post to story to Facebook banner) without manually adjusting each element, saving significant time."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "When designing for print using Canva, why is it important to consider 'bleed'?",
+      "options": {
+        "A": "Bleed adds a decorative border to the design.",
+        "B": "Bleed ensures that no white edges appear after trimming the print material.",
+        "C": "Bleed is only for digital designs and not for print.",
+        "D": "Bleed reduces the file size of the design."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bleed is the extra margin around your design that gets trimmed off. It ensures that any background colors or images extend to the very edge of the printed page without showing white margins if the cut isn't perfectly precise."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "What is the primary benefit of using a 'Style' (Canva Pro) in your design?",
+      "options": {
+        "A": "It automatically generates new design ideas.",
+        "B": "It applies a cohesive set of fonts, colors, and photo filters to your entire design with one click.",
+        "C": "It locks elements to prevent accidental changes.",
+        "D": "It compresses the design file size."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Canva Styles allow you to quickly apply pre-defined or custom combinations of font pairings and color palettes to your design, ensuring a unified and professional look across all elements."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "You want to create a gradient background in Canva. Which section would you look for this option?",
+      "options": {
+        "A": "Text effects",
+        "B": "Backgrounds tab",
+        "C": "Elements (shapes with gradient fill)",
+        "D": "Only possible with uploaded images"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Backgrounds' tab in Canva offers a variety of solid colors, patterns, images, and also gradient options that can be applied to the entire canvas."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "When creating a multi-page document in Canva (e.g., a brochure), what is the most efficient way to maintain consistent branding across all pages?",
+      "options": {
+        "A": "Copy and paste elements from page to page manually.",
+        "B": "Use the 'Apply to all pages' option for background or master elements, and utilize Brand Kit settings.",
+        "C": "Start each page as a completely new design.",
+        "D": "Download each page separately and combine them later."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Canva allows you to apply backgrounds or certain elements to all pages. Combined with a well-configured Brand Kit, this ensures consistency across multi-page documents."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "What is the purpose of the 'Smart Mockups' feature (Canva Pro) in the 'Edit Image' panel?",
+      "options": {
+        "A": "To create realistic mockups of your designs on products or screens.",
+        "B": "To automatically generate new images based on your text.",
+        "C": "To remove unwanted objects from your photos.",
+        "D": "To add filters and effects to your text."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Smart Mockups allow you to place your design onto various real-world objects (e.g., t-shirts, phones, posters) to visualize how it would look in context, which is great for presentations and portfolios."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "If you want to add a shadow effect to a text box in Canva, where would you find this option?",
+      "options": {
+        "A": "Under the 'Animate' tab",
+        "B": "In the 'Effects' option when the text box is selected",
+        "C": "Through the 'Backgrounds' tab",
+        "D": "It's not possible to add shadows to text."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "When a text box is selected, the 'Effects' option in the toolbar offers various text effects, including 'Shadow', 'Lift', 'Hollow', etc."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "A designer is creating an infographic in Canva and needs to visually represent data. Which Canva feature would be most useful?",
+      "options": {
+        "A": "Photo filters",
+        "B": "Charts and Graphs under 'Elements'",
+        "C": "Text styles",
+        "D": "Video editor"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Canva offers a variety of customizable charts and graphs (bar, pie, line, etc.) within the 'Elements' tab, which are perfect for visualizing data in infographics and presentations."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is the primary advantage of downloading a Canva design as an 'SVG' file (Canva Pro)?",
+      "options": {
+        "A": "It creates a video file.",
+        "B": "It is a vector format, allowing infinite scalability without loss of quality.",
+        "C": "It's only for printing on fabric.",
+        "D": "It compresses images heavily for web use."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "SVG (Scalable Vector Graphics) is a vector image format, meaning it's resolution-independent and can be scaled to any size without becoming pixelated, ideal for logos and illustrations."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "When collaborating on a Canva design, what is the 'Version History' feature (Canva Pro) primarily used for?",
+      "options": {
+        "A": "To see who has viewed the design.",
+        "B": "To revert to previous versions of the design and track changes.",
+        "C": "To automatically update the design with new content.",
+        "D": "To share the design with a wider audience."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Version History allows you to view past edits, see who made them, and restore previous versions of your design, which is invaluable for collaborative projects and undoing extensive changes."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which type of graphics is CorelDRAW primarily designed to create and edit?",
+      "options": {
+        "A": "Raster graphics",
+        "B": "Vector graphics",
+        "C": "3D animations",
+        "D": "Video files"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CorelDRAW is a vector graphics editor, meaning it works with mathematical paths and points, allowing for scalable designs without loss of quality."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "In CorelDRAW, what is the primary function of the 'Pick Tool'?",
+      "options": {
+        "A": "To draw freehand lines.",
+        "B": "To select, position, or transform objects.",
+        "C": "To fill objects with color.",
+        "D": "To zoom in on the canvas."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The Pick Tool (often the first tool in the toolbox) is fundamental for selecting objects, moving them, resizing, rotating, and skewing them."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "What is the default file extension for a CorelDRAW document?",
+      "options": {
+        "A": ".JPG",
+        "B": ".PDF",
+        "C": ".CDR",
+        "D": ".AI"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": ".CDR stands for CorelDRAW file, which is the native file format for CorelDRAW documents."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Which panel in CorelDRAW typically displays properties and settings for the currently selected tool or object?",
+      "options": {
+        "A": "Toolbox",
+        "B": "Status Bar",
+        "C": "Property Bar",
+        "D": "Docker"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Property Bar (usually at the top, below the menu bar) contextually changes to show options relevant to the active tool or selected object, such as fill, outline, font, size, etc."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "To draw a perfect circle or square in CorelDRAW using the Ellipse or Rectangle tool, which key should you hold down while dragging?",
+      "options": {
+        "A": "Alt",
+        "B": "Ctrl",
+        "C": "Shift",
+        "D": "Tab"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Holding down the Shift key while drawing with shape tools (Rectangle, Ellipse, Polygon) constrains the proportions, creating perfect squares or circles."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "What is the difference between 'Fill' and 'Outline' in CorelDRAW?",
+      "options": {
+        "A": "Fill is for text, Outline is for shapes.",
+        "B": "Fill is the interior color of an object, Outline is the border color and thickness.",
+        "C": "Fill is only for raster images, Outline is for vector graphics.",
+        "D": "They are the same thing, just different names."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fill refers to the color or pattern applied to the inside area of a closed object, while Outline refers to the color, thickness, and style of the border around the object."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Which tool in CorelDRAW is used to create freehand curves and straight lines by clicking to add nodes?",
+      "options": {
+        "A": "Rectangle tool",
+        "B": "Text tool",
+        "C": "Bezier tool",
+        "D": "Zoom tool"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Bezier tool allows for precise drawing by letting you place nodes and manipulate curve segments between them, which is fundamental for creating complex vector shapes."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "What does 'Snapping to Objects' do in CorelDRAW?",
+      "options": {
+        "A": "It automatically changes the color of objects.",
+        "B": "It helps align objects precisely by 'snapping' them to guides, other objects, or page elements.",
+        "C": "It takes a screenshot of the design.",
+        "D": "It locks objects in place permanently."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Snapping is a crucial feature for precision, automatically aligning objects to specific points or edges of other objects, guides, or the document grid."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "To change the size of a page or document in CorelDRAW, which menu or panel would you typically use?",
+      "options": {
+        "A": "File > Save As",
+        "B": "Layout > Page Setup",
+        "C": "View > Zoom",
+        "D": "Tools > Options"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Layout' menu, specifically 'Page Setup' or 'Document Options', is where you define the dimensions, orientation, and other properties of your document page."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "If you want to apply a gradient fill to an object in CorelDRAW, which tool or docker would you use?",
+      "options": {
+        "A": "Text tool",
+        "B": "Interactive Fill tool",
+        "C": "Shape tool",
+        "D": "Eraser tool"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Interactive Fill tool allows you to apply and adjust various types of fills, including uniform, fountain (gradient), pattern, and texture fills, directly on the canvas."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "What is the function of the 'Shape Tool' in CorelDRAW?",
+      "options": {
+        "A": "To draw new basic shapes like circles and squares.",
+        "B": "To edit the nodes and segments of curves and objects.",
+        "C": "To fill objects with color.",
+        "D": "To rotate objects."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Shape Tool is used to manipulate the nodes (anchor points) on a curve or object, allowing you to reshape paths and fine-tune their appearance."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Which shortcut key is commonly used to 'Group' selected objects in CorelDRAW?",
+      "options": {
+        "A": "Ctrl + Z",
+        "B": "Ctrl + G",
+        "C": "Ctrl + S",
+        "D": "Ctrl + P"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ctrl + G is the standard shortcut to group multiple selected objects into a single unit, making them easier to move, scale, and manipulate together."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "A designer wants to create a precise, symmetrical shape in CorelDRAW. Which feature would be most helpful after drawing one half of the shape?",
+      "options": {
+        "A": "Freehand tool",
+        "B": "Mirror/Duplicate tool or command",
+        "C": "Smudge tool",
+        "D": "Eraser tool"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Drawing one half and then mirroring/duplicating it and combining the two halves is a common and efficient technique for creating perfectly symmetrical shapes in vector software."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "What does 'Ordering' objects mean in CorelDRAW?",
+      "options": {
+        "A": "Changing their color.",
+        "B": "Arranging objects in a specific stacking order (front to back).",
+        "C": "Placing objects on a grid.",
+        "D": "Giving objects unique names."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ordering refers to adjusting the layering of objects on the canvas, determining which objects appear on top of or behind others. This is done via the 'Object' menu or right-click options."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "When creating a new document in CorelDRAW, why is it important to set the correct 'Primary color mode' (RGB or CMYK) from the start?",
+      "options": {
+        "A": "It only affects the file size.",
+        "B": "It ensures color consistency whether the design is for screen (RGB) or print (CMYK).",
+        "C": "It changes the interface language.",
+        "D": "It determines the default font for the document."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Setting the correct color mode early prevents potential color shifts when converting from RGB (digital) to CMYK (print) later, ensuring more accurate color reproduction."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Which feature in CorelDRAW helps designers create intricate patterns or designs by automatically repeating and transforming objects?",
+      "options": {
+        "A": "Simple copy-paste",
+        "B": "Step and Repeat (Transformations docker)",
+        "C": "Crop tool",
+        "D": "Transparency tool"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The 'Step and Repeat' feature, typically found in the 'Transformations' docker, allows users to create multiple copies of an object with precise offsets, rotations, and scaling, ideal for patterns."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "What is the primary function of the 'Outline Pen' dialog box in CorelDRAW?",
+      "options": {
+        "A": "To draw freehand lines with various styles.",
+        "B": "To customize the properties of an object's outline, such as thickness, color, and style.",
+        "C": "To convert outlines into fillable shapes.",
+        "D": "To create new types of pens for drawing."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Outline Pen dialog box provides comprehensive controls for an object's outline, including width, color, line style, corner style, and arrowheads."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Which of the following describes a key characteristic of vector graphics?",
+      "options": {
+        "A": "They are composed of pixels.",
+        "B": "They lose quality when scaled up.",
+        "C": "They are resolution-independent and scalable without quality loss.",
+        "D": "They are best for detailed photographic images."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Vector graphics are based on mathematical equations defining lines, curves, and shapes, allowing them to be scaled to any size without pixelation or loss of quality."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "In CorelDRAW, what is a 'node' in the context of vector paths?",
+      "options": {
+        "A": "A point where two objects intersect.",
+        "B": "A control point on a curve or line that can be manipulated to change its shape.",
+        "C": "A type of fill applied to an object.",
+        "D": "A predefined shape from the toolbox."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nodes are the anchor points on a vector path. By manipulating these nodes and their control handles, you can precisely adjust the shape of lines and curves."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Which CorelDRAW tool would you use to combine two overlapping objects into a single, unified shape?",
+      "options": {
+        "A": "Trim",
+        "B": "Intersect",
+        "C": "Weld",
+        "D": "Simplify"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Weld' command (under the 'Objects' menu or Property Bar) merges two or more selected objects into a single object, dissolving any overlapping areas."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "What is 'Artistic Text' in CorelDRAW primarily used for?",
+      "options": {
+        "A": "Large blocks of text (paragraphs).",
+        "B": "Headlines, logos, or short lines of text that require specific formatting and manipulation.",
+        "C": "Creating tables of content.",
+        "D": "Automatically generating text."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Artistic Text is ideal for short text strings like headlines, titles, or single words, where you need precise control over individual character formatting, scaling, and placement."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "To precisely align multiple objects along their centers or edges in CorelDRAW, which feature would you use?",
+      "options": {
+        "A": "Freehand drawing",
+        "B": "Align and Distribute docker",
+        "C": "Color Palette",
+        "D": "Crop tool"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Align and Distribute' docker provides powerful tools to arrange selected objects relative to each other, the page, or custom points, ensuring precise alignment and spacing."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "What is the result of using the 'Trim' command on two overlapping objects in CorelDRAW?",
+      "options": {
+        "A": "Both objects are deleted.",
+        "B": "The front object cuts a hole in the back object.",
+        "C": "A new object is created from the overlapping area.",
+        "D": "The back object cuts a hole in the front object."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "When you 'Trim' with two objects selected, the object designated as the 'trimmer' cuts away the overlapping portion of the 'trimmed' object, effectively creating a hole or removing part of it."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Which CorelDRAW tool allows you to add, delete, or convert nodes on a curve?",
+      "options": {
+        "A": "Pick Tool",
+        "B": "Shape Tool",
+        "C": "Zoom Tool",
+        "D": "Text Tool"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The Shape Tool is specifically designed for node editing, allowing you to manipulate the individual points that define a vector path."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "A designer wants to fit a block of text within a specific boundary in CorelDRAW for a brochure. Which type of text should they use?",
+      "options": {
+        "A": "Artistic Text",
+        "B": "Paragraph Text",
+        "C": "Calligraphic Text",
+        "D": "Symbol Text"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paragraph Text (or Frame Text) is used for larger bodies of text where word wrapping and flowing text within a defined frame are important, such as in brochures, articles, or books."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "What is the purpose of 'PowerClip' in CorelDRAW?",
+      "options": {
+        "A": "To animate objects.",
+        "B": "To place one or more objects inside another object (a container).",
+        "C": "To create a 3D effect on objects.",
+        "D": "To automatically adjust text to fit a path."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "PowerClip allows you to place objects (like images or other vector graphics) inside a container object, effectively masking them to the shape of the container. This is very useful for complex layouts."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Which CorelDRAW feature allows you to distort an object by dragging its corners or sides, similar to a perspective effect?",
+      "options": {
+        "A": "Rotate",
+        "B": "Scale",
+        "C": "Skew",
+        "D": "Envelope Tool"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "The Envelope Tool allows you to apply a shape to an object, distorting it by dragging the nodes on the envelope boundary, which can create perspective or other complex shape distortions."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "You have a complex vector illustration in CorelDRAW and want to simplify its paths by reducing the number of nodes. Which tool or command would you use?",
+      "options": {
+        "A": "Smooth tool",
+        "B": "Smudge tool",
+        "C": "Roughen tool",
+        "D": "Twirl tool"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "The 'Smooth' tool (often found nested with the Shape Tool) allows you to reduce the number of nodes on a curve, making it smoother and simplifying its path, which can reduce file size and complexity."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "What is the benefit of 'Convert Outline to Object' in CorelDRAW?",
+      "options": {
+        "A": "It removes the outline from an object.",
+        "B": "It turns a thin outline into a fillable shape, allowing for more complex manipulation.",
+        "C": "It changes the color of the outline.",
+        "D": "It makes the outline transparent."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Converting an outline to an object transforms the stroke into a closed shape that can then have its own fill and outline, enabling more advanced design possibilities, especially for logos and custom typography."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Which CorelDRAW tool is best suited for drawing symmetrical shapes like stars, polygons, or complex spirals with adjustable parameters?",
+      "options": {
+        "A": "Freehand tool",
+        "B": "Polygon tool (under Basic Shapes)",
+        "C": "Bezier tool",
+        "D": "Artistic Media tool"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CorelDRAW's Polygon tool and its nested tools (Star, Complex Star, Spiral) are designed to create these geometric and symmetrical shapes easily, with options to adjust the number of sides, points, and other parameters."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "What does 'Break Apart' do to a grouped object in CorelDRAW?",
+      "options": {
+        "A": "It deletes all objects in the group.",
+        "B": "It separates the grouped objects back into individual, editable objects.",
+        "C": "It changes the color of the group.",
+        "D": "It locks the group in place."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'Break Apart' (or 'Ungroup') command reverses the grouping action, allowing you to select and modify individual objects that were previously part of a group."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "When designing a logo in CorelDRAW, why is it crucial to keep the design as a vector graphic?",
+      "options": {
+        "A": "Vector files are always smaller.",
+        "B": "It allows the logo to be scaled to any size (from a business card to a billboard) without pixelation.",
+        "C": "Vector graphics have more vibrant colors.",
+        "D": "It makes the logo compatible with Canva."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Logos must be versatile. Being a vector allows them to be scaled up for large signs or down for tiny app icons without losing clarity or sharpness, which is impossible with raster images."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "If you want to apply a bitmap image (like a photo) as a textured fill to a vector shape in CorelDRAW, which fill type would you choose?",
+      "options": {
+        "A": "Uniform fill",
+        "B": "Fountain fill",
+        "C": "Pattern fill (bitmap pattern)",
+        "D": "Texture fill (vector pattern)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "CorelDRAW allows you to use bitmap images as a 'Pattern fill' for objects, repeating the image to create a textured effect within the shape."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Which file format is generally preferred for printing high-quality documents that include both text and images, ensuring fonts and layouts are preserved?",
+      "options": {
+        "A": "JPG",
+        "B": "PNG",
+        "C": "PDF",
+        "D": "GIF"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "PDF (Portable Document Format) is widely used for print because it embeds fonts and preserves the layout of documents, ensuring they look the same regardless of the viewing device or printer."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "What does 'DPI' stand for in the context of print design, and why is it important?",
+      "options": {
+        "A": "Digital Pixel Index, for web images.",
+        "B": "Dots Per Inch, representing print resolution for image clarity.",
+        "C": "Design Project Identifier, for file naming.",
+        "D": "Document Page Indicator, for page numbering."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "DPI (Dots Per Inch) measures the resolution of a printed image. A higher DPI (e.g., 300 DPI for print) means more detail and a sharper image, while a lower DPI (e.g., 72 DPI for web) results in a blurrier print."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "When preparing a design for web use, what is the main goal regarding image resolution and file size?",
+      "options": {
+        "A": "Maximize resolution and file size for best quality.",
+        "B": "Minimize resolution and maximize file size for faster loading.",
+        "C": "Balance good visual quality with optimized (smaller) file sizes for faster loading.",
+        "D": "Use only vector graphics to avoid resolution issues."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "For web, the goal is to achieve acceptable visual quality at the lowest possible file size to ensure fast loading times, which improves user experience and SEO. This often means 72 PPI (Pixels Per Inch) resolution."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Why is 'bleed' essential when sending a design to a professional printer for items like business cards or brochures?",
+      "options": {
+        "A": "To add a decorative border around the design.",
+        "B": "To ensure that color or images extend to the edge of the paper after trimming, preventing white edges.",
+        "C": "To indicate where text should be placed.",
+        "D": "To increase the contrast of the colors."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Printers cannot print exactly to the edge of a paper. Bleed ensures that there's extra image or background color that can be trimmed off, guaranteeing no unsightly white borders."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Which file format supports transparency and is generally preferred for logos or icons on websites?",
+      "options": {
+        "A": "JPG",
+        "B": "GIF",
+        "C": "PNG",
+        "D": "BMP"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "PNG (Portable Network Graphics) supports full alpha transparency, making it ideal for images with irregular shapes or logos that need to sit on various backgrounds without a white box."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "What is the main purpose of a 'design brief' from a client?",
+      "options": {
+        "A": "To give the designer complete creative freedom with no guidelines.",
+        "B": "To outline the project's goals, target audience, requirements, and constraints.",
+        "C": "To provide the final design immediately.",
+        "D": "To pay the designer for the work."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A design brief is a foundational document that communicates the client's needs and expectations, guiding the designer throughout the project and ensuring alignment."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "When exporting a logo from CorelDRAW for web use, which vector file format would be most appropriate to maintain scalability and small file size?",
+      "options": {
+        "A": "JPG",
+        "B": "PNG",
+        "C": "SVG",
+        "D": "TIFF"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "SVG (Scalable Vector Graphics) is a vector format specifically designed for the web. It maintains crispness at any size and typically has a small file size for simple graphics."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "What is the importance of 'mockups' in presenting designs to clients?",
+      "options": {
+        "A": "They are the final, ready-to-print versions of the design.",
+        "B": "They provide a realistic visualization of how the design will look in its intended real-world context.",
+        "C": "They are used to hide design flaws.",
+        "D": "They serve as legal contracts for the design work."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mockups help clients visualize the design on a product, screen, or in an environment, making it easier for them to understand the concept and provide relevant feedback."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "A designer is preparing a poster for large-format printing (e.g., billboard). What is a critical consideration for image resolution?",
+      "options": {
+        "A": "Use 72 DPI to keep the file size small.",
+        "B": "Ensure all images are at least 300 DPI at final print size for sharp detail.",
+        "C": "Resolution doesn't matter for large prints.",
+        "D": "Only use images downloaded from social media."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "For large-format prints, especially those viewed up close, high resolution (typically 300 DPI) is crucial to prevent pixelation and maintain image clarity. Lower DPI might be acceptable for billboards viewed from a distance, but 300 DPI is the safest bet for general high-quality large format printing."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Why should a designer 'outline fonts' or 'convert text to curves' before sending a CorelDRAW file to a commercial printer?",
+      "options": {
+        "A": "To make the text editable by the printer.",
+        "B": "To reduce the file size of the document.",
+        "C": "To prevent font substitution issues if the printer doesn't have the exact fonts used.",
+        "D": "To enhance the text's color vibrancy."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Converting text to curves (outlines) turns the text into vector shapes. This ensures that the text will appear exactly as designed, even if the printer doesn't have the specific fonts installed, preventing unwanted font substitutions or reflows."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "What is the primary role of a 'portfolio' for a graphic designer?",
+      "options": {
+        "A": "To store all their design files as backup.",
+        "B": "To showcase their best work, skills, and style to potential clients or employers.",
+        "C": "To keep track of their expenses.",
+        "D": "To share personal photos with friends."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A portfolio is a curated collection of a designer's work, serving as a visual resume to demonstrate their capabilities and aesthetic to prospective clients or employers."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "When receiving client feedback, what is the most professional approach for a designer?",
+      "options": {
+        "A": "Ignore all feedback and stick to the original design.",
+        "B": "Implement all feedback without question, even if it compromises the design.",
+        "C": "Listen carefully, ask clarifying questions, and offer professional suggestions for incorporating or adapting feedback.",
+        "D": "Argue with the client about their artistic taste."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Effective client communication involves active listening, understanding the underlying intent of feedback, and collaboratively finding solutions that meet client needs while maintaining design integrity."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Which of these is a good practice for organizing design files and assets for a project?",
+      "options": {
+        "A": "Save all files to the desktop.",
+        "B": "Keep all assets in a single, unorganized folder.",
+        "C": "Create a well-structured folder system with clear naming conventions for assets, versions, and deliverables.",
+        "D": "Delete files once they are used in a design."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Good file management is crucial for efficient workflow, easy retrieval of assets, and collaboration. A structured folder system and consistent naming conventions prevent loss and confusion."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "You need to export a graphic from CorelDRAW that needs to be edited by another designer using Adobe Illustrator. Which file format is generally best for this interoperability?",
+      "options": {
+        "A": "CDR",
+        "B": "JPG",
+        "C": "AI or EPS",
+        "D": "PNG"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "AI (Adobe Illustrator) and EPS (Encapsulated PostScript) are common vector formats that allow for good interoperability between different vector graphics software like CorelDRAW and Illustrator, preserving layers and editability."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "What is the significance of understanding 'color profiles' (e.g., sRGB, Adobe RGB, CMYK profiles) in professional graphic design workflows?",
+      "options": {
+        "A": "They are only relevant for web design, not print.",
+        "B": "They ensure consistent color representation across different devices and during the print process.",
+        "C": "They automatically correct all color errors in an image.",
+        "D": "They are a type of font setting."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Color profiles define a specific range of colors that a device (monitor, printer) can reproduce. Understanding and using them correctly is vital for color management, ensuring that colors appear as intended from screen to print."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "A client requests a revision to a completed design. What is a key aspect of project management that should be considered regarding revisions?",
+      "options": {
+        "A": "Always do unlimited revisions for free.",
+        "B": "Track the number of revisions and ensure they align with the project agreement (e.g., 2 rounds included).",
+        "C": "Charge extra for every single minor change.",
+        "D": "Tell the client revisions are not possible after delivery."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Managing revisions is crucial for profitability and client satisfaction. Most projects include a defined number of revision rounds in the initial agreement, and any additional rounds may incur extra charges, which should be communicated clearly."
+    }
+  ]
+}

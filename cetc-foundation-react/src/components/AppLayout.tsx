@@ -1,82 +1,148 @@
-import { NavLink, Outlet } from 'react-router-dom';
 import { useState } from 'react';
-import { footerBadges, footerColumns, navItems } from '../data/mockupContent';
+import { Link, NavLink, Outlet } from 'react-router-dom';
 
-function AppLayout() {
+export default function AppLayout() {
   const [menuOpen, setMenuOpen] = useState(false);
 
+  const navItems = [
+    { label: 'Home', to: '/' },
+    { label: 'Courses', to: '/courses' },
+    { label: 'Verify', to: '/verify' },
+    { label: 'Partner (AAC)', to: '/partner' },
+    { label: 'About', to: '/about' },
+  ];
+
   return (
-    <div className="site-shell">
-      <header className="site-nav">
-        <NavLink to="/" className="logo">
-          CETC <span>Foundation</span>
-        </NavLink>
+    <>
+      {/* ── Navbar ────────────────────────────────────────── */}
+      <nav className="navbar" id="main-nav">
+        <div className="navbar-inner">
+          <Link to="/" className="nav-brand" id="nav-brand">
+            <div className="nav-brand-icon">CT</div>
+            <div className="nav-brand-text">
+              <span className="nav-brand-name">CETCF</span>
+              <span className="nav-brand-sub">Education · Training · Certification</span>
+            </div>
+          </Link>
 
-        <button
-          type="button"
-          className="menu-toggle"
-          aria-label="Toggle navigation"
-          aria-expanded={menuOpen}
-          onClick={() => setMenuOpen((prev) => !prev)}
-        >
-          <span />
-          <span />
-          <span />
-        </button>
+          <ul className={`nav-links ${menuOpen ? 'open' : ''}`} id="nav-links">
+            {navItems.map((item) => (
+              <li key={item.to}>
+                <NavLink
+                  to={item.to}
+                  className={({ isActive }) => isActive ? 'active' : ''}
+                  onClick={() => setMenuOpen(false)}
+                  end={item.to === '/'}
+                >
+                  {item.label}
+                </NavLink>
+              </li>
+            ))}
+            <li>
+              <Link
+                to="/exam"
+                className="nav-cta"
+                onClick={() => setMenuOpen(false)}
+                id="nav-cta-exam"
+              >
+                🎓 Get Certified
+              </Link>
+            </li>
+          </ul>
 
-        <nav className={`nav-links ${menuOpen ? 'open' : ''}`} aria-label="Main Navigation">
-          {navItems.map((item) => (
-            <NavLink
-              key={item.to}
-              to={item.to}
-              className={({ isActive }) => (isActive ? 'active' : undefined)}
-              end={item.to === '/'}
-              onClick={() => setMenuOpen(false)}
-            >
-              {item.label}
-            </NavLink>
-          ))}
-          <NavLink to="/certifications" className="nav-cta" onClick={() => setMenuOpen(false)}>
-            Enroll Now
-          </NavLink>
-        </nav>
-      </header>
+          <button
+            className="nav-hamburger"
+            onClick={() => setMenuOpen(!menuOpen)}
+            aria-label="Toggle menu"
+            id="nav-hamburger"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+      </nav>
 
-      <main className="page-shell">
+      {/* ── Gold Divider ──────────────────────────────────── */}
+      <div className="gold-rule"></div>
+
+      {/* ── Page Content ──────────────────────────────────── */}
+      <main>
         <Outlet />
       </main>
 
-      <footer className="site-footer">
-        <div className="footer-grid">
-          <div className="footer-brand">
-            <span className="logo">CETC <span>Foundation</span></span>
-            <p className="footer-desc">
-              Council for Education, Training and Certification Foundation. ISO 9001:2015 Certified Assessment Body. Section 8 Company under MCA.
-            </p>
-            <div className="footer-badges">
-              {footerBadges.map((badge) => (
-                <span key={badge}>{badge}</span>
-              ))}
+      {/* ── Footer ────────────────────────────────────────── */}
+      <footer className="footer" id="main-footer">
+        <div className="wrap-lg">
+          <div className="footer-grid">
+            {/* Brand */}
+            <div>
+              <div className="footer-brand-name">CETCF</div>
+              <p className="footer-brand-desc">
+                Council for Education, Training & Certification Foundation.
+                ISO 9001:2015 Certified · Section 8 Company · Thane, Maharashtra.
+                Empowering India's workforce through accessible, government-recognized certifications.
+              </p>
+              <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                <span className="badge badge-foundation" style={{ fontSize: '10px' }}>ISO 9001:2015</span>
+                <span className="badge badge-intermediate" style={{ fontSize: '10px' }}>Section 8 Company</span>
+                <span className="badge badge-advanced" style={{ fontSize: '10px' }}>Govt. Recognized</span>
+              </div>
             </div>
-          </div>
-          {footerColumns.map((column) => (
-            <div key={column.title} className="footer-col">
-              <h4>{column.title}</h4>
+
+            {/* Quick Links */}
+            <div>
+              <h4 className="footer-heading">Quick Links</h4>
               <ul className="footer-links">
-                {column.links.map((link) => (
-                  <li key={link}><span>{link}</span></li>
-                ))}
+                <li><Link to="/">Home</Link></li>
+                <li><Link to="/courses">All Courses</Link></li>
+                <li><Link to="/verify">Verify Certificate</Link></li>
+                <li><Link to="/exam">Take Exam</Link></li>
+                <li><Link to="/partner">Become Partner</Link></li>
               </ul>
             </div>
-          ))}
-        </div>
-        <div className="footer-bottom">
-          <span>{'\u00A9'} 2025 CETC Foundation. All rights reserved.</span>
-          <span>Section 8 Company &bull; CIN: U80903MH2025NPL000000</span>
+
+            {/* Popular Sectors */}
+            <div>
+              <h4 className="footer-heading">Top Sectors</h4>
+              <ul className="footer-links">
+                <li><Link to="/courses?sector=Beauty+%26+Lifestyle">Beauty & Lifestyle</Link></li>
+                <li><Link to="/courses?sector=Digital+%26+Information+Technology">Digital & IT</Link></li>
+                <li><Link to="/courses?sector=Healthcare+%26+Medical+Support">Healthcare</Link></li>
+                <li><Link to="/courses?sector=Electrical+%26+Electronics+Trades">Electrical Trades</Link></li>
+                <li><Link to="/courses?sector=Construction+%26+Building+Trades">Construction</Link></li>
+              </ul>
+            </div>
+
+            {/* Contact */}
+            <div>
+              <h4 className="footer-heading">Contact Us</h4>
+              <ul className="footer-links">
+                <li>📍 Thane, Maharashtra, India</li>
+                <li>📧 info@cetcf.org</li>
+                <li>📞 +91 XXXX XXXX XX</li>
+                <li style={{ marginTop: '12px' }}>
+                  <Link to="/contact" className="btn btn-sm btn-outline" style={{ borderColor: 'rgba(255,255,255,0.2)', color: 'rgba(255,255,255,0.6)' }}>
+                    📩 Send Enquiry
+                  </Link>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          {/* Bottom */}
+          <div className="footer-bottom">
+            <p>
+              © {new Date().getFullYear()} <strong>CETCF</strong> — Council for Education, Training & Certification Foundation. All rights reserved.
+            </p>
+            <div className="footer-legal">
+              <a href="#">Privacy Policy</a>
+              <a href="#">Terms & Conditions</a>
+              <a href="#">Refund Policy</a>
+            </div>
+          </div>
         </div>
       </footer>
-    </div>
+    </>
   );
 }
-
-export default AppLayout;

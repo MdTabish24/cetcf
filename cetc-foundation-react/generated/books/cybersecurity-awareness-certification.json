@@ -1,0 +1,288 @@
+{
+  "course_name": "Cybersecurity Awareness Certification",
+  "sector": "Digital & Information Technology",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_weeks": 8,
+  "total_hours": 120,
+  "hero_description": "Master essential cybersecurity principles and digital safety practices in this foundation-level certification course. Designed for professionals and individuals seeking to protect themselves and their organizations from cyber threats in the Indian digital ecosystem. Gain practical knowledge of threat identification, data protection, and secure online practices applicable across all sectors.",
+  "overview_description": "This comprehensive 8-week program covers fundamental cybersecurity concepts, threat landscapes, password security, malware awareness, phishing prevention, data protection, secure communication, and incident response basics. Participants will learn to identify vulnerabilities, implement security best practices, and develop a security-conscious mindset essential for working in any digital environment in India's rapidly evolving tech sector.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Cybersecurity Fundamentals & Threat Landscape",
+      "week_range": "Week 1-2",
+      "hours": 30,
+      "topics": [
+        "Introduction to Cybersecurity — definition, importance, and evolution in Indian context",
+        "CIA Triad (Confidentiality, Integrity, Availability) — core security principles",
+        "Types of Cyber Threats — malware, ransomware, spyware, trojans, worms explained",
+        "Threat Actors & Motivations — hackers, cybercriminals, nation-states, insiders in India",
+        "Common Attack Vectors — email, web, social engineering, physical threats",
+        "Cybersecurity Statistics in India — current threat landscape and industry data",
+        "Regulatory Framework — GDPR, India's Digital Personal Data Protection Bill, IT Act 2000",
+        "Security Roles & Responsibilities — understanding who protects data in organizations",
+        "Impact of Cyber Attacks — financial, reputational, operational consequences for Indian businesses",
+        "Cybersecurity Awareness Importance — why every employee must understand security"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Authentication, Access Control & Password Security",
+      "week_range": "Week 2-3",
+      "hours": 25,
+      "topics": [
+        "Authentication Basics — what it is and why it matters",
+        "Password Creation Best Practices — length, complexity, character types, avoiding common mistakes",
+        "Password Management Tools — password managers, secure storage, synchronization",
+        "Multi-Factor Authentication (MFA) — 2FA, 3FA, biometric authentication, security keys",
+        "Common Password Mistakes — reusing passwords, sharing credentials, writing down passwords",
+        "Biometric Authentication — fingerprint, facial recognition, iris scanning in Indian banking",
+        "Single Sign-On (SSO) — benefits and risks in enterprise environments",
+        "Access Control Models — role-based, attribute-based, principle of least privilege",
+        "Account Lockout Policies — protecting against brute force attacks",
+        "Password Recovery & Reset — secure procedures in corporate environments",
+        "Mobile Authentication — PIN, pattern, biometric on smartphones used in India"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Malware, Ransomware & Endpoint Security",
+      "week_range": "Week 3-4",
+      "hours": 28,
+      "topics": [
+        "Malware Definition & Types — viruses, worms, trojans, rootkits, adware explained",
+        "Ransomware Attacks — how they work, payment demands, recovery strategies",
+        "Spyware & Adware — tracking, unwanted advertising, data harvesting threats",
+        "Cryptolockers & Encryption-Based Attacks — recent Indian incidents and prevention",
+        "Antivirus & Anti-Malware Software — selection, installation, regular updates",
+        "Endpoint Protection Platform (EPP) — modern defense layers for devices",
+        "Behavioral Analysis & Heuristic Detection — identifying unknown threats",
+        "File Scanning & Quarantine Procedures — safe handling of suspicious files",
+        "USB & Removable Media Risks — preventing malware spread through external devices",
+        "Mobile Malware — threats on Android and iOS devices commonly used in India",
+        "Safe Browsing Practices — avoiding malware-infected websites, drive-by downloads",
+        "Recovery from Malware Infection — steps to clean infected systems"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Phishing, Social Engineering & Email Security",
+      "week_range": "Week 4-5",
+      "hours": 26,
+      "topics": [
+        "Phishing Attacks — definition, methods, and real-world examples from Indian banks",
+        "Email Phishing Red Flags — suspicious sender addresses, urgent language, links analysis",
+        "Spear Phishing — targeted attacks against specific individuals or organizations",
+        "Whaling Attacks — targeting executives and high-value employees in Indian companies",
+        "Social Engineering Tactics — pretexting, baiting, tailgating, quid pro quo",
+        "Vishing & Smishing — voice phishing and SMS-based social engineering in India",
+        "Phishing Simulation & Training — how organizations test employee awareness",
+        "Email Security Best Practices — verification protocols, checking sender addresses",
+        "Attachment Safety — scanning, safe file types, executable file risks",
+        "URL Shorteners & Link Verification — identifying hidden malicious URLs",
+        "Reporting Phishing Emails — internal procedures and national reporting mechanisms",
+        "Business Email Compromise (BEC) — invoice fraud, CEO fraud in Indian organizations"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Data Protection, Privacy & Secure Communication",
+      "week_range": "Week 5-6",
+      "hours": 22,
+      "topics": [
+        "Data Classification — public, internal, confidential, restricted data levels",
+        "Personal Data & PII — identification, handling, protection requirements in India",
+        "Data Encryption — symmetric, asymmetric, end-to-end encryption basics",
+        "HTTPS & SSL/TLS — secure web connections, padlock indicators, certificate validation",
+        "VPN Usage — virtual private networks, benefits, risks, choosing legitimate VPN providers",
+        "Public WiFi Security Risks — unsecured networks, man-in-the-middle attacks",
+        "Secure Messaging — encrypted chat applications, Signal, WhatsApp encryption",
+        "File Encryption — encrypting sensitive documents, bitlocker, device encryption",
+        "Backup & Disaster Recovery — regular backups, off-site storage, recovery procedures",
+        "Data Retention Policies — how long to keep data, secure deletion methods",
+        "Privacy Settings — social media, cloud services, mobile device privacy configuration",
+        "GDPR & India's DPDP Act — compliance requirements for handling personal data"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Incident Response, Security Updates & Continuous Protection",
+      "week_range": "Week 6-8",
+      "hours": 29,
+      "topics": [
+        "Security Incident Definition — what constitutes a security incident, severity levels",
+        "Incident Response Procedures — detection, containment, eradication, recovery",
+        "Reporting Security Incidents — internal escalation paths, documentation requirements",
+        "Password Compromise Response — immediate password change, account monitoring",
+        "Device Compromise Detection — unusual behavior, performance issues, malware signs",
+        "Data Breach Notification — legal requirements, Indian data protection laws",
+        "Forensics Basics — preserving evidence, timeline reconstruction, investigation support",
+        "Software Updates & Patching — importance, scheduling, zero-day vulnerabilities",
+        "Operating System Security — Windows, macOS, Linux security features and hardening",
+        "Browser Security — extensions, plugins, cache clearing, privacy mode usage",
+        "IoT Device Security — smart home devices, printers, cameras in Indian households",
+        "Continuous Security Awareness — staying updated, new threat trends, professional development"
+      ]
+    }
+  ],
+  "assessment": {
+    "theory_marks": 50,
+    "theory_format": "25 Questions x 2 Marks (Multiple Choice, True/False, Short Answer)",
+    "theory_duration": "45 minutes",
+    "practical_marks": 50,
+    "practical_format": "Hands-on security scenarios, threat identification exercises, and security implementation tasks",
+    "practical_items": [
+      {
+        "title": "Threat Identification & Analysis",
+        "description": "Candidate must identify security threats in 5 simulated scenarios (phishing emails, malicious websites, suspicious files, social engineering attempts, network threats) and document findings with recommended actions",
+        "marks": 15
+      },
+      {
+        "title": "Security Configuration & Implementation",
+        "description": "Candidate must configure password policies, enable MFA on a sample account, set up encryption on a device, and document security settings with screenshots and explanations",
+        "marks": 15
+      },
+      {
+        "title": "Incident Response Simulation",
+        "description": "Candidate must respond to a simulated security incident by identifying the threat, containing it, documenting the timeline, and creating an incident report following organizational procedures",
+        "marks": 10
+      },
+      {
+        "title": "Security Awareness Presentation",
+        "description": "Candidate must prepare and deliver a 5-minute presentation on one cybersecurity topic (phishing awareness, password security, malware prevention, or data protection) with visual aids",
+        "marks": 10
+      }
+    ],
+    "total_marks": 100,
+    "pass_percentage": 50
+  },
+  "eligibility": [
+    "Minimum age: 14 years",
+    "Minimum education: Class 8th pass or equivalent",
+    "No prior cybersecurity experience required",
+    "Basic computer literacy and internet access required",
+    "Already working in IT/tech sector? Apply for Recognition of Prior Learning (RPL) exam",
+    "Valid government-issued ID proof (Aadhaar, PAN, Passport) required at registration",
+    "Applicable for all candidates across all sectors and geographies in India"
+  ],
+  "learning_outcomes": [
+    "Understand fundamental cybersecurity concepts, threat landscape, and risk assessment in Indian organizations",
+    "Create and manage strong passwords, implement multi-factor authentication, and control access effectively",
+    "Identify malware, ransomware, and endpoint threats; implement protective measures on devices",
+    "Recognize phishing, social engineering, and email-based attacks; respond appropriately to threats",
+    "Classify data, implement encryption, protect personal information, and ensure secure communication",
+    "Respond to security incidents, maintain system updates, and sustain continuous security awareness practices"
+  ],
+  "career_paths": [
+    {
+      "title": "Information Security Analyst",
+      "type": "Employment",
+      "salary": "25000-45000/mo",
+      "icon": "🔐"
+    },
+    {
+      "title": "Cybersecurity Consultant",
+      "type": "Self-Employment",
+      "salary": "30000-75000/mo",
+      "icon": "💼"
+    },
+    {
+      "title": "IT Security Officer",
+      "type": "Employment",
+      "salary": "35000-60000/mo",
+      "icon": "👮"
+    },
+    {
+      "title": "Security Awareness Trainer",
+      "type": "Employment",
+      "salary": "20000-40000/mo",
+      "icon": "👨‍🏫"
+    },
+    {
+      "title": "Incident Response Specialist",
+      "type": "Employment",
+      "salary": "40000-70000/mo",
+      "icon": "🚨"
+    },
+    {
+      "title": "Cybersecurity Startup Founder",
+      "type": "Entrepreneurship",
+      "salary": "50000-200000+/mo",
+      "icon": "🚀"
+    },
+    {
+      "title": "Security Administrator",
+      "type": "Employment",
+      "salary": "22000-38000/mo",
+      "icon": "⚙️"
+    },
+    {
+      "title": "Compliance & Risk Officer",
+      "type": "Employment",
+      "salary": "30000-55000/mo",
+      "icon": "📋"
+    }
+  ],
+  "exam_fee": 1000,
+  "course_features": [
+    "Comprehensive coverage of cybersecurity fundamentals aligned with international standards",
+    "Real-world Indian case studies and threat scenarios from major incidents",
+    "Interactive practical exercises simulating actual security threats and responses",
+    "Hands-on labs for password management, encryption, and security configuration",
+    "Industry-recognized certification upon successful completion",
+    "Career guidance and job placement support for certified professionals",
+    "Access to updated learning materials reflecting latest threat trends in India",
+    "Flexible online and offline delivery options across India"
+  ],
+  "industry_relevance": [
+    "Applicable across all sectors — banking, finance, healthcare, government, IT, retail, manufacturing",
+    "Meets compliance requirements for organizations handling sensitive data in India",
+    "Supports mandatory cybersecurity awareness training in Indian enterprises",
+    "Aligns with National Cybersecurity Strategy 2020 and Digital India initiatives",
+    "Recognized by NASSCOM, DSCI, and other IT industry bodies in India",
+    "Essential foundation for advancing to advanced cybersecurity certifications"
+  ],
+  "course_duration_breakdown": {
+    "week_1": "Fundamentals & Threat Landscape — 15 hours",
+    "week_2": "Authentication & Password Security — 15 hours",
+    "week_3": "Malware & Endpoint Security (Part 1) — 14 hours",
+    "week_4": "Malware & Endpoint Security (Part 2) + Phishing (Part 1) — 14 hours",
+    "week_5": "Phishing & Social Engineering (Part 2) + Data Protection (Part 1) — 13 hours",
+    "week_6": "Data Protection (Part 2) + Secure Communication — 13 hours",
+    "week_7": "Incident Response & Updates (Part 1) — 14 hours",
+    "week_8": "Incident Response & Updates (Part 2) + Final Revision & Assessment — 15 hours"
+  },
+  "teaching_methodology": [
+    "Interactive classroom lectures with real-world examples from Indian organizations",
+    "Video demonstrations of threat identification and security practices",
+    "Hands-on practical labs using industry-standard tools and platforms",
+    "Phishing simulation exercises and security awareness games",
+    "Case study analysis of major cyber incidents affecting Indian businesses",
+    "Guest lectures from cybersecurity professionals working in India",
+    "Group discussions and peer learning sessions",
+    "Quizzes and formative assessments throughout the course",
+    "Final practical examination and written assessment"
+  ],
+  "tools_and_platforms_covered": [
+    "Password managers (Bitwarden, 1Password, LastPass)",
+    "MFA applications (Google Authenticator, Microsoft Authenticator, Authy)",
+    "Antivirus software (Windows Defender, Kaspersky, Norton)",
+    "VPN services (NordVPN, ExpressVPN, Surfshark)",
+    "Email security tools (Gmail security features, Outlook)",
+    "Encryption tools (VeraCrypt, 7-Zip with AES)",
+    "Browser security extensions (uBlock Origin, HTTPS Everywhere)",
+    "Incident response platforms (basic understanding)",
+    "Security awareness training platforms (Proofpoint, KnowBe4 simulation)"
+  ],
+  "post_certification_support": [
+    "Digital certificate and badge for LinkedIn profile",
+    "Lifetime access to updated course materials and resources",
+    "Monthly cybersecurity awareness newsletter with latest threats",
+    "Access to alumni network and professional community",
+    "Guidance for pursuing advanced certifications (CEH, CISSP, Security+)",
+    "Job portal access with cybersecurity-specific opportunities",
+    "Continued professional development through webinars and workshops",
+    "Discount on advanced courses and specializations"
+  ]
+}

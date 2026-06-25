@@ -1,0 +1,243 @@
+{
+  "course_name": "Laptop & Computer Hardware Repair",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_weeks": 12,
+  "total_hours": 180,
+  "hero_description": "Master the essential skills of laptop and computer hardware repair in just 3 months. This foundation-level course trains you to diagnose, repair, and maintain desktop computers and laptops, opening doors to a high-demand career in India's growing IT hardware service industry. Gain hands-on experience with real components and industry-standard troubleshooting techniques.",
+  "overview_description": "This comprehensive vocational course covers all aspects of computer and laptop hardware repair, from understanding internal components to practical troubleshooting and replacement. You will learn to identify hardware faults, repair motherboards, replace damaged parts, upgrade systems, and provide customer support. The course combines theoretical knowledge with intensive practical training using actual hardware, preparing you for immediate employment in service centers, corporate IT departments, or starting your own repair business.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Computer & Laptop Hardware Fundamentals",
+      "week_range": "Week 1-2",
+      "hours": 30,
+      "topics": [
+        "Introduction to computer systems — desktop vs laptop architecture and key differences",
+        "Motherboard types and components — chipsets, BIOS, CMOS battery functions",
+        "CPU (Processor) types — Intel vs AMD, socket types, thermal management basics",
+        "RAM memory types — DDR3, DDR4, DDR5 specifications and compatibility checking",
+        "Storage devices — HDD vs SSD, SATA vs NVMe, capacity and speed differences",
+        "Power supply units (PSU) — wattage calculation, 80+ ratings, connector types",
+        "Cooling systems — fans, heat sinks, thermal paste application techniques",
+        "Display technologies — LCD, LED, OLED panels, resolution standards, refresh rates",
+        "Input/Output ports — USB 2.0/3.0/3.1, HDMI, DisplayPort, Ethernet specifications",
+        "Safety protocols — ESD (Electrostatic Discharge) prevention, grounding techniques, workspace setup"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Tools, Equipment & Diagnostic Techniques",
+      "week_range": "Week 3-4",
+      "hours": 30,
+      "topics": [
+        "Essential tools for hardware repair — screwdrivers, pliers, tweezers, thermal paste applicators",
+        "Diagnostic equipment — multimeter usage, power supply tester, thermal camera basics",
+        "Computer diagnostic software — CPU-Z, GPU-Z, HWiNFO, Memtest86 usage and interpretation",
+        "BIOS/UEFI navigation — accessing BIOS, reading system information, boot sequence configuration",
+        "Windows diagnostic tools — Device Manager, System Information, Disk Management, Event Viewer",
+        "Linux diagnostic commands — lspci, lsusb, dmesg, top, htop for hardware monitoring",
+        "Temperature monitoring — identifying thermal throttling, normal temperature ranges for components",
+        "Benchmarking tools — 3DMark, Cinebench, Geekbench for performance testing",
+        "Data recovery concepts — understanding file systems, backup importance, recovery limitations",
+        "Documentation and reporting — creating repair logs, customer communication templates, warranty documentation"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Motherboard, CPU & Memory Repairs",
+      "week_range": "Week 5-6",
+      "hours": 30,
+      "topics": [
+        "Motherboard identification — reading model numbers, locating key components, understanding PCB layers",
+        "Common motherboard faults — capacitor failure symptoms, burnt components, liquid damage detection",
+        "CPU installation and removal — socket types, lever mechanisms, thermal paste removal and application",
+        "CPU troubleshooting — overheating detection, compatibility verification, socket damage assessment",
+        "RAM installation procedures — DIMM slot alignment, retention clip usage, dual-channel configuration",
+        "RAM diagnostics — bad memory detection, slot testing methodology, speed verification",
+        "BIOS/CMOS issues — CMOS battery replacement, BIOS reset procedures, password removal techniques",
+        "Liquid damage repair — cleaning motherboards, component inspection, corrosion removal methods",
+        "Soldering basics for hardware repair — cold solder identification, reflowing techniques, safety precautions",
+        "Laptop motherboard specific issues — integrated components, proprietary designs, common failure points"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Storage, Power & Display System Repairs",
+      "week_range": "Week 7-8",
+      "hours": 30,
+      "topics": [
+        "Hard drive diagnostics — S.M.A.R.T. data reading, click of death symptoms, bad sector identification",
+        "Hard drive replacement — data transfer procedures, SATA cable connection, drive compatibility verification",
+        "SSD installation and optimization — NVMe M.2 slot installation, AHCI vs RAID mode, firmware updates",
+        "Power supply testing — voltage output verification, connector integrity checking, fan operation assessment",
+        "PSU replacement procedures — wattage selection, connector compatibility, safety shutdown practices",
+        "Laptop battery issues — battery health checking, replacement procedures, charging circuit troubleshooting",
+        "Display panel replacement — LCD panel removal, cable disconnection, anti-glare coating handling",
+        "Backlight and inverter issues — LED backlight failure symptoms, inverter circuit testing",
+        "Laptop screen hinge repair — loose hinge tightening, cable routing, display connector inspection",
+        "External monitor troubleshooting — resolution settings, driver installation, cable testing for desktop computers"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "System Assembly, Upgrades & Performance Optimization",
+      "week_range": "Week 9-10",
+      "hours": 30,
+      "topics": [
+        "Desktop computer assembly — case selection, component placement, cable management best practices",
+        "Cooling solution installation — air cooler mounting, liquid cooler setup, thermal paste application",
+        "GPU installation — PCIe slot alignment, power connector attachment, driver installation procedures",
+        "Storage expansion — adding secondary drives, RAID configuration basics, partitioning and formatting",
+        "RAM upgrade procedures — compatibility verification, installation technique, dual-channel activation",
+        "Laptop upgrade limitations — soldered vs removable components, proprietary parts identification",
+        "System boot configuration — boot order setting, UEFI vs Legacy BIOS, secure boot management",
+        "Performance optimization — driver updates, background process management, startup program control",
+        "Overclocking basics — safe voltage settings, temperature monitoring, stability testing procedures",
+        "System benchmarking and comparison — performance metrics interpretation, upgrade effectiveness evaluation"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Troubleshooting, Maintenance & Customer Service",
+      "week_range": "Week 11-12",
+      "hours": 30,
+      "topics": [
+        "No power issues — power button testing, PSU fault diagnosis, motherboard power delivery verification",
+        "No display problems — RAM reseating, GPU detection, BIOS beep code interpretation, display cable inspection",
+        "Blue screen of death (BSOD) — error code analysis, driver conflict resolution, hardware incompatibility identification",
+        "Slow performance diagnosis — resource monitoring, malware impact assessment, thermal throttling detection",
+        "Overheating solutions — dust cleaning, thermal paste replacement, cooling fan replacement, airflow improvement",
+        "Noise and vibration issues — fan bearing wear, hard drive failure symptoms, component loose connection detection",
+        "Keyboard and trackpad repair — key replacement, trackpad sensitivity adjustment, connection troubleshooting",
+        "Audio and network issues — driver reinstallation, hardware detection verification, cable and connector testing",
+        "Preventive maintenance — dust cleaning schedules, thermal paste replacement intervals, firmware update procedures",
+        "Customer communication — explaining technical issues in simple terms, warranty terms clarity, repair timeline setting, follow-up service protocols"
+      ]
+    }
+  ],
+  "assessment": {
+    "theory_marks": 50,
+    "theory_format": "25 Questions × 2 Marks each (Multiple Choice & Short Answer)",
+    "theory_duration": "45 minutes",
+    "practical_marks": 50,
+    "practical_format": "Hands-on practical assessment where candidates must complete real hardware repair and diagnostic tasks under supervision",
+    "practical_items": [
+      {
+        "title": "Hardware Component Identification & Installation",
+        "description": "Candidate must correctly identify 10 different hardware components, explain their functions, and successfully install RAM, storage drives, and CPU with proper thermal paste application",
+        "marks": 15
+      },
+      {
+        "title": "Diagnostic & Troubleshooting Task",
+        "description": "Candidate must diagnose a faulty desktop/laptop system using diagnostic software, identify the problem (hardware or software), and provide written repair recommendations with cost estimation",
+        "marks": 15
+      },
+      {
+        "title": "Practical Repair Execution",
+        "description": "Candidate must complete a real repair task such as motherboard replacement, hard drive replacement, RAM upgrade, or display panel replacement with proper documentation and testing",
+        "marks": 20
+      }
+    ],
+    "total_marks": 100,
+    "pass_percentage": 50
+  },
+  "eligibility": [
+    "Minimum age: 14 years (or 18 years for some states)",
+    "Minimum education: Class 8th pass or equivalent",
+    "No prior technical experience required",
+    "Already working in IT hardware field? Apply for RPL (Recognition of Prior Learning) direct exam",
+    "Valid government ID proof required (Aadhaar, PAN, Voter ID, or Passport)",
+    "Medical fitness for handling electronic components and tools",
+    "Open to all candidates regardless of gender, caste, or religion"
+  ],
+  "learning_outcomes": [
+    "Identify and explain functions of all major computer and laptop hardware components with confidence",
+    "Safely diagnose hardware faults using both software tools and physical inspection techniques",
+    "Perform component replacement, installation, and upgrades following industry safety standards",
+    "Apply preventive maintenance procedures to extend hardware lifespan and optimize performance",
+    "Troubleshoot common hardware issues and provide cost-effective repair solutions",
+    "Communicate technical information clearly to customers and maintain professional service documentation"
+  ],
+  "career_paths": [
+    {
+      "title": "Hardware Repair Technician",
+      "type": "Employment",
+      "salary": "15000-30000/month",
+      "icon": "🔧"
+    },
+    {
+      "title": "Service Center Technician",
+      "type": "Employment",
+      "salary": "18000-35000/month",
+      "icon": "🏢"
+    },
+    {
+      "title": "Independent Repair Shop Owner",
+      "type": "Self-Employment",
+      "salary": "25000-60000+/month",
+      "icon": "🏪"
+    },
+    {
+      "title": "Corporate IT Support Technician",
+      "type": "Employment",
+      "salary": "20000-40000/month",
+      "icon": "💼"
+    },
+    {
+      "title": "Mobile & Laptop Repair Entrepreneur",
+      "type": "Entrepreneurship",
+      "salary": "30000-100000+/month",
+      "icon": "📱"
+    },
+    {
+      "title": "Hardware Upgrade Specialist",
+      "type": "Self-Employment",
+      "salary": "12000-25000/month",
+      "icon": "⚡"
+    },
+    {
+      "title": "Data Recovery Technician",
+      "type": "Employment",
+      "salary": "20000-50000/month",
+      "icon": "💾"
+    },
+    {
+      "title": "Warranty Service Center Staff",
+      "type": "Employment",
+      "salary": "16000-32000/month",
+      "icon": "✅"
+    }
+  ],
+  "exam_fee": 1000,
+  "course_highlights": {
+    "practical_focus": "80% practical training with real hardware components and actual repair scenarios",
+    "industry_relevance": "Content aligned with current market demands in Indian IT service sector",
+    "certification_value": "CETCF recognized certificate valid across India for employment and business purposes",
+    "job_ready": "Immediate employability in service centers, corporate IT departments, or independent business setup",
+    "low_investment": "Affordable course fee with high earning potential within 6 months of completion",
+    "flexible_learning": "Weekend and evening batches available in most centers across India"
+  },
+  "tools_and_equipment_provided": [
+    "Screwdriver sets (Phillips, Flathead, Torx)",
+    "Precision pliers and tweezers",
+    "Anti-static wrist strap and mat",
+    "Thermal paste and applicators",
+    "Multimeter for electrical testing",
+    "Real desktop and laptop units for practice",
+    "Spare motherboards, RAM, hard drives, and SSDs",
+    "Display panels and laptop keyboards",
+    "Power supply units for testing",
+    "Diagnostic software licenses",
+    "Safety equipment (gloves, goggles)"
+  ],
+  "additional_benefits": {
+    "job_placement_assistance": "Help with resume preparation and job interviews at partner service centers",
+    "alumni_network": "Access to community of 5000+ certified technicians across India",
+    "skill_upgrade_programs": "Advanced courses in mobile repair, data recovery, and gaming PC building",
+    "business_startup_support": "Guidance on starting independent repair shop with supplier connections",
+    "lifetime_technical_support": "Access to online forums and expert guidance even after course completion",
+    "industry_connections": "Direct contact with major service centers and IT companies for employment"
+  }
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "Home Appliance Repair Technician",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Electrical Concepts & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Hand Tools & Measuring Instruments",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Common Home Appliances - Part 1 (Fans, Irons, Heaters)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Common Home Appliances - Part 2 (Mixer Grinder, Toaster, Kettle)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Refrigeration & AC Basics",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Washing Machines & Microwave Ovens",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Electricity ke flow ko kya kehte hain?",
+      "options": {
+        "A": "Voltage",
+        "B": "Current",
+        "C": "Resistance",
+        "D": "Power"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electricity ke flow, yaani electrons ke flow ko Current kehte hain."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Voltage ki unit kya hai?",
+      "options": {
+        "A": "Ampere",
+        "B": "Ohm",
+        "C": "Volt",
+        "D": "Watt"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Voltage ki unit Volt hai, jo electrical potential difference ko measure karti hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Kisi circuit mein current ke flow ko rokne wali property ko kya kehte hain?",
+      "options": {
+        "A": "Voltage",
+        "B": "Current",
+        "C": "Resistance",
+        "D": "Power"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Resistance woh property hai jo current ke flow ko oppose karti hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Electrical appliances ko short circuit aur overload se bachane ke liye kya use karte hain?",
+      "options": {
+        "A": "Switch",
+        "B": "Bulb",
+        "C": "Fuse",
+        "D": "Capacitor"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Fuse ek safety device hai jo excessive current flow hone par circuit ko break kar deta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Agar kisi ko electric shock lage, toh sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "Pani dalna",
+        "B": "Directly touch karna",
+        "C": "Power supply band karna",
+        "D": "Doctor ko call karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Sabse pehle power supply band karni chahiye taaki victim ko aur shock na lage."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "AC current ki direction kaise hoti hai?",
+      "options": {
+        "A": "Ek hi direction mein",
+        "B": "Periodically change hoti hai",
+        "C": "Randomly change hoti hai",
+        "D": "Koi direction nahi hoti"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Alternating Current (AC) mein current ki direction periodically reverse hoti rehti hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Earthing ka primary purpose kya hai?",
+      "options": {
+        "A": "Bijli bill kam karna",
+        "B": "Appliances ko fast chalana",
+        "C": "Electric shock se bachana",
+        "D": "Wiring ko sundar banana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Earthing ka main purpose faulty conditions mein electrical shock se protection provide karna hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Ek 230V supply par chalne wala 100W ka bulb kitna current draw karega?",
+      "options": {
+        "A": "0.43 Amperes",
+        "B": "2.3 Amperes",
+        "C": "100 Amperes",
+        "D": "230 Amperes"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Power (P) = Voltage (V) x Current (I). So, I = P/V = 100W / 230V = 0.43 Amperes."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "MCB ka full form kya hai?",
+      "options": {
+        "A": "Main Circuit Breaker",
+        "B": "Miniature Circuit Breaker",
+        "C": "Maximum Current Breaker",
+        "D": "Manual Circuit Board"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MCB ka full form Miniature Circuit Breaker hai, jo fuse ki tarah safety provide karta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Electrical work karte samay kaun sa Personal Protective Equipment (PPE) pehenna zaroori hai?",
+      "options": {
+        "A": "Rubber gloves",
+        "B": "Sun glasses",
+        "C": "Leather jacket",
+        "D": "Normal shoes"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Rubber gloves electrical shock se bachane ke liye zaroori hote hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Parallel circuit mein total resistance kaise calculate karte hain?",
+      "options": {
+        "A": "R_total = R1 + R2 + ...",
+        "B": "1/R_total = 1/R1 + 1/R2 + ...",
+        "C": "R_total = R1 x R2",
+        "D": "R_total = R1 / R2"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Parallel circuits mein total resistance ka reciprocal individual resistances ke reciprocals ke sum ke barabar hota hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Ek pure resistive circuit mein Voltage aur Current ke beech kya relation hota hai?",
+      "options": {
+        "A": "Current, Voltage se lead karta hai",
+        "B": "Voltage, Current se lead karta hai",
+        "C": "Voltage aur Current in phase hote hain",
+        "D": "Voltage aur Current out of phase hote hain"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pure resistive circuit mein Voltage aur Current ek hi phase mein hote hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Electrical energy ko measure karne ki unit kya hai?",
+      "options": {
+        "A": "Watt",
+        "B": "Volt",
+        "C": "Kilowatt-hour",
+        "D": "Ampere"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Electrical energy ko Kilowatt-hour (kWh) mein measure kiya jata hai, jo hamare electricity bills mein bhi use hota hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Semiconductor material ka ek example kya hai?",
+      "options": {
+        "A": "Copper",
+        "B": "Gold",
+        "C": "Silicon",
+        "D": "Plastic"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Silicon ek common semiconductor material hai jo electronic components mein use hota hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Electrical wiring mein neutral wire ka color generally kya hota hai?",
+      "options": {
+        "A": "Red",
+        "B": "Black",
+        "C": "Green",
+        "D": "Blue"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Standard wiring codes ke according, neutral wire ka color typically black hota hai (though regional variations exist)."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Capacitor ka main function kya hai?",
+      "options": {
+        "A": "Current produce karna",
+        "B": "Electrical charge store karna",
+        "C": "Resistance badhana",
+        "D": "Voltage reduce karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Capacitor electrical charge ko store karta hai aur circuit mein sudden voltage changes ko stabilize karta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Overheating se bachne ke liye electrical connections ko kaise rakhna chahiye?",
+      "options": {
+        "A": "Loose",
+        "B": "Tight and secure",
+        "C": "Greased",
+        "D": "Exposed"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Loose connections resistance badhate hain aur overheating ka cause ban sakte hain, isliye connections tight aur secure hone chahiye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Electrical wires ko cut aur strip karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Screwdriver",
+        "B": "Pliers",
+        "C": "Wire stripper",
+        "D": "Hammer"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Wire stripper specifically wires ki insulation ko remove aur wires ko cut karne ke liye design kiya gaya hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Multimeter ka kya use hai?",
+      "options": {
+        "A": "Sirf current measure karna",
+        "B": "Sirf voltage measure karna",
+        "C": "Voltage, current aur resistance measure karna",
+        "D": "Temperature measure karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Multimeter ek versatile tool hai jo voltage (AC/DC), current aur resistance ko measure kar sakta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Screws ko tight ya loose karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Pliers",
+        "B": "Wrench",
+        "C": "Screwdriver",
+        "D": "Hammer"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Screwdriver screws ko turn karne ke liye design kiya gaya hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Continuity test karne ke liye multimeter ko kis setting par rakhte hain?",
+      "options": {
+        "A": "Voltage (V)",
+        "B": "Current (A)",
+        "C": "Resistance (Ω) ya continuity mode",
+        "D": "Frequency (Hz)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Continuity test ke liye multimeter ko resistance mode ya dedicated continuity mode par set kiya jata hai, jo ek beep sound se connection show karta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Clamp meter ka primary use kya hai?",
+      "options": {
+        "A": "Resistance measure karna",
+        "B": "Non-contact current measure karna",
+        "C": "Voltage measure karna",
+        "D": "Temperature measure karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clamp meter wires ko disconnect kiye bina current measure karne ke liye use hota hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Insulated tools ka kya fayda hai?",
+      "options": {
+        "A": "Vo zyada durable hote hain",
+        "B": "Vo attractive dikhte hain",
+        "C": "Vo electric shock se protection provide karte hain",
+        "D": "Vo saste hote hain"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Insulated tools electric shock ke risk ko minimize karte hain, specially live circuits par kaam karte samay."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Wires ko ek saath join karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Hammer",
+        "B": "Pliers",
+        "C": "Crimping tool",
+        "D": "Measuring tape"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Crimping tool electrical connectors (lugs/terminals) ko wire par securely attach karne ke liye use hota hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Ek test lamp ka kya function hai?",
+      "options": {
+        "A": "Circuit mein voltage check karna",
+        "B": "Resistance measure karna",
+        "C": "Current measure karna",
+        "D": "Temperature measure karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Test lamp ek simple tool hai jo circuit mein live supply (voltage) ki presence ko indicate karta hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Adjustable wrench ka kya fayda hai?",
+      "options": {
+        "A": "Sirf ek size ke nut ko kholna",
+        "B": "Different sizes ke nuts aur bolts par use ho sakta hai",
+        "C": "Sirf pipes ko tight karna",
+        "D": "Sirf wood par kaam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Adjustable wrench apne jaw size ko adjust kar sakta hai, jiski wajah se yeh multiple sizes ke nuts aur bolts par use ho sakta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Jab multimeter se resistance measure kar rahe hon, toh circuit ko kya karna chahiye?",
+      "options": {
+        "A": "Live rakhna chahiye",
+        "B": "Power off kar dena chahiye",
+        "C": "Current flow hone dena chahiye",
+        "D": "Voltage increase karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Resistance measure karte samay circuit ko de-energize karna zaroori hai, taaki readings accurate milen aur meter ko damage na ho."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Diagonal cutting pliers ka kya use hai?",
+      "options": {
+        "A": "Nuts ko tight karna",
+        "B": "Wires ko kaatna",
+        "C": "Pipes ko pakadna",
+        "D": "Screws ko ghumaana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Diagonal cutting pliers specifically wires aur small cables ko cleanly cut karne ke liye design kiye gaye hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Ek good quality soldering iron ki kya pehchan hai?",
+      "options": {
+        "A": "Heavy weight",
+        "B": "Fast heating aur consistent temperature",
+        "C": "Low power consumption",
+        "D": "Plastic tip"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek achha soldering iron jaldi garam hota hai aur constant temperature maintain karta hai, jo clean joints ke liye zaroori hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Digital multimeter (DMM) analog multimeter se kaise behtar hai?",
+      "options": {
+        "A": "Zyada sasta hota hai",
+        "B": "Zyada accurate readings deta hai",
+        "C": "Battery ki zaroorat nahi hoti",
+        "D": "Sirf AC measure karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Digital multimeters typically analog meters ke मुकाबले zyada accurate aur precise readings dete hain, aur readings padhna bhi asaan hota hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Toolbox ko maintain karne ka best tareeka kya hai?",
+      "options": {
+        "A": "Tools ko randomly phenk dena",
+        "B": "Tools ko saaf aur organize karke rakhna",
+        "C": "Tools ko pani mein dhona",
+        "D": "Tools ko bina safai ke store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools ko saaf aur organize karke rakhna unki lifespan badhata hai aur kaam ke dauran unhe dhoondhna asaan banata hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Ek wire gauge ka kya purpose hai?",
+      "options": {
+        "A": "Wire ki length measure karna",
+        "B": "Wire ka diameter measure karna",
+        "C": "Wire ka material check karna",
+        "D": "Wire ka color check karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wire gauge (jaise AWG - American Wire Gauge) wire ke thickness ya diameter ko determine karne ke liye use hota hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Safety glasses ya goggles kyun pehenne chahiye electrical work karte samay?",
+      "options": {
+        "A": "Fashion ke liye",
+        "B": "Dust aur sparks se aankhon ko bachane ke liye",
+        "C": "Zyada acche se dekhne ke liye",
+        "D": "Sirf andhere mein kaam karte samay"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety glasses aankhon ko flying debris, sparks aur chemical splashes se protect karte hain."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Long nose pliers ka kya use hai?",
+      "options": {
+        "A": "Bade pipes ko pakadna",
+        "B": "Chhote components ko pakadna aur wires ko bend karna",
+        "C": "Screws ko kholna",
+        "D": "Heavy duty cutting karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Long nose pliers apne patle jaws ki wajah se tight spaces mein kaam karne, chhote components ko pakadne aur wires ko bend karne ke liye ideal hote hain."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Ceiling fan slow chal raha hai, kya problem ho sakti hai?",
+      "options": {
+        "A": "Motor garam hai",
+        "B": "Capacitor weak ho gaya hai",
+        "C": "Blades gande hain",
+        "D": "Fan ka color kharab ho gaya hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Weak capacitor fan motor ko sufficient starting torque nahi de pata, jisse fan slow chalta hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Electric iron garam nahi ho raha, kya check karna chahiye sabse pehle?",
+      "options": {
+        "A": "Iron ka weight",
+        "B": "Power cord aur plug",
+        "C": "Iron ka color",
+        "D": "Soleplate ki smoothness"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sabse common reason power supply ka na hona hota hai, isliye power cord aur plug ko check karna chahiye."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Room heater mein overheating se bachne ke liye kaun sa safety device hota hai?",
+      "options": {
+        "A": "Switch",
+        "B": "Thermistor",
+        "C": "Thermal cut-out switch",
+        "D": "Indicator light"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Thermal cut-out switch ya thermostat overheating hone par heater ki power supply ko automatically cut kar deta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Table fan mein noise aa rahi hai, kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Fan naya hai",
+        "B": "Motor bearings worn out hain",
+        "C": "Fan ki speed high hai",
+        "D": "Blades saaf hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Worn out motor bearings friction create karte hain, jisse fan se unusual noise aati hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Electric iron mein thermostat ka kya function hai?",
+      "options": {
+        "A": "Iron ko vibrate karna",
+        "B": "Desired temperature maintain karna",
+        "C": "Power consumption badhana",
+        "D": "Iron ko cool karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Thermostat iron ke heating element ko control karke set temperature ko maintain karta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Geyser mein pani garam nahi ho raha, kya check karna chahiye?",
+      "options": {
+        "A": "Body ka color",
+        "B": "Heating element aur thermostat",
+        "C": "Water pressure",
+        "D": "Drain pipe"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar geyser garam nahi ho raha, toh heating element (jo pani garam karta hai) ya thermostat (jo temperature control karta hai) mein problem ho sakti hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Ceiling fan chalte chalte ruk gaya hai, aur motor garam hai. Kya problem ho sakti hai?",
+      "options": {
+        "A": "Capacitor theek hai",
+        "B": "Motor winding short circuit ho gayi hai",
+        "C": "Blades loose hain",
+        "D": "Regulator high speed par hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Motor ka garam hona aur ruk jaana aksar motor winding mein short circuit ya overheating ka sign hota hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Electric iron ki soleplate par carbon deposits hain, unhe kaise saaf karna chahiye?",
+      "options": {
+        "A": "Sharp object se khurchna",
+        "B": "Wet kapde se saaf karna",
+        "C": "Mild abrasive cleaner aur soft kapde se saaf karna",
+        "D": "Acid use karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Mild abrasive cleaner aur soft kapda soleplate ko bina damage kiye carbon deposits remove karne ke liye best hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Immersion rod pani garam nahi kar rahi, kya check karenge?",
+      "options": {
+        "A": "Rod ka size",
+        "B": "Power plug aur heating element",
+        "C": "Water level",
+        "D": "Rod ka handle"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Immersion rod ke case mein, power supply ya heating element hi failure ke main cause hote hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Ceiling fan ke regulator ka kya kaam hai?",
+      "options": {
+        "A": "Fan ko off karna",
+        "B": "Fan ki speed control karna",
+        "C": "Fan ko swing karna",
+        "D": "Fan ko rotate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regulator fan ko milne wali voltage ko adjust karke uski speed ko control karta hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Electric iron se kapde jal rahe hain, kya reason ho sakta hai?",
+      "options": {
+        "A": "Iron naya hai",
+        "B": "Thermostat faulty hai",
+        "C": "Soleplate thandi hai",
+        "D": "Power cord loose hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar thermostat faulty hai, toh iron set temperature se zyada garam ho sakta hai, jisse kapde jal sakte hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Room heater se smell aa rahi hai, kya reason ho sakta hai?",
+      "options": {
+        "A": "Naya heater hai",
+        "B": "Dust ya debris heating element par jal raha hai",
+        "C": "Heater thanda hai",
+        "D": "Room mein acchi ventilation hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Heating element par jami hui dust ya debris garam hone par jal jaati hai aur burning smell produce karti hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Pedestal fan ke oscillation mechanism mein problem hai, toh fan kya nahi karega?",
+      "options": {
+        "A": "Start nahi hoga",
+        "B": "Speed control nahi hogi",
+        "C": "Left-right move nahi karega",
+        "D": "Noise nahi karega"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Oscillation mechanism fan ko left aur right move karne mein help karta hai, taaki hawa bade area mein spread ho."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Steam iron se steam nahi nikal rahi, kya problem ho sakti hai?",
+      "options": {
+        "A": "Iron ka temperature bahut kam hai",
+        "B": "Water tank empty hai ya steam vents clogged hain",
+        "C": "Power cord damaged hai",
+        "D": "Soleplate kharab hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Steam ke liye water tank mein pani hona zaroori hai aur steam vents ka clear hona bhi important hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Ek coil heater ka heating element kis material ka bana hota hai?",
+      "options": {
+        "A": "Copper",
+        "B": "Aluminium",
+        "C": "Nichrome",
+        "D": "Iron"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Nichrome (Nickel-Chromium alloy) high resistance aur high melting point ke karan heating elements ke liye commonly use hota hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Electric iron mein indicator light ka kya kaam hai?",
+      "options": {
+        "A": "Iron ko garam karna",
+        "B": "Iron ke temperature ko indicate karna",
+        "C": "Power on/off state batana",
+        "D": "Steam level batana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Indicator light typically show karti hai ki iron ko power mil rahi hai aur heating element active hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Agar fan ke blades par bahut dust jam gayi hai, toh uska kya asar hoga?",
+      "options": {
+        "A": "Fan zyada speed se chalega",
+        "B": "Fan ki efficiency kam ho jayegi",
+        "C": "Fan zyada thandi hawa dega",
+        "D": "Fan ki life badh jayegi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blades par dust jamne se air resistance badhta hai aur fan ki air delivery aur efficiency kam ho jati hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Mixer grinder chal nahi raha, kya check karna chahiye sabse pehle?",
+      "options": {
+        "A": "Jar ka size",
+        "B": "Power plug aur overload protector button",
+        "C": "Blades ki sharpness",
+        "D": "Mixer ka color"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overload protector button trips hone par mixer grinder chalna band kar deta hai, isliye use check aur reset karna chahiye."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Electric kettle pani garam nahi kar rahi, kya problem ho sakti hai?",
+      "options": {
+        "A": "Kettle mein zyada pani hai",
+        "B": "Heating element ya thermostat fault",
+        "C": "Lid khula hai",
+        "D": "Kettle ki body dented hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar kettle garam nahi ho rahi, toh heating element ya thermostat mein problem ho sakti hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Toaster mein bread stuck ho rahi hai, kya reason ho sakta hai?",
+      "options": {
+        "A": "Bread bahut patli hai",
+        "B": "Lifting mechanism jam ho gaya hai",
+        "C": "Toaster bahut garam hai",
+        "D": "Power cord chhota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lifting mechanism ka jam hona ya usme crumbs fansna bread ke stuck hone ka common reason hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Mixer grinder se jalne ki smell aa rahi hai, kya reason ho sakta hai?",
+      "options": {
+        "A": "Motor overload ho gaya hai",
+        "B": "Jar khali hai",
+        "C": "Mixer naya hai",
+        "D": "Blades saaf hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Jalne ki smell aksar motor ke overheating ya winding damage hone ka sign hoti hai, jo overload ki wajah se ho sakta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Electric kettle automatic off nahi ho rahi, kya problem ho sakti hai?",
+      "options": {
+        "A": "Pani ka level kam hai",
+        "B": "Thermostat ya auto-shutoff mechanism faulty hai",
+        "C": "Power cord loose hai",
+        "D": "Kettle ki light kharab hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Kettle ke auto-off feature ke liye thermostat ya usse related mechanism responsible hota hai. Usme problem hone par kettle continuously garam hoti rahegi."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Toaster mein bread unevenly toast ho rahi hai, kya reason ho sakta hai?",
+      "options": {
+        "A": "Bread bahut moti hai",
+        "B": "Heating elements mein se koi ek faulty hai",
+        "C": "Timer setting galat hai",
+        "D": "Toaster saaf nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar ek heating element kharab hai, toh bread sirf ek side se ya unevenly toast hogi."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Mixer grinder ke jar mein se leakage ho rahi hai, kya check karna chahiye?",
+      "options": {
+        "A": "Motor speed",
+        "B": "Jar ki rubber gasket ya blade assembly",
+        "C": "Power switch",
+        "D": "Jar ka handle"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jar mein se leakage ka common reason rubber gasket ka worn out hona ya blade assembly ka loose hona hota hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Electric kettle mein scale deposits (safed parat) kaise saaf karte hain?",
+      "options": {
+        "A": "Wire brush se ragadna",
+        "B": "Vinegar aur pani ka solution ubaalna",
+        "C": "Bleach use karna",
+        "D": "Sharp object se khurchna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vinegar (sirka) ek natural descaling agent hai jo kettle se mineral deposits ko remove karne mein madad karta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Toaster mein timer ka kya function hai?",
+      "options": {
+        "A": "Bread ko garam rakhna",
+        "B": "Toast hone ka time set karna",
+        "C": "Toaster ko on/off karna",
+        "D": "Bread ko pop-up karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Timer control karta hai ki heating elements kitni der tak on rahenge, jisse bread ki toasting level set hoti hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Mixer grinder ke motor coupler (jar ko motor se connect karne wala part) toot gaya hai, toh kya hoga?",
+      "options": {
+        "A": "Motor chalega par blades nahi ghumenge",
+        "B": "Motor chalega aur blades bhi ghumenge",
+        "C": "Mixer bilkul nahi chalega",
+        "D": "Mixer se dhuan niklega"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Coupler motor ki rotation ko jar ke blades tak transmit karta hai. Agar woh toot gaya, toh motor chalega par blades rotate nahi honge."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Automatic electric kettle mein power base ka kya role hai?",
+      "options": {
+        "A": "Pani store karna",
+        "B": "Kettle ko electrical power supply karna",
+        "C": "Lid ko lock karna",
+        "D": "Kettle ko thanda rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Power base kettle ko cord-free use karne ki suvidha deta hai aur usko electrical connection provide karta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Sandwich maker mein sandwiches theek se chipak nahi rahe, kya problem ho sakti hai?",
+      "options": {
+        "A": "Heating plates gandi hain ya non-stick coating kharab ho gayi hai",
+        "B": "Power supply kam hai",
+        "C": "Sandwich maker naya hai",
+        "D": "Bread bahut chhoti hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Heating plates par residue ya damaged non-stick coating sandwiches ko chipka sakti hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Mixer grinder ke carbon brushes worn out ho gaye hain, toh kya effect hoga?",
+      "options": {
+        "A": "Mixer zyada speed se chalega",
+        "B": "Motor spark karega ya intermittent chalega",
+        "C": "Noise kam ho jayegi",
+        "D": "Jars leak karenge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Worn out carbon brushes motor ke commutator se proper contact nahi bana pate, jisse sparking, intermittent operation ya motor ka na chalna ho sakta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Electric kettle mein water level indicator ka kya fayda hai?",
+      "options": {
+        "A": "Pani ko garam karna",
+        "B": "Minimum aur Maximum water level batana",
+        "C": "Kettle ko saaf karna",
+        "D": "Power consumption kam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Water level indicator user ko batata hai ki kettle mein kitna pani hai aur kitna bharna chahiye."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Toaster mein crumbs tray ka kya use hai?",
+      "options": {
+        "A": "Bread store karna",
+        "B": "Toasting ke dauran gire hue crumbs ko collect karna",
+        "C": "Toaster ko thanda rakhna",
+        "D": "Toaster ko upar uthana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Crumbs tray toasting ke dauran gire hue bread ke tukdon ko collect karti hai, jisse cleaning asaan hoti hai aur fire hazard kam hota hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Hand blender chalate samay vibration zyada ho rahi hai, kya reason ho sakta hai?",
+      "options": {
+        "A": "Motor naya hai",
+        "B": "Blades bent ho gaye hain ya loose hain",
+        "C": "Power cord loose hai",
+        "D": "Speed setting low hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bent ya loose blades imbalance create karte hain, jisse hand blender mein excessive vibration hoti hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Electric kettle mein dry boil protection ka kya matlab hai?",
+      "options": {
+        "A": "Kettle ko bina pani ke chalana",
+        "B": "Kettle ko tab off kar dena jab usme pani na ho ya bahut kam ho",
+        "C": "Kettle ko zyada garam hone se bachana",
+        "D": "Kettle ko saaf rakhna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dry boil protection ek safety feature hai jo kettle ko damage hone se bachata hai agar usme pani na ho ya boil hone se pehle hi evaporate ho jaye."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Refrigerator mein main cooling component kaun sa hai?",
+      "options": {
+        "A": "Light bulb",
+        "B": "Door gasket",
+        "C": "Compressor",
+        "D": "Drain pan"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Compressor refrigeration cycle ka heart hai, jo refrigerant ko circulate karta hai aur pressure badhata hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Refrigerator mein khana theek se thanda nahi ho raha, kya check karna chahiye?",
+      "options": {
+        "A": "Fridge ka color",
+        "B": "Door gasket aur thermostat setting",
+        "C": "Vegetable drawer",
+        "D": "Fridge ki height"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Door gasket leakage se thandi hawa bahar nikal jaati hai, aur galat thermostat setting bhi cooling ko affect karti hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "AC mein refrigerant ka kya kaam hai?",
+      "options": {
+        "A": "Hawa ko saaf karna",
+        "B": "Heat ko absorb aur release karna",
+        "C": "Noise kam karna",
+        "D": "Electricity generate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Refrigerant heat ko evaporator coil se absorb karta hai aur condenser coil par release karta hai, jisse cooling hoti hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Refrigerator se bahut zyada ice ban rahi hai freezer mein, kya reason ho sakta hai?",
+      "options": {
+        "A": "Freezer empty hai",
+        "B": "Door gasket damaged hai ya door theek se band nahi ho raha",
+        "C": "Thermostat setting bahut high hai",
+        "D": "Freezer light off hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar door gasket damaged hai ya door properly seal nahi ho raha, toh bahar ki warm, moist air andar aati hai aur excessive ice banati hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "AC outdoor unit se garam hawa kahan se nikalti hai?",
+      "options": {
+        "A": "Evaporator",
+        "B": "Condenser",
+        "C": "Compressor",
+        "D": "Fan"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Condenser coil refrigerant se heat ko bahar ki hawa mein release karta hai, isliye outdoor unit se garam hawa nikalti hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Refrigerator ke andar light nahi jal rahi, kya check karenge?",
+      "options": {
+        "A": "Compressor",
+        "B": "Light bulb ya door switch",
+        "C": "Condenser coils",
+        "D": "Drain hole"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Light bulb ka fuse hona ya door switch ka faulty hona light na jalne ka common reason hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Direct Cool refrigerator mein defrosting kyun zaroori hai?",
+      "options": {
+        "A": "Bijli bachane ke liye",
+        "B": "Freezer mein ice build-up ko remove karne ke liye",
+        "C": "Khane ko zyada thanda karne ke liye",
+        "D": "Noise kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Direct Cool fridges mein manually defrost karna padta hai taaki evaporator coils par jami ice ko remove kiya ja sake, jo cooling efficiency ko kam karti hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "AC se pani tapak raha hai indoor unit se, kya reason ho sakta hai?",
+      "options": {
+        "A": "Outdoor unit mein problem hai",
+        "B": "Drain pipe clogged hai ya insulation kharab hai",
+        "C": "Refrigerant leak ho raha hai",
+        "D": "Fan speed bahut high hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Indoor unit se pani leakage ka sabse common reason drain pipe mein blockage ya condensate pan ka overflow hona hota hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Refrigerator ke piche Condenser coils ko saaf rakhna kyun zaroori hai?",
+      "options": {
+        "A": "Good looks ke liye",
+        "B": "Dust se bachane ke liye",
+        "C": "Efficient cooling aur energy saving ke liye",
+        "D": "Noise kam karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Saaf condenser coils heat ko effectively dissipate karte hain, jisse fridge ki cooling efficiency badhti hai aur energy consumption kam hota hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "AC mein air filter ka kya role hai?",
+      "options": {
+        "A": "Hawa ko garam karna",
+        "B": "Hawa se dust aur impurities ko remove karna",
+        "C": "Refrigerant leak detect karna",
+        "D": "Noise level control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Air filter room ki hawa se dust, pollen aur other particles ko trap karta hai, jisse clean air milti hai aur AC ke components bhi saaf rehte hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Refrigerator ka compressor baar baar start aur stop ho raha hai, kya problem ho sakti hai?",
+      "options": {
+        "A": "Door gasket theek hai",
+        "B": "Thermostat faulty hai ya low refrigerant level",
+        "C": "Light bulb kharab hai",
+        "D": "Drain pan clean hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Faulty thermostat ya low refrigerant level compressor ko bar bar cycle karne par majboor kar sakte hain, jisse cooling bhi affect hoti hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "AC compressor ka main function kya hai?",
+      "options": {
+        "A": "Hawa ko circulate karna",
+        "B": "Refrigerant ko compress aur circulate karna",
+        "C": "Temperature measure karna",
+        "D": "Power supply control karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Compressor refrigerant gas ko compress karta hai, jisse uska temperature aur pressure badhta hai, aur phir use system mein circulate karta hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Refrigerator mein 'No Frost' feature ka kya matlab hai?",
+      "options": {
+        "A": "Fridge mein kabhi ice nahi banti",
+        "B": "Manual defrosting ki zaroorat nahi padti",
+        "C": "Sirf freezer mein ice nahi banti",
+        "D": "Fridge pani produce nahi karta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "No Frost ya Frost-Free refrigerators mein automatic defrosting cycle hota hai, jisse freezer mein ice nahi jamti aur manual defrosting ki zaroorat nahi padti."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "AC remote control kaam nahi kar raha, kya check karna chahiye?",
+      "options": {
+        "A": "AC ka filter",
+        "B": "Remote ki batteries aur line of sight to AC sensor",
+        "C": "Outdoor unit",
+        "D": "Drain pipe"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Remote control ke kaam na karne ka sabse common reason dead batteries ya remote aur AC ke beech blockage hota hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Refrigeration system mein expansion valve ka kya function hai?",
+      "options": {
+        "A": "Refrigerant ka pressure badhana",
+        "B": "Liquid refrigerant ko evaporator mein atomize karna aur pressure reduce karna",
+        "C": "Refrigerant ko store karna",
+        "D": "Refrigerant ko garam karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Expansion valve high-pressure liquid refrigerant ka pressure drop karta hai aur use low-pressure spray mein convert karta hai, jo evaporator mein evaporate hota hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Agar AC se acchi cooling nahi aa rahi aur filter saaf hai, toh kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Room bahut chhota hai",
+        "B": "Refrigerant level low hai ya compressor weak hai",
+        "C": "AC ka color kharab ho gaya hai",
+        "D": "Outdoor unit bahut thandi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Low refrigerant level (leakage ki wajah se) ya weak compressor AC ki cooling capacity ko significantly reduce kar dete hain."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Washing machine pani nahi bhar rahi, kya problem ho sakti hai?",
+      "options": {
+        "A": "Drain pump kharab hai",
+        "B": "Water inlet valve clogged ya faulty hai",
+        "C": "Spin motor kharab hai",
+        "D": "Door lock faulty hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Water inlet valve machine mein pani ke flow ko control karta hai. Agar yeh clogged ya faulty hai, toh pani nahi bharega."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Microwave oven mein khana garam nahi ho raha, kya check karna chahiye?",
+      "options": {
+        "A": "Turntable chal raha hai ya nahi",
+        "B": "Magnetron ya high voltage fuse",
+        "C": "Door handle",
+        "D": "Microwave ka color"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Magnetron microwave generate karta hai jo khane ko garam karta hai. High voltage fuse bhi magnetron circuit ko protect karta hai. Inmein se koi bhi faulty ho toh khana garam nahi hoga."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Washing machine spin nahi kar rahi, kya reason ho sakta hai?",
+      "options": {
+        "A": "Pani ka level high hai",
+        "B": "Lid switch ya drain pump faulty hai, ya motor mein problem hai",
+        "C": "Detergent bahut zyada hai",
+        "D": "Washing machine naya hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lid switch (safety ke liye), drain pump (pani nikalne ke liye) ya spin motor mein problem spin cycle ko rok sakti hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Microwave oven ke andar sparking ho rahi hai, kya reason ho sakta hai?",
+      "options": {
+        "A": "Oven saaf hai",
+        "B": "Metal utensil ya waveguide cover damaged hai",
+        "C": "Power cord loose hai",
+        "D": "Light bulb kharab hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Metal utensils ya damaged waveguide cover microwaves ko reflect karte hain, jisse sparking hoti hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Washing machine se excessive noise aa rahi hai wash cycle mein, kya reason ho sakta hai?",
+      "options": {
+        "A": "Machine ka level theek hai",
+        "B": "Drum bearings worn out hain ya foreign object andar hai",
+        "C": "Pani ka pressure kam hai",
+        "D": "Clothes kam hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Worn out drum bearings ya koi foreign object (coins, buttons) drum aur tub ke beech fasne se excessive noise hoti hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Microwave oven mein door interlock switch ka kya purpose hai?",
+      "options": {
+        "A": "Door ko lock karna",
+        "B": "Safety ke liye, jab tak door band na ho tab tak oven ko start na hone dena",
+        "C": "Light ko control karna",
+        "D": "Turntable ko chalana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Door interlock switch ek critical safety feature hai jo ensure karta hai ki oven tab tak microwaves generate na kare jab tak door securely band na ho."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Semi-automatic washing machine mein timer ka kya function hai?",
+      "options": {
+        "A": "Pani ka temperature control karna",
+        "B": "Wash aur spin cycle ka duration set karna",
+        "C": "Machine ko level karna",
+        "D": "Drain pump ko chalana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Semi-automatic machines mein user ko manually wash aur spin cycle ka time set karna hota hai timers ke through."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Microwave oven mein turntable kyun ghumta hai?",
+      "options": {
+        "A": "Khana thanda karne ke liye",
+        "B": "Microwaves ko evenly distribute karne ke liye",
+        "C": "Noise kam karne ke liye",
+        "D": "Light ko on/off karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Turntable khane ko rotate karta hai taaki microwaves food ke har part tak pahunche aur khana evenly garam ho."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Washing machine pani drain nahi kar rahi, kya check karna chahiye?",
+      "options": {
+        "A": "Water inlet hose",
+        "B": "Drain pump ya drain hose blockage",
+        "C": "Lid switch",
+        "D": "Detergent dispenser"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drain pump pani ko bahar nikalta hai, aur agar drain hose clogged hai, toh pani drain nahi hoga."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Microwave oven ke andar light nahi jal rahi, kya reason ho sakta hai?",
+      "options": {
+        "A": "Magnetron kharab hai",
+        "B": "Light bulb fuse ho gaya hai ya door switch faulty hai",
+        "C": "High voltage capacitor kharab hai",
+        "D": "Turntable motor kharab hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Light bulb ka fuse hona ya door switch ka faulty hona (jo light ko control karta hai) light na jalne ka common reason hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Fully automatic washing machine mein water level sensor ka kya kaam hai?",
+      "options": {
+        "A": "Pani ko garam karna",
+        "B": "Clothes ke weight ke according pani ka level adjust karna",
+        "C": "Pani ko drain karna",
+        "D": "Detergent mix karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Water level sensor machine ko batata hai ki kitne kapde hain, aur uske according optimum water level set hota hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Microwave oven mein High Voltage Capacitor kyun dangerous hota hai?",
+      "options": {
+        "A": "Yeh bahut garam ho jata hai",
+        "B": "Yeh charge store karta hai aur shock de sakta hai, even after unplugging",
+        "C": "Yeh bahut noise karta hai",
+        "D": "Yeh khana jala deta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High voltage capacitor bahut zyada charge store karta hai aur unplug karne ke baad bhi dangerous shock de sakta hai, isliye isse discharge karna zaroori hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Washing machine se pani leak ho raha hai, kya check karna chahiye?",
+      "options": {
+        "A": "Power cord",
+        "B": "Hoses (inlet/drain), pump seal ya tub seal",
+        "C": "Control panel",
+        "D": "Detergent type"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Leakage ka sabse common reason damaged hoses, faulty pump seal ya tub seal hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Microwave oven mein cooling fan ka kya role hai?",
+      "options": {
+        "A": "Khane ko thanda karna",
+        "B": "Magnetron aur other components ko overheat hone se bachana",
+        "C": "Noise kam karna",
+        "D": "Door ko lock karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cooling fan magnetron aur high voltage components se heat ko dissipate karta hai, unhe damage hone se bachata hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Washing machine ka agitator/pulsator nahi ghum raha, kya problem ho sakti hai?",
+      "options": {
+        "A": "Pani bahut garam hai",
+        "B": "Agitator spline damaged hai ya drive belt loose/broken hai",
+        "C": "Door open hai",
+        "D": "Machine overloaded hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agitator/pulsator ki movement ke liye drive mechanism (spline, belt, gearbox) responsible hota hai. Inmein se koi bhi defect hone par agitator nahi ghumega."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Microwave oven ke control panel par buttons kaam nahi kar rahe, kya reason ho sakta hai?",
+      "options": {
+        "A": "Door open hai",
+        "B": "Membrane panel ya control board faulty hai",
+        "C": "Magnetron kharab hai",
+        "D": "Turntable motor kharab hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Control panel ke buttons directly membrane panel se connected hote hain, jo control board ko signal bhejta hai. Inmein se koi bhi faulty hone par buttons respond nahi karenge."
+    }
+  ]
+}

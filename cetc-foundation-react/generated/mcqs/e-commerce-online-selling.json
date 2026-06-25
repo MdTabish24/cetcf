@@ -1,0 +1,1443 @@
+{
+  "course_name": "E-Commerce & Online Selling",
+  "sector": "Digital & Information Technology",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to E-Commerce & Online Selling",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Setting Up Your Online Store",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Product Sourcing & Inventory Management",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Digital Marketing for E-Commerce",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Payments, Shipping & Customer Service",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "E-Commerce Analytics & Growth Strategies",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which of the following best defines E-Commerce?",
+      "options": {
+        "A": "Buying and selling goods through traditional retail stores.",
+        "B": "Buying and selling goods or services over the internet.",
+        "C": "Exchanging goods without money.",
+        "D": "Marketing products using only physical advertisements."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "E-Commerce specifically refers to commercial transactions conducted electronically on the internet, encompassing buying and selling of goods or services."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "What does B2C stand for in E-Commerce?",
+      "options": {
+        "A": "Business to Customer",
+        "B": "Business to Company",
+        "C": "Buyer to Customer",
+        "D": "Broker to Client"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "B2C refers to business-to-consumer transactions, where businesses sell products or services directly to individual end-users."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Which of these is a primary benefit of E-Commerce for businesses?",
+      "options": {
+        "A": "Limited customer reach",
+        "B": "High physical overhead costs",
+        "C": "Global market access",
+        "D": "Dependency on local suppliers"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "E-Commerce allows businesses to reach customers globally, breaking geographical barriers, which is a significant advantage over traditional retail."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "What is a common challenge faced by new E-Commerce businesses?",
+      "options": {
+        "A": "Lack of internet access for customers",
+        "B": "Building customer trust and security concerns",
+        "C": "Excessive physical store space",
+        "D": "Difficulty in finding product suppliers"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "For new E-Commerce businesses, establishing credibility and ensuring customers feel secure about online transactions is a major hurdle."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Which E-Commerce model involves individuals selling products directly to other individuals?",
+      "options": {
+        "A": "B2B (Business-to-Business)",
+        "B": "C2C (Consumer-to-Consumer)",
+        "C": "B2G (Business-to-Government)",
+        "D": "D2C (Direct-to-Consumer)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "C2C E-Commerce platforms like eBay or OLX allow consumers to sell directly to other consumers."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "What is the primary purpose of a 'shopping cart' in an E-Commerce website?",
+      "options": {
+        "A": "To display product information",
+        "B": "To allow customers to temporarily store items they wish to purchase",
+        "C": "To process payments securely",
+        "D": "To provide customer support"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A shopping cart functions similarly to a physical shopping cart, allowing users to collect items they intend to buy before proceeding to checkout."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Which term refers to the practice of selling products directly from the manufacturer to the consumer, bypassing intermediaries?",
+      "options": {
+        "A": "B2B",
+        "B": "C2C",
+        "C": "D2C",
+        "D": "B2G"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "D2C (Direct-to-Consumer) models involve manufacturers selling their products directly to end-consumers without traditional retailers or wholesalers."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "What is the significance of mobile commerce (m-commerce) in today's E-Commerce landscape?",
+      "options": {
+        "A": "It limits sales to desktop users only.",
+        "B": "It restricts transactions to specific mobile apps.",
+        "C": "It enables transactions via mobile devices, expanding reach and convenience.",
+        "D": "It primarily focuses on business-to-government sales."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "M-commerce allows users to shop and conduct transactions using smartphones and tablets, offering greater flexibility and accessibility for consumers."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Why is 'trust' a critical factor for success in E-Commerce?",
+      "options": {
+        "A": "Because customers prefer physical stores.",
+        "B": "Because customers cannot physically inspect products before buying online.",
+        "C": "Because E-commerce sites are always insecure.",
+        "D": "Because delivery is always delayed."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "In E-Commerce, customers rely on trust as they cannot physically examine products. Trust is built through secure payment gateways, clear product descriptions, reliable reviews, and good customer service."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Which of the following is NOT a typical component of an E-Commerce website?",
+      "options": {
+        "A": "Product Catalog",
+        "B": "Payment Gateway",
+        "C": "Physical storefront display",
+        "D": "Shopping Cart"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "An E-Commerce website is an online entity and does not have a physical storefront display. Its components are digital."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What does ROI stand for in the context of E-Commerce business decisions?",
+      "options": {
+        "A": "Return on Investment",
+        "B": "Revenue of Interest",
+        "C": "Retailer's Online Inventory",
+        "D": "Risk of Innovation"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "ROI, or Return on Investment, is a key metric used to evaluate the efficiency or profitability of an investment, relative to its cost."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "What is the main difference between E-Commerce and E-Business?",
+      "options": {
+        "A": "E-Commerce is broader than E-Business.",
+        "B": "E-Business includes E-Commerce, covering all online business operations.",
+        "C": "E-Commerce only involves physical products, E-Business involves services.",
+        "D": "There is no difference between them."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "E-Commerce specifically refers to the buying and selling of goods/services online. E-Business is a broader term encompassing all online activities that support a business, including E-Commerce, online customer service, supply chain management, etc."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Which of the following describes a 'niche market' in E-Commerce?",
+      "options": {
+        "A": "A market segment with a very broad customer base.",
+        "B": "A specialized segment of a larger market with unique needs.",
+        "C": "A market that is oversaturated with competitors.",
+        "D": "A market exclusively for luxury goods."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A niche market targets a specific, smaller segment of a larger market, catering to particular needs or preferences that are not always addressed by mainstream products."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "What is the primary goal of optimizing an E-Commerce website for user experience (UX)?",
+      "options": {
+        "A": "To increase website loading time.",
+        "B": "To make the website more difficult to navigate.",
+        "C": "To make the website easy to use, efficient, and enjoyable for visitors, leading to higher conversions.",
+        "D": "To reduce the number of products listed."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Good UX aims to create a positive and seamless experience for users, making it easy for them to find products, navigate the site, and complete purchases, which directly impacts conversion rates."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "What is a 'marketplace' in E-Commerce?",
+      "options": {
+        "A": "A single brand's official online store.",
+        "B": "An online platform where multiple sellers offer products to buyers.",
+        "C": "A physical store that also has an online presence.",
+        "D": "A website exclusively for digital product downloads."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "An E-Commerce marketplace (e.g., Amazon, Flipkart) is a platform where various third-party sellers can list and sell their products to a large customer base."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Which factor is most crucial for determining the success of an E-Commerce business in the long term?",
+      "options": {
+        "A": "Having the lowest prices in the market.",
+        "B": "Consistent innovation and adapting to customer needs.",
+        "C": "Only selling popular branded products.",
+        "D": "Ignoring customer feedback."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Long-term success in E-Commerce requires continuous adaptation, innovation, and a strong focus on evolving customer needs and market trends, rather than just competing on price."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "What is 'digital literacy' and why is it important for an E-Commerce seller?",
+      "options": {
+        "A": "Ability to read and write traditional books, not relevant to E-Commerce.",
+        "B": "The ability to find, evaluate, create, and communicate information using digital technologies, crucial for managing an online business.",
+        "C": "Knowledge of only coding languages.",
+        "D": "Understanding physical store layouts."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Digital literacy is fundamental for E-Commerce sellers as it enables them to effectively use online tools, platforms, communication channels, and manage their digital presence."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "What is a 'domain name' in the context of an online store?",
+      "options": {
+        "A": "The physical address of your business.",
+        "B": "The unique web address (e.g., 'yourstore.com') that identifies your website.",
+        "C": "The name of your product catalog.",
+        "D": "A type of E-Commerce platform."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A domain name is the unique, easy-to-remember address that users type into their browser to access your website."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Which of these is a popular E-Commerce platform for setting up an online store?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Google Sheets",
+        "C": "Shopify",
+        "D": "Adobe Photoshop"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Shopify is a leading E-Commerce platform that provides tools and services for businesses to create and manage their online stores."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "What is 'web hosting' for an E-Commerce website?",
+      "options": {
+        "A": "Designing the website's logo.",
+        "B": "The physical location where your website's files are stored and made accessible on the internet.",
+        "C": "Marketing your website on social media.",
+        "D": "Writing product descriptions."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Web hosting is a service that provides the server space for your website's files (images, code, content) to be stored and accessed by users over the internet."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "What is a 'SSL certificate' and why is it important for an E-Commerce site?",
+      "options": {
+        "A": "A certificate for website design awards.",
+        "B": "A security protocol that encrypts data between the user's browser and the website, crucial for secure transactions.",
+        "C": "A license to sell products online.",
+        "D": "A document for product authenticity."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SSL (Secure Sockets Layer) certificates encrypt data, ensuring secure communication and protecting sensitive customer information like credit card details during online transactions. Websites with SSL show 'https' in their URL."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "When setting up an online store, what is 'product photography' primarily used for?",
+      "options": {
+        "A": "To track inventory levels.",
+        "B": "To create visually appealing images that showcase products to potential buyers.",
+        "C": "To generate sales reports.",
+        "D": "To manage customer reviews."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "High-quality product photography is essential in E-Commerce to give customers a clear and attractive visual representation of the items they are considering buying."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Which of these is a key consideration when choosing an E-Commerce platform?",
+      "options": {
+        "A": "The platform's popularity among your friends.",
+        "B": "Scalability, ease of use, features, and pricing.",
+        "C": "Only the cheapest option available.",
+        "D": "Whether it supports physical store operations."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Choosing an E-Commerce platform involves evaluating factors like how easily it can grow with your business (scalability), its user-friendliness, the features it offers, and its cost structure."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "What is the purpose of a 'Call to Action' (CTA) button on an E-Commerce product page?",
+      "options": {
+        "A": "To provide customer support contact information.",
+        "B": "To encourage visitors to take a specific action, like 'Add to Cart' or 'Buy Now'.",
+        "C": "To display related product recommendations.",
+        "D": "To share product reviews."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CTAs are prompts designed to guide users towards making a purchase or another desired action on the website."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Why is it important to write unique and descriptive product descriptions?",
+      "options": {
+        "A": "To confuse potential buyers.",
+        "B": "To help customers understand the product's features and benefits, and to improve SEO.",
+        "C": "To make the website load slower.",
+        "D": "To hide product flaws."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Good product descriptions inform customers, help them make purchasing decisions, and also contribute to better search engine rankings (SEO) by including relevant keywords."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "What is a 'payment gateway' in an online store?",
+      "options": {
+        "A": "A physical gate at the store's entrance.",
+        "B": "A service that authorizes and processes online credit card or other payment transactions.",
+        "C": "A system for managing product returns.",
+        "D": "A tool for tracking website visitors."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A payment gateway acts as a secure intermediary between the customer's payment method and the merchant's bank account, facilitating online payments."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Which factor is most critical for a smooth 'checkout process' on an E-Commerce website?",
+      "options": {
+        "A": "Requiring customers to create an account before purchase.",
+        "B": "A complex, multi-step checkout form.",
+        "C": "Simplicity, clarity, and minimal steps to complete the purchase.",
+        "D": "Offering only one payment option."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A simplified and streamlined checkout process reduces friction and cart abandonment, making it easier for customers to complete their purchases."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "What is the purpose of 'categories' and 'filters' on an E-Commerce website?",
+      "options": {
+        "A": "To make products harder to find.",
+        "B": "To organize products and allow customers to easily narrow down their search.",
+        "C": "To display irrelevant products.",
+        "D": "To increase website loading time."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Categories and filters help customers navigate large product catalogs efficiently, allowing them to quickly find exactly what they are looking for."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "What does 'responsive design' mean for an E-Commerce website?",
+      "options": {
+        "A": "The website responds quickly to customer inquiries.",
+        "B": "The website's layout and content adapt automatically to different screen sizes (e.g., desktop, tablet, mobile).",
+        "C": "The website has a fast loading speed.",
+        "D": "The website uses only high-resolution images."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Responsive design ensures that your E-Commerce store provides an optimal viewing and interaction experience across a wide range of devices, which is crucial for mobile users."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Why is 'legal compliance' important when setting up an online store (e.g., privacy policy, terms of service)?",
+      "options": {
+        "A": "It helps in marketing products faster.",
+        "B": "It ensures the business operates within the law, builds trust, and protects both the business and customers.",
+        "C": "It is only required for international sales.",
+        "D": "It is an optional formality with no real impact."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Legal compliance, including clear privacy policies and terms of service, is essential to adhere to regulations, avoid legal issues, and foster trust with customers regarding data handling and business practices."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "What is a 'blog' used for on an E-Commerce website?",
+      "options": {
+        "A": "To only post personal opinions.",
+        "B": "To share valuable content, build authority, engage customers, and improve SEO.",
+        "C": "To store customer login details.",
+        "D": "To process payments."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "An E-Commerce blog can be used for content marketing, providing helpful articles, guides, or news related to products or the industry, which can drive traffic and build customer loyalty."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "What is the primary benefit of allowing customer reviews on product pages?",
+      "options": {
+        "A": "It makes the page longer.",
+        "B": "It provides social proof, builds trust, and helps other customers make informed decisions.",
+        "C": "It discourages sales.",
+        "D": "It is purely for the seller's entertainment."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer reviews offer authentic feedback and social proof, which significantly influences purchasing decisions by building trust and confidence in the product."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "When launching an online store, what is a 'soft launch'?",
+      "options": {
+        "A": "Launching the store with a massive marketing campaign.",
+        "B": "Launching the store to a limited audience to test functionality and gather feedback before a full public launch.",
+        "C": "Launching a store with only digital products.",
+        "D": "Launching a store during a holiday season."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A soft launch is a controlled release to a small group to identify and fix bugs, gather initial feedback, and ensure everything is running smoothly before a wider public announcement."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "What is the main advantage of using a hosted E-Commerce platform (e.g., Shopify) over a self-hosted one (e.g., WooCommerce on your own server) for beginners?",
+      "options": {
+        "A": "More control over server infrastructure.",
+        "B": "Lower monthly subscription fees.",
+        "C": "Simplicity, ease of setup, and built-in technical support and maintenance.",
+        "D": "Unlimited customization options without coding."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Hosted platforms handle most of the technical aspects like server maintenance, security, and updates, making them ideal for beginners who want to focus on selling rather than technical management."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "What is 'dropshipping' in E-Commerce?",
+      "options": {
+        "A": "Selling products you manufacture yourself.",
+        "B": "A retail fulfillment method where the seller doesn't keep products in stock but ships directly from a third-party supplier.",
+        "C": "Selling only digital products.",
+        "D": "A method of selling products door-to-door."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dropshipping allows E-Commerce sellers to operate without maintaining inventory. When a customer places an order, the seller purchases the item from a third-party supplier, who then ships it directly to the customer."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "What is 'inventory management' in E-Commerce?",
+      "options": {
+        "A": "Designing product packaging.",
+        "B": "The process of tracking, ordering, storing, and controlling the stock of products.",
+        "C": "Marketing products on social media.",
+        "D": "Managing customer reviews."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Effective inventory management ensures that you have the right amount of stock to meet demand without overstocking or running out of popular items."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Which of these is a common method for product sourcing for an E-Commerce business?",
+      "options": {
+        "A": "Manufacturing all products in-house.",
+        "B": "Buying from wholesale suppliers.",
+        "C": "Only selling services, not products.",
+        "D": "Stealing products from competitors."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wholesale suppliers provide products in bulk at reduced prices, allowing E-Commerce sellers to purchase inventory and resell it for a profit."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "What is a 'SKU' and why is it used in inventory management?",
+      "options": {
+        "A": "A type of marketing campaign.",
+        "B": "Stock Keeping Unit; a unique identifier for each product variant to track inventory.",
+        "C": "A customer service metric.",
+        "D": "A shipping carrier company."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SKUs are alphanumeric codes used internally by retailers to track inventory, identify product attributes (size, color, style), and manage stock efficiently."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "What is the main risk associated with dropshipping?",
+      "options": {
+        "A": "High upfront inventory costs.",
+        "B": "Difficulty in controlling product quality and shipping times from third-party suppliers.",
+        "C": "Limited product variety.",
+        "D": "Need for a large warehouse."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Since the seller doesn't handle the products directly, controlling quality, packaging, and ensuring timely delivery relies heavily on the third-party supplier, which can lead to customer service issues."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Why is 'forecasting demand' important for E-Commerce inventory management?",
+      "options": {
+        "A": "To predict future website traffic.",
+        "B": "To estimate future product sales and plan inventory levels accordingly, avoiding stockouts or overstock.",
+        "C": "To determine the next marketing strategy.",
+        "D": "To decide on product pricing."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Accurate demand forecasting helps businesses optimize inventory, reduce carrying costs, prevent lost sales due to stockouts, and manage cash flow more effectively."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "What is a 'minimum order quantity' (MOQ) often encountered when sourcing from manufacturers or wholesalers?",
+      "options": {
+        "A": "The maximum number of items a customer can buy.",
+        "B": "The smallest number of units a supplier is willing to sell in a single order.",
+        "C": "The ideal quantity for shipping efficiency.",
+        "D": "The number of products required for a discount."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MOQ is a common practice for suppliers to ensure that each order meets a certain profitability threshold for them, often requiring buyers to purchase a specific minimum number of units."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "What is 'dead stock' in E-Commerce inventory?",
+      "options": {
+        "A": "Products that are very popular and sell quickly.",
+        "B": "Products that have expired or are no longer in saleable condition.",
+        "C": "Products that have been in inventory for a long time and are unlikely to be sold.",
+        "D": "Products that are out of stock."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dead stock ties up capital, takes up warehouse space, and can lead to losses if not managed by clearance sales or write-offs."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Which of the following describes 'private labeling'?",
+      "options": {
+        "A": "Selling products under another company's brand.",
+        "B": "Selling generic products without any brand.",
+        "C": "Sourcing a product from a manufacturer and selling it under your own brand name.",
+        "D": "Selling products exclusively to private customers."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Private labeling allows businesses to create their own brand identity and differentiate their products, even if the underlying product is manufactured by a third party."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Why is 'product quality control' important when sourcing products?",
+      "options": {
+        "A": "To increase shipping costs.",
+        "B": "To ensure products meet customer expectations, reduce returns, and maintain brand reputation.",
+        "C": "To delay product launch.",
+        "D": "To make products more expensive."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Consistent product quality is vital for customer satisfaction, positive reviews, repeat business, and avoiding negative publicity or high return rates."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "What is a 'bill of materials' (BOM) in product sourcing?",
+      "options": {
+        "A": "A list of customers who have purchased a product.",
+        "B": "A comprehensive list of all raw materials, components, and assemblies needed to manufacture a product.",
+        "C": "A document detailing marketing expenses.",
+        "D": "A shipping manifest."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The BOM is a critical document in manufacturing and sourcing, ensuring all necessary parts are accounted for and procured, especially when dealing with complex products."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "What is the primary goal of 'just-in-time' (JIT) inventory management?",
+      "options": {
+        "A": "To maximize inventory levels at all times.",
+        "B": "To receive goods only as they are needed in the production process or for direct sale, minimizing inventory holding costs.",
+        "C": "To store products for long periods.",
+        "D": "To only order products once they are completely sold out."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "JIT aims to reduce inventory costs and waste by coordinating with suppliers to deliver products or components precisely when they are required, minimizing storage and obsolescence risks."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "When considering a supplier, what does 'lead time' refer to?",
+      "options": {
+        "A": "The time it takes for a customer to place an order.",
+        "B": "The time taken from order placement with a supplier to receiving the goods.",
+        "C": "The time a product spends in transit.",
+        "D": "The time it takes to process a payment."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Understanding lead time is crucial for inventory planning to ensure products are restocked before running out, especially for international sourcing."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "What is the advantage of using multiple suppliers for the same product?",
+      "options": {
+        "A": "It always leads to higher costs.",
+        "B": "It increases dependency on a single supplier.",
+        "C": "It reduces risk of supply chain disruption and can offer better negotiation power.",
+        "D": "It complicates inventory tracking unnecessarily."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Diversifying suppliers mitigates risks like stockouts, quality issues, or price increases from a single source, and allows for competitive pricing and better terms."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "What is the role of a 'warehouse' in an E-Commerce business that holds its own inventory?",
+      "options": {
+        "A": "To serve as a customer service center.",
+        "B": "To store, organize, and prepare products for shipment to customers.",
+        "C": "To design new products.",
+        "D": "To process website analytics."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A warehouse is central to logistics, providing space for inventory storage, picking, packing, and staging orders for dispatch."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is 'cross-docking' in warehousing?",
+      "options": {
+        "A": "Storing products for long periods.",
+        "B": "Directly transferring products from incoming transport to outgoing transport with little or no storage in between.",
+        "C": "Shipping products across international borders.",
+        "D": "Using multiple warehouses simultaneously."
+      },
+      "correct": "hard",
+      "difficulty": "hard",
+      "explanation": "Cross-docking aims to reduce inventory holding costs and speed up delivery by minimizing the time products spend in the warehouse, directly moving them from inbound to outbound docks."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Why is it important to regularly reconcile physical inventory with recorded inventory?",
+      "options": {
+        "A": "To increase product prices.",
+        "B": "To identify discrepancies, prevent losses, and ensure accurate stock levels for sales and forecasting.",
+        "C": "To complicate accounting processes.",
+        "D": "To reduce the number of products in stock."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular reconciliation helps detect theft, damage, or errors in recording, ensuring that your E-Commerce system reflects actual available stock and preventing overselling or underselling."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "What does 'SEO' stand for in digital marketing?",
+      "options": {
+        "A": "Sales Efficiency Optimization",
+        "B": "Search Engine Optimization",
+        "C": "Social Engagement Outreach",
+        "D": "Site Experience Oversight"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SEO is the process of optimizing your online content so that a search engine shows it as a top result for searches of a certain keyword."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Which of these is a key element of 'on-page SEO' for an E-Commerce product page?",
+      "options": {
+        "A": "Building backlinks from other websites.",
+        "B": "Optimizing product titles, descriptions, and image alt text with relevant keywords.",
+        "C": "Running paid advertisements on Google.",
+        "D": "Posting regularly on social media."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "On-page SEO involves optimizing elements directly on your website to improve its search engine ranking and user experience, such as content, titles, and meta descriptions."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "What is 'SEM' (Search Engine Marketing)?",
+      "options": {
+        "A": "Only focuses on organic search results.",
+        "B": "Involves both SEO and paid advertising (like Google Ads) to gain visibility in search engine results.",
+        "C": "Exclusively about social media marketing.",
+        "D": "A strategy for email marketing."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SEM is a broader strategy that includes SEO (organic visibility) and paid search advertising to increase website traffic from search engines."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "What is the primary purpose of 'Google Ads' for E-Commerce businesses?",
+      "options": {
+        "A": "To improve organic search rankings directly.",
+        "B": "To display targeted advertisements to potential customers on Google search results and partner websites.",
+        "C": "To manage customer service.",
+        "D": "To analyze website traffic for free."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Google Ads (formerly AdWords) allows businesses to bid on keywords to show their ads to users searching for those terms, driving targeted traffic to their E-Commerce store."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Which social media platform is often considered best for visual product showcasing for E-Commerce?",
+      "options": {
+        "A": "LinkedIn",
+        "B": "Twitter",
+        "C": "Instagram",
+        "D": "Reddit"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Instagram is highly visual and popular for product photography, short videos, and influencer marketing, making it ideal for E-Commerce brands to showcase their products."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "What is 'email marketing' primarily used for in E-Commerce?",
+      "options": {
+        "A": "Sending random emails to unknown recipients.",
+        "B": "Building customer relationships, promoting products, and driving repeat purchases through targeted email campaigns.",
+        "C": "Only for customer support queries.",
+        "D": "Replacing website content."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Email marketing is highly effective for nurturing leads, announcing new products, offering promotions, and re-engaging customers who have abandoned their carts."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "What does 'CTR' stand for in digital advertising?",
+      "options": {
+        "A": "Customer Trust Rating",
+        "B": "Click-Through Rate",
+        "C": "Content Traffic Report",
+        "D": "Conversion Tracking Ratio"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CTR is the ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It's used to gauge the effectiveness of a campaign."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Why is 'content marketing' important for an E-Commerce business?",
+      "options": {
+        "A": "It directly generates sales with every piece of content.",
+        "B": "It builds brand authority, engages potential customers, improves SEO, and nurtures leads.",
+        "C": "It is only for large corporations.",
+        "D": "It replaces all other marketing efforts."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Content marketing (blogs, guides, videos) provides value to the audience, establishing the brand as an expert, attracting organic traffic, and guiding customers through the sales funnel."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "What is 'retargeting' or 'remarketing' in E-Commerce?",
+      "options": {
+        "A": "Targeting new customers who have never visited your site.",
+        "B": "Showing ads to users who have previously visited your website but didn't complete a purchase.",
+        "C": "Selling old products at new prices.",
+        "D": "Redesigning your website's target audience."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Retargeting campaigns aim to bring back interested visitors who left without converting, by showing them relevant ads on other websites or social media platforms."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "What is 'influencer marketing'?",
+      "options": {
+        "A": "Marketing only to celebrities.",
+        "B": "Collaborating with individuals who have a dedicated social following to promote products.",
+        "C": "Designing products based on market trends.",
+        "D": "Creating viral content without any specific person."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Influencer marketing leverages the credibility and reach of social media personalities to endorse products, often leading to increased brand awareness and sales."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Which metric measures the percentage of website visitors who complete a desired action, such as making a purchase?",
+      "options": {
+        "A": "Bounce Rate",
+        "B": "Conversion Rate",
+        "C": "Click-Through Rate",
+        "D": "Engagement Rate"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Conversion rate is a crucial E-Commerce metric, indicating the effectiveness of your website and marketing efforts in turning visitors into customers."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "What is 'A/B testing' in E-Commerce marketing?",
+      "options": {
+        "A": "Testing two completely different websites.",
+        "B": "Comparing two versions of a webpage or marketing element to see which performs better.",
+        "C": "Testing only the 'About Us' page.",
+        "D": "Testing website security features."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A/B testing (or split testing) allows E-Commerce businesses to make data-driven decisions by understanding which variations (e.g., button color, headline, image) lead to higher conversions."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "What is the primary goal of optimizing product images for web and mobile?",
+      "options": {
+        "A": "To make them load slower.",
+        "B": "To ensure they are high quality, load quickly, and are correctly sized for different devices.",
+        "C": "To remove all product details.",
+        "D": "To increase storage space on the server."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Optimized images improve page loading speed, enhance user experience, and contribute to better SEO, especially for mobile users."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Why is 'mobile-first indexing' important for E-Commerce SEO?",
+      "options": {
+        "A": "Google only indexes websites designed for desktop computers.",
+        "B": "Google primarily uses the mobile version of a website for indexing and ranking, making mobile optimization crucial.",
+        "C": "It only affects websites with mobile apps.",
+        "D": "It means websites should remove all desktop features."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Given the prevalence of mobile browsing, Google's mobile-first indexing policy means that the performance and content of your mobile site are paramount for your search rankings."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "What is the benefit of using 'user-generated content' (UGC) in E-Commerce marketing?",
+      "options": {
+        "A": "It is expensive to create.",
+        "B": "It provides authentic social proof, builds community, and can be highly engaging and cost-effective.",
+        "C": "It is always low quality.",
+        "D": "It can only be used for physical products."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "UGC, such as customer photos, videos, and reviews, is highly trusted by potential buyers and can significantly boost conversions and brand loyalty."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "What is 'affiliate marketing' in E-Commerce?",
+      "options": {
+        "A": "Hiring employees to sell products.",
+        "B": "Partnering with individuals or other businesses who earn a commission for driving sales to your store.",
+        "C": "Selling products directly to affiliates.",
+        "D": "Marketing through government channels only."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Affiliate marketing is a performance-based marketing strategy where affiliates promote your products and earn a commission on each sale made through their unique referral link."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "When designing an E-Commerce landing page for a marketing campaign, what is its primary focus?",
+      "options": {
+        "A": "To display the entire product catalog.",
+        "B": "To convert visitors into leads or customers for a specific offer or product.",
+        "C": "To provide general company information.",
+        "D": "To host customer testimonials only."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A landing page is a standalone web page created specifically for a marketing or advertising campaign, designed with a single goal: conversion."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Which of these is a common online payment method for E-Commerce?",
+      "options": {
+        "A": "Cash on delivery (COD)",
+        "B": "Bank transfer (online modes like UPI, Net Banking)",
+        "C": "Cheque payment via mail",
+        "D": "Bartering goods directly"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Online payment methods like UPI, Net Banking, credit/debit cards, and digital wallets are standard for E-Commerce transactions."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "What is 'order fulfillment' in E-Commerce?",
+      "options": {
+        "A": "Marketing products to customers.",
+        "B": "The entire process from receiving an order to delivering the product to the customer.",
+        "C": "Managing customer complaints.",
+        "D": "Designing the product packaging."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Order fulfillment includes picking, packing, shipping, and ensuring the product reaches the customer successfully. It's a critical part of the customer experience."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "What is the primary role of a 'shipping carrier' (e.g., FedEx, DHL, India Post) for an E-Commerce business?",
+      "options": {
+        "A": "To manufacture products.",
+        "B": "To transport products from the seller to the customer.",
+        "C": "To process online payments.",
+        "D": "To provide customer support."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shipping carriers are logistics companies responsible for the physical transportation and delivery of goods purchased online."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Why is 'return policy' clarity important for E-Commerce customers?",
+      "options": {
+        "A": "It encourages customers to buy more products.",
+        "B": "It builds trust, reduces customer uncertainty, and clarifies procedures for returns/exchanges.",
+        "C": "It helps the seller avoid all returns.",
+        "D": "It makes the website look professional."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A clear and fair return policy is a major trust factor for online shoppers and can significantly impact their purchasing decisions and overall satisfaction."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "What is 'COD' (Cash on Delivery) and why is it popular in some regions for E-Commerce?",
+      "options": {
+        "A": "A digital payment method.",
+        "B": "A payment method where customers pay in cash upon receiving the product, popular where online payment trust is low.",
+        "C": "A shipping method for fragile items.",
+        "D": "A system for tracking order status."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "COD offers an alternative to online payments, appealing to customers who prefer to inspect goods before paying or who lack access to digital payment options."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "What is the purpose of 'order tracking' for E-Commerce customers?",
+      "options": {
+        "A": "To allow customers to change their order contents.",
+        "B": "To provide real-time updates on the status and location of their shipment.",
+        "C": "To help customers find new products.",
+        "D": "To send promotional offers."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Order tracking enhances customer satisfaction by providing transparency and reducing anxiety about delivery times, leading to fewer customer service inquiries."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Which of these is a key aspect of good 'customer service' in E-Commerce?",
+      "options": {
+        "A": "Ignoring customer emails.",
+        "B": "Slow response times to inquiries.",
+        "C": "Prompt, helpful, and empathetic responses to customer queries and issues.",
+        "D": "Automated responses without human interaction."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Excellent customer service is vital for building loyalty, resolving issues, and maintaining a positive brand image in the competitive E-Commerce landscape."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "What is a 'chargeback' in E-Commerce payments?",
+      "options": {
+        "A": "A refund initiated by the seller.",
+        "B": "A return of funds to a customer, typically initiated by their bank, often due to a dispute or fraud.",
+        "C": "A discount offered to repeat customers.",
+        "D": "A fee for late payment."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Chargebacks are costly and problematic for E-Commerce businesses, leading to lost revenue, fees, and potential damage to merchant accounts. Preventing them through good customer service and clear policies is crucial."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "What is 'packaging' important for in E-Commerce shipping?",
+      "options": {
+        "A": "Only for aesthetic appeal.",
+        "B": "To protect products during transit, enhance brand experience, and ensure safe delivery.",
+        "C": "To make products heavier.",
+        "D": "To reduce shipping costs."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper packaging prevents damage, reflects positively on the brand, and contributes to customer satisfaction by ensuring products arrive in perfect condition."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "What is a 'shipping label' and what information does it typically contain?",
+      "options": {
+        "A": "A sticker with the product price.",
+        "B": "A label with recipient/sender addresses, tracking number, and barcode for package identification and routing.",
+        "C": "A promotional sticker for the brand.",
+        "D": "A label with product ingredients."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shipping labels are essential for logistics, providing all the necessary information for carriers to sort, track, and deliver packages correctly."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "What is the primary benefit of offering multiple payment options to E-Commerce customers?",
+      "options": {
+        "A": "It complicates the checkout process.",
+        "B": "It increases the likelihood of conversion by catering to diverse customer preferences and accessibility.",
+        "C": "It reduces website security.",
+        "D": "It is only necessary for international sales."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Offering various payment methods (credit cards, digital wallets, net banking, COD) reduces cart abandonment and accommodates more potential buyers."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "What does 'Last-Mile Delivery' refer to in E-Commerce logistics?",
+      "options": {
+        "A": "The first mile of product transportation.",
+        "B": "The final stage of the delivery process, from the distribution center to the customer's doorstep.",
+        "C": "Delivery to international customers.",
+        "D": "The process of returning products."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Last-mile delivery is often the most complex and expensive part of the shipping process, significantly impacting customer satisfaction due to its direct interaction with the end-user."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Why is having an effective 'FAQ' (Frequently Asked Questions) section beneficial for E-Commerce customer service?",
+      "options": {
+        "A": "It discourages customers from asking questions.",
+        "B": "It reduces the volume of direct inquiries, provides instant answers, and improves customer self-service.",
+        "C": "It is only for legal disclaimers.",
+        "D": "It slows down website loading."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A comprehensive FAQ page empowers customers to find answers quickly, reducing the workload on customer support teams and improving overall efficiency."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "What is a 'chatbot' used for in E-Commerce customer service?",
+      "options": {
+        "A": "To replace all human customer service agents.",
+        "B": "To provide automated, instant responses to common customer queries and guide users.",
+        "C": "To send promotional messages only.",
+        "D": "To collect customer payment information."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chatbots offer 24/7 support, handle routine questions, and can escalate complex issues to human agents, improving response times and customer experience."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "What is the significance of 'delivery speed' for E-Commerce success?",
+      "options": {
+        "A": "It has no impact on customer satisfaction.",
+        "B": "Faster delivery often leads to higher customer satisfaction, repeat purchases, and competitive advantage.",
+        "C": "It is only important for luxury goods.",
+        "D": "It always increases product returns."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "In today's E-Commerce, customers expect quick deliveries. Meeting or exceeding these expectations can significantly boost customer loyalty and positive reviews."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "When handling a customer complaint, what is the best approach for an E-Commerce seller?",
+      "options": {
+        "A": "Ignore the complaint and hope it goes away.",
+        "B": "Blame the customer for the issue.",
+        "C": "Listen actively, apologize, offer a solution, and follow up.",
+        "D": "Only respond to positive feedback."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A professional and empathetic approach to complaints can turn a negative experience into a positive one, potentially retaining the customer and preventing negative reviews."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is 'E-Commerce analytics'?",
+      "options": {
+        "A": "Guessing future sales based on intuition.",
+        "B": "The process of collecting, analyzing, and reporting data related to online store performance, customer behavior, and marketing efforts.",
+        "C": "Only tracking website visitors' IP addresses.",
+        "D": "A tool for designing website layouts."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "E-Commerce analytics provides insights into what's working and what's not, enabling data-driven decisions for optimization and growth."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Which tool is commonly used for tracking website traffic and user behavior on E-Commerce sites?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Google Analytics",
+        "C": "Adobe Photoshop",
+        "D": "WhatsApp"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Google Analytics is a powerful and widely used free tool that provides detailed statistics about website traffic, user demographics, behavior, and conversion data."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "What does 'Bounce Rate' indicate in E-Commerce analytics?",
+      "options": {
+        "A": "The number of times a customer returns to your site.",
+        "B": "The percentage of visitors who leave your website after viewing only one page.",
+        "C": "The speed at which your website loads.",
+        "D": "The number of products added to a cart."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A high bounce rate can indicate issues with page content, design, relevance to the user's search, or poor user experience, suggesting that visitors aren't finding what they need."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "What is 'Average Order Value' (AOV) and why is it important?",
+      "options": {
+        "A": "The average number of items per order.",
+        "B": "The average amount of money spent per order, important for understanding customer spending habits and revenue per transaction.",
+        "C": "The average delivery time for orders.",
+        "D": "The average cost of acquiring a customer."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Increasing AOV through strategies like upselling, cross-selling, and free shipping thresholds can significantly boost overall revenue without needing more traffic."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "What is 'Customer Lifetime Value' (CLTV) in E-Commerce?",
+      "options": {
+        "A": "The value of a customer's first purchase.",
+        "B": "The total revenue a business can reasonably expect from a single customer account over their entire relationship with the company.",
+        "C": "The time it takes for a customer to make a purchase.",
+        "D": "The number of products a customer buys in one year."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CLTV helps businesses understand the long-term profitability of their customers, guiding decisions on customer acquisition costs, retention strategies, and personalized marketing."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Which of these is a strategy to increase 'conversion rates' on an E-Commerce site?",
+      "options": {
+        "A": "Making the checkout process longer.",
+        "B": "Improving website speed, optimizing product pages, and simplifying the checkout process.",
+        "C": "Removing customer reviews.",
+        "D": "Offering fewer payment options."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Conversion rate optimization (CRO) focuses on making it easier and more appealing for visitors to complete desired actions, directly impacting sales efficiency."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "What is 'upselling' in E-Commerce?",
+      "options": {
+        "A": "Offering a cheaper alternative to a product.",
+        "B": "Encouraging customers to purchase a more expensive or premium version of a selected item.",
+        "C": "Selling products to new customers only.",
+        "D": "Selling unrelated products."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Upselling aims to increase the value of a single transaction by convincing the customer to buy a higher-end product or upgrade."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "What is 'cross-selling' in E-Commerce?",
+      "options": {
+        "A": "Selling products in a different category.",
+        "B": "Suggesting complementary products that go well with the item a customer is considering or has already purchased.",
+        "C": "Selling products across different countries.",
+        "D": "Selling products with a discount."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cross-selling enhances the customer's experience by offering relevant additional items, such as recommending batteries with a toy or a case with a phone."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Why is 'customer feedback' crucial for E-Commerce growth?",
+      "options": {
+        "A": "It has no impact on future strategies.",
+        "B": "It provides valuable insights for product improvement, service enhancement, and identifying market opportunities.",
+        "C": "It is only useful for marketing departments.",
+        "D": "It only highlights negative aspects."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Listening to customer feedback (reviews, surveys, direct communication) helps businesses adapt, innovate, and build products/services that truly meet customer needs, fostering loyalty and growth."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "What is the primary benefit of 'personalization' in E-Commerce (e.g., personalized recommendations)?",
+      "options": {
+        "A": "It makes the website less secure.",
+        "B": "It enhances customer experience, increases engagement, and drives higher conversion rates and AOV.",
+        "C": "It is only for luxury brands.",
+        "D": "It slows down website performance."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Personalization makes shopping more relevant and enjoyable for individual customers by tailoring content, product recommendations, and offers based on their past behavior and preferences."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "What is 'abandoned cart recovery' in E-Commerce?",
+      "options": {
+        "A": "Deleting abandoned shopping carts.",
+        "B": "Strategies (like email reminders) to encourage customers who left items in their cart to complete the purchase.",
+        "C": "A method to track lost inventory.",
+        "D": "Offering refunds for abandoned carts."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Abandoned cart recovery is a vital strategy as a significant percentage of online shoppers abandon their carts. Reminders can help recover potential lost sales."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "What is the importance of 'market research' for E-Commerce growth?",
+      "options": {
+        "A": "It is an outdated practice.",
+        "B": "It helps identify target audiences, understand market trends, assess competition, and discover new opportunities.",
+        "C": "It is only for established businesses.",
+        "D": "It primarily focuses on internal operations."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Market research provides the foundational knowledge needed to make informed decisions about product development, pricing, marketing strategies, and overall business direction."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "What is a 'loyalty program' in E-Commerce?",
+      "options": {
+        "A": "A program for employees only.",
+        "B": "A rewards program designed to incentivize repeat purchases and build long-term customer relationships.",
+        "C": "A discount for first-time buyers.",
+        "D": "A system for tracking product returns."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Loyalty programs (points systems, exclusive discounts, tiered benefits) encourage customers to repeatedly choose your brand over competitors."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "When scaling an E-Commerce business, what does 'automation' primarily help with?",
+      "options": {
+        "A": "Increasing manual workload.",
+        "B": "Streamlining repetitive tasks like order processing, email marketing, and inventory updates, improving efficiency and reducing errors.",
+        "C": "Reducing customer interaction.",
+        "D": "Making products more expensive."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Automation is key for scaling, allowing businesses to handle increased volume without proportionally increasing labor costs, freeing up time for strategic growth initiatives."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "What is the concept of 'omnichannel' in E-Commerce?",
+      "options": {
+        "A": "Selling through only one online channel.",
+        "B": "Providing a seamless and consistent customer experience across all available channels (online, mobile, physical store, social media).",
+        "C": "Focusing solely on digital marketing channels.",
+        "D": "Selling identical products on different websites."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Omnichannel strategy ensures that a customer's journey is integrated and consistent, regardless of how or where they interact with the brand, leading to a unified and improved experience."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "What is the main reason for regularly updating product listings and website content?",
+      "options": {
+        "A": "To confuse search engines.",
+        "B": "To keep information fresh, improve SEO, and provide customers with the most accurate and engaging details.",
+        "C": "To increase website downtime.",
+        "D": "To reduce the number of products available."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular updates signal to search engines that your site is active and relevant, and they ensure customers always have access to current product information, improving trust and user experience."
+    }
+  ]
+}

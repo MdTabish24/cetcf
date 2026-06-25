@@ -1,0 +1,1443 @@
+{
+  "course_name": "Music Teacher — Keyboard / Vocals",
+  "sector": "Education & Early Childhood",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Sangeet ke Mool Siddhant (Fundamental Principles of Music)",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Keyboard/Piano Basics",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Vocal Techniques & Training (Gaayan Kala)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Raag aur Taal ka Parichay (Introduction to Ragas and Rhythms)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Teaching Methodology & Classroom Management",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Practical Application & Performance",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Bharatiya shastriya sangeet mein kul kitne Shuddha Swar hote hain?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "12",
+        "D": "10"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bharatiya shastriya sangeet mein 7 shuddha swar hote hain: Sa, Re, Ga, Ma, Pa, Dha, Ni."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ek Saptak (Octave) mein kitne swar hote hain (shuddha aur vikrit milakar)?",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "12",
+        "D": "15"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ek saptak mein 7 shuddha aur 5 vikrit swar (4 komal, 1 teevra) milakar kul 12 swar hote hain."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Sangeet mein 'Laya' ka kya arth hai?",
+      "options": {
+        "A": "Swar ki unchai",
+        "B": "Gaane ka volume",
+        "C": "Gati ya Speed",
+        "D": "Raag ka naam"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "'Laya' sangeet ki gati ya tempo (speed) ko darshata hai. Iske teen prakar hote hain: Vilambit, Madhya, aur Drut."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Inmein se kaun se swar 'Achal Swar' kehlate hain, jo kabhi vikrit nahi hote?",
+      "options": {
+        "A": "Re aur Ga",
+        "B": "Sa aur Pa",
+        "C": "Ga aur Dha",
+        "D": "Ma aur Ni"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sa (Shadaj) aur Pa (Pancham) hamesha shuddha rehte hain aur kabhi komal ya teevra nahi hote, isliye inhe 'Achal Swar' kaha jaata hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Vikrit swaron mein 'Teevra' swar kaun sa hai?",
+      "options": {
+        "A": "Re",
+        "B": "Ga",
+        "C": "Ma",
+        "D": "Dha"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Madhyam (Ma) ekmatra swar hai jiska Teevra roop hota hai. Baaki Re, Ga, Dha, Ni ke Komal roop hote hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Saptak ke teen prakar kaun se hain?",
+      "options": {
+        "A": "Subah, Dopehar, Shaam",
+        "B": "Mandra, Madhya, Taar",
+        "C": "Aaroh, Avroh, Pakad",
+        "D": "Shuddha, Komal, Teevra"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Saptak (octave) ke teen mukhya prakar hain: Mandra (lower), Madhya (middle), aur Taar (higher)."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Raag utpann karne wale swar samuh ko kya kehte hain?",
+      "options": {
+        "A": "Thaat",
+        "B": "Taal",
+        "C": "Laya",
+        "D": "Alankar"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Thaat 12 swaron mein se 7 swaron ka woh samuh hai jisse raagon ki utpatti hoti hai. Hindustani sangeet mein 10 thaat maane gaye hain."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Swaro ke chadhate hue kram ko kya kehte hain?",
+      "options": {
+        "A": "Avroh",
+        "B": "Pakad",
+        "C": "Sthayi",
+        "D": "Aaroh"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Jab swar neeche se upar (Sa se Ni) ki taraf jaate hain, us kram ko Aaroh (ascent) kehte hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Swaro ke utarte hue kram ko kya kehte hain?",
+      "options": {
+        "A": "Aaroh",
+        "B": "Avroh",
+        "C": "Antara",
+        "D": "Laya"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jab swar upar se neeche (Ni se Sa) ki taraf aate hain, us kram ko Avroh (descent) kehte hain."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Raag ka sabse mahatvapurna swar kya kehlata hai?",
+      "options": {
+        "A": "Samvadi Swar",
+        "B": "Anuvadi Swar",
+        "C": "Vadi Swar",
+        "D": "Vivadi Swar"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Vadi swar kisi bhi raag ka sabse pramukh swar hota hai, jiska prayog raag mein sabse zyada kiya jaata hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Raag ke doosre sabse mahatvapurna swar ko kya kehte hain?",
+      "options": {
+        "A": "Vadi Swar",
+        "B": "Samvadi Swar",
+        "C": "Nyas Swar",
+        "D": "Graha Swar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Samvadi swar Vadi ke baad raag ka doosra sabse mahatvapurna swar hota hai. Ise Vadi ka mantri bhi kaha jaata hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Hindustani Shastriya Sangeet mein kul kitne Thaat maane gaye hain?",
+      "options": {
+        "A": "7",
+        "B": "12",
+        "C": "10",
+        "D": "8"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Pandit Vishnu Narayan Bhatkhande dwara pratipadit paddhati ke anusaar, Hindustani sangeet mein 10 thaat maane gaye hain (Bilawal, Kalyan, Khamaj, etc.)."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Woh chota swar-samuh jo ek raag ki pehchan batata hai, use kya kehte hain?",
+      "options": {
+        "A": "Aaroh",
+        "B": "Avroh",
+        "C": "Pakad",
+        "D": "Taan"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pakad ya Mukhya Ang swaron ka woh chota sa hissa hota hai jise sunte hi raag pehchana ja sakta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Drut Laya ka kya arth hai?",
+      "options": {
+        "A": "Bahut dheemi gati",
+        "B": "Madhyam gati",
+        "C": "Bahut tez gati",
+        "D": "Ruk-ruk kar gaana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Drut laya ka arth hai tez gati (fast tempo). Vilambit laya dheemi aur Madhya laya medium tempo ko kehte hain."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Sangeet mein 'Shruti' ki avdharna kya hai?",
+      "options": {
+        "A": "Gaane ki volume",
+        "B": "Do swaron ke beech ka atisukshm antar",
+        "C": "Ek prakaar ka taal",
+        "D": "Raag ka naam"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Shruti sangeet mein suni ja sakne wali sabse choti dhwani (microtone) hai. Ek saptak mein 22 shrutiyan maani gayi hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Geet ke pehle bhaag ko aam taur par kya kaha jaata hai?",
+      "options": {
+        "A": "Antara",
+        "B": "Sthayi",
+        "C": "Sanchari",
+        "D": "Abhog"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kisi bhi geet ya bandish ka pehla bhaag, jo baar-baar laut kar aata hai, use Sthayi ya Mukhda kehte hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Swaron ka aisa kram jo niyam-baddh ho, kya kehlata hai?",
+      "options": {
+        "A": "Shor",
+        "B": "Alankar",
+        "C": "Kala",
+        "D": "Vani"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Alankar swaron ka ek niyam-baddh kram hota hai jiska abhyaas gala taiyaar karne aur sangeet ki samajh badhane ke liye kiya jaata hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Keyboard par do kaali keys (black keys) ke group se theek pehle wali safed key (white key) kaun si hoti hai?",
+      "options": {
+        "A": "G",
+        "B": "A",
+        "C": "C",
+        "D": "F"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Keyboard par C note ko pehchanne ka sabse aasan tareeka hai do black keys ke group ko dhoondhna. Uske theek pehle wali white key C hoti hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Keyboard par kaali keys (black keys) ko kya kaha jaata hai?",
+      "options": {
+        "A": "Flats aur Sharps",
+        "B": "Majors aur Minors",
+        "C": "Naturals",
+        "D": "Octaves"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Black keys ya toh agle note ka sharp (♯) hoti hain ya pichle note ka flat (♭). Jaise C ke baad wali black key C♯ hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Ek 'C Major Scale' mein kaun se swar hote hain?",
+      "options": {
+        "A": "C, D, E, F, G, A, B",
+        "B": "C, D, Eb, F, G, Ab, Bb",
+        "C": "C, D, E, F#, G, A, B",
+        "D": "Saare safed keys"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "C Major scale mein koi bhi black key (sharp ya flat) nahi hoti. Ismein sirf white keys C, D, E, F, G, A, B aati hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Keyboard bajate samay angoothe (thumb) ko kaun sa number diya jaata hai?",
+      "options": {
+        "A": "5",
+        "B": "0",
+        "C": "1",
+        "D": "T"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Standard finger numbering mein, dono haathon ke angoothe (thumb) ko 1, index finger ko 2, middle ko 3, ring ko 4, aur pinky ko 5 number diya jaata hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Teen ya usse zyada notes ko ek saath bajane ko kya kehte hain?",
+      "options": {
+        "A": "Scale",
+        "B": "Chord",
+        "C": "Arpeggio",
+        "D": "Rhythm"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek chord teen ya usse adhik notes ka samuh hota hai jo ek saath harmony banane ke liye bajaye jaate hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "C Major chord banane ke liye kaun se teen notes ek saath bajaye jaate hain?",
+      "options": {
+        "A": "C, D, E",
+        "B": "C, E, G",
+        "C": "C, F, G",
+        "D": "G, B, D"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek major chord uske root note (1st), major third (3rd), aur perfect fifth (5th) se banta hai. C Major scale mein yeh C, E, aur G hote hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Keyboard par 'Sustain Pedal' ka kya kaam hota hai?",
+      "options": {
+        "A": "Awaaz ko tez karna",
+        "B": "Awaaz ko dheema karna",
+        "C": "Note ko hold karke uski goonj banaye rakhna",
+        "D": "Note ko badalna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sustain pedal dabane se, key chhodne ke baad bhi note ki awaaz goonjti rehti hai, jisse sangeet mein ek continuity aati hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Ek chord ke notes ko ek-ek karke tezi se bajane ko kya kehte hain?",
+      "options": {
+        "A": "Staccato",
+        "B": "Legato",
+        "C": "Arpeggio",
+        "D": "Vibrato"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Arpeggio, jise 'broken chord' bhi kehte hain, mein chord ke notes ko ek saath na bajakar, ek ke baad ek tezi se bajaya jaata hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Ek standard 88-key piano par kitne octaves hote hain?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7 se thoda zyada",
+        "D": "8"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Ek 88-key piano mein 7 poore octaves aur 3 extra keys (ek minor third) hoti hain, isliye iska range 7 1/4 octaves hota hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Keyboard par 'Middle C' ki position kya hoti hai?",
+      "options": {
+        "A": "Sabse pehla C",
+        "B": "Sabse aakhri C",
+        "C": "Keyboard ke lagbhag beech ka C",
+        "D": "Har C ko Middle C kehte hain"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Middle C (C4) woh C note hai jo keyboard ke lagbhag kendra (center) mein hota hai. Yeh music notation mein Treble aur Bass clef ke beech ka reference point hota hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "A Minor scale, C Major scale ka 'Relative Minor' hai. Iska kya matlab hai?",
+      "options": {
+        "A": "Dono mein ek jaise chords hain",
+        "B": "Dono mein ek jaise notes hain, lekin starting point alag hai",
+        "C": "Dono ka rhythm ek jaisa hai",
+        "D": "Dono hamesha saath bajaye jaate hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Relative major aur minor scales mein same key signature (wohi notes) hote hain. C Major (C D E F G A B) aur A Minor (A B C D E F G) mein same notes hain, bas unka tonic ya starting note alag hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Beginner student ke liye ungliyon ki practice ke liye sabse accha abhyaas kaun sa hai?",
+      "options": {
+        "A": "Seedhe gaane bajana",
+        "B": "Hanon exercises ya scales",
+        "C": "Sirf chords bajana",
+        "D": "Tez gaane sunna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hanon exercises aur scales bajane se ungliyon mein taakat, lachilapan (flexibility) aur speed aati hai, jo keyboard bajane ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Keyboard par 'Transpose' button ka kya upyog hai?",
+      "options": {
+        "A": "Instrument ki awaaz badalna",
+        "B": "Gaane ki pitch ko upar ya neeche karna bina keys badle",
+        "C": "Rhythm badalna",
+        "D": "Gaana record karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Transpose feature se aap poore keyboard ki pitch ko upar (sharper) ya neeche (flatter) kar sakte hain, jisse alag-alag scale ke gaane original fingering se bajaye ja sakte hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Ek chord ke notes ko alag kram (order) mein bajane ko kya kehte hain? Jaise C-E-G ki jagah E-G-C.",
+      "options": {
+        "A": "Chord Progression",
+        "B": "Chord Inversion",
+        "C": "Chord Melody",
+        "D": "Chord Breaking"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Chord Inversion tab hota hai jab chord ka root note sabse neeche na ho. Jaise C Major (C-E-G) ka first inversion E-G-C aur second inversion G-C-E hota hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Sheet music mein 'Treble Clef' (𝄞) aam taur par kaun se haath ke liye istemaal hota hai?",
+      "options": {
+        "A": "Dayen haath (Right Hand)",
+        "B": "Bayen haath (Left Hand)",
+        "C": "Dono haath",
+        "D": "Clef ka haath se koi sambandh nahi"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Treble Clef, jise G-clef bhi kehte hain, aam taur par unchi pitch ke notes (jaise Middle C se upar) ke liye use hota hai, jo aksar dayen haath se melody bajane ke kaam aate hain."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Sheet music mein 'Bass Clef' (𝄢) aam taur par kaun se haath ke liye istemaal hota hai?",
+      "options": {
+        "A": "Dayen haath (Right Hand)",
+        "B": "Bayen haath (Left Hand)",
+        "C": "Dono haath",
+        "D": "Clef ka haath se koi sambandh nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bass Clef, jise F-clef bhi kehte hain, aam taur par neechi pitch ke notes (jaise Middle C se neeche) ke liye use hota hai, jo aksar bayen haath se chords ya bass line bajane ke kaam aate hain."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Keyboard par 'Dynamics' ka kya matlab hai?",
+      "options": {
+        "A": "Kitni tezi se bajana hai",
+        "B": "Kaun sa note bajana hai",
+        "C": "Kitna zor se ya dheere se (volume) bajana hai",
+        "D": "Instrument ki awaaz"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dynamics music mein volume ke utaar-chadhav ko darshata hai. Jaise 'Piano' (dheere) aur 'Forte' (zor se) bajana."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Gaane se pehle 'Voice warm-up' karna kyon zaroori hai?",
+      "options": {
+        "A": "Gaane yaad karne ke liye",
+        "B": "Vocal cords ko chot se bachane aur aawaz ko taiyaar karne ke liye",
+        "C": "Stage ka dar door karne ke liye",
+        "D": "Yeh zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Warm-up karne se vocal cords mein blood circulation badhta hai, unhe flexibility milti hai aur gaate samay strain ya chot lagne ka khatra kam ho jaata hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Sahi tareeke se gaane ke liye saans kahan se leni chahiye?",
+      "options": {
+        "A": "Sirf naak se",
+        "B": "Sirf muh se",
+        "C": "Chhati (Chest) se",
+        "D": "Pet ya Diaphragm se"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Diaphragmatic breathing se saans par behtar control milta hai, jisse lambe notes lagana aur aawaz ko support dena aasan ho jaata hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Riyaaz mein 'Alankars' ka abhyaas karne ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Naye raag seekhna",
+        "B": "Gale mein swaron ko saaf aur taiyaar karna",
+        "C": "Taal seekhna",
+        "D": "Gaane likhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Alankar ke abhyaas se swar gyaan, gale ki taiyaari, aawaz ki flexibility, aur sur mein gaane ki kshamta badhti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Vocal practice mein 'Aakaar' ka kya matlab hai?",
+      "options": {
+        "A": "Swar ko 'Aa' dhwani ke saath gaana",
+        "B": "Swar ko 'Ee' dhwani ke saath gaana",
+        "C": "Swar ko 'Ooo' dhwani ke saath gaana",
+        "D": "Swar ko gungunana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Aakaar mein har swar ko muh kholkar 'Aa' ki dhwani ke saath gaaya jaata hai. Isse aawaz khulti hai aur projection behtar hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "'Kharaj ka Riyaaz' kya hota hai?",
+      "options": {
+        "A": "Tez gati mein gaana",
+        "B": "Mandra Saptak (lower octave) ke swaron ka abhyaas",
+        "C": "Taar Saptak (higher octave) ke swaron ka abhyaas",
+        "D": "Bina ruke gaana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kharaj ka riyaaz subah ke samay mandra saptak ke swaron (Sa, Ni, Dha) ka abhyaas hota hai. Isse aawaz mein gehraai aur sthirta aati hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Gaate samay 'Pitch' ka kya matlab hai?",
+      "options": {
+        "A": "Aawaz ki volume",
+        "B": "Aawaz ka sur (motapan ya patlapan)",
+        "C": "Gaane ki speed",
+        "D": "Shabdon ka uchharan"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pitch aawaz ki frequency ko batata hai, jisse tay hota hai ki aawaz kitni unchi (shrill) ya neechi (bass) hai. Sahi sur mein gaane ka matlab hai sahi pitch par gaana."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Ek student ko 'Besura' gaane se rokne ke liye teacher ko sabse pehle kya sikhana chahiye?",
+      "options": {
+        "A": "Tez gaane",
+        "B": "Mushkil raag",
+        "C": "Ek swar (Sa) par der tak theherna (Swar Sadhana)",
+        "D": "Stage par perform karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek hi swar par focus karke use sunne aur milane ki koshish karne se kaan taiyaar hote hain aur sur ki samajh badhti hai. Yeh pitch correction ka pehla kadam hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Gaate samay sahi 'Posture' (baithne ya khade hone ka tareeka) kyon mahatvapurna hai?",
+      "options": {
+        "A": "Stage par acche dikhne ke liye",
+        "B": "Sahi breath support aur aawaz ke free flow ke liye",
+        "C": "Gaane yaad rakhne ke liye",
+        "D": "Iska koi khaas mahatva nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Seedhi reedh ki haddi (straight spine) aur relaxed shoulders rakhne se diaphragm ko kaam karne ki poori jagah milti hai aur aawaz bina rukawat ke nikalti hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "'Voice Modulation' ka kya arth hai?",
+      "options": {
+        "A": "Hamesha ek hi volume mein gaana",
+        "B": "Gaane ke bhaav ke anusaar aawaz ke tone aur volume mein utaar-chadhav lana",
+        "C": "Sirf unche sur mein gaana",
+        "D": "Gaane ke bol badalna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Voice modulation gaane mein jaan daalne ki kala hai. Ismein emotions ke hisaab se aawaz ko kabhi naram, kabhi zor se, kabhi meetha, ya kabhi powerful banaya jaata hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Swar ko hilakar ya kampan ke saath gaane ki kriya ko kya kehte hain?",
+      "options": {
+        "A": "Meend",
+        "B": "Gamak",
+        "C": "Khatka",
+        "D": "Murki"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Gamak swaron ko gambhirta se kampan dekar gaane ki ek prakriya hai. Yeh shastriya sangeet ka ek mahatvapurna ang hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Ek swar se doosre swar par bina tode, mulayamiyat se jaane ko kya kehte hain?",
+      "options": {
+        "A": "Meend",
+        "B": "Khatka",
+        "C": "Zamzama",
+        "D": "Sapat Taan"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Meend ek swar se doosre swar tak aawaz ko bina tode,滑らか (smoothly) le jaane ki kala hai. Jaise Ga se Sa par aana."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Shabdon ka saaf uchharan (clear diction) gaane mein kyon zaroori hai?",
+      "options": {
+        "A": "Taki gaana lamba lage",
+        "B": "Taki sangeet mushkil lage",
+        "C": "Taki sunne wale ko gaane ke bol aur bhaav saaf samajh aayein",
+        "D": "Yeh zaroori nahi hai, sirf sur zaroori hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Saaf uchharan se gaane ka arth aur uske peeche ke bhaav (emotions) aasaani se audience tak pahunchte hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Apni 'Vocal Range' (aawaz ka vistaar) badhane ke liye kya karna chahiye?",
+      "options": {
+        "A": "Hamesha zor se gaana",
+        "B": "Niyamit roop se scales ka abhyaas neeche se upar tak karna",
+        "C": "Sirf apne pasand ke gaane gaana",
+        "D": "Thanda paani peena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dheere-dheere aur niyamit roop se scales (aaroh-avroh) ka abhyaas karne se vocal cords stretch hote hain aur aawaz ka vistaar (range) surakshit tareeke se badhta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar gaate samay gala dukhne lage to kya karna chahiye?",
+      "options": {
+        "A": "Aur zor se gaana",
+        "B": "Gaana band karke gale ko aaram dena",
+        "C": "Thanda paani peena",
+        "D": "Dhyan nahi dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gale mein dard ya khichav ka matlab hai ki vocal cords par zaroorat se zyada dabav pad raha hai. Aise mein turant gaana rok kar aaram dena sabse zaroori hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "'Tanpura' ya 'Tanpura App' ka riyaaz ke dauran kya upyog hai?",
+      "options": {
+        "A": "Taal dene ke liye",
+        "B": "Gaane ke bol dikhane ke liye",
+        "C": "Sahi sur (pitch reference) ka aadhar pradan karne ke liye",
+        "D": "Gaana record karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Tanpura lagatar 'Sa' aur 'Pa' ya 'Ma' ka swar deta rehta hai, jise sunkar gaayak apne sur ko pakka karta hai aur besura hone se bachta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Gaayak ke liye rozana riyaaz ka sabse accha samay kaun sa maana jaata hai?",
+      "options": {
+        "A": "Dopehar mein khaane ke baad",
+        "B": "Raat ko sone se theek pehle",
+        "C": "Subah-subah (Bhor)",
+        "D": "Kabhi bhi"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Subah ke samay vatavaran shaant hota hai, shareer aur dimaag taaza hota hai, aur gala bhi aaram ke baad riyaaz ke liye taiyaar hota hai. Is samay riyaaz zyada faldai hota hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "'Falsetto' voice kya hoti hai?",
+      "options": {
+        "A": "Bahut bhaari aawaz",
+        "B": "Ek prakar ki mardana aawaz jo natural range se upar gaane ke liye use hoti hai",
+        "C": "Besuri aawaz",
+        "D": "Kharaab aawaz"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Falsetto ek vocal register hai jo modal voice (normal singing voice) ke upar hota hai. Isse singers, khaaskar male singers, apni natural range se unche notes gaa paate hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Sangeet mein 'Taal' kise kehte hain?",
+      "options": {
+        "A": "Swaro ka samuh",
+        "B": "Laya ya gati ka maap (measurement of rhythm)",
+        "C": "Gaane ke bol",
+        "D": "Ek sangeet ka instrument"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Taal rhythm ka ek aavartak (cyclic) pattern hota hai jo matraon mein gina jaata hai. Yeh sangeet ko ek samay ka framework deta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Sabse prachalit taalon mein se ek, 'Teentaal' mein kitni matrayein hoti hain?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "16",
+        "D": "10"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Teentaal mein 16 matrayein hoti hain, jo 4-4 matraon ke 4 vibhagon (divisions) mein banti hoti hain."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Taal mein pehli matra, jahan sabse zyada zor hota hai, use kya kehte hain?",
+      "options": {
+        "A": "Khaali",
+        "B": "Taali",
+        "C": "Sam",
+        "D": "Vibhag"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "'Sam' taal cycle ki pehli matra hoti hai. Gaayak aur vadak aksar 'Sam' par aakar milte hain, jisse sangeet mein ek sundar anubhav hota hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Raag Yaman kis samay gaaya jaata hai?",
+      "options": {
+        "A": "Subah",
+        "B": "Dopehar",
+        "C": "Raatri ka pratham prahar (Evening)",
+        "D": "Aadhi raat"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Raag Yaman, jise Kalyan Thaat ka raag maana jaata hai, shaam ke samay (raatri ke pehle prahar) gaaya-bajaya jaata hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Raag Bhairav mein kaun se swar komal lagte hain?",
+      "options": {
+        "A": "Re aur Ga",
+        "B": "Re aur Dha",
+        "C": "Ga aur Ni",
+        "D": "Saare shuddha"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Raag Bhairav ek subah ka raag hai aur iski pehchan Komal Rishabh (Re) aur Komal Dhaivat (Dha) ke prayog se hoti hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "'Dadra Taal' mein kitni matrayein hoti hain?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "10"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Dadra taal mein 6 matrayein hoti hain, jo 3-3 matraon ke do vibhagon mein banti hoti hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Kaun sa Thaat hai jismein saare swar shuddha hote hain?",
+      "options": {
+        "A": "Kalyan",
+        "B": "Bhairav",
+        "C": "Bilawal",
+        "D": "Khamaj"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bilawal thaat mein saaton swar shuddha (natural) lagte hain. Yeh Western music ke C Major scale ke samaan hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Raag Yaman ka Vadi aur Samvadi swar kya hai?",
+      "options": {
+        "A": "Sa aur Pa",
+        "B": "Re aur Dha",
+        "C": "Ga aur Ni",
+        "D": "Ma aur Sa"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Raag Yaman ka Vadi (sabse mahatvapurna) swar Gandhar (Ga) aur Samvadi (doosra mahatvapurna) swar Nishad (Ni) hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Taal mein 'Khaali' ko dikhane ke liye kya ishara kiya jaata hai?",
+      "options": {
+        "A": "Taali bajana",
+        "B": "Chutki bajana",
+        "C": "Haath ko hawa mein lehrana",
+        "D": "Ungli se ginna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Khaali, jise 'un-stressed beat' bhi kehte hain, ko darshane ke liye haath se taali na bajakar use hawa mein lehraaya jaata hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Raag Bhupali mein kaun se do swar varjit (omitted) hain?",
+      "options": {
+        "A": "Re aur Dha",
+        "B": "Ga aur Ni",
+        "C": "Ma aur Ni",
+        "D": "Sa aur Pa"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Raag Bhupali ek Audav jaati (5 swaron wala) ka raag hai. Ismein Madhyam (Ma) aur Nishad (Ni) swar nahi lagte. Iska aaroh-avroh hai: Sa Re Ga Pa Dha Sa'."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Film sangeet mein sabse zyada istemaal hone wala taal kaun sa hai?",
+      "options": {
+        "A": "Teentaal",
+        "B": "Jhaptaal",
+        "C": "Ektaal",
+        "D": "Keherwa"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Keherwa taal, jismein 8 matrayein hoti hain, apne saral aur catchy rhythm ke kaaran Hindi film sangeet aur lok sangeet mein bahut lokpriya hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Ek 'Bandish' kya hoti hai?",
+      "options": {
+        "A": "Ek sangeet ka instrument",
+        "B": "Ek raag mein bandhi hui geet ki rachna",
+        "C": "Ek prakaar ka taal",
+        "D": "Sangeet ka ek niyam"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bandish ek aisi rachna (composition) hoti hai jiske bol aur dhun kisi khaas raag aur taal ke niyamon mein bandhe hote hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Raag 'Bihag' kis Thaat se utpann hua hai?",
+      "options": {
+        "A": "Kalyan",
+        "B": "Bilawal",
+        "C": "Khamaj",
+        "D": "Asavari"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Raag Bihag Bilawal thaat se utpann maana jaata hai, lekin ismein Teevra Madhyam (Ma) ka bhi prayog hota hai, jiske kaaran ismein Kalyan raag ki bhi jhalak milti hai. Mukhya roop se yeh Bilawal thaat ka hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "'Jhaptaal' mein kitni matrayein aur vibhag hote hain?",
+      "options": {
+        "A": "12 matra, 4 vibhag",
+        "B": "10 matra, 4 vibhag (2-3-2-3)",
+        "C": "14 matra, 4 vibhag",
+        "D": "16 matra, 4 vibhag"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jhaptaal mein 10 matrayein hoti hain, jinke vibhag 2, 3, 2, 3 ke kram mein hote hain. Iski pehli, teesri aur aathvin matra par taali hoti hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Raag mein prayog na hone wale swar ko kya kehte hain?",
+      "options": {
+        "A": "Vadi Swar",
+        "B": "Vivadi Swar",
+        "C": "Varjit Swar",
+        "D": "Anuvadi Swar"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Jin swaron ka prayog kisi raag mein bilkul nahi kiya jaata, unhe Varjit (omitted/forbidden) swar kehte hain. Jaise Bhupali mein Ma aur Ni."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Raag ki jaati (Audav, Shadav, Sampurna) kis aadhar par tay ki jaati hai?",
+      "options": {
+        "A": "Gaane ke samay ke aadhar par",
+        "B": "Aaroh-Avroh mein prayog hone wale swaron ki sankhya par",
+        "C": "Vadi-Samvadi swar ke aadhar par",
+        "D": "Taal ke aadhar par"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar raag mein 5 swar hain to Audav, 6 swar hain to Shadav, aur saaton swar hain to Sampurna jaati kehlati hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Kaun sa raag 'kafi thaat' ka hai aur aksar holi ke geeton mein paya jaata hai?",
+      "options": {
+        "A": "Bhairav",
+        "B": "Yaman",
+        "C": "Kafi",
+        "D": "Bihag"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Raag Kafi, jismein Ga aur Ni komal lagte hain, ek chanchal prakriti ka raag hai aur iska prayog thumri, hori, aur dadra jaisi shailiyon mein bahut hota hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Chhote bachchon ko sangeet sikhane ka sabse prabhavi tareeka kya hai?",
+      "options": {
+        "A": "Unhe lambe lecture dena",
+        "B": "Khel aur gatividhiyon (games and activities) ka istemaal karna",
+        "C": "Sirf shastriya sangeet sikhana",
+        "D": "Unhe roz test dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chhote bachche khel-khel mein sabse accha seekhte hain. Rhymes, music games, aur kahaniyon ke zariye sangeet sikhana unhe engage rakhta hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Ek music teacher mein sabse mahatvapurna gun (quality) kya hona chahiye?",
+      "options": {
+        "A": "Bahut accha gaayak hona",
+        "B": "Dhairya (Patience) aur protsahan dene ki kshamta",
+        "C": "Sakht anushasan (Strict discipline)",
+        "D": "Bahut saare instruments bajana aana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Har student alag gati se seekhta hai. Ek accha teacher dhairya rakhta hai aur student ki chhoti-chhoti safaltaon par bhi use protsahit (encourage) karta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Agar koi student baar-baar ek hi galti kar raha ho, to teacher ko kya karna chahiye?",
+      "options": {
+        "A": "Student ko daantna",
+        "B": "Galti ko nazarandaaz karna",
+        "C": "Usi concept ko ek naye aur saral tareeke se samjhana",
+        "D": "Use practice karne se mana kar dena"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek hi tareeka har student ke liye kaam nahi karta. Teacher ko creative hona chahiye aur galti ko sudharne ke liye alag-alag approach try karne chahiye."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Music class ke liye 'Lesson Plan' banane ka kya fayda hai?",
+      "options": {
+        "A": "Class ko aniyantrit (unorganized) banane ke liye",
+        "B": "Class ke samay ka sahi upyog karne aur seekhne ke lakshya (learning goals) tay karne ke liye",
+        "C": "Yeh sirf ek formality hai",
+        "D": "Students ko confuse karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lesson plan se teacher ko pata hota hai ki aaj kya, kitna, aur kaise padhana hai. Isse class systematic chalti hai aur learning outcomes behtar hote hain."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Ek beginner student ke liye pehli keyboard class mein kya sikhana sabse upyukt hoga?",
+      "options": {
+        "A": "Ek mushkil raag",
+        "B": "Sahi posture, finger numbers, aur C note ki pehchan",
+        "C": "Dono haath se ek saath bajana",
+        "D": "Sheet music padhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pehli class mein foundation banana zaroori hai. Sahi baithne ka tareeka, ungliyon ke number, aur Middle C jaisi basic cheezein sikhane se aage ka safar aasan ho jaata hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Class mein agar ek student doosron se zyada talented ho, to teacher ko kya karna chahiye?",
+      "options": {
+        "A": "Sirf usi student par dhyan dena",
+        "B": "Use ignore karna taki doosre bura na maane",
+        "C": "Use uski kshamta ke anusaar thoda challenging kaam (extra task) dena",
+        "D": "Use class mein aane se mana kar dena"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ise 'differentiated instruction' kehte hain. Tej student ko thoda extra challenge dene se woh bore nahi hota, aur baaki class bhi apni speed se aage badhti rehti hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Student ke mata-pita ko uski progress ke baare mein kaise batana chahiye?",
+      "options": {
+        "A": "Sirf kamiyan batakar",
+        "B": "Kabhi nahi batana chahiye",
+        "C": "Niyamit roop se, sakaratmak (positive) feedback aur sudhar ke kshetron (areas of improvement) ke saath",
+        "D": "Sirf tab batana jab koi badi samasya ho"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Regular and constructive feedback se mata-pita ko bachche ki progress pata chalti hai aur woh ghar par practice ke liye use protsahit kar sakte hain."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Online music class lete samay sabse badi chunauti (challenge) kya ho sakti hai?",
+      "options": {
+        "A": "Student ko dekh na paana",
+        "B": "Internet connection aur audio quality ki samasya",
+        "C": "Student se fees lena",
+        "D": "Time par class shuru karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Online class mein accha internet aur saaf audio-video bahut zaroori hai. Iske bina teacher na theek se sun paata hai aur na hi student ki galti sudhar paata hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Student ko niyamit riyaaz (daily practice) ke liye kaise prerit (motivate) karein?",
+      "options": {
+        "A": "Use daant kar",
+        "B": "Chhote-chhote, achievable goals set karke aur unhe poora karne par prashansa karke",
+        "C": "Practice na karne par saza dekar",
+        "D": "Uske badle khud practice karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bade लक्ष्य (goals) daravne lag sakte hain. Roz 15 minute practice jaisa chota goal dena aur use poora karne par 'very good' kehna student ko motivate karta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Ek group music class mein anushasan (discipline) banaye rakhne ka sabse accha tareeka kya hai?",
+      "options": {
+        "A": "Har galti par bachchon ko class se bahar nikalna",
+        "B": "Class ke shuru mein hi kuch saral niyam (simple rules) banana aur class ko engaging rakhna",
+        "C": "Kisi par dhyan nahi dena",
+        "D": "Sirf lecture dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab class interesting aur engaging hoti hai, to bachche apne aap anushasit rehte hain. Saath hi, 'sab apni baari ka intezaar karenge' jaise saral niyam shuru mein hi tay kar lena chahiye."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Ek student ki progress ko track karne ka sabse accha tareeka kya hai?",
+      "options": {
+        "A": "Sirf apni yaaddasht par bharosa karna",
+        "B": "Ek practice diary ya log book maintain karna",
+        "C": "Har class mein test lena",
+        "D": "Progress track karna zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek diary mein har class ka record rakhne se (aaj kya sikhaya, kya homework diya, kahan dikkat aayi) teacher aur student dono ko progress saaf dikhti hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Teaching aid ke roop mein 'Metronome' ka istemaal karne se student ko kya seekhne mein madad milti hai?",
+      "options": {
+        "A": "Sahi sur (pitch)",
+        "B": "Sahi laya aur taal (rhythm and timing)",
+        "C": "Naye gaane",
+        "D": "Gaane ke bol"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Metronome ek steady beat (tick-tock) deta hai, jiske saath practice karne se student ki timing sense aur rhythm par pakad mazboot hoti hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Agar ek chhota bachcha music class mein rone lage to aap kya karenge?",
+      "options": {
+        "A": "Use daant kar chup karayenge",
+        "B": "Use ignore karenge",
+        "C": "Usse pyaar se baat karke rone ka kaaran janne ki koshish karenge aur uska dhyaan music game mein lagayenge",
+        "D": "Uske parents ko bula kar use ghar bhej denge"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Chhote bachchon ke saath sahanubhuti (empathy) aur pyaar se pesh aana zaroori hai. Unhe comfortable feel karana ek teacher ki zimmedari hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "'Constructive Criticism' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf student ki burai karna",
+        "B": "Is tarah se galti batana jisse student ko seekhne ki prerna mile, na ki woh nirash ho",
+        "C": "Student ki kabhi koi galti na nikalna",
+        "D": "Jhoothi tareef karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Constructive criticism mein pehle achhe kaam ki tareef ki jaati hai aur fir sudhar ki gunjaish ko pyaar se samjhaya jaata hai. Jaise, 'Aapne sur bahut acche lagaye, bas is jagah par timing thodi aur behtar ho sakti hai'."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Students ko performance ya stage fear se bahar nikalne mein teacher kaise madad kar sakta hai?",
+      "options": {
+        "A": "Use kabhi perform na karne dekar",
+        "B": "Use achanak bade stage par bhej kar",
+        "C": "Chhote, supportive group (jaise class ke saamne) mein perform karne ke mauke dekar",
+        "D": "Uska mazak udakar"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Chhote aur safe environment mein perform karne se student ka confidence dheere-dheere badhta hai aur stage ka dar kam hota hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Sangeet sikhane mein technology (jaise music apps, YouTube) ka istemaal karna chahiye ya nahi?",
+      "options": {
+        "A": "Bilkul nahi, yeh dhyan bhatkata hai",
+        "B": "Haan, ek sahayak upkaran (supplementary tool) ke roop mein istemaal kiya ja sakta hai",
+        "C": "Sirf technology se hi sikhana chahiye",
+        "D": "Yeh sirf advanced students ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Technology ka sahi istemaal seekhne ki prakriya ko aur bhi interesting aur aasan bana sakta hai. Jaise, Tanpura app, Metronome app, ya educational music channels."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Ek simple nursery rhyme jaise 'Twinkle Twinkle' ko harmonize karne ke liye sabse aam teen chords kaun se hain?",
+      "options": {
+        "A": "C, G, Am",
+        "B": "C, F, G",
+        "C": "C, D, E",
+        "D": "Cm, Fm, Gm"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Zyadatar simple gaane I, IV, aur V chords par harmonize ho jaate hain. C major scale mein, yeh chords C (I), F (IV), aur G (V) hote hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Ek student ko uske pehle stage performance ke liye taiyaar karte samay sabse zaroori kya hai?",
+      "options": {
+        "A": "Use ek bahut mushkil gaana dena",
+        "B": "Yeh sunishchit karna ki gaana acche se practice kiya hua hai aur student comfortable hai",
+        "C": "Aakhiri din par gaana badal dena",
+        "D": "Costume par dhyaan na dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pehli performance ka anubhav positive hona chahiye. Isliye aisa gaana chunna zaroori hai jise student ne acchi tarah se taiyaar kiya ho aur woh use confidence ke saath gaa/baja sake."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Apni aawaz ya instrument ko record karne ke liye computer par istemaal hone wale software ko kya kehte hain?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "DAW (Digital Audio Workstation)",
+        "C": "Photoshop",
+        "D": "Browser"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "DAW jaise GarageBand, Audacity, FL Studio, ya Cubase ka istemaal audio recording, editing, aur mixing ke liye kiya jaata hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Ek gaane ki dhun (melody) banane ke liye sabse pehla kadam kya hona chahiye?",
+      "options": {
+        "A": "Ek accha sa scale chunna",
+        "B": "Bahut saare chords likhna",
+        "C": "Recording studio book karna",
+        "D": "Album art design karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ek scale (jaise C Major) chunne se aapko notes ka ek framework mil jaata hai, jiske andar aap alag-alag combination try karke ek acchi dhun bana sakte hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Kisi gaane ke 'Verse' aur 'Chorus' mein kya mukhya antar hota hai?",
+      "options": {
+        "A": "Verse tez hota hai, Chorus dheere",
+        "B": "Verse mein alag-alag bol hote hain jo kahani aage badhate hain, jabki Chorus ke bol aur dhun aksar repeat hote hain",
+        "C": "Verse sirf gaya jaata hai, Chorus sirf bajaya jaata hai",
+        "D": "Koi antar nahi hota"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Chorus gaane ka mukhya hissa hota hai jo catchy hota hai aur baar-baar aata hai. Verse mein kahani ya context bataya jaata hai aur har verse ke bol alag hote hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Agar aapko ek devotional song (bhajan) ke liye music arrange karna hai, to aap kaun se instruments ko prathmikta denge?",
+      "options": {
+        "A": "Heavy Metal Drums aur Electric Guitar",
+        "B": "Harmonium, Tabla, aur Flute",
+        "C": "DJ Turntable aur Synthesizer",
+        "D": "Saxophone aur Trumpet"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bhajan ke shaant aur bhakti-bhaav wale mahaul ke liye Harmonium, Tabla, Dholak, Flute, Sitar jaise traditional Indian instruments sabse upyukt hote hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "'Improvisation' in music ka kya matlab hai?",
+      "options": {
+        "A": "Likhe hue music ko hi bajana",
+        "B": "Bina taiyaari ke, mauke par hi music banana aur bajana",
+        "C": "Doosre ka music copy karna",
+        "D": "Music bajana band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Improvisation mein kalakaar diye gaye scale ya chord structure ke andar rehte hue, usi samay spontaneoulsy music create karta hai. Yeh creativity aur sangeet ki gehri samajh ko darshata hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Apne performance ko behtar banane ke liye use record karke sunne ka kya fayda hai?",
+      "options": {
+        "A": "Koi fayda nahi hai",
+        "B": "Apni aawaz sunkar nirash hone ke liye",
+        "C": "Apni galtiyon ko ek audience ki tarah sunne aur unhe sudharne ke liye",
+        "D": "Sirf social media par post karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Gaate ya bajate samay hum apni saari galtiyan nahi sun paate. Recording ko baad mein sunne se humein ek objective perspective milta hai aur sudhar ki jagah saaf dikhai deti hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Ek school function ke liye patriotic song (deshbhakti geet) ka chunaav karte samay aap kis baat ka dhyaan rakhenge?",
+      "options": {
+        "A": "Gaana bahut lamba aur mushkil ho",
+        "B": "Gaane ke bol aur dhun aasan ho taki bachche gaa sakein aur usmein josh ho",
+        "C": "Gaana ek film ka sad song ho",
+        "D": "Gaana kisi ko samajh na aaye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "School function ke liye gaana aisa hona chahiye jo bachchon ke liye gaane mein aasan ho, uske bol positive hon, aur woh audience mein josh aur deshbhakti ki bhavna jaga sake."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar aapko ek student ko 'Happy Birthday' gaana keyboard par sikhana hai, to aap kaun sa scale chunenge?",
+      "options": {
+        "A": "Ek bahut mushkil minor scale",
+        "B": "C Major scale, kyonki ismein sirf white keys hain",
+        "C": "Chromatic scale",
+        "D": "Blues scale"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Beginners ke liye C Major scale sabse aasan hota hai kyonki ismein koi black key nahi hoti. 'Happy Birthday' jaisa simple gaana is scale par aasaani se sikhaya ja sakta hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Sound check ke dauran ek performer ko kya karna chahiye?",
+      "options": {
+        "A": "Chupchap khade rehna",
+        "B": "Apne gaane ka ek hissa gaa kar ya baja kar Mic aur Monitor ka volume check karna",
+        "C": "Sound engineer se behas karna",
+        "D": "Stage se chale jaana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sound check ka maqsad hi yahi hota hai ki performer aur sound engineer milkar Mic, instrument, aur stage monitor ka sound level set kar lein, taki performance ke dauran sab kuch saaf sunai de."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Ek 'Chord Progression' kya hota hai?",
+      "options": {
+        "A": "Ek hi chord ko baar baar bajana",
+        "B": "Chords ka ek kram (sequence) jo gaane ka harmony base banata hai",
+        "C": "Bahut saare notes ka guchha",
+        "D": "Ek instrument ka naam"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gaano ki harmony chords ke ek sequence par tiki hoti hai. Jaise C -> G -> Am -> F ek bahut hi common chord progression hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Ek music teacher ke roop mein, aap copyright ka samman kaise karenge?",
+      "options": {
+        "A": "Har jagah se music illegal download karke",
+        "B": "Students ko sikhane ke liye zaroori sheet music ya books khareed kar ya legal sources ka istemaal karke",
+        "C": "Kisi doosre ka composition apne naam se perform karke",
+        "D": "Copyright ke baare mein nahi sochenge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ek professional teacher ko artists aur creators ke kaam ka samman karna chahiye. Educational purposes ke liye bhi legal tareeke se content ka istemaal karna ethical practice hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Agar aapko ek group ko 'round' mein gaana sikhana hai (jaise 'Row, Row, Row Your Boat'), to iska kya matlab hai?",
+      "options": {
+        "A": "Sab ek gol ghere (circle) mein khade honge",
+        "B": "Ek group gaana shuru karega, aur thodi der baad doosra group wahi gaana shuru se gayega jabki pehla group aage gaa raha hoga",
+        "C": "Sab ek saath gaana shuru aur khatm karenge",
+        "D": "Gaana baar baar repeat hoga"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Round singing ek polyphonic style hai jahan alag-alag groups ek hi melody ko alag-alag samay par shuru karte hain, jisse ek aasan harmony create hoti hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Music performance ke baad audience ka abhinandan (acknowledgement) kaise karna chahiye?",
+      "options": {
+        "A": "Turant stage se bhaag jaana",
+        "B": "Audience ko ignore karna",
+        "C": "Muskurakar, jhuk kar (bow), ya haath jodkar unka dhanyavaad karna",
+        "D": "Unpar gussa karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Performance ke baad audience ki taaliyon ka samman karna aur unka dhanyavaad karna ek achhe performer ki nishani hai. Yeh shishtachar (etiquette) ka hissa hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek teacher ke roop mein, aap apna sangeet ka gyaan update rakhne ke liye kya kar sakte hain?",
+      "options": {
+        "A": "Kuch bhi nahi, jo seekh liya woh kaafi hai",
+        "B": "Naye artists ko sunna, workshops attend karna, aur naye teaching methods ke baare mein padhna",
+        "C": "Sirf purane gaane sunna",
+        "D": "Sikhana band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sangeet ek vishaal aur hamesha badalne wala kshetra hai. Ek accha teacher hamesha khud bhi ek student bana rehta hai aur nayi cheezein seekhta rehta hai."
+    }
+  ]
+}

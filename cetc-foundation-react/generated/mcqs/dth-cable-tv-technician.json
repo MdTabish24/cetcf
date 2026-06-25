@@ -1,0 +1,1443 @@
+{
+  "course_name": "DTH & Cable TV Technician",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Electrical & Electronics Concepts",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "DTH System Fundamentals",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Cable TV System Fundamentals",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "DTH System Installation & Troubleshooting",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Cable TV System Installation & Troubleshooting",
+      "question_range": "Q69-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Safety, Customer Service & Advanced Topics",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Electricity ka flow kya kehlata hai?",
+      "options": {
+        "A": "Voltage",
+        "B": "Current",
+        "C": "Resistance",
+        "D": "Power"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Current electrons ka flow hota hai jo ek circuit mein move karte hain."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ohm's Law ka formula kya hai?",
+      "options": {
+        "A": "V = I/R",
+        "B": "I = V*R",
+        "C": "V = I*R",
+        "D": "R = V*I"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ohm's Law ke according, Voltage (V) Current (I) aur Resistance (R) ke product ke barabar hota hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Kis unit mein electrical power ko measure kiya jata hai?",
+      "options": {
+        "A": "Ampere",
+        "B": "Volt",
+        "C": "Watt",
+        "D": "Ohm"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Electrical power ko Watts (W) mein measure kiya jata hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "AC current ki direction kaise hoti hai?",
+      "options": {
+        "A": "Ek hi direction mein",
+        "B": "Periodically change hoti hai",
+        "C": "Randomly change hoti hai",
+        "D": "Stable rehti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Alternating Current (AC) mein current ki direction periodically change hoti rehti hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek multimeter ka kya use hai?",
+      "options": {
+        "A": "Sirf voltage measure karna",
+        "B": "Sirf current measure karna",
+        "C": "Voltage, current aur resistance measure karna",
+        "D": "Sirf temperature measure karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Multimeter ek versatile tool hai jo voltage, current aur resistance jaisi electrical quantities ko measure karta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Fuse ka kya kaam hai ek electrical circuit mein?",
+      "options": {
+        "A": "Voltage badhana",
+        "B": "Circuit ko overload se bachana",
+        "C": "Current kam karna",
+        "D": "Resistance badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fuse ek safety device hai jo excessive current flow hone par circuit ko break karke damage se bachata hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Semiconductor material ka ek common example kya hai?",
+      "options": {
+        "A": "Copper",
+        "B": "Gold",
+        "C": "Silicon",
+        "D": "Plastic"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Silicon ek widely used semiconductor material hai jo electronic components jaise diodes aur transistors mein istemal hota hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Parallel circuit mein total resistance kaise calculate karte hain?",
+      "options": {
+        "A": "Resistances ko add karke",
+        "B": "Reciprocals ko add karke fir uska reciprocal",
+        "C": "Resistances ko multiply karke",
+        "D": "Sabse bade resistance ke barabar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Parallel circuit mein total resistance nikalne ke liye, individual resistances ke reciprocals ko add karke fir total ka reciprocal lete hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Earth wire ka kya purpose hai electrical wiring mein?",
+      "options": {
+        "A": "Circuit ko complete karna",
+        "B": "Overload se bachana",
+        "C": "Electrical shock se bachav",
+        "D": "Voltage regulate karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Earth wire ek safety feature hai jo fault current ko ground mein divert karke electrical shock ke khatre ko kam karta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek capacitor ka primary function kya hai?",
+      "options": {
+        "A": "Current flow ko block karna",
+        "B": "Electrical energy store karna",
+        "C": "Resistance provide karna",
+        "D": "Voltage increase karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Capacitor electrical energy ko electric field ke form mein store karta hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Diode ka kya function hai?",
+      "options": {
+        "A": "AC ko DC mein convert karna (Rectification)",
+        "B": "DC ko AC mein convert karna",
+        "C": "Voltage ko amplify karna",
+        "D": "Resistance provide karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Diode current ko sirf ek direction mein flow hone deta hai, iska use AC ko DC mein convert karne (rectification) mein hota hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Ek resistor ka colour code 'Red, Red, Brown, Gold' hai. Iski value kya hogi?",
+      "options": {
+        "A": "22 Ohm ± 5%",
+        "B": "220 Ohm ± 5%",
+        "C": "2.2 k Ohm ± 5%",
+        "D": "22 k Ohm ± 5%"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Red=2, Red=2, Brown=10^1 (multiplier), Gold=±5% (tolerance). So, 22 * 10^1 = 220 Ohm ± 5%."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Soldering iron ka primary use kya hai electronics mein?",
+      "options": {
+        "A": "Wires ko cut karna",
+        "B": "Components ko permanently join karna",
+        "C": "Insulation remove karna",
+        "D": "Circuit board clean karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Soldering iron ka use solder wire ko melt karke electronic components ko PCB ya wires se electrically aur mechanically join karne ke liye hota hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Short circuit kya hota hai?",
+      "options": {
+        "A": "High resistance path",
+        "B": "Low resistance path jahan current abnormally flow karta hai",
+        "C": "Open circuit jahan current flow nahi hota",
+        "D": "Circuit jahan voltage bahut kam hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Short circuit tab hota hai jab current ko ek low resistance path mil jata hai, jisse bahut zyada current flow hota hai aur circuit damage ho sakta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Transformer ka kya kaam hai?",
+      "options": {
+        "A": "DC voltage ko badhana ya kam karna",
+        "B": "AC voltage ko badhana ya kam karna",
+        "C": "AC ko DC mein convert karna",
+        "D": "Current ko regulate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Transformer AC voltage ko step-up ya step-down karne ke liye use hota hai, mutual induction principle par kaam karta hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Ek transistor ka primary use kya hai?",
+      "options": {
+        "A": "Energy store karna",
+        "B": "Current ko sirf ek disha mein flow karna",
+        "C": "Electronic signal ko amplify ya switch karna",
+        "D": "Resistance provide karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Transistor ek semiconductor device hai jo electronic signals ko amplify karne ya electronic switches ke roop mein kaam karne ke liye use hota hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Electrical shock lagne par sabse pehla step kya hona chahiye?",
+      "options": {
+        "A": "Paani dalna",
+        "B": "Victim ko pakad kar khichna",
+        "C": "Power source ko disconnect karna",
+        "D": "Doctor ko call karna (power disconnect kiye bina)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Sabse pehle power source ko disconnect karna chahiye taaki aur koi shock na lage aur victim ko safely alag kiya ja sake."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "DTH ka full form kya hai?",
+      "options": {
+        "A": "Direct To Home",
+        "B": "Digital To Home",
+        "C": "Dish To Home",
+        "D": "Data To Home"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DTH ka full form Direct To Home hai, jismein TV signals directly satellite se ghar tak aate hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "DTH system mein TV signals kiske through transmit hote hain?",
+      "options": {
+        "A": "Fibre optic cables",
+        "B": "Terrestrial antennas",
+        "C": "Satellites",
+        "D": "Underground wires"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "DTH system mein signals geostationary satellites se receive hote hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "DTH system ka main component jo satellite se signals receive karta hai?",
+      "options": {
+        "A": "Set-Top Box (STB)",
+        "B": "LNB (Low Noise Block)",
+        "C": "Dish Antenna",
+        "D": "Coaxial Cable"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Dish Antenna satellite se signals ko collect karta hai aur LNB tak pahunchata hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "LNB ka kya kaam hai DTH system mein?",
+      "options": {
+        "A": "Signals ko amplify karna aur frequency down-convert karna",
+        "B": "Signals ko decode karna",
+        "C": "Signals ko record karna",
+        "D": "TV ko power supply karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "LNB (Low Noise Block) dish se receive hue high-frequency signals ko amplify karta hai aur unhe lower frequency mein convert karta hai taki coaxial cable ke through STB tak pahunchaya ja sake."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "STB (Set-Top Box) ka kya function hai DTH system mein?",
+      "options": {
+        "A": "Satellite signals ko receive karna",
+        "B": "Down-converted signals ko decode karke TV par display karna",
+        "C": "Dish antenna ko power supply karna",
+        "D": "Signals ko amplify karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Set-Top Box LNB se aaye hue signals ko decode karta hai aur unhe TV par dekhne layak format mein convert karta hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "DTH system mein kis type ka cable use hota hai dish se STB tak signals le jaane ke liye?",
+      "options": {
+        "A": "HDMI cable",
+        "B": "Ethernet cable",
+        "C": "Coaxial cable",
+        "D": "USB cable"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Coaxial cable high-frequency signals ko long distances tak transmit karne ke liye ideal hota hai, aur DTH mein dish se STB tak use hota hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "DTH system mein polarization ka kya role hai?",
+      "options": {
+        "A": "Dish antenna ka size determine karna",
+        "B": "Signals ki quality improve karna",
+        "C": "Ek hi frequency band par multiple signals transmit karna",
+        "D": "LNB ko power dena"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Polarization (Horizontal/Vertical) ka use karke ek hi frequency band par do alag-alag signals ko transmit kiya ja sakta hai, jisse bandwidth ka efficient use hota hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "DTH mein signals ko encrypt karne ka kya karan hai?",
+      "options": {
+        "A": "Signals ko fast transmit karna",
+        "B": "Unauthorized viewing ko rokna",
+        "C": "Signals ko amplify karna",
+        "D": "Dish antenna ki life badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Signals ko encrypt kiya jata hai taki sirf authorized subscribers hi unhe decrypt karke dekh saken, jiske liye ek smart card ki zaroorat hoti hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Smart Card ka kya use hai DTH Set-Top Box mein?",
+      "options": {
+        "A": "Internet access provide karna",
+        "B": "Channels ko decrypt karna aur subscription ko manage karna",
+        "C": "STB ko power supply karna",
+        "D": "Signals ko record karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Smart Card mein subscriber ki details aur subscription information hoti hai, jo encrypted channels ko decrypt karne mein help karti hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "DTH mein dish antenna kis direction mein align kiya jata hai?",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "East",
+        "D": "Uss particular satellite ki position ki taraf"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Dish antenna ko exactly uss geostationary satellite ki taraf align karna hota hai jisse signals receive karne hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Ku-band frequencies DTH mein kyon use hoti hain?",
+      "options": {
+        "A": "Ye bahut kam range ki hoti hain",
+        "B": "Inhe chote dish antennas se receive kiya ja sakta hai",
+        "C": "Ye bahut sasti hoti hain",
+        "D": "Ye rain fade se unaffected rehti hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ku-band frequencies high hoti hain, jiske karan unhe receive karne ke liye comparatively chote dish antennas (60-90 cm) ki zaroorat hoti hai. Lekin ye rain fade se affect hoti hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Universal LNB kya hota hai?",
+      "options": {
+        "A": "Sirf ek polarization receive karta hai",
+        "B": "Multiple satellites se signals receive karta hai",
+        "C": "Do alag-alag frequency bands aur polarizations ko handle karta hai",
+        "D": "Sirf C-band signals receive karta hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Universal LNB do alag-alag frequency bands (low/high) aur dono polarizations (horizontal/vertical) ko handle kar sakta hai, jo modern DTH systems mein common hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "DTH system mein 'transponder' ka kya matlab hai?",
+      "options": {
+        "A": "Ek type ka STB",
+        "B": "Satellite par laga hua ek device jo signals receive aur re-transmit karta hai",
+        "C": "Dish antenna ka part",
+        "D": "Coaxial cable ka ek type"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Transponder satellite par laga ek unit hai jo earth se uplinks receive karta hai, unhe amplify karta hai aur fir downlinks ke through earth par wapas transmit karta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "DTH mein 'EPG' ka full form kya hai?",
+      "options": {
+        "A": "Electronic Program Guide",
+        "B": "Essential Program Gateway",
+        "C": "Enhanced Power Generator",
+        "D": "External Program Group"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "EPG (Electronic Program Guide) TV channels par chal rahe aur aane wale programs ki list aur details provide karta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "DTH signals ki strength ko kis unit mein measure kiya jata hai?",
+      "options": {
+        "A": "Volts",
+        "B": "Amperes",
+        "C": "dB (decibels)",
+        "D": "Watts"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Signals ki strength aur quality ko decibels (dB) mein measure kiya jata hai, jaise dBmV ya dBm."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "DTH mein 'Rain Fade' kya hai?",
+      "options": {
+        "A": "Dish antenna par baarish ka pani jamna",
+        "B": "Heavy rain ke karan satellite signals ka weak hona ya loss hona",
+        "C": "STB ka baarish mein kharab hona",
+        "D": "Coaxial cable ka baarish mein damage hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rain Fade ek phenomenon hai jismein heavy rainfall ke karan satellite signals absorb ya scatter ho jate hain, jisse signal strength kam ho jati hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "DTH connection mein 'Line of Sight' kyon important hai?",
+      "options": {
+        "A": "Taki STB ko achi ventilation mile",
+        "B": "Taki dish antenna ko satellite se direct unobstructed view mile",
+        "C": "Taki cable TV signals ko bhi receive kar saken",
+        "D": "Taki technician ko install karne mein aasani ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Line of Sight ka matlab hai ki dish antenna aur satellite ke beech koi physical obstruction (jaise building, ped) nahi hona chahiye, taaki signals bina rukavat ke receive ho saken."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Cable TV system mein signals ghar tak kaise pahunchte hain?",
+      "options": {
+        "A": "Satellites ke through",
+        "B": "Dish antenna ke through",
+        "C": "Coaxial cables ke network ke through",
+        "D": "Wireless signals ke through"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cable TV mein signals ek central headend se coaxial cable ke extensive network ke through subscribers ke gharon tak pahunchte hain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Cable TV system ka central point jahan se signals originate hote hain, use kya kehte hain?",
+      "options": {
+        "A": "LNB",
+        "B": "Set-Top Box",
+        "C": "Headend",
+        "D": "Dish Antenna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Headend ek facility hoti hai jahan TV channels ke signals receive, process aur distribute kiye jaate hain cable network mein."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Cable TV mein signals ko amplify karne ke liye kya use hota hai?",
+      "options": {
+        "A": "LNB",
+        "B": "Splitter",
+        "C": "Amplifier (Booster)",
+        "D": "Modem"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cable network mein long distances par signals weak ho jate hain, unhe amplify karne ke liye amplifiers (boosters) use kiye jaate hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Cable TV mein ek signal ko kai TVs par distribute karne ke liye kis device ka use hota hai?",
+      "options": {
+        "A": "LNB",
+        "B": "Splitter",
+        "C": "Amplifier",
+        "D": "Modulator"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Splitter ek device hai jo ek incoming RF signal ko do ya do se zyada outgoing signals mein divide karta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Cable TV mein 'Tap' ka kya function hai?",
+      "options": {
+        "A": "Signals ko combine karna",
+        "B": "Main distribution line se subscriber tak signals ko isolate aur provide karna",
+        "C": "Signals ko amplify karna",
+        "D": "Internet services provide karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tap ek device hai jo main cable TV distribution line se ek small portion of signal ko subscriber drop cable tak provide karta hai, baaki signal ko main line mein aage jane deta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Digital Cable TV mein STB ka kya role hai?",
+      "options": {
+        "A": "Analog signals receive karna",
+        "B": "Digital signals ko decode karke TV par display karna",
+        "C": "Cable network ko power supply karna",
+        "D": "Signals ko amplify karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Digital Cable TV mein STB digital signals ko receive karta hai, unhe decrypt aur decode karta hai taki TV par dekha ja sake."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Hybrid Fiber-Coaxial (HFC) network mein fiber optic cable kahan tak use hota hai?",
+      "options": {
+        "A": "Directly subscriber ke ghar tak",
+        "B": "Sirf Headend ke andar",
+        "C": "Neighbourhood nodes tak, fir coaxial cable use hota hai",
+        "D": "Sirf short distance ke liye"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "HFC network mein fiber optic cable Headend se neighbourhood nodes tak signals le jata hai, aur fir node se subscribers ke ghar tak coaxial cable use hota hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Analog Cable TV aur Digital Cable TV mein kya main difference hai?",
+      "options": {
+        "A": "Analog mein STB ki zaroorat hoti hai, Digital mein nahi",
+        "B": "Digital mein picture quality aur channel capacity behtar hoti hai",
+        "C": "Analog mein zyada channels milte hain",
+        "D": "Digital mein sirf radio channels milte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Digital Cable TV compressed signals use karta hai, jisse behtar picture aur sound quality milti hai, aur ek hi bandwidth mein zyada channels transmit kiye ja sakte hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Cable TV mein 'Return Path' kiska part hai?",
+      "options": {
+        "A": "Sirf TV signals downlinks ka",
+        "B": "Subscriber se Headend tak data (jaise interactive services) transmit karne ka",
+        "C": "Sirf Headend se subscriber tak data ka",
+        "D": "Power supply ka"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Return Path ek two-way communication channel hai jo subscriber se Headend tak signals (jaise internet data, video-on-demand requests) bhejta hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Cable TV mein 'RF Connector' ka kya use hai?",
+      "options": {
+        "A": "Power supply connect karna",
+        "B": "Coaxial cables ko devices se connect karna",
+        "C": "HDMI cables ko connect karna",
+        "D": "USB devices connect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RF (Radio Frequency) Connectors (jaise F-type connector) coaxial cables ko TVs, STBs, splitters, aur amplifiers se connect karne ke liye use hote hain."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "CATV network mein 'Trunk Cable' kya hota hai?",
+      "options": {
+        "A": "Subscriber ke ghar ke andar ka cable",
+        "B": "Headend se distribution amplifiers tak jane wala main cable",
+        "C": "TV se STB tak jane wala cable",
+        "D": "Power supply cable"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Trunk cable ek high-capacity coaxial cable hai jo Headend se major distribution points tak signals le jata hai, jahan se feeder lines branches out hoti hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Cable TV systems mein 'Modulator' ka kya kaam hai?",
+      "options": {
+        "A": "RF signals ko amplify karna",
+        "B": "Video aur audio signals ko RF carrier par place karna",
+        "C": "RF signals ko demodulate karna",
+        "D": "Power supply ko regulate karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Modulator baseband video aur audio signals ko high-frequency RF carrier signal par modulate karta hai taki unhe cable network par transmit kiya ja sake."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Cable TV network mein 'Drop Cable' kya hota hai?",
+      "options": {
+        "A": "Headend se main trunk line tak ka cable",
+        "B": "Ek pole ya pedestal se subscriber ke ghar tak jane wala cable",
+        "C": "STB se TV tak ka cable",
+        "D": "Power supply ke liye use hone wala cable"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drop cable ek coaxial cable hai jo distribution network ke last point (tap) se subscriber ke premises tak signals le jata hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Cable TV mein 'Signal Leakage' ka kya matlab hai?",
+      "options": {
+        "A": "Signals ka bahut zyada amplify hona",
+        "B": "Signals ka cable se bahar nikal kar air mein radiate hona",
+        "C": "Signals ka bahut kam hona",
+        "D": "Signals ka galat direction mein jana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Signal leakage tab hota hai jab cable TV system se RF signals leak hokar air mein radiate hote hain, jo other wireless services (jaise aircraft communication) mein interference kar sakte hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Cable TV mein 'CMTS' ka full form kya hai?",
+      "options": {
+        "A": "Cable Modem Terminal System",
+        "B": "Central Multimedia Transmission System",
+        "C": "Cable Management & Tracking Software",
+        "D": "Channel Modulation & Transmitting System"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "CMTS (Cable Modem Termination System) ek Headend device hai jo cable modems ke liye high-speed data services provide karta hai, internet access ke liye crucial hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Cable TV mein 'Attenuator' ka kya use hai?",
+      "options": {
+        "A": "Signals ko amplify karna",
+        "B": "Signals ki strength ko kam karna",
+        "C": "Signals ko combine karna",
+        "D": "Signals ko split karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Attenuator ek passive device hai jo signals ki strength ko ek controlled amount se kam karta hai, jab signal bahut zyada strong ho."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Cable TV mein 'F-connector' ka installation karte samay kis baat ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Inner conductor braid se touch na kare",
+        "B": "Outer jacket ko poora hata dena",
+        "C": "Cable ko tightly bend karna",
+        "D": "Sirf plastic connectors use karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "F-connector install karte samay yeh ensure karna bahut zaroori hai ki inner conductor (center wire) outer braid (shield) se touch na kare, warna short circuit ho jayega."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Naya DTH connection install karte samay sabse pehla step kya hai?",
+      "options": {
+        "A": "STB connect karna",
+        "B": "Dish antenna mount karna",
+        "C": "Signal strength check karna",
+        "D": "Location survey karna"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Installation se pehle sahi location (Line of Sight, accessibility) ke liye site survey karna bahut zaroori hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Dish antenna ko mount karte samay kis baat ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Uski height kam ho",
+        "B": "Wo easily move ho sake",
+        "C": "Wo stable aur secure ho, aur satellite ki taraf unobstructed view ho",
+        "D": "Wo ghar ke andar ho"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Dish antenna ko aisi jagah par mount karna chahiye jahan wo stable ho, tez hawa mein hile nahi aur satellite se signals receive karne ke liye clear line of sight ho."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Dish alignment ke liye kis tool ka use hota hai?",
+      "options": {
+        "A": "Multimeter",
+        "B": "Satellite Finder Meter",
+        "C": "Voltmeter",
+        "D": "Amperemeter"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Satellite Finder Meter dish antenna ko sahi satellite par align karne ke liye signal strength aur quality ko measure karta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "DTH mein 'No Signal' error aane ka common reason kya ho sakta hai?",
+      "options": {
+        "A": "STB ka kharab hona",
+        "B": "Dish ka misalignment ya cable problem",
+        "C": "TV ka off hona",
+        "D": "Remote ka kharab hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'No Signal' error usually dish antenna ke misalignment, LNB mein problem, ya coaxial cable ke damage hone ke karan aata hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "LNB ko replace karte samay kis baat ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Kisi bhi LNB ko use kar sakte hain",
+        "B": "Polarization aur skew angle ko sahi set karna",
+        "C": "Sirf LNB ka colour dekhna",
+        "D": "LNB ko loose rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LNB ko replace karte samay uski polarization setting (horizontal/vertical) aur skew angle ko sahi tarah se adjust karna zaroori hai taaki maximum signal reception ho."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "DTH cable installation mein 'Waterproofing' kyon zaroori hai?",
+      "options": {
+        "A": "Taki cable zyada garam na ho",
+        "B": "Taki signals fast transmit hon",
+        "C": "Taki moisture se connectors ko damage hone se bachaya ja sake",
+        "D": "Taki cable ka colour kharab na ho"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Connectors par moisture ya paani jane se signal loss aur corrosion ho sakta hai, isliye unhe waterproof karna bahut zaroori hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "STB mein 'Software Update' kyon kiya jata hai?",
+      "options": {
+        "A": "Channels badhane ke liye",
+        "B": "Performance improve karne, bugs fix karne ya naye features add karne ke liye",
+        "C": "Dish ko align karne ke liye",
+        "D": "Smart card ko charge karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Software updates STB ki functionality ko behtar banate hain aur security patches provide karte hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "DTH mein 'Pixelation' ya 'Tiling' ka kya matlab hai?",
+      "options": {
+        "A": "Picture ka bahut sharp hona",
+        "B": "Picture ka blocks mein tootna ya freeze hona",
+        "C": "Picture ka size badhna",
+        "D": "Picture ka colour change hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pixelation ya tiling weak signal, high bit error rate, ya signal interference ke karan hota hai, jismein picture blocks mein divide ho jati hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Agar remote control kaam nahi kar raha hai, toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "STB ki power",
+        "B": "TV ki power",
+        "C": "Remote ki batteries aur line of sight",
+        "D": "Dish antenna ki alignment"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Remote control ki batteries check karna aur ensure karna ki remote aur STB ke IR sensor ke beech koi obstruction nahi hai, ye sabse common troubleshooting step hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "DTH installation mein 'Azimuth' aur 'Elevation' angles kyon important hain?",
+      "options": {
+        "A": "Dish ka weight check karne ke liye",
+        "B": "Dish ko satellite ki exact position par point karne ke liye",
+        "C": "Cable ki length decide karne ke liye",
+        "D": "LNB ka type decide karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Azimuth (horizontal angle) aur Elevation (vertical angle) do critical angles hain jo dish antenna ko satellite ki exact location ki taraf point karne ke liye adjust kiye jaate hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Agar DTH system mein 'Signal Loss' ki problem aa rahi hai toh kya check karenge?",
+      "options": {
+        "A": "Sirf STB power",
+        "B": "Dish alignment, LNB, aur coaxial cable integrity",
+        "C": "TV settings",
+        "D": "Remote control"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Signal loss ke liye, dish ki alignment, LNB ki functionality, aur coaxial cable (cuts, loose connections) ko thoroughly check karna chahiye."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "DTH installation mein 'Grounding' kyon zaroori hai?",
+      "options": {
+        "A": "Signals ko amplify karne ke liye",
+        "B": "Lightning protection aur electrical safety ke liye",
+        "C": "Cable ki life badhane ke liye",
+        "D": "Picture quality improve karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dish antenna aur STB ko ground karna lightning strikes se damage aur electrical shock se bachav ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Agar STB 'Boot Loop' mein hai (bar-bar restart ho raha hai) toh kya solution ho sakta hai?",
+      "options": {
+        "A": "Dish ko realign karna",
+        "B": "Power cycle (power off/on) karna ya software update check karna",
+        "C": "LNB replace karna",
+        "D": "TV settings change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Boot loop usually software glitch ya power supply issue ke karan hota hai. Power cycle ya fir software update (agar possible ho) try karna chahiye. Nahi toh STB replacement."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "DTH system mein 'SNR' (Signal to Noise Ratio) ka kya matlab hai?",
+      "options": {
+        "A": "Signal ki speed",
+        "B": "Desired signal strength aur unwanted noise ki strength ka ratio",
+        "C": "Signals ki frequency",
+        "D": "Cable ki length"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "SNR ek critical metric hai jo signal quality ko batata hai. Higher SNR matlab behtar signal quality aur kam noise."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Agar DTH remote STB par kaam nahi kar raha hai, lekin STB ke buttons kaam kar rahe hain, toh kya issue ho sakta hai?",
+      "options": {
+        "A": "STB ka power off hai",
+        "B": "Remote ki batteries dead hain ya remote kharab hai",
+        "C": "Dish antenna misaligned hai",
+        "D": "Coaxial cable damaged hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar STB ke buttons kaam kar rahe hain, toh problem remote control mein hi hai. Batteries check karein ya remote ko replace karein."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "DTH installation mein 'Compression F-connector' kyon prefer kiya jata hai crimp type se?",
+      "options": {
+        "A": "Ye sasta hota hai",
+        "B": "Ye zyada durable aur weather-resistant connection provide karta hai",
+        "C": "Ye zyada signals receive karta hai",
+        "D": "Ye install karna mushkil hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Compression F-connectors ek weather-tight aur electrically superior connection provide karte hain jo moisture ingress aur signal loss ko kam karta hai, crimp type se behtar hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Dish antenna par 'rust' lagne se kya problem ho sakti hai?",
+      "options": {
+        "A": "Dish ka colour change ho jayega",
+        "B": "Signal reception par asar pad sakta hai aur dish ki structural integrity kam ho sakti hai",
+        "C": "STB kharab ho jayega",
+        "D": "LNB ki life kam ho jayegi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rust dish antenna ki reflective surface ko damage kar sakta hai, jisse signal reception weak ho sakta hai. Saath hi, rust se dish ki structural strength bhi kam ho jati hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Cable TV installation mein drop cable ko ghar mein kaise enter karna chahiye?",
+      "options": {
+        "A": "Khuli window se",
+        "B": "Diwar mein drill karke aur proper sealing ke saath",
+        "C": "Darwaje ke niche se",
+        "D": "Loose chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drop cable ko diwar mein drill karke, drip loop banakar aur hole ko sealant se seal karke enter karna chahiye, taaki paani ya insects andar na ja sakein."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Cable TV signal loss ka ek common cause kya hai?",
+      "options": {
+        "A": "STB ka off hona",
+        "B": "Loose ya damaged F-connectors",
+        "C": "TV ka kharab hona",
+        "D": "Remote control ki batteries"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Loose ya damaged F-connectors signal leakage aur signal loss ka ek bahut common reason hote hain cable TV systems mein."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Agar TV par 'Snowy' picture aa rahi hai (analog cable TV), toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Signal bahut strong hai",
+        "B": "Signal bahut weak hai",
+        "C": "Digital STB ki zaroorat hai",
+        "D": "TV ka resolution kam hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Analog cable TV mein snowy picture (noise) ka matlab hai ki signal bahut weak hai aur usmein noise ka level zyada hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Cable TV mein 'Ghosting' ya 'Multipath' ka kya karan hai?",
+      "options": {
+        "A": "Signal ka bahut strong hona",
+        "B": "Signal ka multiple paths se TV tak pahunchna",
+        "C": "TV screen ka dirty hona",
+        "D": "STB ka kharab hona"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ghosting tab hota hai jab TV signal ek se zyada paths se receiver tak pahunchta hai, jisse screen par ek faint duplicate image dikhti hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Ek ghar mein multiple TVs par cable TV chalane ke liye kya use hota hai?",
+      "options": {
+        "A": "Multiple STBs (digital) ya Splitter (analog/digital)",
+        "B": "Sirf ek STB",
+        "C": "Ek hi cable ko cut karke join karna",
+        "D": "Amplifier"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Digital cable TV ke liye har TV par ek STB lagana padta hai. Analog ya digital signals ko distribute karne ke liye splitter use hota hai, jiske baad har TV par STB ya direct connection ho sakta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Coaxial cable ko bend karte samay kis baat ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Use tightly bend karna",
+        "B": "Minimum bend radius maintain karna",
+        "C": "Bend karne se signal quality improve hoti hai",
+        "D": "Use kisi bhi angle par bend kar sakte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Coaxial cable ko bahut zyada bend karne se uski inner structure damage ho sakti hai, jisse signal loss aur impedance mismatch ho sakta hai. Always maintain minimum bend radius."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Agar cable TV channels 'Scrambled' dikh rahe hain, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "TV kharab hai",
+        "B": "Subscription expired hai ya smart card issue hai",
+        "C": "Cable loose hai",
+        "D": "Amplifier kharab hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scrambled channels ka matlab hai ki signals encrypted hain aur unhe decrypt karne ke liye valid subscription aur working smart card ki zaroorat hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Cable TV network mein 'Ingress Noise' kya hai?",
+      "options": {
+        "A": "Headend se aane wala noise",
+        "B": "External RF signals ka cable network mein enter karna",
+        "C": "STB se generate hone wala noise",
+        "D": "Power supply se aane wala noise"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ingress noise tab hota hai jab external radio frequency signals (jaise radio, TV broadcasts, mobile phones) damaged cables ya loose connectors ke through cable TV network mein enter karte hain aur picture quality ko degrade karte hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Cable TV troubleshooting mein 'Signal Level Meter' ka kya use hai?",
+      "options": {
+        "A": "Cable ki length measure karna",
+        "B": "Signals ki strength aur quality ko measure karna",
+        "C": "TV ka resolution check karna",
+        "D": "STB ki power consumption check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Signal Level Meter cable TV signals ki strength, frequency aur quality ko precise tarike se measure karta hai, troubleshooting mein bahut useful hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Agar cable TV installation ke baad TV par 'No Input' dikha raha hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Cable TV provider se contact karna",
+        "B": "TV ka input source (HDMI/AV) sahi set hai ya nahi",
+        "C": "STB ka software update karna",
+        "D": "Remote control change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "No Input error ka matlab hai ki TV ko selected input source par koi signal nahi mil raha. TV ka input source check karein aur ensure karein ki wo STB ya cable connection se match karta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Cable TV mein 'Ferrite Bead' ka kya use hai?",
+      "options": {
+        "A": "Signals ko amplify karna",
+        "B": "High frequency noise ko suppress karna",
+        "C": "Signals ko split karna",
+        "D": "Power supply provide karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ferrite bead ek passive electronic component hai jo high frequency noise (EMI/RFI) ko suppress karta hai, jisse signal clarity improve hoti hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Agar cable TV mein 'Intermittent Signal Loss' ho raha hai, toh kya possible cause hai?",
+      "options": {
+        "A": "STB ka naya hona",
+        "B": "Loose connections, damaged cable ya external interference",
+        "C": "TV ka bahut purana hona",
+        "D": "Remote control ka kharab hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Intermittent signal loss usually loose ya damaged connections, cable mein physical damage, ya external RF interference ke karan hota hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Cable TV installation mein 'Drip Loop' kyon banaya jata hai?",
+      "options": {
+        "A": "Cable ko lamba karne ke liye",
+        "B": "Paani ko cable ke saath ghar mein ghusne se rokne ke liye",
+        "C": "Signals ko amplify karne ke liye",
+        "D": "Cable ko sundar dikhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drip loop ek chota sa curve hota hai cable mein jo building mein enter hone se pehle banaya jata hai, taaki baarish ka paani loop se tapak kar neeche gir jaye aur cable ke saath ghar ke andar na jaye."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar cable TV connection par 'Hum Bars' dikh rahe hain (horizontal lines moving on screen), toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Weak signal",
+        "B": "Ground loop ya power supply noise",
+        "C": "Dish misalignment",
+        "D": "STB software issue"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hum bars usually ground loop issues ya power supply mein noise ke karan aate hain, jisse picture mein horizontal lines dikhti hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Cable TV installation mein 'Cable Ties' ka kya use hai?",
+      "options": {
+        "A": "Cables ko cut karna",
+        "B": "Cables ko neatly organize aur secure karna",
+        "C": "Signals ko boost karna",
+        "D": "Connectors ko waterproof karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cable ties cables ko bundle karne, organize karne aur support dene ke liye use hote hain, jisse installation tidy aur safe rehta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Digital Cable TV mein 'Macroblocking' kya hai?",
+      "options": {
+        "A": "Picture ka bahut sharp hona",
+        "B": "Picture ka bade, chunky blocks mein appear hona",
+        "C": "Picture ka size badhna",
+        "D": "Picture ka colour change hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Macroblocking digital video mein ek degradation hai jismein picture bade, square blocks mein dikhti hai, usually high compression ya signal loss ke karan."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Agar cable TV set-top box chalte chalte 'freeze' ho jaye, toh sabse pehla troubleshooting step kya hai?",
+      "options": {
+        "A": "TV replace karna",
+        "B": "Power cycle (STB ko band karke fir se chalu karna)",
+        "C": "Cable ko replace karna",
+        "D": "Remote control ko change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Power cycle karna ek common aur effective troubleshooting step hai electronic devices ke liye jo freeze ho jate hain, jisse temporary glitches resolve ho jate hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Electrical work karte samay sabse important safety precaution kya hai?",
+      "options": {
+        "A": "Fast kaam karna",
+        "B": "Power supply ko disconnect karna",
+        "C": "Kisi ko bataye bina kaam karna",
+        "D": "Rubber gloves na pehenna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical hazards se bachne ke liye hamesha power supply ko disconnect karna sabse pehla aur sabse important safety step hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Height par kaam karte samay kis safety equipment ka use karna chahiye?",
+      "options": {
+        "A": "Normal shoes",
+        "B": "Safety harness aur ladder",
+        "C": "Mobile phone",
+        "D": "Sunglasses"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Height par kaam karte samay girne se bachne ke liye safety harness aur stable ladder ka use karna bahut zaroori hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Customer service mein 'Active Listening' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf sunna aur jawab dena",
+        "B": "Customer ki baat ko dhyan se sunna, samajhna aur sahi feedback dena",
+        "C": "Customer ko bolne se rokna",
+        "D": "Sirf apne product ke bare mein batana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Active listening mein customer ki baat ko poori tarah se sunna, uski problem ko samajhna aur uske according solution provide karna shamil hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Ek technician ko customer ke ghar mein kaam karte samay kaisa behave karna chahiye?",
+      "options": {
+        "A": "Jaldi se kaam khatam karke chale jana",
+        "B": "Professional, polite aur respectful rehna",
+        "C": "Customer se personal baatein karna",
+        "D": "Customer ki privacy disturb karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professionalism, politeness aur respect customer ke saath ek accha rapport banane aur trust build karne ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Fiber Optic Cables, Coaxial cables se kis tarah alag hain?",
+      "options": {
+        "A": "Ye electrical signals transmit karte hain",
+        "B": "Ye light signals transmit karte hain aur zyada bandwidth provide karte hain",
+        "C": "Ye saste hote hain",
+        "D": "Ye sirf short distances ke liye hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fiber optic cables light pulses ka use karke data transmit karte hain, jisse ye coaxial cables se zyada bandwidth aur long distance transmission provide karte hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Optical Fiber ko connect karne ke liye kis method ka use hota hai?",
+      "options": {
+        "A": "Soldering",
+        "B": "Crimping",
+        "C": "Fusion Splicing ya Mechanical Splicing",
+        "D": "Twisting"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Optical fibers ko join karne ke liye fusion splicing (fibers ko melt karke join karna) ya mechanical splicing (fibers ko align karke clamp karna) ka use hota hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Ek dissatisfied customer ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Uski baat ko ignore karna",
+        "B": "Uski problem ko sunna, empathy dikhana aur solution provide karna",
+        "C": "Usse argue karna",
+        "D": "Usse kahna ki wo galat hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dissatisfied customer ko handle karne ka sabse accha tareeka hai unki problem ko sunna, unke perspective ko samajhna aur ek effective solution offer karna."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "DTH aur Cable TV technicians ke liye 'PPE' ka kya matlab hai?",
+      "options": {
+        "A": "Personal Power Equipment",
+        "B": "Protective Placement Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Professional Planning Exercise"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "PPE (Personal Protective Equipment) mein safety helmet, gloves, safety shoes, safety harness jaisi cheezein shamil hoti hain jo technician ko kaam karte samay protect karti hain."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "DTH aur Cable TV mein 'OTT' services ka kya impact hai?",
+      "options": {
+        "A": "Ye services ko completely replace kar denge",
+        "B": "Ye traditional TV services ke liye ek competition hain aur unhe evolve hone par majboor kar rahe hain",
+        "C": "Ye services ka koi impact nahi hai",
+        "D": "Ye services ko amplify karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "OTT (Over-The-Top) services jaise Netflix, Amazon Prime video traditional DTH aur Cable TV ke liye ek bada competition hain, jisse unhe apne services aur offerings ko innovate karna pad raha hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Ek technician ko apne tools aur equipment ko kaise maintain karna chahiye?",
+      "options": {
+        "A": "Unhe ganda aur kharab chhod dena",
+        "B": "Regularly clean, inspect aur maintain karna",
+        "C": "Unhe har baar naya kharidna",
+        "D": "Dusron ke tools use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools aur equipment ki proper maintenance unki life badhati hai, unki functionality maintain rakhti hai aur safety ensure karti hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Coaxial cable ka impedance kitna hota hai jo DTH/Cable TV mein use hota hai?",
+      "options": {
+        "A": "50 Ohm",
+        "B": "75 Ohm",
+        "C": "100 Ohm",
+        "D": "300 Ohm"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Standard DTH aur Cable TV systems mein 75 Ohm impedance wale coaxial cables (jaise RG-6, RG-11) use hote hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Customer ko service call ke baad kya information deni chahiye?",
+      "options": {
+        "A": "Sirf bill dena",
+        "B": "Ki problem kya thi, kaise solve ki gayi aur future care tips",
+        "C": "Sirf apne kaam ki tareef karna",
+        "D": "Koi information nahi dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer ko poori information dena ki problem kya thi, kya steps liye gaye aur future mein problem se bachne ke liye kya karna chahiye, yeh good customer service ka part hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "DTH aur Cable TV mein 'HD' aur 'SD' mein kya antar hai?",
+      "options": {
+        "A": "Dono mein koi antar nahi",
+        "B": "HD ki resolution aur picture quality SD se behtar hoti hai",
+        "C": "SD mein zyada channels milte hain",
+        "D": "HD ka matlab hai High Demand"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "HD (High Definition) ki resolution SD (Standard Definition) se kafi zyada hoti hai, jisse sharp aur clearer picture milti hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "'Fiber to the Home' (FTTH) technology ka kya benefit hai?",
+      "options": {
+        "A": "Ye sirf voice calls ke liye hai",
+        "B": "Ye wireless connection provide karta hai",
+        "C": "Ye bahut high-speed internet aur data services provide karta hai",
+        "D": "Ye bahut sasta hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "FTTH mein fiber optic cable seedhe subscriber ke ghar tak aata hai, jisse extremely high-speed internet, TV aur phone services milti hain."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek technician ko apne knowledge aur skills ko kaise update rakhna chahiye?",
+      "options": {
+        "A": "Purani techniques par depend rehna",
+        "B": "Regular training, workshops aur industry publications ko follow karke",
+        "C": "Sirf apne co-workers se seekh kar",
+        "D": "Naye trends ko ignore karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Technology constantly evolve ho rahi hai, isliye technicians ko regular training aur self-learning ke through apne knowledge aur skills ko update rakhna bahut zaroori hai."
+    }
+  ]
+}

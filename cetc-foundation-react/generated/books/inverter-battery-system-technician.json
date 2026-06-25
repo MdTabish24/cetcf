@@ -1,0 +1,239 @@
+{
+  "course_name": "Inverter & Battery System Technician",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_weeks": 4,
+  "total_hours": 60,
+  "hero_description": "Learn to install, maintain, and repair inverter and battery systems that power homes and businesses across India. This hands-on course trains you to become a skilled technician in one of India's fastest-growing sectors, with guaranteed job opportunities in the renewable energy and power backup industry.",
+  "overview_description": "This foundation course covers complete knowledge of inverter systems, battery technologies, electrical connections, troubleshooting, and maintenance. You will learn practical skills to service and repair inverters, UPS systems, and solar battery setups used in residential and commercial applications. By the end, you will be job-ready to work as an inverter technician or start your own service business.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Basics of Electricity & Electrical Safety",
+      "week_range": "Week 1",
+      "hours": 8,
+      "topics": [
+        "Fundamentals of electricity — voltage, current, resistance, and power explained in simple terms",
+        "AC vs DC current — understanding alternating and direct current and their applications",
+        "Ohm's Law and electrical calculations — practical formulas for technicians",
+        "Electrical safety standards — IS 1866 and IEC standards for Indian installations",
+        "Personal protective equipment (PPE) — proper use of gloves, goggles, and safety tools",
+        "Earthing and grounding basics — why earthing is critical for inverter systems",
+        "Common electrical hazards — shock, fire, and electrocution prevention",
+        "First aid for electrical injuries — CPR and emergency response procedures"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Inverter Systems & Technology",
+      "week_range": "Week 1-2",
+      "hours": 14,
+      "topics": [
+        "What is an inverter — converting DC to AC power for home and office use",
+        "Types of inverters — square wave, modified sine wave, and pure sine wave explained",
+        "Inverter specifications — understanding VA, watts, efficiency, and surge capacity",
+        "Pure sine wave vs modified sine wave — which devices need which type",
+        "Inverter components — IGBT, transformer, capacitors, and circuit protection devices",
+        "Single phase and three phase inverters — applications in Indian homes and industries",
+        "Smart inverters and MPPT technology — modern features and benefits",
+        "Inverter rating and sizing — selecting correct capacity for home loads",
+        "Warranty and certifications — BIS certification and quality standards in India",
+        "Installation guidelines — wall mounting, floor placement, and ventilation requirements"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Battery Systems & Energy Storage",
+      "week_range": "Week 2",
+      "hours": 10,
+      "topics": [
+        "Lead-acid batteries — construction, working principle, and maintenance procedures",
+        "Lithium-ion batteries — advantages, lifespan, and safety considerations",
+        "Battery capacity and rating — understanding Ah (ampere-hour) and Wh (watt-hour)",
+        "Battery charging cycles — float charging, bulk charging, and absorption phase",
+        "Battery health monitoring — specific gravity, voltage testing, and capacity checks",
+        "Battery safety — preventing overcharge, deep discharge, and thermal runaway",
+        "Battery terminals and connections — proper cable sizing and terminal cleaning",
+        "Tubular and flat plate batteries — differences and suitable applications",
+        "Battery backup time calculation — estimating runtime for appliances",
+        "Environmental impact and recycling — responsible battery disposal in India"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Installation & Wiring Practices",
+      "week_range": "Week 2-3",
+      "hours": 12,
+      "topics": [
+        "Pre-installation checklist — site assessment and customer requirements",
+        "Electrical load calculation — measuring total power consumption of appliances",
+        "Cable selection and sizing — understanding wire gauge (mm²) for safety",
+        "Wiring diagrams and circuit diagrams — reading and interpreting technical drawings",
+        "Battery bank configuration — series and parallel connections for desired voltage",
+        "Inverter to battery connections — correct polarity and cable routing",
+        "AC distribution board setup — connecting inverter output to home circuits",
+        "Bypass switch installation — manual switchover between grid and inverter",
+        "Earthing and neutral bonding — proper grounding for inverter systems",
+        "Cable management and labeling — professional installation practices",
+        "Testing before commissioning — voltage, continuity, and load testing",
+        "Customer handover and documentation — operation manuals and warranty cards"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Troubleshooting, Maintenance & Repair",
+      "week_range": "Week 3-4",
+      "hours": 12,
+      "topics": [
+        "Inverter not starting — common causes and quick fixes",
+        "Low backup time — battery health testing and capacity restoration",
+        "Overload and over-temperature shutdown — understanding protection mechanisms",
+        "Battery not charging — charger circuit diagnosis and repair",
+        "Beeping and alarm codes — interpreting inverter display messages",
+        "Voltage fluctuation issues — stabilizer interaction and load balancing",
+        "Inverter making noise — fan problems and transformer issues",
+        "Solar integration troubleshooting — MPPT and charge controller faults",
+        "Multimeter usage — practical testing of voltage, current, and resistance",
+        "Component replacement — changing fuses, capacitors, and relays safely",
+        "Preventive maintenance schedule — monthly, quarterly, and annual tasks",
+        "Customer communication — explaining technical issues in simple language"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Solar Integration & Advanced Features",
+      "week_range": "Week 4",
+      "hours": 4,
+      "topics": [
+        "Solar panel basics — understanding wattage, voltage, and panel types",
+        "MPPT charge controllers — maximum power point tracking explained",
+        "PWM vs MPPT — efficiency differences and cost-benefit analysis",
+        "Grid-tie inverters — net metering and solar integration with electricity board",
+        "Hybrid inverters — combining solar, battery, and grid power intelligently",
+        "Smart monitoring systems — mobile apps and remote monitoring features",
+        "Energy management — load scheduling and priority-based power distribution",
+        "Government subsidies and schemes — MNRE and state-level solar incentives in India"
+      ]
+    }
+  ],
+  "assessment": {
+    "theory_marks": 50,
+    "theory_format": "25 Questions x 2 Marks (Multiple choice and short answer)",
+    "theory_duration": "45 minutes",
+    "practical_marks": 50,
+    "practical_format": "Hands-on assessment of inverter installation, battery connection, troubleshooting, and maintenance",
+    "practical_items": [
+      {
+        "title": "Inverter Installation & Wiring",
+        "description": "Candidate must correctly install an inverter, connect battery terminals, set up AC distribution, and perform pre-commissioning tests. Evaluator checks polarity, cable sizing, earthing, and safety compliance.",
+        "marks": 15
+      },
+      {
+        "title": "Battery Testing & Maintenance",
+        "description": "Candidate must test battery voltage, specific gravity, and capacity using multimeter. Must identify battery health status and demonstrate proper terminal cleaning and cable connection procedures.",
+        "marks": 10
+      },
+      {
+        "title": "Troubleshooting & Repair",
+        "description": "Candidate must diagnose a faulty inverter or battery system using multimeter and technical knowledge. Must identify the problem, explain the cause, and demonstrate corrective action or component replacement.",
+        "marks": 15
+      },
+      {
+        "title": "Load Calculation & Sizing",
+        "description": "Candidate must calculate total electrical load of given appliances, recommend suitable inverter capacity and battery bank size, and justify selection based on backup time requirement.",
+        "marks": 10
+      }
+    ],
+    "total_marks": 100,
+    "pass_percentage": 50
+  },
+  "eligibility": [
+    "Minimum age: 14 years (14-40 years preferred)",
+    "Minimum education: Class 8th pass or equivalent",
+    "No prior experience needed — beginners welcome",
+    "Already working as inverter technician? Apply for direct RPL (Recognition of Prior Learning) exam",
+    "Valid government ID proof required at registration (Aadhaar, PAN, or Voter ID)",
+    "Medical fitness: No color blindness or serious hearing impairment",
+    "Applicable for all Indian citizens and registered foreign residents"
+  ],
+  "learning_outcomes": [
+    "Understand electrical fundamentals, safety standards, and inverter technology relevant to Indian market",
+    "Install, configure, and commission inverter and battery systems for residential and commercial use",
+    "Perform accurate electrical load calculations and select appropriate inverter and battery capacity",
+    "Test and diagnose battery health using multimeter and industry-standard procedures",
+    "Troubleshoot common inverter faults and perform repairs with minimal supervision",
+    "Maintain inverter systems according to preventive maintenance schedules and customer service standards"
+  ],
+  "career_paths": [
+    {
+      "title": "Inverter Service Technician",
+      "type": "Employment",
+      "salary": "15000-30000/month",
+      "icon": "🔧"
+    },
+    {
+      "title": "Battery & Power Systems Technician",
+      "type": "Employment",
+      "salary": "18000-35000/month",
+      "icon": "🔋"
+    },
+    {
+      "title": "Solar Inverter Installation Specialist",
+      "type": "Employment",
+      "salary": "20000-40000/month",
+      "icon": "☀️"
+    },
+    {
+      "title": "Independent Inverter Service Center Owner",
+      "type": "Self-Employment",
+      "salary": "30000-100000+/month",
+      "icon": "🏪"
+    },
+    {
+      "title": "Home UPS & Inverter Distributor",
+      "type": "Entrepreneurship",
+      "salary": "40000-150000+/month",
+      "icon": "📦"
+    },
+    {
+      "title": "Field Service Engineer (Large Companies)",
+      "type": "Employment",
+      "salary": "25000-50000/month",
+      "icon": "🚗"
+    },
+    {
+      "title": "Inverter Repair Workshop Owner",
+      "type": "Self-Employment",
+      "salary": "50000-200000+/month",
+      "icon": "🏭"
+    },
+    {
+      "title": "Solar & Inverter Installation Contractor",
+      "type": "Entrepreneurship",
+      "salary": "60000-300000+/month",
+      "icon": "⚡"
+    }
+  ],
+  "exam_fee": 1000,
+  "job_market_context": "India's inverter and battery backup market is growing at 15-20% annually. With increasing power cuts, rising electricity costs, and solar adoption, demand for skilled technicians is extremely high. Major cities like Bangalore, Delhi, Mumbai, Hyderabad, and Pune have thousands of service centers. Rural areas are also expanding rapidly. Average technician can earn ₹15,000-30,000 monthly, while business owners earn ₹50,000-2,00,000+ monthly.",
+  "skills_emphasis": [
+    "Practical hands-on experience with real inverter and battery systems",
+    "Electrical safety and risk management",
+    "Problem-solving and diagnostic thinking",
+    "Customer service and communication in local languages",
+    "Basic business skills for self-employment",
+    "Attention to detail and quality work"
+  ],
+  "industry_partners": "Luminous Power, Microtek, Su-Kam, Exide, Eastman, Livguard, Numeric — all major inverter brands operating in India",
+  "placement_support": "CETCF provides job placement assistance, industry connections, and business startup guidance after course completion",
+  "course_highlights": [
+    "100% practical training with real inverter and battery systems",
+    "Industry-standard tools and equipment provided",
+    "Certification recognized by electrical contractors and retailers across India",
+    "Flexible timing: Weekday, weekend, and online options available",
+    "Small batch size for personalized attention",
+    "Lifetime support and refresher training access",
+    "Job guarantee or money-back assurance (subject to terms)"
+  ]
+}

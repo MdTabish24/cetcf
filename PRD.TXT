@@ -1,0 +1,75 @@
+# Product Requirements Document (PRD): Enterprise Educational Portal
+
+## 1. Project Overview
+The goal is to build a modern, enterprise-grade educational portal inspired by the structure of NCETIR but with a premium UI/UX, custom company content, and robust backend functionality. The platform will serve as the primary interface for an educational trust/council to manage affiliations, student records, and vocational programs.
+
+## 2. Target Audience
+- **Prospective Students:** Looking for job-oriented courses.
+- **Institution Owners:** Interested in franchise/affiliation (ASTC).
+- **Current Students:** Checking results and verifying certificates.
+- **Government/Regulatory Bodies:** Verifying the council's legal standing and affiliations.
+
+## 3. Sitemap & Page Structure
+
+| Page Name | Purpose | Key Content Elements |
+| :--- | :--- | :--- |
+| **Home** | Brand Identity & Conversion | Hero Slider, Impact Stats (Counter), Program Grid, Trust Bar (Logos), Latest News Ticker. |
+| **About Us** | Credibility | Mission/Vision, Legal Registrations, Leadership Team, Core Values. |
+| **Affiliations** | Compliance & Trust | Interactive Grid of Certificates, Registration Numbers, Govt. Logo Carousel. |
+| **Centers (ASTC)** | Network Visibility | Searchable Map/Directory, State-wise Center Counts, Center Details. |
+| **Verification** | Security & Utility | Tabbed Forms for Marksheet, Certificate, and Admission Verification. |
+| **Results** | Student Service | Roll Number based Result Retrieval. |
+| **Programs** | Product Catalog | Categorized Department Landing Pages (IT, Agriculture, Health, etc.). |
+| **Updates** | Information Hub | Chronological Notice Board with PDF Download Options. |
+| **Contact** | Lead Gen | Multi-office Address, Interactive Map, Lead Form with Program Selection. |
+
+## 4. Functional Requirements
+
+### 4.1. Verification Engine (Core Feature)
+- **Input:** Roll Number / Enrollment Number.
+- **Output:** Dynamic generation of digital marksheets/certificates (view-only).
+- **Security:** Rate limiting to prevent database scraping.
+
+### 4.2. Franchise/Affiliation Management
+- **Lead Capture:** Detailed form for potential partners.
+- **Admin Dashboard:** To track and manage affiliation requests.
+
+### 4.3. Multi-Portal Access
+- **Admin Portal:** Manage content, centers, students, and results.
+- **Center Portal:** Student registration, fee management, and internal updates.
+- **Student Portal (Optional):** Course materials, exam notifications.
+
+### 4.4. Content Management System (CMS)
+- Ability to update "Latest Updates" and "Programs" without coding.
+- Dynamic addition of new "Affiliations" or "Accreditations".
+
+## 5. Technical Requirements & Modernization (Enterprise Standards)
+
+### 5.1. Modern UI/UX (The "Modern UI" Request)
+- **Framework:** React/Next.js for a fast, single-page feel.
+- **Styling:** Tailwind CSS for a clean, professional "Enterprise" look.
+- **Components:** 
+    - Use **Skeleton Screens** for loading states.
+    - **Animated Counters** for statistics.
+    - **Responsive Design:** 100% mobile-friendly (critical for students).
+    - **Trust Bar:** Instead of a cluttered grid, use a clean, grayscale-to-color hover logo strip.
+
+### 5.2. Backend & Security
+- **Database:** PostgreSQL or MySQL for structured student/center data.
+- **Authentication:** JWT-based secure login for Admin/Centers.
+- **SEO:** Optimized meta-tags for all program pages.
+
+## 6. Content Strategy (Custom Company)
+- **Placeholder Strategy:** Use "Company Name" as a variable.
+- **Focus:** Shift from generic descriptions to benefit-driven content (e.g., "Become Job Ready in 6 Months" instead of "We provide vocational training").
+
+## 7. Success Metrics
+- **Verification Accuracy:** 100% match with database.
+- **Load Time:** < 2 seconds for the homepage.
+- **Lead Conversion:** Increase in franchise inquiries via the modern form.
+
+## 8. Infrastructure Architecture
+- **Hosting Strategy:** VPS (Virtual Private Server) such as Contabo or Hostinger.
+- **Why VPS:** The Node.js Express backend heavily utilizes the local filesystem for persistent file storage (`multer` for photos, `pdfkit` for certificates). A VPS guarantees file persistence, avoiding the ephemeral storage limitations (and 4.5MB upload constraints) of serverless platforms like Vercel or Cloud Run.
+- **Database:** PostgreSQL installed natively on the VPS or via managed NeonDB.
+- **Video Hosting:** Bunny.net (Bunny Stream) to prevent rate-limiting/buffering issues seen with Google Drive, while offering DRM piracy protection at low costs ($0.01/GB).

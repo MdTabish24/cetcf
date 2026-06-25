@@ -1,178 +1,176 @@
 import { useState } from 'react';
-import { certificateApi } from '../services/api';
+import api from '../services/api';
 
-interface CertificateResult {
-  certNumber: string;
-  candidateName: string;
-  candidatePhoto?: string;
-  tradeName: string;
-  grade: string;
-  score: number;
-  percentage: number;
-  issueDate: string;
-  issuingCenter: string;
-  pdfUrl?: string;
-  whatsAppShareText?: string;
-}
-
-function VerifyPage() {
-  const [certInput, setCertInput] = useState('');
+export default function VerifyPage() {
+  const [certNumber, setCertNumber] = useState('');
   const [loading, setLoading] = useState(false);
-  const [result, setResult] = useState<CertificateResult | null>(null);
-  const [error, setError] = useState<string | null>(null);
+  const [result, setResult] = useState<null | 'found' | 'not_found' | 'revoked'>(null);
+  const [certData, setCertData] = useState<any>(null);
+  const [errorMessage, setErrorMessage] = useState('');
 
-  async function handleVerify() {
-    const trimmed = certInput.trim();
-    if (!trimmed) {
-      setError('Please enter a certificate number.');
-      return;
-    }
-
+  const handleVerify = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!certNumber.trim()) return;
+    
     setLoading(true);
-    setError(null);
     setResult(null);
-
-    const response = await certificateApi.verify(trimmed);
-
-    if (response.success && response.valid) {
-      setResult(response.certificate as CertificateResult);
-    } else {
-      setError(
-        (response.message as string) ||
-          'Certificate not found — This may be fake. Please verify the certificate number carefully.'
-      );
+    setErrorMessage('');
+    
+    try {
+      const res = await api.certificates.verify(certNumber.trim());
+      
+      if (res.success && res.valid) {
+        setResult('found');
+        setCertData(res.certificate);
+      } else {
+        setResult('not_found');
+        setErrorMessage(res.message || 'Certificate not found. Please check the number.');
+      }
+    } catch (err) {
+      setResult('not_found');
+      setErrorMessage('Verification failed due to a network error.');
+    } finally {
+      setLoading(false);
     }
-    setLoading(false);
-  }
+  };
 
-  function handleShare() {
-    if (result?.whatsAppShareText) {
-      const url = `https://wa.me/?text=${encodeURIComponent(result.whatsAppShareText)}`;
-      window.open(url, '_blank');
-    }
-  }
-
-  const gradeColors: Record<string, string> = { A: '#10b981', B: '#3b82f6', C: '#f59e0b' };
+  const formatDate = (dateStr: string) => {
+    return new Date(dateStr).toLocaleDateString('en-IN', {
+      year: 'numeric', month: 'long', day: 'numeric'
+    });
+  };
 
   return (
-    <div className="page">
-      <section className="page-hero">
-        <div className="breadcrumb">
-          Home &gt; <span>Verify Certificate</span>
+    <>
+      {/* Page Hero */}
+      <section className="page-hero" id="verify-hero">
+        <div className="wrap">
+          <span className="sec-eyebrow" style={{ color: 'var(--gold-light)' }}>Certificate Verification</span>
+          <h1>Verify a <span style={{ color: 'var(--gold-light)' }}>CETCF Certificate</span></h1>
+          <p className="page-hero-sub">
+            Enter the certificate number or scan the QR code to verify its authenticity.
+            All CETCF certificates are digitally signed and verifiable.
+          </p>
         </div>
-        <h1>Certificate Verification Portal</h1>
-        <p>Instantly verify the authenticity of any CETC Foundation certificate</p>
       </section>
+      <div className="gold-rule"></div>
 
-      <section className="verify-box">
-        <div className="verify-icon">🔍</div>
-        <div className="verify-title">Verify CETC Certificate</div>
-        <div className="verify-sub">
-          Enter the certificate number (format: CETC/YEAR/TRADE/NUMBER) or scan the QR code on the certificate
-        </div>
-
-        <div className="input-row">
-          <input
-            className="cert-input"
-            type="text"
-            placeholder="e.g. CETC/2025/BEAUTY/001247"
-            value={certInput}
-            onChange={(e) => setCertInput(e.target.value)}
-            onKeyDown={(e) => e.key === 'Enter' && handleVerify()}
-            disabled={loading}
-          />
-          <button
-            className="btn-primary"
-            onClick={handleVerify}
-            type="button"
-            disabled={loading}
-          >
-            {loading ? 'Verifying...' : 'Verify'}
-          </button>
-        </div>
-
-        <div className="verify-or">or</div>
-        <button className="btn-outline full-width" type="button" disabled>
-          📷 Scan QR Code (Mobile)
-        </button>
-
-        {/* Error State */}
-        {error && (
-          <div className="verify-result show" style={{ borderColor: '#ef4444' }}>
-            <div style={{ fontSize: '2.5rem', marginBottom: '0.75rem' }}>❌</div>
-            <div className="result-name" style={{ color: '#ef4444' }}>
-              Verification Failed
-            </div>
-            <div className="result-trade" style={{ color: '#f87171' }}>
-              {error}
-            </div>
-          </div>
-        )}
-
-        {/* Success State */}
-        {result && (
-          <div className="verify-result show">
-            <div className="result-check">✅</div>
-            <div className="result-name">{result.candidateName}</div>
-            <div className="result-trade">{result.tradeName}</div>
-
-            <div className="result-grid">
-              {[
-                ['Certificate No.', result.certNumber],
-                [
-                  'Grade',
-                  <span key="grade" style={{ color: gradeColors[result.grade] || '#ffffff', fontWeight: 700 }}>
-                    {result.grade}
-                  </span>,
-                ],
-                ['Score', `${result.score} marks`],
-                ['Percentage', `${result.percentage}%`],
-                [
-                  'Issue Date',
-                  new Date(result.issueDate).toLocaleDateString('en-IN', {
-                    day: '2-digit',
-                    month: 'long',
-                    year: 'numeric',
-                  }),
-                ],
-                ['Issuing Center', result.issuingCenter],
-              ].map(([label, value]) => (
-                <div key={String(label)} className="result-item">
-                  <label>{label}</label>
-                  <span>{value}</span>
-                </div>
-              ))}
+      <section className="section" id="verify-form-section">
+        <div className="wrap-sm">
+          <div className="verify-card" id="verify-card">
+            <div style={{ textAlign: 'center', marginBottom: '24px' }}>
+              <div style={{ fontSize: '48px', marginBottom: '12px' }}>🔍</div>
+              <h2 style={{ fontFamily: 'var(--font-display)', fontSize: '22px', color: 'var(--navy)', marginBottom: '6px' }}>
+                Certificate Verification Portal
+              </h2>
+              <p style={{ fontSize: '13px', color: 'var(--muted)' }}>
+                Enter the certificate number printed on your CETCF certificate
+              </p>
             </div>
 
-            <div
-              style={{
-                display: 'flex',
-                gap: '0.75rem',
-                marginTop: '1.25rem',
-                justifyContent: 'center',
-                flexWrap: 'wrap',
-              }}
-            >
-              {result.pdfUrl && (
-                <a
-                  href={result.pdfUrl}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="btn-primary"
-                  style={{ textDecoration: 'none', display: 'inline-block' }}
+            <form onSubmit={handleVerify}>
+              <div className="verify-input-group">
+                <input
+                  type="text"
+                  className="verify-input"
+                  placeholder="e.g., CETC/2025/BEAUTY/000123"
+                  value={certNumber}
+                  onChange={(e) => setCertNumber(e.target.value)}
+                  id="verify-cert-input"
+                />
+                <button
+                  type="submit"
+                  className="btn btn-gold"
+                  disabled={loading || !certNumber.trim()}
+                  id="verify-submit-btn"
                 >
-                  📄 Download Certificate
-                </a>
-              )}
-              <button className="btn-outline" type="button" onClick={handleShare}>
-                🟢 Share on WhatsApp
-              </button>
+                  {loading ? '⏳ Verifying...' : '🔍 Verify'}
+                </button>
+              </div>
+            </form>
+
+            <div style={{ display: 'flex', gap: '16px', marginTop: '20px', justifyContent: 'center' }}>
+              <span style={{ fontSize: '12px', color: 'var(--muted)', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                🔒 Secure & Encrypted
+              </span>
+              <span style={{ fontSize: '12px', color: 'var(--muted)', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                ⚡ Instant Results
+              </span>
             </div>
+
+            {/* Result */}
+            {result === 'found' && certData && (
+              <div className="verify-result" id="verify-result-found">
+                <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '16px' }}>
+                  <div style={{ width: '40px', height: '40px', borderRadius: '50%', background: 'var(--success)', color: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '18px' }}>
+                    ✓
+                  </div>
+                  <div>
+                    <div style={{ fontSize: '16px', fontWeight: 700, color: 'var(--success)' }}>Certificate Verified ✓</div>
+                    <div style={{ fontSize: '12px', color: 'var(--muted)' }}>This certificate is genuine and valid.</div>
+                  </div>
+                </div>
+
+                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px', marginTop: '16px' }}>
+                  {[
+                    { label: 'Candidate Name', value: certData.candidateName },
+                    { label: 'Certificate No', value: certData.certNumber },
+                    { label: 'Course', value: certData.tradeName },
+                    { label: 'Grade', value: `${certData.grade} (${certData.percentage}%)` },
+                    { label: 'Issue Date', value: formatDate(certData.issueDate) },
+                    { label: 'Issuing Center', value: certData.issuingCenter },
+                  ].map((item, i) => (
+                    <div key={i} style={{ padding: '10px 14px', background: 'rgba(27,122,74,0.06)', borderRadius: '8px' }}>
+                      <div style={{ fontSize: '10px', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.06em' }}>{item.label}</div>
+                      <div style={{ fontSize: '14px', fontWeight: 600, color: 'var(--navy)', marginTop: '2px' }}>{item.value}</div>
+                    </div>
+                  ))}
+                </div>
+                
+                {certData.pdfUrl && (
+                  <div style={{ marginTop: '20px', textAlign: 'center' }}>
+                     <a href={certData.pdfUrl} target="_blank" rel="noreferrer" className="btn btn-outline" style={{ fontSize: '13px' }}>
+                       📥 Download PDF Copy
+                     </a>
+                  </div>
+                )}
+              </div>
+            )}
+
+            {result === 'not_found' && (
+              <div style={{
+                marginTop: '24px',
+                padding: '24px',
+                borderRadius: '16px',
+                border: '2px solid var(--danger)',
+                background: 'rgba(198,40,40,0.04)',
+                textAlign: 'center',
+              }} id="verify-result-notfound">
+                <div style={{ fontSize: '36px', marginBottom: '8px' }}>❌</div>
+                <div style={{ fontSize: '16px', fontWeight: 700, color: 'var(--danger)' }}>Verification Failed</div>
+                <p style={{ fontSize: '13px', color: 'var(--muted)', marginTop: '6px' }}>
+                  {errorMessage}
+                </p>
+              </div>
+            )}
           </div>
-        )}
+
+          {/* Info Cards */}
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '12px', marginTop: '32px', flexWrap: 'wrap' }}>
+            {[
+              { icon: '📋', title: 'Where to find it?', desc: 'The certificate number is printed in the top-right corner of your CETCF certificate.' },
+              { icon: '📱', title: 'QR Code', desc: 'You can also scan the QR code on your certificate using any smartphone camera.' },
+              { icon: '📧', title: 'Need Help?', desc: 'Contact info@cetcf.org or call us for verification assistance.' },
+            ].map((item, i) => (
+              <div key={i} className="card" style={{ padding: '20px', textAlign: 'center' }}>
+                <div style={{ fontSize: '28px', marginBottom: '8px' }}>{item.icon}</div>
+                <h4 style={{ fontSize: '14px', fontWeight: 600, color: 'var(--navy)', marginBottom: '6px' }}>{item.title}</h4>
+                <p style={{ fontSize: '12px', color: 'var(--muted)', lineHeight: 1.5 }}>{item.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
       </section>
-    </div>
+    </>
   );
 }
-
-export default VerifyPage;

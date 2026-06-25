@@ -1,0 +1,1443 @@
+{
+  "course_name": "Carpenter & Wood Work Technician",
+  "sector": "Construction & Building Trades",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Safety & Basic Hand Tools",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Wood Types & Properties",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Measuring, Marking & Cutting Techniques",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Joinery & Assembly",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Finishing & Installation",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Maintenance & Advanced Concepts",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Workshop mein kaam karte samay kaun sa Personal Protective Equipment (PPE) sabse zaroori hai?",
+      "options": {
+        "A": "Safety Goggles",
+        "B": "Fashionable Cap",
+        "C": "Normal Shoes",
+        "D": "Wrist Watch"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Safety Goggles aankhon ko wood chips aur dust se bachane ke liye sabse zaroori PPE hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ek hand saw ka primary use kya hai?",
+      "options": {
+        "A": "Wood ko polish karna",
+        "B": "Wood ko kaatna",
+        "C": "Nails ko thokna",
+        "D": "Measurements lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hand saw ka mukhya kaam wood ko manually kaatna hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Chisel ka upyog kis kaam ke liye kiya jaata hai?",
+      "options": {
+        "A": "Wood mein hole karne ke liye",
+        "B": "Wood ko smooth karne ke liye",
+        "C": "Wood se small pieces remove karne ya shaping ke liye",
+        "D": "Wood ko sand karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Chisel ka upyog wood se small pieces hataane, joints banane, ya shaping ke liye kiya jaata hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Agar aap circular saw use kar rahe hain, toh kya precaution lena chahiye?",
+      "options": {
+        "A": "Loose fitting clothes pehenna",
+        "B": "Blade guard ko hata dena",
+        "C": "Workpiece ko acchi tarah se clamp karna",
+        "D": "Dull blade ka upyog karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Circular saw use karte samay workpiece ko acchi tarah se clamp karna zaroori hai taaki woh slip na ho aur accident na ho."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Hammer ka sabse common use kya hai?",
+      "options": {
+        "A": "Screws ko tight karna",
+        "B": "Nails ko drive karna",
+        "C": "Wood ko measure karna",
+        "D": "Paint karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hammer ka sabse aam upyog nails ko wood mein thokna hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Safety Gloves kab pehne chahiye?",
+      "options": {
+        "A": "Jab bhi heavy lifting kar rahe ho",
+        "B": "Jab bhi tools handle kar rahe ho ya rough material se deal kar rahe ho",
+        "C": "Jab bhi painting kar rahe ho",
+        "D": "Sirf winters mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety Gloves hathon ko cuts, splinters, aur abrasions se bachane ke liye zaroori hain, especially jab tools ya rough material handle kar rahe ho."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Power tools ko use karne se pehle kya check karna chahiye?",
+      "options": {
+        "A": "Tool ka colour",
+        "B": "Power cord damaged toh nahi hai",
+        "C": "Tool kitna purana hai",
+        "D": "Tool ka brand name"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Power tools use karne se pehle power cord ko damage ke liye check karna bahut zaroori hai, taaki electrical hazards se bacha ja sake."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Bench vise ka kya function hai?",
+      "options": {
+        "A": "Wood ko kaatna",
+        "B": "Workpiece ko firmly hold karna",
+        "C": "Wood ko measure karna",
+        "D": "Nails ko nikalna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bench vise ka upyog workpiece ko securely hold karne ke liye hota hai, taaki us par kaam karte samay stability bani rahe."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Jab aap ek sharp chisel use kar rahe hain, toh aapki body position kaisi honi chahiye?",
+      "options": {
+        "A": "Chisel ke cutting path ke line mein",
+        "B": "Chisel ke cutting path se dur",
+        "C": "Chisel ke bilkul saamne",
+        "D": "Kisi bhi position mein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sharp chisel use karte samay apni body ko cutting path se dur rakhna chahiye taaki slip hone par injury na ho."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Hearing protection (ear muffs/plugs) kab zaroori hai?",
+      "options": {
+        "A": "Jab bhi koi tool use kar rahe ho",
+        "B": "Jab bhi loud machinery chal rahi ho",
+        "C": "Sirf welding karte samay",
+        "D": "Jab bhi painting kar rahe ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Loud machinery se hone wale noise se hearing loss ho sakta hai, isliye hearing protection zaroori hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Measure tape ka primary use kya hai?",
+      "options": {
+        "A": "Wood ko mark karna",
+        "B": "Wood ko kaatna",
+        "C": "Lambai, chaudai aur unchai ko measure karna",
+        "D": "Wood ko polish karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Measure tape ka mukhya upyog dimensions ko accurate tarike se measure karna hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Screwdriver kis kaam aata hai?",
+      "options": {
+        "A": "Nails ko nikalne ke liye",
+        "B": "Screws ko tight ya loose karne ke liye",
+        "C": "Wood mein hole karne ke liye",
+        "D": "Metal sheet ko kaatne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Screwdriver screws ko manually tight ya loose karne ke liye design kiya gaya hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Jack plane ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Rough wood surface ko smooth aur flat banane ke liye",
+        "B": "Wood mein holes karne ke liye",
+        "C": "Wood ko cross-cut karne ke liye",
+        "D": "Wood ko paint karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Jack plane rough wood surface ko smooth aur flat karne ke liye use hota hai, especially large surfaces par."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Agar workshop mein aag lag jaaye, toh sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "Panic karna",
+        "B": "Aag bujhaane ki koshish karna chahe kitni bhi badi ho",
+        "C": "Electric supply band karna aur fire alarm bajana",
+        "D": "Workshop se bahar bhaag jana bina kisi ko bataye"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Electrical fires ke case mein electric supply band karna aur fire alarm bajakar sabko alert karna sabse pehla aur zaroori step hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Drill machine ka upyog kya hai?",
+      "options": {
+        "A": "Wood ko kaatna",
+        "B": "Wood mein holes karna",
+        "C": "Wood ko polish karna",
+        "D": "Wood ko sand karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drill machine ka mukhya upyog wood ya other materials mein holes karne ke liye hota hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Ek try square ka kya purpose hai?",
+      "options": {
+        "A": "Wood ki lambai measure karna",
+        "B": "90 degree angles ko mark aur check karna",
+        "C": "Circular shapes banane ke liye",
+        "D": "Wood ko chamkana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Try square ka upyog 90 degree angles (right angles) ko mark karne aur check karne ke liye hota hai, jo carpentry mein bahut zaroori hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Jab aap hand tools use na kar rahe hon, toh unhe kaise store karna chahiye?",
+      "options": {
+        "A": "Floor par scatter karke rakhna",
+        "B": "Ek tool box ya rack mein neatly organize karke",
+        "C": "Workpiece ke upar chhod dena",
+        "D": "Bina saaf kiye rakh dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools ko neatly organize karke rakhne se woh damage hone se bachte hain aur unhe dhundhna bhi aasan hota hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Kaun sa wood type generally soft hota hai aur coniferous trees se aata hai?",
+      "options": {
+        "A": "Hardwood",
+        "B": "Softwood",
+        "C": "Engineered wood",
+        "D": "Plywood"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Softwood coniferous trees se aata hai aur generally hardwood se softer hota hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Teak (Saagwan) kis category ka wood hai?",
+      "options": {
+        "A": "Softwood",
+        "B": "Hardwood",
+        "C": "Plywood",
+        "D": "MDF"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Teak ek popular hardwood hai jo uski durability aur resistance ke liye jaana jaata hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Wood mein moisture content ka kya importance hai?",
+      "options": {
+        "A": "Isse wood ka colour decide hota hai",
+        "B": "Yeh wood ki strength, stability aur working properties ko affect karta hai",
+        "C": "Isse wood ki smell change hoti hai",
+        "D": "Isse wood ka weight kam hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wood mein moisture content bahut important hai kyunki yeh uski strength, stability aur kitna accha kaam karega, sabko prabhavit karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Plywood kis tarah ka wood hai?",
+      "options": {
+        "A": "Solid hardwood",
+        "B": "Solid softwood",
+        "C": "Engineered wood",
+        "D": "Bamboo wood"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Plywood ek engineered wood product hai jo thin wood veneers ko ek saath glue karke banaya jaata hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Wood mein knots (gaanthon) ka kya effect hota hai?",
+      "options": {
+        "A": "Wood ki strength badhaate hain",
+        "B": "Wood ki strength kam kar sakte hain aur working difficult bana sakte hain",
+        "C": "Wood ko waterproof banaate hain",
+        "D": "Wood ko polish karna aasan banaate hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Knots wood ki strength ko kam kar sakte hain aur us par kaam karna mushkil bana sakte hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "MDF ka full form kya hai?",
+      "options": {
+        "A": "Multi-Density Fiberboard",
+        "B": "Medium-Density Fiberboard",
+        "C": "Modular-Density Fiber",
+        "D": "Moisture-Durable Fiber"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MDF ka full form Medium-Density Fiberboard hai, jo ek engineered wood product hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Wood grain kya hota hai?",
+      "options": {
+        "A": "Wood ka weight",
+        "B": "Wood ki surface par fibers ka pattern aur direction",
+        "C": "Wood ka colour",
+        "D": "Wood ki density"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wood grain wood ki surface par fibers ka pattern aur direction hota hai, jo uski appearance aur strength ko define karta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Softwood ka ek common use kya hai?",
+      "options": {
+        "A": "Heavy-duty furniture banane ke liye",
+        "B": "Construction framing aur general purpose ke liye",
+        "C": "High-end musical instruments banane ke liye",
+        "D": "Waterproof boats banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Softwood, jaise ki pine aur spruce, construction framing aur general purpose carpentry mein common hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Agar wood mein bahut zyada moisture ho, toh kya ho sakta hai?",
+      "options": {
+        "A": "Wood zyada strong ho jaayega",
+        "B": "Wood warp kar sakta hai, crack ho sakta hai ya rot ho sakta hai",
+        "C": "Wood ka colour dark ho jaayega",
+        "D": "Wood lightweight ho jaayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Excessive moisture wood ko warp, crack ya rot kar sakta hai, isliye wood ko season karna zaroori hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Hardwood ki kya visheshta hai?",
+      "options": {
+        "A": "Jaldi grow hota hai",
+        "B": "Deciduous trees se aata hai, dense aur durable hota hai",
+        "C": "Aasani se bend ho jaata hai",
+        "D": "Construction framing mein hi use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hardwood deciduous trees se aata hai aur apni density aur durability ke liye jaana jaata hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Particle board (Chipboard) kis cheez se banta hai?",
+      "options": {
+        "A": "Solid wood planks",
+        "B": "Wood fibers aur resin",
+        "C": "Wood chips, sawdust aur resin ko compress karke",
+        "D": "Thin wood veneers"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Particle board wood chips, sawdust aur resin ko high pressure mein compress karke banaya jaata hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Wood ke storage ke liye sabse acchi condition kya hai?",
+      "options": {
+        "A": "Direct sunlight mein bahar rakhna",
+        "B": "Wet aur damp environment mein",
+        "C": "Cool, dry aur well-ventilated area mein",
+        "D": "Heating vent ke paas"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Wood ko cool, dry aur well-ventilated area mein store karne se woh warp aur crack hone se bachta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Laminated Veneer Lumber (LVL) ka kya fayda hai?",
+      "options": {
+        "A": "Yeh bahut sasta hota hai",
+        "B": "Yeh solid wood se zyada strong aur stable hota hai",
+        "C": "Iska weight bahut kam hota hai",
+        "D": "Yeh aasani se paint ho jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "LVL engineered wood hai jo multiple layers of thin wood ko glue karke banaya jaata hai, jisse yeh solid wood se zyada strong aur stable banta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Agar wood mein worms ya insects lag gaye hain, toh usko kya kehte hain?",
+      "options": {
+        "A": "Warping",
+        "B": "Checking",
+        "C": "Insect Infestation",
+        "D": "Cupping"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Wood mein worms ya insects lagne ko Insect Infestation kehte hain, jo wood ko damage karta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Kaun sa wood waterproof properties ke liye jaana jaata hai aur boat building mein use hota hai?",
+      "options": {
+        "A": "Pine",
+        "B": "Oak",
+        "C": "Teak",
+        "D": "Poplar"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Teak apni natural oils ke karan water resistant hota hai aur boat building mein kaafi use hota hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Wood ki density ka kya matlab hai?",
+      "options": {
+        "A": "Wood ka colour",
+        "B": "Wood ka weight per unit volume",
+        "C": "Wood ki flexibility",
+        "D": "Wood ki rough surface"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wood ki density uske weight per unit volume ko darshaati hai, jo uski hardness aur strength se related hoti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Wood ki 'seasoning' ka kya purpose hai?",
+      "options": {
+        "A": "Wood ko chamkane ke liye",
+        "B": "Wood se moisture content ko remove karne ke liye taaki woh stable ho jaaye",
+        "C": "Wood ko colour karne ke liye",
+        "D": "Wood ko soft banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wood ki seasoning (drying) usse moisture remove karne ka process hai, jisse woh warp, shrink ya crack na ho."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Measurements mein accuracy kyun zaroori hai?",
+      "options": {
+        "A": "Sirf aesthetics ke liye",
+        "B": "Project ki fit aur finish sahi rakhne ke liye",
+        "C": "Zyada wood use karne ke liye",
+        "D": "Kaam ko slow karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Accurate measurements project ki sahi fit, finish aur structural integrity ke liye bahut zaroori hain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Marking gauge ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Curved lines banane ke liye",
+        "B": "Wood ke edge ke parallel lines mark karne ke liye",
+        "C": "Wood ko kaatne ke liye",
+        "D": "Angles measure karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Marking gauge ka upyog wood ke edge ke parallel accurate lines mark karne ke liye hota hai, jo joints banane mein help karta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Cross-cut saw ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Wood grain ke parallel kaatne ke liye",
+        "B": "Wood grain ke across (perpendicular) kaatne ke liye",
+        "C": "Curved shapes kaatne ke liye",
+        "D": "Metal kaatne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cross-cut saw ka upyog wood grain ke across (perpendicular) saaf cut karne ke liye hota hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Rip saw ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Wood grain ke across kaatne ke liye",
+        "B": "Wood grain ke parallel kaatne ke liye",
+        "C": "Small curves kaatne ke liye",
+        "D": "Metal kaatne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rip saw ka upyog wood grain ke parallel (lengthwise) kaatne ke liye hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Miter cut kya hota hai?",
+      "options": {
+        "A": "Ek straight cut",
+        "B": "Ek angle cut, generally 45 degrees",
+        "C": "Ek curve cut",
+        "D": "Ek hole"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Miter cut ek angle cut hota hai, jise do pieces ko ek specific angle par join karne ke liye banaya jaata hai, jaise ki picture frames mein."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Ek combination square ka kya function hai?",
+      "options": {
+        "A": "Sirf 90 degree angles check karna",
+        "B": "90 aur 45 degree angles check karna, aur depth/height measurements lena",
+        "C": "Wood ko kaatna",
+        "D": "Wood ko polish karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Combination square multi-functional tool hai jo 90 aur 45 degree angles check karne, aur depth ya height measurements lene ke liye use hota hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Chalk line ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Wood ko chamkane ke liye",
+        "B": "Lambe aur seedhe reference lines mark karne ke liye",
+        "C": "Wood ko glue karne ke liye",
+        "D": "Small circles banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chalk line ka upyog lambe aur seedhe reference lines mark karne ke liye hota hai, especially large boards ya walls par."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Jigsaw ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Straight cuts ke liye",
+        "B": "Curved cuts aur intricate shapes kaatne ke liye",
+        "C": "Heavy-duty ripping ke liye",
+        "D": "Metal sheets kaatne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jigsaw ka upyog curved cuts aur intricate shapes kaatne ke liye kiya jaata hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Jab ek hand saw use kar rahe hon, toh cut shuru karne ke liye kya technique use karni chahiye?",
+      "options": {
+        "A": "Blade ko force karke cut shuru karna",
+        "B": "Blade ko lightly mark par rakhkar gentle strokes se shuru karna",
+        "C": "Kisi bhi angle se cut shuru karna",
+        "D": "Saw ko bahut tez chalana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cut ko lightly mark par rakhkar gentle strokes se shuru karna chahiye taaki blade slip na ho aur accurate cut mile."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Router ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Wood ko kaatne ke liye",
+        "B": "Decorative edges, grooves, aur joinery profiles banane ke liye",
+        "C": "Wood ko sand karne ke liye",
+        "D": "Nails ko drive karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Router ka upyog wood par decorative edges, grooves, dadoes, aur joinery profiles banane ke liye hota hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Ek pencil ka primary use kya hai carpentry mein?",
+      "options": {
+        "A": "Wood ko polish karna",
+        "B": "Measurements ko mark karna",
+        "C": "Holes karna",
+        "D": "Wood ko sand karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pencil ka use measurements ko wood par mark karne ke liye hota hai, jo cutting aur joinery ke liye guide karta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Cutting karte samay saw blade ko jam hone se kaise bachayein?",
+      "options": {
+        "A": "Zyada force lagakar",
+        "B": "Workpiece ko tightly clamp karke aur cut ko support karke",
+        "C": "Dull blade use karke",
+        "D": "Cut ke beech mein rok kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Workpiece ko acchi tarah se clamp karna aur cut ko support karna saw blade ko jam hone se bachata hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Bevel gauge ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Sirf 90 degree angles mark karna",
+        "B": "Kisi bhi angle ko measure aur transfer karna",
+        "C": "Wood ki thickness measure karna",
+        "D": "Circular cuts banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bevel gauge ka upyog kisi bhi specific angle ko measure karne aur use workpiece par transfer karne ke liye hota hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Jab aap ek long board ko kaat rahe hain, toh kya precaution lenge?",
+      "options": {
+        "A": "Board ko bina support ke kaatna",
+        "B": "Board ko support karna taaki woh sag na ho",
+        "C": "Blade guard hata dena",
+        "D": "Cut ke beech mein haath rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Long board ko kaatne se pehle usko acchi tarah se support karna chahiye taaki woh sag na ho aur cut accurate ho."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Coping saw ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Straight cuts ke liye",
+        "B": "Intricate curves aur interior cuts ke liye",
+        "C": "Heavy wood kaatne ke liye",
+        "D": "Metal kaatne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Coping saw ka upyog intricate curves aur interior cuts, jaise ki coping joints banane ke liye hota hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Aapko marking tools ko kaise maintain karna chahiye?",
+      "options": {
+        "A": "Unhe ganda chhod dena",
+        "B": "Unhe sharp aur clean rakhna",
+        "C": "Unhe pani mein rakhna",
+        "D": "Unhe kisi bhi tarah store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Marking tools ko sharp aur clean rakhne se unki accuracy bani rehti hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Ek marking knife ka kya fayda hai over pencil?",
+      "options": {
+        "A": "Yeh zyada colourful hota hai",
+        "B": "Yeh ek fine, precise line banata hai jo cutting ke liye zyada accurate hoti hai",
+        "C": "Yeh wood ko kaat deta hai",
+        "D": "Yeh aasani se erase ho jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Marking knife ek fine, precise line banata hai jo pencil line se zyada accurate hoti hai, especially joinery ke liye."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Butt joint kya hota hai?",
+      "options": {
+        "A": "Do pieces ko end-to-end join karna",
+        "B": "Do pieces ko interlocking fingers se join karna",
+        "C": "Ek piece mein slot aur doosre mein tenon",
+        "D": "Do pieces ko overlap karke join karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Butt joint sabse simple joint hai jismein do pieces ko seedhe end-to-end join kiya jaata hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Dovetail joint ki kya visheshta hai?",
+      "options": {
+        "A": "Yeh bahut kamzor hota hai",
+        "B": "Yeh interlocking 'tail' aur 'pin' shapes se banta hai aur bahut strong hota hai",
+        "C": "Yeh sirf nails se banta hai",
+        "D": "Yeh aasani se alag ho jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dovetail joint uske interlocking 'tail' aur 'pin' shapes ke liye jaana jaata hai, jo use ek bahut strong aur aesthetically pleasing joint banata hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Wood glue (PVA glue) ka upyog kab kiya jaata hai?",
+      "options": {
+        "A": "Nails ko drive karne ke liye",
+        "B": "Wood pieces ko permanently join karne ke liye",
+        "C": "Wood ko polish karne ke liye",
+        "D": "Wood mein holes karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wood glue ka upyog wood pieces ko permanently join karne ke liye kiya jaata hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Mortise and tenon joint kis liye use hota hai?",
+      "options": {
+        "A": "Sirf decorative purposes ke liye",
+        "B": "Strong, sturdy frame construction ke liye, jaise ki furniture aur doors",
+        "C": "Thin sheets ko join karne ke liye",
+        "D": "Temporary joints banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mortise and tenon joint frame construction mein bahut strong aur sturdy joints banane ke liye use hota hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Clamps ka upyog kya hai assembly ke dauran?",
+      "options": {
+        "A": "Wood ko kaatne ke liye",
+        "B": "Glued pieces ko tightly hold karna jab tak glue dry na ho jaaye",
+        "C": "Wood ko sand karna",
+        "D": "Nails ko nikalna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clamps glued pieces ko tightly hold karne ke liye use hote hain, taaki glue acchi tarah se set ho sake."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Dowels ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Wood ko chamkane ke liye",
+        "B": "Butt joints ko strengthen karne aur alignment provide karne ke liye",
+        "C": "Wood ko kaatne ke liye",
+        "D": "Sirf decorative purpose ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dowels butt joints ko strengthen karne aur pieces ko acchi tarah se align karne ke liye use hote hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Pocket hole joinery ka kya fayda hai?",
+      "options": {
+        "A": "Yeh bahut visible hota hai",
+        "B": "Yeh quick, strong aur hidden fastening provide karta hai",
+        "C": "Isme bahut saare tools lagte hain",
+        "D": "Yeh sirf temporary joints ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pocket hole joinery quick, strong aur hidden fastening provide karta hai, jo modern carpentry mein popular hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Screws ka use nails se kaise alag hai?",
+      "options": {
+        "A": "Screws kamzor hote hain",
+        "B": "Screws zyada strong hold provide karte hain aur disassemble karna aasan hota hai",
+        "C": "Screws sirf soft wood mein use hote hain",
+        "D": "Screws kabhi bhi nikal nahi sakte"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Screws nails se zyada strong hold provide karte hain aur unhe nikalna bhi aasan hota hai, jo disassembly ke liye useful hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Lap joint kya hota hai?",
+      "options": {
+        "A": "Do pieces ko edge-to-edge join karna",
+        "B": "Do pieces ko partially overlap karke join karna",
+        "C": "Ek piece mein hole aur doosre mein peg",
+        "D": "Sirf glue se join karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lap joint mein do pieces ko partially overlap karke join kiya jaata hai, jisse ek flat surface banti hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Wood glue ke liye 'open time' ka kya matlab hai?",
+      "options": {
+        "A": "Kitni der mein glue dry ho jaata hai",
+        "B": "Kitni der tak glue ko apply karne ke baad pieces ko adjust kiya ja sakta hai",
+        "C": "Glue ko kitne temperature par rakhna chahiye",
+        "D": "Glue ki shelf life"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Open time woh samay hota hai jab tak glue ko apply karne ke baad pieces ko adjust aur align kiya ja sakta hai usse pehle ki woh set hona shuru ho jaaye."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Joints ko assemble karne se pehle kya check karna chahiye?",
+      "options": {
+        "A": "Sirf wood ka colour",
+        "B": "Joints ki cleanliness aur fit",
+        "C": "Kitna glue bacha hai",
+        "D": "Tools ka brand"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Joints ki cleanliness aur tight fit acchi bonding aur strong assembly ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Biscuit joint (plate joiner) ka use kisliye hota hai?",
+      "options": {
+        "A": "Strong corner joints banane ke liye",
+        "B": "Panels ko edge-to-edge join karne aur alignment ke liye",
+        "C": "Heavy beams ko join karne ke liye",
+        "D": "Metal aur wood ko join karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Biscuit joiner thin, elliptical wood 'biscuits' use karta hai panels ko edge-to-edge join karne aur unhe align karne ke liye."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Nails ka primary use kya hai carpentry mein?",
+      "options": {
+        "A": "Temporary hold ke liye",
+        "B": "Quick aur strong fastening ke liye, jahan disassembly ki zaroorat na ho",
+        "C": "Decorative work ke liye",
+        "D": "Wood ko kaatne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nails quick aur strong fastening provide karte hain, jahan disassembly ki zaroorat nahi hoti."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Jab aap ek large panel ko glue kar rahe hain, toh kya technique use karni chahiye?",
+      "options": {
+        "A": "Sirf edges par glue lagana",
+        "B": "Glue ko evenly spread karna poore surface par",
+        "C": "Bahut kam glue lagana",
+        "D": "Glue ko dry hone se pehle clamps hata dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Glue ko evenly spread karna poore surface par acchi bonding aur strong joint ke liye zaroori hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Finger joint kya hota hai?",
+      "options": {
+        "A": "Simple butt joint",
+        "B": "Interlocking 'fingers' se bana joint, jo lambe pieces banane ke liye use hota hai",
+        "C": "Ek gol joint",
+        "D": "Sirf screws se bana joint"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Finger joint interlocking 'fingers' se banta hai, jo short pieces ko join karke lambe aur strong pieces banane ke liye use hota hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Pilot hole ka kya purpose hai screws drive karte samay?",
+      "options": {
+        "A": "Screw ko loose karna",
+        "B": "Wood ko split hone se bachana aur screw ko aasani se drive karna",
+        "C": "Screw ko zyada tight karna",
+        "D": "Sirf aesthetics ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pilot hole wood ko split hone se bachata hai aur screw ko aasani se aur seedhe drive karne mein help karta hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Assembly ke baad excess glue ko kaise saaf karna chahiye?",
+      "options": {
+        "A": "Dry hone tak wait karna aur phir sand karna",
+        "B": "Jab glue wet ho tabhi damp cloth se saaf karna",
+        "C": "Use aise hi chhod dena",
+        "D": "Sharp tool se scrape karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Excess wet glue ko damp cloth se saaf karna chahiye taaki woh dry hokar finish ko kharab na kare."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Sanding ka primary purpose kya hai wood par?",
+      "options": {
+        "A": "Wood ko colour karna",
+        "B": "Surface ko smooth aur finish ke liye taiyar karna",
+        "C": "Wood ko waterproof banana",
+        "D": "Wood ko kaatna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sanding ka mukhya uddeshya wood surface ko smooth karna aur use finish (paint, varnish) ke liye taiyar karna hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Wood filler ka upyog kisliye hota hai?",
+      "options": {
+        "A": "Wood ko chamkane ke liye",
+        "B": "Small cracks, holes aur imperfections ko fill karne ke liye",
+        "C": "Wood ko glue karne ke liye",
+        "D": "Wood ko kaatne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wood filler ka upyog wood surface par chhote cracks, holes aur imperfections ko bharne ke liye hota hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Varnish ka kya fayda hai wood par?",
+      "options": {
+        "A": "Wood ko soft banana",
+        "B": "Wood ko scratch aur moisture se protect karna aur glossy finish dena",
+        "C": "Wood ko colour karna",
+        "D": "Wood ko split hone se bachana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Varnish wood ko scratch aur moisture se protect karta hai aur use ek glossy ya satin finish deta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Wood staining ka kya purpose hai?",
+      "options": {
+        "A": "Wood ko waterproof banana",
+        "B": "Wood ke natural grain ko enhance karte hue colour dena",
+        "C": "Wood ko rough banana",
+        "D": "Wood ko repair karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wood staining wood ke natural grain ko enhance karte hue use ek naya colour deta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Doors install karte samay sabse pehle kya check karna zaroori hai?",
+      "options": {
+        "A": "Door ka colour",
+        "B": "Door frame ka level aur squareness",
+        "C": "Door knob ka design",
+        "D": "Door ki height"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Door frame ka level aur squareness check karna bahut zaroori hai taaki door sahi se fit ho aur smoothly operate kare."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Sanding karte samay kis direction mein sand karna chahiye?",
+      "options": {
+        "A": "Circular motion mein",
+        "B": "Wood grain ke across",
+        "C": "Wood grain ke parallel",
+        "D": "Kisi bhi direction mein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Wood grain ke parallel sand karne se scratches kam hote hain aur zyada smooth finish milti hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Primer ka upyog paint karne se pehle kyun kiya jaata hai?",
+      "options": {
+        "A": "Wood ko chamkane ke liye",
+        "B": "Paint ki adhesion badhane aur surface ko seal karne ke liye",
+        "C": "Paint ko jaldi dry karne ke liye",
+        "D": "Paint ko patla karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Primer paint ki adhesion ko badhata hai, surface ko seal karta hai aur topcoat ke liye uniform base provide karta hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Caulking ka use windows install karte samay kisliye hota hai?",
+      "options": {
+        "A": "Windows ko decorate karne ke liye",
+        "B": "Gaps ko seal karna aur air/water leakage rokna",
+        "C": "Windows ko tight karne ke liye",
+        "D": "Glass ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Caulking gaps ko seal karta hai, jisse air aur water leakage rukti hai aur energy efficiency badhti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Shellac finish ki kya visheshta hai?",
+      "options": {
+        "A": "Yeh bahut durable aur waterproof hota hai",
+        "B": "Yeh natural finish hai jo jaldi dry hota hai aur repair karna aasan hai",
+        "C": "Yeh sirf outdoor use ke liye hai",
+        "D": "Yeh wood ko bahut dark kar deta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Shellac ek natural finish hai jo jaldi dry hota hai, repair karna aasan hai aur wood ko ek warm glow deta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Cabinet installation mein 'scribing' ka kya matlab hai?",
+      "options": {
+        "A": "Cabinet ko paint karna",
+        "B": "Cabinet ko wall ki uneven surface ke according fit karne ke liye mark aur cut karna",
+        "C": "Cabinet ko polish karna",
+        "D": "Cabinet mein drawers lagana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Scribing ek technique hai jismein cabinet ko wall ki uneven surface ke according mark aur cut kiya jaata hai, taaki ek seamless fit mile."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Polyurethane finish ka kya fayda hai?",
+      "options": {
+        "A": "Yeh wood ko soft banata hai",
+        "B": "Yeh bahut durable aur abrasion-resistant finish provide karta hai",
+        "C": "Yeh aasani se scratch ho jaata hai",
+        "D": "Yeh sirf outdoor use ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Polyurethane ek highly durable aur abrasion-resistant finish hai, jo floors aur high-traffic furniture ke liye accha hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Hardware, jaise ki hinges aur handles, install karte samay kya precaution lenge?",
+      "options": {
+        "A": "Koi bhi screw use karna",
+        "B": "Sahi size ke pilot holes drill karna taaki wood split na ho",
+        "C": "Hardware ko force karke fit karna",
+        "D": "Hardware ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi size ke pilot holes drill karne se wood split hone se bachta hai aur hardware securely fit hota hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Paint brushes ko use ke baad kaise saaf karna chahiye?",
+      "options": {
+        "A": "Unhe aise hi chhod dena",
+        "B": "Water ya paint thinner se acchi tarah saaf karna",
+        "C": "Unhe fek dena",
+        "D": "Unhe dry hone ke liye chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint brushes ko water ya paint thinner se acchi tarah saaf karne se woh next use ke liye ready rehte hain."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Laminate flooring install karte samay 'expansion gap' kyun chhodna zaroori hai?",
+      "options": {
+        "A": "Sirf design ke liye",
+        "B": "Wood ke natural expansion aur contraction ke liye jagah dena",
+        "C": "Floor ko loose karne ke liye",
+        "D": "Dust jama karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Expansion gap wood flooring ko natural temperature aur humidity changes ke karan expand aur contract hone ke liye jagah deta hai, jisse warping se bacha ja sake."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Window sills install karte samay kya ensure karna chahiye?",
+      "options": {
+        "A": "Woh uneven hon",
+        "B": "Woh level hon aur proper drainage ke liye slight slope ho",
+        "C": "Woh loose hon",
+        "D": "Unka colour alag ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Window sills ko level hona chahiye aur slight slope hona chahiye taaki baarish ka pani drain ho sake aur window frame ko damage na kare."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Finishing ke baad wood ko kitni der tak dry hone dena chahiye before handling?",
+      "options": {
+        "A": "Turant handle kar sakte hain",
+        "B": "Manufacturer ke instructions ke according, generally 24-48 hours",
+        "C": "Sirf 1 ghanta",
+        "D": "Kabhi dry nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Finishing products ko manufacturer ke instructions ke according poori tarah dry hone dena chahiye taaki finish durable ho aur damage na ho."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Hand saw ko sharp rakhne ka kya fayda hai?",
+      "options": {
+        "A": "Yeh zyada wood use karta hai",
+        "B": "Yeh safer aur zyada efficient cut deta hai",
+        "C": "Yeh kamzor ho jaata hai",
+        "D": "Yeh noise zyada karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sharp hand saw safer hota hai kyunki usse kam force lagani padti hai, aur zyada efficient aur clean cut deta hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Chisel ko sharp kaise rakha jaata hai?",
+      "options": {
+        "A": "Use bina sharpen kiye use karna",
+        "B": "Whetstone ya sharpening stone ka upyog karke",
+        "C": "Kisi bhi rough surface par ragad kar",
+        "D": "Usko pani mein rakh kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chisel ko whetstone ya sharpening stone ka upyog karke sharp rakha jaata hai taaki woh acchi tarah se cut kar sake."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Wood furniture mein loose joint ko kaise repair kiya ja sakta hai?",
+      "options": {
+        "A": "Use aise hi chhod dena",
+        "B": "Joint ko disassemble karke, purana glue hata kar, naya glue lagakar aur clamp karke",
+        "C": "Sirf paint karke",
+        "D": "Usko tape se chipkana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Loose joint ko disassemble karke, saaf karke, naya glue lagakar aur clamp karke repair kiya jaata hai taaki woh phir se strong ho jaaye."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Wood ke cracks ko fill karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Normal mud",
+        "B": "Wood filler ya epoxy",
+        "C": "Water",
+        "D": "Chalk"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wood filler ya epoxy cracks ko fill karne aur surface ko smooth banane ke liye use hota hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Carpentry drawings mein 'elevation' ka kya matlab hai?",
+      "options": {
+        "A": "Object ka top view",
+        "B": "Object ka front, side ya back view",
+        "C": "Object ka 3D view",
+        "D": "Object ka bottom view"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Elevation drawing object ka front, side ya back view dikhati hai, jisse uski height aur width pata chalti hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Material estimating karte samay kya factors consider karne chahiye?",
+      "options": {
+        "A": "Sirf wood ka colour",
+        "B": "Wood type, dimensions, waste factor aur cost",
+        "C": "Weather conditions",
+        "D": "Worker ki height"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Material estimating mein wood type, dimensions, waste factor aur cost jaise factors ko consider karna zaroori hai taaki accurate budget ban sake."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Screws ko lubricate karne ka kya fayda hai?",
+      "options": {
+        "A": "Unhe loose karna",
+        "B": "Unhe drive karna aasan banana aur wood splitting kam karna",
+        "C": "Unhe rust lagana",
+        "D": "Unhe chamkana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Screws ko wax ya soap se lubricate karne se unhe drive karna aasan ho jaata hai aur wood splitting ka risk kam hota hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Environmental sustainability in woodworking ka kya matlab hai?",
+      "options": {
+        "A": "Sirf costly wood use karna",
+        "B": "Responsibly sourced wood use karna, waste kam karna aur eco-friendly finishes use karna",
+        "C": "Zyada se zyada trees kaatna",
+        "D": "Old tools use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Environmental sustainability ka matlab hai responsibly sourced wood use karna, waste kam karna aur eco-friendly finishes use karna taaki environment ko nuksan na ho."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Woodworm damage ko kaise treat kiya ja sakta hai?",
+      "options": {
+        "A": "Usko aise hi chhod dena",
+        "B": "Chemical treatment ya affected wood ko replace karke",
+        "C": "Usko paint karke",
+        "D": "Usko polish karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Woodworm damage ko chemical treatment ya affected wood ko replace karke treat kiya jaata hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Carpentry drawings mein 'plan view' kya dikhata hai?",
+      "options": {
+        "A": "Object ka side view",
+        "B": "Object ka top-down view",
+        "C": "Object ka front view",
+        "D": "Object ka angle view"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Plan view object ka top-down view dikhata hai, jisse uski layout aur horizontal dimensions pata chalti hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Agar ek wooden door swell ho gaya hai aur jam ho raha hai, toh kya solution hai?",
+      "options": {
+        "A": "Usko force karke band karna",
+        "B": "Extra wood ko plane karke ya sand karke remove karna",
+        "C": "Door ko paint karna",
+        "D": "Hinges ko tight karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Swollen door ko plane ya sand karke extra wood remove kiya jaata hai taaki woh smoothly operate kare."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Wood ki warping ko kaise minimize kiya ja sakta hai?",
+      "options": {
+        "A": "Wood ko wet environment mein store karke",
+        "B": "Proper seasoning, storage aur finish apply karke",
+        "C": "Wood ko direct sunlight mein rakh kar",
+        "D": "Wood ko kaatne se pehle"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Proper seasoning, controlled storage environment aur acchi finish apply karne se wood ki warping ko minimize kiya ja sakta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Power tools ki regular maintenance mein kya shamil hai?",
+      "options": {
+        "A": "Unhe kabhi saaf na karna",
+        "B": "Blades change karna, brushes check karna, lubrication aur cleaning",
+        "C": "Unhe pani mein rakhna",
+        "D": "Unhe roz naya khareedna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Power tools ki regular maintenance mein blades change karna, brushes check karna, lubrication aur cleaning shamil hai taaki woh acchi tarah se kaam karein."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Cost-effective material selection ka kya importance hai?",
+      "options": {
+        "A": "Sirf saste materials use karna",
+        "B": "Project budget ke andar rehna aur quality maintain karna",
+        "C": "Zyada waste produce karna",
+        "D": "Customers ko zyada charge karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cost-effective material selection se project budget ke andar rehte hue bhi acchi quality maintain ki ja sakti hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Agar aapko ek old furniture piece repair karna hai, toh sabse pehle kya karenge?",
+      "options": {
+        "A": "Turant paint karna shuru kar denge",
+        "B": "Damage ko inspect karna aur repair plan banana",
+        "C": "Usko tod denge",
+        "D": "Nayi wood khareed lenge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Repair karne se pehle damage ko acchi tarah se inspect karna aur ek proper repair plan banana zaroori hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Carpentry mein 'waste factor' ka kya matlab hai?",
+      "options": {
+        "A": "Kitna wood save kiya gaya",
+        "B": "Extra material jo cutting, defects ya mistakes ke karan discard ho jaata hai",
+        "C": "Kitna finish use kiya gaya",
+        "D": "Kitna time waste kiya gaya"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Waste factor woh extra material hota hai jo cutting, defects ya mistakes ke karan discard ho jaata hai, aur isse material estimating mein consider karna chahiye."
+    }
+  ]
+}

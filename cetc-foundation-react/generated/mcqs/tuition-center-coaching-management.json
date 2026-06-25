@@ -1,0 +1,1443 @@
+{
+  "course_name": "Tuition Center & Coaching Management",
+  "sector": "Education & Early Childhood",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Tuition & Coaching Business",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Curriculum & Teaching Methodology",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Student Management & Psychology",
+      "question_range": "Q36-Q55"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Marketing & Branding",
+      "question_range": "Q56-Q75"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Operations & Administration",
+      "question_range": "Q76-Q90"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Technology & Future Trends",
+      "question_range": "Q91-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "India mein ek small-scale tuition center shuru karne ke liye sabse common business registration kaun sa hai?",
+      "options": {
+        "A": "Sole Proprietorship",
+        "B": "Private Limited Company",
+        "C": "Public Limited Company",
+        "D": "Limited Liability Partnership (LLP)"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sole Proprietorship sabse simple, sasta aur kam paperwork wala option hai, jo chote tuition centers ke liye ideal hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ek tuition center ke liye location chunte waqt sabse important factor kya hai?",
+      "options": {
+        "A": "Mall ke paas ho",
+        "B": "Residential area mein ho aur safe ho",
+        "C": "Highway ke paas ho",
+        "D": "Bahut sasta rent ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Location students ke liye aasaani se pahunchne wali aur safe honi chahiye, isliye residential area sabse achha maana jaata hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Tuition center ka 'Business Plan' banane ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Sirf bank loan lene ke liye",
+        "B": "Center ke goals, strategy aur financial planning ka roadmap taiyar karna",
+        "C": "Government ko dikhane ke liye",
+        "D": "Competitors ko copy karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Business plan ek complete roadmap hota hai jo aapke vision, mission, marketing strategy, aur financial projections ko detail mein batata hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "GST registration ek tuition center ke liye kab anivarya (mandatory) ho jaata hai?",
+      "options": {
+        "A": "Jab center shuru hota hai",
+        "B": "Jab 100 se zyada students ho jaayein",
+        "C": "Jab annual turnover ek nirdharit seema (prescribed limit) se zyada ho jaaye",
+        "D": "GST kabhi bhi anivarya nahi hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "GST registration tab zaroori hota hai jab aapki annual income government dwara tay ki gayi limit (jaise 20 lakh ya 40 lakh, state par depend karta hai) ko cross kar deti hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek 'Niche' tuition center ka kya matlab hai?",
+      "options": {
+        "A": "Ek bahut bada center",
+        "B": "Ek center jo sabhi subjects padhata hai",
+        "C": "Ek center jo kisi ek specific subject ya exam (jaise NEET, IIT-JEE) par focus karta hai",
+        "D": "Ek center jo free mein padhata hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Niche ka matlab hai ek specific area mein specialize karna. Isse aap us field ke expert ban jaate hain aur sahi students ko attract kar paate hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Tuition center ke liye 'Break-Even Point' ka kya arth hai?",
+      "options": {
+        "A": "Jab center bahut profit kamane lage",
+        "B": "Jab center band hone wala ho",
+        "C": "Wo point jahan total income total kharch ke barabar ho (No Profit, No Loss)",
+        "D": "Pehle saal ka total profit"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Break-Even Point business ka woh stage hai jahan aapke saare kharche (rent, salary, bills) aapki income se cover ho jaate hain. Iske baad hi profit shuru hota hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Center shuru karne ke liye 'Initial Capital' mein kya-kya shamil hota hai?",
+      "options": {
+        "A": "Sirf teachers ki salary",
+        "B": "Sirf rent aur electricity bill",
+        "C": "Rent deposit, furniture, board, marketing aur shuruaati mahino ke kharche",
+        "D": "Sirf marketing ka kharcha"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Initial Capital woh saara paisa hai jo business ko shuru karne aur use stable hone tak chalane ke liye zaroori hota hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Agar aapka tuition center ghar se chal raha hai, to kya aapko commercial electricity connection lena zaroori hai?",
+      "options": {
+        "A": "Haan, hamesha zaroori hai",
+        "B": "Nahi, kabhi zaroori nahi hai",
+        "C": "Yeh local municipal rules aur business ke scale par depend karta hai",
+        "D": "Sirf agar AC laga ho"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Chote scale par ghar se chalane par domestic connection chal sakta hai, lekin bade scale par ya local niyam ke anusaar commercial connection lena pad sakta hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Tuition center ke liye 'SWOT Analysis' karne ka kya fayda hai?",
+      "options": {
+        "A": "Yeh fees decide karne mein madad karta hai",
+        "B": "Yeh center ki Strengths, Weaknesses, Opportunities aur Threats ko pehchanne mein madad karta hai",
+        "C": "Yeh student ka report card banata hai",
+        "D": "Yeh sirf marketing ke liye hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SWOT analysis ek strategic planning tool hai jo aapko apne business ke internal (Strengths, Weaknesses) aur external (Opportunities, Threats) factors ko samajhne mein help karta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Tuition center mein safety ke liye sabse important kya hai?",
+      "options": {
+        "A": "Bright colors ki deewarein",
+        "B": "Free Wi-Fi",
+        "C": "Fire extinguisher aur First-Aid kit",
+        "D": "Comfortable chairs"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Students ki safety sabse pehli prathmikta hai. Isliye aag bujhane ke yantra aur first-aid ki suvidha hona anivarya hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek 'Franchise' model tuition center kholne ka sabse bada fayda kya hai?",
+      "options": {
+        "A": "Aapko sab kuch khud se shuru karna padta hai",
+        "B": "Aapko ek pehle se sthapit (established) brand name aur support system milta hai",
+        "C": "Ismein koi kharcha nahi aata",
+        "D": "Aap apne marzi se niyam badal sakte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Franchise lene se aapko ek bane-banaye brand, marketing materials aur operational guidance milti hai, jisse success ke chances badh jaate hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Competitive analysis karte samay aapko apne competitors ke baare mein kya jaankari leni chahiye?",
+      "options": {
+        "A": "Unki fee structure, teaching style, aur student strength",
+        "B": "Unke owner ka naam",
+        "C": "Unke center ka color",
+        "D": "Unke yahan kitne AC hain"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Competition ko samajhne ke liye unki pricing, teaching methods, strengths, aur weaknesses ko jaanna zaroori hai taaki aap apni strategy behtar bana sakein."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Tuition center ke liye 'Recurring Expenses' (baar-baar hone wale kharche) ka ek udaharan kya hai?",
+      "options": {
+        "A": "Whiteboard khareedna",
+        "B": "Furniture khareedna",
+        "C": "Har mahine ka rent aur electricity bill",
+        "D": "Center ka registration karwana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Recurring expenses woh kharche hote hain jo niyamit roop se hote hain, jaise rent, salary, bills. Inke alawa one-time investment hota hai jaise furniture."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Agar aapka competitor aapse kam fees le raha hai, to aapki sabse achhi strategy kya honi chahiye?",
+      "options": {
+        "A": "Aap bhi fees kam kar dein",
+        "B": "Unse behtar quality education aur extra facilities dekar apni value badhayein",
+        "C": "Apna center band kar dein",
+        "D": "Competitor se jhagda karein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sirf price par compete karne se behtar hai ki aap quality, personal attention, better notes ya test series jaisi cheezein offer karke khud ko alag aur behtar saabit karein."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Shop and Establishment Act ke tehat registration kiske liye zaroori hai?",
+      "options": {
+        "A": "Sirf online tuition ke liye",
+        "B": "Har uss commercial establishment ke liye jo ek physical location se operate karta hai",
+        "C": "Sirf 100 se zyada students wale center ke liye",
+        "D": "Yeh ek optional registration hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh ek state-level law hai jo commercial establishments ke liye working hours, holidays aur employee rights ko regulate karta hai. Lagbhag har physical center ke liye yeh zaroori hai."
+    },
+    {
+      "qno": 16,
+      "module": 2,
+      "question": "Ek achhe 'Lesson Plan' mein kya-kya shamil hona chahiye?",
+      "options": {
+        "A": "Sirf topic ka naam",
+        "B": "Learning objectives, activities, assessment method, aur time allocation",
+        "C": "Sirf homework questions",
+        "D": "Sirf teacher ka naam"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek complete lesson plan mein yeh saaf likha hota hai ki kya padhana hai (objectives), kaise padhana hai (activities), kitne samay mein padhana hai (time), aur students ne kitna seekha (assessment)."
+    },
+    {
+      "qno": 17,
+      "module": 2,
+      "question": "'Formative Assessment' ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Student ko fail ya pass karna",
+        "B": "Teaching-learning process ke dauran student ki progress ko monitor karna aur sudhar karna",
+        "C": "Saal ke ant mein final exam lena",
+        "D": "Parents ko report card dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Formative assessment (jaise class test, quiz) padhai ke dauran kiya jaata hai taaki teacher aur student dono ko pata chale ki kahan sudhar ki zaroorat hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Ek 'Kinesthetic Learner' student ko concepts yaad karwane ka sabse effective tareeka kya hoga?",
+      "options": {
+        "A": "Lamba lecture dekar",
+        "B": "Notes likhwa kar",
+        "C": "Role-play ya hands-on activity karwa kar",
+        "D": "Video dikha kar"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Kinesthetic learners physical activities ya 'kar ke' seekhne se behtar samajhte hain. Isliye unke liye hands-on activities sabse prabhavi hoti hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Bloom's Taxonomy ke anusaar, learning ka sabse uncha (highest) level kaun sa hai?",
+      "options": {
+        "A": "Remembering (Yaad karna)",
+        "B": "Understanding (Samajhna)",
+        "C": "Applying (Laagu karna)",
+        "D": "Creating (Naya banana)"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Bloom's Taxonomy ke revised version mein, 'Creating' (kuch naya rachna ya design karna) ko sabse highest level of thinking maana gaya hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Ek 'Differentiated Instruction' approach ka kya matlab hai?",
+      "options": {
+        "A": "Sabhi students ko ek hi tarah se padhana",
+        "B": "Har student ki zaroorat aur learning style ke anusaar teaching method ko adjust karna",
+        "C": "Sirf hoshiyar bachhon par dhyan dena",
+        "D": "Kamzor bachhon ko alag baithana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Differentiated instruction ka matlab hai yeh samajhna ki har bachha alag hai aur unki learning needs ke hisaab se apne padhane ke tareeke, content aur assessment ko badalna."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Ek naye topic ko shuru karne se pehle 'Icebreaker Activity' karwane ka kya fayda hai?",
+      "options": {
+        "A": "Time waste karna",
+        "B": "Students ka dhyan topic se hatana",
+        "C": "Students ko comfortable karna aur unka dhyan class mein kendrit karna",
+        "D": "Syllabus jaldi khatam karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Icebreaker activities ek positive aur engaging learning environment banati hain, jisse students aage ke lesson ke liye taiyar ho jaate hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Ek achhe study material (notes) ki kya visheshta honi chahiye?",
+      "options": {
+        "A": "Bahut zyada lamba aur detailed ho",
+        "B": "Sirf pictures ho",
+        "C": "Aasan bhasha mein, well-structured, aur important points highlighted ho",
+        "D": "Handwriting sundar na ho"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Study material aisa hona chahiye jo aasaani se samajh mein aaye, points mein ho, aur revision ke liye upyogi ho."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "'Summative Assessment' ka ek udaharan kya hai?",
+      "options": {
+        "A": "Class mein achanak liya gaya quiz",
+        "B": "Chapter ke beech mein puche gaye sawal",
+        "C": "Final term exam",
+        "D": "Homework check karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Summative assessment teaching period ke ant mein hota hai (jaise final exam) aur iska uddeshya yeh dekhna hota hai ki student ne kul milakar kitna seekha hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Agar aapko competitive exams (like JEE/NEET) ke liye padhana hai, to aapki teaching methodology mein kya khaas hona chahiye?",
+      "options": {
+        "A": "Sirf theory par focus",
+        "B": "Concept clarity, problem-solving practice, aur time management skills par zor",
+        "C": "Students ko notes ratwana",
+        "D": "Roz-roz test lena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Competitive exams mein speed aur accuracy dono zaroori hain. Isliye concepts clear karne ke saath-saath bahut saare questions practice karwana aur time manage karna sikhana important hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Teaching mein 'Scaffolding' technique ka kya matlab hai?",
+      "options": {
+        "A": "Sidhe answer bata dena",
+        "B": "Student ko step-by-step guidance dena aur dheere dheere support kam karna",
+        "C": "Sirf formula de dena",
+        "D": "Student ko khud karne ke liye chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Scaffolding ka matlab hai shuru mein student ko poora support dena aur jaise-jaise woh seekhta jaaye, support ko dheere-dheere hatate jaana taaki woh independent ban sake."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Curriculum design karte samay, sabse pehla step kya hona chahiye?",
+      "options": {
+        "A": "Test paper banana",
+        "B": "Fees decide karna",
+        "C": "Learning objectives aur goals ko define karna",
+        "D": "Books khareedna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sabse pehle yeh tay karna zaroori hai ki is course ke ant tak students ko kya-kya aa jaana chahiye. Inhi learning objectives ke aadhar par baaki ka curriculum banta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Class mein group discussion karwane ka mukhya laabh kya hai?",
+      "options": {
+        "A": "Teacher ko aaram milta hai",
+        "B": "Class mein shor hota hai",
+        "C": "Students mein communication, teamwork aur critical thinking skills develop hoti hain",
+        "D": "Syllabus jaldi poora hota hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Group discussions students ko alag-alag viewpoints samajhne, apni baat rakhne aur milkar samasya suljhane ka mauka dete hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Mock tests conduct karne ka sabse bada fayda kya hai?",
+      "options": {
+        "A": "Students ko darana",
+        "B": "Real exam ka environment, time pressure aur question pattern se familiar karwana",
+        "C": "Paper waste karna",
+        "D": "Parents ko busy rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mock tests students ko asli exam ke liye taiyar karte hain, unki speed badhate hain aur exam ke stress ko handle karna sikhate hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Ek teacher ke liye 'Subject Matter Expertise' kyu zaroori hai?",
+      "options": {
+        "A": "Yeh zaroori nahi hai",
+        "B": "Students ke complex doubts ko clear karne aur unmein confidence build karne ke liye",
+        "C": "Sirf salary badhane ke liye",
+        "D": "Center ki marketing ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab teacher ko apne subject ki gehri jaankari hoti hai, tabhi woh students ke har sawal ka jawab de sakta hai aur unhe concept ko aasaani se samjha sakta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Agar ek student koi topic baar-baar pooch raha hai, to teacher ko kya karna chahiye?",
+      "options": {
+        "A": "Use daant dena chahiye",
+        "B": "Use ignore karna chahiye",
+        "C": "Samjhane ka tareeka badal kar, alag example se samjhane ki koshish karni chahiye",
+        "D": "Use class se bahar nikal dena chahiye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Har student ka samajhne ka tareeka alag hota hai. Agar ek method kaam nahi kar raha, to teacher ko doosra, shayad zyada practical ya visual, tareeka apnana chahiye."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Visual learners ke liye sabse achha teaching tool kya hai?",
+      "options": {
+        "A": "Podcast sunana",
+        "B": "Lecture dena",
+        "C": "Diagrams, charts, aur videos ka istemal karna",
+        "D": "Notes dictate karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Visual learners dekh kar sabse achha seekhte hain. Isliye unke liye colorful diagrams, flowcharts, aur educational videos bahut prabhavi hote hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Homework dene ka mukhya uddeshya kya hona chahiye?",
+      "options": {
+        "A": "Students ko raat bhar busy rakhna",
+        "B": "Class mein padhaye gaye concepts ko reinforce (pakka) karna aur practice karwana",
+        "C": "Parents ko dikhana ki padhai ho rahi hai",
+        "D": "Notebook bharna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Homework ka asli maksad class learning ko extend karna hai, jisse students concepts ko khud se practice karke aur mazboot kar sakein."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Remedial classes kin students ke liye hoti hain?",
+      "options": {
+        "A": "Sirf top rankers ke liye",
+        "B": "Un students ke liye jinhe kuch topics samajhne mein extra help ki zaroorat hai",
+        "C": "Sabhi students ke liye anivarya",
+        "D": "Jo students class mein nahi aaye the"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Remedial classes un students ko extra support dene ke liye design ki jaati hain jo baaki class ke saath kadam milakar nahi chal paa rahe hain, taaki unke learning gaps ko bhara ja sake."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Project-Based Learning (PBL) mein students kya karte hain?",
+      "options": {
+        "A": "Sirf exam ke liye ratta maarte hain",
+        "B": "Ek real-world problem ko solve karne ke liye lamba-samay tak kaam karte hain",
+        "C": "Teacher ka lecture sunte hain",
+        "D": "Roz quiz dete hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "PBL mein students ko ek challenging problem ya question diya jaata hai jise solve karne ke liye woh research, teamwork aur critical thinking ka istemal karte hain. Yeh learning ko practical banata hai."
+    },
+    {
+      "qno": 35,
+      "module": 2,
+      "question": "Ek achhe question paper mein kis tarah ke questions ka mix hona chahiye?",
+      "options": {
+        "A": "Sirf bahut aasan sawal",
+        "B": "Sirf bahut mushkil sawal",
+        "C": "Easy, medium, aur hard questions ka balanced mix",
+        "D": "Sirf multiple-choice questions"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ek balanced question paper sabhi level ke students ki knowledge ko aasaani se test kar sakta hai. Isse sirf ratne wale aur concept samajhne wale students ke beech antar pata chalta hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Ek student jo class mein bahut shaant rehta hai aur sawal nahi poochta, uske saath aap kaise deal karenge?",
+      "options": {
+        "A": "Use ignore karenge kyunki woh pareshan nahi kar raha",
+        "B": "Sabke saamne use daantenge",
+        "C": "Class ke baad usse akele mein baat karke uski jhijhak ka kaaran janne ki koshish karenge",
+        "D": "Uske parents se complain karenge"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Aise students ko personal attention aur encouragement ki zaroorat hoti hai. Unse akele mein baat karne se woh comfortable feel kar sakte hain aur apni problem share kar sakte hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Students ko motivate karne ke liye 'Intrinsic Motivation' kya hai?",
+      "options": {
+        "A": "Toffee ya prize ka laalach dena",
+        "B": "Student ke andar se aane wali padhne ki ichha aur curiosity",
+        "C": "Fail hone ka dar dikhana",
+        "D": "Parents ke pressure se padhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Intrinsic motivation andar se aati hai, jab student kisi subject ko isliye padhta hai kyunki use usmein maza aata hai ya woh uske baare mein aur jaanna chahta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Parent-Teacher Meeting (PTM) ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Sirf fees ke baare mein baat karna",
+        "B": "Student ki progress, strengths aur weaknesses par charcha karna aur milkar sudhar ke tareeke nikalna",
+        "C": "Sirf student ki shikayat karna",
+        "D": "Teacher ka power dikhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PTM ek partnership hai jahan teacher aur parents milkar student ke behtar bhavishya ke liye kaam karte hain. Ismein dono taraf se feedback ka aadan-pradan hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Classroom discipline maintain karne ka sabse achha tareeka kya hai?",
+      "options": {
+        "A": "Hamesha gusse mein rehna",
+        "B": "Clear rules banana, unhe students ko samjhana aur consistently follow karna",
+        "C": "Bachhon ko physical punishment dena",
+        "D": "Koi rule na banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jab rules clear hote hain aur sabhi ke liye barabar laagu hote hain, to students ko pata hota hai ki unse kya expect kiya jaa raha hai. Isse discipline apne aap maintain hota hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Agar ek student lagatar homework nahi kar raha hai, to pehla kadam kya hona chahiye?",
+      "options": {
+        "A": "Use class se nikal dena",
+        "B": "Usse baat karke wajah janne ki koshish karna (shayad use topic samajh nahi aaya ya koi aur samasya hai)",
+        "C": "Uske marks kaat lena",
+        "D": "Uske saare dosto ko bata dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Har behaviour ke peeche ek kaaran hota hai. Saza dene se pehle samasya ki jad tak pahunchna zaroori hai. Shayad student ko extra help ki zaroorat ho."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "'Active Listening' ka kya matlab hai jab aap ek student ya parent se baat kar rahe hain?",
+      "options": {
+        "A": "Sirf sunne ka natak karna",
+        "B": "Beech-beech mein unhe tokna",
+        "C": "Unki baat ko poora dhyan se sunna, samjhna aur aage sawal pooch kar clear karna",
+        "D": "Apna mobile phone use karte rehna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Active listening ka matlab hai sirf shabdon ko nahi, balki unke peeche ki bhavnaon ko bhi samajhna. Isse samne wale ko lagta hai ki aap uski baat ko ahmiyat de rahe hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Ek student mein exam-related stress aur anxiety ko kam karne ke liye aap kya salah denge?",
+      "options": {
+        "A": "Last moment tak padhte raho",
+        "B": "Proper study schedule banayein, regular revision karein, aur aaram ke liye bhi samay nikalein",
+        "C": "Exam ke baare mein socho hi mat",
+        "D": "Doosre students se zyada padho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Taiyari aur planning se confidence badhta hai aur stress kam hota hai. Achi neend aur chote breaks bhi mental health ke liye zaroori hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Student ka 'Portfolio' maintain karne ka kya fayda hai?",
+      "options": {
+        "A": "Yeh ek bekar ka kaam hai",
+        "B": "Isse student ki over-time progress (jaise best test papers, projects) ko track kiya ja sakta hai",
+        "C": "Isse fees collect karne mein aasani hoti hai",
+        "D": "Yeh sirf art students ke liye hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Portfolio ek collection hota hai student ke best work ka, jo sirf marks nahi balki uski growth, creativity aur efforts ko bhi darshata hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Agar do students ke beech class mein jhagda ho jaaye, to teacher ki turant pratikriya kya honi chahiye?",
+      "options": {
+        "A": "Dono ko class se bahar nikal dena",
+        "B": "Kisi ek ka side lena",
+        "C": "Dono ko shaant karake alag karna aur class ke baad mamle ko samajhna",
+        "D": "Jhagde ko ignore karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pehli prathmikta class ka mahaul shaant karna hai. Uske baad, dono पक्षों ki baat sunkar mamle ko suljhana zaroori hai, na ki turant saza dena."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Positive reinforcement (jaise 'Very Good' kehna ya taarif karna) ka student par kya asar padta hai?",
+      "options": {
+        "A": "Student bigad jaata hai",
+        "B": "Koi asar nahi padta",
+        "C": "Student ka confidence aur motivation badhta hai, aur woh achha kaam dohrata hai",
+        "D": "Student padhna chhod deta hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Taarif aur protsahan se students ko lagta hai ki unke efforts ko value di jaa rahi hai, jisse unka aatmavishwas badhta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Ek student ko 'Growth Mindset' develop karne mein kaise madad kar sakte hain?",
+      "options": {
+        "A": "Use yeh kehkar ki 'tum smart ho ya nahi ho'",
+        "B": "Use yeh samjha kar ki mehnat aur sahi strategy se intelligence ko badhaya ja sakta hai",
+        "C": "Use sirf aasan sawal dekar",
+        "D": "Uski har galti par daant kar"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Growth mindset ka matlab hai yeh vishwas karna ki kabiliyat mehnat se badalti hai. Iske liye 'tumne bahut mehnat ki' jaisi taarif karna, 'tum bahut smart ho' se behtar hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Student admission ke samay counselling session ka kya uddeshya hota hai?",
+      "options": {
+        "A": "Sirf fees jama karwana",
+        "B": "Student ki zarooraton, goals aur learning level ko samajhna taaki use sahi batch aur guidance di ja sake",
+        "C": "Student ka interview lena",
+        "D": "Parent ko impress karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Counselling se aap student aur uske parents ki expectations ko samajh paate hain aur unhe bata paate hain ki aapka center unki kaise madad kar sakta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Student ka feedback lena kyu zaroori hai?",
+      "options": {
+        "A": "Yeh zaroori nahi hai, teacher ko sab pata hota hai",
+        "B": "Apne teaching methods ko behtar banane aur students ki samasyaon ko samajhne ke liye",
+        "C": "Sirf ek formality poori karne ke liye",
+        "D": "Students ko khush rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Students se feedback lene par aapko pata chalta hai ki aapke padhane ka tareeka kitna prabhavi hai aur kahan sudhar ki gunjaish hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Agar koi parent aapse teacher ki shikayat karta hai, to aapka kya reaction hona chahiye?",
+      "options": {
+        "A": "Parent ko daant dena",
+        "B": "Turant teacher ko nikal dena",
+        "C": "Parent ki baat shaanti se sunna, unhe aashvasan dena aur mamle ki jaanch karna",
+        "D": "Shikayat ko ansuna kar dena"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek professional approach yeh hai ki aap pehle poori baat sunein, fir teacher se unka paksh jaanein aur tab kisi nateeje par pahunchein. Communication is key."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Teenage students ke saath deal karte waqt kya dhyan mein rakhna chahiye?",
+      "options": {
+        "A": "Unhe bachhon ki tarah treat karna",
+        "B": "Unki har baat maan lena",
+        "C": "Unki azaadi aur opinions ki respect karna, lekin clear boundaries bhi set karna",
+        "D": "Unse baat hi nahi karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Teenagers apni identity bana rahe hote hain. Unhe respect aur thodi azaadi chahiye, lekin saath hi unhe sahi guidance aur discipline ki bhi zaroorat hoti hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Student-teacher ratio ka teaching quality par kya prabhav padta hai?",
+      "options": {
+        "A": "Koi prabhav nahi padta",
+        "B": "Jitne zyada student, utni achhi quality",
+        "C": "Kam students hone par teacher har ek par personal dhyan de pata hai, jisse quality behtar hoti hai",
+        "D": "Ratio sirf fees ke liye important hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Choti batch size mein teacher har student ki progress ko aasaani se track kar sakta hai aur unki zaroorat ke hisab se madad kar sakta hai."
+    },
+    {
+      "qno": 52,
+      "module": 3,
+      "question": "Ek student ke academic performance ke alawa aur kin cheezon par dhyan dena zaroori hai?",
+      "options": {
+        "A": "Kisi cheez par nahi",
+        "B": "Uske soft skills, confidence, aur overall personality development par",
+        "C": "Uske kapdon par",
+        "D": "Uske doston par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek achha tuition center sirf marks par nahi, balki student ke sampoorn vikas (holistic development) par dhyan deta hai, jisme communication aur confidence shamil hai."
+    },
+    {
+      "qno": 53,
+      "module": 3,
+      "question": "Bullying (dhamkana ya chidhana) ko rokne ke liye center mein kya karna chahiye?",
+      "options": {
+        "A": "Ise bachhon ka mamla samajh kar ignore karna",
+        "B": "Ek strict 'Zero-Tolerance Policy' banana aur students ko iske baare mein batana",
+        "C": "Jo bully kar raha hai use support karna",
+        "D": "Jise bully kiya jaa raha hai use hi daantna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bullying ek gambhir samasya hai. Iske khilaaf saaf niyam hone chahiye aur har complaint par turant action liya jaana chahiye taaki sabhi students safe feel karein."
+    },
+    {
+      "qno": 54,
+      "module": 3,
+      "question": "Jab aap ek student ko 'constructive feedback' de rahe hain, to iska kya matlab hai?",
+      "options": {
+        "A": "Sirf uski galtiyan batana",
+        "B": "Uski taarif karna aur saath mein yeh bhi batana ki woh kahan aur kaise sudhar kar sakta hai",
+        "C": "Uski beizzati karna",
+        "D": "Koi feedback na dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Constructive feedback ka uddeshya student ko demotivate karna nahi, balki use uski kamiyon ke baare mein is tarah batana hai ki woh unhe sudharne ke liye prerit ho."
+    },
+    {
+      "qno": 55,
+      "module": 3,
+      "question": "Naye student ko class mein welcome aur comfortable feel karwane ke liye aap kya kar sakte hain?",
+      "options": {
+        "A": "Use aate hi test de dena",
+        "B": "Use ignore karna",
+        "C": "Uska introduction baaki class se karwana aur ek 'buddy' system shuru karna",
+        "D": "Use sabse peeche baithana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Naye student ko shuru mein ajeeb lag sakta hai. Uska parichay karwane aur kisi purane student ko uski madad ke liye kehne se woh jaldi adjust ho jaata hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Ek naye tuition center ke liye sabse sasta (cost-effective) marketing method kaun sa hai?",
+      "options": {
+        "A": "Newspaper mein bada advertisement dena",
+        "B": "TV par ad dena",
+        "C": "Word-of-mouth (achha padhane se students aur parents ka prachar karna) aur local pamphlets",
+        "D": "Sheher mein bade hoardings lagwana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Shuruaat mein, sabse achhi marketing aapki teaching quality hoti hai. Jab parents aur students khush hote hain, to woh khud hi doosron ko batate hain. Pamphlets bhi local level par sasta option hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Apne tuition center ke liye 'Target Audience' define karne ka kya fayda hai?",
+      "options": {
+        "A": "Fees badhane mein aasani hoti hai",
+        "B": "Marketing efforts sahi logo tak pahunchte hain aur paisa barbaad nahi hota",
+        "C": "Competition khatam ho jaata hai",
+        "D": "Government se funding milti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Target audience (jaise 10th class ke students ya sirf commerce ke students) pata hone se aap apne marketing message aur channels ko unke anusaar design kar sakte hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Digital marketing mein 'SEO' ka kya matlab hai?",
+      "options": {
+        "A": "Social Engagement Optimization",
+        "B": "Search Engine Optimization",
+        "C": "Student Enrollment Office",
+        "D": "Senior Education Officer"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SEO ek technique hai jisse aapki website ya Google My Business listing, search results (jaise 'best maths tuition near me') mein upar dikhti hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Ek tuition center ki 'Brand Image' kya darshati hai?",
+      "options": {
+        "A": "Center ka address",
+        "B": "Center ka logo aur naam",
+        "C": "Logo, naam, teaching quality, student success aur logo ke mann mein center ki overall reputation",
+        "D": "Sirf fees structure"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Brand image sirf logo nahi hai, balki woh poori chhavi hai jo aapke center se judi hai. Ismein aapki quality, values aur reputation sab shamil hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Social media (jaise Facebook, Instagram) ka istemal tuition center ki marketing ke liye kaise kiya ja sakta hai?",
+      "options": {
+        "A": "Sirf personal photos post karke",
+        "B": "Success stories, student testimonials, free demo class ki jaankari aur educational content post karke",
+        "C": "Doosre centers ki burai karke",
+        "D": "Social media marketing ke liye bekar hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Social media par aap apne results (success stories), value (educational content) aur offers (demo class) dikha kar potential students aur parents ko attract kar sakte hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Ek 'USP' (Unique Selling Proposition) ka kya matlab hai?",
+      "options": {
+        "A": "Aapki fees kitni hai",
+        "B": "Aapki woh khaasiyat jo aapko competitors se alag aur behtar banati hai",
+        "C": "Aapke center ka address",
+        "D": "Aapke student ki sankhya"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "USP woh kaaran hai ki koi student doosre centers ko chhodkar aapke paas kyu aaye. Jaise, 'small batch size', 'doubt clearing session' ya 'best results guarantee'."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Admission ke liye 'Early Bird Discount' offer karne ka kya fayda hai?",
+      "options": {
+        "A": "Center ko nuksaan hota hai",
+        "B": "Yeh parents ko jaldi decision lene aur admission karwane ke liye protsahit karta hai",
+        "C": "Yeh quality kharab karta hai",
+        "D": "Yeh ek bekar strategy hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Early bird discount se aapko shuruaat mein hi kuch admissions mil jaate hain, jisse financial stability aati hai aur batch size ka anumaan lag jaata hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "'Google My Business' par apne tuition center ko list karne ka sabse bada fayda kya hai?",
+      "options": {
+        "A": "Google aapse paise leta hai",
+        "B": "Jab koi aas-paas (local area) mein tuition search karta hai, to aapka center map par dikhta hai",
+        "C": "Isse koi fayda nahi hota",
+        "D": "Yeh sirf badi companies ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Yeh ek free tool hai jo local search mein aapki visibility badhata hai. Log aapka address, phone number aur reviews aasaani se dekh sakte hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Ek achhe 'Brochure' ya 'Pamphlet' mein kya jaankari honi chahiye?",
+      "options": {
+        "A": "Sirf center ka naam",
+        "B": "Courses, features (USP), faculty, contact details, aur ek clear Call-to-Action",
+        "C": "Bahut saare photos",
+        "D": "Sirf discount offers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Brochure mein saari zaroori jaankari saaf-saaf honi chahiye aur ant mein yeh bhi batana chahiye ki reader ko aage kya karna hai (jaise 'Call for a free demo class')."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Marketing mein 'Lead' kise kehte hain?",
+      "options": {
+        "A": "Jo student pehle se padh raha hai",
+        "B": "Ek potential student jisne aapke center mein interest dikhaya hai (jaise phone karke ya form bhar ke)",
+        "C": "Jo teacher padha raha hai",
+        "D": "Aapka competitor"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lead woh vyakti hai jo aapka customer ban sakta hai. Marketing ka kaam inhi leads ko generate karna aur unhe admission mein convert karna hota hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Student 'Testimonials' (reviews) ka marketing mein kya upyog hai?",
+      "options": {
+        "A": "Inka koi upyog nahi hai",
+        "B": "Yeh naye parents ka bharosa jeetne mein madad karte hain (Social Proof)",
+        "C": "Yeh sirf website par achhe lagte hain",
+        "D": "Yeh likhna mushkil hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jab naye parents purane, khush students ya unke parents ke positive reviews dekhte hain, to unka aapke center par vishwas badh jaata hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Free 'Demo Class' ya 'Workshop' conduct karne ka kya uddeshya hai?",
+      "options": {
+        "A": "Time pass karna",
+        "B": "Potential students ko teaching style ka anubhav karana aur unhe admission ke liye convince karna",
+        "C": "Sirf fees lene ke liye",
+        "D": "Competitors ko copy karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Demo class ek 'try before you buy' offer jaisa hai. Isse students aur parents ko aapki quality ka anubhav milta hai, jisse unka decision lena aasan ho jaata hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Apne purane students (alumni) ke network ka istemal kaise kiya ja sakta hai?",
+      "options": {
+        "A": "Unse paise maang kar",
+        "B": "Unhe bhool jaakar",
+        "C": "Unki success stories share karke aur unse referrals maang kar",
+        "D": "Unka network bekar hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Aapke safal purane students aapke sabse bade brand ambassador hain. Unki kahaniyan naye students ko prerit karti hain aur unke through naye admissions bhi mil sakte hain."
+    },
+    {
+      "qno": 69,
+      "module": 4,
+      "question": "Local schools ya colleges ke saath tie-up karne ka kya fayda ho sakta hai?",
+      "options": {
+        "A": "School aapse paise lega",
+        "B": "Aapko seedhe wahan ke students tak pahunchne ka mauka mil sakta hai",
+        "C": "Yeh ek galat tareeka hai",
+        "D": "Isse koi fayda nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Schools mein career counseling seminar ya workshop karke aap seedhe apne target audience se jud sakte hain aur apne center ki credibility badha sakte hain."
+    },
+    {
+      "qno": 70,
+      "module": 4,
+      "question": "Marketing budget banate samay kin baaton ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Jitna mann kare utna kharch karna",
+        "B": "Apne financial goals aur kis channel se kitna result (ROI) mil raha hai, iska hisab rakhna",
+        "C": "Sirf sabse mehenge channel par kharch karna",
+        "D": "Bilkul kharch na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Marketing mein kharch kiye gaye har rupaye ka hisab hona chahiye. Aapko track karna hoga ki pamphlet se zyada fayda ho raha hai ya online ad se, aur usi hisab se budget adjust karna hoga."
+    },
+    {
+      "qno": 71,
+      "module": 4,
+      "question": "Ek achha 'Call-to-Action' (CTA) ka udaharan kya hai?",
+      "options": {
+        "A": "Hamara tuition center achha hai.",
+        "B": "Padhai zaroori hai.",
+        "C": "Register Now for a Free Demo Class! Call 98XXXXXX.",
+        "D": "Soch lo."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "CTA audience ko saaf-saaf batata hai ki unhe agla kadam kya uthana hai. Yeh action-oriented aur clear hona chahiye."
+    },
+    {
+      "qno": 72,
+      "module": 4,
+      "question": "Content marketing ka tuition center ke liye kya matlab hai?",
+      "options": {
+        "A": "Sirf ad banana",
+        "B": "Useful content (jaise blog posts, videos, free notes) banakar students ki madad karna aur unka trust jeetna",
+        "C": "Doosron ka content copy karna",
+        "D": "Yeh coaching ke liye nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Content marketing se aap 'selling' ki jagah 'helping' karte hain. Jab aap free mein valuable content dete hain, to log aapko ek expert maante hain aur aapse judna chahte hain."
+    },
+    {
+      "qno": 73,
+      "module": 4,
+      "question": "Tuition center ki branding mein 'logo' ka kya mahatva hai?",
+      "options": {
+        "A": "Yeh sirf ek design hai",
+        "B": "Yeh aapke center ki visual pehchan hai jo use professional look deta hai",
+        "C": "Logo zaroori nahi hai",
+        "D": "Logo jitna ajeeb ho utna achha"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Logo aapke brand ki pehli pehchan hai. Ek achha logo aasani se yaad reh jaata hai aur aapke center ko ek professional identity deta hai."
+    },
+    {
+      "qno": 74,
+      "module": 4,
+      "question": "Online student reviews (jaise Google par) ko kaise handle karna chahiye, khaas kar negative reviews ko?",
+      "options": {
+        "A": "Negative reviews ko delete kar dena chahiye",
+        "B": "Reviewer se jhagda karna chahiye",
+        "C": "Har review ka professionally jawab dena chahiye, negative review par maafi maangni chahiye aur solution offer karna chahiye",
+        "D": "Sabhi reviews ko ignore karna chahiye"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Negative reviews ko handle karne ka tareeka aapki brand image banata ya bigadta hai. Publicly maafi maangne aur samasya ko suljhane ki peshkash karne se doosre logo par achha prabhav padta hai."
+    },
+    {
+      "qno": 75,
+      "module": 4,
+      "question": "Referral program (jaise 'Refer a friend and get a discount') chalane ka kya laabh hai?",
+      "options": {
+        "A": "Isse center ka paisa barbaad hota hai",
+        "B": "Yeh aapke maujooda students ko naye students laane ke liye protsahit karta hai",
+        "C": "Yeh aapas mein ladai karwata hai",
+        "D": "Yeh ek purana tareeka hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Referral marketing word-of-mouth ko formalize karne ka ek tareeka hai. Yeh cost-effective hai kyunki aap tabhi discount dete hain jab aapko ek naya admission milta hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Tuition center mein 'Fee Collection' ka sabse transparent tareeka kaun sa hai?",
+      "options": {
+        "A": "Sirf cash lena aur koi record na rakhna",
+        "B": "Digital payment (UPI, Bank Transfer) lena aur har payment ki proper receipt dena",
+        "C": "Parent se kehna baad mein de denge",
+        "D": "Student se fees lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Digital payment aur receipt se financial transparency bani rehti hai, hisab rakhna aasan hota hai aur disputes ke chances kam ho jaate hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Ek achha 'Timetable' banate samay kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Teacher ki suvidha ke anusaar",
+        "B": "Student ke school/college timings, subjects ka difficulty level aur teachers ki availability, sabka dhyan rakhna chahiye",
+        "C": "Roz timetable badal dena chahiye",
+        "D": "Sirf mushkil subject lagatar padhana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek prabhavi timetable sabhi stakeholders (students, teachers) ki suvidha aur learning needs ko balance karta hai. Mushkil aur aasan subjects ka mix hona chahiye."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Student ki attendance track karna kyu zaroori hai?",
+      "options": {
+        "A": "Yeh zaroori nahi hai",
+        "B": "Discipline maintain karne, student ki progress monitor karne aur parents ko inform karne ke liye",
+        "C": "Sirf fees lene ke liye",
+        "D": "Government ko report dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Attendance record se pata chalta hai ki kaun sa student irregular hai. Agar koi student peeche reh raha hai, to uski kam attendance ek wajah ho sakti hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Center ke liye teacher hire karte samay, subject knowledge ke alawa aur kya dekhna chahiye?",
+      "options": {
+        "A": "Teacher kitna ameer hai",
+        "B": "Communication skills, passion for teaching, aur students ke saath connect karne ki ability",
+        "C": "Teacher ki degree kahan se hai",
+        "D": "Teacher ki age kitni hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek achha teacher sirf gyani nahi hota, balki use apne gyan ko aasan tareeke se students tak pahunchana bhi aana chahiye. Uska passion hi students ko motivate karta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Tuition center ke liye 'Petty Cash' ka kya upyog hai?",
+      "options": {
+        "A": "Owner ke personal kharchon ke liye",
+        "B": "Chote-mote rozmarra ke kharchon (jaise stationery, refreshments) ke liye rakha gaya chota amount",
+        "C": "Badi-badi cheezein khareedne ke liye",
+        "D": "Petty cash nahi rakhna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Petty cash se roz ke chote kharchon ko manage karna aasan ho jaata hai, jiske liye baar-baar bank se paise nikalne ki zaroorat nahi padti."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Ek 'Student Information System' (SIS) software ka kya kaam hai?",
+      "options": {
+        "A": "Sirf games khelne ke liye",
+        "B": "Student ki details, fees, attendance, aur academic records ko digitally manage karna",
+        "C": "Question paper banana",
+        "D": "Marketing karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SIS ya management software administrative kaamo ko automate kar deta hai, jisse galti ke chances kam hote hain aur samay bachta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar koi parent fees late deta hai, to us situation ko professionally kaise handle karein?",
+      "options": {
+        "A": "Student ko class mein beizzat karein",
+        "B": "Politely reminder bhejein aur zaroorat padne par parent se akele mein baat karke unki samasya samjhein",
+        "C": "Student ko padhana band kar dein",
+        "D": "Koi action na lein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hamesha ek professional aur empathetic approach rakhein. Automated reminders bhejna pehla step hai. Agar fir bhi fees nahi aati, to personal communication zaroori hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Center ki saaf-safai (Hygiene) aur maintenance kyu zaroori hai?",
+      "options": {
+        "A": "Yeh bilkul zaroori nahi hai",
+        "B": "Ek saaf aur swasth learning environment provide karne aur ek professional image banane ke liye",
+        "C": "Sirf jab koi naya admission aaye tab",
+        "D": "Isse kharcha badhta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek saaf-suthra center students aur parents par achha prabhav daalta hai aur beemariyon ko bhi door rakhta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Ek 'Enquiry Form' mein kaun si jaankari lena sabse zaroori hai?",
+      "options": {
+        "A": "Parent ki salary",
+        "B": "Student ka naam, class, school, aur parent ka contact number/email",
+        "C": "Ghar mein kitne log hain",
+        "D": "Favourite color"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Enquiry form ka maksad lead ki basic details lena hai taaki aap unse follow-up kar sakein aur unki zarooraton ko samajh sakein."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Tuition center ke liye 'Public Liability Insurance' lena kyu faydemand ho sakta hai?",
+      "options": {
+        "A": "Yeh paise ki barbaadi hai",
+        "B": "Agar center premises mein kisi student ya visitor ko chot lag jaaye, to uske medical kharchon aur legal claims se bachne ke liye",
+        "C": "Isse student ke marks badh jaate hain",
+        "D": "Yeh sirf badi companies ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yeh insurance aapko kisi bhi anhooni (accident) ki sthiti mein hone wale bade financial nuksaan se bachata hai."
+    },
+    {
+      "qno": 86,
+      "module": 5,
+      "question": "Teachers ki training aur professional development par kharch karna kya hai?",
+      "options": {
+        "A": "Ek fizool kharch",
+        "B": "Ek investment jo teaching quality ko badhata hai aur center ki reputation ko behtar karta hai",
+        "C": "Sirf government rule hai",
+        "D": "Teacher ko khush karne ka tareeka"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab teachers naye methods seekhte hain aur apne subject mein update rehte hain, to iska seedha fayda students ko milta hai, jisse aapke center ka result sudharta hai."
+    },
+    {
+      "qno": 87,
+      "module": 5,
+      "question": "Center mein CCTV camera lagane ka mukhya kaaran kya hai?",
+      "options": {
+        "A": "Teachers par nazar rakhna",
+        "B": "Students ki suraksha (safety and security) sunishchit karna",
+        "C": "Parents ko dikhawa karna",
+        "D": "Chori rokne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV ka primary purpose students ki safety aur security hai. Yeh discipline maintain karne mein bhi madad karta hai."
+    },
+    {
+      "qno": 88,
+      "module": 5,
+      "question": "Data backup (jaise student records, fee details) lena kyu important hai?",
+      "options": {
+        "A": "Yeh important nahi hai",
+        "B": "Computer kharab hone, virus attack ya chori hone ki sthiti mein important data ko khone se bachane ke liye",
+        "C": "Sirf jab audit ho",
+        "D": "Isse computer slow hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Important data ka regular backup (jaise cloud par ya external hard drive mein) lena ek zaroori suraksha upaay hai."
+    },
+    {
+      "qno": 89,
+      "module": 5,
+      "question": "Center ke liye 'Code of Conduct' (aachar sanhita) banane ka kya fayda hai?",
+      "options": {
+        "A": "Yeh ek bekar document hai",
+        "B": "Yeh students, teachers aur staff ke liye expected behaviour ke clear rules set karta hai",
+        "C": "Yeh sirf students ke liye hota hai",
+        "D": "Yeh sirf teachers ke liye hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Code of conduct ek professional mahaul banata hai jisme sabko pata hota hai ki unse kya vyavahar apekshit hai, jisse conflicts kam hote hain."
+    },
+    {
+      "qno": 90,
+      "module": 5,
+      "question": "Agar aapko center expand karna hai (nayi branch kholni hai), to sabse pehle kya analyze karna chahiye?",
+      "options": {
+        "A": "Turant branch khol deni chahiye",
+        "B": "Aapke current center ki profitability, operational efficiency aur naye location ka market potential",
+        "C": "Sirf naye location ka rent",
+        "D": "Competitor se poochhna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Expansion se pehle yeh sunishchit karna zaroori hai ki aapka current model safal hai aur aapke paas naye center ko manage karne ke liye resources aur system maujood hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Online teaching ke liye kaun sa tool video conferencing ke liye sabse popular hai?",
+      "options": {
+        "A": "MS Paint",
+        "B": "Notepad",
+        "C": "Zoom ya Google Meet",
+        "D": "Calculator"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Zoom aur Google Meet jaise platforms live classes, screen sharing aur recording ki suvidha dete hain, jo online teaching ke liye zaroori hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Ek 'Learning Management System' (LMS) ka kya kaam hai?",
+      "options": {
+        "A": "Sirf fees collect karna",
+        "B": "Online courses host karna, study material dena, assignments lena aur progress track karna",
+        "C": "Video edit karna",
+        "D": "Website banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LMS ek all-in-one platform hai jo online education delivery aur management ko aasan banata hai. Moodle aur Google Classroom iske udaharan hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "'Blended Learning' model kya hota hai?",
+      "options": {
+        "A": "Sirf online padhai",
+        "B": "Sirf offline (classroom) padhai",
+        "C": "Online aur offline teaching ka mishran (mix)",
+        "D": "Bina kitaabon ke padhai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Blended learning mein students kuch cheezein classroom mein seekhte hain aur kuch online resources (jaise videos, quizzes) se. Yeh dono worlds ka best combination hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Digital pen tablet (writing pad) ka online teaching mein kya upyog hai?",
+      "options": {
+        "A": "Drawing karne ke liye",
+        "B": "Computer screen par aasaani se likhne aur samjhane ke liye, jaise whiteboard par likhte hain",
+        "C": "Signature karne ke liye",
+        "D": "Iska koi upyog nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Digital pen tablet se teachers maths ke problems solve kar sakte hain ya diagrams bana sakte hain, jisse online class aamne-saamne ki class jaisi lagti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "NEP 2020 (New Education Policy) ke anusaar, rote learning ki jagah kis cheez par zor diya gaya hai?",
+      "options": {
+        "A": "Sirf exam pass karne par",
+        "B": "Critical thinking, creativity aur conceptual understanding par",
+        "C": "Syllabus jaldi khatam karne par",
+        "D": "Zyada homework dene par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "NEP 2020 ka mukhya uddeshya ratta maarne ki pratha ko khatam karke samajh-boojh aur practical gyan ko badhava dena hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Gamification in education ka kya matlab hai?",
+      "options": {
+        "A": "Class mein games khelna",
+        "B": "Learning ko zyada engaging banane ke liye game-like elements (jaise points, badges, leaderboards) ka istemal karna",
+        "C": "Padhai chhod kar video game khelna",
+        "D": "Student ko saza dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Gamification se students mein competition aur aage badhne ki bhavna aati hai, jisse unka padhai mein mann lagta hai aur woh zyada participate karte hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "WhatsApp ya Telegram jaise apps ka education mein kya aacha istemal ho sakta hai?",
+      "options": {
+        "A": "Sirf jokes bhej kar",
+        "B": "Important announcements, reminders, aur chote-mote doubts clear karne ke liye group banana",
+        "C": "Inka koi educational use nahi hai",
+        "D": "Students ka time waste karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Yeh apps quick communication ke liye bahut achhe hain. Inpar class ke baad bhi students aur teachers aapas mein jude reh sakte hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "'Flipped Classroom' model mein kya hota hai?",
+      "options": {
+        "A": "Students class mein lecture sunte hain aur ghar par homework karte hain",
+        "B": "Students ghar par lecture video dekhte hain aur class mein aakar us topic par discussion ya problem-solving karte hain",
+        "C": "Class mein test hota hai",
+        "D": "Classroom ko ulta kar diya jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yeh traditional model ka ulta hai. Isse class ka samay active learning (jaise discussion, practice) mein istemal hota hai, jahan teacher ki sabse zyada zaroorat hoti hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "AI (Artificial Intelligence) based learning platforms students ki kaise madad kar sakte hain?",
+      "options": {
+        "A": "Woh students ko cheat karna sikhate hain",
+        "B": "Woh har student ke learning speed aur level ke anusaar unhe personalized questions aur feedback de sakte hain",
+        "C": "AI education ke liye khatra hai",
+        "D": "Woh teacher ki jagah le lenge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "AI-powered tools har student ko uski zaroorat ke hisaab se ek alag learning path de sakte hain, jise 'Adaptive Learning' kehte hain. Isse har student apni gati se seekh sakta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "YouTube ka istemal ek tuition center apne fayde ke liye kaise kar sakta hai?",
+      "options": {
+        "A": "Sirf entertainment videos dekh kar",
+        "B": "Apne best lectures ki recording, difficult topics par short videos, aur student success interviews daal kar",
+        "C": "Doosre channels ki copy karke",
+        "D": "YouTube par ad dekar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Apna YouTube channel banakar aap apni teaching expertise dikha sakte hain, brand awareness badha sakte hain aur ek badi audience tak pahunch sakte hain."
+    }
+  ]
+}

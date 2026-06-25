@@ -1,0 +1,1443 @@
+{
+  "course_name": "Beautician & Makeup Artist",
+  "sector": "Beauty & Lifestyle",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Beauty Industry & Professional Ethics",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Skin Care & Analysis",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Hair Removal Techniques",
+      "question_range": "Q35-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Manicure & Pedicure",
+      "question_range": "Q51-Q67"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Basic Makeup Techniques",
+      "question_range": "Q68-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Salon Management & Customer Service",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek professional beautician ke liye sabse important quality kya hai?",
+      "options": {
+        "A": "Excellent communication skills",
+        "B": "Apne kaam mein hygiene maintain karna",
+        "C": "Mehange products use karna",
+        "D": "Sirf makeup mein expert hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hygiene maintain karna ek professional beautician ke liye sabse important hai, taaki clients ko infections se bachaya ja sake."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Client consultation ka primary goal kya hota hai?",
+      "options": {
+        "A": "Client ko costly services bechna",
+        "B": "Client ki needs aur expectations ko samajhna",
+        "C": "Apne salon ke baare mein batana",
+        "D": "Sirf client ka naam aur contact details lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client consultation ka primary goal client ki needs, concerns aur expectations ko samajhna hota hai, taaki unhe best service provide ki ja sake."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Salon mein cross-contamination ko rokne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Ek hi towel sab clients par use karna",
+        "B": "Tools ko disinfect aur sterilize karna",
+        "C": "Sirf paani se tools dhona",
+        "D": "Tools ko dhoop mein rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cross-contamination rokne ke liye, sabhi tools ko har use ke baad disinfect aur sterilize karna bahut zaroori hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Professional ethics mein 'confidentiality' ka kya matlab hai?",
+      "options": {
+        "A": "Client ki personal details sabko batana",
+        "B": "Client ki information ko secret rakhna",
+        "C": "Client se koi baat na karna",
+        "D": "Sirf salon owner se baat karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Confidentiality ka matlab hai client ki personal information aur details ko secret rakhna aur kisi aur ke saath share na karna."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Beauty services provide karte samay gloves pehenna kyun important hai?",
+      "options": {
+        "A": "Fashion ke liye",
+        "B": "Apne aur client dono ko germs se bachane ke liye",
+        "C": "Products waste na ho isliye",
+        "D": "Sirf thand mein pehenna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gloves pehenna beautician aur client dono ko germs aur infections se bachata hai, hygiene maintain karta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Skin ka outermost layer kya kehlata hai?",
+      "options": {
+        "A": "Dermis",
+        "B": "Epidermis",
+        "C": "Hypodermis",
+        "D": "Subcutaneous tissue"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Skin ka outermost layer epidermis kehlata hai jo humein external environment se protect karta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Client ko kisi service ke liye allergy ho sakti hai, yeh kaise pata chalega?",
+      "options": {
+        "A": "Service directly apply karke",
+        "B": "Patch test karke",
+        "C": "Client se bina pooche",
+        "D": "Sirf client ka age dekh kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kisi bhi product ya service ko full-scale apply karne se pehle patch test karna zaroori hai, taaki allergic reactions ka pata chal sake."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Salon mein first aid kit rakhna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf decoration ke liye",
+        "B": "Minor cuts ya injuries ko handle karne ke liye",
+        "C": "Products store karne ke liye",
+        "D": "Client ko gift dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "First aid kit salon mein minor cuts, burns ya injuries ko immediately handle karne ke liye zaroori hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Beautician ko regular training aur up-skilling kyun karni chahiye?",
+      "options": {
+        "A": "Customers ko impress karne ke liye",
+        "B": "Market mein naye trends aur techniques se updated rehne ke liye",
+        "C": "Sirf certificate paane ke liye",
+        "D": "Apni salary badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular training se beautician naye trends, techniques aur products ke baare mein seekh sakta hai, jo uski professional growth ke liye important hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Contraindication ka kya matlab hai beauty treatment mein?",
+      "options": {
+        "A": "Ek treatment jo sab clients ke liye suitable hai",
+        "B": "Ek condition jo kisi particular treatment ko unsafe banati hai",
+        "C": "Ek product jo bahut effective hai",
+        "D": "Treatment ke baad ka result"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Contraindication ka matlab hai ek aisi condition ya situation jismein koi particular beauty treatment nahi karna chahiye, kyunki isse client ko nuksan ho sakta hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek professional beautician ko kis tarah ke attire mein hona chahiye?",
+      "options": {
+        "A": "Casual jeans aur T-shirt",
+        "B": "Clean, neat aur professional uniform",
+        "C": "Party wear",
+        "D": "Koi bhi comfortable kapde"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clean, neat aur professional uniform client ko confidence deta hai aur salon ki image ko maintain karta hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Ergonomics ka beauty profession mein kya importance hai?",
+      "options": {
+        "A": "Salon ki lighting design karna",
+        "B": "Workplace ko is tarah design karna jisse injury aur strain kam ho",
+        "C": "Products ko organize karna",
+        "D": "Client chairs ka color choose karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ergonomics ka matlab hai workplace ko is tarah design karna jisse beautician ko kaam karte samay kam strain ho aur injuries ka risk kam ho, jaise sahi chair height, tool placement."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Client feedback lena kyun important hai?",
+      "options": {
+        "A": "Sirf formal procedure ke liye",
+        "B": "Services ko improve karne aur client satisfaction badhane ke liye",
+        "C": "Client se baatein karne ke liye",
+        "D": "Apne competitors ke baare mein janne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client feedback se hum apni services ki quality ko samajh sakte hain aur usmein sudhar kar sakte hain, jisse client satisfaction badhti hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Sterilization aur Disinfection mein kya difference hai?",
+      "options": {
+        "A": "Koi difference nahi hai",
+        "B": "Sterilization saare microbes ko maarta hai, disinfection kuch ko",
+        "C": "Disinfection saare microbes ko maarta hai, sterilization kuch ko",
+        "D": "Sterilization sirf tools par hota hai, disinfection surfaces par"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sterilization mein sabhi microbes, unke spores samet, khatam ho jaate hain. Disinfection mein zyada tar harmful bacteria aur viruses khatam hote hain, par sabhi spores nahi."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek beautician ko apne client ke saath kaisa behaviour rakhna chahiye?",
+      "options": {
+        "A": "Friendly, par professional boundaries maintain karte hue",
+        "B": "Sirf kaam se kaam rakhna",
+        "C": "Bahut personal ho jana",
+        "D": "Unko judge karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Beautician ko friendly aur approachable hona chahiye, par saath hi professional boundaries maintain karna bhi zaroori hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Salon mein emergency exits aur fire extinguishers ki location pata hona kyun zaroori hai?",
+      "options": {
+        "A": "Sirf safety drills ke liye",
+        "B": "Emergency ki situation mein sabki safety ke liye",
+        "C": "Interior decoration ke liye",
+        "D": "Daily routine ka hissa hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency exits aur fire extinguishers ki location pata hona kisi bhi emergency jaise aag lagne par sabki safety ensure karta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Client ki privacy ko respect karna beautician ke liye kyun important hai?",
+      "options": {
+        "A": "Kyunki yeh ek rule hai",
+        "B": "Client-beautician trust build karne ke liye",
+        "C": "Sirf high-profile clients ke liye",
+        "D": "Iska koi khaas reason nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client ki privacy ko respect karne se unka trust banta hai aur woh comfortable feel karte hain apni personal space mein."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Oily skin type ki pehchan kya hai?",
+      "options": {
+        "A": "Tight aur flaky feel karna",
+        "B": "Large pores aur shiny T-zone",
+        "C": "Smooth aur balanced look",
+        "D": "Redness aur irritation"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oily skin mein typically large pores hote hain aur T-zone (forehead, nose, chin) shiny dikhti hai excessive sebum production ke karan."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Dry skin ke liye kaun sa product sabse beneficial hoga?",
+      "options": {
+        "A": "Oil-free gel cleanser",
+        "B": "Heavy moisturizing cream",
+        "C": "Astringent toner",
+        "D": "Mattifying serum"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dry skin ko hydration aur moisture ki zaroorat hoti hai, isliye heavy moisturizing cream sabse beneficial hoti hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Facial ke dauran steaming ka kya purpose hai?",
+      "options": {
+        "A": "Skin ko dry karna",
+        "B": "Pores ko open karna aur impurities ko soften karna",
+        "C": "Skin ko tight karna",
+        "D": "Makeup remove karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Steaming pores ko open karti hai, jisse blackheads aur whiteheads ko extract karna aasan ho jaata hai aur impurities soften ho jaati hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Combination skin type ko kaise treat karte hain?",
+      "options": {
+        "A": "Purely oily skin products se",
+        "B": "Purely dry skin products se",
+        "C": "Different areas par different products use karke",
+        "D": "Koi bhi product use nahi karte"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Combination skin mein kuch areas oily aur kuch dry hote hain, isliye un areas ke hisaab se alag-alag products use karna chahiye (multi-masking ya targeted treatment)."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Sun Protection Factor (SPF) ka kya kaam hai?",
+      "options": {
+        "A": "Skin ko gora karna",
+        "B": "UV rays se skin ko protect karna",
+        "C": "Pimples theek karna",
+        "D": "Skin ko moisturize karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SPF skin ko harmful Ultraviolet (UV) rays se bachata hai, jo sun damage aur premature aging ka karan bante hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Acne prone skin ke liye kaun sa ingredient beneficial ho sakta hai?",
+      "options": {
+        "A": "Mineral oil",
+        "B": "Salicylic acid",
+        "C": "Heavy fragrance",
+        "D": "Lanolin"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Salicylic acid ek Beta Hydroxy Acid (BHA) hai jo pores ko unclog karta hai aur acne ko treat karne mein help karta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Cleansing, Toning, Moisturizing (CTM) routine mein toning ka kya role hai?",
+      "options": {
+        "A": "Makeup remove karna",
+        "B": "Skin ko hydrate karna",
+        "C": "Pores ko tight karna aur skin ke pH level ko balance karna",
+        "D": "Skin ko exfoliate karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Toner pores ko tight karta hai aur cleansing ke baad skin ke pH balance ko restore karta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Hyperpigmentation ko treat karne ke liye kaun se ingredients commonly use hote hain?",
+      "options": {
+        "A": "Benzoyl peroxide",
+        "B": "Hydroquinone, Vitamin C, Niacinamide",
+        "C": "Tea tree oil",
+        "D": "Petroleum jelly"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hydroquinone, Vitamin C aur Niacinamide jaise ingredients melanin production ko inhibit karke hyperpigmentation ko kam karne mein help karte hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Facial massage ke kya benefits hain?",
+      "options": {
+        "A": "Blood circulation badhana aur muscle relaxation",
+        "B": "Makeup ko set karna",
+        "C": "Pimples nikalna",
+        "D": "Skin ko dry karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Facial massage blood circulation ko improve karta hai, muscles ko relax karta hai aur lymphatic drainage mein bhi help karta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Sensitive skin ki pehchan kya hai?",
+      "options": {
+        "A": "Excessive oiliness",
+        "B": "Redness, itching, burning sensation easily",
+        "C": "Even tone aur texture",
+        "D": "Large pores"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sensitive skin easily react karti hai, jisse redness, itching, burning sensation, ya breakouts ho sakte hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Exfoliation ka primary purpose kya hai?",
+      "options": {
+        "A": "Skin ko moisturize karna",
+        "B": "Dead skin cells ko remove karna",
+        "C": "Skin ko tone karna",
+        "D": "Sun protection provide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Exfoliation dead skin cells ko remove karta hai, jisse skin smooth aur brighter dikhti hai aur product penetration improve hoti hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Blackheads ko scientifically kya kehte hain?",
+      "options": {
+        "A": "Pustules",
+        "B": "Cysts",
+        "C": "Open comedones",
+        "D": "Whiteheads"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Blackheads open comedones hote hain, jahan pore open hota hai aur trapped sebum aur dead skin cells air ke contact mein aakar oxidize ho jaate hain aur black dikhte hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Aging skin ke liye kaun sa ingredient anti-aging properties rakhta hai?",
+      "options": {
+        "A": "Alcohol",
+        "B": "Retinol",
+        "C": "Harsh sulfates",
+        "D": "Artificial colors"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Retinol (Vitamin A derivative) collagen production ko boost karta hai, fine lines aur wrinkles ko kam karta hai, aur cell turnover ko badhata hai, jisse yeh ek powerful anti-aging ingredient hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Facial mask apply karne ka kya benefit hai?",
+      "options": {
+        "A": "Sirf photo khichwane ke liye",
+        "B": "Skin ko specific benefits provide karna jaise hydration, purification, ya brightening",
+        "C": "Makeup ko remove karna",
+        "D": "Hair growth ko badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Facial masks concentrated ingredients deliver karte hain jo skin ko specific concerns ke hisaab se treat karte hain, jaise hydration, oil control, ya brightening."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Skin analysis ke dauran 'Wood's Lamp' ka kya use hai?",
+      "options": {
+        "A": "Skin temperature check karna",
+        "B": "Different skin conditions aur types ko identify karna under UV light",
+        "C": "Makeup application ke liye light provide karna",
+        "D": "Skin ki elasticity check karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wood's Lamp ek special UV light hai jo skin ki hidden conditions jaise fungal infections, pigmentation, aur different skin types (oily areas fluorescent dikhte hain) ko reveal karti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Non-comedogenic products ka kya matlab hai?",
+      "options": {
+        "A": "Jo skin ko gora karte hain",
+        "B": "Jo pores ko clog nahi karte",
+        "C": "Jo bahut mehange hote hain",
+        "D": "Jo sun protection dete hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Non-comedogenic products specially formulate kiye jaate hain taaki woh pores ko clog na karein, jisse breakouts ka risk kam ho."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Serum ko CTM routine mein kab apply karna chahiye?",
+      "options": {
+        "A": "Cleansing se pehle",
+        "B": "Toning ke baad aur moisturizing se pehle",
+        "C": "Moisturizer ke baad",
+        "D": "Sirf raat mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Serum concentrated active ingredients deliver karte hain, isliye unhe toning ke baad clean skin par apply kiya jaata hai, taaki woh skin mein penetrate kar sakein, aur uske baad moisturizer se lock kiya jaata hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Waxing se pehle skin ko clean karna kyun zaroori hai?",
+      "options": {
+        "A": "Wax ko chipkane ke liye",
+        "B": "Oil, dirt aur dead skin cells ko remove karne ke liye, taaki wax better adhere kare",
+        "C": "Skin ko thanda karne ke liye",
+        "D": "Sirf achha dikhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Waxing se pehle skin ko clean karne se wax better adhere karta hai aur infection ka risk kam hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Hot wax ko apply karne se pehle kya check karna chahiye?",
+      "options": {
+        "A": "Uska color",
+        "B": "Uski fragrance",
+        "C": "Uska temperature",
+        "D": "Uska expiration date"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Hot wax ka temperature check karna bahut zaroori hai taaki client ko burn na ho."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Wax strip ko kis direction mein pull karna chahiye?",
+      "options": {
+        "A": "Hair growth ki direction mein",
+        "B": "Hair growth ke opposite direction mein",
+        "C": "Kisi bhi direction mein",
+        "D": "Slowly pull karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hair growth ke opposite direction mein wax strip ko tezi se pull karne se hairs effectively remove hote hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Threading technique kis area ke liye sabse zyada use hoti hai?",
+      "options": {
+        "A": "Legs",
+        "B": "Back",
+        "C": "Eyebrows aur upper lip",
+        "D": "Arms"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Threading eyebrows aur upper lip jaise sensitive aur chote areas ke liye bahut precise aur effective hair removal method hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Waxing ke baad skin par redness aur irritation ko kam karne ke liye kya apply karna chahiye?",
+      "options": {
+        "A": "Hot water",
+        "B": "Soothing gel ya lotion (e.g., Aloe Vera)",
+        "C": "Perfumed cream",
+        "D": "More wax"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waxing ke baad soothing gel ya lotion jaise Aloe Vera apply karne se redness, irritation aur inflammation kam hoti hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Ingrown hair kya hota hai?",
+      "options": {
+        "A": "Hair jo skin ke andar grow karta hai",
+        "B": "Hair jo bahut lamba hota hai",
+        "C": "Hair jo bahut mota hota hai",
+        "D": "Hair jo color change karta hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ingrown hair tab hota hai jab hair follicle skin ke andar wapas grow kar jaata hai, jisse bumps aur inflammation ho sakti hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Bleaching ka kya purpose hai?",
+      "options": {
+        "A": "Hairs ko remove karna",
+        "B": "Hairs ko light karna taaki woh kam visible ho",
+        "C": "Skin ko gora karna",
+        "D": "Hairs ko strong banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bleaching hairs ke color ko light karti hai, jisse woh kam visible ho jaate hain, khaaskar face ke fine hairs."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Waxing ke liye minimum hair length kitni honi chahiye?",
+      "options": {
+        "A": "1-2 mm",
+        "B": "5-6 mm",
+        "C": "1 inch",
+        "D": "Kitni bhi ho sakti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Effective waxing ke liye hairs ki length kam se kam 5-6 mm honi chahiye, taaki wax unhe theek se grip kar sake."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Waxing ke baad exfoliation kab karna chahiye?",
+      "options": {
+        "A": "Immediately after waxing",
+        "B": "24-48 hours baad",
+        "C": "Kabhi nahi karna chahiye",
+        "D": "Waxing se pehle"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Waxing ke baad skin sensitive hoti hai, isliye exfoliation 24-48 hours baad karna chahiye, taaki ingrown hairs ko roka ja sake aur skin ko recover hone ka time mile."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Kaun si condition mein waxing avoid karni chahiye?",
+      "options": {
+        "A": "Healthy skin",
+        "B": "Sunburn wali skin par",
+        "C": "Normal hair growth",
+        "D": "Dry skin"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sunburn wali skin par waxing karne se skin ko aur zyada damage aur pain ho sakta hai, isliye avoid karna chahiye."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Hard wax (strip-less wax) ka kya fayda hai?",
+      "options": {
+        "A": "Yeh bahut sasta hota hai",
+        "B": "Yeh hairs ko bina strip ke remove karta hai aur sensitive areas ke liye achha hai",
+        "C": "Isse bahut zyada pain hota hai",
+        "D": "Isse hair growth badhti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hard wax skin par soft hota hai aur sirf hairs ko pakadta hai, jisse sensitive areas jaise bikini line aur underarms ke liye yeh zyada comfortable hota hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Threading karte samay thread ko kitni baar twist karna chahiye?",
+      "options": {
+        "A": "1-2 baar",
+        "B": "3-4 baar",
+        "C": "5-6 baar",
+        "D": "Jitni zaroorat ho, usually 5-7 twists"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Threading mein thread ko 5-7 twists tak karna chahiye, taaki woh hairs ko effectively grip kar sake aur remove kar sake."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Bleaching cream apply karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Aankhon ke paas apply karna",
+        "B": "Patch test karna aur instructions follow karna",
+        "C": "Zyada quantity mein apply karna",
+        "D": "Bahut der tak apply karke rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bleaching cream use karne se pehle patch test karna zaroori hai aur product instructions ko carefully follow karna chahiye taaki side effects se bacha ja sake."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Hair removal ke baad skin par bumps ya folliculitis ko kaise prevent karein?",
+      "options": {
+        "A": "Tight kapde pehen kar",
+        "B": "Regular exfoliation aur soothing lotions use karke",
+        "C": "Skin ko dry chhod kar",
+        "D": "Har din hair removal karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular exfoliation dead skin cells ko remove karta hai aur soothing lotions inflammation ko kam karte hain, jisse bumps aur folliculitis prevent hote hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Depilatory creams (hair removal creams) kaise kaam karti hain?",
+      "options": {
+        "A": "Hair follicle ko pull karti hain",
+        "B": "Hair shaft ko dissolve karti hain",
+        "C": "Hair growth ko slow karti hain",
+        "D": "Hair color ko change karti hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Depilatory creams mein chemicals hote hain jo hair shaft mein protein (keratin) ko dissolve karte hain, jisse hair skin surface se break ho jaate hain."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Waxing ke liye contraindication mein kaun si condition shamil hai?",
+      "options": {
+        "A": "Pregnancy (doctor ki salah se)",
+        "B": "Varicose veins (severe cases)",
+        "C": "Normal skin",
+        "D": "Healthy nails"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Severe varicose veins wale areas par waxing avoid karni chahiye kyunki isse blood circulation par negative impact pad sakta hai aur condition bigad sakti hai."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Manicure ke dauran nails ko file karte samay kis direction mein movement honi chahiye?",
+      "options": {
+        "A": "Back and forth motion mein",
+        "B": "Ek hi direction mein, corners se center tak",
+        "C": "Circular motion mein",
+        "D": "Kisi bhi direction mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nails ko ek hi direction mein file karne se unhein damage hone se bachaya jaata hai aur splitting prevent hoti hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Cuticle pusher ka kya kaam hai?",
+      "options": {
+        "A": "Nails ko cut karna",
+        "B": "Cuticles ko gently push back karna",
+        "C": "Nail polish remove karna",
+        "D": "Nails ko shine karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cuticle pusher cuticles ko gently push back karta hai, jisse nail bed clean aur neat dikhta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Pedicure mein foot soak ka kya purpose hai?",
+      "options": {
+        "A": "Feet ko gora karna",
+        "B": "Skin ko soft karna aur relaxation provide karna",
+        "C": "Nail polish ko remove karna",
+        "D": "Feet ko dry karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Foot soak warm water mein feet ko relax karta hai, dead skin ko soft karta hai aur cleaning mein help karta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Nail polish apply karne se pehle base coat lagana kyun zaroori hai?",
+      "options": {
+        "A": "Nail polish ko jaldi sukhane ke liye",
+        "B": "Nails ko discoloration se bachane aur polish ko chipkane ke liye",
+        "C": "Nails ko lamba karne ke liye",
+        "D": "Sirf ek extra step hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Base coat nails ko polish ke pigments se hone wale discoloration se bachata hai aur nail polish ko nails par better adhere karne mein help karta hai, jisse polish zyada der tak rehti hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Nail fungus (Onychomycosis) ke case mein kya karna chahiye?",
+      "options": {
+        "A": "Normal manicure ya pedicure karna chahiye",
+        "B": "Client ko doctor ke paas refer karna chahiye aur service avoid karni chahiye",
+        "C": "Sirf nail polish change karni chahiye",
+        "D": "Zyada pressure se clean karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nail fungus contagious ho sakta hai aur professional treatment ki zaroorat hoti hai. Beautician ko service avoid karni chahiye aur client ko doctor ke paas refer karna chahiye."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Nail buffer ka kya use hai?",
+      "options": {
+        "A": "Nails ko cut karna",
+        "B": "Nail surface ko smooth aur shiny banana",
+        "C": "Nail polish remove karna",
+        "D": "Cuticles remove karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nail buffer nails ki surface ko smooth karta hai, ridges ko kam karta hai aur unhe natural shine deta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Ingrown toenail ko prevent karne ke liye nails ko kaise cut karna chahiye?",
+      "options": {
+        "A": "Bahut chota aur gol shape mein",
+        "B": "Seedha across (straight across) cut karna chahiye",
+        "C": "Corners ko andar ki taraf cut karna chahiye",
+        "D": "Nails ko chhod dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Toenails ko seedha across cut karne se ingrown toenails ka risk kam hota hai. Corners ko zyada cut karne se nail skin mein grow kar sakta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Top coat nail polish ka kya role hai?",
+      "options": {
+        "A": "Nail polish ko base color dena",
+        "B": "Nail polish ko chip hone se bachana aur shine dena",
+        "C": "Nails ko strong banana",
+        "D": "Nail growth ko badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Top coat nail polish ko seal karta hai, uski durability badhata hai, chip hone se bachata hai aur high-gloss finish deta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Manicure ya Pedicure ke dauran client ki skin par cuts ya wounds ho toh kya karna chahiye?",
+      "options": {
+        "A": "Service continue karni chahiye",
+        "B": "Service rok deni chahiye aur first aid provide karni chahiye",
+        "C": "Sirf us area ko avoid karna chahiye",
+        "D": "Client ko ghar bhej dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cuts ya wounds par service karne se infection ka risk hota hai. Service rok kar first aid deni chahiye aur agar zaroori ho toh medical advice leni chahiye."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Nail plate kis cheez se bani hoti hai?",
+      "options": {
+        "A": "Calcium",
+        "B": "Keratin",
+        "C": "Collagen",
+        "D": "Melanin"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Nail plate dead keratinized cells se bani hoti hai, jo nails ko unki hardness aur structure dete hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Paraffin wax treatment ke kya benefits hain manicure/pedicure mein?",
+      "options": {
+        "A": "Nails ko lamba karna",
+        "B": "Skin ko deeply moisturize karna aur joint pain mein relief dena",
+        "C": "Nail polish ko jaldi sukhana",
+        "D": "Hair remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paraffin wax skin ko deeply hydrate aur moisturize karta hai, blood circulation badhata hai aur joints ko relax karke pain mein relief deta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Disinfectant solution mein tools ko kitni der tak soak karna chahiye?",
+      "options": {
+        "A": "1 minute",
+        "B": "As per manufacturer's instructions (usually 10-20 minutes)",
+        "C": "Kuch seconds ke liye",
+        "D": "Pura din"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Disinfectant solution ki effectiveness uske contact time par depend karti hai. Manufacturer ke instructions follow karna sabse important hai, taaki proper disinfection ho sake."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Nail nipper ka kya use hai?",
+      "options": {
+        "A": "Nail polish remove karna",
+        "B": "Nails ko shape karna",
+        "C": "Excess cuticles ya hangnails ko carefully trim karna",
+        "D": "Nails ko buff karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Nail nipper ka use excess cuticles ya hangnails ko carefully trim karne ke liye hota hai, par skin ko cut karne se bachna chahiye."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Callus remover ka kya kaam hai?",
+      "options": {
+        "A": "Nail polish remove karna",
+        "B": "Feet se hard skin (calluses) ko remove karna",
+        "C": "Feet ko massage karna",
+        "D": "Nails ko strengthen karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Callus remover feet se hard, dead skin (calluses) ko soft aur remove karne mein help karta hai, jisse feet smooth hote hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Diabetic clients ke liye manicure/pedicure karte samay kya special care leni chahiye?",
+      "options": {
+        "A": "Zyada pressure apply karna",
+        "B": "Cuts aur infections se bachne ke liye extra cautious rehna",
+        "C": "Harsh chemicals use karna",
+        "D": "Unko koi bhi service dene se mana karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Diabetic clients mein cuts aur infections ka risk zyada hota hai aur healing slow hoti hai. Isliye extra care leni chahiye, sharp tools ka use carefully karna chahiye aur skin ko damage hone se bachana chahiye."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Nail art brushes ko clean kaise karte hain?",
+      "options": {
+        "A": "Sirf paani se dhona",
+        "B": "Brush cleaner ya nail polish remover se clean karna",
+        "C": "Dry cloth se wipe karna",
+        "D": "Unko kabhi clean nahi karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nail art brushes ko brush cleaner ya nail polish remover se clean karna chahiye taaki polish residue remove ho sake aur brushes ki lifespan badhe."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "French manicure ki pehchan kya hai?",
+      "options": {
+        "A": "Pure nails par bright color",
+        "B": "Nails par intricate designs",
+        "C": "Pink ya nude base aur white tips",
+        "D": "Glitter wali nail polish"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "French manicure mein nails par natural pink ya nude base hota hai aur tips par white polish lagayi jaati hai."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Makeup application se pehle skin ko prepare karna kyun important hai?",
+      "options": {
+        "A": "Makeup products ko waste karne ke liye",
+        "B": "Makeup ko smooth apply karne aur long-lasting banane ke liye",
+        "C": "Sirf time pass ke liye",
+        "D": "Skin ko dry karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skin preparation (cleansing, moisturizing, priming) makeup ko smooth finish deta hai aur uski longevity badhata hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Foundation ka shade select karte samay kya check karna chahiye?",
+      "options": {
+        "A": "Hand ke back par",
+        "B": "Jawline par, neck ke paas",
+        "C": "Forehead par",
+        "D": "Sirf bottle mein dekh kar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Foundation shade ko jawline par check karna chahiye, taaki woh face aur neck ke skin tone se perfectly match kare."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Concealer ka primary use kya hai?",
+      "options": {
+        "A": "Pure face par apply karna",
+        "B": "Blemishes, dark circles aur imperfections ko cover karna",
+        "C": "Cheeks ko color dena",
+        "D": "Lips ko define karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Concealer specific areas par focus karke blemishes, dark circles aur imperfections ko hide karta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Makeup brush set ko clean karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf naye brushes ke liye",
+        "B": "Hygiene maintain karne, product buildup hatane aur brushes ki longevity ke liye",
+        "C": "Brushes ko naya dikhane ke liye",
+        "D": "Unko soft banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clean brushes hygiene maintain karte hain, cross-contamination rokate hain, product buildup remove karte hain aur makeup application ko smooth banate hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Primer ka kya role hai makeup application mein?",
+      "options": {
+        "A": "Makeup ko remove karna",
+        "B": "Makeup ke liye smooth base banana aur uski longevity badhana",
+        "C": "Skin ko color dena",
+        "D": "Sirf oily skin ke liye use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Primer pores ko minimize karta hai, fine lines ko blur karta hai aur makeup ke liye ek smooth canvas provide karta hai, jisse makeup zyada der tak rehta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Kaun sa product makeup ko set karne aur shine ko control karne ke liye use hota hai?",
+      "options": {
+        "A": "Lipstick",
+        "B": "Mascara",
+        "C": "Setting powder/Compact",
+        "D": "Eyeliner"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Setting powder ya compact foundation ko set karta hai, excessive shine ko absorb karta hai aur makeup ko long-lasting banata hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Contouring ka kya purpose hai?",
+      "options": {
+        "A": "Face ko ek hi color ka dikhana",
+        "B": "Face features ko define aur enhance karna shadows create karke",
+        "C": "Pure face par glitter lagana",
+        "D": "Face ko gora karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Contouring mein darker shades ka use karke face ke features ko define aur sculpt kiya jaata hai, jaise cheekbones, jawline aur nose."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Blush kis area par apply karna chahiye?",
+      "options": {
+        "A": "Forehead par",
+        "B": "Apple of the cheeks par",
+        "C": "Chin par",
+        "D": "Nose par"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Blush ko apple of the cheeks par apply karne se face ko healthy aur youthful glow milta hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Mascara ka kya kaam hai?",
+      "options": {
+        "A": "Eyebrows ko shape dena",
+        "B": "Eyelashes ko volume, length aur color dena",
+        "C": "Eyelids par apply karna",
+        "D": "Lips ko color dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mascara eyelashes ko enhance karta hai, unhe dark, lamba aur voluminous banata hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Day makeup aur Evening makeup mein kya difference hota hai?",
+      "options": {
+        "A": "Koi difference nahi",
+        "B": "Day makeup lighter aur natural hota hai, evening makeup more dramatic aur intense",
+        "C": "Evening makeup sirf dark colors use karta hai",
+        "D": "Day makeup mein sirf foundation lagate hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Day makeup natural light ke liye hota hai, isliye lighter aur subtle hota hai. Evening makeup artificial light mein dikhne ke liye zyada dramatic, bold aur intense hota hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Lip liner ka kya use hai?",
+      "options": {
+        "A": "Lips ko shine dena",
+        "B": "Lipstick ko bleed hone se rokna aur lips ko define karna",
+        "C": "Lips ko moisturize karna",
+        "D": "Sirf dark lipstick ke saath use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lip liner lipstick ko bleed hone se rokta hai, lips ko define karta hai aur unhe fuller dikhane mein help karta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Setting spray ka kya purpose hai?",
+      "options": {
+        "A": "Makeup ko remove karna",
+        "B": "Makeup ko long-lasting banana aur ek flawless finish dena",
+        "C": "Skin ko gora karna",
+        "D": "Face ko glow dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Setting spray makeup ko set karta hai, use smudge-proof aur transfer-proof banata hai aur uski longevity badhata hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Color corrector ka kya use hai?",
+      "options": {
+        "A": "Pure face par apply karna",
+        "B": "Specific skin concerns (redness, dark circles) ko neutralize karna",
+        "C": "Foundation ki jagah use karna",
+        "D": "Lips par apply karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Color correctors complementary colors ka use karke specific skin concerns jaise redness (green corrector), dark circles (peach/orange corrector) ko neutralize karte hain, foundation se pehle."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Eyebrow pencil ya powder ka kya use hai?",
+      "options": {
+        "A": "Eyebrows ko bleach karna",
+        "B": "Eyebrows ko fill karna aur define karna",
+        "C": "Eyelashes ko color dena",
+        "D": "Eyelids par apply karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Eyebrow pencil ya powder eyebrows ko fill karta hai, unhe define karta hai aur overall face ko structure deta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Liquid foundation ko apply karne ka best tool kya hai?",
+      "options": {
+        "A": "Fingers",
+        "B": "Makeup sponge ya foundation brush",
+        "C": "Cotton pad",
+        "D": "Eyeliner brush"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Makeup sponge ya foundation brush liquid foundation ko evenly blend karne aur flawless finish dene mein help karte hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Smokey eye look create karne ke liye kya technique use hoti hai?",
+      "options": {
+        "A": "Sirf ek light color ka eyeshadow",
+        "B": "Darker shades ko blend karke ek gradient effect create karna",
+        "C": "Lips par dark color lagana",
+        "D": "Pure eyelid par glitter lagana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Smokey eye look mein darker eyeshadow shades ko seamlessly blend kiya jaata hai, jo eyes ko define karte hain aur ek dramatic, smudged effect dete hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Highlighter kis area par apply karna chahiye?",
+      "options": {
+        "A": "Under the eyes",
+        "B": "Cheekbones, brow bone aur Cupid's bow par",
+        "C": "Pure forehead par",
+        "D": "Chin par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Highlighter light ko reflect karta hai aur face ke high points (cheekbones, brow bone, Cupid's bow, nose bridge) ko enhance karta hai, jisse skin glow karti hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Client ko greet karte samay kya karna chahiye?",
+      "options": {
+        "A": "Unko ignore karna",
+        "B": "Warm welcome aur smile ke saath greet karna",
+        "C": "Directly service start kar dena",
+        "D": "Unko wait karne ko kehna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Warm welcome aur smile client ko comfortable feel karata hai aur ek positive impression create karta hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Ek dissatisfied client ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Unki baat ignore karna",
+        "B": "Unki complaints ko sunna, empathy dikhana aur solution offer karna",
+        "C": "Unse argue karna",
+        "D": "Unko salon se nikal dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client ki complaints ko sunna, unke perspective ko samajhna aur ek satisfactory solution provide karna client retention ke liye important hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Appointment booking system ka kya fayda hai?",
+      "options": {
+        "A": "Sirf time waste karna",
+        "B": "Client wait time kam karna aur salon operations ko smooth banana",
+        "C": "Client ko confused karna",
+        "D": "Beautician ko koi kaam na dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Appointment booking system client wait time ko minimize karta hai aur salon ke schedule ko efficiently manage karta hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Product recommendations karte samay beautician ko kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Sirf costly products recommend karna",
+        "B": "Client ki needs aur skin type ke according honest recommendations dena",
+        "C": "Apne favourite products recommend karna",
+        "D": "Client ko force karna product kharidne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client ki specific needs aur skin type ke according honest product recommendations dene se trust build hota hai aur unhe sahi products milte hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Salon mein inventory management kyun zaroori hai?",
+      "options": {
+        "A": "Extra products kharidne ke liye",
+        "B": "Products ki availability maintain karna aur wastage rokna",
+        "C": "Products ko hide karna",
+        "D": "Sirf record rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Inventory management products ko stock mein rakhne mein help karta hai, out-of-stock situations ko rokta hai aur product expiration ya wastage ko minimize karta hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Client ko service ke baad follow-up message ya call karna kyun beneficial hai?",
+      "options": {
+        "A": "Unko irritate karne ke liye",
+        "B": "Client satisfaction check karna aur unhein valued feel karana",
+        "C": "Apne naye offers batane ke liye",
+        "D": "Sirf time pass ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Follow-up se client ko valued feel hota hai, unki satisfaction check hoti hai aur future appointments ke chances badhte hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Salon mein ambience ka kya importance hai?",
+      "options": {
+        "A": "Koi importance nahi",
+        "B": "Client ko comfortable aur relaxed feel karana",
+        "C": "Sirf interior designer ke liye",
+        "D": "Products ko display karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pleasant ambience (lighting, music, cleanliness) client ko relaxed aur comfortable feel karata hai, jisse unka overall salon experience better hota hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Teamwork salon mein kyun zaroori hai?",
+      "options": {
+        "A": "Sirf senior staff ke liye",
+        "B": "Smooth operations, efficient service delivery aur positive work environment ke liye",
+        "C": "Competitors se aage rehne ke liye",
+        "D": "Individual performance badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Teamwork se salon operations smooth hote hain, clients ko efficient service milti hai aur staff ke beech positive work environment maintain hota hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Upselling aur Cross-selling mein kya difference hai?",
+      "options": {
+        "A": "Koi difference nahi",
+        "B": "Upselling better version offer karna, Cross-selling related products/services offer karna",
+        "C": "Dono ka matlab extra products bechna hai",
+        "D": "Dono sales strategies nahi hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Upselling mein client ko current service ka ek upgrade ya better version offer kiya jaata hai. Cross-selling mein current service se related complementary products ya services offer ki jaati hain."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Time management skills beautician ke liye kyun important hain?",
+      "options": {
+        "A": "Sirf personal life ke liye",
+        "B": "Appointments ko timely complete karna aur client wait time kam karna",
+        "C": "Products ko organize karna",
+        "D": "Sirf break lene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Effective time management se beautician appointments ko timely complete kar paati hai, client wait time kam hota hai aur sabhi clients ko quality service milti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Client record cards maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf client ka naam yaad rakhne ke liye",
+        "B": "Client ki previous services, preferences aur any contraindications ka record rakhne ke liye",
+        "C": "Marketing ke liye",
+        "D": "Unko phone karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client record cards beautician ko client ki history, allergies, preferences aur previous treatments ko track karne mein help karte hain, jisse personalized service provide ki ja sake."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Marketing ke liye social media ka use kaise kar sakte hain?",
+      "options": {
+        "A": "Sirf personal photos post karna",
+        "B": "Services, offers, client testimonials aur before/after photos share karna",
+        "C": "Competitors ko copy karna",
+        "D": "Social media use nahi karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Social media par services, offers, client testimonials aur before/after photos share karke salon ki visibility badhti hai aur naye clients attract hote hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Feedback forms provide karna kyun helpful hai?",
+      "options": {
+        "A": "Sirf paper waste karne ke liye",
+        "B": "Client feedback collect karna aur services ko improve karna",
+        "C": "Client ko busy rakhne ke liye",
+        "D": "Apni mistakes chupane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Feedback forms client ke valuable insights provide karte hain, jisse salon apni services aur client experience ko continuously improve kar sakta hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Professional appearance maintain karna beautician ke liye kyun important hai?",
+      "options": {
+        "A": "Sirf fashion statement ke liye",
+        "B": "Client ko trust aur confidence dene ke liye",
+        "C": "Apne colleagues ko impress karne ke liye",
+        "D": "Koi khaas reason nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professional appearance client ko trust aur confidence deta hai ki woh ek capable aur hygienic professional se service le rahe hain."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Salon mein product display kaise hona chahiye?",
+      "options": {
+        "A": "Randomly kahi bhi rakh dena",
+        "B": "Neatly organized, well-lit aur attractive tarike se",
+        "C": "Sirf un products ko display karna jo bik na rahe hon",
+        "D": "Client ki reach se bahar rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Well-organized aur attractive product display clients ko products browse karne aur purchase karne ke liye encourage karta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Cash handling aur billing mein kya precaution leni chahiye?",
+      "options": {
+        "A": "Bina receipt ke payment lena",
+        "B": "Accuracy aur transparency maintain karna",
+        "C": "Sirf verbal communication karna",
+        "D": "Billing ko manually karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cash handling aur billing mein accuracy aur transparency maintain karna zaroori hai taaki koi discrepancy na ho aur client trust bana rahe."
+    }
+  ]
+}
