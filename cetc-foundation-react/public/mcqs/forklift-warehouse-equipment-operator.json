@@ -1,0 +1,1443 @@
+{
+  "course_name": "Forklift & Warehouse Equipment Operator",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Forklifts & Warehouse Operations",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Forklift Components & Controls",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Safety Procedures & Regulations",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Pre-Operation Checks & Basic Maintenance",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Operating Techniques & Load Handling",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Warehouse Management & Advanced Operations",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Forklift ka primary function kya hai?",
+      "options": {
+        "A": "Logon ko ek jagah se doosri jagah le jaana",
+        "B": "Bade aur bhari saman ko uthana aur move karna",
+        "C": "Warehouse mein safai karna",
+        "D": "Office supplies deliver karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Forklift ka mukhya kaam bhari saman jaise pallets ko uthana aur warehouse ke andar move karna hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Warehouse mein 'aisle' ka kya matlab hai?",
+      "options": {
+        "A": "Woh jagah jahan saman store kiya jaata hai",
+        "B": "Forklift aur logon ke chalne ka rasta",
+        "C": "Warehouse ka entrance gate",
+        "D": "Emergency exit"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aisle woh rasta hota hai jahan forklift aur workers warehouse mein move karte hain."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Counterbalance forklift ki pehchan kya hai?",
+      "options": {
+        "A": "Ismein forks side mein hote hain",
+        "B": "Iske peeche ek heavy weight hota hai",
+        "C": "Yeh sirf chote saman uthata hai",
+        "D": "Yeh sirf battery se chalta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Counterbalance forklift mein peeche ek heavy weight hota hai jo uthaye hue load ko balance karta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Pallet jack ka upyog kisliye kiya jaata hai?",
+      "options": {
+        "A": "Bade containers uthane ke liye",
+        "B": "Zameen se thoda upar pallets ko move karne ke liye",
+        "C": "Unchi racks par saman rakhne ke liye",
+        "D": "Trucks load karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pallet jack ka upyog zameen par ya thodi unchai tak pallets ko uthane aur move karne ke liye hota hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek forklift operator ke liye sabse important quality kya hai?",
+      "options": {
+        "A": "Tez drive karna",
+        "B": "Hamesha safety rules follow karna",
+        "C": "Sirf heavy loads uthana",
+        "D": "Phone par baat karte hue kaam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety rules ko follow karna ek forklift operator ke liye sabse zyada important hai taaki accidents se bacha ja sake."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Reach truck kis tarah ke warehouses mein use hota hai?",
+      "options": {
+        "A": "Open-air warehouses",
+        "B": "Narrow aisles wale warehouses mein",
+        "C": "Sirf outdoor use ke liye",
+        "D": "Heavy construction sites par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reach truck narrow aisles mein high racks par saman rakhne aur uthane ke liye design kiya gaya hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Warehouse mein 'rack' ka kya matlab hai?",
+      "options": {
+        "A": "Ek tarah ka forklift",
+        "B": "Saman store karne ke liye bani shelves",
+        "C": "Forklift ka engine",
+        "D": "Emergency siren"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rack woh structure hota hai jahan saman ko organize tareeke se store kiya jaata hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Forklift operator ki jimmedari kya nahi hai?",
+      "options": {
+        "A": "Daily inspection karna",
+        "B": "Load capacity se zyada saman uthana",
+        "C": "Safe speed par drive karna",
+        "D": "Accidents report karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Load capacity se zyada saman uthana bahut khatarnak hai aur operator ki jimmedari nahi hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Electric forklift ka mukhya fayda kya hai?",
+      "options": {
+        "A": "Yeh diesel se chalta hai",
+        "B": "Outdoor use ke liye best hai",
+        "C": "Kam noise karta hai aur zero emissions deta hai",
+        "D": "Iska maintenance bahut mushkil hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Electric forklifts shant hote hain aur exhaust fumes nahi chhodte, isliye indoor use ke liye acche hain."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Forklift chalate samay kya avoid karna chahiye?",
+      "options": {
+        "A": "Horn bajana",
+        "B": "Tez corners lena",
+        "C": "Slow speed par chalna",
+        "D": "Load ko stable rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tez corners lene se forklift unstable ho sakta hai aur load gir sakta hai ya palat sakta hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Warehouse mein 'loading dock' kya hota hai?",
+      "options": {
+        "A": "Jahan forklifts park kiye jaate hain",
+        "B": "Jahan trucks aur trailers se saman load/unload kiya jaata hai",
+        "C": "Warehouse ka cafeteria",
+        "D": "Emergency medical station"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Loading dock woh area hota hai jahan trucks aur trailers se saman ko warehouse mein transfer kiya jaata hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Order picker forklift ka kya upyog hai?",
+      "options": {
+        "A": "Bade palletized loads uthana",
+        "B": "Individual items ko high racks se pick karna",
+        "C": "Outdoor construction sites par kaam karna",
+        "D": "Trucks ko tow karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Order picker forklift operator ko high shelves se individual items pick karne ki suvidha deta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Why is it important to keep the warehouse floor clean and free of debris?",
+      "options": {
+        "A": "Saman zyada fit ho sakega",
+        "B": "Accidents jaise slips aur falls ko rokne ke liye",
+        "C": "Light bill kam karne ke liye",
+        "D": "Customer ko impress karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Saaf floor se forklifts aur pedestrians dono ke liye safety badhti hai, aur accidents ka khatra kam hota hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Forklift operator certification kyu zaroori hai?",
+      "options": {
+        "A": "Sirf paise kamane ke liye",
+        "B": "Legal requirement hai aur safe operation ensure karta hai",
+        "C": "Yeh sirf ek formality hai",
+        "D": "Isse forklift tez chalta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Certification legal requirement hai aur yeh ensure karta hai ki operator forklift ko safely aur efficiently chala sake."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek forklift ki 'capacity' se kya matlab hai?",
+      "options": {
+        "A": "Woh kitni speed se chal sakta hai",
+        "B": "Woh kitna fuel consume karta hai",
+        "C": "Maximum weight jo woh safely utha sakta hai",
+        "D": "Uski battery life kitni hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Forklift ki capacity uski maximum weight uthane ki kshamta ko darshati hai, jise safely handle kiya ja sakta hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Warehouse mein 'FIFO' ka kya matlab hai?",
+      "options": {
+        "A": "First In, First Out",
+        "B": "Fast Inventory, Fast Order",
+        "C": "Forklifts In, Forks Out",
+        "D": "Find It, Fix It, Operate"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "FIFO (First In, First Out) ek inventory management method hai jahan pehle aaya hua saman pehle nikala jaata hai, khaaskar perishable goods ke liye."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Forklift chalate samay vision ka importance kya hai?",
+      "options": {
+        "A": "Sirf aage dekhna",
+        "B": "Hamesha apne surroundings ko monitor karna",
+        "C": "Sirf load ko dekhna",
+        "D": "Mirror mein dekhna zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Accidents se bachne ke liye aur safety maintain karne ke liye forklift operator ko hamesha apne aas-paas ke area ko monitor karna chahiye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Forklift ke 'mast' ka kya kaam hai?",
+      "options": {
+        "A": "Engine ko cover karna",
+        "B": "Forks ko upar aur neeche move karna",
+        "C": "Operator ko baithne ki jagah dena",
+        "D": "Forklift ko balance karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mast woh vertical structure hota hai jo forks ko lift aur lower karta hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Forks ko 'tilt' karne ka kya matlab hai?",
+      "options": {
+        "A": "Forks ko left ya right ghumana",
+        "B": "Forks ko aage ya peeche jhukana",
+        "C": "Forks ko upar uthana",
+        "D": "Forks ko lamba karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tilt function se forks aage (down-tilt) ya peeche (back-tilt) jhukaye jaate hain, load ko stable rakhne ke liye."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Forklift mein 'carriage' kisko kehte hain?",
+      "options": {
+        "A": "Operator ki seat",
+        "B": "Mast par laga hua component jo forks ko hold karta hai",
+        "C": "Peeche wala weight",
+        "D": "Fuel tank"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Carriage woh platform hai jo mast par upar-neeche move karta hai aur forks us par attach hote hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Electric forklift mein power source kya hota hai?",
+      "options": {
+        "A": "Diesel engine",
+        "B": "Petrol engine",
+        "C": "Rechargeable battery",
+        "D": "Propane tank"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Electric forklifts batteries se operate hote hain jinhe recharge kiya ja sakta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Internal Combustion (IC) forklift mein fuel kya ho sakta hai?",
+      "options": {
+        "A": "Battery",
+        "B": "Diesel, Petrol ya LPG",
+        "C": "Solar power",
+        "D": "Compressed air"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IC forklifts diesel, petrol ya liquefied petroleum gas (LPG) jaise fuels par chalte hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Forklift ka 'overhead guard' kis kaam aata hai?",
+      "options": {
+        "A": "Operator ko dhoop se bachane ke liye",
+        "B": "Operator ko girne wale saman se bachane ke liye",
+        "C": "Forklift ko tez chalane ke liye",
+        "D": "Load ko balance karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overhead guard operator ko upar se girne wale chhote saman se protect karta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Hydraulic controls ka kya upyog hai?",
+      "options": {
+        "A": "Steering control karna",
+        "B": "Speed control karna",
+        "C": "Forks ko lift, lower aur tilt karna",
+        "D": "Brakes lagana"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Hydraulic system pressure ka upyog karke forks ko upar-neeche karne aur tilt karne mein madad karta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Forklift mein 'side-shift' feature ka kya fayda hai?",
+      "options": {
+        "A": "Forks ko upar-neeche move karna",
+        "B": "Forks ko left ya right move karna bina forklift chalaye",
+        "C": "Forks ko lamba karna",
+        "D": "Forklift ko tez chalana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Side-shift attachment operator ko load ko left ya right position karne mein help karta hai, jisse precise placement aasan ho jaati hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Forklift ke dashboard par 'hour meter' kya dikhata hai?",
+      "options": {
+        "A": "Current speed",
+        "B": "Engine/motor ke chalne ke ghante",
+        "C": "Fuel level",
+        "D": "Battery charge level"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hour meter forklift ke engine ya motor ke total operating hours ko record karta hai, jo maintenance scheduling ke liye useful hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Steering wheel ka kya kaam hai forklift mein?",
+      "options": {
+        "A": "Load uthane ke liye",
+        "B": "Forklift ki direction change karne ke liye",
+        "C": "Speed badhane ke liye",
+        "D": "Brakes lagane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Steering wheel forklift ko left ya right turn karne mein madad karta hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Accelerator pedal ka kya upyog hai?",
+      "options": {
+        "A": "Forklift ko rokne ke liye",
+        "B": "Forklift ki speed badhane ke liye",
+        "C": "Horn bajane ke liye",
+        "D": "Load uthane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Accelerator pedal engine ya motor ko power supply badhata hai, jisse forklift ki speed badhti hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Forklift mein 'dead man's switch' ka kya purpose hai?",
+      "options": {
+        "A": "Emergency mein forklift ko tez chalana",
+        "B": "Operator seat se utarte hi forklift ko band kar dena",
+        "C": "Horn bajane ke liye",
+        "D": "Load ko automatically uthana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dead man's switch ek safety feature hai jo operator ke seat chhodte hi ya control release karte hi forklift ko automatically band kar deta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Parking brake kab lagana chahiye?",
+      "options": {
+        "A": "Jab forklift chal raha ho",
+        "B": "Jab forklift park kiya ho ya operator usse utar raha ho",
+        "C": "Jab load uthaya ja raha ho",
+        "D": "Sirf emergency mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Parking brake ko hamesha lagana chahiye jab forklift park kiya ho ya operator usse utar raha ho taaki woh khud se move na kare."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Forklift ke tires kis tarah ke hote hain?",
+      "options": {
+        "A": "Hamesha air-filled pneumatic tires",
+        "B": "Solid rubber ya pneumatic tires",
+        "C": "Sirf plastic tires",
+        "D": "Cycle ke tires jaise"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Forklifts mein solid rubber (puncture-proof) ya air-filled pneumatic tires use hote hain, depend karta hai use aur terrain par."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Reverse horn ya beeper kyu zaroori hai?",
+      "options": {
+        "A": "Operator ka dhyan rakhne ke liye",
+        "B": "Peeche chal rahe logon ko alert karne ke liye",
+        "C": "Forklift ko tez chalane ke liye",
+        "D": "Sirf raat mein use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Reverse horn peeche chal rahe logon aur dusre vehicles ko alert karta hai ki forklift peeche ja raha hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Battery indicator ka kya importance hai electric forklift mein?",
+      "options": {
+        "A": "Engine oil level batana",
+        "B": "Battery ke charge level ko dikhana",
+        "C": "Fuel level dikhana",
+        "D": "Tire pressure batana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Battery indicator electric forklift mein remaining battery charge ko dikhata hai, taaki operator ko pata chale kab charge karna hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "What is the function of the load backrest on a forklift?",
+      "options": {
+        "A": "Operator ko support dena",
+        "B": "Load ko peeche girne se rokna",
+        "C": "Mast ko support dena",
+        "D": "Forks ko stable rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Load backrest ek safety feature hai jo load ko mast ki taraf girne se rokta hai, khaaskar jab load uncha uthaya gaya ho."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Forklift chalate samay kaun sa Personal Protective Equipment (PPE) hamesha pehna chahiye?",
+      "options": {
+        "A": "Safety goggles aur gloves",
+        "B": "Helmet aur safety shoes",
+        "C": "High-visibility jacket",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Forklift chalate samay helmet, safety shoes, high-visibility jacket, aur zaroorat padne par safety goggles aur gloves bhi pehna zaroori hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Load capacity chart ka kya upyog hai?",
+      "options": {
+        "A": "Forklift ki speed batana",
+        "B": "Maximum weight jo forklift safely utha sakta hai, uski jankari dena",
+        "C": "Fuel consumption batana",
+        "D": "Battery life dikhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Load capacity chart har forklift ke liye specify karta hai ki woh kitna maximum weight, kitni height tak aur kitne load centre par safely utha sakta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Forklift ka 'stability triangle' kya darshata hai?",
+      "options": {
+        "A": "Forklift ka size",
+        "B": "Forklift ki kitni stability hai",
+        "C": "Forklift kitne tez corners le sakta hai",
+        "D": "Forklift kitne pahad chadh sakta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stability triangle ek imaginary area hai jo forklift ki stability ko define karta hai. Iske bahar load jaane par forklift palat sakta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Pedestrians (paidal chalne wale log) ki safety ke liye kya karna chahiye?",
+      "options": {
+        "A": "Unhe ignore karna",
+        "B": "Hamesha horn bajana aur unse safe distance maintain karna",
+        "C": "Tez drive karna taaki woh raaste se hat jaayen",
+        "D": "Unhe load uthane mein help karne ke liye kehna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pedestrians ki safety sabse upar hai. Hamesha horn bajaye, unse safe distance rakhen aur unhe right-of-way den."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Hazard identification se kya matlab hai?",
+      "options": {
+        "A": "Naye products ko pehchanana",
+        "B": "Kaam ki jagah par khatron ko pehchanana",
+        "C": "Dusre operators ko pehchanana",
+        "D": "Forklift ke parts ko pehchanana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hazard identification ka matlab hai kaam ki jagah par aise potential khatron ko pehchanana jo injury ya damage ka karan ban sakte hain."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Agar forklift par fuel leak ho raha hai, toh pehla step kya hona chahiye?",
+      "options": {
+        "A": "Forklift ko chalate rehna",
+        "B": "Ignition band karna aur leak ko report karna",
+        "C": "Paani daal kar leak rokna",
+        "D": "Leak ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fuel leak aag aur explosion ka khatra hai. Turant ignition band karein aur leak ko supervisor ko report karein."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Warehouse mein speed limits kyu zaroori hain?",
+      "options": {
+        "A": "Sirf naye operators ke liye",
+        "B": "Fuel bachane ke liye",
+        "C": "Accidents ko rokne aur control maintain karne ke liye",
+        "D": "Saman jaldi deliver karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Speed limits accidents ko rokne, pedestrians aur dusre equipment ke saath takkar se bachne ke liye zaroori hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Agar aapko koi defected forklift dikhe, toh kya karein?",
+      "options": {
+        "A": "Usko use karte rahein",
+        "B": "Supervisor ko turant report karein aur use use na karein",
+        "C": "Khud theek karne ki koshish karein",
+        "D": "Usko chhupa dein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Defected equipment ko use karna khatarnak ho sakta hai. Turant report karein aur use tab tak use na karein jab tak woh theek na ho jaaye."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Ramps par forklift chalate samay kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Tez speed se upar chadhna",
+        "B": "Load hamesha upar ki taraf hona chahiye, chahe upar ja rahe ho ya neeche",
+        "C": "Load hamesha neeche ki taraf hona chahiye",
+        "D": "Ramp par turn lena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ramp par chalte samay load hamesha uphill (upar ki taraf) hona chahiye, taaki stability bani rahe aur load girne ka khatra kam ho."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Forklift parking ke liye sahi jagah kaunsi hai?",
+      "options": {
+        "A": "Kisi bhi aisle ke beech mein",
+        "B": "Emergency exit ke saamne",
+        "C": "Designated parking area mein, forks neeche aur parking brake laga kar",
+        "D": "Loading dock par"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Forklift ko hamesha designated parking area mein, forks zameen par neeche karke aur parking brake laga kar park karna chahiye."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Agar aapki vision block ho rahi hai load ki wajah se, toh kya karna chahiye?",
+      "options": {
+        "A": "Blindly aage badhna",
+        "B": "Kisi aur operator ko help ke liye bulana ya reverse mein chalana",
+        "C": "Load ko chhod dena",
+        "D": "Tez speed se chalna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar vision block ho rahi hai, toh reverse mein chalayein ya kisi spotter ki help lein taaki accidents se bacha ja sake."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Warehouse mein 'no-go' zones kyu banaye jaate hain?",
+      "options": {
+        "A": "Wahan saman store karne ke liye",
+        "B": "High-risk areas ko mark karne ke liye jahan forklifts ko nahi jaana chahiye",
+        "C": "Rest areas ke liye",
+        "D": "Office areas ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "No-go zones aise areas hote hain jahan forklifts ko enter karne ki permission nahi hoti, typically high pedestrian traffic ya sensitive equipment areas."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Overhead power lines ke paas kaam karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Jitna ho sake unke kareeb jaana",
+        "B": "Hamesha unse safe distance maintain karna",
+        "C": "Unko ignore karna",
+        "D": "Unko touch karke check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overhead power lines se hamesha safe distance maintain karein kyunki unse current lagne ka khatra hota hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "What is the primary danger when operating a forklift on an uneven surface?",
+      "options": {
+        "A": "Fuel zyada consume hoga",
+        "B": "Tires jaldi ghisenge",
+        "C": "Forklift ke palatne ka khatra",
+        "D": "Load uthana mushkil hoga"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Uneven surfaces par forklift ki stability kam ho jaati hai, jisse palatne ka khatra badh jaata hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Agar forklift ke brakes fail ho jaayen toh kya karna chahiye?",
+      "options": {
+        "A": "Emergency brake ka use karna",
+        "B": "Forklift se kud jaana",
+        "C": "Kisi cheez se takra kar rokne ki koshish karna",
+        "D": "Tez speed se chalate rehna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Agar service brakes fail ho jaayen, toh emergency brake ka use karein aur turant supervisor ko report karein."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Indian factory act ke hisab se forklift operator ke liye training kyu zaroori hai?",
+      "options": {
+        "A": "Sirf acche dikhne ke liye",
+        "B": "Worker ki safety aur efficient operation ensure karne ke liye",
+        "C": "Company ka paisa bachane ke liye",
+        "D": "Naye forklifts chalane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Indian factory act ke तहत, forklift operators ko proper training aur certification milna zaroori hai taaki woh safely aur efficiently kaam kar sakein."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Agar koi load unstable dikhe toh kya karna chahiye?",
+      "options": {
+        "A": "Usko uthane ki koshish karna",
+        "B": "Usko stable karne ki koshish karna ya help ke liye bulana",
+        "C": "Usko ignore karna",
+        "D": "Usko jaldi se utha kar rakh dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Unstable load ko uthana bahut khatarnak ho sakta hai. Usko stable karne ki koshish karein ya help ke liye supervisor ko bulayein."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Pre-operation check mein battery ka kya check karna chahiye?",
+      "options": {
+        "A": "Sirf uska color",
+        "B": "Charge level, connections aur koi damage",
+        "C": "Uska size",
+        "D": "Woh kitni garam hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Battery ka charge level, terminals ke connections aur koi physical damage pre-operation check mein zaroori hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Engine oil level kab check karna chahiye?",
+      "options": {
+        "A": "Hafte mein ek baar",
+        "B": "Har din, forklift start karne se pehle",
+        "C": "Jab engine garam ho",
+        "D": "Jab forklift chal raha ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Engine oil level ko hamesha thande engine mein, daily pre-operation check ke dauran check karna chahiye."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Tires ka kya check karna chahiye pre-operation check mein?",
+      "options": {
+        "A": "Sirf unka color",
+        "B": "Pressure, cuts, ya koi damage",
+        "C": "Woh kitne naye hain",
+        "D": "Unka brand name"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tires ka sahi pressure, aur unpar koi cuts, punctures ya excessive wear toh nahi hai, yeh check karna zaroori hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Brakes ka function kaise check karte hain?",
+      "options": {
+        "A": "Sirf parking brake laga kar",
+        "B": "Slow speed par forklift chala kar aur service brakes apply karke",
+        "C": "Unko ignore karke",
+        "D": "Unpar paani daal kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Brakes ko slow speed par forklift chala kar check karna chahiye ki woh smoothly aur effectively kaam kar rahe hain ya nahi."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Horn aur lights ka check kyu zaroori hai?",
+      "options": {
+        "A": "Sirf decoration ke liye",
+        "B": "Safety aur communication ke liye",
+        "C": "Fuel bachane ke liye",
+        "D": "Forklift ko tez chalane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Horn aur lights dusre logon ko alert karne aur visibility provide karne ke liye zaroori hain, khaaskar kam roshni mein."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Hydraulic fluid level kab check karna chahiye?",
+      "options": {
+        "A": "Hafte mein ek baar",
+        "B": "Daily, forklift start karne se pehle",
+        "C": "Jab forks upar uthe hon",
+        "D": "Jab hydraulic system garam ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hydraulic fluid level ko bhi daily pre-operation check mein, forks neeche karke aur engine band hone par check karna chahiye."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Agar pre-operation check mein koi defect mile, toh kya karein?",
+      "options": {
+        "A": "Usko ignore karke kaam karte rehna",
+        "B": "Usko turant supervisor ko report karna aur forklift ko operate na karna",
+        "C": "Khud theek karne ki koshish karna",
+        "D": "Kisi aur ko use karne dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Koi bhi defect milne par, turant supervisor ko report karein aur forklift ko tab tak operate na karein jab tak woh theek na ho jaaye."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Seatbelt ka kya importance hai forklift mein?",
+      "options": {
+        "A": "Sirf comfort ke liye",
+        "B": "Accident hone par operator ko forklift ke andar rakhne ke liye",
+        "C": "Load ko stable rakhne ke liye",
+        "D": "Forklift ko balance karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Seatbelt operator ko forklift ke palatne ya takrane ki sthiti mein uske andar surakshit rakhta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Battery charging area mein kya precaution leni chahiye?",
+      "options": {
+        "A": "Smoking karna",
+        "B": "Proper ventilation aur aag ke sources se dur rehna",
+        "C": "Paani floor par girana",
+        "D": "Charger ko khule mein chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery charging ke dauran hydrogen gas release hoti hai jo explosive hoti hai, isliye proper ventilation aur aag ke sources se dur rehna zaroori hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "LPG forklift mein gas cylinder ka kya check karna chahiye?",
+      "options": {
+        "A": "Sirf uska color",
+        "B": "Leakage ke signs, proper fitting aur damage",
+        "C": "Uski weight",
+        "D": "Uska brand"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LPG cylinder mein leakage, connections ki tightness aur koi physical damage daily check karna chahiye."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Coolant level kab check karna chahiye?",
+      "options": {
+        "A": "Jab engine garam ho",
+        "B": "Jab engine thanda ho",
+        "C": "Hafte mein ek baar",
+        "D": "Sirf garmiyon mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Coolant level ko hamesha thande engine mein check karna chahiye taaki sahi reading mile aur jalne ka khatra na ho."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Mast aur forks mein kya check karna chahiye?",
+      "options": {
+        "A": "Sirf unka polish",
+        "B": "Koi cracks, bends, ya excessive wear",
+        "C": "Woh kitne chamak rahe hain",
+        "D": "Unka material"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mast aur forks mein cracks, bends, ya excessive wear ke signs check karna zaroori hai kyunki yeh load handling ko affect kar sakte hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Routine maintenance schedule kyu follow karna chahiye?",
+      "options": {
+        "A": "Sirf time waste karne ke liye",
+        "B": "Forklift ki life badhane aur breakdowns ko rokne ke liye",
+        "C": "Naye parts lagane ke liye",
+        "D": "Operator ko busy rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Routine maintenance forklift ki efficiency, safety aur life ko badhata hai aur unexpected breakdowns ko kam karta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Agar steering mein koi dikkat mehsoos ho, toh kya karein?",
+      "options": {
+        "A": "Usko ignore karke chalate rehna",
+        "B": "Turant report karna aur forklift ko use na karna",
+        "C": "Steering wheel ko zor se ghumana",
+        "D": "Thoda sa oil daal dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Steering mein koi bhi problem safety ke liye khatarnak ho sakti hai. Turant report karein aur forklift ko use na karein."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Daily logbook mein kya record karna chahiye?",
+      "options": {
+        "A": "Sirf operator ka naam",
+        "B": "Forklift number, operator ka naam, hour meter reading, aur koi bhi defect ya maintenance",
+        "C": "Aaj ka weather",
+        "D": "Kitna saman uthaya"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Daily logbook mein detailed entries rakhna zaroori hai taaki forklift ki history, maintenance aur operational status track kiya ja sake."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Overhead guard mein koi damage hone par kya karein?",
+      "options": {
+        "A": "Usko ignore karna",
+        "B": "Supervisor ko report karna aur forklift ko operate na karna",
+        "C": "Khud repair karne ki koshish karna",
+        "D": "Uspe paint kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overhead guard ek crucial safety feature hai. Damage hone par turant report karein aur forklift ko operate na karein."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Pre-operation check kitni der tak chalna chahiye?",
+      "options": {
+        "A": "Sirf 1 minute",
+        "B": "Jab tak saare required items check na ho jaayen, typically 5-10 minutes",
+        "C": "Aadha ghanta",
+        "D": "Jab mood ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pre-operation check mein har zaroori item ko dhyan se check karna chahiye, ismein 5-10 minute lag sakte hain."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Load uthate samay forks ko kaise position karna chahiye?",
+      "options": {
+        "A": "Sirf ek fork andar daalna",
+        "B": "Dono forks ko load ke center mein aur pallet ke andar poora daalna",
+        "C": "Forks ko aadha andar daalna",
+        "D": "Forks ko load ke niche rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Load ko uthane se pehle, forks ko load ke center mein aur pallet ke andar poora daalna chahiye taaki load stable rahe."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Load uthane ke baad kya karna chahiye?",
+      "options": {
+        "A": "Load ko uncha uthaye rakhna",
+        "B": "Load ko thoda sa uthakar, mast ko peeche tilt karna aur forks ko neeche rakhna",
+        "C": "Load ko jhatke se uthana",
+        "D": "Tez speed se chalna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Load uthane ke baad, usko zameen se thoda upar uthayein, mast ko peeche tilt karein (back-tilt) aur forks ko travel position par rakhein taaki load stable rahe."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Load ke saath chalte samay forks ki height kitni honi chahiye?",
+      "options": {
+        "A": "Jitni unchi ho sake",
+        "B": "Zameen se 6-10 inches (15-25 cm) upar",
+        "C": "Zameen par ghasit te hue",
+        "D": "Sirf 1 inch upar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Load ke saath chalte samay forks ko zameen se 6-10 inches upar rakhna chahiye taaki uneven surfaces par takraye nahi aur visibility bani rahe."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Blind corners par kya precaution leni chahiye?",
+      "options": {
+        "A": "Tez speed se turn lena",
+        "B": "Horn bajana aur slow speed se turn lena",
+        "C": "Turn lete samay accelerator dabana",
+        "D": "Apni aankhen band kar lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Blind corners par hamesha horn bajana aur slow speed se turn lena chahiye taaki dusre pedestrians ya vehicles ko alert kiya ja sake."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Agar load bahut bada ho aur aage ki vision block kar raha ho, toh kaise drive karein?",
+      "options": {
+        "A": "Aage ki taraf drive karte rehna",
+        "B": "Peeche ki taraf drive karna (reverse) ya spotter ki help lena",
+        "C": "Load ko chhod dena",
+        "D": "Tez speed se chalna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar load vision block kar raha ho, toh peeche ki taraf drive karein (reverse) ya kisi spotter (helper) ki madad lein taaki accidents se bacha ja sake."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Staking (saman jama karna) karte samay kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Saman ko jaisa mann kare waisa rakhna",
+        "B": "Stable aur evenly distributed stack banana",
+        "C": "Saman ko ek taraf jhuka kar rakhna",
+        "D": "Jitna ho sake utna uncha stack banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Saman ko stack karte samay hamesha yeh ensure karein ki stack stable, evenly distributed aur load capacity ke andar ho."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "De-stacking (saman utarne) karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Sabse upar wala saman pehle uthana",
+        "B": "Stack ko carefuly examine karna aur sirf stable loads uthana",
+        "C": "Stack ko jhatke se hilana",
+        "D": "Kisi bhi saman ko utha lena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "De-stacking se pehle stack ko check karein. Sirf stable loads ko uthayein aur stack ki stability ko disturb na karein."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Ramps par neeche utarte samay kya karna chahiye?",
+      "options": {
+        "A": "Engine band kar dena",
+        "B": "Free-wheel karna (clutch chhod kar)",
+        "C": "Slow speed par, engine engaged rakhte hue neeche utarna",
+        "D": "Tez speed se neeche utarna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ramps par neeche utarte samay slow speed par, engine engaged rakhte hue utarna chahiye taaki control bana rahe aur brakes par zyada load na pade."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar forklift ka ek wheel pothole mein chala jaaye toh kya karein?",
+      "options": {
+        "A": "Tez speed se nikalne ki koshish karna",
+        "B": "Load ko neeche karna aur slowly nikalne ki koshish karna",
+        "C": "Forklift se kud jaana",
+        "D": "Steering ko zor se ghumana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pothole mein phase hone par, load ko neeche karein taaki stability badhe, aur phir slowly aur carefully nikalne ki koshish karein."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Forklift ko turn karte samay kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Load ki height ko ignore karna",
+        "B": "Hamesha slow speed par turn lena aur steering wheel smoothly ghumana",
+        "C": "Tez speed se turn lena",
+        "D": "Brakes lagate hue turn lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Turn karte samay slow speed maintain karein aur steering wheel ko smoothly ghumayein taaki forklift unstable na ho."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Load ko uthane se pehle 'load center' kyu check karna chahiye?",
+      "options": {
+        "A": "Sirf aesthetics ke liye",
+        "B": "Load ki stability aur forklift ki capacity ko ensure karne ke liye",
+        "C": "Load kitna purana hai, yeh janne ke liye",
+        "D": "Load ka color check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Load center load ki stability aur forklift ki capacity par direct impact dalta hai. Sahi load center par load uthana zaroori hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Agar load uneven ho toh kya karein?",
+      "options": {
+        "A": "Usko uthane se mana kar dena",
+        "B": "Usko evenly distribute karne ki koshish karna ya help lena",
+        "C": "Usko ek taraf jhuka kar uthana",
+        "D": "Usko jaldi se uthana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Uneven load forklift ki stability ko kam kar sakta hai. Usko evenly distribute karne ki koshish karein ya help ke liye supervisor ko bulayein."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Narrow aisles mein forklift chalate samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Tez speed se chalna",
+        "B": "Extra careful rehna, slow speed maintain karna aur horn ka use karna",
+        "C": "Lights band kar dena",
+        "D": "Load ko uncha uthana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Narrow aisles mein accidents ka khatra zyada hota hai, isliye extra careful rehna, slow speed aur horn ka use karna zaroori hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar forklift ka load gir jaaye toh kya karna chahiye?",
+      "options": {
+        "A": "Jaldi se uthane ki koshish karna",
+        "B": "Area ko secure karna, supervisor ko report karna aur help ka wait karna",
+        "C": "Kisi ko bataye bina chhod dena",
+        "D": "Dusre operators ko blame karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Load girne par, area ko secure karein, supervisor ko report karein aur tab tak wait karein jab tak help na aa jaaye."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Forklift ko rokne ka sahi tareeka kya hai?",
+      "options": {
+        "A": "Jhatke se brakes lagana",
+        "B": "Smoothly accelerator chhodna aur service brakes apply karna",
+        "C": "Deewar se takrana",
+        "D": "Gear ko reverse kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Forklift ko smoothly rokna chahiye taaki load stable rahe aur operator ko koi jhatka na lage."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Jab forklift park kiya ho, toh forks ko kis position mein rakhna chahiye?",
+      "options": {
+        "A": "Hamesha upar utha kar",
+        "B": "Zameen par neeche karke",
+        "C": "Aadha upar, aadha neeche",
+        "D": "Side mein karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Forks ko hamesha zameen par neeche karke park karna chahiye taaki koi unse takra kar gir na jaaye."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Warehouse mein 'LIFO' ka kya matlab hai?",
+      "options": {
+        "A": "Last In, First Out",
+        "B": "Light Inventory, Fast Order",
+        "C": "Lift It, Find It, Order",
+        "D": "Long Item, Flat Out"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "LIFO (Last In, First Out) ek inventory management method hai jahan sabse last mein aaya hua saman pehle nikala jaata hai, jo non-perishable goods ke liye use hota hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Inventory accuracy kyu important hai warehouse mein?",
+      "options": {
+        "A": "Sirf paper work badhane ke liye",
+        "B": "Customer satisfaction, efficient operations aur stock management ke liye",
+        "C": "Staff ko busy rakhne ke liye",
+        "D": "Light bill kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Accurate inventory se customer satisfaction badhti hai, operations smooth hote hain aur stockouts ya overstocking se bacha ja sakta hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Dock plate (bridge plate) ka kya upyog hai?",
+      "options": {
+        "A": "Forklift ko park karne ke liye",
+        "B": "Loading dock aur truck ke beech ek safe bridge banana",
+        "C": "Saman ko store karne ke liye",
+        "D": "Forklift ko wash karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dock plate loading dock aur truck/trailer ke beech gap ko cover karta hai, jisse forklifts safely move kar sakte hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Trailer ko load ya unload karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Trailer ko bina check kiye load karna",
+        "B": "Trailer brakes engaged hon aur wheel chocks lage hon, yeh ensure karna",
+        "C": "Trailer ko hamesha unhooked chhod dena",
+        "D": "Tez speed se andar jaana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Trailer ko load/unload karte samay yeh ensure karein ki trailer ke brakes lage hon aur wheel chocks use kiye gaye hon taaki woh move na kare."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Warehouse mein communication ke liye kya methods use hote hain?",
+      "options": {
+        "A": "Sirf chillana",
+        "B": "Hand signals, radio, ya predefined horn signals",
+        "C": "Whatsapp messages",
+        "D": "Invisible signals"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Effective communication ke liye hand signals, radio ya predefined horn signals ka use kiya jaata hai, khaaskar noisy environments mein."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Agar aapko koi spill dikhe toh kya karna chahiye?",
+      "options": {
+        "A": "Usko ignore karna",
+        "B": "Turant report karna aur spill ko clean karne mein help karna (agar safe ho)",
+        "C": "Usko dusre operators par chhod dena",
+        "D": "Usko paani se dhona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spills accidents ka karan ban sakte hain. Turant report karein aur agar training mili ho toh safely clean karein."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Forklift operator ki efficiency kaise improve ki ja sakti hai?",
+      "options": {
+        "A": "Tez speed se drive karke",
+        "B": "Proper training, safe operating practices aur regular maintenance se",
+        "C": "Zyada breaks le kar",
+        "D": "Sirf heavy loads utha kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper training, safe practices aur regular maintenance se forklift operator ki efficiency aur productivity badhti hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Racks par saman rakhte samay 'clearance' kyu zaroori hai?",
+      "options": {
+        "A": "Sirf space banane ke liye",
+        "B": "Forklift aur load ko racks se takrane se bachane ke liye",
+        "C": "Saman ko zyada khubsoorat dikhane ke liye",
+        "D": "Dust jamne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper clearance se forklifts aur loads racks se takrate nahi hain, jisse damage aur accidents se bacha ja sakta hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Warehouse mein 'zone picking' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf ek hi jagah se saman uthana",
+        "B": "Warehouse ko alag-alag zones mein divide karna aur har operator ko ek zone assign karna",
+        "C": "Pure warehouse se saman uthana",
+        "D": "Sirf bade saman uthana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Zone picking mein warehouse ko alag-alag zones mein divide kiya jaata hai, aur har operator apne assigned zone se order pick karta hai, jisse efficiency badhti hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Forklift chalate samay distractions (jaise mobile phone) kyu avoid karna chahiye?",
+      "options": {
+        "A": "Sirf boss ko khush karne ke liye",
+        "B": "Accidents ke khatre ko kam karne aur complete concentration maintain karne ke liye",
+        "C": "Fuel bachane ke liye",
+        "D": "Dusre operators ko impress karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Distractions se operator ka dhyan bhatakta hai aur accidents ka khatra badh jaata hai. Hamesha complete concentration se kaam karein."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Agar aapko koi abnormal noise ya vibration mehsoos ho toh kya karein?",
+      "options": {
+        "A": "Usko ignore karna",
+        "B": "Turant forklift ko band karna aur supervisor ko report karna",
+        "C": "Radio ki awaaz badha dena",
+        "D": "Tez speed se chalate rehna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Abnormal noise ya vibration kisi serious mechanical problem ka sign ho sakta hai. Turant forklift ko band karein aur report karein."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Warehouse mein 'cross-docking' ka kya matlab hai?",
+      "options": {
+        "A": "Saman ko ek dock se dusre dock par le jaana",
+        "B": "Saman ko bina storage ke seedhe incoming truck se outgoing truck mein transfer karna",
+        "C": "Saman ko warehouse mein store karna",
+        "D": "Sirf international shipments handle karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cross-docking ek logistics strategy hai jahan products ko warehouse mein store kiye bina seedhe incoming se outgoing transportation mein transfer kiya jaata hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Forklift ki 'turning radius' se kya matlab hai?",
+      "options": {
+        "A": "Woh kitni speed se turn le sakta hai",
+        "B": "Minimum space jismein forklift poora turn le sakta hai",
+        "C": "Forklift ka total weight",
+        "D": "Forks ki lambai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Turning radius woh minimum space hai jo forklift ko poora turn lene ke liye chahiye, jo narrow aisles mein important hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Agar forklift over-heated ho jaaye toh kya karein?",
+      "options": {
+        "A": "Usko chalate rehna",
+        "B": "Turant band karna aur thanda hone dena, phir report karna",
+        "C": "Paani dalna",
+        "D": "Engine oil check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Overheating engine damage kar sakti hai. Turant band karein, thanda hone dein, aur phir supervisor ko report karein."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Warehouse mein 'pick path optimization' kyu zaroori hai?",
+      "options": {
+        "A": "Sirf operators ko confuse karne ke liye",
+        "B": "Time aur effort kam karne ke liye jab saman pick kar rahe ho",
+        "C": "Zyada saman store karne ke liye",
+        "D": "Forklift ko tez chalane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pick path optimization se operators kam se kam distance travel karke zyada se zyada orders pick kar sakte hain, jisse efficiency badhti hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek forklift operator ko hamesha kya karna chahiye?",
+      "options": {
+        "A": "Sirf apne kaam par dhyan dena",
+        "B": "Hamesha safety rules follow karna aur surroundings par dhyan dena",
+        "C": "Sabse tez drive karna",
+        "D": "Dusre operators se competition karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek responsible forklift operator hamesha safety rules follow karta hai aur apne surroundings par dhyan deta hai taaki sabhi surakshit rahein."
+    }
+  ]
+}

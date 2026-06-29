@@ -1,0 +1,1443 @@
+{
+  "course_name": "CCTV Monitoring & Control Room Operator",
+  "sector": "Security & Facility Management",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to CCTV & Security Fundamentals",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "CCTV System Components & Types",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "CCTV Operation & Monitoring Techniques",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Incident Management & Emergency Procedures",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Data Management, Recording & Legal Aspects",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Maintenance, Troubleshooting & Professional Conduct",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "CCTV ka full form kya hai?",
+      "options": {
+        "A": "Closed-Circuit Television",
+        "B": "Central Control Television",
+        "C": "Common Circuit Television",
+        "D": "Connected Camera Television"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CCTV ka full form Closed-Circuit Television hota hai, jo ek private video system hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "CCTV system ka primary purpose kya hai?",
+      "options": {
+        "A": "Entertainment provide karna",
+        "B": "Security aur surveillance karna",
+        "C": "Weather forecast batana",
+        "D": "Music play karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV system ka mukhya uddeshya security aur surveillance provide karna hai, jisse areas ko monitor kiya ja sake."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ek CCTV operator ki mukhya zimmedari kya hai?",
+      "options": {
+        "A": "Internet browsing karna",
+        "B": "CCTV monitors par nazar rakhna aur incidents report karna",
+        "C": "Coffee break lena",
+        "D": "Personal calls karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV operator ka primary role monitors ko continuously observe karna aur kisi bhi suspicious activity ya incident ko report karna hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Security ke liye CCTV kahan sabse zyada use hota hai?",
+      "options": {
+        "A": "Public places, banks, malls",
+        "B": "Private homes only",
+        "C": "Farms and fields",
+        "D": "Schools only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CCTV ka upyog public places, banks, malls, hospitals aur offices jaise jagahon par security ke liye sabse zyada hota hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek CCTV operator ke liye kaun si quality sabse important hai?",
+      "options": {
+        "A": "Fast typing speed",
+        "B": "Sharp observation skills",
+        "C": "Good singing voice",
+        "D": "Cooking skills"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek CCTV operator ko sharp observation skills ki zaroorat hoti hai taaki woh screens par hone wali choti se choti activity ko bhi notice kar sake."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "CCTV footage ko kiske liye evidence ke roop mein use kiya ja sakta hai?",
+      "options": {
+        "A": "Weather reports",
+        "B": "Criminal investigations",
+        "C": "Cooking shows",
+        "D": "Fashion trends"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV footage ko criminal investigations aur court proceedings mein important evidence ke roop mein use kiya ja sakta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Surveillance ka kya matlab hai?",
+      "options": {
+        "A": "Kisi ko chupke se dekhna ya monitor karna",
+        "B": "Kisi ke saath baat karna",
+        "C": "Kisi ko gaana sunana",
+        "D": "Kisi ko khana khilana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Surveillance ka matlab hai kisi area ya person ko continuous monitor karna, aksar security reasons ke liye."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Ek CCTV operator ko apni shift mein kya avoid karna chahiye?",
+      "options": {
+        "A": "Alert rehna",
+        "B": "Screen par dhyan dena",
+        "C": "Personal phone use aur distraction",
+        "D": "Incident report karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "CCTV operator ko apni shift ke dauran personal phone use aur kisi bhi tarah ke distraction se bachna chahiye taaki woh apne kaam par focus kar sake."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "CCTV monitoring mein 'situational awareness' ka kya importance hai?",
+      "options": {
+        "A": "Iska koi importance nahi hai",
+        "B": "Aas-paas ke mahol ko samajhna aur potential threats ko pehchanna",
+        "C": "Sirf ek screen par focus karna",
+        "D": "Video games khelna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Situational awareness ka matlab hai aas-paas ke mahol ko achhe se samajhna aur potential threats ya unusual activities ko pehchanne ki kshamta."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "CCTV footage ki confidentiality maintain karna kyon zaroori hai?",
+      "options": {
+        "A": "Taaki koi bhi use dekh sake",
+        "B": "Individuals ki privacy protect karne aur misuse rokne ke liye",
+        "C": "Sirf entertainment ke liye",
+        "D": "Iska koi reason nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Footage ki confidentiality maintain karna zaroori hai taaki individuals ki privacy protect ho aur footage ka koi misuse na ho."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek effective CCTV monitoring system mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf ek camera",
+        "B": "Cameras, recording device, monitors aur trained operator",
+        "C": "Sirf ek TV",
+        "D": "Bina recording ke cameras"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek effective CCTV system mein high-quality cameras, ek reliable recording device (DVR/NVR), clear monitors aur ek trained operator shamil hote hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "CCTV operator ke liye communication skills kyon important hain?",
+      "options": {
+        "A": "Sirf chatting ke liye",
+        "B": "Incidents ko sahi tarike se report karne aur emergency services se coordinate karne ke liye",
+        "C": "News padhne ke liye",
+        "D": "Songs sunne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Achhi communication skills zaroori hain taaki operator incidents ko clear aur concise tarike se report kar sake aur emergency services se effectively coordinate kar sake."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Kisi suspicious activity ko dekhte hi CCTV operator ka first action kya hona chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Turant apne supervisor ko inform karna",
+        "C": "Khud investigation shuru karna",
+        "D": "Video delete karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi suspicious activity ko dekhte hi, operator ko turant apne supervisor ya control room manager ko inform karna chahiye."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "CCTV operator ko kis tarah ki information ko confidential rakhna chahiye?",
+      "options": {
+        "A": "Apni personal information",
+        "B": "Monitoring ke dauran mili sabhi sensitive information",
+        "C": "Publicly available information",
+        "D": "Weather updates"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Operator ko monitoring ke dauran mili sabhi sensitive information, jaise footage details, incident reports, aur personal data ko confidential rakhna chahiye."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek CCTV operator ko 'blind spots' ke baare mein pata hona kyon zaroori hai?",
+      "options": {
+        "A": "Taaki wahan cameras na lagaye jayein",
+        "B": "Ye areas hain jahan cameras ki reach nahi hoti aur criminal activity ho sakti hai",
+        "C": "Ye sirf aesthetic purpose ke liye hote hain",
+        "D": "Ye lighting ke liye hote hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Blind spots woh areas hote hain jahan cameras ki reach nahi hoti aur criminals in spots ka fayda utha sakte hain, isliye inki jaankari hona zaroori hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "CCTV monitoring mein data privacy laws ka palan karna kyon important hai?",
+      "options": {
+        "A": "Ye sirf guidelines hain, compulsory nahi",
+        "B": "Individuals ke rights protect karne aur legal issues se bachne ke liye",
+        "C": "Isse system slow ho jata hai",
+        "D": "Isse koi fark nahi padta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Data privacy laws ka palan karna zaroori hai taaki individuals ke rights protect hon aur organization ko legal repercussions se bachaya ja sake."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "CCTV operator ke liye physical aur mental alertness kyon zaroori hai?",
+      "options": {
+        "A": "Sirf body-building ke liye",
+        "B": "Lambe samay tak focus maintain karne aur critical situations mein quick response dene ke liye",
+        "C": "Neend puri karne ke liye",
+        "D": "Video games khelne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Physical aur mental alertness zaroori hai taaki operator lambe samay tak focus maintain kar sake aur critical situations mein turant aur sahi action le sake."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Ek typical CCTV system mein kaun se main components hote hain?",
+      "options": {
+        "A": "Washing machine, refrigerator, microwave",
+        "B": "Cameras, DVR/NVR, Monitors, Cables",
+        "C": "Television, radio, speaker",
+        "D": "Printer, scanner, copier"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV system ke main components mein cameras (jo video capture karte hain), DVR/NVR (jo video record karte hain), monitors (jo video display karte hain) aur cables (jo components ko connect karte hain) shamil hote hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "DVR ka full form kya hai?",
+      "options": {
+        "A": "Digital Video Recorder",
+        "B": "Data Video Reader",
+        "C": "Direct Video Relay",
+        "D": "Dynamic Video Recording"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DVR ka full form Digital Video Recorder hai, jo analog CCTV cameras se video footage record karta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "IP camera ka kya matlab hai?",
+      "options": {
+        "A": "Internet Protocol camera",
+        "B": "Image Processing camera",
+        "C": "Internal Power camera",
+        "D": "Infrared Pixel camera"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "IP camera ka matlab Internet Protocol camera hai, jo network par data transmit karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Analog cameras ko record karne ke liye kis device ki zaroorat hoti hai?",
+      "options": {
+        "A": "NVR",
+        "B": "DVR",
+        "C": "Computer",
+        "D": "Smartphone"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Analog cameras se aane wale video signals ko record karne ke liye Digital Video Recorder (DVR) ka upyog hota hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "NVR ka full form kya hai?",
+      "options": {
+        "A": "Network Video Recorder",
+        "B": "New Video Relay",
+        "C": "Night Vision Recorder",
+        "D": "Normal Video Receiver"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "NVR ka full form Network Video Recorder hai, jo IP cameras se aane wale digital video streams ko record karta hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Kis type ka camera 360-degree rotation, tilt aur zoom kar sakta hai?",
+      "options": {
+        "A": "Bullet camera",
+        "B": "Dome camera",
+        "C": "PTZ camera",
+        "D": "Fixed camera"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "PTZ ka matlab Pan-Tilt-Zoom hai, aur ye cameras remote control se horizontally (pan), vertically (tilt) aur zoom adjust kiye ja sakte hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Infrared (IR) functionality kyon important hai CCTV cameras mein?",
+      "options": {
+        "A": "Din mein colour footage ke liye",
+        "B": "Raat mein ya kam roshni mein dekhne ke liye",
+        "C": "Audio record karne ke liye",
+        "D": "Weather forecast ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Infrared (IR) LEDs cameras ko raat mein ya bahut kam roshni wali jagahon par bhi clear black & white footage capture karne mein help karte hain."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "CCTV system mein 'resolution' ka kya matlab hai?",
+      "options": {
+        "A": "Camera ka size",
+        "B": "Image ki clarity aur detail",
+        "C": "Recording speed",
+        "D": "Cable ki lambai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Resolution image ki clarity aur detail ko refer karta hai. Higher resolution ka matlab hai zyada clear aur detailed image."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Dome camera typically kis liye use hota hai?",
+      "options": {
+        "A": "Outdoor long-range surveillance ke liye",
+        "B": "Indoor discreet surveillance ke liye",
+        "C": "Underwater monitoring ke liye",
+        "D": "Traffic monitoring ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dome cameras apni discreet design aur vandalism-resistant casing ke karan indoor settings mein, jaise shops aur offices, mein discreet surveillance ke liye ideal hote hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Power over Ethernet (PoE) ka kya fayda hai IP cameras mein?",
+      "options": {
+        "A": "Isse camera ko zyada power chahiye",
+        "B": "Ek single Ethernet cable se data aur power dono mil jate hain",
+        "C": "Isse camera wireless ho jata hai",
+        "D": "Isse camera ka size kam ho jata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "PoE technology ek single Ethernet cable ke through IP cameras ko data connectivity aur electrical power dono provide karti hai, jisse installation simple ho jati hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Wireless CCTV camera ka kya fayda hai?",
+      "options": {
+        "A": "Better image quality",
+        "B": "Easy installation aur flexibility",
+        "C": "No battery required",
+        "D": "Zyada secure connection"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wireless cameras ko cables ki zaroorat nahi hoti, jisse installation easy ho jaati hai aur unhe flexible tarike se kahin bhi install kiya ja sakta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Kis type ki cable analog CCTV cameras ko DVR se connect karti hai?",
+      "options": {
+        "A": "Ethernet cable",
+        "B": "HDMI cable",
+        "C": "Coaxial cable",
+        "D": "USB cable"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Coaxial cables (jaise RG59) typically analog CCTV cameras se video signals ko DVR tak transmit karne ke liye use kiye jaate hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "CCTV footage store karne ke liye sabse common storage medium kya hai?",
+      "options": {
+        "A": "Floppy disk",
+        "B": "Hard Disk Drive (HDD)",
+        "C": "CD-ROM",
+        "D": "USB pen drive"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hard Disk Drives (HDDs) DVRs aur NVRs mein footage ko store karne ke liye sabse common aur cost-effective storage medium hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Outdoor cameras mein kis feature ka hona zaroori hai?",
+      "options": {
+        "A": "Weatherproofing (IP rating)",
+        "B": "Bluetooth connectivity",
+        "C": "Built-in speakers",
+        "D": "Touchscreen display"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Outdoor cameras ko weather conditions jaise baarish, dhool, aur extreme temperatures se bachane ke liye weatherproofing (IP rating) ka hona zaroori hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Hybrid DVR (HDVR) kya hota hai?",
+      "options": {
+        "A": "Sirf analog cameras support karta hai",
+        "B": "Sirf IP cameras support karta hai",
+        "C": "Analog aur IP dono tarah ke cameras support karta hai",
+        "D": "Sirf wireless cameras support karta hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "HDVR (Hybrid Digital Video Recorder) ek aisa device hai jo analog cameras aur IP cameras dono se footage ko record aur manage kar sakta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "CCTV system mein 'frame rate' ka kya matlab hai?",
+      "options": {
+        "A": "Ek second mein capture kiye gaye images ki sankhya",
+        "B": "Camera ka physical size",
+        "C": "Video ki brightness",
+        "D": "Recording ka duration"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Frame rate (frames per second ya FPS) ek second mein capture kiye gaye individual images ki sankhya ko darshata hai. Higher FPS ka matlab smoother video."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Ek CCTV monitor ka primary function kya hai?",
+      "options": {
+        "A": "Sound play karna",
+        "B": "CCTV cameras se live aur recorded video footage display karna",
+        "C": "Internet access dena",
+        "D": "Documents print karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV monitor ka primary function cameras se aane wale live aur recorded video footage ko operator ko display karna hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "CCTV monitoring ke dauran 'multi-screen viewing' ka kya fayda hai?",
+      "options": {
+        "A": "Ek hi screen par sabhi cameras ko ek saath dekhna",
+        "B": "Sirf ek camera ko dekhna",
+        "C": "Internet browsing karna",
+        "D": "Video games khelna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Multi-screen viewing se operator ek hi samay mein kai cameras ke feeds ko ek saath monitor kar sakta hai, jisse bade areas ko cover karna aasan ho jata hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "PTZ camera ko control karne ke liye kya use hota hai?",
+      "options": {
+        "A": "Keyboard only",
+        "B": "Mouse, joystick ya control panel",
+        "C": "Voice commands only",
+        "D": "Remote control TV"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PTZ cameras ko typically software interface ke through mouse, dedicated joystick ya control panel ka upyog karke control kiya jata hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Camera ke 'zoom' function ka kya purpose hai?",
+      "options": {
+        "A": "Image ko blur karna",
+        "B": "Image ko bada karna ya chhota karna taaki details dekhi ja sakein",
+        "C": "Camera ko rotate karna",
+        "D": "Image ko color karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Zoom function se operator image ko bada (zoom in) ya chhota (zoom out) kar sakta hai, jisse door ki objects ya specific details ko clear dekha ja sake."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "CCTV monitoring mein 'pre-set positions' ka kya use hai?",
+      "options": {
+        "A": "Camera ko randomly ghumane ke liye",
+        "B": "Camera ko pehle se define kiye gaye locations par turant move karne ke liye",
+        "C": "Camera ko off karne ke liye",
+        "D": "Camera ki recording rokne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pre-set positions woh specific locations hoti hain jahan operator ek click par PTZ camera ko turant move kar sakta hai, jisse quick area coverage possible ho."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Ek 'tour' function PTZ camera mein kya karta hai?",
+      "options": {
+        "A": "Camera ko ek hi jagah par fix rakhta hai",
+        "B": "Camera ko automatically kai pre-set positions ke beech ghumata hai",
+        "C": "Camera ko manual control deta hai",
+        "D": "Camera ki recording rok deta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tour function PTZ camera ko automatically pre-set positions ke ek sequence mein move karta hai, jisse ek bade area ko bina manual intervention ke monitor kiya ja sakta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "CCTV operator ko 'suspicious behavior' kaise identify karna chahiye?",
+      "options": {
+        "A": "Jo bhi person screen par dikhe",
+        "B": "Unusual movements, loitering, chupke se dekhna, chehra chhupana",
+        "C": "Jo log haste hue dikhein",
+        "D": "Jo log baatein kar rahe hon"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Suspicious behavior mein unusual movements, ek hi jagah par der tak rukna (loitering), chupke se aas-paas dekhna ya chehra chhupane ki koshish karna shamil ho sakta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Low light conditions mein behtar visibility ke liye kya use kiya jata hai?",
+      "options": {
+        "A": "Day mode",
+        "B": "Infrared (IR) night vision",
+        "C": "Color filter",
+        "D": "Zoom out"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Infrared (IR) night vision cameras ko kam roshni ya andhere mein bhi objects ko clear dekhne mein help karta hai, aksar black and white footage mein."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "CCTV footage ko review karte samay 'timestamp' ka kya importance hai?",
+      "options": {
+        "A": "Iska koi importance nahi hai",
+        "B": "Incident ke exact date aur time ko verify karne ke liye",
+        "C": "Video ki quality improve karne ke liye",
+        "D": "Video ko delete karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Timestamp har frame par date aur time dikhata hai, jo kisi incident ke exact samay ko verify karne aur evidence ki authenticity ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Ek CCTV operator ki visual acuity kitni honi chahiye?",
+      "options": {
+        "A": "Average eyesight",
+        "B": "Excellent eyesight",
+        "C": "Poor eyesight",
+        "D": "Color blindness"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CCTV monitoring ke liye excellent visual acuity (achhi nazar) hona zaroori hai taaki screen par choti se choti detail aur movement ko bhi observe kiya ja sake."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Kisi specific area par focus karne ke liye operator ko kya karna chahiye?",
+      "options": {
+        "A": "Monitor band kar dena",
+        "B": "Camera ko zoom in aur pan/tilt karna",
+        "C": "Sabhi cameras ko ek saath dekhna",
+        "D": "Area se door move karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kisi specific area par focus karne ke liye operator ko PTZ camera ko zoom in karna chahiye aur zaroorat padne par pan (horizontal) aur tilt (vertical) bhi karna chahiye."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Motion detection alert ka kya fayda hai?",
+      "options": {
+        "A": "Isse camera off ho jata hai",
+        "B": "Jab camera ke view mein koi movement ho, toh operator ko alert milta hai",
+        "C": "Isse footage delete ho jati hai",
+        "D": "Isse koi alert nahi milta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Motion detection system tab alert generate karta hai jab camera ke view mein koi movement detect hoti hai, jisse operator ko turant suspicious activity ka pata chalta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Ek CCTV operator ko kitne samay tak continuously screen par focus karna chahiye?",
+      "options": {
+        "A": "Sirf 5 minute",
+        "B": "Apni poori shift ke dauran, breaks ke saath",
+        "C": "Jab mann kare tab",
+        "D": "Sirf jab supervisor dekhe"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CCTV operator ko apni poori shift ke dauran (planned breaks ke saath) screens par continuously focus karna chahiye taaki koi bhi incident miss na ho."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Video analytics ka kya role hai modern CCTV systems mein?",
+      "options": {
+        "A": "Sirf video ko record karna",
+        "B": "Automated detection of specific events (e.g., line crossing, object left behind)",
+        "C": "Video ko manually review karna",
+        "D": "Camera ko physical clean karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Video analytics software footage ko automatically analyze karta hai aur specific events ya patterns ko detect karta hai, jaise line crossing, object left behind, ya abnormal behavior, jisse operator ka workload kam hota hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Kisi bhi incident ko monitor karte samay, operator ko kya record karna chahiye?",
+      "options": {
+        "A": "Sirf incident ka time",
+        "B": "Time, location, description of event aur involved persons",
+        "C": "Apne personal thoughts",
+        "D": "Weather conditions"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Operator ko incident ka exact time, location, event ki detailed description aur involved persons (agar possible ho) ko record karna chahiye."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "CCTV monitoring mein 'false alarms' ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Har false alarm par panic karna",
+        "B": "Unhe analyze karna aur future mein kam karne ke liye steps lena",
+        "C": "Unhe ignore karna",
+        "D": "System ko band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "False alarms ko analyze karna chahiye taaki unke causes ko identify kiya ja sake aur system settings ko adjust karke future mein unhe kam kiya ja sake, bina real threats ko miss kiye."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Ek operator ko 'panoramic view' ka upyog kab karna chahiye?",
+      "options": {
+        "A": "Jab kisi specific person ko track karna ho",
+        "B": "Jab ek bade area ki general surveillance karni ho",
+        "C": "Jab light kam ho",
+        "D": "Jab recording band karni ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Panoramic view (jo fisheye cameras ya multiple cameras ko stitch karke banta hai) tab useful hota hai jab ek bade area ki general surveillance karni ho, taaki koi bhi corner miss na ho."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "CCTV operator ke liye multitasking capability kitni important hai?",
+      "options": {
+        "A": "Bilkul nahi",
+        "B": "Bahut important, kai screens aur tasks ko ek saath handle karne ke liye",
+        "C": "Sirf ek hi task karna chahiye",
+        "D": "Sirf breaks ke dauran"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Multitasking capability bahut important hai kyunki operator ko ek saath kai screens monitor karne, PTZ controls operate karne, aur incident reports fill karne jaise tasks karne pad sakte hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Kisi incident ko detect karne ke baad CCTV operator ka pehla kadam kya hona chahiye?",
+      "options": {
+        "A": "Ghar chale jana",
+        "B": "Incident ko confirm karna aur supervisor ko inform karna",
+        "C": "Social media par post karna",
+        "D": "Video delete kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Incident detect hone par, operator ko pehle uski validity confirm karni chahiye aur turant apne supervisor ya designated authority ko inform karna chahiye."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Incident report mein kaun si information shamil honi chahiye?",
+      "options": {
+        "A": "Sirf incident ka naam",
+        "B": "Date, time, location, description, involved parties, operator ka naam",
+        "C": "Future plans",
+        "D": "Personal opinions"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek complete incident report mein date, time, exact location, incident ki detailed description, involved parties (agar koi ho), aur report karne wale operator ka naam shamil hona chahiye."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Emergency ki situation mein (jaise fire), CCTV operator ki kya zimmedari hai?",
+      "options": {
+        "A": "Fire department ko ignore karna",
+        "B": "Situation ko monitor karna aur emergency services ko sahi information dena",
+        "C": "Khud fire bujhane ki koshish karna",
+        "D": "Sabhi cameras off kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fire jaise emergency mein, operator ko situation ko closely monitor karna chahiye aur emergency services (fire brigade) ko exact location aur situation ke baare mein sahi aur timely information deni chahiye."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Kisi medical emergency ko dekhte hi operator ko kya karna chahiye?",
+      "options": {
+        "A": "Wait karna",
+        "B": "Medical staff ya emergency services ko turant inform karna",
+        "C": "Recording band kar dena",
+        "D": "Khud first aid dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Medical emergency mein, operator ko turant medical staff ya emergency services ko inform karna chahiye aur situation ko monitor karte rehna chahiye."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Evacuation procedure ke dauran CCTV operator ka kya role hai?",
+      "options": {
+        "A": "Evacuation ignore karna",
+        "B": "Evacuation routes ko monitor karna aur congested areas ki report karna",
+        "C": "Sabhi lights off kar dena",
+        "D": "Apni jagah chhod kar chale jana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Evacuation ke dauran, operator ko evacuation routes ko monitor karna chahiye, dekhna chahiye ki sabhi log safely nikal rahe hain, aur kisi bhi congestion ya blockage ko report karna chahiye."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Bomb threat jaise serious incident mein operator ko kya karna chahiye?",
+      "options": {
+        "A": "Apni seat par baithe rehna",
+        "B": "Control room protocols follow karna aur designated personnel ko inform karna",
+        "C": "Building se bahar bhaag jana",
+        "D": "Sabhi systems ko reboot karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bomb threat jaise serious incident mein, operator ko control room ke established protocols ko follow karna chahiye aur turant designated security personnel ya emergency response team ko inform karna chahiye."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Active shooter scenario mein CCTV operator ka kya role hai?",
+      "options": {
+        "A": "Chup chap baithe rehna",
+        "B": "Police ko live updates dena aur shooter ki location track karna",
+        "C": "Camera off kar dena",
+        "D": "Public announcement karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Active shooter scenario mein, operator ko police ko shooter ki live location, description, aur movements ki updates deni chahiye, jo response teams ke liye critical information hoti hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Incident ke baad, footage ko 'preserve' karna kyon zaroori hai?",
+      "options": {
+        "A": "Sirf dekhne ke liye",
+        "B": "Evidence ke roop mein use ke liye aur future reference ke liye",
+        "C": "Storage space fill karne ke liye",
+        "D": "Delete karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Incident ke baad footage ko preserve karna zaroori hai taaki use investigation mein evidence ke roop mein use kiya ja sake aur future reference ke liye available rahe."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "CCTV operator ko emergency contact list kahan milni chahiye?",
+      "options": {
+        "A": "Apne ghar par",
+        "B": "Control room mein easily accessible jagah par",
+        "C": "Internet par",
+        "D": "Kisi friend ke paas"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency contact list (police, fire, medical, supervisor) control room mein hamesha easily accessible honi chahiye taaki zaroorat padne par turant call kiya ja sake."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Kisi theft ke incident mein, operator ko kya details note karni chahiye?",
+      "options": {
+        "A": "Chori ki gayi item ka color",
+        "B": "Suspect ka description, time of theft, escape route",
+        "C": "Sirf time",
+        "D": "Weather condition"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Theft ke incident mein, operator ko suspect ka detailed description (height, clothing, face), theft ka exact time, aur suspect ke escape route ko note karna chahiye."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Communication protocol ka palan karna kyon important hai emergency mein?",
+      "options": {
+        "A": "Isse confusion badhta hai",
+        "B": "Clear aur effective communication ensure karne ke liye",
+        "C": "Sirf formality ke liye",
+        "D": "Isse response slow hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency mein communication protocol ka palan karne se clear aur effective communication ensure hoti hai, galti ki sambhavna kam hoti hai, aur response time improve hota hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Kisi suspicious package ko dekhte hi operator ko kya karna chahiye?",
+      "options": {
+        "A": "Usko haath lagana",
+        "B": "Area ko monitor karna aur security/bomb disposal unit ko inform karna",
+        "C": "Usko ignore karna",
+        "D": "Usko dustbin mein fenk dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Suspicious package ko dekhte hi, operator ko us area ko monitor karna chahiye, kisi ko uske paas jaane se rokna chahiye, aur turant security ya bomb disposal unit ko inform karna chahiye."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "CCTV operator ko 'chain of custody' ke baare mein kyon pata hona chahiye?",
+      "options": {
+        "A": "Iska koi use nahi hai",
+        "B": "Evidence ki integrity maintain karne ke liye",
+        "C": "Isse recording slow ho jati hai",
+        "D": "Sirf fun ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Chain of custody ka matlab hai evidence ko collect karne, handle karne aur store karne ka documented process. Iski jaankari zaroori hai taaki footage ki legal validity aur integrity maintain rahe."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Kisi civil unrest ya mob situation mein operator ko kya karna chahiye?",
+      "options": {
+        "A": "Khud bahar nikal kar shanti banani",
+        "B": "Situation ko monitor karna, crowd movements track karna aur police ko updates dena",
+        "C": "Sabhi cameras ko off kar dena",
+        "D": "Chup chap baith jana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Civil unrest mein, operator ko situation ko closely monitor karna chahiye, crowd movements ko track karna chahiye, aur police ko real-time updates deni chahiye taaki woh effective action le sakein."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Badi ghatnaon ke liye incident log maintain karna kyon zaroori hai?",
+      "options": {
+        "A": "Sirf paper waste karne ke liye",
+        "B": "Detailed record rakhne aur future analysis ke liye",
+        "C": "Isse koi fayda nahi hota",
+        "D": "Sirf supervisor ko impress karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Incident log maintain karne se har ghatna ka detailed record rehta hai, jo future analysis, training aur legal purposes ke liye invaluable hota hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "CCTV operator ko 'first responder' ki definition pata honi chahiye, kyon?",
+      "options": {
+        "A": "Iska koi use nahi hai",
+        "B": "Taaki woh apni role aur responsibilities ko samajh sake",
+        "C": "Taaki woh khud first responder ban sake",
+        "D": "Sirf general knowledge ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "First responder woh hota hai jo incident site par sabse pehle pahunchta hai. Operator ko apni role aur first responders ki role samajhni chahiye taaki effective coordination ho sake."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Kisi bhi emergency ke dauran, CCTV operator ka primary goal kya hona chahiye?",
+      "options": {
+        "A": "Apni shift khatam karna",
+        "B": "Jaan-maal ki suraksha aur situation ko control karna",
+        "C": "Sabse pehle khud bachna",
+        "D": "Video game khelna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency ke dauran, operator ka primary goal jaan-maal ki suraksha ensure karna, situation ko control karna aur relevant authorities ko sahi information provide karna hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "CCTV footage ko record karne ke liye kis setting ka use kiya jata hai?",
+      "options": {
+        "A": "Playback setting",
+        "B": "Recording setting",
+        "C": "Display setting",
+        "D": "Audio setting"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Recording settings mein video quality, frame rate, recording schedule aur motion detection jaise options hote hain, jo decide karte hain ki footage kaise record hogi."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "'Data retention policy' ka kya matlab hai?",
+      "options": {
+        "A": "Data ko hamesha ke liye rakhna",
+        "B": "Data ko kitne samay tak store karna hai, uski policy",
+        "C": "Data ko delete karna",
+        "D": "Data ko share karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data retention policy define karti hai ki CCTV footage ko kitne samay tak store kiya jayega, uske baad use delete kar diya jayega."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Footage ko 'backup' lena kyon zaroori hai?",
+      "options": {
+        "A": "Sirf extra copy rakhne ke liye",
+        "B": "Data loss se bachne aur important footage ko secure karne ke liye",
+        "C": "Storage space fill karne ke liye",
+        "D": "System ko slow karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Backup lena zaroori hai taaki hardware failure ya accidental deletion ki wajah se important footage ka loss na ho. Isse data secure rehta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "CCTV footage ko access karne ke liye 'access control' kyon lagaya jata hai?",
+      "options": {
+        "A": "Taaki koi bhi use dekh sake",
+        "B": "Unauthorized access rokne aur data privacy maintain karne ke liye",
+        "C": "Isse koi fayda nahi hota",
+        "D": "Sirf system ko complex banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Access control (passwords, user roles) lagane se sirf authorized personnel hi footage ko access kar sakte hain, jisse unauthorized access rukta hai aur data privacy maintain rehti hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "GDPR jaise data privacy laws CCTV operators ke liye kyon relevant hain?",
+      "options": {
+        "A": "Iska koi relevance nahi hai",
+        "B": "Personal data ki protection aur legal compliance ke liye",
+        "C": "Sirf Europe mein lagoo hote hain",
+        "D": "Camera ke brands ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "GDPR (General Data Protection Regulation) jaise laws personal data ki protection ke liye hain. CCTV footage mein individuals ka data ho sakta hai, isliye in laws ka palan karna legal compliance aur privacy ke liye zaroori hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Evidence ke roop mein CCTV footage ko export karte samay kya dhyan mein rakhna chahiye?",
+      "options": {
+        "A": "Kisi bhi format mein export kar dena",
+        "B": "Original format aur resolution maintain karna, timestamp aur chain of custody document karna",
+        "C": "Sirf audio export karna",
+        "D": "Video ko edit kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Evidence ke roop mein footage ko export karte samay, original format aur resolution ko maintain karna chahiye. Timestamp visible ho, aur chain of custody ko properly document karna chahiye taaki uski legal validity bani rahe."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "CCTV system mein 'overwrite' function ka kya matlab hai?",
+      "options": {
+        "A": "Nayi footage ko purani footage par record karna",
+        "B": "Footage ko delete karna",
+        "C": "Footage ko save karna",
+        "D": "Footage ko edit karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Overwrite function mein jab storage space full ho jata hai, toh system sabse purani footage ko automatically delete karke uski jagah nayi footage record karta hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Kisi legal request par footage provide karte samay, operator ko kya karna chahiye?",
+      "options": {
+        "A": "Turant footage de deni chahiye",
+        "B": "Supervisor aur legal team se consult karna chahiye",
+        "C": "Footage ko delete kar dena chahiye",
+        "D": "Request ko ignore karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Legal request par footage provide karne se pehle, operator ko apne supervisor aur legal team se consult karna chahiye taaki sahi procedures follow ho aur koi legal galti na ho."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Video compression ka kya fayda hai CCTV recording mein?",
+      "options": {
+        "A": "Video quality kam karna",
+        "B": "Storage space bachana aur network bandwidth kam karna",
+        "C": "Video ko slow karna",
+        "D": "Video ko color karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Video compression se footage ka size kam ho jata hai, jisse zyada footage store ki ja sakti hai aur network par data transmit karne ke liye kam bandwidth ki zaroorat padti hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "CCTV footage ko unauthorized access se bachane ke liye kya steps lene chahiye?",
+      "options": {
+        "A": "Footage ko public kar dena",
+        "B": "Strong passwords, encryption, aur restricted physical access",
+        "C": "Footage ko bina password ke rakhna",
+        "D": "Sabhi systems ko off kar dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Unauthorized access se bachane ke liye strong passwords use karne chahiye, data ko encrypt karna chahiye, aur recording devices tak physical access ko restrict karna chahiye."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Kisi incident ke baad, relevant footage ko 'bookmark' karna kyon useful hai?",
+      "options": {
+        "A": "Sirf decoration ke liye",
+        "B": "Future mein quick access aur reference ke liye",
+        "C": "Footage ko delete karne ke liye",
+        "D": "Footage ko hide karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bookmark karne se incident-related footage ko easily identify aur access kiya ja sakta hai, jisse review process faster ho jata hai aur important footage miss nahi hoti."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "CCTV footage ko 'tampering' se bachana kyon zaroori hai?",
+      "options": {
+        "A": "Isse koi fark nahi padta",
+        "B": "Evidence ki authenticity aur legal validity maintain karne ke liye",
+        "C": "Isse footage ka size badhta hai",
+        "D": "Sirf software ko complex banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tampering se bachana zaroori hai taaki footage ki authenticity bani rahe aur use court mein evidence ke roop mein accept kiya ja sake."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "CCTV system mein 'storage capacity' ka kya matlab hai?",
+      "options": {
+        "A": "Kitne cameras connect ho sakte hain",
+        "B": "Kitni footage record ki ja sakti hai",
+        "C": "Kitni electricity consume hoti hai",
+        "D": "Kitne monitors connect ho sakte hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Storage capacity ka matlab hai ki DVR/NVR mein kitni footage store ki ja sakti hai, jo HDD ke size par depend karta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "CCTV footage ko 'securely dispose' karna kyon important hai?",
+      "options": {
+        "A": "Sirf storage space khali karne ke liye",
+        "B": "Data privacy laws ka palan karne aur sensitive information ko leak hone se rokne ke liye",
+        "C": "Isse koi nuksan nahi hota",
+        "D": "Sirf purani files se chhutkara paane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Securely dispose karna zaroori hai taaki data privacy laws ka palan ho aur koi bhi sensitive information (jaise individuals ki pehchan) galat haathon mein na pade."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "CCTV footage ke 'playback' function ka kya use hai?",
+      "options": {
+        "A": "Sirf live footage dekhne ke liye",
+        "B": "Recorded footage ko dekhne aur review karne ke liye",
+        "C": "Camera settings change karne ke liye",
+        "D": "Footage ko delete karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Playback function operator ko pehle se record ki gayi footage ko dekhne, review karne aur incidents ko investigate karne mein help karta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "CCTV system mein 'log files' ka kya importance hai?",
+      "options": {
+        "A": "Iska koi importance nahi hai",
+        "B": "System activities, errors aur user actions ko track karne ke liye",
+        "C": "Sirf video data store karne ke liye",
+        "D": "System ko slow karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Log files system ki sabhi activities, jaise logins, logouts, errors, aur recording events ko record karte hain, jo troubleshooting aur auditing ke liye zaroori hain."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Agar CCTV monitor par 'No Signal' dikhaye, toh pehla troubleshooting step kya hona chahiye?",
+      "options": {
+        "A": "System ko tod dena",
+        "B": "Cables connection check karna",
+        "C": "Monitor ko off kar dena",
+        "D": "Internet connection check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "No Signal ki problem aane par, sabse pehle camera se DVR/NVR aur DVR/NVR se monitor tak ke cables (power aur video) ke connections ko check karna chahiye."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "CCTV cameras ki lens ko regular clean karna kyon zaroori hai?",
+      "options": {
+        "A": "Sirf unhe shiny rakhne ke liye",
+        "B": "Clear image quality maintain karne ke liye",
+        "C": "Camera ko off karne ke liye",
+        "D": "Uska koi fayda nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lens par dhool, mitti ya paani ke nishan se image quality kharab ho sakti hai, isliye regular cleaning se clear footage milti hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Agar recording device (DVR/NVR) kaam nahi kar raha, toh kya karna chahiye?",
+      "options": {
+        "A": "Usko fenk dena",
+        "B": "Power supply aur connection check karna, phir supervisor ko inform karna",
+        "C": "Khud repair karne ki koshish karna",
+        "D": "Sabhi cameras off kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar recording device kaam nahi kar raha, toh pehle power supply aur connections check karein, phir turant apne supervisor ko inform karein taaki technical team usko theek kar sake."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "CCTV operator ke liye 'ethical conduct' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf apne fayde ke liye kaam karna",
+        "B": " ईमानदारी, privacy ka samman, aur professional behavior maintain karna",
+        "C": "Footage ko misuse karna",
+        "D": "Apne kaam ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ethical conduct ka matlab hai ईमानदारी se kaam karna, individuals ki privacy ka samman karna, aur professional behavior maintain karna, bina kisi bhed-bhav ke."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Agar kisi camera ki image quality kharab ho jaye, toh operator ko kya karna chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Issue ko report karna aur camera ki lens check karna",
+        "C": "Monitor ko change karna",
+        "D": "Recording band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kharab image quality ke liye operator ko issue report karna chahiye aur agar possible ho toh camera ki lens ko check karna chahiye ki woh saaf hai ya nahi."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "CCTV system mein 'firmware updates' kyon important hain?",
+      "options": {
+        "A": "Isse system slow hota hai",
+        "B": "Security flaws theek karne aur performance improve karne ke liye",
+        "C": "Sirf naye features add karne ke liye",
+        "D": "Iska koi use nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Firmware updates security vulnerabilities ko theek karte hain, system ki performance aur stability ko improve karte hain, aur naye features bhi provide kar sakte hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "CCTV operator ko 'teamwork' kyon maintain karna chahiye?",
+      "options": {
+        "A": "Sirf dosti banane ke liye",
+        "B": "Effective security operations aur better coordination ke liye",
+        "C": "Apna kaam doosron par dalne ke liye",
+        "D": "Apni zimmedariyon se bachne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Teamwork se security operations zyada effective hote hain, information sharing behtar hoti hai, aur emergency situations mein coordination achha hota hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Kisi technical fault ko record karte samay kaun si information deni chahiye?",
+      "options": {
+        "A": "Sirf 'fault hai' likhna",
+        "B": "Fault ka type, time, affected equipment aur kiye gaye initial steps",
+        "C": "Apni personal problems",
+        "D": "Weather report"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Technical fault report mein fault ka type, kab hua, kaun sa equipment affect hua, aur operator ne kya initial troubleshooting steps liye, ye sab shamil hona chahiye."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "CCTV operator ke liye 'continuous learning' kyon zaroori hai?",
+      "options": {
+        "A": "Iska koi use nahi hai",
+        "B": "Technology mein updates aur best practices se up-to-date rehne ke liye",
+        "C": "Sirf promotions ke liye",
+        "D": "Apna samay barbaad karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CCTV technology aur security practices mein lagatar badlav aate rehte hain, isliye operator ko continuous learning se up-to-date rehna chahiye."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar CCTV system mein 'network connectivity issue' ho, toh kya check karna chahiye?",
+      "options": {
+        "A": "Monitor ki brightness",
+        "B": "Network cables, router/switch aur IP addresses",
+        "C": "Camera ki lens",
+        "D": "Power supply"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Network connectivity issue mein network cables, router/switch ki working condition aur IP addresses ki configuration ko check karna chahiye."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "CCTV operator ko 'stress management' techniques kyon pata honi chahiye?",
+      "options": {
+        "A": "Iska koi use nahi hai",
+        "B": "High-pressure situations mein calm rehne aur effective perform karne ke liye",
+        "C": "Sirf relax karne ke liye",
+        "D": "Apne colleagues ko impress karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CCTV monitoring ek high-stress job ho sakti hai. Stress management techniques operator ko calm rehne aur critical situations mein bhi effective perform karne mein help karti hain."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "CCTV operator ka duty station (control room) kaisa hona chahiye?",
+      "options": {
+        "A": "Andhera aur ganda",
+        "B": "Clean, organized aur well-lit",
+        "C": "Bahut shor wala",
+        "D": "Bahut chhota"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek clean, organized aur well-lit control room operator ki concentration aur efficiency ko badhata hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar koi person CCTV operator ko bribe dene ki koshish kare, toh kya karna chahiye?",
+      "options": {
+        "A": "Bribe le leni chahiye",
+        "B": "Turant apne supervisor ko inform karna chahiye aur incident report karna chahiye",
+        "C": "Ignore karna chahiye",
+        "D": "Khud usko arrest karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bribe ki koshish ek serious ethical violation hai. Operator ko turant apne supervisor ko inform karna chahiye aur incident ko detailed mein report karna chahiye."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "CCTV system ke 'power backup' ka kya fayda hai?",
+      "options": {
+        "A": "Isse bijli ka bill kam aata hai",
+        "B": "Power cut hone par bhi system ko chalate rehna",
+        "C": "Sirf camera ko off karne ke liye",
+        "D": "Iska koi use nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Power backup (UPS) power cut hone par bhi CCTV system ko kuch samay tak chalata rehta hai, jisse continuous surveillance maintain rehti hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "CCTV operator ko 'confidentiality agreement' kyon sign karna padta hai?",
+      "options": {
+        "A": "Sirf ek formality hai",
+        "B": "Sensitive information ko leak hone se rokne aur organization ke interests protect karne ke liye",
+        "C": "Apni personal details share karne ke liye",
+        "D": "Apne kaam ko public karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confidentiality agreement operator ko sensitive footage aur information ko leak na karne ke liye legally bind karta hai, jisse organization ke interests aur privacy protect hote hain."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Kisi bhi system fault ko report karte samay, operator ko kis tarah ki language use karni chahiye?",
+      "options": {
+        "A": "Slang language",
+        "B": "Clear, concise aur professional language",
+        "C": "Emotional language",
+        "D": "Secret codes"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fault report mein clear, concise aur professional language use karni chahiye taaki technical team problem ko aasani se samajh sake aur jaldi theek kar sake."
+    }
+  ]
+}

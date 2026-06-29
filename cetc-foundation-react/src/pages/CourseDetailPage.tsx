@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { Star, Tag, Calendar, Book, Clock, Laptop, Wallet, CheckCircle, FileText, Camera, GraduationCap, Zap, X } from 'lucide-react';
 import { getCourseBySlug, SECTORS } from '../data/courses';
 import api, { initiatePayment, getUser, setToken, setUser } from '../services/api';
+import SyllabusBookViewer from '../components/SyllabusBookViewer';
 
 export default function CourseDetailPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -140,14 +141,24 @@ export default function CourseDetailPage() {
               { icon: <Clock size={24} />, val: `${totalHours} Hrs`, key: 'Total Hours' },
               { icon: <Laptop size={24} />, val: 'Online', key: 'Exam Mode' },
               { icon: <Wallet size={24} />, val: `₹${course.fee.toLocaleString('en-IN')}`, key: 'Exam Fee' },
-              { icon: <CheckCircle size={24} />, val: '50%', key: 'Pass Mark' },
+              { icon: <CheckCircle size={24} />, val: '35%', key: 'Pass Mark' },
             ].map((s, i) => (
               <div key={i} className="card" style={{ padding: '20px', textAlign: 'center' }}>
                 <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '8px', color: 'var(--cetc-gold)' }}>{s.icon}</div>
-                <div style={{ fontSize: '18px', fontWeight: 700, color: 'var(--navy)' }}>{s.val}</div>
+                <div style={{ fontSize: '18px', fontWeight: 700, color: 'var(--text-main)' }}>{s.val}</div>
                 <div style={{ fontSize: '11px', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.04em', marginTop: '2px' }}>{s.key}</div>
               </div>
             ))}
+          </div>
+
+          {/* Syllabus Book Viewer */}
+          <div style={{ marginBottom: '48px' }}>
+            <span className="sec-eyebrow">Complete Curriculum</span>
+            <h2 className="sec-title">Course Syllabus Book</h2>
+            <p className="sec-subtitle" style={{ marginBottom: '24px' }}>
+              Swipe or click next to read the complete detailed syllabus for this certification.
+            </p>
+            <SyllabusBookViewer courseSlug={course.slug} />
           </div>
 
           {/* Assessment Structure */}
@@ -162,7 +173,7 @@ export default function CourseDetailPage() {
               <div className="card" style={{ padding: '24px', textAlign: 'center', position: 'relative', overflow: 'hidden' }}>
                 <div style={{ position: 'absolute', top: 0, left: 0, right: 0, height: '3px', background: 'linear-gradient(90deg, #1A2B7A, #4A6BCA)' }}></div>
                 <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px', color: '#1A2B7A' }}><FileText size={32} /></div>
-                <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--navy)', marginBottom: '6px' }}>Theory — MCQ</div>
+                <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--text-main)', marginBottom: '6px' }}>Theory — MCQ</div>
                 <div style={{ fontSize: '24px', fontWeight: 700, color: '#1A2B7A', marginBottom: '4px' }}>50 Marks</div>
                 <div style={{ fontSize: '12px', color: 'var(--muted)', lineHeight: 1.6 }}>
                   25 multiple-choice questions × 2 marks each. 45-minute timer. Auto-scored instantly.
@@ -171,7 +182,7 @@ export default function CourseDetailPage() {
               <div className="card" style={{ padding: '24px', textAlign: 'center', position: 'relative', overflow: 'hidden' }}>
                 <div style={{ position: 'absolute', top: 0, left: 0, right: 0, height: '3px', background: 'linear-gradient(90deg, var(--success), #4ABCA0)' }}></div>
                 <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px', color: 'var(--success)' }}><Camera size={32} /></div>
-                <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--navy)', marginBottom: '6px' }}>Practical — Portfolio Upload</div>
+                <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--text-main)', marginBottom: '6px' }}>Practical — Portfolio Upload</div>
                 <div style={{ fontSize: '24px', fontWeight: 700, color: 'var(--success)', marginBottom: '4px' }}>50 Marks</div>
                 <div style={{ fontSize: '12px', color: 'var(--muted)', lineHeight: 1.6 }}>
                   Upload evidence items — photos/videos demonstrating your skills. Auto-scored on completion.
@@ -187,7 +198,7 @@ export default function CourseDetailPage() {
 
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '20px', marginTop: '28px' }}>
               <div className="card" style={{ padding: '24px' }}>
-                <h4 style={{ fontSize: '13px', fontWeight: 700, color: 'var(--navy)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '16px', paddingBottom: '10px', borderBottom: `2px solid ${color}`, display: 'inline-block' }}>
+                <h4 style={{ fontSize: '13px', fontWeight: 700, color: 'var(--text-main)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '16px', paddingBottom: '10px', borderBottom: `2px solid ${color}`, display: 'inline-block' }}>
                   Eligibility Criteria
                 </h4>
                 <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '8px' }}>
@@ -208,7 +219,7 @@ export default function CourseDetailPage() {
               </div>
 
               <div className="card" style={{ padding: '24px' }}>
-                <h4 style={{ fontSize: '13px', fontWeight: 700, color: 'var(--navy)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '16px', paddingBottom: '10px', borderBottom: '2px solid var(--gold)', display: 'inline-block' }}>
+                <h4 style={{ fontSize: '13px', fontWeight: 700, color: 'var(--text-main)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '16px', paddingBottom: '10px', borderBottom: '2px solid var(--gold)', display: 'inline-block' }}>
                   Learning Outcomes
                 </h4>
                 <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '8px' }}>
@@ -239,36 +250,19 @@ export default function CourseDetailPage() {
             </p>
 
             <div style={{ display: 'flex', justifyContent: 'center', marginTop: '28px' }}>
-              <div style={{
-                maxWidth: '580px',
-                width: '100%',
-                background: 'linear-gradient(135deg, #FFFEF7, #FFF9E6)',
-                border: '2px solid var(--gold)',
-                borderRadius: '16px',
-                padding: '32px',
-                textAlign: 'center',
-                position: 'relative',
-              }}>
-                <div style={{ position: 'absolute', inset: '6px', border: '1px solid rgba(184,134,11,0.2)', borderRadius: '12px', pointerEvents: 'none' }}></div>
-                <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--navy)' }}>COUNCIL FOR EDUCATION, TRAINING & CERTIFICATION FOUNDATION</div>
-                <div style={{ fontSize: '10px', color: 'var(--muted)', marginTop: '2px' }}>ISO 9001:2015 Certified · Section 8 Company</div>
-                <div style={{ fontFamily: 'var(--font-display)', fontSize: '22px', color: 'var(--navy)', margin: '14px 0' }}>Certificate of Completion</div>
-                <div style={{ fontSize: '13px', color: 'var(--muted)' }}>This is to certify that</div>
-                <div style={{ fontSize: '18px', fontWeight: 700, color: 'var(--gold)', margin: '8px 0', paddingBottom: '6px', borderBottom: '2px solid var(--gold)', maxWidth: '280px', marginLeft: 'auto', marginRight: 'auto' }}>
-                  [Candidate Name]
-                </div>
-                <div style={{ fontSize: '15px', fontWeight: 700, color: 'var(--navy)', margin: '10px 0' }}>
-                  {course.name}
-                </div>
-                <div style={{ display: 'flex', justifyContent: 'center', gap: '12px', flexWrap: 'wrap', marginTop: '16px' }}>
-                  <span style={{ fontSize: '10px', fontWeight: 600, padding: '4px 10px', border: '1.5px solid var(--border)', borderRadius: '4px', color: 'var(--muted)' }}>
-                    Cert No: CETC/2025/XXX/XXXXXX
-                  </span>
-                  <span style={{ fontSize: '10px', fontWeight: 600, padding: '4px 10px', border: '1.5px solid var(--border)', borderRadius: '4px', color: 'var(--muted)' }}>
-                    QR Verified ✓
-                  </span>
-                </div>
-              </div>
+              <img 
+                src={`/certificates/${course.name.replace(/[\\/*?:"<>|]/g, '')}.png`} 
+                alt={`${course.name} Certificate`}
+                style={{
+                  maxWidth: '700px',
+                  width: '100%',
+                  height: 'auto',
+                  borderRadius: '12px',
+                  boxShadow: '0 10px 30px -10px rgba(0,0,0,0.5)',
+                  border: '1px solid rgba(255,255,255,0.1)'
+                }}
+                loading="lazy"
+              />
             </div>
           </div>
 
@@ -300,14 +294,13 @@ export default function CourseDetailPage() {
               >
                 <GraduationCap size={18} /> Buy Video Course — ₹{(course.fee + 500).toLocaleString('en-IN')}
               </button>
-              <button 
-                onClick={() => handleAction('rpl')}
+              <Link 
+                to={`/exam/${course.slug}`}
                 className="btn btn-outline" 
-                disabled={loading}
-                style={{ background: 'rgba(255,255,255,0.1)', display: 'inline-flex', alignItems: 'center', gap: '8px' }}
+                style={{ background: 'rgba(255,255,255,0.1)', display: 'inline-flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}
               >
-                <Zap size={18} /> Direct RPL Exam — ₹{course.fee.toLocaleString('en-IN')}
-              </button>
+                <Zap size={18} /> Take Exam Now — Free
+              </Link>
               {error && <div style={{ width: '100%', color: '#ff6b6b', fontSize: '14px', marginTop: '8px' }}>{error}</div>}
             </div>
           </div>

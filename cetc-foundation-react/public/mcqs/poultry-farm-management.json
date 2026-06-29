@@ -1,0 +1,1343 @@
+{
+  "course_name": "Poultry Farm Management",
+  "sector": "Agriculture & Rural Livelihood",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Poultry Farming & Indian Poultry Industry",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Poultry Breeds & Housing Systems",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Poultry Feed & Nutrition",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Breeding & Hatchery Management",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Disease Control, Vaccination & Biosecurity",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Egg & Meat Quality, Processing & Marketing",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "question": "Poultry farming me main focus kis cheez ke production par hota hai?",
+      "options": {
+        "A": "Milk and Ghee",
+        "B": "Eggs and Meat",
+        "C": "Wool and Leather",
+        "D": "Fish and Prawns"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Poultry farming me murgiyon (chickens) ko unke anday (eggs) aur meat ke liye paala jata hai."
+    },
+    {
+      "qno": 2,
+      "question": "Layer poultry farming ka main purpose kya hota hai?",
+      "options": {
+        "A": "Sirf meat production",
+        "B": "Anday (Egg) production",
+        "C": "Farming me help karna",
+        "D": "Feather export karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Layers un murgiyon ko kehte hain jinhe commercial egg production ke liye paala jata hai."
+    },
+    {
+      "qno": 3,
+      "question": "Broiler poultry farming ka main purpose kya hota hai?",
+      "options": {
+        "A": "Egg production",
+        "B": "Meat production",
+        "C": "Breeding only",
+        "D": "Fighting sports"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Broilers un murgiyon ko kehte hain jinhe fast growth aur meat production ke liye paala jata hai."
+    },
+    {
+      "qno": 4,
+      "question": "India me poultry sector ko control aur support karne wali main apex body kaun si hai?",
+      "options": {
+        "A": "NABARD and Department of Animal Husbandry",
+        "B": "NDDB",
+        "C": "FSSAI only",
+        "D": "Board of Control for Cricket"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Department of Animal Husbandry, Dairying & Fisheries and NABARD poultry schemes ko support karte hain."
+    },
+    {
+      "qno": 5,
+      "question": "Duniya me egg production ke mamle me India ka rank kya hai lagbhag?",
+      "options": {
+        "A": "1st",
+        "B": "3rd",
+        "C": "10th",
+        "D": "50th"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "India egg production me duniya me 3rd rank par aata hai."
+    },
+    {
+      "qno": 6,
+      "question": "Poultry business me 'Backyard Poultry' ka kya matlab hota hai?",
+      "options": {
+        "A": "Industrial scale par murga paalna",
+        "B": "Ghar ke aangan me chote scale par desi murga paalna",
+        "C": "Cage system me layers rakhna",
+        "D": "Imported murgiyan rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Backyard poultry rural areas me ghar ke peeche ya aangan me kam kharche me desi murgiyan paalne ko kehte hain."
+    },
+    {
+      "qno": 7,
+      "question": "Poultry products me protein ka kya percentage lagbhag hota hai?",
+      "options": {
+        "A": "Zero percent",
+        "B": "High quality protein (Egg contains ~12-13g protein per 100g)",
+        "C": "Only fat",
+        "D": "Starch content only"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Egg protein ko reference protein mana jata hai kyunki isme sabhi essential amino acids balanced hote hain."
+    },
+    {
+      "qno": 8,
+      "question": "Poultry farm start karne ke liye capital support (loans) kis bank ke schemes ke under milti hai?",
+      "options": {
+        "A": "NABARD (National Bank for Agriculture and Rural Development)",
+        "B": "RBI directly",
+        "C": "LIC",
+        "D": "SEBI"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "NABARD poultry venture capital fund aur subsidies provide karta hai banks ke through."
+    },
+    {
+      "qno": 9,
+      "question": "Poultry farming me 'Day-Old Chick' (DOC) ka kya significance hai?",
+      "options": {
+        "A": "Ek din purani bimari",
+        "B": "Hatchery se nikla 1 din ka chusa",
+        "C": "Ek din me egg dene wali murgi",
+        "D": "Chuse ka dry feed"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hatchery se seedhe farm par aane wale ek din ke chuse ko DOC (Day-Old Chick) kehte hain."
+    },
+    {
+      "qno": 10,
+      "question": "Poultry farm ko set up karne ke liye kis type ki location best maani jati hai?",
+      "options": {
+        "A": "Heavy populated residential area me",
+        "B": "Elevated, well-ventilated aur residential area se door",
+        "C": "River bank ke bilkul pass",
+        "D": "City center ke beech me"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Disease control aur odor (badbu) se bachne ke liye farm ko aabaadi se door aur unche sthan par banana chahiye."
+    },
+    {
+      "qno": 11,
+      "question": "Desi poultry meat (jaise Kadaknath) ka color normal chicken se alag kyu hota hai?",
+      "options": {
+        "A": "Kala (Black) color melamin content ki wajah se",
+        "B": "Dye karne ki wajah se",
+        "C": "Sirf feeding habit se",
+        "D": "Green color grass khane se"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Kadaknath chicken breed ka meat, blood aur body organs black hote hain hyper-pigmentation (melanin) ke karan."
+    },
+    {
+      "qno": 12,
+      "question": "Poultry industry me 'Integration' system ka kya matlab hota hai?",
+      "options": {
+        "A": "Farmers aapas me milkar kheti karein",
+        "B": "Company chusa, feed, aur dawa deti hai aur farmer rearing charge leta hai",
+        "C": "Sarkari control badhana",
+        "D": "Poultry aur fish farm ko mix karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Integration (jaise Suguna, Venky's) contract farming hai jisme risk kam hota hai aur company feed/chicks supply karti hai."
+    },
+    {
+      "qno": 13,
+      "question": "Poultry manure (gobar aur bichona/litter) me kis element ki quantity high hoti hai jo khad ke liye best hai?",
+      "options": {
+        "A": "Nitrogen (N) and Phosphorus (P)",
+        "B": "Sulphur",
+        "C": "Iron",
+        "D": "Sodium"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Poultry litter nitrogen aur phosphorus se rich hota hai aur farm crops ke liye ek badhiya organic fertilizer hai."
+    },
+    {
+      "qno": 14,
+      "question": "Hatchery aur Commercial Broiler farm ke beech minimum distance kitna hona chahiye disease protection ke liye?",
+      "options": {
+        "A": "10 meters",
+        "B": "At least 500 meters to 1 km",
+        "C": "Distance zaroori nahi hai",
+        "D": "Dono ek hi room me ho sakte hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Biosecurity norms ke hisab se breeding farms aur commercial farms me kafi distance hona chahiye taaki diseases spread na hon."
+    },
+    {
+      "qno": 15,
+      "question": "India me poultry meat ka share livestock sector me lagbhag kitna hai?",
+      "options": {
+        "A": "5%",
+        "B": "Upto 50% (rapidly growing sector)",
+        "C": "90%",
+        "D": "Zero"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "India me poultry meat (chicken) sabse zyada consume hone wala meat hai jo pure meat market ka bada hissa hai."
+    },
+    {
+      "qno": 16,
+      "question": "Kadaknath poultry breed kis state ki native breed hai?",
+      "options": {
+        "A": "Punjab",
+        "B": "Madhya Pradesh (Jhabua)",
+        "C": "Kerala",
+        "D": "Assam"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kadaknath MP ke Jhabua aur Dhar districts ki local breed hai jo apne medicinal value aur black meat ke liye jani jati hai."
+    },
+    {
+      "qno": 17,
+      "question": "Duniya ki sabse famous egg-laying commercial breed kaun si hai?",
+      "options": {
+        "A": "Single Comb White Leghorn",
+        "B": "Rhode Island Red",
+        "C": "Aseel",
+        "D": "Plymouth Rock"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "White Leghorn breed pure world me commercial level par sabse zyada anday dene ke liye jani jati hai."
+    },
+    {
+      "qno": 18,
+      "question": "Kaun si Indian breed cockfighting (murgon ki ladai) ke liye bahut famous hai?",
+      "options": {
+        "A": "Aseel",
+        "B": "Kadaknath",
+        "C": "Ghagus",
+        "D": "Karaknath"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Aseel apni pugnacious nature (ladaku pravritti) aur shurvirta ke liye famous hai."
+    },
+    {
+      "qno": 19,
+      "question": "Rhode Island Red (RIR) kis type ki breed hai?",
+      "options": {
+        "A": "Sirf fighting breed",
+        "B": "Dual-purpose breed (egg & meat both)",
+        "C": "Ornamental breed",
+        "D": "Wild breed"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rhode Island Red ek standard dual-purpose breed hai jo eggs aur meat dono ke liye useful hai."
+    },
+    {
+      "qno": 20,
+      "question": "Murgiyon ko cages (pinjro) me rakhne wale system ko kya kehte hain?",
+      "options": {
+        "A": "Deep Litter System",
+        "B": "Battery Cage System",
+        "C": "Free Range System",
+        "D": "Semi-intensive System"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Battery cage system me murgiyon ko multi-tiered metal wire cages me rakha jata hai, jisme anday khud roll hokar bahar aa jate hain."
+    },
+    {
+      "qno": 21,
+      "question": "Deep Litter system me floor par kis material ki layer bichayi jati hai?",
+      "options": {
+        "A": "Cement layer only",
+        "B": "Rice husk, saw dust, or wood shavings (bhoosa/lakdi ka burada)",
+        "C": "Plastic sheets",
+        "D": "Sand and stones"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Deep litter system me floor par moisture absorb karne ke liye lakdi ka burada ya chawal ki bhusi (rice husk) 2-3 inch tak bichayi jati hai."
+    },
+    {
+      "qno": 22,
+      "question": "Free-range poultry system ka kya matlab hota hai?",
+      "options": {
+        "A": "Murgiyon ko din bhar khule me gh घूमने aur charne ke liye chhod dena",
+        "B": "Murgiyon ko cages me tight rakhna",
+        "C": "Sirf AC rooms me rakhna",
+        "D": "Murgiyon ko band room me light dena"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Free range ya organic system me murgiyon ko farm ke khule area me natural grazing ke liye choda jata hai."
+    },
+    {
+      "qno": 23,
+      "question": "Murgiyon ke room (poultry house) ki orientation (direction) kya honi chahiye India me?",
+      "options": {
+        "A": "North to South",
+        "B": "East to West (Purab se Paschim)",
+        "C": "South to West",
+        "D": "Direction does not matter"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "East-to-West direction rakhne se dhoop seedhe room ke andar nahi aati, jisse garmiyon me room thanda rehta hai."
+    },
+    {
+      "qno": 24,
+      "question": "Poultry shed me cross-ventilation (hawa ka aana-jaana) kyu zaroori hai?",
+      "options": {
+        "A": "Ammonia gas aur garmi ko nikalne ke liye",
+        "B": "Murgiyon ko udne me help karne ke liye",
+        "C": "Feathers ko dry karne ke liye",
+        "D": "Anday ko thanda karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Murgiyon ke gobar se ammonia gas nikalti hai, isliye fresh air circulation ammonia toxicity se bachane ke liye bohot zaroori hai."
+    },
+    {
+      "qno": 25,
+      "question": "Poultry house ke roof ki width normal cases me kitne se zyada nahi honi chahiye natural ventilation ke liye?",
+      "options": {
+        "A": "10 feet",
+        "B": "30 to 35 feet",
+        "C": "100 feet",
+        "D": "500 feet"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Shed ki width agar 30-35 feet se zyada hogi to center me proper cross-ventilation nahi ho payega."
+    },
+    {
+      "qno": 26,
+      "question": "Murgiyon ko garmi lagne (Heat Stress) par unme kya behavior dikhta hai?",
+      "options": {
+        "A": "Panting (Muh khol kar tezi se saans lena)",
+        "B": "Zyada daudna",
+        "C": "Anday khana",
+        "D": "Sona"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Murgiyon me sweat glands nahi hote, isliye wo garmi me panting (haaphna) shuru karti hain body heat release karne ke liye."
+    },
+    {
+      "qno": 27,
+      "question": "Heavy body weight aur meat yield wali standard broiler breed kaun si hai?",
+      "options": {
+        "A": "Cobb 500 / Ross 308",
+        "B": "Leghorn",
+        "C": "Aseel",
+        "D": "Kadaknath"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Cobb aur Ross pure world me broiler commercial hybrids ke sabse bade brands hain."
+    },
+    {
+      "qno": 28,
+      "question": "Poultry house me litter material ko dry rakhna kyu zaroori hai?",
+      "options": {
+        "A": "Coccidiosis aur ammonia gas build-up se bachne ke liye",
+        "B": "Weight badhane ke liye",
+        "C": "Feathers color change karne ke liye",
+        "D": "Cages ko safe rakhne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Geela litter (wet litter) bimariyo (jaise coccidiosis) ke parasites aur bacteria ke grow hone ki ideal jagah hai."
+    },
+    {
+      "qno": 29,
+      "question": "Litter ko dry rakhne ke liye usme kya milaya jata hai?",
+      "options": {
+        "A": "Salt",
+        "B": "Lime powder (Chuna)",
+        "C": "Urea",
+        "D": "Sand"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chuna (slaked lime) moisture ko absorb karta hai aur ammonia gas ko control karne me help karta hai."
+    },
+    {
+      "qno": 30,
+      "question": "Poultry farm me 'Brooding' stage kya hoti hai?",
+      "options": {
+        "A": "Adult murgiyon ko daana dena",
+        "B": "Chuse (chicks) ko shuruat ke 2-3 hafte tak artificial garmi (temperature) dena",
+        "C": "Anday bechna",
+        "D": "Disease check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chote chuse khud apna body temperature control nahi kar paate, isliye heater/bulbs se unhe heat di jati hai jise brooding kehte hain."
+    },
+    {
+      "qno": 31,
+      "question": "Brooding ke shuruati dino (day 1-7) me temperature kitna hona chahiye chicks ke liye?",
+      "options": {
+        "A": "20°C (68°F)",
+        "B": "32°C to 35°C (90°F to 95°F)",
+        "C": "45°C (113°F)",
+        "D": "10°C (50°F)"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Day-old chicks ko lagbhag 95°F (35°C) temperature chahiye hota hai, jo har hafte 5°F kam kiya jata hai."
+    },
+    {
+      "qno": 32,
+      "question": "Agar chicks brooder lamp ke bilkul paas aakar ek dusre ke upar chadh rahe hain, to iska kya matlab hai?",
+      "options": {
+        "A": "Unhe bohot garmi lag rahi hai",
+        "B": "Unhe thand lag rahi hai (temperature kam hai)",
+        "C": "Wo khel rahe hain",
+        "D": "Wo bhukhe hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar chicks ek sath ikatthe ho rahe hain (huddling), to room temperature kam hai aur unhe thand lag rahi hai."
+    },
+    {
+      "qno": 33,
+      "question": "Brooder house me chicks ko corner me dabkar marne se bachane ke liye kya lagaya jata hai?",
+      "options": {
+        "A": "Chick Guard (round shape barrier)",
+        "B": "Square box",
+        "C": "Fan",
+        "D": "Net"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Chick guards metal ya cardboard ke round panels hote hain jo chicks ko corner me jam hone se rokte hain."
+    },
+    {
+      "qno": 34,
+      "question": "Poultry farming me 'Cannibalism' kya hota hai?",
+      "options": {
+        "A": "Murgiyon ka aapas me ek dusre ko chonch maarna aur pankh/skin khana",
+        "B": "Daana barbad karna",
+        "C": "Bulb todna",
+        "D": "Egg chorna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Overcrowding ya nutrition ki kami ke karan murgiyan ek dusre ko peck karti hain aur ghayal kar deti hain."
+    },
+    {
+      "qno": 35,
+      "question": "Cannibalism ko rokne ke liye murgiyon me kaun sa operation kiya jata hai?",
+      "options": {
+        "A": "Debeaking (Chonch katna)",
+        "B": "Dehorning",
+        "C": "Castration",
+        "D": "Clipping"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Debeaking (chonch ka kuch hissa katna) cannibalism aur feed wastage ko rokne ke liye kiya jata hai."
+    },
+    {
+      "qno": 36,
+      "question": "Broiler poultry feed ko kitne stages me divide kiya jata hai growth ke according?",
+      "options": {
+        "A": "1 stage only",
+        "B": "3 stages (Pre-starter, Starter, Finisher)",
+        "C": "10 stages",
+        "D": "No stages"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Broiler feed ke teen stages hote hain: Pre-starter (0-10 days), Starter (11-21 days) aur Finisher (22 days to market size)."
+    },
+    {
+      "qno": 37,
+      "question": "Layer chickens ke laying phase (anda dene ki umar) me feed me kis mineral ki quantity high honi chahiye?",
+      "options": {
+        "A": "Iron",
+        "B": "Calcium",
+        "C": "Sodium",
+        "D": "Zinc"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Eggshell calcium carbonate se bana hota hai, isliye anday dene wali murgiyon ko calcium rich diet chahiye hoti hai."
+    },
+    {
+      "qno": 38,
+      "question": "Poultry feed ka sabse main ingredient (energy source) kya hai jo farm costs ka bada part hota hai?",
+      "options": {
+        "A": "Maize (Makka)",
+        "B": "Rice straw",
+        "C": "Wheat straw",
+        "D": "Green grass"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Maize poultry feed me carbohydrate/energy ka primary source hai, jo total feed mixture ka 50-60% tak hota hai."
+    },
+    {
+      "qno": 39,
+      "question": "Poultry feed me Protein source ke liye primarily kya mix kiya jata hai?",
+      "options": {
+        "A": "Soybean Meal / DOC (De-oiled cake)",
+        "B": "Wheat bran only",
+        "C": "Sugarcane bagasse",
+        "D": "Salt"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Soybean meal protein ka best vegetable source hai jo poultry feed formulations me common hai."
+    },
+    {
+      "qno": 40,
+      "question": "Feed efficiency ko measure karne ke liye kis term ka use kiya jata hai?",
+      "options": {
+        "A": "FCR (Feed Conversion Ratio)",
+        "B": "SNF",
+        "C": "FMD",
+        "D": "NDDB"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "FCR = Total Feed Consumed / Total Weight Gain. Jitna kam FCR hoga, farm profit utna zyada hoga."
+    },
+    {
+      "qno": 41,
+      "question": "Ideal Broiler FCR lagbhag kitna hota hai modern management me?",
+      "options": {
+        "A": "1.4 to 1.7",
+        "B": "5.0",
+        "C": "10.0",
+        "D": "0.5"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Lagbhag 1.5 kg feed khakar broiler 1 kg body weight gain kar leta hai, jo bohot efficient hai."
+    },
+    {
+      "qno": 42,
+      "question": "Poultry ko pine ke pani ko sanitize karne ke liye kya milaya jata hai?",
+      "options": {
+        "A": "Bleaching powder / Chlorine tablets",
+        "B": "Formaldehyde",
+        "C": "Salt",
+        "D": "Sugar"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Paani ke through infection na faile, isliye chlorine se drinking water treat kiya jata hai."
+    },
+    {
+      "qno": 43,
+      "question": "Murgiyon me feed digestibility badhane ke liye chote patthar ke tukde diye jate hain, unhe kya kehte hain?",
+      "options": {
+        "A": "Grit (Granite/Shell pieces)",
+        "B": "Urea",
+        "C": "Chaff",
+        "D": "Concentrate"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Murgiyon ke teeth nahi hote, grit gizzard (pachak thaili) me jakar daane ko peesne me help karta hai."
+    },
+    {
+      "qno": 44,
+      "question": "Mycotoxins (fungal poison) se poultry feed ko bachane ke liye feed me kya add kiya jata hai?",
+      "options": {
+        "A": "Toxin Binder",
+        "B": "Antibiotics",
+        "C": "Water",
+        "D": "Sugar"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Feed me moisture ki wajah se fungus (jaise Aspergillus) toxins banate hain, toxin binders in toxins ko absorb karke nikal dete hain."
+    },
+    {
+      "qno": 45,
+      "question": "Murgiyon me vitamin E ki kami se hone wali muscle/nerve weakness bimari ko kya kehte hain?",
+      "options": {
+        "A": "Crazy Chick Disease (Encephalomalacia)",
+        "B": "FMD",
+        "C": "Rinderpest",
+        "D": "Milk Fever"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Vitamin E aur Selenium ki kami se crazy chick disease hoti hai jisme chick sahi se chal nahi pata."
+    },
+    {
+      "qno": 46,
+      "question": "Broiler feed me energy level aur fat absorption badhane ke liye thodi quantity me kya add kiya jata hai?",
+      "options": {
+        "A": "Oil / Acid Oil / Fat",
+        "B": "Fiber",
+        "C": "Sand",
+        "D": "Urea"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Broiler finisher feeds me high energy ke liye 1-3% oil/fat add kiya jata hai."
+    },
+    {
+      "qno": 47,
+      "question": "Poultry feeding me 'Chaff cutter' ka use hota hai kya?",
+      "options": {
+        "A": "Nahi, poultry ko bariki se pisa mash ya pellet feed diya jata hai",
+        "B": "Haan, pashuon ki tarah chara katne ke liye",
+        "C": "Sirf eggs clean karne ke liye",
+        "D": "Shed clean karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Chaff cutter dairy me use hota hai, poultry me feeds tiny mash (powder) ya pellets (dane) form me hote hain."
+    },
+    {
+      "qno": 48,
+      "question": "Broiler chicks ko feed khilane wale automatic ya manual bartan ko kya kehte hain?",
+      "options": {
+        "A": "Feeders",
+        "B": "Drinkers",
+        "C": "Nipple system",
+        "D": "Silo"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Daana khilane wale bartan ko Feeder aur paani pilane wale ko Drinker kehte hain."
+    },
+    {
+      "qno": 49,
+      "question": "Automatic water system me modern farms me kya use hota hai jisse pani waste nahi hota?",
+      "options": {
+        "A": "Nipple Drinkers",
+        "B": "Open Troughs",
+        "C": "Bucket system",
+        "D": "Pipe only"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Nipple drinking system me chick jab nipple ko touch karta hai tabhi pani drop hota hai, jisse litter dry rehta hai."
+    },
+    {
+      "qno": 50,
+      "question": "Murgiyon ke feed me aane wala main cost pure farm operational cost ka lagbhag kitna percent hota hai?",
+      "options": {
+        "A": "10-20%",
+        "B": "65-75% (Sabse bada expense)",
+        "C": "95%",
+        "D": "Zero"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Poultry farming me feed cost hi sabse bada investment hai jo total cost ka lagbhag 70% hota hai."
+    },
+    {
+      "qno": 51,
+      "question": "Ande se chusa nikalne ke process ko artificial tarike se jis machine me kiya jata hai use kya kehte hain?",
+      "options": {
+        "A": "Incubator",
+        "B": "Brooder",
+        "C": "Feeder",
+        "D": "Centrifuge"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Incubator machine temperature aur humidity control karke natural hatch ki tarah ande se chusa nikalti hai."
+    },
+    {
+      "qno": 52,
+      "question": "Murga ke ande se chusa nikalne me kitne din (incubation period) lagte hain?",
+      "options": {
+        "A": "7 din",
+        "B": "21 din",
+        "C": "30 din",
+        "D": "45 din"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chicken eggs ka incubation period exactly 21 din (21 days) hota hai."
+    },
+    {
+      "qno": 53,
+      "question": "Incubator machine me andon ko rotate (ghumana/turn) kyu kiya jata hai?",
+      "options": {
+        "A": "Embryo ko shell se chipakne se bachane ke liye",
+        "B": "Cleanliness ke liye",
+        "C": "Weight badhane ke liye",
+        "D": "Color change karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Andon ko har 1-2 ghante me automatic turn kiya jata hai taaki embryo center me rahe aur shell se na chipke."
+    },
+    {
+      "qno": 54,
+      "question": "Incubator me shuruati 18 dino ke liye ideal temperature kitna set kiya jata hai?",
+      "options": {
+        "A": "37.5°C (99.5°F)",
+        "B": "45°C (113°F)",
+        "C": "25°C (77°F)",
+        "D": "100°C (212°F)"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Incubation me body temperature ke lagbhag barabar yaani 99.5°F (37.5°C) temperature zaroori hai."
+    },
+    {
+      "qno": 55,
+      "question": "Hatching ke time incubator me Relative Humidity (nami) kitni honi chahiye last 3 days me?",
+      "options": {
+        "A": "10%",
+        "B": "65-70% (high humidity to soften shell)",
+        "C": "99%",
+        "D": "Zero"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Aakhiri 3 dino me humidity badha di jati hai taaki ande ka chilka (shell) soft ho jaye aur chusa aasaani se use break kar sake."
+    },
+    {
+      "qno": 56,
+      "question": "Ande ke andar embryo healthy hai ya nahi, ye check karne ke liye dark room me light daal kar dekhne ko kya kehte hain?",
+      "options": {
+        "A": "Candling",
+        "B": "Milking",
+        "C": "Debeaking",
+        "D": "Brooding"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Candling process me ande par light focus karke fertile/infertile andon aur crack shells ko detect kiya jata hai."
+    },
+    {
+      "qno": 57,
+      "question": "Hatchery me candling kis kis din ki jati hai general practice me?",
+      "options": {
+        "A": "Daily",
+        "B": "7th day aur 18th day",
+        "C": "Sirf 21st day",
+        "D": "Incubation se pehle daily"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "7th day par development dekhne ke liye aur 18th day par setter se hatcher me transfer karte waqt candling hoti hai."
+    },
+    {
+      "qno": 58,
+      "question": "Hatchery me setter machine aur hatcher machine me kya difference hai?",
+      "options": {
+        "A": "Setter me pehle 18 din anday rehte hain, Hatcher me aakhiri 3 din chusa nikalne ke liye rakhe jate hain",
+        "B": "Setter chusa paalta hai, Hatcher anda nikalta hai",
+        "C": "Setter anday ko boil karta hai",
+        "D": "Dono bilkul same hain bina kisi difference ke"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "18th day ke baad andon ko Setter tray se nikal kar Hatcher basket me shift kiya jata hai taaki chusa aasaani se ghum sake."
+    },
+    {
+      "qno": 59,
+      "question": "Fertile egg aur Infertile egg me kya main difference hai?",
+      "options": {
+        "A": "Fertile egg se chusa nikal sakta hai (mating se paida), infertile se nahi (non-fertile)",
+        "B": "Infertile egg me yolk nahi hota",
+        "C": "Fertile egg green hota hai",
+        "D": "Koi difference nahi hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Commercial table eggs jo market me milte hain wo infertile hote hain aur unme chusa nahi ban sakta."
+    },
+    {
+      "qno": 60,
+      "question": "Incubator me andon ko kaise arrange kiya jata hai?",
+      "options": {
+        "A": "Broad end up (chauda hissa upar) aur pointed end down (nukila hissa neeche)",
+        "B": "Pointed end up aur broad end down",
+        "C": "Horizontal flat",
+        "D": "Kaise bhi daal do"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Broad end me air cell (hawa ki thaili) hoti hai jisse embryo saans leta hai, isliye chauda hissa hamesha upar hona chahiye."
+    },
+    {
+      "qno": 61,
+      "question": "Hatchery me clean air aur sanitation ke liye kaun si gas se fumigation kiya jata hai?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Formaldehyde gas (Formalin + Potassium Permanganate mix)",
+        "C": "Carbon dioxide",
+        "D": "LPG"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Formalin aur KMnO4 chemical reaction se formaldehyde gas banti hai jo hatchery ke micro-organisms ko maar deti hai."
+    },
+    {
+      "qno": 62,
+      "question": "Ande se nikalne ke baad chicks ka sex (male/female) identify karne ko kya kehte hain?",
+      "options": {
+        "A": "Sexing (Vent sexing / Feather sexing)",
+        "B": "Candling",
+        "C": "Brooding",
+        "D": "Debeaking"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Vent sexing ya wing feather length se male aur female chicks ko alag kiya jata hai."
+    },
+    {
+      "qno": 63,
+      "question": "Incubator me air circulation (fan) ka kya function hai?",
+      "options": {
+        "A": "Temperature aur oxygen ko machine me barabar distribute rakhna",
+        "B": "Egg shell ko clean rakhna",
+        "C": "Egg size badhana",
+        "D": "Electricity save karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Forced draft incubators me fans hot air aur oxygen ko sabhi trays tak barabar pahuchate hain."
+    },
+    {
+      "qno": 64,
+      "question": "Hatchery waste (chhilke, mare chuse) ko disposal karne ka best method kya hai?",
+      "options": {
+        "A": "Incineration (Jalana) ya Deep burial (Gaddhe me dabana)",
+        "B": "River me behana",
+        "C": "Khule me chhodna",
+        "D": "Feed me mila dena directly"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Biosecurity ke liye hatchery waste ko jalana ya deep ground burial karna hi safe aur environment-friendly hai."
+    },
+    {
+      "qno": 65,
+      "question": "Day-old chicks ko hatchery se transport karte waqt kis type ke boxes use hote hain?",
+      "options": {
+        "A": "Plastic airtight box",
+        "B": "Cardboard boxes specialized holes ke sath air supply ke liye",
+        "C": "Wooden heavy box",
+        "D": "Open net box"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Air holes wale disposable corrugated paper boxes me chicks ko safely door tak transport kiya jata hai."
+    },
+    {
+      "qno": 66,
+      "question": "Murgiyon me hone wali 'Ranikhet' (New Castle Disease) bimari kis wajah se hoti hai?",
+      "options": {
+        "A": "Virus",
+        "B": "Bacteria",
+        "C": "Fungus",
+        "D": "Lice"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ranikhet (New Castle Disease) ek behad dangerous aur highly contagious viral disease hai jo tezi se failti hai."
+    },
+    {
+      "qno": 67,
+      "question": "Murgiyon me Bird Flu (Avian Influenza) ka main cause kya hai?",
+      "options": {
+        "A": "Influenza Virus (Jaise H5N1)",
+        "B": "Salmonella Bacteria",
+        "C": "Wet litter",
+        "D": "Excess feeding"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bird Flu H5N1 virus se failta hai, jo zoonotic hai (insano me bhi pashuon se aa sakta hai)."
+    },
+    {
+      "qno": 68,
+      "question": "Gumboro disease ka dusra naam kya hai jo chicks ki immunity khatam karti hai?",
+      "options": {
+        "A": "IBD (Infectious Bursal Disease)",
+        "B": "Fowl Pox",
+        "C": "Ranikhet",
+        "D": "Coccidiosis"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "IBD (Infectious Bursal Disease) ko Gumboro bimari kehte hain, ye chicks ke immune organ 'Bursa' ko destroy karti hai."
+    },
+    {
+      "qno": 69,
+      "question": "Murgiyon ki skin, comb aur wattles par papdi (nodules) banna kis bimari ki pehchan hai?",
+      "options": {
+        "A": "Fowl Pox (Mata bimari)",
+        "B": "Ranikhet",
+        "C": "Bird Flu",
+        "D": "Coryza"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Fowl Pox (poxvirus se) me skin par daane aur zakhm (lesions) ban jate hain."
+    },
+    {
+      "qno": 70,
+      "question": "Coccidiosis bimari murgiyon me kis organ ko sabse zyada damage karti hai?",
+      "options": {
+        "A": "Brain",
+        "B": "Intestine (Aant) jisse khooni dast hote hain",
+        "C": "Feather",
+        "D": "Eyes"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Coccidiosis ek protozoan disease hai jo intestinal lining ko damage karti hai, jisse bloody diarrhea (khooni dast) hote hain."
+    },
+    {
+      "qno": 71,
+      "question": "Coccidiosis se bachne ke liye feed me kya milaya jata hai regularly?",
+      "options": {
+        "A": "Coccidiostats (Jaise Amprolium)",
+        "B": "Calcium carbonate",
+        "C": "Salt",
+        "D": "Sugar"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Feed formulation me coccidiostats milaaye jate hain taaki coccidiosis disease na faile."
+    },
+    {
+      "qno": 72,
+      "question": "Ranikhet disease se bachne ke liye chicks ko 5-7 din ki age me kaun si vaccine di jati hai?",
+      "options": {
+        "A": "Lasota vaccine (F1 Strain)",
+        "B": "R2B vaccine",
+        "C": "BCG",
+        "D": "Fowl Pox vaccine"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ranikhet se bachav ke liye shuruat me mild live vaccine 'Lasota' aankh ya naak me drop ke roop me di jata hai."
+    },
+    {
+      "qno": 73,
+      "question": "Murgiyon me paralysis (lakwa) aur neck twisting kis disease ki vajah se ho sakta hai?",
+      "options": {
+        "A": "Marek's Disease ya Ranikhet",
+        "B": "Coryza",
+        "C": "Lice infection",
+        "D": "Excess water intake"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Marek's disease me nerves affect hoti hain jisse wing/leg paralysis ho jata hai aur Ranikhet me nervous symptoms dikhte hain."
+    },
+    {
+      "qno": 74,
+      "question": "Marek's disease ki vaccine kab di jati hai chicks ko?",
+      "options": {
+        "A": "Hatchery me Day 1 (pehle hi din)",
+        "B": "6 mahine baad",
+        "C": "Jab bimari fail jaye tab",
+        "D": "Kabi nahi"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Marek's ki vaccine hatchery me hi janam ke pehle din (Day 1) subcutaneous injection se lagayi jati hai."
+    },
+    {
+      "qno": 75,
+      "question": "Poultry farm me 'Biosecurity' ka kya matlab hai?",
+      "options": {
+        "A": "Farm par guards khade karna",
+        "B": "Infection aur pathogens ko farm ke andar aane se rokne ke hygienic methods",
+        "C": "CCTV camera lagana",
+        "D": "Farm loan ka insurance"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Biosecurity me disinfection bath, clean clothes, boundary wall, bahar ke logo ki entry block karna, aur birds ka sanitization aata hai."
+    },
+    {
+      "qno": 76,
+      "question": "Farm gate aur shed ke entrance par visitors ke liye kya banaya jata hai jisme disinfectant pani hota hai?",
+      "options": {
+        "A": "Foot Bath (Dipo pool)",
+        "B": "Water tank",
+        "C": "Play area",
+        "D": "Garden"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Entrance par 'Foot Bath' (chuna aur potassium solution) hota hai jisme shoes saaf karke hi andar ja sakte hain."
+    },
+    {
+      "qno": 77,
+      "question": "Murgiyon me fungal infection ki wajah se respiratory problem hone ko kya kehte hain?",
+      "options": {
+        "A": "Brooder Pneumonia (Aspergillosis)",
+        "B": "Coryza",
+        "C": "IBD",
+        "D": "Fowl Cholera"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Aspergillus fungus geeli ghans/litter me grow karta hai aur saans ke raste chuso ko affect karta hai, jise Brooder Pneumonia kehte hain."
+    },
+    {
+      "qno": 78,
+      "question": "Infectious Coryza kis type ki bimari hai jisme murgiyon ke face par sujan (swelling) aur nose discharge hota hai?",
+      "options": {
+        "A": "Bacterial disease (Haemophilus paragallinarum)",
+        "B": "Viral disease",
+        "C": "Fungal disease",
+        "D": "Vitamin deficiency"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Infectious Coryza ek acute respiratory bacterial disease hai jisme aankh ke pass extreme swelling hoti hai."
+    },
+    {
+      "qno": 79,
+      "question": "Poultry farm me rats (chuhe) aur wild birds ko aane se rokna kyu zaroori hai?",
+      "options": {
+        "A": "Wo feed khate hain aur diseases (jaise Salmonella) failate hain",
+        "B": "Wo murgiyon se khelte hain",
+        "C": "Wo eggs decorate karte hain",
+        "D": "Zaroori nahi hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Chuhe aur jungli chidiya farm ke feed ko contaminate karte hain aur dangerous pathogens carry karte hain."
+    },
+    {
+      "qno": 80,
+      "question": "Poultry house ko nayi batch aane se pehle clean karne ke liye kis gas se fumigate kiya jata hai?",
+      "options": {
+        "A": "Formaldehyde gas",
+        "B": "Nitrogen gas",
+        "C": "Oxygen",
+        "D": "Cooking gas"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Fumigation se poora shed sanitize ho jata hai aur puraani batch ka koi micro-organism bacha nahi rehta."
+    },
+    {
+      "qno": 81,
+      "question": "Healthy and fertile breeding flock me Male to Female ratio (murgon aur murgiyon ka ratio) kya hona chahiye normal design me?",
+      "options": {
+        "A": "1 Male to 8-10 Females (1:10)",
+        "B": "1 Male to 100 Females",
+        "C": "1 Male to 1 Female (1:1)",
+        "D": "Dono ka ratio zaroori nahi hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Proper egg fertilization ke liye breeder farm me 10 murgiyon par 1 murga (rooster) hona chahiye."
+    },
+    {
+      "qno": 82,
+      "question": "All-in All-out system ka poultry farming me kya benefit hai?",
+      "options": {
+        "A": "Pure batch ko ek sath lana aur ek sath bechna, jisse disease cycle toot jata hai",
+        "B": "Feed cost bachana",
+        "C": "Shed size bada karna",
+        "D": "Anday jaldi nikalna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ek sath birds ko bechne ke baad poore shed ko khali karke disinfect kiya jata hai aur gap diya jata hai, jisse infection ka risk lagbhag khatam ho jata hai."
+    },
+    {
+      "qno": 83,
+      "question": "Sick (bimari) birds ko healthy flock se alag karne ko kya kehte hain?",
+      "options": {
+        "A": "Culling / Isolation",
+        "B": "Debeaking",
+        "C": "Brooding",
+        "D": "Fumigation"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Bimar pashuon/birds ko turant alag (isolate) kar dena chahiye aur productivity na dene wale birds ko cull (remove) karna chahiye."
+    },
+    {
+      "qno": 84,
+      "question": "Murgiyon me calcium aur vitamin D3 ki kami se unke pair kamzor hokar chalne me problem hone ko kya kehte hain?",
+      "options": {
+        "A": "Rickets (chuso me) ya Osteomalacia",
+        "B": "Marek's",
+        "C": "Fowl Pox",
+        "D": "Bird Flu"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Calcium, phosphorus ya Vitamin D3 ki kami se bones soft ho jati hain jise rickets kehte hain."
+    },
+    {
+      "qno": 85,
+      "question": "Murgiyon ke par (feathers) par aane wale ticks aur mites se bachne ke liye kya kiya jata hai?",
+      "options": {
+        "A": "Shed disinfection aur anti-parasitic dusting / spray",
+        "B": "Deworming tablet",
+        "C": "Daana band karna",
+        "D": "Shed band rakhna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Body parasites ko control karne ke liye safe antiparasitic chemical dust ya spray use hota hai."
+    },
+    {
+      "qno": 86,
+      "question": "Fresh and high-quality egg check karne ke liye 'Egg Grading' kis cheez par base hoti hai?",
+      "options": {
+        "A": "Egg weight, cleanliness, shell quality aur internal quality (yolk & albumen)",
+        "B": "Only egg color",
+        "C": "Price of egg",
+        "D": "Feed consumed"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Egg grading ande ke size, saaf-safai aur yolk ki condition par nirbhar karti hai."
+    },
+    {
+      "qno": 87,
+      "question": "Egg yolk (ande ke beech ka peela hissa) ka yellow/orange color kis pigment ki presence se hota hai?",
+      "options": {
+        "A": "Xanthophylls (Carotenoid pigment feed me)",
+        "B": "Melanin",
+        "C": "Blood spots",
+        "D": "Water content"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Murgiyan jo yellow maize ya green grass khati hain unke yolk me xanthophyll accumulate hota hai jo use deep yellow color deta hai."
+    },
+    {
+      "qno": 88,
+      "question": "Egg albumen (ande ka safed hissa) me primarily kya paya jata hai?",
+      "options": {
+        "A": "Water and Protein (Ovalbumin)",
+        "B": "Fat and Cholesterol",
+        "C": "Starch",
+        "D": "Iron and Vitamin C"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Egg white (albumen) me lagbhag 90% pani aur baqi high-quality protein hota hai, isme fat zero hota hai."
+    },
+    {
+      "qno": 89,
+      "question": "Table egg (commercial egg) aur Hatching egg me kya main difference hai?",
+      "options": {
+        "A": "Table egg infertile hota hai aur hatching egg fertile hota hai",
+        "B": "Table egg bada hota hai",
+        "C": "Hatching egg ko boil nahi kiya ja sakta",
+        "D": "Dono same hain"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Hatching egg breeder farm se aata hai jaha male and female sath rehte hain, jabki layer farm par male nahi hote isliye table egg infertile hote hain."
+    },
+    {
+      "qno": 90,
+      "question": "Egg shells par aane wale cracks aur structural defects ko examine karne ka automatic machine method kya hai?",
+      "options": {
+        "A": "Ultrasonic crack detection / Automatic candling",
+        "B": "Gerber test",
+        "C": "Boiling test",
+        "D": "Lactometer test"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Modern sorting machines ultrasonic waves aur light beams se micro-cracks detect karti hain."
+    },
+    {
+      "qno": 91,
+      "question": "Ande ki shell (outer layer) ka main chemical component kya hota hai?",
+      "options": {
+        "A": "Calcium Carbonate (CaCO3)",
+        "B": "Sodium Chloride",
+        "C": "Silicon Dioxide",
+        "D": "Protein only"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ande ka chilka lagbhag 95% Calcium Carbonate se bana hota hai."
+    },
+    {
+      "qno": 92,
+      "question": "Broiler meat ko processing plant me clean karne ke baad moisture level maintain karne ke liye thande pani me dubane ko kya kehte hain?",
+      "options": {
+        "A": "Chilling / Carcass chilling",
+        "B": "Boiling",
+        "C": "Pasteurization",
+        "D": "Homogenization"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Carcass chilling (water chilling ya air chilling) bacteria grow hone se rokti hai aur freshness maintain karti hai."
+    },
+    {
+      "qno": 93,
+      "question": "Egg yolk me sabse bada nutritional component kya hota hai?",
+      "options": {
+        "A": "Fat, Cholesterol, Fat-soluble Vitamins (A, D, E, K) and Lecithin",
+        "B": "Water only",
+        "C": "Vitamin C only",
+        "D": "Zero cholesterol"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ande ka poora fat aur cholesterol yolk me hi hota hai, iske alawa iron aur vitamins bhi isme hote hain."
+    },
+    {
+      "qno": 94,
+      "question": "Ande ki shelf life ko cold storage (fridge) me kitne temperature par badhaya jata hai?",
+      "options": {
+        "A": "4°C to 10°C (39°F to 50°F)",
+        "B": "100°C",
+        "C": "-20°C",
+        "D": "30°C"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Cold storage me 4-10°C par anday 3-4 week tak fresh rehte hain bina quality lose kiye."
+    },
+    {
+      "qno": 95,
+      "question": "Murgiyon ke anday ko farm se direct retail market me sell karne wale cooperative and commercial marketing board ka name kya hai India me?",
+      "options": {
+        "A": "NECC (National Egg Co-ordination Committee)",
+        "B": "NDDB",
+        "C": "Amul directly",
+        "D": "NABARD"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "NECC India me egg prices declare karta hai aur egg consumption ko promote karta hai ('Sunday ho ya Monday, roz khao ande')."
+    },
+    {
+      "qno": 96,
+      "question": "Broiler poultry farming me market age (selling stage) kitne weeks ki hoti hai general standards me?",
+      "options": {
+        "A": "5 to 6 weeks (35-42 days) jab weight 2-2.5 kg ho jaye",
+        "B": "6 months",
+        "C": "1 year",
+        "D": "2 weeks"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Modern broilers high efficiency ke karan sirf 5-6 weeks me market-ready weight (2+ kg) reach kar lete hain."
+    },
+    {
+      "qno": 97,
+      "question": "Layers (egg layers) anday dena kis age me shuru karti hain?",
+      "options": {
+        "A": "18 to 20 weeks (lagbhag 4.5 se 5 mahine ki umar me)",
+        "B": "1 year",
+        "C": "5 weeks",
+        "D": "10 months"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Layers 18-20 weeks ki umar me sexual maturity reach karti hain aur anday dena shuru karti hain jo lagbhag 72-80 weeks tak chalta hai."
+    },
+    {
+      "qno": 98,
+      "question": "Layer farming me peak egg production phase (sabse zyada anda dene wala period) kis week me hota hai?",
+      "options": {
+        "A": "26 to 30 weeks of age",
+        "B": "18 weeks",
+        "C": "70 weeks",
+        "D": "Incubation phase"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "26-30 weeks par flock peak production (90%+ laying rate) reach karta hai."
+    },
+    {
+      "qno": 99,
+      "question": "Ande ke andar ande ki quality ko bina use tode light se check karne me kis parameter ko dekha jata hai?",
+      "options": {
+        "A": "Air cell size, yolk shadow, blood spots",
+        "B": "Only shell thickness",
+        "C": "Weight only",
+        "D": "Water percentage"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Candling se ande ke andar ka air cell size (jitna chota air cell, utna fresh egg) aur blood spots detect kiye ja sakte hain."
+    },
+    {
+      "qno": 100,
+      "question": "Poultry processing plants me hygiene aur safety standards ko maintain karne ke liye kaun sa certification zaroori hai?",
+      "options": {
+        "A": "FSSAI registration & HACCP (Hazard Analysis Critical Control Point) norms",
+        "B": "NABARD permit only",
+        "C": "NECC card",
+        "D": "No safety check is required"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Commercial chicken meat processing aur export ke liye FSSAI approval aur HACCP hygiene guidelines ka palan mandatory hai."
+    }
+  ]
+}

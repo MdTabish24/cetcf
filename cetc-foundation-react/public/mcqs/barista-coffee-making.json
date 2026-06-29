@@ -1,0 +1,1443 @@
+{
+  "course_name": "Barista & Coffee Making",
+  "sector": "Food, Catering & Hospitality",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Coffee & Barista's Role",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Coffee Beans: Origin, Processing & Roasting",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Espresso Machine Operation & Maintenance",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Milk Frothing & Latte Art Techniques",
+      "question_range": "Q52-Q67"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Diverse Coffee Beverages & Brewing Methods",
+      "question_range": "Q68-Q83"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Customer Service, Hygiene & Inventory Management",
+      "question_range": "Q84-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek Barista ka primary role kya hai?",
+      "options": {
+        "A": "Coffee beans roast karna",
+        "B": "Customers ko coffee beverages prepare aur serve karna",
+        "C": "Restaurant ka menu design karna",
+        "D": "Kitchen ke saare utensils saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Barista ka mukhya kaam customers ke liye coffee drinks banana aur serve karna hota hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ache coffee ka taste kis factor par sabse zyada depend karta hai?",
+      "options": {
+        "A": "Coffee cup ka colour",
+        "B": "Barista ki uniform",
+        "C": "Freshness of coffee beans",
+        "D": "Cafe ki music playlist"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Fresh coffee beans hi ache coffee taste ki buniyad hote hain."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Coffee plant kis region mein naturally grow karta hai?",
+      "options": {
+        "A": "Polar regions",
+        "B": "Tropical regions",
+        "C": "Desert regions",
+        "D": "Mountain tops"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Coffee plant tropical regions mein, jaise ki 'Coffee Belt' mein, achi tarah ugta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Coffee beans ko grind karne ka main reason kya hai?",
+      "options": {
+        "A": "Unhe chhota dikhane ke liye",
+        "B": "Unka aroma release karne aur brewing ke liye surface area badhane ke liye",
+        "C": "Unka weight kam karne ke liye",
+        "D": "Unhe lamba time tak store karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grinding se coffee beans ka surface area badh jata hai, jisse brewing ke dauran flavour extraction behtar hota hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek Barista ko customer service mein kya maintain karna chahiye?",
+      "options": {
+        "A": "Silence",
+        "B": "Friendly and professional attitude",
+        "C": "Strictness",
+        "D": "Speed without quality"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Achhi customer service ke liye Barista ka friendly aur professional hona zaroori hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Coffee cherries ke andar kitne seeds (beans) hote hain generally?",
+      "options": {
+        "A": "Ek",
+        "B": "Do",
+        "C": "Teen",
+        "D": "Char"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aam taur par, ek coffee cherry mein do seeds hote hain, jinhe hum coffee beans kehte hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Barista ke liye coffee-making mein consistency kyon important hai?",
+      "options": {
+        "A": "Taki har customer ko same high-quality beverage mile",
+        "B": "Taki machine jaldi kharab na ho",
+        "C": "Taki coffee beans kam kharch hon",
+        "D": "Taki kaam jaldi khatam ho jaye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Consistency se har customer ko standard aur high-quality coffee milti hai, jo customer satisfaction ke liye zaroori hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Arabica aur Robusta, yeh kya hain?",
+      "options": {
+        "A": "Coffee machines ke brand names",
+        "B": "Coffee shops ke naam",
+        "C": "Do main coffee species",
+        "D": "Coffee roasting levels"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Arabica aur Robusta coffee plants ki do sabse common species hain, jinke beans alag-alag characteristics rakhte hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Coffee ke taste profile ko kya affect karta hai?",
+      "options": {
+        "A": "Sirf sugar level",
+        "B": "Origin, processing method, roast level, aur brewing method",
+        "C": "Sirf milk type",
+        "D": "Coffee shop ka interior design"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Coffee ka taste uske origin, processing, roasting aur brewing method jaise kai factors par depend karta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek Barista ko hygiene ka dhyan kyon rakhna chahiye?",
+      "options": {
+        "A": "Sirf achha dikhne ke liye",
+        "B": "Customers ki health aur safety ke liye",
+        "C": "Taki kaam jaldi ho sake",
+        "D": "Taki machines kharab na ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Food safety aur customer health ke liye hygiene maintain karna bahut zaroori hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Coffee ke 'body' se kya matlab hai?",
+      "options": {
+        "A": "Coffee ka temperature",
+        "B": "Coffee ka weight",
+        "C": "Mouthfeel aur texture",
+        "D": "Coffee cup ka size"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Coffee ki 'body' uske mouthfeel aur texture ko refer karti hai, jaise ki light, medium, ya full-bodied."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Espresso machine mein 'portafilter' ka kya role hai?",
+      "options": {
+        "A": "Milk steam karne ke liye",
+        "B": "Ground coffee ko hold karna aur brew karna",
+        "C": "Pani garam karne ke liye",
+        "D": "Sugar store karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Portafilter ground coffee ko hold karta hai aur espresso machine mein lock hokar hot water ko coffee se pass karne deta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Green coffee beans kya hote hain?",
+      "options": {
+        "A": "Beans jo abhi roaste nahi hue hain",
+        "B": "Coffee beans jo hare rang ke hote hain",
+        "C": "Artificial coffee beans",
+        "D": "Coffee beans jo kharab ho gaye hain"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Green coffee beans woh hote hain jinhe abhi roast nahi kiya gaya hai. Roasting ke baad hi unka colour brown hota hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Coffee tasting mein 'acidity' ka kya matlab hai?",
+      "options": {
+        "A": "Coffee ka kharaab hona",
+        "B": "Coffee ka sour taste",
+        "C": "Bright, lively aur fruity notes",
+        "D": "Coffee mein lemon ka taste"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Coffee mein acidity ek desirable trait hai, jo usme brightness, crispness aur fruity notes add karti hai, jaise ki citrus ya berry."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek Barista ko basic maintenance tasks kyon aane chahiye?",
+      "options": {
+        "A": "Taki woh machine ko repair kar sake",
+        "B": "Taki woh choti-moti problems solve kar sake aur machine ki life badha sake",
+        "C": "Taki woh machine ko dismantle kar sake",
+        "D": "Taki woh machine ko upgrade kar sake"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Basic maintenance se machine ki efficiency bani rehti hai aur uski life badhti hai, aur choti-moti issues ko Barista khud handle kar sakta hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Coffee ki quality par water quality ka kya asar hota hai?",
+      "options": {
+        "A": "Koi asar nahi hota",
+        "B": "Bahut kam asar hota hai",
+        "C": "Bahut zyada asar hota hai, yeh taste ko directly affect karta hai",
+        "D": "Sirf colour ko affect karta hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Water quality coffee ke taste aur aroma ko significantly affect karti hai, clean aur filtered water best hota hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "What is the primary function of a 'tamp' in espresso making?",
+      "options": {
+        "A": "Coffee ko scoop karne ke liye",
+        "B": "Ground coffee ko portafilter mein evenly compress karne ke liye",
+        "C": "Milk ko froth karne ke liye",
+        "D": "Coffee beans ko grind karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tamping se ground coffee evenly compress hoti hai, jisse water pressure uniformly distribute hota hai aur proper extraction hoti hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Coffee beans ka kaunsa type high altitude par grow karta hai aur uska flavour profile complex hota hai?",
+      "options": {
+        "A": "Robusta",
+        "B": "Liberica",
+        "C": "Excelsa",
+        "D": "Arabica"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Arabica beans high altitudes par ugte hain aur inka flavour complex, aromatic aur acidic hota hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Coffee beans mein caffeine content generally kis variety mein zyada hota hai?",
+      "options": {
+        "A": "Arabica",
+        "B": "Robusta",
+        "C": "Liberica",
+        "D": "Excelsa"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Robusta beans mein Arabica ke muqable double caffeine hota hai aur inka taste zyada strong aur bitter hota hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Coffee beans ko 'wet process' se process karne ka kya fayda hai?",
+      "options": {
+        "A": "Yeh beans ko zyada bitter banata hai",
+        "B": "Yeh beans ko cleaner aur brighter flavour deta hai",
+        "C": "Yeh processing ka sabse sasta tareeka hai",
+        "D": "Yeh beans ko jaldi dry karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wet process (washed process) se beans ka fruity pulp hataya jata hai, jisse unhe cleaner, brighter aur more acidic flavour milta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Coffee roasting ka main purpose kya hai?",
+      "options": {
+        "A": "Beans ko lamba time tak store karna",
+        "B": "Beans ka colour change karna",
+        "C": "Beans mein flavour aur aroma develop karna",
+        "D": "Beans ka weight kam karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Roasting se beans ke andar chemical reactions hote hain jo unke flavour aur aroma ko develop karte hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "'First Crack' kya hai coffee roasting process mein?",
+      "options": {
+        "A": "Roaster machine ka tootna",
+        "B": "Beans ka phatne ki pehli awaaz, jab moisture release hoti hai",
+        "C": "Coffee cup ka tootna",
+        "D": "Roasting process ka end"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "First crack woh stage hai jab beans ke andar ka moisture steam ban kar nikalta hai, jisse ek popping sound aati hai. Yeh roasting profile ka ek important indicator hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Light roast coffee ka taste profile generally kaisa hota hai?",
+      "options": {
+        "A": "Bitter aur smoky",
+        "B": "Mild, acidic aur fruity notes ke saath",
+        "C": "Bahut strong aur dark",
+        "D": "No flavour"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Light roasts mein beans ka original flavour profile zyada retain hota hai, often with bright acidity aur fruity notes."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Dark roast coffee ka taste profile generally kaisa hota hai?",
+      "options": {
+        "A": "Bright aur floral",
+        "B": "Mild aur nutty",
+        "C": "Bold, smoky aur bitter, often with chocolatey notes",
+        "D": "Fruity aur sweet"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dark roasts mein beans ke natural oils surface par aa jate hain, jisse ek bold, smoky, aur kabhi-kabhi chocolatey ya bitter taste aata hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Coffee beans ko store karne ka sabse best tareeka kya hai?",
+      "options": {
+        "A": "Khuli hawa mein",
+        "B": "Freezer mein",
+        "C": "Air-tight container mein, cool aur dark jagah par",
+        "D": "Sunlight mein"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Coffee beans ko air-tight container mein, cool aur dark jagah par store karne se unki freshness aur flavour lamba time tak maintain rehti hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "'Peaberry' coffee bean kya hai?",
+      "options": {
+        "A": "Ek bada size ka coffee bean",
+        "B": "Ek single, gol coffee bean jo cherry mein akela develop hota hai",
+        "C": "Ek coffee bean jo phat gaya ho",
+        "D": "Ek artificial coffee bean"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Aam taur par, coffee cherry mein do flat-sided beans hote hain. Peaberry ek natural mutation hai jahan sirf ek gol bean develop hota hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Coffee beans ko grind karne ke baad kitni der tak unka best flavour rehta hai?",
+      "options": {
+        "A": "Kai din tak",
+        "B": "Kai ghante tak",
+        "C": "Kuch hi minutes tak",
+        "D": "Kai hafte tak"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Grinding ke baad coffee ka surface area badh jata hai, jisse woh bahut jaldi apna aroma aur flavour khone lagti hai. Isliye fresh grind karna best hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Kon sa factor coffee bean ke flavour profile ko sabse zyada influence karta hai, origin ke baad?",
+      "options": {
+        "A": "Packaging material",
+        "B": "Roast level",
+        "C": "Grinder ka brand",
+        "D": "Cup ka material"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Origin ke baad, roast level coffee ke flavour profile ko sabse zyada badalta hai, from light and fruity to dark and smoky."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Kon sa processing method beans ko fruity aur full-bodied flavour deta hai, jisme cherry ka pulp dry hone tak laga rehta hai?",
+      "options": {
+        "A": "Wet Process (Washed)",
+        "B": "Dry Process (Natural)",
+        "C": "Semi-Washed Process",
+        "D": "Honey Process"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dry process mein coffee cherries ko dhoop mein sukhaya jata hai jab tak ki woh puri tarah dry na ho jaye, jisse beans mein fruity aur full-bodied flavour aata hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Coffee beans ko air-tight container mein store karna kyon zaroori hai?",
+      "options": {
+        "A": "Taki woh zyada garam na hon",
+        "B": "Taki unmein moisture na aaye",
+        "C": "Oxygen exposure kam karne aur freshness retain karne ke liye",
+        "D": "Taki unka colour na badle"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Oxygen coffee beans ko stale kar deta hai. Air-tight container oxygen exposure ko minimize karta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Grind size ka coffee extraction par kya asar hota hai?",
+      "options": {
+        "A": "Grind size ka koi asar nahi hota",
+        "B": "Finer grind se faster extraction aur stronger taste, coarser grind se slower extraction aur milder taste",
+        "C": "Finer grind se slower extraction, coarser grind se faster extraction",
+        "D": "Sirf coffee ke colour ko affect karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Finer grind se water ka contact area badhta hai, jisse extraction faster aur stronger hoti hai. Coarser grind se extraction slower aur milder hoti hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Kon sa roast level espresso ke liye sabse commonly use hota hai?",
+      "options": {
+        "A": "Light roast",
+        "B": "Medium roast",
+        "C": "Dark roast",
+        "D": "Green beans"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Medium roast espresso ke liye popular hai kyunki yeh beans ke natural flavours ko retain karta hai jabki espresso ke liye required body aur sweetness bhi provide karta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Coffee beans ko freezing karne se kya hota hai?",
+      "options": {
+        "A": "Unka flavour enhance hota hai",
+        "B": "Unka flavour long-term ke liye preserve hota hai, lekin condensation se bachna zaroori hai",
+        "C": "Woh turant kharab ho jate hain",
+        "D": "Woh grind karna mushkil ho jate hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Freezing coffee ki freshness ko preserve kar sakta hai, lekin condensation se bachne ke liye beans ko air-tight container mein freeze karna chahiye aur use karne se pehle room temperature par lana chahiye."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Coffee ke flavour mein 'nutty' notes kis type ke beans mein commonly paye jate hain?",
+      "options": {
+        "A": "Very light roasted Arabica",
+        "B": "Medium roasted Arabica aur Robusta blends",
+        "C": "Dark roasted Robusta",
+        "D": "Washed process Liberica"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nutty notes, jaise ki almond ya hazelnut, medium roasted Arabica beans aur Robusta blends mein commonly milte hain."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Espresso machine mein 'group head' ka kya kaam hai?",
+      "options": {
+        "A": "Milk steam karna",
+        "B": "Coffee beans grind karna",
+        "C": "Portafilter ko lock karna aur garam pani ko coffee ke through pass karna",
+        "D": "Pani store karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Group head woh part hai jahan portafilter attach hota hai aur jahan se pressurized hot water ground coffee par release hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Espresso machine ko regularly backflush karna kyon zaroori hai?",
+      "options": {
+        "A": "Taki machine zyada garam na ho",
+        "B": "Taki machine ke andar ke coffee oils aur grounds saaf hon",
+        "C": "Taki machine zyada electricity consume na kare",
+        "D": "Taki machine naya dikhe"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Backflushing se group head aur internal parts se coffee oils, grounds aur residues remove hote hain, jo machine ki performance aur coffee ke taste ko affect kar sakte hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Ek single espresso shot ke liye kitne grams ground coffee use karte hain generally?",
+      "options": {
+        "A": "2-3 grams",
+        "B": "7-9 grams",
+        "C": "15-18 grams",
+        "D": "20-25 grams"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek single espresso shot ke liye 7-9 grams ground coffee use karna standard hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Espresso extraction ke liye ideal temperature range kya hai?",
+      "options": {
+        "A": "60-70°C",
+        "B": "80-85°C",
+        "C": "90-96°C",
+        "D": "100-110°C"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Ideal extraction temperature 90-96°C (195-205°F) hota hai, jo flavour compounds ko efficiently dissolve karta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "'Dosing' kya hai espresso making mein?",
+      "options": {
+        "A": "Milk measure karna",
+        "B": "Grinder se portafilter mein ground coffee ki sahi quantity dalna",
+        "C": "Pani measure karna",
+        "D": "Sugar add karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dosing ka matlab hai portafilter mein ground coffee ki accurate amount dalna, jo consistent shots ke liye zaroori hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Espresso machine mein steam wand ka kya use hai?",
+      "options": {
+        "A": "Hot water dispense karna",
+        "B": "Milk ko steam aur froth karna",
+        "C": "Coffee ko mix karna",
+        "D": "Espresso shots banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Steam wand hot steam produce karta hai, jiska use milk ko heat aur froth karne ke liye hota hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Agar espresso shot bahut jaldi extract ho raha hai (under-extracted), toh kya adjust karna chahiye?",
+      "options": {
+        "A": "Grind ko aur coarse karna",
+        "B": "Grind ko aur fine karna",
+        "C": "Water temperature badhana",
+        "D": "Tamp pressure kam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Under-extraction tab hoti hai jab water bahut jaldi coffee se nikal jata hai. Grind ko fine karne se flow rate kam hota hai aur extraction time badhta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Agar espresso shot bahut dheere extract ho raha hai (over-extracted), toh kya adjust karna chahiye?",
+      "options": {
+        "A": "Grind ko aur coarse karna",
+        "B": "Grind ko aur fine karna",
+        "C": "Water temperature kam karna",
+        "D": "Tamp pressure badhana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Over-extraction tab hoti hai jab water bahut dheere coffee se nikalta hai. Grind ko coarse karne se flow rate badhta hai aur extraction time kam hota hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Espresso machine ke water reservoir mein kon sa pani use karna chahiye?",
+      "options": {
+        "A": "Tap water bina filter ke",
+        "B": "Distilled water",
+        "C": "Filtered water",
+        "D": "Boiled water"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Filtered water use karna chahiye impurities aur minerals ko remove karne ke liye, jo machine ko damage kar sakte hain aur coffee ke taste ko affect kar sakte hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "'Crema' kya hai espresso mein?",
+      "options": {
+        "A": "Coffee ka colour",
+        "B": "Espresso ke upar ek reddish-brown foamy layer",
+        "C": "Milk froth",
+        "D": "Sugar layer"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Crema freshly pulled espresso shot ke top par ek reddish-brown foamy layer hoti hai, jo espresso ki quality aur freshness ka indicator hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Steam wand ko har use ke baad wipe karna kyon zaroori hai?",
+      "options": {
+        "A": "Taki woh garam na ho",
+        "B": "Taki milk residue na jame aur hygiene maintain ho",
+        "C": "Taki woh naya dikhe",
+        "D": "Taki woh zyada steam produce kare"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Milk residue jamne se steam wand block ho sakti hai aur bacteria grow kar sakte hain, isliye hygiene ke liye ise turant saaf karna chahiye."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Espresso machine ko 'descaling' kyon karte hain?",
+      "options": {
+        "A": "Taki woh zyada garam ho",
+        "B": "Taki machine se limescale deposits remove ho",
+        "C": "Taki machine zyada pressure generate kare",
+        "D": "Taki machine zyada coffee bana sake"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Descaling se machine ke internal parts mein जमा हुए limescale (mineral deposits) remove hote hain, jo water flow aur heating efficiency ko kam kar sakte hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Espresso ke liye ideal extraction time range kya hai?",
+      "options": {
+        "A": "5-10 seconds",
+        "B": "20-30 seconds",
+        "C": "40-50 seconds",
+        "D": "60-70 seconds"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek standard double espresso shot ke liye ideal extraction time 20-30 seconds hota hai, jisme best flavour profile nikalta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar espresso shot ka taste bitter hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Under-extraction",
+        "B": "Over-extraction",
+        "C": "Too coarse grind",
+        "D": "Low water temperature"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bitter taste over-extraction ka sign hai, jahan coffee ke undesirable compounds bhi extract ho jate hain. Iske liye grind ko coarse karna ya extraction time kam karna pad sakta hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Agar espresso shot ka taste sour ya weak hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Over-extraction",
+        "B": "Under-extraction",
+        "C": "Too fine grind",
+        "D": "High water temperature"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sour ya weak taste under-extraction ka sign hai, jahan sufficient compounds extract nahi ho pate. Iske liye grind ko fine karna ya extraction time badhana pad sakta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Espresso machine mein 'pressure gauge' kya indicate karta hai?",
+      "options": {
+        "A": "Water level",
+        "B": "Boiler pressure ya pump pressure",
+        "C": "Coffee temperature",
+        "D": "Electricity consumption"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pressure gauge machine ke boiler ya pump ka pressure dikhata hai, jo espresso extraction ke liye critical hota hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Portafilter ko group head se remove karne ke baad clean kyon karna chahiye?",
+      "options": {
+        "A": "Taki woh zyada garam ho",
+        "B": "Taki coffee grounds aur oils accumulate na hon, jo next shot ke taste ko affect kar sakte hain",
+        "C": "Taki woh chamakta rahe",
+        "D": "Taki usmein pani na ghuse"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Portafilter ko clean karne se old coffee grounds aur oils remove ho jate hain, jisse next shot ka taste fresh aur consistent rehta hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Milk ko steam karte waqt, konsa sound indicate karta hai ki milk sahi tarah se aerate ho raha hai?",
+      "options": {
+        "A": "Loud gurgling sound",
+        "B": "High-pitched screeching sound",
+        "C": "Gentle 'hissing' sound",
+        "D": "No sound at all"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek gentle 'hissing' ya 'tearing paper' sound indicate karta hai ki steam wand milk ki surface ke theek neeche hai aur air incorporate ho rahi hai, jisse microfoam banta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Latte art ke liye konsa milk texture best hota hai?",
+      "options": {
+        "A": "Dry foam (bada bubbles)",
+        "B": "Runny milk (liquid)",
+        "C": "Glossy, velvety microfoam",
+        "D": "Cold milk"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Latte art ke liye glossy, velvety microfoam zaroori hai, jisme air bubbles bahut chote hote hain aur milk smooth flow karta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Milk ko steam karte waqt pitcher ko kis temperature tak garam karna chahiye?",
+      "options": {
+        "A": "50-55°C",
+        "B": "60-70°C",
+        "C": "75-80°C",
+        "D": "85-90°C"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "60-70°C (140-160°F) ideal temperature hai. Isse zyada garam karne par milk ka natural sweetness khatam ho jata hai aur woh jalne lagta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Milk steaming ke baad pitcher ko counter par tap karna kyon zaroori hai?",
+      "options": {
+        "A": "Taki milk thanda ho jaye",
+        "B": "Bade air bubbles ko eliminate karne aur microfoam ko smooth karne ke liye",
+        "C": "Taki milk zyada garam ho jaye",
+        "D": "Taki milk overflow na ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tap karne se bade air bubbles surface par aa jate hain aur unhe swirl karne se microfoam evenly distribute ho jata hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Latte art mein 'rosetta' design banane ke liye kya technique use karte hain?",
+      "options": {
+        "A": "Sirf cup ko tilt karna",
+        "B": "Pitcher ko wave motion mein move karna",
+        "C": "Milk ko directly center mein pour karna",
+        "D": "Coffee ko pehle pour karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Rosetta ke liye milk ko espresso shot ke center mein pour karte hain aur phir pitcher ko side-to-side wave motion mein move karte hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Kon sa milk type latte art ke liye sabse best mana jata hai?",
+      "options": {
+        "A": "Skim milk",
+        "B": "Full-fat milk",
+        "C": "Almond milk",
+        "D": "Soy milk"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Full-fat milk mein fat content zyada hota hai, jo velvety texture aur stable microfoam banane mein help karta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Milk ko over-steam karne se kya hota hai?",
+      "options": {
+        "A": "Woh zyada meetha ho jata hai",
+        "B": "Woh jal jata hai aur uska sweetness kam ho jata hai",
+        "C": "Usmein zyada foam banta hai",
+        "D": "Uska colour dark ho jata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Over-steaming se milk jal jata hai, uski natural sweetness khatam ho jati hai aur woh thin, watery ho jata hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Latte art mein 'heart' design banane ke liye kya technique use karte hain?",
+      "options": {
+        "A": "Milk ko ek dum se pour karna",
+        "B": "Center mein ek circle banakar, phir upar se cut karna",
+        "C": "Pitcher ko upar se wave karna",
+        "D": "Milk ko cup ke edges par pour karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Heart design ke liye, milk ko center mein pour karke ek circle banate hain, phir pitcher ko thoda upar utha kar ek straight line se us circle ko 'cut' karte hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Steam wand ko milk mein deep kyon rakhna chahiye aeration ke baad?",
+      "options": {
+        "A": "Taki milk zyada garam ho",
+        "B": "Taki milk ko 'roll' kiya ja sake aur microfoam evenly distribute ho",
+        "C": "Taki foam na bane",
+        "D": "Taki milk bahar na gire"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Aeration ke baad steam wand ko milk mein deep rakhne se milk 'roll' hota hai, jisse bade bubbles break hote hain aur silky microfoam banta hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Agar milk foam bahut thick aur dry hai, toh kya galti hui hogi?",
+      "options": {
+        "A": "Milk ko zyada der tak aerate kiya gaya",
+        "B": "Milk ko kam aerate kiya gaya",
+        "C": "Milk ko bahut zyada garam kiya gaya",
+        "D": "Milk ko bahut kam garam kiya gaya"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Thick aur dry foam ka matlab hai ki milk ko zyada der tak aerate kiya gaya, jisse bade bubbles ban gaye aur milk ki silky texture nahi bani."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Latte art pour karte samay cup ko Barista ki taraf tilt kyon karte hain?",
+      "options": {
+        "A": "Taki Barista ko achha angle mile aur surface area badhe",
+        "B": "Taki coffee thandi ho jaye",
+        "C": "Taki milk cup se na gire",
+        "D": "Taki Barista ko zyada effort na lage"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Cup ko tilt karne se surface area badhta hai, jisse milk aur espresso ko mix karne aur design banane ke liye zyada space milta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Latte art mein 'etching' kya hai?",
+      "options": {
+        "A": "Milk ko pour karne ki ek technique",
+        "B": "Latte art banane ke liye milk surface par tool se design banana",
+        "C": "Coffee beans ko grind karna",
+        "D": "Cup ko decorate karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Etching mein foam ke surface par toothpick ya latte art pen jaise tool se designs banaye jate hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Agar milk frothing ke baad bahut zyada liquid reh gaya hai aur foam kam hai, toh kya galti hui hogi?",
+      "options": {
+        "A": "Steam wand ko bahut der tak deep rakha gaya",
+        "B": "Steam wand ko bahut kam der tak deep rakha gaya",
+        "C": "Milk ko zyada garam kiya gaya",
+        "D": "Milk ko kam garam kiya gaya"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Agar steam wand ko aeration stage mein zyada deep rakha gaya toh air incorporate nahi hogi aur foam kam banega."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Latte art mein 'contrast' kyon important hai?",
+      "options": {
+        "A": "Taki design jaldi ban jaye",
+        "B": "Taki design clearly dikhe aur attractive lage",
+        "C": "Taki coffee zyada garam rahe",
+        "D": "Taki milk zyada meetha lage"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Contrast espresso ke dark brown colour aur white microfoam ke beech hota hai, jo design ko highlight karta hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Plant-based milk ko froth karna cow milk se alag kyon hota hai?",
+      "options": {
+        "A": "Unka temperature point alag hota hai",
+        "B": "Unmein protein aur fat structure alag hota hai, jisse foam banana mushkil ho sakta hai",
+        "C": "Woh zyada jaldi garam ho jate hain",
+        "D": "Unka colour alag hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Plant-based milks mein protein aur fat content cow milk se alag hota hai, jisse unhe frothing ke liye specific techniques aur temperatures ki zaroorat pad sakti hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Latte art practice ke liye konsa liquid substitute use kar sakte hain?",
+      "options": {
+        "A": "Sirf pani",
+        "B": "Sabun wala pani",
+        "C": "Pani aur dish soap ka mix",
+        "D": "Juice"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Pani aur dish soap ka mix milk ki tarah foam karta hai aur Barista ko milk waste kiye bina practice karne mein help karta hai."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Espresso, steamed milk aur thin layer of foam se bani coffee drink ko kya kehte hain?",
+      "options": {
+        "A": "Americano",
+        "B": "Latte",
+        "C": "Cappuccino",
+        "D": "Macchiato"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Latte mein zyada steamed milk hota hai aur upar ek patli layer microfoam ki hoti hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Espresso, steamed milk aur thick layer of foam se bani coffee drink ko kya kehte hain?",
+      "options": {
+        "A": "Latte",
+        "B": "Flat White",
+        "C": "Cappuccino",
+        "D": "Mocha"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cappuccino mein equal parts espresso, steamed milk aur thick, airy foam hota hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Espresso aur hot water se bani coffee drink ko kya kehte hain?",
+      "options": {
+        "A": "Latte",
+        "B": "Cappuccino",
+        "C": "Americano",
+        "D": "Macchiato"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Americano espresso shots ko hot water se dilute karke banaya jata hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Espresso aur chocolate syrup ke saath steamed milk se bani coffee drink ko kya kehte hain?",
+      "options": {
+        "A": "Latte",
+        "B": "Cappuccino",
+        "C": "Mocha",
+        "D": "Flat White"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mocha ek chocolate-flavoured coffee drink hai, jo espresso, steamed milk aur chocolate syrup se banti hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "French Press brewing method mein coffee ko kaise extract karte hain?",
+      "options": {
+        "A": "High pressure se",
+        "B": "Dheere-dheere pani drip karke",
+        "C": "Coffee grounds ko garam pani mein steep karke aur phir plunger se press karke",
+        "D": "Cold water se"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "French Press mein coarse-ground coffee ko garam pani mein steep karte hain, phir mesh plunger se grounds ko neeche push karte hain."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "V60 ya Chemex jaise 'pour-over' methods mein, konsa factor flavour ko sabse zyada affect karta hai?",
+      "options": {
+        "A": "Coffee beans ka colour",
+        "B": "Pouring technique aur water flow rate",
+        "C": "Cup ka size",
+        "D": "Sugar ka type"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pour-over methods mein, water flow rate aur pouring technique extraction consistency aur flavour clarity ke liye bahut important hote hain."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Cold Brew coffee banane mein kitna time lagta hai minimum?",
+      "options": {
+        "A": "5 minutes",
+        "B": "30 minutes",
+        "C": "12-24 hours",
+        "D": "1 hour"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cold brew mein coarse ground coffee ko cold water mein 12-24 ghante tak steep karte hain, jisse ek smooth, low-acid concentrate banta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Espresso Macchiato mein kya hota hai?",
+      "options": {
+        "A": "Espresso aur bahut sara milk",
+        "B": "Espresso 'marked' with a dollop of milk foam",
+        "C": "Espresso aur ice",
+        "D": "Espresso aur chocolate"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Macchiato ka matlab hai 'marked' ya 'stained'. Ismein espresso shot ke upar thoda sa milk foam hota hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Flat White aur Latte mein primary difference kya hai?",
+      "options": {
+        "A": "Flat White mein zyada sugar hoti hai",
+        "B": "Flat White mein zyada espresso aur kam, velvety microfoam hota hai, jabki Latte mein zyada milk aur airy foam hota hai",
+        "C": "Flat White cold hota hai, Latte hot",
+        "D": "Flat White mein chocolate hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flat White mein ek ya do espresso shots par thin layer of microfoam hoti hai, jo milk ke saath evenly mix hoti hai. Latte mein zyada steamed milk aur thodi thick foam hoti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Aeropress brewing method ka kya fayda hai?",
+      "options": {
+        "A": "Bahut complicated hai",
+        "B": "Fast, versatile aur clean cup produce karta hai",
+        "C": "Sirf cold brew bana sakta hai",
+        "D": "Bahut zyada space leta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aeropress ek portable device hai jo immersion aur pressure ka use karke fast, clean aur versatile coffee bana sakta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Iced Latte banane ke liye kya ingredients chahiye?",
+      "options": {
+        "A": "Espresso, hot milk, ice",
+        "B": "Espresso, cold milk, ice",
+        "C": "Hot water, ice, sugar",
+        "D": "Only cold milk"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Iced Latte mein espresso shots, cold milk aur ice cubes hote hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Turkish Coffee brewing method ki kya pehchan hai?",
+      "options": {
+        "A": "Paper filter use karna",
+        "B": "Coffee ko boiling water mein bina filter ke serve karna",
+        "C": "Cold water use karna",
+        "D": "Pressure se brew karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Turkish Coffee mein finely ground coffee ko cezve mein pani ke saath boil kiya jata hai aur bina filter ke serve kiya jata hai, jiske neeche grounds settle ho jate hain."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Affogato kya hai?",
+      "options": {
+        "A": "Espresso aur ice cream",
+        "B": "Espresso aur whipped cream",
+        "C": "Espresso aur hot chocolate",
+        "D": "Espresso aur cold water"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Affogato ek dessert-like drink hai jisme vanilla ice cream ke upar garam espresso shot pour kiya jata hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Kon sa brewing method paper filter use karta hai jo coffee ke oils ko absorb kar leta hai, jisse ek clean, bright cup milta hai?",
+      "options": {
+        "A": "French Press",
+        "B": "Espresso",
+        "C": "Pour-over (e.g., V60, Chemex)",
+        "D": "Turkish Coffee"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pour-over methods mein paper filters use hote hain jo sediment aur oils ko retain karte hain, jisse ek clean aur bright cup milta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Espresso Con Panna mein kya hota hai?",
+      "options": {
+        "A": "Espresso aur milk",
+        "B": "Espresso topped with whipped cream",
+        "C": "Espresso aur sugar",
+        "D": "Espresso aur ice"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Espresso Con Panna mein espresso shot ke upar whipped cream ki topping hoti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Coffee ke liye ideal water temperature range kya hai, generally, brewing ke liye?",
+      "options": {
+        "A": "70-80°C",
+        "B": "85-90°C",
+        "C": "90-96°C",
+        "D": "100°C (boiling)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Coffee ke liye ideal brewing temperature 90-96°C (195-205°F) hota hai, jo flavour compounds ko efficiently extract karta hai bina coffee ko jalaye."
+    },
+    {
+      "qno": 84,
+      "module": 6,
+      "question": "Ek Barista ko customer complaints kaise handle karni chahiye?",
+      "options": {
+        "A": "Ignore karke",
+        "B": "Customer se argue karke",
+        "C": "Calmly sunkar, apologize karke aur solution offer karke",
+        "D": "Manager ko blame karke"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Customer complaints ko calmly sunna, apology dena aur solution offer karna professional customer service ka hissa hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Food safety ke liye, Barista ko hamesha kya karna chahiye hands ke liye?",
+      "options": {
+        "A": "Sirf tab dhona jab gande dikhein",
+        "B": "Regularly aur sahi tareeke se haath dhona",
+        "C": "Gloves pehenkar kabhi na dhona",
+        "D": "Sanitizer use karna, dhona nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Food safety aur cross-contamination se bachne ke liye Barista ko regularly aur sahi tareeke se haath dhona zaroori hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Cross-contamination kya hai?",
+      "options": {
+        "A": "Coffee beans ko mix karna",
+        "B": "Harmful bacteria ko ek surface ya food se dusre par transfer karna",
+        "C": "Alag-alag coffee drinks banana",
+        "D": "Customer ko galat drink dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cross-contamination food safety ke liye ek serious concern hai, jisse foodborne illnesses ho sakti hain."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Inventory management Barista ke liye kyon important hai?",
+      "options": {
+        "A": "Taki woh coffee shop ko decorate kar sake",
+        "B": "Taki products ki availability ensure ho aur waste kam ho",
+        "C": "Taki woh zyada salary le sake",
+        "D": "Taki woh manager ko impress kar sake"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper inventory management se zaroori items hamesha available rehte hain aur spoilage ya overstocking se hone wala waste kam hota hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Expired milk ka use kyon nahi karna chahiye?",
+      "options": {
+        "A": "Uska colour change ho jata hai",
+        "B": "Uska taste kharab ho jata hai aur woh food poisoning ka reason ban sakta hai",
+        "C": "Woh coffee mein mix nahi hota",
+        "D": "Woh froth nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Expired milk mein harmful bacteria grow kar sakte hain, jo health hazards create kar sakte hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Ek Barista ko upselling aur cross-selling kab karna chahiye?",
+      "options": {
+        "A": "Har customer ke saath, force karke",
+        "B": "Jab customer interested lage aur uski needs ke according ho",
+        "C": "Kabhi nahi karna chahiye",
+        "D": "Sirf jab manager bole"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Upselling aur cross-selling se revenue badhta hai, lekin yeh customer ki preference aur needs ko dhyan mein rakh kar kiya jana chahiye, na ki force karke."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Coffee machines ko daily clean karna kyon zaroori hai?",
+      "options": {
+        "A": "Taki woh naye dikhein",
+        "B": "Taki unki performance maintain rahe aur coffee ka taste achha rahe, aur hygiene bhi",
+        "C": "Taki woh zyada bijli na khaye",
+        "D": "Taki woh shor na kare"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Daily cleaning se coffee oils aur residues remove hote hain, jo machine ki performance aur coffee ke taste ko affect karte hain. Hygiene bhi maintain rehti hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "FIFO (First In, First Out) principle inventory management mein kyon use karte hain?",
+      "options": {
+        "A": "Taki naye products pehle use hon",
+        "B": "Taki purane products pehle use hon aur waste kam ho",
+        "C": "Taki products ko random use kiya ja sake",
+        "D": "Taki products jaldi khatam ho jaye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FIFO principle yeh ensure karta hai ki jo products pehle aaye hain, unhe pehle use kiya jaye, jisse spoilage aur expiration ka risk kam hota hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Customer ko allergy information dene ki Barista ki kya responsibility hai?",
+      "options": {
+        "A": "Koi responsibility nahi",
+        "B": "Sirf jab customer puche",
+        "C": "Accurate allergy information provide karna aur ingredients ke baare mein aware hona",
+        "D": "Menu mein likh dena"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Allergy information provide karna Barista ki critical responsibility hai, kyunki yeh customer ki health aur safety se juda hai. Incorrect information ke serious consequences ho sakte hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Ek Barista ko busy periods mein kaise efficient rehna chahiye?",
+      "options": {
+        "A": "Panic karke",
+        "B": "Multitasking aur order preparation ko streamline karke",
+        "C": "Customers se baat karna band karke",
+        "D": "Sirf easy orders lena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Busy periods mein multitasking, efficient workflow aur clear communication se Barista orders ko smoothly handle kar sakta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Spills ko turant clean karna kyon zaroori hai?",
+      "options": {
+        "A": "Taki floor chamakta rahe",
+        "B": "Taki slips aur falls se bachav ho aur hygiene maintain ho",
+        "C": "Taki kaam jaldi khatam ho",
+        "D": "Taki customer impress hon"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spills se slip hazards ho sakte hain aur bacteria grow kar sakte hain. Turant cleaning se safety aur hygiene maintain rehti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Cash handling karte waqt Barista ko kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Sirf jaldi se cash lena",
+        "B": "Correct change dena aur transaction ko accurately record karna",
+        "C": "Cash ko kahin bhi rakh dena",
+        "D": "Sirf bade notes accept karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Accurate cash handling financial integrity aur customer trust ke liye zaroori hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Customer feedback lena Barista ke liye kyon important hai?",
+      "options": {
+        "A": "Sirf time pass ke liye",
+        "B": "Taki Barista apni skills improve kar sake aur customer satisfaction badha sake",
+        "C": "Taki customer ko zyada time lage",
+        "D": "Taki Barista ki galti pakdi ja sake"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Feedback se Barista ko apni strengths aur weaknesses ka pata chalta hai, jisse woh apni service aur product quality ko improve kar sakta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Daily closing procedures mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf light band karna",
+        "B": "Machines ki deep cleaning, inventory check aur cash reconciliation",
+        "C": "Sirf kal ke liye coffee beans prepare karna",
+        "D": "Customer se feedback lena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Daily closing procedures mein machine cleaning, inventory check, cash reconciliation aur general tidying shamil hota hai, jo next day ki smooth operations ke liye zaroori hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Personal hygiene mein Barista ke liye kya shamil hai?",
+      "options": {
+        "A": "Sirf achhe kapde pehenna",
+        "B": "Saaf uniform, tied-back hair, clean hands aur minimal jewellery",
+        "C": "Perfume lagana",
+        "D": "Lambi nails rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Personal hygiene food safety aur professional image ke liye bahut important hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Stock rotation ka kya matlab hai?",
+      "options": {
+        "A": "Products ko ek jagah se dusri jagah ghumana",
+        "B": "Naye stock ko purane stock ke aage rakhna",
+        "C": "Purane stock ko pehle use karna (FIFO), naye stock ko peeche rakhna",
+        "D": "Sirf expensive products ko rotate karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Stock rotation FIFO principle ka application hai, jisse products ki shelf life maximize hoti hai aur spoilage kam hota hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Emergency situation (jaise fire ya power cut) mein Barista ko kya karna chahiye?",
+      "options": {
+        "A": "Panic karke bhag jana",
+        "B": "Customers aur staff ki safety ensure karna aur emergency protocols follow karna",
+        "C": "Sirf apni cheezein bachana",
+        "D": "Coffee banate rehna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Emergency situations mein sabse pehle safety ensure karna aur training ke according emergency protocols ko follow karna Barista ki responsibility hai."
+    }
+  ]
+}

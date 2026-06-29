@@ -1,0 +1,1443 @@
+{
+  "course_name": "Mobile App Development — Android Basics",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Intermediate",
+  "duration": "4 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Android Development & Setup",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Android Studio & Project Structure",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "UI Design with Layouts & Views",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "User Interaction & Event Handling",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Data Storage & Persistence",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Activities, Intents & Basic App Components",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which programming language is primarily used for native Android app development, alongside Kotlin?",
+      "options": {
+        "A": "Python",
+        "B": "Java",
+        "C": "C#",
+        "D": "Swift"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Java has historically been the primary language for Android development, and it remains widely used alongside Kotlin, which is now the preferred language by Google."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "What is the core component of the Android operating system that manages system resources and hardware interactions?",
+      "options": {
+        "A": "Application Framework",
+        "B": "Android Runtime (ART)",
+        "C": "Linux Kernel",
+        "D": "Libraries"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Linux Kernel is the foundation of the Android architecture, handling low-level system services like memory management, process management, and hardware drivers."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Which tool is used to create and manage virtual Android devices for testing applications?",
+      "options": {
+        "A": "ADB",
+        "B": "Gradle",
+        "C": "AVD Manager",
+        "D": "SDK Manager"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The AVD (Android Virtual Device) Manager within Android Studio allows developers to create and configure emulators to test their applications on various Android versions and device configurations."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "What does API Level signify in Android development?",
+      "options": {
+        "A": "The number of applications installed on a device",
+        "B": "The version number of the Android operating system",
+        "C": "The resolution of the device screen",
+        "D": "The security patch level of the device"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "API Level is an integer value that uniquely identifies the revision of the Android platform. Each new version of Android (e.g., Android 10, Android 11) corresponds to a specific API Level."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Which component is responsible for executing Android application bytecode?",
+      "options": {
+        "A": "Linux Kernel",
+        "B": "Application Framework",
+        "C": "Android Runtime (ART)",
+        "D": "Hardware Abstraction Layer (HAL)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Android Runtime (ART) is the managed runtime used by Android that executes the Dalvik Executable (DEX) bytecode. It succeeded Dalvik as the primary runtime."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "When setting up a new Android development environment, which essential package needs to be downloaded to access Android platform tools, libraries, and documentation?",
+      "options": {
+        "A": "JDK",
+        "B": "NPM",
+        "C": "Android SDK",
+        "D": "Git"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Android SDK (Software Development Kit) is a collection of development tools that are used to develop applications for the Android platform. It includes platform tools, build tools, system images, and more."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "What is the file format for an Android application package, used for distribution and installation?",
+      "options": {
+        "A": "JAR",
+        "B": "ZIP",
+        "C": "APK",
+        "D": "EXE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "APK stands for Android Package Kit. It is the package file format used by the Android operating system for distribution and installation of mobile apps."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Which of the following is NOT a major component of the Android architecture?",
+      "options": {
+        "A": "Linux Kernel",
+        "B": "Application Framework",
+        "C": "iOS Subsystem",
+        "D": "Android Runtime (ART)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The iOS Subsystem is part of Apple's operating system, not Android. The other options are key layers of the Android architecture."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "What is the primary benefit of testing an Android application on a physical device compared to an emulator?",
+      "options": {
+        "A": "Faster build times",
+        "B": "More accurate performance and hardware interaction",
+        "C": "Easier debugging",
+        "D": "Lower power consumption"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Testing on a physical device provides a more realistic environment, allowing you to observe actual device performance, battery usage, sensor behavior, and network conditions that emulators might not perfectly replicate."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Which of these is a key feature introduced with Project Treble, enhancing Android updateability?",
+      "options": {
+        "A": "Improved UI animations",
+        "B": "Modularization of the Android OS framework",
+        "C": "New data storage APIs",
+        "D": "Enhanced game graphics"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Project Treble, introduced in Android Oreo (API 26), modularized the Android OS by separating the Android framework from vendor implementations, making it easier and faster for device manufacturers to deliver Android updates."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What is the purpose of the 'minSdkVersion' attribute in an Android project's `build.gradle` file?",
+      "options": {
+        "A": "Specifies the target Android version for compilation",
+        "B": "Defines the minimum API level required for the app to run",
+        "C": "Indicates the highest API level the app is tested against",
+        "D": "Sets the maximum SDK version allowed for the project"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The `minSdkVersion` specifies the lowest Android API level on which the application is able to run. Devices with an API level lower than this will not be able to install the app."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Which command-line tool is used to communicate with an Android device or emulator, enabling actions like installing apps, copying files, and viewing device logs?",
+      "options": {
+        "A": "Gradle",
+        "B": "ADB",
+        "C": "Maven",
+        "D": "NPM"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ADB (Android Debug Bridge) is a versatile command-line tool that lets you communicate with an emulator instance or connected Android device. It provides various device debugging capabilities."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "What is the main advantage of using Kotlin over Java for Android development, as promoted by Google?",
+      "options": {
+        "A": "Faster app startup times",
+        "B": "Reduced boilerplate code and improved safety",
+        "C": "Lower memory consumption",
+        "D": "Native integration with iOS"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kotlin offers features like null safety, data classes, extension functions, and coroutines, which significantly reduce boilerplate code, improve code readability, and enhance app stability by preventing common errors."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Which Android release was the first to officially support Kotlin as a first-class language for development?",
+      "options": {
+        "A": "Android Marshmallow (6.0)",
+        "B": "Android Nougat (7.0)",
+        "C": "Android Oreo (8.0)",
+        "D": "Android Pie (9.0)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "While Kotlin support was announced at Google I/O 2017, which coincided with Android O (Oreo) development, it was with Android Oreo that Google officially made Kotlin a first-class language for Android development."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "What is the primary function of the 'Application Framework' layer in the Android architecture?",
+      "options": {
+        "A": "Manages hardware drivers",
+        "B": "Provides high-level services like Activity Manager and Window Manager",
+        "C": "Executes application bytecode",
+        "D": "Handles inter-process communication"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Application Framework provides high-level building blocks and services that applications can use, such as Activity Manager, Package Manager, View System, and Resource Manager, simplifying app development."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Which tool in Android Studio is used to view real-time log messages from a running application or device?",
+      "options": {
+        "A": "Layout Inspector",
+        "B": "Profiler",
+        "C": "Logcat",
+        "D": "Resource Manager"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Logcat is a command-line tool that dumps a stream of system messages and app-specific messages. Android Studio integrates Logcat into a dedicated window, making it easy to monitor and filter logs."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "To ensure your Android app can run on older devices, which setting should you adjust in your `build.gradle` file?",
+      "options": {
+        "A": "targetSdkVersion",
+        "B": "compileSdkVersion",
+        "C": "minSdkVersion",
+        "D": "maxSdkVersion"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "`minSdkVersion` specifies the lowest API level that the app supports. Setting a lower `minSdkVersion` allows your app to run on a wider range of older Android devices."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Which folder in an Android project typically contains all the XML layout files for the user interface?",
+      "options": {
+        "A": "java",
+        "B": "res/values",
+        "C": "res/drawable",
+        "D": "res/layout"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The `res/layout` directory contains XML files that define the user interface layouts for your activities, fragments, and other UI components."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "What is the purpose of the `AndroidManifest.xml` file in an Android project?",
+      "options": {
+        "A": "Stores application data locally",
+        "B": "Defines the app's components, permissions, and hardware features",
+        "C": "Manages third-party library dependencies",
+        "D": "Contains all the Java/Kotlin source code"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `AndroidManifest.xml` file is a crucial file that describes the fundamental characteristics of the app and defines each of its components, such as activities, services, broadcast receivers, and content providers. It also declares necessary permissions and hardware/software features."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Which build system is used by Android Studio to automate tasks like compiling, packaging, and deploying Android applications?",
+      "options": {
+        "A": "Maven",
+        "B": "Ant",
+        "C": "Gradle",
+        "D": "npm"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Gradle is an advanced build toolkit that manages dependencies, builds source code, and creates the final APK package for Android applications."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "In an Android project, where would you define custom string resources, such as app names or messages?",
+      "options": {
+        "A": "res/layout/strings.xml",
+        "B": "res/values/strings.xml",
+        "C": "AndroidManifest.xml",
+        "D": "build.gradle"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "String resources are defined in an XML file named `strings.xml` located in the `res/values` directory. This promotes internationalization and separates UI text from code."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "What is the primary function of the 'assets' folder in an Android project?",
+      "options": {
+        "A": "To store compiled Java/Kotlin code",
+        "B": "To keep raw asset files that can be read as a stream of bytes",
+        "C": "To define vector graphics",
+        "D": "To store app icons and launcher images"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The `assets` folder is used to store raw asset files that you want to bundle with your application without being processed by the Android resource system. You can access these files using an `AssetManager`."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Which file specifies the dependencies for your Android application, such as libraries and SDK versions?",
+      "options": {
+        "A": "AndroidManifest.xml",
+        "B": "settings.gradle",
+        "C": "build.gradle (Module: app)",
+        "D": "proguard-rules.pro"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `build.gradle` file at the module level (typically `app/build.gradle`) is where you declare your application's dependencies (e.g., `implementation 'androidx.appcompat:appcompat:1.3.1'`) and other build configurations."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "What is the significance of the `targetSdkVersion` attribute in `build.gradle`?",
+      "options": {
+        "A": "It specifies the minimum API level the app supports.",
+        "B": "It indicates the API level the app is compiled against.",
+        "C": "It tells the system that you have tested your app with this API version.",
+        "D": "It defines the maximum API level the app can run on."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "`targetSdkVersion` indicates the API level that the application is designed to run on. While the app can run on older versions (down to `minSdkVersion`), it's optimized for this target version, and setting it to the latest API level ensures your app benefits from the latest platform behaviors and security features."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Which Android Studio feature allows you to visually inspect the hierarchy of views and debug UI issues?",
+      "options": {
+        "A": "Logcat",
+        "B": "Layout Inspector",
+        "C": "Profiler",
+        "D": "Resource Manager"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Layout Inspector in Android Studio allows you to view the hierarchy of views in your app layout at runtime, helping you debug layout issues by inspecting view properties, dimensions, and positions."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Where are app icons and launcher images typically stored in an Android project?",
+      "options": {
+        "A": "res/drawable",
+        "B": "res/mipmap",
+        "C": "res/values",
+        "D": "assets"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Launcher icons are typically placed in the `res/mipmap` directories. This is because mipmap folders are specifically designed to store density-independent launcher icons, which the system can then scale appropriately."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "What is the function of the `settings.gradle` file in a multi-module Android project?",
+      "options": {
+        "A": "Defines global project properties and repositories.",
+        "B": "Includes the modules that should be built by Gradle.",
+        "C": "Specifies app-level build configurations.",
+        "D": "Manages version control settings."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The `settings.gradle` file is used to declare all modules that are part of the project. In a single-module project, it typically just includes the `:app` module. For multi-module projects, it lists all sub-projects."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Which folder is used to store various dimensions, colors, and styles in XML format?",
+      "options": {
+        "A": "res/layout",
+        "B": "res/drawable",
+        "C": "res/values",
+        "D": "res/raw"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `res/values` directory contains XML files for various resource types, including `colors.xml`, `dimens.xml`, `styles.xml`, and `strings.xml`, allowing for centralized management of these values."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "When debugging an Android application, what is the primary purpose of setting a breakpoint?",
+      "options": {
+        "A": "To crash the application intentionally.",
+        "B": "To pause execution at a specific line of code and inspect variables.",
+        "C": "To optimize the application's performance.",
+        "D": "To skip certain parts of the code during execution."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Breakpoints are used in debugging to pause the execution of a program at a specified point. This allows developers to examine the state of variables, the call stack, and step through code line by line."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Which of these is NOT a valid resource directory in Android?",
+      "options": {
+        "A": "res/xml",
+        "B": "res/anim",
+        "C": "res/fonts",
+        "D": "res/javascript"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "There is no standard `res/javascript` directory for JavaScript files in native Android development. Common resource directories include `drawable`, `layout`, `values`, `mipmap`, `xml`, `anim`, `raw`, `font`, etc."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "What is the purpose of the `compileSdkVersion` in `build.gradle`?",
+      "options": {
+        "A": "The minimum API level required for the app to run.",
+        "B": "The API level used to compile your application.",
+        "C": "The API level the app targets for runtime behavior.",
+        "D": "The API level for the Android Gradle Plugin."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`compileSdkVersion` specifies the API level that Gradle should use to compile your app. This means your app can use API features available in this version. It's recommended to use the latest stable API level."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "When you declare a permission in `AndroidManifest.xml`, what is its primary effect?",
+      "options": {
+        "A": "It automatically grants the app access to the resource.",
+        "B": "It informs the user about the resources the app intends to access.",
+        "C": "It makes the app run faster.",
+        "D": "It prevents the app from accessing any sensitive data."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Declaring a permission in `AndroidManifest.xml` informs the Android system and the user about the capabilities your app needs, such as accessing the internet, camera, or contacts. For dangerous permissions, the user must explicitly grant them at runtime."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Which section in Android Studio's 'Project' window shows the logical grouping of files by function (e.g., Manifests, Java, res)?",
+      "options": {
+        "A": "Project Files",
+        "B": "Android",
+        "C": "Packages",
+        "D": "Scratch Files"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'Android' view in the Project window is a simplified, logical view of your project structure, grouping related files (like all manifest files, all Java/Kotlin source files, and resource directories) for easier navigation."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "What is the primary role of the `proguard-rules.pro` file in an Android project?",
+      "options": {
+        "A": "To define custom build tasks for Gradle.",
+        "B": "To configure code shrinking, obfuscation, and optimization for release builds.",
+        "C": "To manage multiple product flavors for the app.",
+        "D": "To declare environment variables for the build process."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The `proguard-rules.pro` file (or `consumer-rules.pro` for libraries) is used to configure ProGuard or R8 to shrink, obfuscate, and optimize your application's code and resources, primarily for release builds, reducing APK size and making reverse engineering harder."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Which UI component is used to display short, uneditable text in an Android application?",
+      "options": {
+        "A": "EditText",
+        "B": "Button",
+        "C": "TextView",
+        "D": "ImageView"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A TextView is a UI component that displays text to the user and optionally allows them to edit it. For uneditable text, TextView is the correct choice."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Which layout arranges its child views in a single row or a single column?",
+      "options": {
+        "A": "RelativeLayout",
+        "B": "FrameLayout",
+        "C": "ConstraintLayout",
+        "D": "LinearLayout"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "A LinearLayout arranges views in a single row (horizontal) or a single column (vertical), depending on its `android:orientation` attribute."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "What is the XML attribute used to set the width of a view to match its content?",
+      "options": {
+        "A": "android:layout_width=\"match_parent\"",
+        "B": "android:layout_width=\"wrap_content\"",
+        "C": "android:width=\"content_wrap\"",
+        "D": "android:layout_width=\"fill_parent\""
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "`android:layout_width=\"wrap_content\"` sets the width of the view to be just large enough to enclose its content."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Which unit of measurement is recommended for specifying dimensions (like width, height, margin) to ensure they scale correctly across different screen densities?",
+      "options": {
+        "A": "px (pixels)",
+        "B": "pt (points)",
+        "C": "dp (density-independent pixels)",
+        "D": "mm (millimeters)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "dp (density-independent pixels) is the unit recommended for layout dimensions. The Android system scales dp values based on the screen's density, ensuring consistent visual size across different devices."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "To allow a user to enter multi-line text, which `EditText` input type would be most appropriate?",
+      "options": {
+        "A": "android:inputType=\"textPassword\"",
+        "B": "android:inputType=\"number\"",
+        "C": "android:inputType=\"textMultiLine\"",
+        "D": "android:inputType=\"textEmailAddress\""
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Setting `android:inputType=\"textMultiLine\"` for an `EditText` enables the user to enter text across multiple lines, typically by providing a larger input area and a newline key on the soft keyboard."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Which layout allows you to position child views relative to each other or to the parent layout?",
+      "options": {
+        "A": "LinearLayout",
+        "B": "FrameLayout",
+        "C": "RelativeLayout",
+        "D": "GridLayout"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "RelativeLayout positions child views based on relationships between sibling views or between the view and the parent layout. For example, 'to the right of' another view or 'aligned with parent top'."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "What is the XML attribute used to assign a unique identifier to a view, making it accessible from Java/Kotlin code?",
+      "options": {
+        "A": "android:name",
+        "B": "android:tag",
+        "C": "android:id",
+        "D": "android:class"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "`android:id` is used to provide a unique identifier for a View within the layout. This ID is then used in Java/Kotlin code to find and manipulate that specific View (e.g., `findViewById(R.id.my_button)`)."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Which layout is generally recommended by Google for building complex and flat UI hierarchies due to its performance and flexibility?",
+      "options": {
+        "A": "LinearLayout",
+        "B": "RelativeLayout",
+        "C": "ConstraintLayout",
+        "D": "TableLayout"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "ConstraintLayout is Google's recommended layout for building complex UIs. It allows you to create large and flat view hierarchies, which are more efficient than nested layouts, by defining constraints between views."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "What is the purpose of the `android:padding` attribute for a View?",
+      "options": {
+        "A": "To create space outside the view's border.",
+        "B": "To create space between the view's content and its border.",
+        "C": "To align the view within its parent.",
+        "D": "To set the background color of the view."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "`android:padding` specifies the amount of space between the content of a View and its own boundaries. It affects the internal spacing of the view."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Which of the following is the correct way to reference a string resource named `my_message` from an XML layout file?",
+      "options": {
+        "A": "@string/my_message",
+        "B": "$string/my_message",
+        "C": "#string/my_message",
+        "D": "string.my_message"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Android resource references in XML start with `@`, followed by the resource type (e.g., `string`, `drawable`, `color`), a slash, and the resource name."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "What does `android:layout_weight` attribute do in a `LinearLayout`?",
+      "options": {
+        "A": "It specifies the priority of a view for receiving touch events.",
+        "B": "It controls how much extra space in the layout is allocated to a view.",
+        "C": "It determines the vertical alignment of the view.",
+        "D": "It sets the minimum width the view can have."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`android:layout_weight` assigns an 'importance' value to a view, specifying how much of the remaining space in a `LinearLayout` should be given to that view, relative to the weights of other views in the layout. It's often used with `layout_width=\"0dp\"` or `layout_height=\"0dp\"`."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Which unit of measurement is recommended for font sizes to ensure consistent text scaling across different screen densities?",
+      "options": {
+        "A": "dp (density-independent pixels)",
+        "B": "px (pixels)",
+        "C": "sp (scale-independent pixels)",
+        "D": "pt (points)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "sp (scale-independent pixels) is similar to dp, but it is also scaled by the user's font size preference. This ensures that text scales not only with screen density but also with accessibility settings."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "To display an image from your `res/drawable` folder in an XML layout, which attribute of an `ImageView` would you use?",
+      "options": {
+        "A": "android:text",
+        "B": "android:src",
+        "C": "android:background",
+        "D": "android:icon"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "`android:src` is used to specify the drawable resource to be displayed as the main content of an `ImageView`."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "What is the primary difference between `android:layout_margin` and `android:padding`?",
+      "options": {
+        "A": "Margin is inside the view, padding is outside.",
+        "B": "Margin is outside the view, padding is inside.",
+        "C": "Margin affects text, padding affects images.",
+        "D": "They are interchangeable and have the same effect."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`android:layout_margin` defines the empty space outside of a view's boundaries, separating it from other views. `android:padding` defines the empty space inside a view, between its content and its own borders."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "If you want a `TextView` to occupy all available width in its parent, what `android:layout_width` value would you set?",
+      "options": {
+        "A": "wrap_content",
+        "B": "0dp",
+        "C": "match_parent",
+        "D": "100%"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "`match_parent` (formerly `fill_parent`) makes the view expand to match the width or height of its parent layout."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Which XML attribute is used to set the text color of a `TextView`?",
+      "options": {
+        "A": "android:color",
+        "B": "android:textColor",
+        "C": "android:textStyle",
+        "D": "android:fontColor"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "`android:textColor` is the attribute used to define the color of the text displayed in a `TextView`."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "How can you dynamically change the visibility of a View in Kotlin/Java code?",
+      "options": {
+        "A": "myView.setHidden(true)",
+        "B": "myView.setVisibility(View.GONE)",
+        "C": "myView.toggleVisible()",
+        "D": "myView.setVisible(false)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Views have a `setVisibility()` method that accepts `View.VISIBLE`, `View.INVISIBLE` (hidden but occupies space), or `View.GONE` (hidden and does not occupy space). `View.GONE` is often preferred for completely removing a view from the layout."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which interface must be implemented to handle click events on a Button in Android?",
+      "options": {
+        "A": "OnTouchListener",
+        "B": "OnClickListener",
+        "C": "OnFocusChangeListener",
+        "D": "OnLongClickListener"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `OnClickListener` interface contains a single method, `onClick(View v)`, which is invoked when a view (like a Button) is clicked. You set an instance of this listener to the button using `setOnClickListener()`."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Which method is called when an Activity is first created, and is typically where you set the layout and initialize UI components?",
+      "options": {
+        "A": "onStart()",
+        "B": "onResume()",
+        "C": "onCreate()",
+        "D": "onPause()"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `onCreate()` method is the first lifecycle callback when an Activity is created. It's the primary place to perform basic application startup logic that should happen only once for the entire life of the activity, such as calling `setContentView()`."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "To display a small, temporary message at the bottom of the screen, which UI element would you use?",
+      "options": {
+        "A": "AlertDialog",
+        "B": "Notification",
+        "C": "Toast",
+        "D": "Snackbar"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A Toast provides simple feedback about an operation in a small popup. It fills only the amount of space required for the message and the current activity remains visible and interactive."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Which method is called when an Activity is about to become visible to the user?",
+      "options": {
+        "A": "onStop()",
+        "B": "onDestroy()",
+        "C": "onStart()",
+        "D": "onRestart()"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The `onStart()` method is called when the activity is becoming visible to the user. It is followed by `onResume()` if the activity comes to the foreground."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "How do you retrieve text entered by a user into an `EditText` field in Kotlin/Java code?",
+      "options": {
+        "A": "myEditText.text.toString()",
+        "B": "myEditText.getValue()",
+        "C": "myEditText.getTextContent()",
+        "D": "myEditText.string"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "To get the current text from an `EditText`, you access its `text` property (which is an `Editable` object) and then call `toString()` on it to convert it to a `String`."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Which method is called when an Activity is no longer visible to the user, either because another activity has come to the foreground or it's being destroyed?",
+      "options": {
+        "A": "onPause()",
+        "B": "onStop()",
+        "C": "onDestroy()",
+        "D": "onRestart()"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`onStop()` is called when the activity is no longer visible to the user. This might happen because a new, larger activity is covering it, or the activity is finishing. You should release resources that are no longer needed when the activity is not visible."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Which UI component is best suited for providing a user with a choice between two mutually exclusive options (e.g., On/Off)?",
+      "options": {
+        "A": "Checkbox",
+        "B": "RadioButton",
+        "C": "Switch",
+        "D": "Spinner"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A Switch is a two-state toggle switch that allows the user to change a setting between two states. It's often used for simple On/Off preferences."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "What is the correct way to show an `AlertDialog` in Android?",
+      "options": {
+        "A": "new AlertDialog().show()",
+        "B": "AlertDialog.Builder(this).setMessage(\"Hi\").show()",
+        "C": "AlertDialog.create().display()",
+        "D": "showDialog(new AlertDialog())"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`AlertDialog`s are typically built using `AlertDialog.Builder`. You set properties like message, title, and buttons, and then call `show()` on the builder to display the dialog."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Which method is called when the user navigates back to an Activity from a paused state (e.g., after receiving a phone call)?",
+      "options": {
+        "A": "onStart()",
+        "B": "onRestart()",
+        "C": "onResume()",
+        "D": "onCreate()"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "`onResume()` is called when the activity will start interacting with the user. It is always followed by `onPause()` or `onStop()`. It's where the activity comes to the foreground and becomes interactive."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "What is the primary difference between a `Toast` and a `Snackbar`?",
+      "options": {
+        "A": "Toast can have actions, Snackbar cannot.",
+        "B": "Snackbar can be swiped away, Toast cannot.",
+        "C": "Toast is persistent, Snackbar is temporary.",
+        "D": "Snackbar is used for system messages, Toast for app messages."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A Snackbar provides a brief message about an operation at the bottom of the screen. Unlike Toast, it can include an optional action button and can be dismissed by swiping. Toasts are simple, non-interactive pop-ups."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Which lifecycle method is guaranteed to be called before an Activity is destroyed?",
+      "options": {
+        "A": "onPause()",
+        "B": "onStop()",
+        "C": "onDestroy()",
+        "D": "onCleanup()"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "`onDestroy()` is the final call received before the activity is destroyed. It can happen either because the activity is finishing (e.g., user presses back) or the system is temporarily destroying this instance of the activity to save space."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "If an Activity is paused (`onPause()`) but still partially visible (e.g., a transparent dialog is on top), which method is NOT yet called?",
+      "options": {
+        "A": "onStop()",
+        "B": "onResume()",
+        "C": "onCreate()",
+        "D": "onStart()"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "`onPause()` is called when an activity is losing focus but is still visible (e.g., a semi-transparent activity or dialog appears on top). `onStop()` is only called when the activity is no longer visible to the user at all."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "What is the purpose of the `onSaveInstanceState()` method in an Activity's lifecycle?",
+      "options": {
+        "A": "To permanently save application data to a database.",
+        "B": "To save the activity's UI state before it is temporarily destroyed by the system.",
+        "C": "To save user preferences for the app.",
+        "D": "To save the state of a background service."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`onSaveInstanceState()` is called by the system to allow an activity to save its state (e.g., contents of an `EditText`, scroll position) in a `Bundle` before the activity is potentially destroyed due to configuration changes (like screen rotation) or low memory. This state can then be restored in `onCreate()` or `onRestoreInstanceState()`."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Which component is used to group multiple `RadioButton`s so that only one can be selected at a time?",
+      "options": {
+        "A": "CheckboxGroup",
+        "B": "ToggleGroup",
+        "C": "RadioGroup",
+        "D": "ButtonLayout"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A `RadioGroup` is a container for `RadioButton`s. When `RadioButton`s are inside a `RadioGroup`, selecting one automatically deselects any previously selected `RadioButton` within that group."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "When an Activity is stopped and then brought back to the foreground, which sequence of lifecycle methods occurs?",
+      "options": {
+        "A": "onRestart() -> onStart() -> onResume()",
+        "B": "onCreate() -> onStart() -> onResume()",
+        "C": "onStop() -> onStart() -> onResume()",
+        "D": "onPause() -> onResume() -> onStart()"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "If an activity is in the 'Stopped' state (`onStop()` has been called), and the user navigates back to it, the `onRestart()` method is called first, followed by `onStart()` and then `onResume()`."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "To programmatically change the text of a `TextView` in Kotlin/Java code, which method would you use?",
+      "options": {
+        "A": "myTextView.setText(\"New Text\")",
+        "B": "myTextView.changeText(\"New Text\")",
+        "C": "myTextView.text = \"New Text\"",
+        "D": "myTextView.updateText(\"New Text\")"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In Kotlin, you can directly assign a string to the `text` property of a `TextView`. In Java, you would use `myTextView.setText(\"New Text\");`."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "What is the most appropriate listener for detecting when an `EditText`'s text content changes?",
+      "options": {
+        "A": "OnClickListener",
+        "B": "OnFocusChangeListener",
+        "C": "TextWatcher",
+        "D": "OnKeyListener"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A `TextWatcher` interface provides three methods (`beforeTextChanged`, `onTextChanged`, `afterTextChanged`) that allow you to respond to changes in the text content of an `EditText` in real-time."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Which Android storage mechanism is best suited for storing small amounts of private, key-value data?",
+      "options": {
+        "A": "SQLite Database",
+        "B": "External Storage",
+        "C": "SharedPreferences",
+        "D": "Content Provider"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "SharedPreferences is ideal for storing primitive data types (booleans, floats, ints, longs, strings) as key-value pairs. It's often used for user settings and preferences."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "To get an instance of `SharedPreferences` in an Activity, which method would you typically use?",
+      "options": {
+        "A": "getDatabase()",
+        "B": "getFilesDir()",
+        "C": "getSharedPreferences()",
+        "D": "getPreferences()"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Inside an Activity, `getPreferences(Context.MODE_PRIVATE)` is commonly used to retrieve a default `SharedPreferences` file that belongs to that specific Activity. For app-wide preferences, `getSharedPreferences(\"my_app_prefs\", Context.MODE_PRIVATE)` is used."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Which method is used to commit changes made to a `SharedPreferences.Editor`?",
+      "options": {
+        "A": "save()",
+        "B": "apply()",
+        "C": "write()",
+        "D": "persist()"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "`apply()` writes the preferences asynchronously to disk. `commit()` writes synchronously and returns a boolean indicating success or failure. `apply()` is generally preferred as it's non-blocking and faster for UI threads."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "For storing structured, private data that requires complex queries and relationships, which storage option is most suitable?",
+      "options": {
+        "A": "SharedPreferences",
+        "B": "Internal Storage (Files)",
+        "C": "SQLite Database",
+        "D": "Network Storage"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "SQLite is a lightweight, embedded relational database that is ideal for storing structured data locally within an Android application, allowing for complex queries, updates, and relationships."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "What is the primary characteristic of data stored using Internal Storage (files)?",
+      "options": {
+        "A": "It is accessible by all applications on the device.",
+        "B": "It is deleted when the user uninstalls the app.",
+        "C": "It is stored on a remote server.",
+        "D": "It requires special permissions to read/write."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Files saved to internal storage are private to your application and cannot be accessed by other applications. When the user uninstalls your application, these files are removed."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "When storing sensitive user data (e.g., access tokens), what is a crucial consideration beyond just local storage mechanism?",
+      "options": {
+        "A": "Using a faster storage method.",
+        "B": "Ensuring the data is encrypted.",
+        "C": "Making it accessible to other apps.",
+        "D": "Storing it in plain text for easy debugging."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "For sensitive data, encryption is paramount to protect it from unauthorized access, even if the device is rooted or compromised. Android Keystore System can be used to securely store cryptographic keys."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Which class is typically extended to manage database creation and versioning for an SQLite database in Android?",
+      "options": {
+        "A": "SQLiteDatabase",
+        "B": "DatabaseHelper",
+        "C": "SQLiteOpenHelper",
+        "D": "CursorAdapter"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The `SQLiteOpenHelper` class provides a convenient way to manage database creation and version management. It handles opening the database, creating tables (`onCreate`), and upgrading/downgrading (`onUpgrade`)."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "What is `External Storage` in Android primarily used for?",
+      "options": {
+        "A": "Private app data only.",
+        "B": "App-specific data that is public and shared data.",
+        "C": "Cloud backup solutions.",
+        "D": "RAM management."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "External storage (like an SD card or a shared internal storage partition) can be used for both app-specific files that are external to your app's private internal storage and for public, shared media files or documents."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "What is the purpose of a `ContentProvider`?",
+      "options": {
+        "A": "To provide data to a specific Activity.",
+        "B": "To manage network requests for data.",
+        "C": "To provide structured access to data for other applications.",
+        "D": "To store app preferences securely."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A `ContentProvider` manages access to a structured set of data. It encapsulates data and provides a standard interface to it, allowing other applications to query, insert, update, or delete data, subject to permissions."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "When an Android device performs a configuration change (e.g., screen rotation), how can you preserve the UI state of your `Activity`?",
+      "options": {
+        "A": "By setting `android:configChanges=\"orientation|screenSize\"` in `AndroidManifest.xml`.",
+        "B": "By storing data in `SharedPreferences`.",
+        "C": "By overriding `onSaveInstanceState()` and `onRestoreInstanceState()`.",
+        "D": "All of the above."
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "All options can help: A) prevents the activity from being recreated, so its state isn't lost (though generally discouraged for complex UIs). B) can save persistent data. C) is the standard way to save and restore transient UI state when the activity is recreated by the system."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Which of these is NOT a method of the `SharedPreferences.Editor` interface?",
+      "options": {
+        "A": "putString()",
+        "B": "getInt()",
+        "C": "putBoolean()",
+        "D": "clear()"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`getInt()` is a method of the `SharedPreferences` interface itself, used to retrieve a value. `putString()`, `putBoolean()`, and `clear()` are methods of `SharedPreferences.Editor` used to modify values."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "What permission is required to write data to the public external storage on Android 6.0 (API 23) and higher?",
+      "options": {
+        "A": "android.permission.INTERNET",
+        "B": "android.permission.READ_EXTERNAL_STORAGE",
+        "C": "android.permission.WRITE_EXTERNAL_STORAGE",
+        "D": "No permission is needed."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Writing to public external storage requires the `WRITE_EXTERNAL_STORAGE` permission. On Android 6.0 (API 23) and higher, this is a dangerous permission that must be requested at runtime from the user."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "When storing a large file (e.g., a video) that should be accessible only by your app and deleted when the app is uninstalled, which storage option is most appropriate?",
+      "options": {
+        "A": "SharedPreferences",
+        "B": "Internal Storage (Files)",
+        "C": "SQLite Database",
+        "D": "Content Provider"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Internal storage is suitable for private, app-specific files, and these files are automatically deleted when the app is uninstalled. It doesn't have the size limitations of `SharedPreferences` or the structured overhead of SQLite for raw files."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Which of the following is true about `Context.MODE_PRIVATE` when opening a `SharedPreferences` file?",
+      "options": {
+        "A": "The file can be read and written by other apps.",
+        "B": "The file is accessible only by the calling application.",
+        "C": "The file is encrypted by default.",
+        "D": "The file is deleted after the app closes."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "`Context.MODE_PRIVATE` ensures that the created `SharedPreferences` file can only be accessed by the calling application, making it private to your app."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "What is a `Cursor` used for in SQLite database operations in Android?",
+      "options": {
+        "A": "To execute SQL queries directly.",
+        "B": "To represent a row in a database table.",
+        "C": "To point to a row in the results of a database query.",
+        "D": "To manage database connections."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A `Cursor` is an interface that provides random read-write access to the result set returned by a database query. It acts like a pointer, allowing you to iterate through rows and columns of data."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "If you need to store complex custom objects that are not easily represented by primitive types or simple key-value pairs, which serialization approach might you combine with file storage or databases?",
+      "options": {
+        "A": "Storing as plain text",
+        "B": "Using `Parcelable` or `Serializable` (or JSON/XML serialization)",
+        "C": "Only storing primitive types",
+        "D": "Ignoring the problem as Android handles it automatically"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "For complex objects, you would typically serialize them into a format like JSON, XML, or use Java's `Serializable` or Android's `Parcelable` interfaces to convert them into a byte stream that can be stored in a file or a database column (e.g., as a BLOB)."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is an `Activity` in Android development?",
+      "options": {
+        "A": "A background process that performs long-running operations.",
+        "B": "A single screen with a user interface, acting as an entry point for user interaction.",
+        "C": "A component that facilitates inter-app communication.",
+        "D": "A persistent data storage mechanism."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "An `Activity` is a single, focused thing that the user can do. It typically represents a single screen with a user interface. For example, an email app might have one activity for showing a list of new emails, another activity for composing an email, and another activity for reading an email."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Which component is used to perform an action or navigate between different `Activity`s within an app or to other apps?",
+      "options": {
+        "A": "Service",
+        "B": "BroadcastReceiver",
+        "C": "ContentProvider",
+        "D": "Intent"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "An `Intent` is a messaging object you can use to request an action from another app component. Intents are used for starting activities, starting services, and delivering broadcasts."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "To start a new `Activity` and pass data to it, you would use which `Intent` method?",
+      "options": {
+        "A": "Intent.sendBundle()",
+        "B": "Intent.putData()",
+        "C": "Intent.putExtra()",
+        "D": "Intent.attachData()"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "`putExtra()` is used to add extended data to the intent. This data is stored as key-value pairs in a `Bundle` object within the `Intent`."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "What is the key difference between an 'explicit intent' and an 'implicit intent'?",
+      "options": {
+        "A": "Explicit intents are faster; implicit intents are slower.",
+        "B": "Explicit intents target a specific component; implicit intents declare an action to be performed.",
+        "C": "Explicit intents are for internal app use; implicit intents are for external apps.",
+        "D": "Explicit intents require permissions; implicit intents do not."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "An explicit intent names the exact component (Activity, Service, or BroadcastReceiver) to start. An implicit intent declares a general action to perform, allowing the Android system to find the best component to handle it (potentially from another app)."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Which `Activity` method is used to retrieve data passed from another `Activity` using an `Intent`?",
+      "options": {
+        "A": "getIntent().getExtras()",
+        "B": "getDataFromIntent()",
+        "C": "getPassedData()",
+        "D": "retrieveIntentData()"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "You first get the `Intent` that started the current activity using `getIntent()`, and then retrieve the `Bundle` of extras using `getExtras()`. From the `Bundle`, you can then use methods like `getString()`, `getInt()`, etc., with the appropriate keys."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Which Android component runs in the background, without a user interface, to perform long-running operations or to provide functionality to other components?",
+      "options": {
+        "A": "Activity",
+        "B": "Service",
+        "C": "ContentProvider",
+        "D": "BroadcastReceiver"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A `Service` is an application component that can perform long-running operations in the background and does not provide a user interface. For example, a service might play music in the background or fetch data over the network."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "What is the primary method to start a new `Activity` in Android?",
+      "options": {
+        "A": "startService(intent)",
+        "B": "sendBroadcast(intent)",
+        "C": "startActivity(intent)",
+        "D": "runActivity(intent)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "`startActivity(intent)` is the standard method used to launch a new `Activity` specified by the `Intent` object."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "If you want to receive a result back from a started `Activity`, which method should you use instead of `startActivity()`?",
+      "options": {
+        "A": "startForResult(intent)",
+        "B": "startActivityForResult(intent, requestCode)",
+        "C": "launchActivityAndReturn(intent)",
+        "D": "beginActivityWithResult(intent)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`startActivityForResult()` is used when you expect a result back from the activity you are starting. The result is then handled in the `onActivityResult()` callback (though modern Android uses `Activity Result API` for this). The `requestCode` helps identify the source of the result."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Which method is called in the initiating `Activity` when a result is returned from a `startActivityForResult()` call?",
+      "options": {
+        "A": "onResultReceived()",
+        "B": "onActivityResult()",
+        "C": "onActivityReturn()",
+        "D": "handleActivityResult()"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "After an activity started with `startActivityForResult()` finishes, its result is returned to the `onActivityResult()` method in the calling activity."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "What is a `BroadcastReceiver` primarily used for?",
+      "options": {
+        "A": "To display notifications to the user.",
+        "B": "To respond to system-wide broadcast announcements.",
+        "C": "To manage background threads.",
+        "D": "To provide a user interface for widgets."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A `BroadcastReceiver` is an Android component that allows an application to listen for and respond to system-wide broadcast announcements (e.g., battery low, SMS received, device booted) or custom application broadcasts."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "To explicitly stop a running `Service` that was started using `startService()`, which method should you call?",
+      "options": {
+        "A": "stopService()",
+        "B": "killService()",
+        "C": "destroyService()",
+        "D": "pauseService()"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "A service started with `startService()` must explicitly stop itself by calling `stopSelf()` or another component can stop it by calling `stopService()`."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Which of these `Intent` categories is typically used to launch the main entry point of an application?",
+      "options": {
+        "A": "android.intent.category.BROWSABLE",
+        "B": "android.intent.category.DEFAULT",
+        "C": "android.intent.category.LAUNCHER",
+        "D": "android.intent.category.HOME"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "The `android.intent.category.LAUNCHER` category, combined with `android.intent.action.MAIN`, indicates that the activity is the initial activity of a task and should be listed in the system's application launcher."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "When passing complex custom objects between `Activity`s via an `Intent`, which interface should the object implement for efficient serialization?",
+      "options": {
+        "A": "Cloneable",
+        "B": "Comparable",
+        "C": "Serializable",
+        "D": "Parcelable"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "`Parcelable` is an Android-specific interface for efficient object serialization, designed for inter-process communication (IPC). It is generally faster and more optimized for Android than Java's `Serializable` interface for passing data between components."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "What is the purpose of the `android:launchMode` attribute for an `Activity` in `AndroidManifest.xml`?",
+      "options": {
+        "A": "To define the minimum API level for the activity.",
+        "B": "To specify how a new instance of the activity is associated with tasks.",
+        "C": "To set the default theme for the activity.",
+        "D": "To determine if the activity can be launched by other apps."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "`android:launchMode` defines how an activity is launched into a task and how it behaves with respect to the back stack. Options include `standard`, `singleTop`, `singleTask`, and `singleInstance`, each with distinct behaviors for task management."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "To send a custom broadcast message within your application, which method would you use?",
+      "options": {
+        "A": "sendIntent(intent)",
+        "B": "sendBroadcast(intent)",
+        "C": "postMessage(intent)",
+        "D": "dispatchIntent(intent)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`sendBroadcast(intent)` sends a general broadcast to all interested `BroadcastReceiver`s. For more controlled broadcasts within your app, `LocalBroadcastManager` (now deprecated in favor of other approaches like Flow/LiveData) was often used."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "If a `Service` needs to perform an operation that could block the main thread (e.g., network request), how should it typically handle this?",
+      "options": {
+        "A": "Perform the operation directly in `onStartCommand()`.",
+        "B": "Create a new `Activity` to handle the operation.",
+        "C": "Start a new thread or use a background execution mechanism (e.g., Coroutines, WorkManager) within the service.",
+        "D": "Delegate the task to the `ContentProvider`."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Services run on the application's main thread by default. If a service performs blocking operations (like network calls or heavy computations), it can cause ANRs (Application Not Responding) errors. Therefore, it must offload such tasks to a separate thread or use asynchronous mechanisms."
+    }
+  ]
+}

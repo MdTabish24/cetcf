@@ -1,0 +1,1443 @@
+{
+  "course_name": "Entrepreneurship Development Program",
+  "sector": "Business, Retail & Finance",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Entrepreneurship",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Idea Generation & Opportunity Identification",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Business Planning & Legal Aspects",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Marketing & Sales Strategies",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Financial Management & Funding",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Operations, Team Building & Growth Strategies",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek entrepreneur kaun hota hai?",
+      "options": {
+        "A": "Ek employee jo company ke rules follow karta hai.",
+        "B": "Ek vyakti jo naye business ideas shuru karta hai aur risk leta hai.",
+        "C": "Ek investor jo sirf paise lagata hai.",
+        "D": "Ek manager jo existing operations ko handle karta hai."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Entrepreneur woh vyakti hota hai jo naye business ideas ko pehchaanta hai, unhe shuru karta hai, aur usse jude risks ko manage karta hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Entrepreneurship ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Sirf profit kamana.",
+        "B": "Employment generate karna.",
+        "C": "Innovation aur value create karna.",
+        "D": "Uparokt sabhi."
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Entrepreneurship ka mukhya uddeshya sirf profit kamana nahi hota, balki innovation lana, value create karna aur employment generate karna bhi hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Intrapreneurship kya hai?",
+      "options": {
+        "A": "Ek business jo do entrepreneurs milkar chalate hain.",
+        "B": "Bade business ke andar entrepreneurship ki bhavna se naye ideas develop karna.",
+        "C": "Ek business jo international market mein operate karta hai.",
+        "D": "Ek business jo social cause ke liye kaam karta hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Intrapreneurship mein ek bade sangathan ke andar employees entrepreneur ki tarah sochkar naye products ya services develop karte hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Ek successful entrepreneur ki sabse important quality kya hai?",
+      "options": {
+        "A": "Sirf high education.",
+        "B": "Risk-taking ability.",
+        "C": "Large capital.",
+        "D": "Government support."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek successful entrepreneur mein risk lene ki kshamta honi chahiye, kyunki har naye business mein uncertainty aur challenges hote hain."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Innovation ka entrepreneurship mein kya role hai?",
+      "options": {
+        "A": "Ye sirf bade businesses ke liye zaroori hai.",
+        "B": "Naye products, services ya processes banane mein madad karta hai.",
+        "C": "Market research ko rokta hai.",
+        "D": "Business ko stability deta hai."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Innovation entrepreneurship ka core hai. Yeh naye products, services, ya processes develop karne mein madad karta hai jo market mein value add karte hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Micro-enterprise kaun sa business hota hai?",
+      "options": {
+        "A": "Jisme investment 10 crore se zyada ho.",
+        "B": "Jisme investment 1 crore tak ho aur turnover 5 crore tak ho.",
+        "C": "Jisme 100 se zyada employees ho.",
+        "D": "Sirf service sector mein ho."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Micro-enterprise woh business hota hai jisme investment 1 crore tak aur turnover 5 crore tak hota hai (as per MSME classification)."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Entrepreneurship ke liye sabse pehla kadam kya hai?",
+      "options": {
+        "A": "Seed capital ikattha karna.",
+        "B": "Business idea identify karna.",
+        "C": "Ek office rent karna.",
+        "D": "Legal registration karwana."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi business ko shuru karne se pehle, ek viable business idea ko pehchanna sabse pehla aur sabse mahatvapurna kadam hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Social entrepreneurship kya focus karta hai?",
+      "options": {
+        "A": "Sirf maximum profit.",
+        "B": "Social problems ko solve karna aur profit bhi kamana.",
+        "C": "Government schemes par depend karna.",
+        "D": "International trade."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Social entrepreneurship ka uddeshya samajik samasyao ko hal karna hai, jabki financial sustainability ke liye profit bhi kamaya jata hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Entrepreneurship ek career option ke roop mein kya advantages deta hai?",
+      "options": {
+        "A": "Fixed working hours.",
+        "B": "Higher job security.",
+        "C": "Autonomy aur self-fulfillment.",
+        "D": "Guaranteed high income."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Entrepreneurship mein vyakti ko apne kaam par control aur apni ichha anusar kaam karne ki azadi milti hai, jo self-fulfillment deta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek entrepreneur ko 'change agent' kyun kaha jata hai?",
+      "options": {
+        "A": "Kyunki woh sirf political changes lata hai.",
+        "B": "Kyunki woh market mein naye products aur services introduce karke badlav lata hai.",
+        "C": "Kyunki woh employees ko change karta hai.",
+        "D": "Kyunki woh apne business ka location change karta rehta hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Entrepreneurs naye ideas aur innovations ke through market mein badlav late hain, isliye unhe 'change agent' kaha jata hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Family business mein entrepreneurship ka kya role hai?",
+      "options": {
+        "A": "Ye sirf existing business ko maintain karta hai.",
+        "B": "Ye naye products/services, markets aur processes introduce karke business ko grow karta hai.",
+        "C": "Ye sirf family members ko employment deta hai.",
+        "D": "Ye family business ke bahar innovation ko rokta hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Family business mein entrepreneurship naye ideas aur growth strategies lakar business ko agle level par le jane mein madad karti hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Entrepreneurship ecosystem mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf entrepreneurs.",
+        "B": "Government, educational institutions, funding agencies aur support organizations.",
+        "C": "Sirf customers aur suppliers.",
+        "D": "Sirf competitors."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Entrepreneurship ecosystem mein vibhinn stakeholders jaise government, educational institutions, investors, incubators, aadi shamil hote hain jo entrepreneurs ko support karte hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "MSME ka full form kya hai?",
+      "options": {
+        "A": "Mega Small and Medium Enterprises",
+        "B": "Micro Small and Medium Enterprises",
+        "C": "Manufacturing Services and Marketing Enterprises",
+        "D": "Minimum Scale Management Enterprises"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MSME ka full form Micro Small and Medium Enterprises hai, jo India mein chhote aur madhyam udyogon ko classify karta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek entrepreneur ko apne business ke liye 'vision' kyun chahiye?",
+      "options": {
+        "A": "Sirf investors ko impress karne ke liye.",
+        "B": "Future ke liye ek clear goal aur direction set karne ke liye.",
+        "C": "Apne competitors ko copy karne ke liye.",
+        "D": "Daily tasks ko manage karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vision ek entrepreneur ko apne business ke liye ek long-term goal aur direction provide karta hai, jisse woh sahi raste par chal sake."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Entrepreneurship mein 'Failure' ko kaise dekha jana chahiye?",
+      "options": {
+        "A": "Business ko turant band kar dena chahiye.",
+        "B": "Ek learning experience ke roop mein.",
+        "C": "Duniya ka ant.",
+        "D": "Kabhi bhi dobara try nahi karna chahiye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Entrepreneurship mein failure ko ek learning experience ke roop mein dekhna chahiye, jisse mistakes se seekhkar aage badha ja sake."
+    },
+    {
+      "qno": 16,
+      "module": 2,
+      "question": "Business idea generate karne ka ek effective tareeka kya hai?",
+      "options": {
+        "A": "Sirf existing businesses ko copy karna.",
+        "B": "Brainstorming aur problem-solving.",
+        "C": "Kisi aur ke idea ka intezar karna.",
+        "D": "Sirf internet par search karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Brainstorming aur real-world problems ko identify karke unke solutions dhundhna naye business ideas generate karne ka ek effective tareeka hai."
+    },
+    {
+      "qno": 17,
+      "module": 2,
+      "question": "Market research kyun zaroori hai ek naye business idea ke liye?",
+      "options": {
+        "A": "Sirf competitors ki jaankari ke liye.",
+        "B": "Customers ki needs, preferences aur market potential ko samajhne ke liye.",
+        "C": "Apne product ki price decide karne ke liye.",
+        "D": "Legal compliances check karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Market research customers ki zarooraton aur market ke potential ko samajhne mein madad karta hai, jisse ek viable business idea banaya ja sake."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "SWOT analysis mein 'S' kya represent karta hai?",
+      "options": {
+        "A": "Strategies",
+        "B": "Strengths",
+        "C": "Solutions",
+        "D": "Surveys"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SWOT analysis mein 'S' Strengths ko represent karta hai, jo ek business ke internal positive attributes hote hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Customer Segmentation kya hai?",
+      "options": {
+        "A": "Customers ko alag-alag groups mein divide karna unki similar characteristics ke basis par.",
+        "B": "Customers ko sirf unki income ke basis par classify karna.",
+        "C": "Customers ko product ke types ke basis par divide karna.",
+        "D": "Customers ko geographical location ke basis par divide karna."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Customer segmentation mein customers ko unki common characteristics (jaise age, income, behavior) ke basis par groups mein divide kiya jata hai, jisse targeted marketing ki ja sake."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Value Proposition kya hota hai?",
+      "options": {
+        "A": "Product ki manufacturing cost.",
+        "B": "Woh unique benefits jo ek product ya service customer ko provide karta hai.",
+        "C": "Company ka total revenue.",
+        "D": "Market share."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Value Proposition woh unique benefits aur value hai jo ek business apne customers ko offer karta hai, jisse woh competitors se alag dikhta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Primary market research ka ek example kya hai?",
+      "options": {
+        "A": "Government reports padhna.",
+        "B": "Competitors ki websites check karna.",
+        "C": "Customer surveys conduct karna.",
+        "D": "Industry blogs padhna."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Primary market research mein data direct sources se collect kiya jata hai, jaise customer surveys, interviews, focus groups."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Niche market kya hai?",
+      "options": {
+        "A": "Ek bada market jisme bahut competition ho.",
+        "B": "Ek specific aur chhota segment of a larger market with unique needs.",
+        "C": "Ek international market.",
+        "D": "Ek market jo sirf online operate karta ho."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Niche market ek bade market ka ek chhota, specific segment hota hai jiske customers ki kuch khaas zarooratein hoti hain jinhe general market fulfill nahi kar pata."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Competitive Analysis kyun zaroori hai?",
+      "options": {
+        "A": "Sirf competitors ko copy karne ke liye.",
+        "B": "Competitors ki strengths, weaknesses aur strategies ko samajhne ke liye.",
+        "C": "Apne product ki quality ignore karne ke liye.",
+        "D": "Market se bahar nikalne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Competitive analysis se aap apne competitors ko behtar samajh sakte hain aur unse alag hone ke liye apni strategies develop kar sakte hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "USP ka full form kya hai?",
+      "options": {
+        "A": "Unique Sales Point",
+        "B": "Universal Service Provider",
+        "C": "Ultimate Strategic Plan",
+        "D": "Uniform System Protocol"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "USP ka full form Unique Selling Proposition ya Unique Sales Point hota hai, jo aapke product/service ko competitors se alag banata hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Problem-solving approach se business ideas kaise generate hote hain?",
+      "options": {
+        "A": "Sirf existing products ko bechkar.",
+        "B": "Logo ki daily life mein aane wali problems ko identify karke unke solutions offer karna.",
+        "C": "Government tenders par depend karna.",
+        "D": "Randomly koi bhi product choose karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aksar sabse successful business ideas logo ki real-life problems ko solve karne se aate hain. Problems ko pehchano aur solution provide karo."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Brainstorming session mein kya avoid karna chahiye?",
+      "options": {
+        "A": "Ideas ko judge karna ya criticize karna.",
+        "B": "Jyada se jyada ideas generate karna.",
+        "C": "Creative thinking.",
+        "D": "Group participation."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Brainstorming ka main aim hai jyada se jyada ideas generate karna. Is stage par ideas ko judge ya criticize nahi karna chahiye."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Feasibility study kya evaluate karti hai?",
+      "options": {
+        "A": "Business ka past performance.",
+        "B": "Ek business idea kitna practical aur viable hai.",
+        "C": "Sirf product ki design.",
+        "D": "Company ke employees ki performance."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Feasibility study ek business idea ki practical applicability aur financial viability ko evaluate karti hai, jisse yeh pata chal sake ki business chalega ya nahi."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Target market define karna kyun important hai?",
+      "options": {
+        "A": "Taki marketing efforts ko concentrate kiya ja sake aur resources waste na ho.",
+        "B": "Taki product ki cost kam ho sake.",
+        "C": "Taki competitors ko confuse kiya ja sake.",
+        "D": "Taki government se subsidy mil sake."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Target market define karne se aap apne marketing efforts ko sahi audience par focus kar sakte hain, jisse aapke resources effectively use honge."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Pestle analysis mein 'P' kya refer karta hai?",
+      "options": {
+        "A": "Product",
+        "B": "Political",
+        "C": "Profit",
+        "D": "People"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pestle analysis mein 'P' Political factors ko refer karta hai, jo ek business ke external environment ko analyze karne mein madad karta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Blue Ocean Strategy kya hai?",
+      "options": {
+        "A": "Existing market mein competitors se ladna.",
+        "B": "Naye market space create karna jahan competition na ho.",
+        "C": "Cost cutting par focus karna.",
+        "D": "Sirf luxury products bechna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Blue Ocean Strategy ka matlab hai naye, uncontested market spaces (blue oceans) create karna, jahan competition irrelevant ho jata hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Minimum Viable Product (MVP) kya hota hai?",
+      "options": {
+        "A": "Ek product jisme saari possible features ho.",
+        "B": "Ek product jisme sirf core features ho, jisse early customers se feedback mil sake.",
+        "C": "Ek product jo sirf testing ke liye banaya gaya ho.",
+        "D": "Ek product jo market mein launch hone ke liye ready ho."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MVP ek product ka sabse basic version hota hai jisme sirf core features hote hain, jisse use market mein jaldi launch karke customer feedback liya ja sake."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Idea validation mein customer interviews ka kya role hai?",
+      "options": {
+        "A": "Customers ko product kharidne ke liye convince karna.",
+        "B": "Customers ki real needs aur pain points ko samajhna.",
+        "C": "Sirf marketing strategies test karna.",
+        "D": "Competitors ke baare mein jaankari ikattha karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer interviews se aap apne target audience ki zarooraton aur problems ko directly samajh sakte hain, jo idea validation ke liye crucial hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Secondary market research ka ek example kya hai?",
+      "options": {
+        "A": "Focus group discussions.",
+        "B": "Industry reports aur government statistics.",
+        "C": "Personal interviews.",
+        "D": "Observations."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Secondary market research mein existing data ka use kiya jata hai jo pehle se collect kiya ja chuka hai, jaise industry reports, government statistics, articles."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Trend spotting entrepreneurship mein kyun valuable hai?",
+      "options": {
+        "A": "Sirf fashion industry ke liye.",
+        "B": "Future market opportunities aur customer demands ko predict karne ke liye.",
+        "C": "Past market data analyze karne ke liye.",
+        "D": "Competitors ki strategies copy karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Trend spotting se entrepreneurs aane wale trends ko pehchan sakte hain, jisse woh naye products ya services develop kar sakte hain jo future ki demands ko pura kare."
+    },
+    {
+      "qno": 35,
+      "module": 2,
+      "question": "Prototype banane ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Product ko mass production ke liye ready karna.",
+        "B": "Idea ko physical form mein test karna aur feedback lena.",
+        "C": "Sirf marketing material create karna.",
+        "D": "Product ko patent karwana."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Prototype ek product ka working model hota hai jiska uddeshya idea ko test karna, usme sudhar karna aur early feedback lena hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Business Plan ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Sirf government se loans lena.",
+        "B": "Business ke goals, strategies aur financial projections ko detail mein outline karna.",
+        "C": "Sirf employees ko hire karna.",
+        "D": "Apne competitors ko impress karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Business plan ek blueprint hota hai jo business ke uddeshyon, strategies aur financial details ko describe karta hai, aur investors ko bhi attract karta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Executive Summary business plan ka kaun sa section hai?",
+      "options": {
+        "A": "Sabse ant wala section.",
+        "B": "Sabse pehla section jo poore business plan ka overview deta hai.",
+        "C": "Sirf financial details wala section.",
+        "D": "Marketing strategy wala section."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Executive Summary business plan ka pehla section hota hai jo poore plan ka brief overview deta hai, aur readers ko aage padhne ke liye motivate karta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Proprietorship firm shuru karne ka kya advantage hai?",
+      "options": {
+        "A": "Limited liability.",
+        "B": "Minimum legal formalities aur easy to set up.",
+        "C": "Easy access to large capital.",
+        "D": "Business ka permanent existence."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proprietorship mein ek hi vyakti business ka owner hota hai, aur isme legal formalities sabse kam hoti hain, jisse ise shuru karna aasan hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Partnership firm mein partners ki liability kaisi hoti hai?",
+      "options": {
+        "A": "Limited liability.",
+        "B": "Unlimited liability.",
+        "C": "Liability depends on profit.",
+        "D": "No liability."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Partnership firm mein partners ki liability aam taur par unlimited hoti hai, matlab unki personal assets bhi business ke karz ke liye use ho sakti hain."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Company registration ke liye kis act ke तहत register karna hota hai?",
+      "options": {
+        "A": "Indian Partnership Act, 1932",
+        "B": "Companies Act, 2013",
+        "C": "MSME Act, 2006",
+        "D": "GST Act, 2017"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Companies Act, 2013 India mein companies ke incorporation, regulation aur winding up se related laws ko govern karta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "GST registration kab mandatory hota hai?",
+      "options": {
+        "A": "Jab turnover 10 lakh se kam ho.",
+        "B": "Jab business inter-state supply karta ho ya turnover ek certain limit cross kar jaye.",
+        "C": "Sirf service sector ke businesses ke liye.",
+        "D": "Sirf manufacturing businesses ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GST registration tab mandatory ho jata hai jab business inter-state supply karta ho ya uska annual turnover ek prescribed limit (currently ₹20 lakh or ₹40 lakh in some states) ko cross kar jaye."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Business plan mein financial projections ka kya importance hai?",
+      "options": {
+        "A": "Sirf past performance dikhane ke liye.",
+        "B": "Business ki potential profitability aur cash flow ko estimate karne ke liye.",
+        "C": "Sirf expenses list karne ke liye.",
+        "D": "Competitors ki financial details analyze karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Financial projections business ki future profitability, expenses aur cash flow ka estimate dete hain, jo investors aur lenders ke liye crucial hota hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Intellectual Property (IP) ka ek example kya hai?",
+      "options": {
+        "A": "Land aur building.",
+        "B": "Machinery.",
+        "C": "Trademark aur Patent.",
+        "D": "Raw materials."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Intellectual Property mein creations of the mind shamil hote hain, jaise inventions (patents), literary aur artistic works (copyrights), designs, aur symbols, names aur images jo commercial use hote hain (trademarks)."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Udyam Registration kis liye hota hai?",
+      "options": {
+        "A": "Large-scale industries ke liye.",
+        "B": "MSME (Micro, Small and Medium Enterprises) ke registration ke liye.",
+        "C": "Only for service sector businesses.",
+        "D": "Only for export businesses."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Udyam Registration MSME Ministry dwara shuru kiya gaya ek online system hai jiske through Micro, Small aur Medium Enterprises register hote hain."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Business plan mein 'Management Team' section mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf company ke suppliers.",
+        "B": "Company ke key personnel, unki experience aur roles.",
+        "C": "Sirf board of directors.",
+        "D": "Competitors ki management team."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Management Team section mein business ke key personnel, unki qualifications, experience aur specific roles ko highlight kiya jata hai, jo investors ke liye important hota hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Environmental regulations ka business par kya asar hota hai?",
+      "options": {
+        "A": "Ye sirf cost badhate hain.",
+        "B": "Ye business operations ko eco-friendly banane mein madad karte hain aur compliance ensure karte hain.",
+        "C": "Ye sirf international businesses ke liye hain.",
+        "D": "Ye business growth ko rok dete hain."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Environmental regulations business ko sustainable practices apnane aur pollution control karne mein madad karte hain, jisse long-term environmental aur social benefits milte hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Copyright kis cheez ko protect karta hai?",
+      "options": {
+        "A": "Ek invention.",
+        "B": "Ek brand name.",
+        "C": "Literary, dramatic, musical aur artistic works.",
+        "D": "Ek product design."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Copyright literary, dramatic, musical aur artistic works ko protect karta hai, jisse unke creators ko unke kaam par exclusive rights milte hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "A Memorandum of Association (MoA) kis company ke liye zaroori hai?",
+      "options": {
+        "A": "Proprietorship firm.",
+        "B": "Partnership firm.",
+        "C": "Company (Private/Public Limited).",
+        "D": "HUF (Hindu Undivided Family)."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Memorandum of Association (MoA) ek company ka sabse important document hota hai jo uske objects, powers aur scope ko define karta hai. Ye companies ke liye mandatory hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Business plan mein SWOT analysis ka kya role hai?",
+      "options": {
+        "A": "Sirf competitors ki weaknesses dikhane ke liye.",
+        "B": "Business ki internal strengths aur weaknesses, aur external opportunities aur threats ko identify karne ke liye.",
+        "C": "Sirf marketing budget decide karne ke liye.",
+        "D": "Company ke employees ki performance evaluate karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SWOT analysis business ko apni internal aur external situation ko samajhne mein madad karta hai, jisse strategic planning mein clarity aati hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Compliance with 'Labour Laws' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf employees ko salary dena.",
+        "B": "Employees ke rights, working conditions aur wages se related legal rules ko follow karna.",
+        "C": "Sirf government offices mein paperwork submit karna.",
+        "D": "Employees ko overtime kaam karwana."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Labour Laws ka compliance matlab hai employees ke rights, working conditions, minimum wages, safety standards, aadi se related sabhi legal niyam kanoon ka palan karna."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Marketing Mix ke '4 Ps' kya hain?",
+      "options": {
+        "A": "People, Process, Physical evidence, Productivity",
+        "B": "Product, Price, Place, Promotion",
+        "C": "Planning, Performance, Profit, Potential",
+        "D": "Positioning, Packaging, Publicity, Perception"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Marketing Mix ke 4 Ps hain Product, Price, Place (distribution), aur Promotion. Ye marketing strategy ke core components hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Branding kyun zaroori hai ek naye business ke liye?",
+      "options": {
+        "A": "Sirf product ko attractive banane ke liye.",
+        "B": "Customer ke mind mein unique identity aur recognition create karne ke liye.",
+        "C": "Sirf advertising ke liye.",
+        "D": "Product ki cost kam karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Branding customers ke mind mein aapke business aur product ki ek unique pehchan banati hai, jisse trust aur loyalty develop hoti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Digital Marketing ka ek example kya hai?",
+      "options": {
+        "A": "Newspaper ads.",
+        "B": "Radio jingles.",
+        "C": "Social Media Marketing.",
+        "D": "Hoardings."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Digital Marketing mein online channels ka use kiya jata hai jaise social media, search engines, email, websites, aadi."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "SEO ka full form kya hai?",
+      "options": {
+        "A": "Sales Engine Optimization",
+        "B": "Search Engine Optimization",
+        "C": "Service Evaluation Options",
+        "D": "Strategic Enterprise Operations"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SEO ka full form Search Engine Optimization hai, jiska uddeshya website ko search engine results mein higher rank karwana hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Customer Acquisition Cost (CAC) kya hai?",
+      "options": {
+        "A": "Ek customer ko product bechne ka kharcha.",
+        "B": "Naye customer ko apne business tak lane ka total kharcha.",
+        "C": "Product ki manufacturing cost.",
+        "D": "Customer ki lifetime value."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CAC woh total cost hai jo ek business ko ek naye customer ko acquire karne mein lagti hai, jisme marketing aur sales expenses shamil hote hain."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Content Marketing mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf paid advertisements.",
+        "B": "Relevant aur valuable content create karke audience ko attract karna.",
+        "C": "Sirf product ki features list karna.",
+        "D": "Cold calling."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Content Marketing mein informative aur engaging content (blogs, videos, articles) banaya jata hai jisse audience ko attract aur retain kiya ja sake."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Pricing strategy mein 'Cost-plus pricing' ka kya matlab hai?",
+      "options": {
+        "A": "Competitors ke prices copy karna.",
+        "B": "Product ki cost mein ek fixed percentage profit margin add karna.",
+        "C": "Customer ki willingness to pay ke hisab se price set karna.",
+        "D": "Product ko free mein dena."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cost-plus pricing mein product ki total cost calculate ki jati hai aur usme ek pre-determined profit margin add karke selling price set kiya jata hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Social Media Marketing (SMM) ka kya fayda hai?",
+      "options": {
+        "A": "Sirf bade businesses ke liye faydemand hai.",
+        "B": "Targeted audience tak pahunchne aur customer engagement badhane mein madad karta hai.",
+        "C": "Ye bahut expensive hota hai.",
+        "D": "Sirf product reviews collect karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SMM se businesses apni target audience tak pahunch sakte hain, brand awareness badha sakte hain aur customers ke saath directly engage kar sakte hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Distribution Channel ka kya role hai?",
+      "options": {
+        "A": "Product ki manufacturing karna.",
+        "B": "Product ko manufacturer se customer tak pahunchana.",
+        "C": "Product ki advertising karna.",
+        "D": "Product ki quality control karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Distribution channel woh rasta hai jiske through product ya service manufacturer se final customer tak pahunchta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Public Relations (PR) ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Sirf product sales badhana.",
+        "B": "Public aur media ke saath positive image maintain karna.",
+        "C": "Sirf employees ko motivate karna.",
+        "D": "Direct product promotions karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PR ka uddeshya public aur media ke saath achhe relations maintain karke business ki positive image aur reputation banana hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Upselling kya hota hai?",
+      "options": {
+        "A": "Customer ko ek sasta product bechna.",
+        "B": "Customer ko ek higher-priced ya upgraded version ka product bechna.",
+        "C": "Customer ko ek unrelated product bechna.",
+        "D": "Customer ko product wapas karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Upselling mein customer ko ek behtar ya upgraded version ka product offer kiya jata hai jo uski current purchase se zyada value provide kare."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Customer Lifetime Value (CLV) kya represent karta hai?",
+      "options": {
+        "A": "Ek customer ne kitni baar product kharida hai.",
+        "B": "Ek customer se expected total revenue jo woh business ke saath apne relationship ke dauran generate karega.",
+        "C": "Ek customer ko acquire karne ki cost.",
+        "D": "Customer ki satisfaction level."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CLV woh total value hai jo ek customer ek business ke liye generate karega apni poori customer journey mein."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Email Marketing ka kya fayda hai?",
+      "options": {
+        "A": "Ye sirf spam emails send karta hai.",
+        "B": "Personalized communication aur direct customer engagement.",
+        "C": "Ye bahut outdated method hai.",
+        "D": "Sirf business-to-business (B2B) marketing ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Email marketing se businesses apne customers ke saath direct aur personalized communication kar sakte hain, offers aur updates share kar sakte hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Marketing Funnel kya describe karta hai?",
+      "options": {
+        "A": "Product ki manufacturing process.",
+        "B": "Customer ki journey awareness se purchase tak.",
+        "C": "Company ka organizational structure.",
+        "D": "Financial projections."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Marketing Funnel customer ki journey ko describe karta hai, awareness se lekar interest, consideration, aur finally purchase tak."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Market Penetration strategy ka kya matlab hai?",
+      "options": {
+        "A": "Naye markets mein enter karna.",
+        "B": "Existing products ko existing market mein zyada bechna.",
+        "C": "Naye products develop karna.",
+        "D": "Business ko band karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Market Penetration strategy mein existing market mein existing products ki sales ko badhane par focus kiya jata hai, jaise price reduction ya increased promotion."
+    },
+    {
+      "qno": 66,
+      "module": 5,
+      "question": "Seed Capital kya hota hai?",
+      "options": {
+        "A": "Business ka total profit.",
+        "B": "Initial funding jo business shuru karne ke liye chahiye hota hai.",
+        "C": "Sirf government grants.",
+        "D": "Customer se advance payment."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Seed Capital woh shuruati funding hoti hai jo ek naye business ko apne operations start karne aur initial expenses cover karne ke liye chahiye hoti hai."
+    },
+    {
+      "qno": 67,
+      "module": 5,
+      "question": "Bootstrapping ka kya matlab hai?",
+      "options": {
+        "A": "Bade investors se funding lena.",
+        "B": "Apne personal savings ya initial revenues se business ko fund karna.",
+        "C": "Bank se loan lena.",
+        "D": "Government grants par depend karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bootstrapping mein ek entrepreneur apne personal resources aur business ke generate kiye gaye revenues ka use karke business ko fund karta hai, external funding ke bina."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Profit and Loss Statement (P&L) kya show karta hai?",
+      "options": {
+        "A": "Company ki financial position ek specific point of time par.",
+        "B": "Company ki income aur expenses ek specific period ke liye.",
+        "C": "Company ka cash flow.",
+        "D": "Company ki liabilities."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Profit and Loss Statement (Income Statement) ek specific accounting period mein company ki income aur expenses ko dikhata hai, jisse net profit ya loss calculate hota hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Balance Sheet kya provide karti hai?",
+      "options": {
+        "A": "Ek specific period mein company ka profit ya loss.",
+        "B": "Company ki assets, liabilities aur owner's equity ek specific date par.",
+        "C": "Company ka cash flow movement.",
+        "D": "Company ke employees ki salary details."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Balance Sheet ek specific date par company ki financial position ka snapshot deti hai, jisme assets, liabilities aur equity shamil hote hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Cash Flow Statement ka kya importance hai?",
+      "options": {
+        "A": "Sirf company ki profitability dikhana.",
+        "B": "Company mein kitna cash aa raha hai aur kitna ja raha hai, ye track karna.",
+        "C": "Company ki assets ki value batana.",
+        "D": "Company ke debts ki jaankari dena."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cash Flow Statement business ke andar aur bahar cash ke movement ko track karta hai, jo business ki liquidity ke liye crucial hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Working Capital kya hota hai?",
+      "options": {
+        "A": "Long-term assets.",
+        "B": "Current assets minus current liabilities, jo daily operations ke liye chahiye.",
+        "C": "Total capital investment.",
+        "D": "Sirf cash in hand."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Working Capital woh capital hai jo business ke day-to-day operations ko fund karne ke liye chahiye hota hai, aur ye current assets minus current liabilities ke barabar hota hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Angel Investor kaun hota hai?",
+      "options": {
+        "A": "Ek bank jo business loans deta hai.",
+        "B": "Ek individual jo naye businesses mein apna personal capital invest karta hai.",
+        "C": "Ek government agency jo grants deti hai.",
+        "D": "Ek company jo venture capital provide karti hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Angel investor ek high net worth individual hota hai jo naye businesses (startups) mein apna personal capital invest karta hai, aam taur par equity ke badle."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Venture Capital (VC) funding kya hai?",
+      "options": {
+        "A": "Small business loans.",
+        "B": "High-growth potential startups mein equity investment.",
+        "C": "Personal savings se funding.",
+        "D": "Government subsidies."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Venture Capital funds high-growth potential startups aur early-stage companies mein equity ke badle investment karte hain, jisse unhe scale karne mein madad milti hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Break-Even Point kya hai?",
+      "options": {
+        "A": "Woh point jahan business maximum profit kamata hai.",
+        "B": "Woh point jahan total revenue total costs ke barabar hota hai (no profit, no loss).",
+        "C": "Woh point jahan business losses mein chala jata hai.",
+        "D": "Woh point jahan business band ho jata hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Break-Even Point woh level of sales hai jahan business na profit kamata hai aur na hi loss uthata hai, matlab total revenue total cost ke barabar hoti hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Fixed Costs ka ek example kya hai?",
+      "options": {
+        "A": "Raw material cost.",
+        "B": "Sales commission.",
+        "C": "Factory rent.",
+        "D": "Electricity bill (production ke hisab se change hota hai)."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Fixed costs woh expenses hote hain jo production level ya sales volume ke saath change nahi hote, jaise factory rent, insurance premiums."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Variable Costs ka ek example kya hai?",
+      "options": {
+        "A": "Building ka rent.",
+        "B": "Employees ki fixed salary.",
+        "C": "Raw material cost per unit.",
+        "D": "Insurance premium."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Variable costs woh expenses hote hain jo production level ya sales volume ke saath directly vary karte hain, jaise raw materials, direct labor."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Return on Investment (ROI) kya measure karta hai?",
+      "options": {
+        "A": "Sirf total sales.",
+        "B": "Investment par kitna return generate hua hai.",
+        "C": "Company ki total liabilities.",
+        "D": "Employees ki salary."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "ROI ek performance measure hai jo investment ki efficiency ya profitability ko evaluate karta hai, matlab investment par kitna return mila."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Crowdfunding kya hai?",
+      "options": {
+        "A": "Sirf government se funds lena.",
+        "B": "Large number of people se small amounts of money raise karna, typically online.",
+        "C": "Bank se large loan lena.",
+        "D": "Personal savings se business fund karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Crowdfunding mein ek bade group of individuals se online platforms ke through small amounts of money raise kiya jata hai, ek project ya business ke liye."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Invoice kya hota hai?",
+      "options": {
+        "A": "Ek document jo supplier ko payment karta hai.",
+        "B": "Ek bill jo customer ko goods ya services provide karne ke baad diya jata hai.",
+        "C": "Ek document jo company ki financial health batata hai.",
+        "D": "Ek document jo employees ki attendance track karta hai."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Invoice ek commercial document hota hai jo seller dwara buyer ko issue kiya jata hai, jisme goods ya services ki list aur unki costs shamil hoti hain."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Petty Cash kya hai?",
+      "options": {
+        "A": "Bade transactions ke liye use hone wala cash.",
+        "B": "Small, day-to-day expenses ke liye rakha gaya thoda cash.",
+        "C": "Long-term investments.",
+        "D": "Bank account mein rakha gaya sara cash."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Petty cash woh chhota amount of cash hota hai jo company mein rakha jata hai, jisse small, incidental expenses (jaise office supplies, courier charges) ko pay kiya ja sake."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Budgeting ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Sirf expenses ko minimize karna.",
+        "B": "Financial resources ko plan aur control karna.",
+        "C": "Sirf revenue generate karna.",
+        "D": "Competitors ko outspend karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Budgeting mein future financial activities ko plan kiya jata hai, jisse income aur expenses ko effectively manage aur control kiya ja sake."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Debt Financing ka ek example kya hai?",
+      "options": {
+        "A": "Equity shares issue karna.",
+        "B": "Bank loan lena.",
+        "C": "Venture capital funding.",
+        "D": "Angel investor se funding."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Debt financing mein funds loan ke roop mein liye jate hain, jinhe interest ke saath wapas karna hota hai, jaise bank loans, bonds."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Equity Financing ka ek example kya hai?",
+      "options": {
+        "A": "Business loan.",
+        "B": "Bonds issue karna.",
+        "C": "Company ke shares sell karna.",
+        "D": "Credit card use karna."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Equity financing mein funds company ke ownership (shares) ko sell karke raise kiye jate hain, jisse investors company mein shareholdings lete hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Profit Margin kya batata hai?",
+      "options": {
+        "A": "Total sales revenue.",
+        "B": "Har sales rupee par kitna profit kamaya gaya hai.",
+        "C": "Total expenses.",
+        "D": "Company ki assets ki value."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Profit Margin company ki profitability ko measure karta hai, batata hai ki har sales rupee par kitna profit generate hua hai."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Receipt kya hai?",
+      "options": {
+        "A": "Ek document jo payment ki request karta hai.",
+        "B": "Ek document jo proof deta hai ki payment receive ho gaya hai.",
+        "C": "Ek document jo future expenses plan karta hai.",
+        "D": "Ek document jo products ki list deta hai."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Receipt ek document hota hai jo buyer ko diya jata hai, is baat ka proof ki usne payment kar diya hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Supply Chain Management (SCM) ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Sirf products ko store karna.",
+        "B": "Raw materials se lekar final product tak saare processes ko optimize karna.",
+        "C": "Sirf sales badhana.",
+        "D": "Employees ko manage karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SCM ka uddeshya raw materials ki sourcing se lekar final product ki delivery tak saare processes ko efficiently manage karna aur optimize karna hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Human Resources (HR) ka kya role hai business mein?",
+      "options": {
+        "A": "Sirf product manufacturing.",
+        "B": "Employees ki hiring, training, management aur welfare.",
+        "C": "Sirf financial planning.",
+        "D": "Marketing campaigns run karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "HR department employees se related saari activities ko handle karta hai, jaise recruitment, training, performance management, compensation aur employee relations."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Team building kyun zaroori hai ek startup ke liye?",
+      "options": {
+        "A": "Sirf employees ko busy rakhne ke liye.",
+        "B": "Collaboration badhane, skills ko combine karne aur goals achieve karne ke liye.",
+        "C": "Sirf budget kam karne ke liye.",
+        "D": "Competitors ko copy karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Team building se employees ke beech collaboration, trust aur communication badhta hai, jisse woh collective goals ko behtar tareeke se achieve kar pate hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Delegation of Authority ka kya matlab hai?",
+      "options": {
+        "A": "Saare decisions khud lena.",
+        "B": "Apne subordinates ko kuch tasks aur decision-making power dena.",
+        "C": "Sirf orders dena.",
+        "D": "Kisi ko bhi responsibility na dena."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Delegation of Authority mein ek manager apne subordinates ko tasks aur unhe pura karne ke liye zaroori decision-making authority deta hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Scaling a business ka kya matlab hai?",
+      "options": {
+        "A": "Business ko chhota karna.",
+        "B": "Revenue aur operations ko significant level tak grow karna without proportional increase in cost.",
+        "C": "Sirf employees hire karna.",
+        "D": "Product ki quality kam karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scaling ek business ko grow karna hai jisme revenue badhta hai lekin costs proportionally nahi badhti, jisse profitability badhti hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Mentorship ka entrepreneur ke liye kya fayda hai?",
+      "options": {
+        "A": "Sirf financial support.",
+        "B": "Guidance, advice aur experience share karna.",
+        "C": "Sirf network banane ke liye.",
+        "D": "Competitors ke secrets janne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mentorship mein ek experienced person (mentor) ek less experienced person (mentee) ko guidance, advice aur apna experience share karta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Risk Management ka kya role hai business mein?",
+      "options": {
+        "A": "Sirf risks ko avoid karna.",
+        "B": "Potential risks ko identify karna, assess karna aur unhe mitigate karna.",
+        "C": "Sirf profits kamana.",
+        "D": "Sirf insurance lena."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Risk Management mein business ke potential risks ko pehchana jata hai, unka analysis kiya jata hai aur unhe kam karne ya handle karne ke liye strategies banai jati hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Customer Feedback kyun important hai operations ke liye?",
+      "options": {
+        "A": "Sirf marketing ke liye.",
+        "B": "Product/service improve karne, customer satisfaction badhane aur future innovation ke liye.",
+        "C": "Sirf employees ki performance judge karne ke liye.",
+        "D": "Competitors se aage nikalne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer feedback se businesses ko apne products/services mein sudhar karne aur customer satisfaction badhane mein madad milti hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Quality Control (QC) ka kya matlab hai?",
+      "options": {
+        "A": "Sirf price kam karna.",
+        "B": "Products ya services ki quality standards ko maintain karna.",
+        "C": "Sirf quantity badhana.",
+        "D": "Marketing campaigns run karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Quality Control mein products ya services ki quality ko monitor aur maintain kiya jata hai, taaki woh set standards ko meet kare."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Exit Strategy ka kya matlab hai?",
+      "options": {
+        "A": "Business ko kabhi band na karna.",
+        "B": "Ek plan jisme bataya jata hai ki ek entrepreneur future mein business se kaise bahar niklega (e.g., selling, IPO).",
+        "C": "Sirf employees ko retire karna.",
+        "D": "Market se product ko remove karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Exit Strategy ek entrepreneur ka plan hota hai ki woh future mein apne business se kaise nikalega, jaise business ko bechna, IPO lana ya management ko handover karna."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Performance Management ka kya fayda hai?",
+      "options": {
+        "A": "Sirf employees ko punish karna.",
+        "B": "Employees ki performance ko track karna, improve karna aur business goals se align karna.",
+        "C": "Sirf attendance record karna.",
+        "D": "Employees ko zyada kaam karwana."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Performance Management employees ki performance ko set goals ke hisab se evaluate aur improve karne ka process hai, jisse business ke overall goals achieve ho sake."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Business Process Automation (BPA) ka ek fayda kya hai?",
+      "options": {
+        "A": "Sirf manual work badhana.",
+        "B": "Efficiency badhana, errors kam karna aur costs reduce karna.",
+        "C": "Sirf employees ko replace karna.",
+        "D": "Customers se direct interaction kam karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "BPA repetitive tasks ko automate karta hai, jisse operational efficiency badhti hai, human errors kam hote hain aur costs reduce hoti hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Contingency Plan kya hai?",
+      "options": {
+        "A": "Sirf future ke profits plan karna.",
+        "B": "Unexpected events ya crises ke liye ek backup plan.",
+        "C": "Sirf daily operations plan karna.",
+        "D": "Market research plan."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Contingency Plan ek backup plan hota hai jo unexpected events ya crises ke liye banaya jata hai, jisse business disruptions ko minimize kiya ja sake."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Corporate Social Responsibility (CSR) ka kya matlab hai?",
+      "options": {
+        "A": "Sirf profit kamana.",
+        "B": "Business ki samajik aur paryavaran zimmedari ko samajhna aur nibhana.",
+        "C": "Sirf government rules follow karna.",
+        "D": "Sirf employees ko salary dena."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CSR mein business apni operations ke social aur environmental impacts ke liye zimmedari leta hai, aur samaj ke liye positive contribution karta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Innovation ka continuous process business growth ke liye kyun zaroori hai?",
+      "options": {
+        "A": "Ye sirf naye products banane ke liye hai.",
+        "B": "Market mein relevant rehne, competition se aage rehne aur customer needs ko fulfill karne ke liye.",
+        "C": "Ye sirf costs badhata hai.",
+        "D": "Ye business ko unstable banata hai."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Continuous innovation business ko market mein relevant rakhta hai, competitors se aage rehne mein madad karta hai aur badalti hui customer needs ko pura karta hai, jisse long-term growth hoti hai."
+    }
+  ]
+}

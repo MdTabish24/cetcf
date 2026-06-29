@@ -1,0 +1,1443 @@
+{
+  "course_name": "Rainwater Harvesting Technician",
+  "sector": "Environmental & Green Skills",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Rainwater Harvesting ka Parichay (Introduction to RWH)",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "RWH System ke Components (Components of RWH Systems)",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Site Assessment aur Basic Design (Site Assessment and Basic Design)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Installation aur Maintenance (Installation and Maintenance)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Pani ki Quality aur Treatment (Water Quality and Treatment)",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Safety aur Best Practices (Safety and Best Practices)",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Rainwater harvesting ka primary uddeshya kya hai?",
+      "options": {
+        "A": "Groundwater level badhana",
+        "B": "Electricity generate karna",
+        "C": "Flood control karna",
+        "D": "Air pollution kam karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Rainwater harvesting ka mukhya uddeshya baarish ke paani ko jama karke groundwater level ko badhana ya use directly use karna hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Urban areas mein RWH kyon zaroori hai?",
+      "options": {
+        "A": "Kyuki wahan zyada baarish hoti hai",
+        "B": "Paani ki kami aur groundwater depletion ko address karne ke liye",
+        "C": "Logon ko naya project dene ke liye",
+        "D": "Building aesthetics improve karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Urban areas mein paani ki demand zyada hoti hai aur groundwater level tezi se girta hai, isliye RWH paani ki kami aur groundwater depletion ko rokne mein madad karta hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "RWH system kitne prakar ke hote hain?",
+      "options": {
+        "A": "Ek prakar",
+        "B": "Do mukhya prakar",
+        "C": "Teen prakar",
+        "D": "Char prakar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mukhya do prakar ke RWH systems hote hain: 'Storage for direct use' aur 'Recharge to groundwater'."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Direct use RWH system mein paani ko kahan store kiya jata hai?",
+      "options": {
+        "A": "Zameen ke andar",
+        "B": "Storage tank mein",
+        "C": "Nadiyon mein",
+        "D": "Khet mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Direct use RWH system mein baarish ke paani ko baad mein use karne ke liye storage tank mein jama kiya jata hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Groundwater recharge system ka kya fayda hai?",
+      "options": {
+        "A": "Surface runoff kam karta hai",
+        "B": "Nadiyon ko saaf karta hai",
+        "C": "Hawa ko shudh karta hai",
+        "D": "Bijli bachata hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Groundwater recharge system surface runoff ko kam karta hai aur paani ko zameen ke andar bhejdkar groundwater level ko badhata hai, jisse floods ka khatra bhi kam hota hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Rooftop rainwater harvesting mein catchment area kya hota hai?",
+      "options": {
+        "A": "Zameen ka hissa",
+        "B": "Chatt (roof)",
+        "C": "Paani ki tanki",
+        "D": "Drainage pipe"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rooftop RWH mein, chat (roof) woh surface hoti hai jahan se baarish ka paani jama kiya jata hai, use 'catchment area' kehte hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "RWH se kya environmental benefit milta hai?",
+      "options": {
+        "A": "Air conditioning ki zaroorat kam hoti hai",
+        "B": "Stormwater runoff aur flood risk kam hota hai",
+        "C": "Traffic congestion kam hota hai",
+        "D": "Solar energy badhti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RWH stormwater runoff ko kam karke floods ke khatre ko kam karta hai, aur local water bodies par load bhi kam karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "RWH system lagane se kya economic fayda hota hai?",
+      "options": {
+        "A": "Property taxes kam hote hain",
+        "B": "Municipal water bill kam hota hai",
+        "C": "Gaadiyon ki maintenance cost kam hoti hai",
+        "D": "Internet bill kam hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Apna baarish ka paani use karne se municipal supply par dependance kam hoti hai, jisse paani ka bill kam hota hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "RWH system ka ek disadvantage kya ho sakta hai?",
+      "options": {
+        "A": "Initial installation cost high ho sakti hai",
+        "B": "Paani ki quality hamesha kharab hoti hai",
+        "C": "System bahut zyada jagah leta hai",
+        "D": "Maintenance bahut mushkil hota hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "RWH system ko install karne mein shuruati kharcha (initial installation cost) lag sakta hai, jo ek disadvantage ho sakta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek RWH technician ki kya primary responsibility hoti hai?",
+      "options": {
+        "A": "Electrical wiring karna",
+        "B": "RWH systems ko design, install aur maintain karna",
+        "C": "Building construction karna",
+        "D": "Roads repair karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek RWH technician ka mukhya kaam RWH systems ki design, installation aur maintenance se sambandhit hota hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "RWH system mein collected water ko kis kaam ke liye use kiya ja sakta hai?",
+      "options": {
+        "A": "Peene ke liye bina treatment ke",
+        "B": "Gardening, toilet flushing aur car washing ke liye",
+        "C": "Bijli banane ke liye",
+        "D": "Cooking ke liye bina treatment ke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Collected rainwater ko non-potable uses jaise gardening, toilet flushing aur car washing ke liye use kiya ja sakta hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Agar RWH system ko theek se maintain na kiya jaye, toh kya ho sakta hai?",
+      "options": {
+        "A": "System ki efficiency kam ho sakti hai aur paani contaminate ho sakta hai",
+        "B": "Bijli ka bill badh jayega",
+        "C": "Mobile network kharab ho jayega",
+        "D": "Temperature badh jayega"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Poor maintenance se system ki efficiency kam ho sakti hai aur jama kiya gaya paani polluted ho sakta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "RWH mein 'first flush' device ka kya importance hai?",
+      "options": {
+        "A": "Paani ko garam karna",
+        "B": "Pehle baarish ke paani ko divert karna jismein impurities hoti hain",
+        "C": "Paani ko store karna",
+        "D": "Paani ko pump karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "First flush device pehli baarish ke paani ko divert karta hai, jo chat se dhool, pattiyaan aur anya impurities le kar aata hai, jisse stored paani saaf rehta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "RWH system ke liye kaun sa material sabse zyada use hota hai catchment area ke liye?",
+      "options": {
+        "A": "Kachchi mitti",
+        "B": "Concrete ya tiled roofs",
+        "C": "Kapda",
+        "D": "Balu"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Smooth, non-porous surfaces jaise concrete ya tiled roofs RWH ke liye ideal catchment area hote hain kyuki woh paani ko saaf rakhte hain."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "RWH system mein collected paani ko peene layak banane ke liye kya karna zaroori hai?",
+      "options": {
+        "A": "Bas use filter karna",
+        "B": "Usey boil karna ya proper treatment karna",
+        "C": "Usey dhoop mein rakhna",
+        "D": "Usey rang dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Peene layak banane ke liye, collected rainwater ko filtration ke alawa boiling ya proper chemical/UV treatment ki zaroorat hoti hai taaki sabhi pathogens nikal jayein."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "RWH system ke components mein se ek 'conduit' ka kya kaam hai?",
+      "options": {
+        "A": "Paani ko store karna",
+        "B": "Paani ko catchment se storage tak le jana",
+        "C": "Paani ko filter karna",
+        "D": "Paani ko pump karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Conduits, jaise ki gutters aur downpipes, catchment area se paani ko storage ya recharge structure tak le jaane ka kaam karte hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek well-designed RWH system kitne saal tak chal sakta hai agar theek se maintain kiya jaye?",
+      "options": {
+        "A": "1-2 saal",
+        "B": "5-10 saal",
+        "C": "15-20 saal ya usse bhi zyada",
+        "D": "Sirf 6 mahine"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Agar RWH system ko sahi tarike se install aur maintain kiya jaye, toh woh 15-20 saal ya usse bhi zyada chal sakta hai, components ki quality par nirbhar karta hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Rooftop RWH system mein 'catchment surface' kya hoti hai?",
+      "options": {
+        "A": "Woh zameen jahan paani jama hota hai",
+        "B": "Woh surface jahan se baarish ka paani ikattha kiya jata hai, jaise ki chat",
+        "C": "Woh tanki jismein paani store hota hai",
+        "D": "Woh pipe jisse paani nikalta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Catchment surface woh area hai jahan se baarish ka paani jama kiya jata hai, rooftop RWH mein yeh aam taur par ghar ki chat hoti hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Gutters ka kya kaam hota hai RWH system mein?",
+      "options": {
+        "A": "Paani ko filter karna",
+        "B": "Chat se paani ko downpipes tak direct karna",
+        "C": "Paani ko store karna",
+        "D": "Paani ko pump karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gutters chat ke kinaron par lage hote hain aur baarish ke paani ko collect karke downpipes tak pahunchate hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Downpipes ya conduits kis material ke banaye ja sakte hain?",
+      "options": {
+        "A": "Kapde aur paper",
+        "B": "PVC, HDPE, ya GI pipes",
+        "C": "Mitti aur patthar",
+        "D": "Wooden logs"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Downpipes aam taur par PVC (Polyvinyl Chloride), HDPE (High-Density Polyethylene), ya GI (Galvanized Iron) jaise durable materials se banaye jate hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "'First-flush device' ka dusra naam kya hai?",
+      "options": {
+        "A": "Water pump",
+        "B": "Rain separator",
+        "C": "Storage tank",
+        "D": "Leaf screen"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "First-flush device ko rain separator bhi kehte hain, kyuki yeh pehle baarish ke paani ko alag karta hai jismein impurities hoti hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Mesh filter ya leaf screen kahan lagaya jata hai?",
+      "options": {
+        "A": "Storage tank ke andar",
+        "B": "Downpipe ke top par ya first-flush ke baad",
+        "C": "Zameen ke andar",
+        "D": "Pump ke paas"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mesh filter ya leaf screen downpipe ke top par ya first-flush device ke baad lagaya jata hai taaki bade particles jaise pattiyaan aur kachra system mein na jayein."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Storage tank ke liye kaun sa material sabse suitable hai?",
+      "options": {
+        "A": "Cardboard",
+        "B": "Ferrocement, plastic (HDPE), ya RCC (Reinforced Cement Concrete)",
+        "C": "Newsprint",
+        "D": "Fabric"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Storage tanks ke liye durable aur non-toxic materials jaise ferrocement, food-grade plastic (HDPE) ya RCC ka upyog kiya jata hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Groundwater recharge pit mein kis type ki filtering layers hoti hain?",
+      "options": {
+        "A": "Sirf mitti",
+        "B": "Koyla, ret, bajri",
+        "C": "Sirf ret",
+        "D": "Plastic sheets"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Recharge pits mein filtering layers ke liye aam taur par koyla (charcoal), ret (sand) aur bajri (gravel) ka upyog kiya jata hai taaki paani saaf ho kar zameen mein jaye."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Agar RWH system mein paani ko zameen mein recharge karna hai, toh kis structure ka upyog kiya ja sakta hai?",
+      "options": {
+        "A": "Overhead tank",
+        "B": "Recharge pit ya borewell",
+        "C": "Swimming pool",
+        "D": "Septic tank"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Groundwater recharge ke liye recharge pits, borewell recharge structures ya trenches ka upyog kiya jata hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Storage tank mein 'overflow pipe' ka kya kaam hai?",
+      "options": {
+        "A": "Tank ko khali karna",
+        "B": "Extra paani ko nikalna jab tank bhar jaye",
+        "C": "Tank mein fresh paani bharna",
+        "D": "Paani ko filter karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overflow pipe yeh ensure karta hai ki jab tank bhar jaye toh extra paani surakshit tarike se nikal jaye, jisse tank ko damage na ho."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Pumps ka upyog RWH system mein kab zaroori hota hai?",
+      "options": {
+        "A": "Jab paani gravity se upar na pahunch paye",
+        "B": "Hamesha zaroori hai",
+        "C": "Jab baarish na ho",
+        "D": "Sirf garmiyon mein"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Pumps ka upyog tab hota hai jab collected paani ko storage se upar ya door ke points tak pahunchana ho, jahan gravity flow possible na ho."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Ek 'inspection chamber' RWH system mein kahan lagaya jata hai aur kyon?",
+      "options": {
+        "A": "Chat par, paani collect karne ke liye",
+        "B": "Ground level par, pipes ko check aur clean karne ke liye",
+        "C": "Tank ke andar, paani store karne ke liye",
+        "D": "Pump ke paas, bijli supply ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Inspection chamber underground pipes aur connections ko check karne, blockage hatane aur maintenance karne ke liye banaya jata hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Sedimentation tank ka kya uddeshya hai?",
+      "options": {
+        "A": "Paani ko garam karna",
+        "B": "Bade particles ko settle hone dena",
+        "C": "Paani ko pump karna",
+        "D": "Paani ko rang dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sedimentation tank mein paani ko thodi der ke liye roka jata hai taaki suspended solids (bade particles) niche settle ho jayein."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Agar RWH system mein paani filtration ke baad bhi cloudy ho, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Filter media sahi nahi hai ya clogged hai",
+        "B": "Tank bahut chota hai",
+        "C": "Pipes bahut bade hain",
+        "D": "Baarish bahut zyada ho rahi hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Agar paani filter hone ke baad bhi cloudy hai, toh iska matlab filter media theek se kaam nahi kar raha hai ya clogged ho gaya hai, jise clean ya replace karna padega."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "RWH system mein 'standpipe' ya 'wet system' ka kya matlab hai?",
+      "options": {
+        "A": "Pipes hamesha paani se bhare rehte hain",
+        "B": "Pipes hamesha khali rehte hain",
+        "C": "Pipes sirf baarish ke time paani se bharte hain",
+        "D": "Pipes ko manually bharna padta hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Wet system mein, downpipes underground hote hain aur paani ko tank tak pahunchane ke liye hamesha paani se bhare rehte hain, jismein ek 'standpipe' jaisa effect hota hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Dry RWH system mein downpipes ka kya hota hai jab baarish nahi hoti?",
+      "options": {
+        "A": "Woh paani se bhare rehte hain",
+        "B": "Woh khali ho jate hain",
+        "C": "Woh jam jate hain",
+        "D": "Woh garam ho jate hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dry RWH system mein, jab baarish nahi hoti, toh downpipes gravity ki madad se khali ho jate hain, jisse stagnant water aur contamination ka risk kam hota hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Ek 'submersible pump' ka kya fayda hai RWH system mein?",
+      "options": {
+        "A": "Woh surface par zyada jagah leta hai",
+        "B": "Woh shant hota hai aur paani ke andar kaam karta hai",
+        "C": "Usey baar-baar maintain karna padta hai",
+        "D": "Usey bijli ki zaroorat nahi hoti"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Submersible pump paani ke andar kaam karta hai, isliye yeh shant hota hai aur surface par jagah nahi leta. Yeh efficient bhi hota hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "RWH system mein 'air gap' kyon provide kiya jata hai?",
+      "options": {
+        "A": "Paani ko thanda rakhne ke liye",
+        "B": "Backflow contamination se bachane ke liye",
+        "C": "Tank ko zyada paani se bharne ke liye",
+        "D": "Paani ko garam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Air gap ek physical separation hota hai RWH supply aur potable water supply ke beech, taaki collected rainwater potable supply ko contaminate na kare (backflow prevention)."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Site assessment mein sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Building ka rang",
+        "B": "Roof ka type, size aur condition",
+        "C": "Padosiyon ke ghar",
+        "D": "Building ki height"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Site assessment mein sabse pehle roof ka type (flat/sloping), size (catchment area) aur condition (saaf hai ya nahi, cracks hain?) check karna zaroori hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Average annual rainfall data kyon zaroori hai RWH design ke liye?",
+      "options": {
+        "A": "Taki pata chale ki kitne din baarish hogi",
+        "B": "Taki pata chale ki kitna paani collect kiya ja sakta hai",
+        "C": "Taki paani ka bill calculate kiya ja sake",
+        "D": "Taki temperature predict kiya ja sake"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Average annual rainfall data se yeh estimate lagaya jata hai ki ek saal mein kitna paani catchment area se collect kiya ja sakta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Catchment area calculate karne ka formula kya hai?",
+      "options": {
+        "A": "Length + Width",
+        "B": "Length x Width (flat roof ke liye)",
+        "C": "Length / Width",
+        "D": "Length - Width"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek flat roof ke liye, catchment area uski length aur width ko multiply karke nikala jata hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Runoff coefficient kya darshata hai?",
+      "options": {
+        "A": "Baarish ki tezi",
+        "B": "Catchment surface se kitna paani runoff hota hai",
+        "C": "Paani ki quality",
+        "D": "Tank ka size"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Runoff coefficient ek factor hai jo batata hai ki baarish ka kitna percentage (bhag) catchment surface se collect kiya ja sakta hai, yeh surface type par depend karta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Ek smooth tiled roof ka runoff coefficient approximately kitna hota hai?",
+      "options": {
+        "A": "0.1 - 0.3",
+        "B": "0.7 - 0.9",
+        "C": "0.4 - 0.6",
+        "D": "1.0"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Smooth aur non-porous surfaces jaise tiled roofs ka runoff coefficient zyada hota hai, aam taur par 0.7 se 0.9 tak."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Storage tank ka size determine karne ke liye kya consider karna chahiye?",
+      "options": {
+        "A": "Sirf building ki height",
+        "B": "Annual rainfall, catchment area, aur paani ki daily demand",
+        "C": "Padosiyon ke tank ka size",
+        "D": "Market mein available sabse bada tank"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tank ka size calculate karte samay annual rainfall, catchment area se collect hone wala paani, aur ghar ki daily paani ki zaroorat ko dhyan mein rakha jata hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Agar aapko 100 sq meter roof area se 500 mm annual rainfall mein paani collect karna hai (runoff coefficient 0.8), toh kitna paani collect hoga?",
+      "options": {
+        "A": "40,000 liters",
+        "B": "80,000 liters",
+        "C": "400 liters",
+        "D": "800 liters"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Formula: Volume = Catchment Area (sq m) x Rainfall (m) x Runoff Coefficient. 100 sq m x 0.5 m x 0.8 = 40 cubic meters = 40,000 liters."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Soil infiltration rate kis liye important hai groundwater recharge system design mein?",
+      "options": {
+        "A": "Tank ka material decide karne ke liye",
+        "B": "Yeh pata lagane ke liye ki paani zameen mein kitni tezi se jayega",
+        "C": "Pipe ka diameter decide karne ke liye",
+        "D": "Roof ka type decide karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Soil infiltration rate batati hai ki mitti mein paani kitni tezi se absorb hota hai, jo recharge structure ke size aur type ke liye critical hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "RWH system design karte waqt 'slope' ka kya role hai?",
+      "options": {
+        "A": "Paani ko tezi se bahaane ke liye",
+        "B": "Paani ko gravity se flow karwane ke liye",
+        "C": "Paani ko store karne ke liye",
+        "D": "Paani ko filter karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper slope gutters aur downpipes mein paani ko gravity ki madad se flow karwata hai, jisse pumping ki zaroorat kam hoti hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Kisi site par RWH system design karte waqt 'landscaping' ka kya consideration hota hai?",
+      "options": {
+        "A": "Usey ignore karna chahiye",
+        "B": "Yeh dekhna ki ped-paudhe catchment area ko block na karein",
+        "C": "Sirf phool lagana",
+        "D": "Grass kaatna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Landscaping, especially ped-paudhe, ko is tarah manage karna chahiye ki woh chat par pattiyaan ya kachra na girayein aur catchment area ko block na karein."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "RWH system design mein 'plumbing layout' kyon important hai?",
+      "options": {
+        "A": "Taki pipes dikhe nahi",
+        "B": "Taki paani sahi jagah tak pahunche aur cross-contamination na ho",
+        "C": "Taki system mehnga lage",
+        "D": "Sirf aesthetic reasons ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi plumbing layout se yeh ensure hota hai ki collected paani desired points tak pahunche aur potable water supply ke sath cross-contamination na ho."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar site par borewell hai, toh RWH ke liye kya option ho sakta hai?",
+      "options": {
+        "A": "Usey band kar dena",
+        "B": "Usey recharge structure ke roop mein upyog karna",
+        "C": "Usey khali chhod dena",
+        "D": "Usmein kachra dalna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar site par existing borewell hai, toh use filter kiye hue rainwater se recharge kiya ja sakta hai, jisse groundwater level badhega."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "RWH design mein 'cost-effectiveness' ka kya matlab hai?",
+      "options": {
+        "A": "Sabse mehnga system choose karna",
+        "B": "Ek aisa system design karna jo budget mein ho aur efficient ho",
+        "C": "Sabse sasta system choose karna, chahe woh efficient na ho",
+        "D": "Design ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cost-effectiveness ka matlab hai ek aisa system design karna jo initial cost aur long-term benefits ko balance kare, yani efficient bhi ho aur budget mein bhi."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar roof par zyada ped-paudhe hain, toh RWH design mein kya extra feature lagana padega?",
+      "options": {
+        "A": "Zyada bade storage tank",
+        "B": "Zyada effective leaf screens aur first-flush devices",
+        "C": "Zyada lambe pipes",
+        "D": "Zyada pumps"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ped-paudhon se pattiyaan aur kachra zyada aata hai, isliye zyada effective leaf screens aur first-flush devices ki zaroorat padegi."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "RWH system design mein 'safety' ka kya role hai?",
+      "options": {
+        "A": "Sirf workers ki safety",
+        "B": "System ki structural integrity aur users ki safety",
+        "C": "Sirf paani ki safety",
+        "D": "Koi role nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Design mein yeh ensure karna chahiye ki system structurally sound ho, aur koi bhi component (jaise tank, pipes) users ke liye khatarnak na ho."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Rooftop RWH ke liye kaun sa roof material sabse kam suitable hai?",
+      "options": {
+        "A": "Metal sheets",
+        "B": "Tiled roofs",
+        "C": "Asbestos sheets",
+        "D": "Concrete roofs"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Asbestos sheets स्वास्थ्य ke liye haanikarak hote hain aur unse collect kiya gaya paani use karna unsafe ho sakta hai, isliye yeh kam suitable hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Ek RWH technician ko site assessment ke dauran kya documents check karne chahiye?",
+      "options": {
+        "A": "Building plans, rainfall data aur soil reports",
+        "B": "Padosiyon ke electricity bill",
+        "C": "Market price list",
+        "D": "News paper"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Building plans se roof area aur structure ka pata chalta hai, rainfall data se potential harvest, aur soil reports groundwater recharge ke liye zaroori hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "RWH system install karne se pehle, roof ki kya condition honi chahiye?",
+      "options": {
+        "A": "Thodi gandi ho toh chalega",
+        "B": "Saaf aur kachre se mukt honi chahiye",
+        "C": "Uspar paani jama hona chahiye",
+        "D": "Uspar paint hona chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Installation se pehle roof ko achhe se saaf karna zaroori hai taaki collected paani mein impurities kam ho."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Gutters install karte waqt kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Unhe flat rakhna chahiye",
+        "B": "Unmein proper slope hona chahiye paani ke flow ke liye",
+        "C": "Unhe bahut ooncha lagana chahiye",
+        "D": "Unhe sirf ek side lagana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gutters mein thoda sa slope hona chahiye, aam taur par 1:200 se 1:500, taaki paani downpipes ki taraf flow kare aur kahin jama na ho."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Downpipes ko kahan attach karna chahiye?",
+      "options": {
+        "A": "Building ke andar",
+        "B": "Gutters se aur phir first-flush device/filter se",
+        "C": "Sidhe zameen mein",
+        "D": "Bijli ke wire se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Downpipes ko gutters se connect kiya jata hai aur phir woh paani ko first-flush device, filter aur ant mein storage tank ya recharge structure tak le jate hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "First-flush device install karte waqt kya critical point hai?",
+      "options": {
+        "A": "Uski height storage tank se zyada honi chahiye",
+        "B": "Usey sahi jagah par lagana chahiye taaki pehla baarish ka paani divert ho sake",
+        "C": "Usey bahut chota banana chahiye",
+        "D": "Usey hamesha khali rakhna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "First-flush device ko downpipe ke baad aur filter se pehle sahi jagah par lagana zaroori hai, taaki woh pehle dirty paani ko divert kar sake."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Storage tank ko kahan install karna sabse achha hai?",
+      "options": {
+        "A": "Chat par, bina support ke",
+        "B": "Level surface par, strong foundation ke sath",
+        "C": "Kahin bhi, bina kisi support ke",
+        "D": "Sadak ke beech mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Storage tank ko ek level aur strong foundation par install karna chahiye taaki woh paani ke wazan ko sah sake aur unstable na ho."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "RWH system mein filters ki maintenance kaise karni chahiye?",
+      "options": {
+        "A": "Kabhi nahi karni chahiye",
+        "B": "Regularly saaf karna aur zaroorat padne par replace karna",
+        "C": "Sirf saal mein ek baar",
+        "D": "Usey baarish mein dhona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Filters ko regularly check aur saaf karna chahiye, aur agar woh damage ho jayein ya bahut purane ho jayein toh replace kar dena chahiye taaki paani ki quality achhi rahe."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Storage tank ki safai kitni baar karni chahiye?",
+      "options": {
+        "A": "Har din",
+        "B": "Har 1-2 saal mein ek baar ya zaroorat padne par",
+        "C": "Kabhi nahi",
+        "D": "Har mahine"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Storage tank ki safai har 1-2 saal mein ek baar ya jab usmein sediment (gaad) zyada jama ho jaye, tab karni chahiye."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Gutters aur downpipes mein blockage kyon hota hai?",
+      "options": {
+        "A": "Zyada paani ki wajah se",
+        "B": "Pattiyaan, dhool aur kachre ke jama hone se",
+        "C": "Pipe ke bahut bade hone se",
+        "D": "Paani ke bahut saaf hone se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pattiyaan, dhool, kachra aur anya malba gutters aur downpipes mein jama hokar blockage paida kar sakte hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Agar RWH system se badboo aa rahi hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Tank mein stagnant paani ya organic matter ka decomposition",
+        "B": "Pipes bahut naye hain",
+        "C": "Baarish bahut kam ho rahi hai",
+        "D": "Pumps bahut achhe se kaam kar rahe hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Badboo aane ka matlab hai ki tank mein paani stagnant ho gaya hai ya organic matter (jaise pattiyaan) decompose ho raha hai, jise saaf karna zaroori hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Leakage ko kaise repair kiya ja sakta hai?",
+      "options": {
+        "A": "Usey ignore karke",
+        "B": "Cracks ko sealant ya waterproof material se fill karke",
+        "C": "Uspar paani daal kar",
+        "D": "Usey paint karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Leaks ko repair karne ke liye cracks ya joints par sealant, epoxy ya waterproof coating lagani chahiye."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Rooftop ko kitni baar saaf karna chahiye RWH system ke liye?",
+      "options": {
+        "A": "Sirf saal mein ek baar",
+        "B": "Baarish ke season se pehle aur zaroorat padne par",
+        "C": "Har din",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rooftop ko baarish ke season se pehle achhe se saaf karna chahiye aur agar zyada kachra ya pattiyaan jama ho jayein toh regularly saaf karte rehna chahiye."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar pump kaam nahi kar raha hai, toh pehla step kya hona chahiye?",
+      "options": {
+        "A": "Naya pump kharidna",
+        "B": "Bijli supply aur connection check karna",
+        "C": "Usey tod dena",
+        "D": "Tank ko khali karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pump ke kaam na karne par, sabse pehle uski bijli supply, fuse aur electrical connections ko check karna chahiye."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Recharge pit ki maintenance mein kya shamil hai?",
+      "options": {
+        "A": "Usey pani se bharna",
+        "B": "Filter layers ko saaf karna ya replace karna",
+        "C": "Usey band kar dena",
+        "D": "Uspar ghaas lagana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Recharge pit ki maintenance mein filter layers (sand, gravel, charcoal) ko saaf karna ya replace karna shamil hai, kyuki woh time ke sath clogged ho sakte hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "RWH system ko winterization ki zaroorat kab padti hai?",
+      "options": {
+        "A": "Garmiyon mein",
+        "B": "Jab freezing temperatures ki sambhavna ho",
+        "C": "Baarish ke baad",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Freezing temperatures wale areas mein, pipes aur components ko freeze hone se bachane ke liye winterization (jaise paani drain karna, insulation) zaroori hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "RWH system ke components ko kitni baar inspect karna chahiye?",
+      "options": {
+        "A": "Saal mein ek baar",
+        "B": "Har 3-6 mahine mein",
+        "C": "Har 5 saal mein",
+        "D": "Sirf jab koi problem ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular inspection (har 3-6 mahine mein) se chhoti problems ko bada hone se roka ja sakta hai aur system ki efficiency bani rehti hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar RWH system mein paani ka pressure kam ho raha hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Tank ka colour",
+        "B": "Pipes mein blockage, pump ki working aur filters ki cleanliness",
+        "C": "Roof ka size",
+        "D": "Baarish ki matra"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Kam pressure ke liye pipes mein blockage, pump ki efficiency aur filters ka clogged hona mukhya karan ho sakte hain."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "RWH system ke liye 'preventive maintenance' ka kya matlab hai?",
+      "options": {
+        "A": "Jab system toot jaye tab repair karna",
+        "B": "Regular checks aur safai karke problems ko hone se pehle rokna",
+        "C": "Naya system install karna",
+        "D": "System ko band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Preventive maintenance ka matlab hai regular inspections, cleaning aur minor repairs karke bade breakdowns aur problems ko hone se rokna."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Rainwater mein kaun se common contaminants ho sakte hain?",
+      "options": {
+        "A": "Sirf oxygen",
+        "B": "Dhool, pattiyaan, bird droppings aur air pollutants",
+        "C": "Sirf hydrogen",
+        "D": "Clean water"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rainwater mein dhool, pattiyaan, bird droppings aur atmosphere se air pollutants mil sakte hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Pani ki turbidity kya darshati hai?",
+      "options": {
+        "A": "Pani ka temperature",
+        "B": "Pani mein suspended particles ki matra",
+        "C": "Pani ka rang",
+        "D": "Pani ka pH level"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Turbidity pani mein ghule hue ya suspended particles ki matra ko darshati hai, jisse pani cloudy dikhta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "pH level test kyon zaroori hai?",
+      "options": {
+        "A": "Pani ke taste ke liye",
+        "B": "Pani ki acidity ya alkalinity janne ke liye",
+        "C": "Pani ke temperature ke liye",
+        "D": "Pani ke color ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "pH level pani ki acidity (pH < 7) ya alkalinity (pH > 7) ko batata hai, jo pipes aur fixtures par corrosion ko affect kar sakta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Bacteriological contamination check karne ke liye kaun sa test kiya jata hai?",
+      "options": {
+        "A": "Turbidity test",
+        "B": "E. coli ya Coliform bacteria test",
+        "C": "pH test",
+        "D": "Temperature test"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "E. coli ya total coliform bacteria ki presence peene layak paani mein faecal contamination ka indication deti hai, isliye yeh test zaroori hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Simple filtration ke liye kaun se materials ka upyog hota hai?",
+      "options": {
+        "A": "Sirf plastic",
+        "B": "Ret, bajri aur charcoal",
+        "C": "Metal sheets",
+        "D": "Kapda aur paper"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sand (ret), gravel (bajri) aur charcoal (koyla) common filter media hain jo physically impurities ko remove karte hain aur organic matter ko absorb karte hain."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Agar paani peene ke liye use karna hai, toh filtration ke baad kya additional treatment zaroori hai?",
+      "options": {
+        "A": "Sirf pani ko rang dena",
+        "B": "Disinfection jaise boiling, chlorination ya UV treatment",
+        "C": "Usey thanda karna",
+        "D": "Usey garam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Peene ke liye paani ko filtration ke baad disinfect karna zaroori hai, taaki sabhi haanikarak microorganisms (bacteria, viruses) mar jayein. Iske liye boiling, chlorination ya UV purification ka upyog kiya jata hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Chlorination kya hai?",
+      "options": {
+        "A": "Pani ko filter karna",
+        "B": "Pani mein chlorine milakar microorganisms ko marna",
+        "C": "Pani ko garam karna",
+        "D": "Pani ko store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chlorination ek chemical disinfection method hai jismein paani mein chlorine ya chlorine compounds milakar bacteria aur viruses ko mara jata hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "UV (Ultraviolet) disinfection kaise kaam karta hai?",
+      "options": {
+        "A": "Pani ko filter karke",
+        "B": "UV light se microorganisms ke DNA ko damage karke",
+        "C": "Pani ko garam karke",
+        "D": "Pani mein chemical milakar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "UV disinfection mein ultraviolet light ka upyog kiya jata hai jo microorganisms ke DNA ko damage kar deta hai, jisse woh reproduce nahi kar pate aur mar jate hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Activated charcoal filter ka kya fayda hai?",
+      "options": {
+        "A": "Sirf bade particles remove karta hai",
+        "B": "Badboo, rang aur kuch chemicals ko absorb karta hai",
+        "C": "Pani ko garam karta hai",
+        "D": "Bijli generate karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Activated charcoal (sakriya koyla) apni adsorptive properties ki wajah se paani se badboo, rang aur kuch organic chemicals ko remove karta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Water testing kit ka upyog kyon kiya jata hai?",
+      "options": {
+        "A": "Paani ka wazan janne ke liye",
+        "B": "Paani ki quality parameters jaise pH, turbidity, chlorine, etc. check karne ke liye",
+        "C": "Paani ki height janne ke liye",
+        "D": "Paani ka flow rate janne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Water testing kits se paani ki quality ke alag-alag parameters jaise pH, turbidity, chlorine residual, aur bacteria ki presence ko check kiya ja sakta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Agar collected rainwater mein heavy metals ka contamination ho, toh kaun sa treatment method effective ho sakta hai?",
+      "options": {
+        "A": "Simple sand filtration",
+        "B": "Reverse Osmosis (RO) ya ion exchange",
+        "C": "Boiling",
+        "D": "UV disinfection"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Heavy metals jaise contaminants ko remove karne ke liye RO ya ion exchange jaise advanced filtration methods ki zaroorat pad sakti hai, simple filtration aur disinfection effective nahi hote."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Pani mein 'hardness' kya hoti hai?",
+      "options": {
+        "A": "Pani ka thanda hona",
+        "B": "Pani mein dissolved minerals jaise calcium aur magnesium ki matra",
+        "C": "Pani ka rang",
+        "D": "Pani ka pressure"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pani ki hardness usmein dissolved calcium aur magnesium ions ki matra ko darshati hai, jo scale formation aur soap consumption ko affect kar sakti hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "RWH system se milne wale paani ko non-potable uses ke liye treat karna kyon aasan hai?",
+      "options": {
+        "A": "Kyuki usmein bilkul bhi impurities nahi hoti",
+        "B": "Kyuki uske liye sirf basic filtration ki zaroorat hoti hai",
+        "C": "Kyuki usmein chemicals hote hain",
+        "D": "Kyuki usmein oxygen nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Non-potable uses (jaise gardening, toilet flushing) ke liye paani ko peene layak banane jitni high quality ki zaroorat nahi hoti, isliye basic filtration kafi hota hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar paani mein algae growth dikhe, toh kya karna chahiye?",
+      "options": {
+        "A": "Usey ignore karna",
+        "B": "Tank ko saaf karna aur direct sunlight se bachana",
+        "C": "Uspar aur paani dalna",
+        "D": "Usey garam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Algae growth ko rokne ke liye tank ko saaf karna aur usmein direct sunlight ko rokna zaroori hai, kyuki algae sunlight mein grow karte hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Pani ki quality maintain karne ke liye 'first flush' device ka kya yogdaan hai?",
+      "options": {
+        "A": "Yeh pani ko garam karta hai",
+        "B": "Yeh shuruati gande pani ko hata kar store kiye jane wale pani ki quality improve karta hai",
+        "C": "Yeh pani ko thanda karta hai",
+        "D": "Yeh pani ko pump karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "First flush device pehli baarish ke paani ko divert karta hai, jismein chat se dhool, pattiyaan aur anya impurities hoti hain, jisse stored paani saaf rehta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "RWH system mein paani ki quality ko regularly monitor karna kyon zaroori hai?",
+      "options": {
+        "A": "Taki pata chale ki system theek se kaam kar raha hai aur paani safe hai",
+        "B": "Taki paani ka bill kam ho",
+        "C": "Taki system mehnga lage",
+        "D": "Taki paani ka level check kiya ja sake"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Regular monitoring se yeh ensure hota hai ki system efficient hai aur collected paani intended use ke liye safe hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "RWH installation ke dauran kaun sa Personal Protective Equipment (PPE) pehenna zaroori hai?",
+      "options": {
+        "A": "Sirf topi",
+        "B": "Safety helmet, gloves, safety shoes aur high-visibility jacket",
+        "C": "Swimming costume",
+        "D": "Party dress"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PPE jaise safety helmet, gloves, safety shoes aur high-visibility jacket workers ko chot se bachane ke liye zaroori hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Heights par kaam karte waqt kya safety precaution leni chahiye?",
+      "options": {
+        "A": "Bina kisi support ke kaam karna",
+        "B": "Safety harness aur stable ladder/scaffolding ka upyog karna",
+        "C": "Aankhein band karke kaam karna",
+        "D": "Jaldi-jaldi kaam khatam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Heights par kaam karte waqt girne se bachne ke liye safety harness aur stable, secure ladders ya scaffolding ka upyog karna chahiye."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Electrical pumps aur wiring ke sath kaam karte waqt kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Unhone pani mein doobona chahiye",
+        "B": "Unhe waterproof aur properly earthed hona chahiye",
+        "C": "Unhone hamesha khula chhod dena chahiye",
+        "D": "Unhone plastic se cover karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electrical pumps aur wiring ko waterproof hona chahiye aur sahi tarike se earthed hona chahiye taaki electric shock ka khatra na ho."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Confined spaces (jaise bade underground tanks) mein entry se pehle kya check karna zaroori hai?",
+      "options": {
+        "A": "Tank ka temperature",
+        "B": "Oxygen level aur toxic gases ki presence",
+        "C": "Tank ka colour",
+        "D": "Tank mein kitna pani hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confined spaces mein oxygen ki kami ya toxic gases ho sakti hain, isliye entry se pehle air quality ko test karna aur proper ventilation provide karna zaroori hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "RWH system install karte waqt surrounding area ko clean kyon rakhna chahiye?",
+      "options": {
+        "A": "Taki padosi khush rahein",
+        "B": "Taki accidents se bacha ja sake aur contamination kam ho",
+        "C": "Taki system mehnga lage",
+        "D": "Taki paani ka flow tez ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Worksite ko clean aur tidy rakhne se tripping hazards kam hote hain aur construction debris se paani ka contamination bhi kam hota hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "RWH system ke components ko properly label karna kyon important hai?",
+      "options": {
+        "A": "Taki system sundar lage",
+        "B": "Taki maintenance aur operation mein asani ho, aur confusion na ho",
+        "C": "Taki unhe koi chura na le",
+        "D": "Taki unhe koi kharab na kare"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Components jaise valves, filters, pumps ko label karne se users aur technicians ko system ko operate aur maintain karne mein asani hoti hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "RWH system ke paani ko potable supply se alag rakhne ke liye kya best practice hai?",
+      "options": {
+        "A": "Ek hi pipe use karna",
+        "B": "Separate plumbing lines aur backflow prevention devices use karna",
+        "C": "Usey mix kar dena",
+        "D": "Usey ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cross-contamination ko rokne ke liye rainwater supply aur potable water supply ke liye alag plumbing lines honi chahiye, aur backflow prevention devices (jaise air gap) lagane chahiye."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "RWH system ke liye kya local regulations aur permissions check karna zaroori hai?",
+      "options": {
+        "A": "Nahi, koi zaroorat nahi",
+        "B": "Haan, taki legal issues se bacha ja sake",
+        "C": "Sirf bade projects ke liye",
+        "D": "Sirf jab aap chahate hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kuch areas mein RWH system install karne ke liye permissions ya specific guidelines hoti hain, jinhe follow karna legal issues se bachne ke liye zaroori hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "RWH system ke 'user manual' ka kya importance hai?",
+      "options": {
+        "A": "Usey fek dena chahiye",
+        "B": "Users ko system ke operation aur maintenance ke bare mein guide karna",
+        "C": "Sirf technicians ke liye",
+        "D": "Usey design karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek comprehensive user manual users ko system ko sahi tarike se operate aur maintain karne mein madad karta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "RWH system mein chemical treatment use karte waqt kya precautions leni chahiye?",
+      "options": {
+        "A": "Bina gloves ke kaam karna",
+        "B": "Chemicals ko safe tarike se store karna aur proper PPE use karna",
+        "C": "Chemicals ko paani mein direct dalna",
+        "D": "Chemicals ko khula chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemicals ko hamesha instructions ke anusar use karna chahiye, safe jagah par store karna chahiye aur proper PPE (gloves, eye protection) pehenna chahiye."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "RWH system ki efficiency badhane ke liye kya best practice hai?",
+      "options": {
+        "A": "Usey bar-bar band karna",
+        "B": "Regular maintenance aur monitoring karna",
+        "C": "Usey modify karna",
+        "D": "Usey ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular maintenance, cleaning aur performance monitoring se system ki efficiency ko banaye rakha ja sakta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Agar RWH system se paani waste ho raha hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Usey ignore karna",
+        "B": "Leaks check karna aur overflow management ko optimize karna",
+        "C": "Naya system install karna",
+        "D": "Paani ka upyog band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Leaks ko repair karna aur overflow ko recharge ya alternate uses ke liye direct karna paani ki wastage ko kam karta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "RWH system installation ke baad 'commissioning' process mein kya hota hai?",
+      "options": {
+        "A": "Sirf system ko band karna",
+        "B": "System ki testing, performance verification aur user training",
+        "C": "Sirf bill banana",
+        "D": "System ko disassemble karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Commissioning mein system ki thorough testing ki jati hai ki woh design parameters ke anusar kaam kar raha hai ya nahi, aur users ko uske operation aur maintenance ki training di jati hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "RWH technicians ke liye 'continuous learning' kyon important hai?",
+      "options": {
+        "A": "Kyuki unhe naye tools kharidne hote hain",
+        "B": "Naye technologies aur best practices se update rehne ke liye",
+        "C": "Kyuki unhe exams pas karne hote hain",
+        "D": "Sirf time pass ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RWH sector mein naye technologies aur methods aate rehte hain, isliye technicians ko continuous learning ke through update rehna chahiye."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "RWH system ke liye 'environmental impact assessment' kyon zaroori ho sakta hai?",
+      "options": {
+        "A": "Sirf bade industrial projects ke liye",
+        "B": "Jab system se surrounding environment par significant impact ho sakta ho",
+        "C": "Sirf jab government kahe",
+        "D": "Koi zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bade RWH projects ke liye environmental impact assessment zaroori ho sakta hai taaki yeh ensure kiya ja sake ki system local ecosystem ya water table par negative impact na dale."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek RWH technician ko customer ke sath kaise interact karna chahiye?",
+      "options": {
+        "A": "Sirf technical terms mein baat karni chahiye",
+        "B": "Respectfully, clear aur concise information provide karni chahiye",
+        "C": "Customer ko sab kuch khud karne ko kehna chahiye",
+        "D": "Customer ki baat nahi sunni chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer satisfaction ke liye, technicians ko respectfully, clear aur understandable language mein information provide karni chahiye, aur unki queries ko patiently address karna chahiye."
+    }
+  ]
+}

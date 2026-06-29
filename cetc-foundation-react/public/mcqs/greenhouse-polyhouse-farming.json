@@ -1,0 +1,1343 @@
+{
+  "course_name": "Greenhouse & Polyhouse Farming",
+  "sector": "Agriculture & Rural Livelihood",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Greenhouse & Protected Cultivation Systems",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Structures, Coverings & Construction of Greenhouse/Polyhouse",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Environmental Control Systems (Temp, Humidity, Light, Vent)",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Soil Preparation, Soilless Cultivation & Irrigation",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Crop Selection, Nursery Management & Intercultural Operations",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Pest, Disease Management, Harvesting & Economics",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "question": "Protected Cultivation (surakshit kheti) ka main concept kya hai?",
+      "options": {
+        "A": "Crops ko boundary wall se choron se bachana",
+        "B": "Natural climate (wind, rain, temp) ko control karke plants ko favorable condition dena",
+        "C": "Sirf chemical fertilizer use karna",
+        "D": "Wild animals ke liye jungle banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Protected cultivation me polyhouse ya greenhouse ke andar climate ko control karke off-season crops ugae jate hain."
+    },
+    {
+      "qno": 2,
+      "question": "Greenhouse effect ka kya matlab hota hai?",
+      "options": {
+        "A": "Plants ka green color change hona",
+        "B": "Sunlight rays ka cover ke andar aana par heat radiation ka bahar na nikal paana, jisse temp badhta hai",
+        "C": "Shed me bohot saari air supply badhna",
+        "D": "Foliage crops dry hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Solar energy cover (glass/polyethylene) ke raste enter karti hai par long-wave infrared heat radiant energy traps ho jati hai, jisse andar ka temperature badh jata hai."
+    },
+    {
+      "qno": 3,
+      "question": "Polyhouse aur normal Greenhouse me kya main structural difference hai?",
+      "options": {
+        "A": "Polyhouse me cladding material Polyethylene (plastic sheet) hota hai, Greenhouse me Glass ya Polycarbonate hota hai",
+        "B": "Polyhouse sirf round hota hai",
+        "C": "Greenhouse me mitti nahi hoti",
+        "D": "Dono bilkul same hain bina kisi material difference ke"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Polyhouse greenhouse ka hi ek affordable type hai jisme glass ke bajay UV-stabilized plastic sheets use ki jati hain."
+    },
+    {
+      "qno": 4,
+      "question": "Polyhouse farming ka sabse bada advantage (fayda) kya hai?",
+      "options": {
+        "A": "Off-season crops aur high-quality yields produce karna pure saal",
+        "B": "Irrigation ka kharcha zero karna",
+        "C": "Manual labor ki zaroorat bilkul khatam karna",
+        "D": "Insecticides aur pesticides ki zaroorat zero karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Climate control hone ke karan off-season me bhi high-value vegetables aur flowers ugae ja sakte hain."
+    },
+    {
+      "qno": 5,
+      "question": "Shade Net House (jaali wala ghar) ka main use kis season me kiya jata hai?",
+      "options": {
+        "A": "Extreme Winter me heat badhane ke liye",
+        "B": "Summer season me sun glare, solar radiation aur heat ko filter karne ke liye",
+        "C": "Rainy season me pure water blockage ke liye",
+        "D": "Sirf night times me plants ko dry rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shade net house green/black perforated nets se solar radiation aur wind velocity ko filter karta hai summer me."
+    },
+    {
+      "qno": 6,
+      "question": "Net house me shade percentage (jaise 50%, 75%) kya represent karta hai?",
+      "options": {
+        "A": "Shed ka total area",
+        "B": "Net dwara block kiye jaane wale sunlight (light intensity) ka percentage",
+        "C": "Net ka green color percentage",
+        "D": "Water filtration capacity"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar shade net 50% ka hai, to wo 50% solar light ko andar aane se rokega aur 50% ko allow karega."
+    },
+    {
+      "qno": 7,
+      "question": "Naturally Ventilated Polyhouse (NVP) kya hota hai?",
+      "options": {
+        "A": "Jisme fans ya coolers nahi hote, vents aur side openings se natural air flow chalti hai",
+        "B": "Jisme air filter automatically operate hote hain",
+        "C": "Jisme humidity control zero hota hai",
+        "D": "AC chamber wala polyhouse"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "NVP India ke flat aur warm areas me popular aur economical hai kyunki isme wind flow control ke liye vents/roll-up curtains hote hain bina expensive fans ke."
+    },
+    {
+      "qno": 8,
+      "question": "Hi-Tech Polyhouse (Pad and Fan System) ka kya characterstics hai?",
+      "options": {
+        "A": "Fully automated temperature aur humidity system evaporative cooling pads aur exhaust fans ke sath",
+        "B": "Jisme manually green water spray kiya jata hai",
+        "C": "Jisme solar panels se light generation control hoti hai",
+        "D": "Sirf flowers grow karne wala system"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Hi-tech polyhouse automated panels se temp/humidity set karta hai, jisme cooling pads ke raste thandi hawa fans se khinchi jati hai."
+    },
+    {
+      "qno": 9,
+      "question": "Protected cultivation me nursery preparation karne se kya advantage milta hai?",
+      "options": {
+        "A": "High germination rate aur pest-free healthy young seedlings milte hain Pro-trays me",
+        "B": "Seed cost double ho jati hai",
+        "C": "Transplanting impossible ho jati hai",
+        "D": "Water requiremennt increase hoti hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Pro-trays/plug trays me coco-peat substrate ka use karke healthy, pathogen-free nursery develop ki jati hai."
+    },
+    {
+      "qno": 10,
+      "question": "Protected cultivation me 'Hydroponics' ka kya matlab hai?",
+      "options": {
+        "A": "Crops ko sirf high pressure water me wash karna",
+        "B": "Soil-less cultivation (mitti ke bina water aur nutrients solution me plants grow karna)",
+        "C": "Pani ki speed check karne ki machine",
+        "D": "Deep water borewell technology"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hydroponics me mitti (soil) ka use bilkul nahi hota, roots seedhe water/nutrient mix solution me immersed hoti hain."
+    },
+    {
+      "qno": 11,
+      "question": "Protected cultivation under FSSAI aur APEDA guidelines primarily kis type ke products ke export ke liye beneficial hai?",
+      "options": {
+        "A": "High-value floriculture (roses, gerberas) aur exotic vegetables (colored bell peppers, cherry tomatoes)",
+        "B": "Grains like wheat and paddy",
+        "C": "Sugarcane and cotton",
+        "D": "Dry fodder"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Premium quality aur pesticide residue free hone ke karan polyhouse vegetables aur flowers export market me kafi demand me hain."
+    },
+    {
+      "qno": 12,
+      "question": "Drip Irrigation ka protected cultivation me kya significance hai?",
+      "options": {
+        "A": "Plants par heavy water shower karna",
+        "B": "Roots ke paas drop-by-drop water aur fertilizer (fertigation) efficiently supply karna",
+        "C": "Soil moisture decrease karna",
+        "D": "Greenhouse walls ko wet rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drip irrigation se paani ki 60-70% bachat hoti hai aur fertilizers seedhe plants ke root zone me aasaani se diye ja sakte hain."
+    },
+    {
+      "qno": 13,
+      "question": "Protected cultivation ka use off-season vegetables production me kyu kiya jata hai?",
+      "options": {
+        "A": "Off-season me high market price milta hai",
+        "B": "Off-season crops me seeds kam lagte hain",
+        "C": "Soil texture automatically soft ho jata hai",
+        "D": "Shed structures strong hote hain winter me"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Jab open field me koi vegetable available nahi hota, tab polyhouse me use ugar kar high prices (premium rates) hasil kiye jate hain."
+    },
+    {
+      "qno": 14,
+      "question": "India me protected cultivation ko promote karne ke liye central level par kaun si organization subsidy aur support deti hai?",
+      "options": {
+        "A": "NHB (National Horticulture Board) aur MIDH scheme",
+        "B": "SEBI",
+        "C": "RBI directly",
+        "D": "FSSAI directly"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "NHB aur Mission for Integrated Development of Horticulture (MIDH) polyhouse set up karne ke liye 50% tak ki financial subsidy dete hain."
+    },
+    {
+      "qno": 15,
+      "question": "Polyhouse farming ka normal open farming ke mukable per-unit-area yield (paidawar) kitna percent tak badh sakta hai?",
+      "options": {
+        "A": "Same rehti hai",
+        "B": "3 se 5 times (aur high quality control se zyada bhi)",
+        "C": "Yield decrease ho jati hai",
+        "D": "Zero yield gain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Controlled environment me photosynthesis optimized hota hai aur plants full duration tak full yield dete hain."
+    },
+    {
+      "qno": 16,
+      "question": "Greenhouse frame banane ke liye sabse durable aur commonly used material kaun sa hai?",
+      "options": {
+        "A": "Wooden logs (lakdi ke dande)",
+        "B": "GI Pipes (Galvanized Iron Pipes)",
+        "C": "Bamboo (Bans) only",
+        "D": "Plastic pipes"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GI pipes rust-resistant (zang-mukta) hote hain aur unki structural strength zinc coating ke karan salao chalti hai."
+    },
+    {
+      "qno": 17,
+      "question": "Polyhouse sheet (cladding material) ki thickness standard criteria me kitni hoti hai?",
+      "options": {
+        "A": "10-20 microns",
+        "B": "200 microns (UV stabilized polyethylene)",
+        "C": "1000 microns",
+        "D": "50 microns"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Commercial polyhouses me 200 microns (0.2 mm) ki multi-layered UV stabilized polyethylene films use hoti hain jo tear-resistant hoti hain."
+    },
+    {
+      "qno": 18,
+      "question": "Polyethylene sheet me 'UV Stabilization' kyu zaroori hai?",
+      "options": {
+        "A": "Sheet ko sun sunlight ki ultraviolet radiation se brittle (tutne) se bachane ke liye",
+        "B": "Sheet ko green paint dene ke liye",
+        "C": "Sheet ka weight badhane ke liye",
+        "D": "Water vapor block karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "UV radiation plastic polymer chains ko break karti hai. UV stabilizer sheet ki life ko 3-5 saal tak badha deta hai."
+    },
+    {
+      "qno": 19,
+      "question": "Greenhouse structures me 'Span' se kya matlab hai?",
+      "options": {
+        "A": "Shed ki height",
+        "B": "Do pillars/columns ke beech ki horizontal distance (pich/width)",
+        "C": "Shed ka door space",
+        "D": "Pipes ki thickness"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Multi-span greenhouse me aapas me jude kai spans hote hain. Single span standalone structure hota hai."
+    },
+    {
+      "qno": 20,
+      "question": "Gable-type structure kis shape ka hota hai roof ke case me?",
+      "options": {
+        "A": "Flat flat shape",
+        "B": "A-shape (Triangle/Slanted roof)",
+        "C": "Round dome shape",
+        "D": "Semi-circular only"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gable type me sloping roof hoti hai jo triangle shape banati hai, jo snow aur rain water drainage ke liye achhi hai."
+    },
+    {
+      "qno": 21,
+      "question": "Quonset greenhouse structure kis design ka hota hai?",
+      "options": {
+        "A": "Triangle shape",
+        "B": "Semi-circular / Arch shape (Round top)",
+        "C": "Multispan sloping top",
+        "D": "Hexagonal design"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Quonset structure dome ya pipe arch shape ka hota hai jise banana aasan aur cheap hota hai."
+    },
+    {
+      "qno": 22,
+      "question": "Polyhouse sheet ko pipes se secure aur tie karne ke liye kis metallic/plastic accessory ka use hota hai?",
+      "options": {
+        "A": "Profile channel and Zig-Zag Spring",
+        "B": "Rope and tape only",
+        "C": "Cement mix paste",
+        "D": "Nails directly"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Aluminium profile slot me plastic/sheet ko insert karke zig-zag spring wire fitt kiya jata hai taaki tez hawa se sheet na nikle."
+    },
+    {
+      "qno": 23,
+      "question": "Greenhouse me direct bahar se aane wale pests (insect larvae) ko rokne ke liye openings par kya lagaya jata hai?",
+      "options": {
+        "A": "Insect Net (Jaali, generally 40 or 50 mesh)",
+        "B": "Black plastic film",
+        "C": "Cotton curtains",
+        "D": "Glass window only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "50 mesh insect proof net side windows par lagayi jati hai taaki small insects (jaise whitefly, thrips) polyhouse me enter na kar sakein."
+    },
+    {
+      "qno": 24,
+      "question": "Mesh count (jaise 40 mesh, 50 mesh) ka insect net me kya matlab hota hai?",
+      "options": {
+        "A": "Net ki total length in meters",
+        "B": "Number of holes per linear inch (higher mesh = smaller holes)",
+        "C": "Net ka total weight in kg",
+        "D": "Net ka thickness in micron"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jitna mesh number bada hoga, net ke holes utne hi fine honge aur barik thrips/whitefly bhi enter nahi kar paenge."
+    },
+    {
+      "qno": 25,
+      "question": "Polyhouse structures me 'Ridge height' se kya matlab hai?",
+      "options": {
+        "A": "Shed ke floor ki ground length",
+        "B": "Polyhouse ke sabse highest top point ki ground se vertical height",
+        "C": "Side walls ki height",
+        "D": "Pipes ki depth inside ground"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ridge height general cases me 4 se 6.5 meters tak hoti hai taaki hot air automatically top ridge vents se bahar nikal sake."
+    },
+    {
+      "qno": 26,
+      "question": "Naturally Ventilated Polyhouse me 'Gutter height' kis point ko bolte hain?",
+      "options": {
+        "A": "Top ridge point ko",
+        "B": "Side wall columns ki height jaha do span join hote hain",
+        "C": "Drain pipe ki depth",
+        "D": "Door frames ki height"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Multi-span me gutter height wo level hai jaha do arches aapas me connect hoti hain aur gutter channel baarish ka paani behta hai."
+    },
+    {
+      "qno": 27,
+      "question": "Polyhouse construction ke liye orientation (direction) select karte waqt standard kya hai?",
+      "options": {
+        "A": "East-West for single-span (sun exposure balance) aur North-South direction for multi-span structures",
+        "B": "South-West only",
+        "C": "North-West only",
+        "D": "Direction check is not needed"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "North-South orientation se multi-span structures me shadows ek doosre ke upar nahi padti aur sabhi rows ko equal light milti hai."
+    },
+    {
+      "qno": 28,
+      "question": "Polyhouse foundation me columns (GI pipes) ko zameen me secure karne ke liye kis material ka cement base concrete banaya jata hai?",
+      "options": {
+        "A": "Mitti aur ghaas",
+        "B": "Cement, Sand, aur Grit (Concrete mixture 1:2:4 ratio)",
+        "C": "Plastic wrappers only",
+        "D": "Iron plates directly without concrete"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Storm winds (aandhi) se polyhouse ukhad na jaye, isliye columns ke cement foundation gaddhe (about 2-3 feet deep) me cement concrete se fill kiye jate hain."
+    },
+    {
+      "qno": 29,
+      "question": "Low Tunnel greenhouse kya hota hai?",
+      "options": {
+        "A": "Zameen ke niche banayi gayi tunnel",
+        "B": "Chote scale par bamboo/plastic arches se bani low height protective structure (approx 2-3 feet height)",
+        "C": "Water collection chamber",
+        "D": "Very expensive automated structure"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Low tunnels short-stature crops (strawberry, melons) ko winter frost se bachane ke liye cheap micro-climate solution hain."
+    },
+    {
+      "qno": 30,
+      "question": "Polyhouse structure ke bahar entrance gate ke pass 'Antechamber' (Double Door entry) kyu banaya jata hai?",
+      "options": {
+        "A": "Beauty badhane ke liye",
+        "B": "Bahar se direct bugs/insects ke andar ghusne ko prevent karne ke liye system",
+        "C": "Extra tools rakhne ke liye",
+        "D": "Lock lagane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Double door entry me pehla gate band hone ke baad hi doosra khola jata hai taaki hawa ke sath insects seedhe crops tak na pahunchein."
+    },
+    {
+      "qno": 31,
+      "question": "Greenhouse cladding materials me Polycarbonate sheet ka kya advantage hai glass ke mukable?",
+      "options": {
+        "A": "Lightweight, shatter-proof (jaldi nahi tutata) aur insulation capacity high",
+        "B": "Bohot sasta hota hai polyethylene se",
+        "C": "Transparent bilkul nahi hota",
+        "D": "Wax production badhata hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Polycarbonate sheets rigid aur heat insulating hoti hain, ye double wall hollow channels ke sath aati hain jo temperature maintain rakhti hain."
+    },
+    {
+      "qno": 32,
+      "question": "Polyhouse sheet par 'Anti-Drip' coating kya function karti hai?",
+      "options": {
+        "A": "Water vapor drops ko sheet par na banne dena, taaki drops directly plants par na girein",
+        "B": "Rainwater ko filter karna",
+        "C": "Pesticide damage rokna",
+        "D": "Sun rays block karna"
+      },
+      "correct": "hard",
+      "difficulty": "hard",
+      "explanation": "Anti-condensation (anti-drip) sheets water droplets ko smooth film me convert karti hain jisse unka rasta drip hokar side walls par chala jata hai, crops par drops girne se bacterial spot diseases rukti hain."
+    },
+    {
+      "qno": 33,
+      "question": "Naturally Ventilated Polyhouse me 'Ridge Vent' ka kya role hai?",
+      "options": {
+        "A": "Shed ke top par bani opening jo hot air ko buoyancy se automatically nikalne me help karti hai",
+        "B": "Soil clean rakhna",
+        "C": "Water runoff badhana",
+        "D": "Light intensity filter karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hot air light weight hokar top par chali jati hai aur ridge vent se exit hoti hai, jisse side margins se cold air enter ho sake."
+    },
+    {
+      "qno": 34,
+      "question": "Multi-span polyhouse me gutter kis kaam aati hai?",
+      "options": {
+        "A": "Water drainage (drainage canal for rain water) ke liye",
+        "B": "Feed collection ke liye",
+        "C": "Walkway path ki tarah use karne ke liye",
+        "D": "Plants latching support ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Rain water arches se gutter me behata hai aur fir drainage pipes ke through rainwater harvesting systems me bheja ja sakta hai."
+    },
+    {
+      "qno": 35,
+      "question": "GI pipes ko zang (rust) lagne se bachane ke liye unpar kis metal ki layer coating ki jati hai?",
+      "options": {
+        "A": "Copper (Taamba)",
+        "B": "Zinc (Galvanization)",
+        "C": "Aluminum",
+        "D": "Silver"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Galvanized Iron (GI) me zinc coating iron core ko corrosion aur humidity se protection deti hai."
+    },
+    {
+      "qno": 36,
+      "question": "Garmiyon me polyhouse ke andar temperature bahut badhne par, use normal temperature me rakhne ke liye kis instrument ka use hota hai?",
+      "options": {
+        "A": "Exhaust Fans and Evaporative Cooling Pads",
+        "B": "Heaters",
+        "C": "Inner UV covers",
+        "D": "Fumigators"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Fans internal hot air ko suck karke vacuum banate hain, aur honey-comb structure wale wet cooling pads se cooler thandi hawa andar aati hai."
+    },
+    {
+      "qno": 37,
+      "question": "Pad and Fan system me Cooling Pad me paani continuously circulate karne ka main reason kya hai?",
+      "options": {
+        "A": "Evaporative Cooling principle se hawa ka temperature kam karne ke liye",
+        "B": "Pines ke liye water save karna",
+        "C": "Fans ki speed badhana",
+        "D": "Exhaust pressure build up karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Jab garam hawa gile cooling pad ke micro-channels se guzarti hai, toh paani ke vaporize hone se hawa thandi ho jati hai."
+    },
+    {
+      "qno": 38,
+      "question": "Polyhouse me 'Exhaust Fan' kis side lagaye jate hain aur Cooling Pad kis side lagaya jata hai?",
+      "options": {
+        "A": "Cooling pad ek wall par aur exhaust fans opposite wall par directly",
+        "B": "Exhaust fans top ridge par",
+        "C": "Dono ek hi wall par parallel",
+        "D": "Exhaust fan zameen ke niche"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Opposite wall alignment se pure polyhouse floor par thandi hawa ka uniform airflow hota hai."
+    },
+    {
+      "qno": 39,
+      "question": "Protected cultivation me air circulation badhane aur humidity accumulation hatane ke liye crop canopy ke upar lagaye gaye chhote fans ko kya bolte hain?",
+      "options": {
+        "A": "CAF Fans (Circulation Air Fans) / Horizontal Air Flow (HAF) Fans",
+        "B": "Cooling fan towers",
+        "C": "Ventilator exhaust",
+        "D": "Silo blowers"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "HAF fans continuous internal air block ko mix karte hain jisse leaf surface par moisture pocket nahi banti aur fungus control rehta hai."
+    },
+    {
+      "qno": 40,
+      "question": "Polyhouse me humidity levels badhane ke liye high pressure water droplets spray karne wale device ko kya kehte hain?",
+      "options": {
+        "A": "Foggers / Misters",
+        "B": "Drippers",
+        "C": "Sprinklers",
+        "D": "Fumigators"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Foggers kafi high pressure (approx 4-6 bar) par small water mist droplets (fog) chhodte hain jo air me dissolve ho jati hai bina leaves ko geela kiye."
+    },
+    {
+      "qno": 41,
+      "question": "Winter (cold season) me polyhouse me heating provide karne ke liye kis device ka use ho sakta hai?",
+      "options": {
+        "A": "Hot Air Blowers / Coal burner heat exchangers / Hot water circulation pipes",
+        "B": "Evaporative pad system",
+        "C": "Foggers directly",
+        "D": "Exhaust fan without pad"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Cold temperate regions me greenhouse temperature maintain rakhne ke liye boiler heating loops ya blowers chalaye jate hain."
+    },
+    {
+      "qno": 42,
+      "question": "Polyhouse me Relative Humidity (RH) range kitni honi chahiye vegetables ke liye generally?",
+      "options": {
+        "A": "10-20%",
+        "B": "50% to 70%",
+        "C": "95% to 100%",
+        "D": "Zero percent"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "50-70% RH plants ke transpiration aur disease prevention ke liye ideal range hai."
+    },
+    {
+      "qno": 43,
+      "question": "Winter season me dhoop (sunlight) kam hone par greenhouse me lighting badhane ke liye kis technology ka use hota hai?",
+      "options": {
+        "A": "Grow Lights (LED / High Pressure Sodium Lamps)",
+        "B": "Fluorescent tube light standard",
+        "C": "Halogen searchlights",
+        "D": "Smoke screening"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Grow lights special spectrum (blue & red bands) provide karti hain jo photosynthesis rate badhata hai."
+    },
+    {
+      "qno": 44,
+      "question": "Carbon Dioxide (CO2) enrichment polyhouse me kyu kiya jata hai?",
+      "options": {
+        "A": "Photosynthesis rate badha kar crop yield badhane ke liye (controlled concentration upto 1000 ppm)",
+        "B": "Insects ko maarne ke liye",
+        "C": "Andar ka space clear rakhne ke liye",
+        "D": "Soil salinity decrease karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Normal air me CO2 level ~400 ppm hota hai. CO2 enrichment (injector se carbon dioxide chhodna) se yield 20-30% tak increase ho sakti hai."
+    },
+    {
+      "qno": 45,
+      "question": "Hi-tech greenhouse automation me kis controller sensor panel ka use hota hai?",
+      "options": {
+        "A": "PLC / SCADA Based Environment Controller (temp, humidity, light sensor connected)",
+        "B": "Simple manual switch only",
+        "C": "Gerber sensor panel",
+        "D": "NABARD controller"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Sensor data analyze karke computerized panel fans, foggers aur pumps ko automatically trigger karta hai target ranges achieve karne ke liye."
+    },
+    {
+      "qno": 46,
+      "question": "Polyhouse me 'Thermal Screen' (inner shade curtain) ka winter nights me kya use hota hai?",
+      "options": {
+        "A": "Heat radiation loss ko rokkar internal temperature warm rakhna",
+        "B": "Ventilation badhana",
+        "C": "Crops ko dry rakhna",
+        "D": "Pest control directly"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Thermal curtains night time me horizontally draw kiye jate hain jo roof area se radiation heat loss block karte hain aur heating bill bachate hain."
+    },
+    {
+      "qno": 47,
+      "question": "Fogging systems me water filter hona kyu zaroori hai?",
+      "options": {
+        "A": "Takki mineral salts se fogger ke micro-nozzles block na ho",
+        "B": "Plants ko soft water dene ke liye",
+        "C": "Fungal spores kill karne ke liye",
+        "D": "Fog pressure decrease karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Foggers ke nozzle holes bohot microscopic hote hain. Khare ya unfiltered paani se mineral deposition hone par nozzle block ho jate hain."
+    },
+    {
+      "qno": 48,
+      "question": "Polyhouse farming me high temperature aur excess humidity ek sath hone par kis type ke diseases ka risk sabse zyada badhta hai?",
+      "options": {
+        "A": "Fungal diseases (jaise Powdery Mildew, Downy Mildew, Root Rot)",
+        "B": "Nematode infestation only",
+        "C": "Viral infections directly",
+        "D": "Mineral deficiency directly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Fungal spores wet surface aur high humidity-warm weather me tezi se grow karte hain."
+    },
+    {
+      "qno": 49,
+      "question": "Hi-tech system me soil/substrate ka temperature aur moisture check karne ke liye kis probe sensor ka use hota hai?",
+      "options": {
+        "A": "Tensiometer / Soil Moisture Probe Sensor",
+        "B": "Gerber probe",
+        "C": "Lactometer",
+        "D": "Anemometer"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Tensiometer soil suction force measure karta hai jisse soil moisture tension aur irrigation requirement ka pata chalta hai."
+    },
+    {
+      "qno": 50,
+      "question": "Naturally ventilated polyhouse me ventilation curtains roll-up kis machine tool se kiya jata hai?",
+      "options": {
+        "A": "Manual Roll-up gear unit",
+        "B": "Hydraulic crane directly",
+        "C": "Piston blow",
+        "D": "Rope pulling directly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Roll-up gear box and pipe shaft ka use karke side curtains ko easily handle aur roll kiya jata hai."
+    },
+    {
+      "qno": 51,
+      "question": "Polyhouse soil-based cultivation me soil sterilization (mitti shodhan) ka sabse common method kya hai?",
+      "options": {
+        "A": "Soil Solarization (garmiyon me transparent sheet se cover karke dhoop se tapana)",
+        "B": "Water flooding only",
+        "C": "Excess nitrogen chemical spray",
+        "D": "No treatment required"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "May-June ke mahine me soil cover karke 40-50 days tak chhodne se soil temperature high ho jata hai, jisse nematodes aur harmful pathogens mar jate hain."
+    },
+    {
+      "qno": 52,
+      "question": "Soil sterilization me kis chemical fumigant ka use kiya jata hai agar solarization na kiya jaye?",
+      "options": {
+        "A": "Formalin (Formaldehyde) solution / Hydrogen Peroxide with Silver",
+        "B": "Salt water mix",
+        "C": "Bleaching powder directly",
+        "D": "Alcohol spray"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Formalin 2% ya Hydrogen Peroxide with Silver nitrate ka spray karke soil wrap kiya jata hai nematod aur bacterial control ke liye."
+    },
+    {
+      "qno": 53,
+      "question": "Nematodes (sutrakrimi) pashu/plant roots ko affect karne wale small worms hote hain, inke control ke liye polyhouse me kya daala jata hai?",
+      "options": {
+        "A": "Nematicide (jaise Neem cake, Carbofuran)",
+        "B": "Urea",
+        "C": "Calcium",
+        "D": "Grow lights"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Nematodes root system me gall/gath banate hain jisse plant nutrient absorb nahi kar pata, neem cake aur nematicides isko control karte hain."
+    },
+    {
+      "qno": 54,
+      "question": "Polyhouse raised bed (unche bed) banane ka main reason kya hai?",
+      "options": {
+        "A": "Water drainage ko smooth rakhna aur roots ko structural support+aeration dena",
+        "B": "Seed saving",
+        "C": "Shed height decrease karna",
+        "D": "Visual beauty"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Raised beds (typically 30 cm height, 90 cm width) moisture control rakhte hain aur water logging se root disease ko bachate hain."
+    },
+    {
+      "qno": 55,
+      "question": "Protected cultivation soil-less nursery preparation me 'Coco-peat' ka kya role hai?",
+      "options": {
+        "A": "Coconut fiber powder jo water retention aur light weight holding capacity deta hai",
+        "B": "Clay soil mixture",
+        "C": "Chemical fertilizer",
+        "D": "Direct seed cover"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Cocopeat (coconut husk waste) sterile substrate hai jo moisture aur aeration hold karta hai, jisse seedlings ki root growth badhiya hoti hai."
+    },
+    {
+      "qno": 56,
+      "question": "Soil-less media mixture me Cocopeat ke sath 'Perlite' aur 'Vermiculite' mix kiya jata hai. Perlite ka kya function hai?",
+      "options": {
+        "A": "Volcanic glass minerals jo drainage aur aeration (hawa) ko improve karte hain",
+        "B": "Water content increase karna",
+        "C": "Nitrogen supplement karna",
+        "D": "Seed covering weight increase karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Perlite lightweight white particles hote hain jo media me space banate hain, aeration aur water drainage maintain karne ke liye."
+    },
+    {
+      "qno": 57,
+      "question": "Cocopeat, Perlite aur Vermiculite ka ideal ratio nursery plug trays ke liye standard kya hai?",
+      "options": {
+        "A": "3:1:1 (By volume)",
+        "B": "10:1:1",
+        "C": "1:1:1",
+        "D": "100% Cocopeat without mixing"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "3:1:1 (Cocopeat:Perlite:Vermiculite) media mix seedling plug germination ke liye optimal moisture-aeration balance deta hai."
+    },
+    {
+      "qno": 58,
+      "question": "Coco-peat use karne se pehle use wash karna kyu zaroori hai?",
+      "options": {
+        "A": "Excess salt (Sodium chloride/salinity) nikalne ke liye aur EC level check karne ke liye",
+        "B": "Color change karne ke liye",
+        "C": "Cocopeat ko dry karne ke liye",
+        "D": "Nematode control directly"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Raw cocopeat me sodium chloride ki concentration high hoti hai jo EC level badhata hai. Dhone se EC level kam (safe level < 0.5 mS/cm) ho jata hai."
+    },
+    {
+      "qno": 59,
+      "question": "Hydroponics me 'EC' aur 'pH' term ka kya significance hai water management me?",
+      "options": {
+        "A": "EC = Electrical Conductivity (salt concentration / nutrient strength), pH = Acid/Alkali level",
+        "B": "EC = Environment Control, pH = Phosphorus",
+        "C": "EC = Egg Capacity, pH = Plant Height",
+        "D": "EC = Energy Controller, pH = Pigment"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "EC se nutrients ki strength aur salinity check hoti hai, pH level (ideal 5.5-6.5 range) root absorption ko smooth banata hai."
+    },
+    {
+      "qno": 60,
+      "question": "Drip irrigation systems me fertilizer ko water ke sath direct mix karke plants tak supply karne ko kya kehte hain?",
+      "options": {
+        "A": "Fertigation",
+        "B": "Fumigation",
+        "C": "Foliar spray",
+        "D": "Composting"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Fertilizer + Irrigation = Fertigation. Isse fertilizer efficiency 90%+ ho jati hai aur labour cost bachata hai."
+    },
+    {
+      "qno": 61,
+      "question": "Drip system me hard water salts (Calcium carbonate) blockage ko saaf karne ke liye kis chemical treatment ka use kiya jata hai?",
+      "options": {
+        "A": "Acid Treatment (dilute Hydrochloric acid ya Phosphoric acid flush)",
+        "B": "Salt flush",
+        "C": "Chlorine flush only",
+        "D": "Direct hot water flush"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Drippers block hone par system me dilute acid circulate kiya jata hai jo salts ko dissolve kar deta hai."
+    },
+    {
+      "qno": 62,
+      "question": "Drip irrigation system me sand particles aur debris ko filter karne ke liye use hone wale main filter ka kya name hai?",
+      "options": {
+        "A": "Sand Filter (Hydrocyclone/Media Filter) aur Disc/Screen Filter",
+        "B": "Lactometer filter",
+        "C": "Normal cloth standard",
+        "D": "RO membrane only"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Borewell water ke sand particles ke liye Sand filter aur fine impurities ke liye Disc/Screen filter drip line blockage ko rokte hain."
+    },
+    {
+      "qno": 63,
+      "question": "NFT hydroponic system ka kya full form hai jo leafy vegetables ke liye famous hai?",
+      "options": {
+        "A": "Nutrient Film Technique (Patli nutrient layer tubes me continuously recirculate karna)",
+        "B": "Natural Flower Technology",
+        "C": "Net Flow Tank",
+        "D": "Nitrogen Fixation Treatment"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "NFT me PVC gullies me plants roots ko continuously flowing nutrient solution ki patli layer me rakha jata hai (like lettuce, spinach)."
+    },
+    {
+      "qno": 64,
+      "question": "Raised beds par moisture retention aur weeds (kharpatwar) ko control karne ke liye lagayi jane wali plastic film ko kya bolte hain?",
+      "options": {
+        "A": "Mulching Film (black/silver plastic sheet)",
+        "B": "Insect net",
+        "C": "UV cladding sheet",
+        "D": "Shade net cloth"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mulching sheet soil moisture lock karti hai, weeds ko dhoop na milne se grow nahi karne deti, aur fruit cleanliness maintain rakhti hai."
+    },
+    {
+      "qno": 65,
+      "question": "Mulch film ke black and silver side ka kya significance hai alignment me?",
+      "options": {
+        "A": "Silver side up (light reflect aur cooling ke liye) aur Black side down (weed control aur temperature ke liye)",
+        "B": "Black side up aur silver side down",
+        "C": "Dono sides are same",
+        "D": "Silver side zameen ke bilkul niche"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Silver layer sunlight reflect karke pests ko confuse karti hai aur soil cooling rakhti hai. Black side light block karke weed growth roti hai."
+    },
+    {
+      "qno": 66,
+      "question": "Polyhouse farming ke liye selected Tomato hybrid varieties kis type ki honi chahiye growth habit ke according?",
+      "options": {
+        "A": "Indeterminate type (lagatar badhne wali vine system)",
+        "B": "Determinate type (bushy/choti varieties)",
+        "C": "Wild local varieties",
+        "D": "Grafting impossible type"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Indeterminate varieties continuous badhti hain aur staking ropes ke support se unhe vertical space me lambi chalayi jati hain."
+    },
+    {
+      "qno": 67,
+      "question": "Crops ko support (vertical ropes) se bandhne aur latch karne ki process ko kya kehte hain?",
+      "options": {
+        "A": "Staking / Trellising (Dhaaga bandhna aur support dena)",
+        "B": "Pruning",
+        "C": "Mulching",
+        "D": "Fertigation"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Vertical space utilization ke liye capsicum, tomato aur cucumber ko plastic threads/twines se support dekar oopar chadhaya jata hai."
+    },
+    {
+      "qno": 68,
+      "question": "Cucumber (kheera) ki kaun si specialized varieties polyhouse me lagayi jati hain jisme male flowers nahi hote aur self-pollination zaroori nahi hota?",
+      "options": {
+        "A": "Parthenocarpic (Gynoecious) varieties",
+        "B": "Local field varieties",
+        "C": "Wild bitter varieties",
+        "D": "Hybrid cross only"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Parthenocarpic varieties bina pollination ke seedless cucumbers develop karti hain, jisse polyhouse me bees ki zaroorat nahi padti."
+    },
+    {
+      "qno": 69,
+      "question": "Colored Bell Pepper (Shimla mirch - Red/Yellow) polyhouse me kis stage par harvest ki jati hai?",
+      "options": {
+        "A": "Immature green stage par",
+        "B": "Full maturity jab 90%+ surface color red/yellow ho jaye",
+        "C": "Overripe soft state me",
+        "D": "Kabhi bhi bina color check ke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Full color development ke baad hi Shimla mirch ki premium market value milti hai, green shimla mirch sasti hoti hai."
+    },
+    {
+      "qno": 70,
+      "question": "Floriculture me premium cut flower 'Gerbera' ki farm bed preparation me drainage ke alawa soil pH kitna hona chahiye?",
+      "options": {
+        "A": "5.5 to 6.5 (slighty acidic)",
+        "B": "8.5 (alkaline)",
+        "C": "3.0 (highly acidic)",
+        "D": "7.5 to 8.0"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Gerbera ko slightly acidic medium chahiye taaki micronutrients (iron, manganese) root zone me absorb ho sakein."
+    },
+    {
+      "qno": 71,
+      "question": "Protected cultivation me 'Pruning' (chhantai) ka kya main significance hai?",
+      "options": {
+        "A": "Plants ko shape dena, dead/disease parts aur extra side suckers (side branches) ko remove karna",
+        "B": "Plant height control zero karna",
+        "C": "Water intake stop karna",
+        "D": "Seeds produce karna fast"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Side shoots (suckers) aur old leaves remove karne se air space clean rehta hai aur energy main stem ke fruits ko milti hai."
+    },
+    {
+      "qno": 72,
+      "question": "Indeterminate tomato vines me main stem se aane wale side-shoots ko kya bolte hain jinhe regularly pinch (prune) kiya jata hai?",
+      "options": {
+        "A": "Suckers / Lateral shoots",
+        "B": "Root hairs",
+        "C": "Crown flowers",
+        "D": "Tendrils"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Suckers ko young state me hi remove (suckering) kar dena chahiye taaki single stem leading growth maintain rahe."
+    },
+    {
+      "qno": 73,
+      "question": "Polyhouse capsicum (bell pepper) cultivation me kitne-system leader stems maintain kiye jate hain general standard me?",
+      "options": {
+        "A": "2-stem system ya 4-stem system",
+        "B": "10-stem system",
+        "C": "Single stem without branches",
+        "D": "No branch restriction"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "2 ya 4 main stems ko trellising support ke sath maintain kiya jata hai, extra branches remove kar di jati hain."
+    },
+    {
+      "qno": 74,
+      "question": "Floriculture me Carnation flower bedding me crop height support ke liye use hone wali grids net ko kya kehte hain?",
+      "options": {
+        "A": "Support Net / Carnation Grid Netting (metallic/plastic grid layers)",
+        "B": "Shade net directly",
+        "C": "Mulch film screen",
+        "D": "Rope trellising only"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Carnation stem kafi delicate hoti hai, unhe sidha khada rakhne ke liye ground se unche cross-grids nets lagsye jate hain jo stem ko bend hone se bachate hain."
+    },
+    {
+      "qno": 75,
+      "question": "Cucurbits (Kheera, Kakdi) me climbing growth ke liye plant se nikalne wale coiled spring-like elements ko kya kehte hain jo ropes ko catch karte hain?",
+      "options": {
+        "A": "Tendrils",
+        "B": "Suckers",
+        "C": "Nodes",
+        "D": "Pith"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Tendrils plants ko search support me coiled up hone me help karte hain."
+    },
+    {
+      "qno": 76,
+      "question": "Dutch Rose cut-flower production me 'Bending' (shakhon ko jhukana) operation kyu kiya jata hai?",
+      "options": {
+        "A": "Lower leaf surface area badha kar photosynthesis enhance karne ke liye",
+        "B": "Stem length choti karne ke liye",
+        "C": "Flowers count reduce karne ke liye",
+        "D": "Spines remove karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Rose beds me side stems ko horizontally bed par bend kiya jata hai. In par buds nahi aate par inka main function main bud stem ko raw energy supply karna hai."
+    },
+    {
+      "qno": 77,
+      "question": "Gerbera beds me crown position (plant center) ko soil level ke comparison me kaha rakhna chahiye planting ke waqt?",
+      "options": {
+        "A": "Soil ke bilkul oopar (crown should not be buried under soil)",
+        "B": "Zameen ke 10 cm niche",
+        "C": "Beds ke bilkul gutter side",
+        "D": "Salinity area me directly"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Gerbera crown agar mitti me bury ho gaya to root/crown rot disease ho jayega aur plant dry ho jayega."
+    },
+    {
+      "qno": 78,
+      "question": "Floriculture crops me 'Disbudding' (kaliyon ko hatana) operation kyu karte hain?",
+      "options": {
+        "A": "Single large size cut-flower stem (premium flower quality) pane ke liye side buds ko pinch karna",
+        "B": "Pest control directly",
+        "C": "Seeds produce karna",
+        "D": "Color badlna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Side buds remove karne se poora nutrient main single center bud ko milta hai, jisse rose ya carnation flower bada hota hai."
+    },
+    {
+      "qno": 79,
+      "question": "Young seedlings (nursery) ko polyhouse se direct open field me transplant karne se pehle environmental hard conditions ke liye adapt karne ko kya kehte hain?",
+      "options": {
+        "A": "Hardening (Hardening-off stage me watering aur shading kam karna)",
+        "B": "Pruning",
+        "C": "Fumigation",
+        "D": "Bending"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hardening process se plants outdoor climate ke shock ko survive karne ke liye tough ho jate hain."
+    },
+    {
+      "qno": 80,
+      "question": "Protected nursery plug trays me seed sowing ke baad germination stage tak pro-trays ko kaise rakha jata hai?",
+      "options": {
+        "A": "Black plastic sheet wrap karke dark and warm environment me (stacking phase)",
+        "B": "Direct sun dhoop me",
+        "C": "Exhaust fan ke bilkul pass",
+        "D": "Drip lines ke niche"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Dark, humid aur warm condition me initial sprouting fast hoti hai, green sprouts aate hi stack ko khol kar nets ke niche rakha jata hai."
+    },
+    {
+      "qno": 81,
+      "question": "Tomato flowers polyhouse me dry air aur wind control ke karan sahi se pollinate nahi ho paate, iske liye manual solution kya hai?",
+      "options": {
+        "A": "Ropes ya trellis system ko tapping (halke se hilana) ya battery-operated vibrator handle vibration dena",
+        "B": "Shed complete open karna",
+        "C": "Green color water spray",
+        "D": "Chemical hormones only"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Tomato flowers self-fertile hote hain. Unhe sirf thoda shaking (vibration) chahiye hota hai pollen transfer ke liye."
+    },
+    {
+      "qno": 82,
+      "question": "Tomato self-pollination ke liye automated and natural solution kis insect (bees) ka use polyhouse me kar ke milta hai foreign countries me?",
+      "options": {
+        "A": "Bumblebees (special hives in greenhouse)",
+        "B": "Honeybees directly",
+        "C": "Whitefly",
+        "D": "Wasps"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Bumblebees 'Buzz pollination' karti hain jo tomatoes ke pollen release ke liye best behavior hai."
+    },
+    {
+      "qno": 83,
+      "question": "Protected cultivation me crops planting ke baad first pruning nodes se lower parts ki leaves ko remove karne ko kya kehte hain?",
+      "options": {
+        "A": "De-leafing (purani aur disease leaves hatana niche se)",
+        "B": "Pruning main stem",
+        "C": "Debeaking",
+        "D": "Bending buds"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "De-leafing se zameen ke pass air flow badhta hai, dampness kam hoti hai aur fungal infections ka risk ghat jata hai."
+    },
+    {
+      "qno": 84,
+      "question": "Dutch Rose cultivation me cut flower harvest kis point se kiya jata hai?",
+      "options": {
+        "A": "Main node point se oopar 2 five-leaflet leaves chhod kar (taaki waha se naya shoot aaye)",
+        "B": "Zameen ke bilkul barabar se",
+        "C": "Flower bud ke niche se directly",
+        "D": "Bending branches se"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Standard node cut rule se new vegetative growth optimized rehti hai aur continuous yield milti hai."
+    },
+    {
+      "qno": 85,
+      "question": "Cut flowers (Gerbera, Rose) harvest karne ke baad unhe direct market bechne se pehle shelf-life badhane ke liye kis chemical solution me dips diya jata hai?",
+      "options": {
+        "A": "Silver Thiosulphate (STS) / Hydration solution",
+        "B": "Urea water solution",
+        "C": "Formaldehyde mix water",
+        "D": "Salt syrup"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "STS ya special flower preservative solution (sugar + germicide) stem clogging rokte hain aur flower fresh rakhte hain."
+    },
+    {
+      "qno": 86,
+      "question": "Polyhouse me whitefly, thrips aur aphids jaise insects ko monitor aur trap karne ke liye use hone wale sticky sheets ko kya bolte hain?",
+      "options": {
+        "A": "Yellow and Blue Sticky Traps",
+        "B": "Black plastic sheets",
+        "C": "Pheromone trap box",
+        "D": "Insect nets directly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Whitefly aur leafminer yellow color se attract hote hain aur thrips blue color se. In sticky cards ko height par lagaya jata hai."
+    },
+    {
+      "qno": 87,
+      "question": "Polyhouse me 'Thrips' pest control ke liye blue trap kyu prefer kiya jata hai?",
+      "options": {
+        "A": "Thrips blue color se highly attracted hote hain",
+        "B": "Blue sheet sasti hoti hai",
+        "C": "Blue traps mites control karte hain",
+        "D": "Standard rule for color balance"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Insect visual spectrum analysis se pata chalta hai ki blue light wavelengths thrips ko highly active aur drag karti hain."
+    },
+    {
+      "qno": 88,
+      "question": "Protected cultivation under IPM (Integrated Pest Management) me pests (insect vectors) ko control karne ke liye chemical sprays ke alawa kya natural option use kiya jata hai?",
+      "options": {
+        "A": "Biological Control (Ladybird beetle, Trichogramma wasp, Phytoseiulus mites)",
+        "B": "Shed close karna permanent",
+        "C": "Crop burning directly",
+        "D": "Green net removal"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Bio-control agents beneficial predatory insects hote hain jo harmful pests ko khakar crop ko safe rakhte hain bina chemical use ke."
+    },
+    {
+      "qno": 89,
+      "question": "Capsicum ya Cucumber plants ki lower leaves aur stems par safed powder jaisa patch banna kis fungal disease ki pehchan hai?",
+      "options": {
+        "A": "Powdery Mildew (Erysiphe species)",
+        "B": "Damping Off",
+        "C": "Root Rot",
+        "D": "Tomato virus"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Powdery Mildew common polyhouse fungal disease hai jo air-borne spores se tezi se failta hai dry and humid mix environment me."
+    },
+    {
+      "qno": 90,
+      "question": "Nursery beds me seed germinating phase ke waqt stems ka zameen ke pass se glna (rotting) aur chuse ka girkar mar jana kis disease ko kehte hain?",
+      "options": {
+        "A": "Damping Off (Pythium/Phytophthora fungus)",
+        "B": "Downy Mildew",
+        "C": "Powdery Mildew",
+        "D": "Leaf curling"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Damping off high moisture aur excess watering se nurseries me seedlings ko khatam karne wali main fungal disease hai."
+    },
+    {
+      "qno": 91,
+      "question": "Damping Off disease se nursery ko bachane ke liye seeds ko kis fungicide se treat karna chahiye?",
+      "options": {
+        "A": "Captan / Thiram / Carbendazim (fungicides)",
+        "B": "Urea directly",
+        "C": "Bleaching powder",
+        "D": "Iodine solution"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Seed treatment aur coco-peat drenching (fungicides se) damping off ko effectively control karta hai."
+    },
+    {
+      "qno": 92,
+      "question": "Greenhouse whitefly kis virus vector ki tarah kaam karti hai tomato crops me?",
+      "options": {
+        "A": "TYLCV (Tomato Yellow Leaf Curl Virus)",
+        "B": "FMD Virus",
+        "C": "Bird Flu H5N1",
+        "D": "Mosaic virus only"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Whitefly sap sucking karti hai aur ek plant se doosre me TYLCV virus transfer karti hai jisse tomato plants curling aur stunted ho jate hain."
+    },
+    {
+      "qno": 93,
+      "question": "Biological control me beneficial fungi 'Trichoderma viride' ka soil me kya use hai?",
+      "options": {
+        "A": "Roots ko fungal pathogens (Root rot) se protect karna",
+        "B": "EC level decrease karna",
+        "C": "Pollen badhana",
+        "D": "Shade control"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Trichoderma bio-fungicide hai jo root zone me harmful soil fungi ko grow hone nahi deta."
+    },
+    {
+      "qno": 94,
+      "question": "Polyhouse capsicum harvesting me fruit weight aur size balance rakhna kyu zaroori hai grade standards me?",
+      "options": {
+        "A": "A grade Shimla mirch ka weight minimum 150-200g aur clean square shape hona chahiye high price ke liye",
+        "B": "Saste shimla mirch ka size bada hota hai",
+        "C": "FSSAI rule for color check",
+        "D": "Size ka koi difference nahi hota"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Uniform size aur shape (3-4 lobes) cut Shimla mirch to premium grading standard prices me market me sale kiya jata hai."
+    },
+    {
+      "qno": 95,
+      "question": "Polyhouse vegetables harvest karne ke liye subah (early morning) ya shaam (late evening) ka time kyu prefer kiya jata hai?",
+      "options": {
+        "A": "Carcass heat aur moisture loss (dehydration) ko prevent karne aur fresh rakhne ke liye",
+        "B": "Labour sasti hoti hai tab",
+        "C": "Direct sun dhoop safety ke liye only",
+        "D": "FSSAI rule constraint"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Morning harvesting se post-harvest quality barabar rehti hai aur cold chain maintain karna aasan hota hai."
+    },
+    {
+      "qno": 96,
+      "question": "Cold Chain management ka kya role hai polyhouse marketing me?",
+      "options": {
+        "A": "Harvesting ke baad product ko pre-cooling room aur refrigerated vehicles me store karke market tak pahunchana",
+        "B": "Shed me ice banana",
+        "C": "Green net temperature cooling directly",
+        "D": "Pesticide spray cooling"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Vegetables aur cut flowers perishable hote hain, cold chain unki shelf life badhata hai taaki door tak transport ho sakein."
+    },
+    {
+      "qno": 97,
+      "question": "Polyhouse farming project start karne se pehle DPR banana kyu zaroori hai?",
+      "options": {
+        "A": "DPR = Detailed Project Report (Bank loan aur Govt subsidy sanction ke liye zaroori documentation)",
+        "B": "DPR = Direct Plant Rearing",
+        "C": "DPR = Drip Pressure Rate",
+        "D": "DPR = Density Program Register"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "DPR me cost design, crop selection, infrastructure expenses aur return on investment ka detailed report hota hai jo banks accept karte hain."
+    },
+    {
+      "qno": 98,
+      "question": "India me 1 Acre Naturally Ventilated Polyhouse set up karne ka average cost lagbhag kitna hota hai bina subsidy ke?",
+      "options": {
+        "A": "1-2 Lakhs",
+        "B": "25 se 35 Lakhs (structure aur drip system ke sath)",
+        "C": "5 Crores",
+        "D": "50 Lakhs standard"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Naturally ventilated polyhouse ka construction cost lagbhag Rs. 844 to 1060 per sq. meter hota hai (MIDH norms), to 1 Acre (4000 sq. m) ka cost lagbhag Rs. 30-35 Lakhs aata hai."
+    },
+    {
+      "qno": 99,
+      "question": "Naturally ventilated polyhouse ka structural design kitne wind speed (storm force) ko survive karne ke liye design hona chahiye Indian standards me?",
+      "options": {
+        "A": "Upto 120-150 km/hour",
+        "B": "10 km/hour",
+        "C": "500 km/hour",
+        "D": "Wind velocity measurement zero requirement"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Standard IS 14489 norms ke according, steel greenhouse structure ko 120-150 km/h wind velocity load sehne layak banana chahiye."
+    },
+    {
+      "qno": 100,
+      "question": "National Horticulture Board (NHB) commercial horticulture projects me general state farmers ko kitne percent subsidy provide karta hai polyhouse construction par?",
+      "options": {
+        "A": "10%",
+        "B": "50% (Hilly/Scheduled areas me 75% tak)",
+        "C": "90%",
+        "D": "Zero subsidy"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MIDH guidelines ke under normal zones me polyhouse, shade net, aur hi-tech components par maximum 50% subsidy ka provision hai."
+    }
+  ]
+}

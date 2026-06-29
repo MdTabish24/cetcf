@@ -1,0 +1,1443 @@
+{
+  "course_name": "Auto Electrician",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Electrical Concepts & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Automotive Batteries & Charging Systems",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Starting Systems",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Ignition Systems & Engine Management Basics",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Lighting, Accessories & Wiring",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Diagnostics & Troubleshooting",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ohm's Law ke according, current (I) ka formula kya hai?",
+      "options": {
+        "A": "I = V/R",
+        "B": "I = V*R",
+        "C": "I = R/V",
+        "D": "I = V+R"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ohm's Law ke anusaar, current (I) voltage (V) ke seedhe anupaati aur resistance (R) ke ulte anupaati hota hai, isliye I = V/R."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Automobile electrical circuits mein 'ground' ka kya matlab hai?",
+      "options": {
+        "A": "Positive terminal se connection",
+        "B": "Battery ke negative terminal se connection",
+        "C": "Component ka outer casing",
+        "D": "Direct connection to earth"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Automotive circuits mein, ground usually vehicle body ya chassis se connect hota hai, jo battery ke negative terminal se connected hota hai, circuit complete karne ke liye."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Agar ek wire mein high resistance hai, toh usmein se current flow kaisa hoga?",
+      "options": {
+        "A": "Zyada current flow hoga",
+        "B": "Kam current flow hoga",
+        "C": "Current flow par koi asar nahi padega",
+        "D": "Voltage increase ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Resistance current ke flow ko rokta hai. Zyada resistance ka matlab hai kam current flow, Ohm's Law (I=V/R) ke anusaar."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Multimeter ka use kis liye kiya jata hai?",
+      "options": {
+        "A": "Engine oil level check karne ke liye",
+        "B": "Voltage, current aur resistance measure karne ke liye",
+        "C": "Tyre pressure check karne ke liye",
+        "D": "Brake fluid level check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Multimeter ek versatile tool hai jo electrical circuits mein voltage (volts), current (amperes), aur resistance (ohms) ko measure karne ke kaam aata hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Electrical circuit mein fuse ka kya role hai?",
+      "options": {
+        "A": "Voltage regulate karna",
+        "B": "Circuit ko overload se bachana",
+        "C": "Current badhana",
+        "D": "Resistance kam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fuse ek safety device hai jo excessive current flow hone par melt hokar circuit ko open kar deta hai, jisse components damage hone se bach jaate hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Current ko kis unit mein measure kiya jata hai?",
+      "options": {
+        "A": "Volts",
+        "B": "Ohms",
+        "C": "Amperes",
+        "D": "Watts"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Current ko Amperes (A) mein measure kiya jata hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Ek series circuit mein, total resistance kaise calculate karte hain?",
+      "options": {
+        "A": "Individual resistances ko multiply karke",
+        "B": "Individual resistances ko add karke",
+        "C": "Individual resistances ko divide karke",
+        "D": "Sabse badi resistance value lekar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Series circuit mein, total resistance sabhi individual resistances ka sum hota hai (R_total = R1 + R2 + ...)."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Electrical safety ke liye, live wire par kaam karte samay kya pehenna zaroori hai?",
+      "options": {
+        "A": "Metallic gloves",
+        "B": "Cotton gloves",
+        "C": "Insulated gloves",
+        "D": "Plastic gloves"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Insulated gloves electricity se protection provide karte hain aur shock lagne se bachate hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Kisi circuit mein 'short circuit' ka kya matlab hai?",
+      "options": {
+        "A": "High resistance path",
+        "B": "Low resistance path jahan current bypass ho jata hai",
+        "C": "Open circuit",
+        "D": "Correct voltage level"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Short circuit tab hota hai jab current ek unintended, low-resistance path se flow karta hai, jisse excessive current aur heat generate ho sakti hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Automotive electrical system mein wires ko protect karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Water",
+        "B": "Heat shrink tubing ya conduit",
+        "C": "Sand",
+        "D": "Oil"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Heat shrink tubing aur electrical conduit wires ko abrasion, heat, aur moisture se protect karte hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek parallel circuit mein, components ke across voltage kaisa hota hai?",
+      "options": {
+        "A": "Har component par alag-alag voltage hota hai",
+        "B": "Har component par same voltage hota hai",
+        "C": "Voltage zero ho jata hai",
+        "D": "Voltage increase ho jata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Parallel circuit mein, sabhi components ek hi do points ke beech connected hote hain, isliye unke across voltage same rehta hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Digital multimeter (DMM) se resistance measure karte samay, circuit kaisa hona chahiye?",
+      "options": {
+        "A": "Power on hona chahiye",
+        "B": "Power off hona chahiye",
+        "C": "Half power par hona chahiye",
+        "D": "Battery connect nahi honi chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Resistance measure karte samay, circuit ko de-energized (power off) karna zaroori hai taaki multimeter ko damage na ho aur accurate reading mile."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Voltage drop test ka kya purpose hai?",
+      "options": {
+        "A": "Total current consumption check karna",
+        "B": "Circuit mein excessive resistance locate karna",
+        "C": "Battery charge level check karna",
+        "D": "Engine RPM measure karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Voltage drop test ek effective method hai jisse circuit mein excessive resistance jaise corroded connections ya damaged wires ko identify kiya ja sakta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Agar ek wire ka gauge number kam hai, toh uski thickness aur current carrying capacity kya hogi?",
+      "options": {
+        "A": "Kam thick, kam current",
+        "B": "Zyada thick, kam current",
+        "C": "Zyada thick, zyada current",
+        "D": "Kam thick, zyada current"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Wire gauge numbers inverse hote hain. Kam gauge number ka matlab hai mota wire, jo zyada current carry kar sakta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Kirchhoff's Current Law (KCL) ke anusaar, ek junction par enter hone wala total current kiske barabar hota hai?",
+      "options": {
+        "A": "Zero",
+        "B": "Us junction se nikalne wale total current ke",
+        "C": "Voltage drop ke",
+        "D": "Total resistance ke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Kirchhoff's Current Law states that at any node (junction) in an electrical circuit, the sum of currents entering the node is equal to the sum of currents leaving the node."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Automotive electrical system mein CAN bus ka kya function hai?",
+      "options": {
+        "A": "Only power supply provide karna",
+        "B": "Different ECUs ke beech data communication facilitate karna",
+        "C": "Ignition system control karna",
+        "D": "Battery charging regulate karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CAN (Controller Area Network) bus ek robust vehicle bus standard hai jo microcontrollers aur devices ko ek dusre se communicate karne deta hai, bina host computer ke."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Agar ek circuit mein 12V supply hai aur 4A current flow ho raha hai, toh circuit ki total power consumption (Watts mein) kitni hogi?",
+      "options": {
+        "A": "3 Watts",
+        "B": "16 Watts",
+        "C": "48 Watts",
+        "D": "0.33 Watts"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Power (P) = Voltage (V) × Current (I). So, P = 12V × 4A = 48 Watts."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Automotive battery ka primary function kya hai?",
+      "options": {
+        "A": "Engine ko cool karna",
+        "B": "Engine start karte samay high current provide karna",
+        "C": "Tyre pressure maintain karna",
+        "D": "Brake system ko power dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Battery ka main kaam starter motor ko power supply karna hai taaki engine start ho sake."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Battery ke terminals par white powdery substance (corrosion) ko saaf karne ke liye kya use karna chahiye?",
+      "options": {
+        "A": "Petrol",
+        "B": "Water aur baking soda solution",
+        "C": "Engine oil",
+        "D": "Acid"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Baking soda ek mild base hai jo battery corrosion (acidic salts) ko neutralize karta hai, aur water usko rinse out kar deta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Alternator ka kya function hai?",
+      "options": {
+        "A": "Engine ko start karna",
+        "B": "Battery ko charge karna aur electrical system ko power dena jab engine chal raha ho",
+        "C": "Fuel pump chalana",
+        "D": "Ignition timing control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Alternator engine ke chalne par mechanical energy ko electrical energy mein convert karta hai, jo battery ko charge karti hai aur vehicle ke electrical components ko power deti hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Battery ke charge level ko check karne ke liye kaun sa tool use karte hain?",
+      "options": {
+        "A": "Tyre pressure gauge",
+        "B": "Hydrometer",
+        "C": "Torque wrench",
+        "D": "Spark plug gap tool"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hydrometer battery electrolyte ki specific gravity measure karta hai, jo battery ke charge level ka indication deta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Battery ko jump start karte samay, positive cable ko kahan connect karna chahiye?",
+      "options": {
+        "A": "Dead battery ke negative terminal par",
+        "B": "Good battery ke negative terminal par",
+        "C": "Dead battery ke positive terminal par",
+        "D": "Engine block par"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Jump starting mein, positive cable hamesha positive terminal se connect hoti hai (good battery ke positive se dead battery ke positive tak)."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Battery ke 'CCA' rating ka kya matlab hai?",
+      "options": {
+        "A": "Cold Cranking Amperes",
+        "B": "Current Capacity Amperes",
+        "C": "Constant Charging Amperes",
+        "D": "Circuit Current Amperes"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CCA (Cold Cranking Amperes) battery ki capacity ko darshata hai ki woh kitna current deliver kar sakti hai cold temperatures mein engine start karne ke liye."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Voltage regulator ka kya kaam hai charging system mein?",
+      "options": {
+        "A": "Battery ko discharge karna",
+        "B": "Alternator output voltage ko control karna",
+        "C": "Engine temperature regulate karna",
+        "D": "Fuel consumption kam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Voltage regulator alternator ke output voltage ko maintain karta hai taaki battery overcharge na ho aur electrical components ko stable voltage mile."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Agar alternator belt loose ho, toh kya problem aa sakti hai?",
+      "options": {
+        "A": "Engine overheating",
+        "B": "Power steering failure",
+        "C": "Battery undercharging",
+        "D": "Brake failure"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Loose alternator belt slip karegi, jisse alternator theek se ghumega nahi aur battery ko sufficient current se charge nahi kar payega."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Ek maintenance-free battery aur conventional battery mein kya difference hai?",
+      "options": {
+        "A": "Maintenance-free batteries ko jump start nahi kar sakte",
+        "B": "Maintenance-free batteries mein electrolyte level check aur top-up ki zaroorat nahi hoti",
+        "C": "Conventional batteries zyada powerful hoti hain",
+        "D": "Maintenance-free batteries siraf electric cars mein use hoti hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Maintenance-free batteries sealed hoti hain aur unmein water loss minimal hota hai, isliye unmein electrolyte level check karne ya top-up karne ki zaroorat nahi padti."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Battery load test ka kya uddeshya hai?",
+      "options": {
+        "A": "Battery ka size measure karna",
+        "B": "Battery ki ability ko test karna ki woh high current deliver kar sake",
+        "C": "Battery electrolyte ka color check karna",
+        "D": "Battery ka physical condition check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Load test battery ki capacity ko check karta hai ki woh ek specific load (current) ko ek specific time tak maintain kar sakti hai ya nahi."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Agar charging system ka voltage bahut high hai (e.g., 15.5V), toh kya ho sakta hai?",
+      "options": {
+        "A": "Battery undercharge hogi",
+        "B": "Battery overcharge hogi aur usse damage ho sakta hai",
+        "C": "Headlights dim ho jayengi",
+        "D": "Engine start nahi hoga"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Excessively high voltage overcharging ka karan banta hai, jisse battery cells boil ho sakte hain, water loss ho sakta hai aur battery damage ho sakti hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Jump starting ke samay, last cable connection kahan banana chahiye?",
+      "options": {
+        "A": "Dead battery ke positive par",
+        "B": "Good battery ke negative par",
+        "C": "Dead battery ke negative par",
+        "D": "Dead vehicle ke engine block ya unpainted metal surface par"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Last connection dead vehicle ke engine block ya chassis par banaya jata hai, battery se door, taaki spark se hydrogen gas ignite na ho."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Ek modern car mein, smart charging system ka kya fayda hai?",
+      "options": {
+        "A": "Sirf battery ko jaldi charge karta hai",
+        "B": "Fuel efficiency badhata hai aur battery ki life improve karta hai",
+        "C": "AC system ko zyada power deta hai",
+        "D": "Ignition system ko bypass karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Smart charging systems battery ki exact needs ke according charge regulate karte hain, jisse parasitic load kam hota hai, fuel economy badhti hai, aur battery ki lifespan extend hoti hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "AGM battery ka full form kya hai aur uska kya fayda hai?",
+      "options": {
+        "A": "Acid Gel Mixture, sasti hoti hai",
+        "B": "Absorbed Glass Mat, vibration resistant aur leak-proof hoti hai",
+        "C": "Active Grid Module, zyada CCA deti hai",
+        "D": "Automotive Grade Material, recyclable hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "AGM (Absorbed Glass Mat) batteries mein electrolyte glass mats mein absorb hota hai, jisse woh vibration resistant, leak-proof aur zyada efficient hoti hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Parasitic drain kya hai aur isse kaise diagnose karte hain?",
+      "options": {
+        "A": "Alternator ka excessive output, voltage regulator check karke",
+        "B": "Engine oil ka leakage, visual inspection se",
+        "C": "Battery ka slowly discharge hona jab engine off ho, ammeter se current draw measure karke",
+        "D": "Fuel pump ka malfunction, fuel pressure test se"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Parasitic drain tab hota hai jab engine off hone par bhi koi component battery se current draw karta rehta hai. Isse diagnose karne ke liye battery aur circuit ke beech ammeter connect karke current draw measure karte hain."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Alternator mein diode rectifier ka kya kaam hai?",
+      "options": {
+        "A": "AC ko DC mein convert karna",
+        "B": "DC ko AC mein convert karna",
+        "C": "Voltage ko step up karna",
+        "D": "Current ko limit karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Alternator AC current produce karta hai, aur diodes is AC current ko DC current mein convert karte hain, jo vehicle ke electrical system aur battery ke liye zaroori hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Agar car ki battery dead ho gayi hai aur jump start ke baad bhi engine start nahi ho raha, toh kya possibility ho sakti hai?",
+      "options": {
+        "A": "Fuel tank khaali hai",
+        "B": "Alternator kharab hai",
+        "C": "Starter motor kharab hai",
+        "D": "Tyre puncture hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Agar battery charge hone ke baad bhi engine crank nahi ho raha ya bahut slow crank ho raha hai, toh starter motor mein problem ho sakti hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Starter motor ka main kaam kya hai?",
+      "options": {
+        "A": "Battery ko charge karna",
+        "B": "Engine ko crank karna",
+        "C": "Lights ko power dena",
+        "D": "Wipers chalana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Starter motor ek electric motor hai jo engine ko rotate karta hai (crank karta hai) taaki woh start ho sake."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Starter motor ko power kahan se milti hai?",
+      "options": {
+        "A": "Alternator se",
+        "B": "Fuel pump se",
+        "C": "Battery se",
+        "D": "Ignition coil se"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Starter motor high current draw karta hai, jo directly battery se provide hota hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Ignition switch ko 'START' position par turn karne par sabse pehle kaun sa component activate hota hai?",
+      "options": {
+        "A": "Fuel injector",
+        "B": "Spark plug",
+        "C": "Starter solenoid",
+        "D": "Alternator"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ignition switch starter solenoid ko activate karta hai, jo starter motor ko power deta hai aur pinion gear ko flywheel se engage karta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Agar starter motor sirf 'click' sound kare lekin engine crank na ho, toh kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Fuel pump failure",
+        "B": "Battery low ya dead",
+        "C": "Spark plugs kharab hain",
+        "D": "Tyre pressure low hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek click sound aksar starter solenoid ke engage hone ka indication hota hai, lekin agar battery mein sufficient current nahi hai, toh starter motor ghum nahi payega."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Starter motor mein Bendix drive ka kya kaam hai?",
+      "options": {
+        "A": "Starter motor ko battery se disconnect karna",
+        "B": "Starter pinion gear ko flywheel ring gear se engage aur disengage karna",
+        "C": "Starter motor ki speed control karna",
+        "D": "Starter motor ko cool karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bendix drive ya overrunning clutch pinion gear ko flywheel se engage karta hai engine start hone par aur phir disengage kar deta hai taaki starter motor damage na ho."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Agar starter motor ghumta hai lekin engine crank nahi hota, toh kya check karna chahiye?",
+      "options": {
+        "A": "Fuel level",
+        "B": "Spark plugs",
+        "C": "Flywheel ring gear ya starter pinion gear",
+        "D": "Brake fluid"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Agar starter motor ghum raha hai lekin engine crank nahi ho raha, toh iska matlab hai ki starter pinion gear flywheel ring gear se engage nahi ho pa raha hai ya dono mein se koi damaged hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Starter solenoid ka kya kaam hai?",
+      "options": {
+        "A": "Engine ko spark provide karna",
+        "B": "Starter motor ko high current supply karna aur pinion gear ko engage karna",
+        "C": "Alternator output regulate karna",
+        "D": "Fuel pressure control karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Solenoid ek electromagnetic switch hai jo starter motor ko high current provide karta hai aur uske pinion gear ko forward push karke flywheel se engage karta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Neutral safety switch (ya clutch interlock switch) ka kya purpose hai?",
+      "options": {
+        "A": "Car ko reverse mein chalane se rokna",
+        "B": "Starter motor ko engage hone se rokna jab transmission park ya neutral mein na ho",
+        "C": "Headlights ko automatically off karna",
+        "D": "Wipers ko control karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Neutral safety switch ek safety feature hai jo starter motor ko engage hone se rokta hai jab transmission gear mein ho, jisse car accidental movement se bach sake."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Starter motor ke brushes ka kya function hai?",
+      "options": {
+        "A": "Commutator ko clean karna",
+        "B": "Current ko armature winding tak transmit karna",
+        "C": "Starter motor ko lubrigate karna",
+        "D": "Starter motor ki speed control karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Brushes carbon se bane hote hain aur stationary field coils se current ko rotating armature winding tak transmit karte hain via the commutator."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Agar starter motor continuously chalta rahe engine start hone ke baad bhi, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Weak battery",
+        "B": "Faulty ignition switch ya stuck starter solenoid",
+        "C": "Overcharged battery",
+        "D": "Fuel filter clogged hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar starter motor disengage nahi hota, toh ya toh ignition switch start position par stuck hai ya starter solenoid stuck ho gaya hai, jisse motor ko continuously power mil rahi hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Starter motor circuit mein voltage drop test kahan kiya jata hai?",
+      "options": {
+        "A": "Only battery terminals par",
+        "B": "Starter motor aur battery ke beech ke cables aur connections par",
+        "C": "Fuel lines par",
+        "D": "Spark plug wires par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Voltage drop test starter circuit mein excessive resistance ko identify karta hai, jo cables, connections, ya solenoid mein ho sakta hai, aur starter ki performance ko affect karta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Ek starter motor ka overrunning clutch kya prevent karta hai?",
+      "options": {
+        "A": "Starter motor ko overcharge hone se",
+        "B": "Starter motor ko engine ki high RPM se damage hone se",
+        "C": "Battery ko discharge hone se",
+        "D": "Engine ko backfire karne se"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Overrunning clutch (Bendix drive ka part) starter pinion ko flywheel se disengage kar deta hai jaise hi engine start hota hai aur uski speed starter motor se zyada ho jaati hai, jisse starter motor damage hone se bach jata hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Permanent magnet starter motor ke kya fayde hain conventional wound-field starter motor ke mukable?",
+      "options": {
+        "A": "Zyada heavy hote hain",
+        "B": "Zyada current consume karte hain",
+        "C": "Lighter, smaller aur zyada efficient hote hain",
+        "D": "Zyada maintenance ki zaroorat hoti hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Permanent magnet starter motors lighter, smaller hote hain aur kam current draw karke bhi achhi performance dete hain, kyunki unhe field windings ko energize karne ki zaroorat nahi padti."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar starter motor 'whirs' lekin engine crank nahi hota, toh kya issue ho sakta hai?",
+      "options": {
+        "A": "Battery dead hai",
+        "B": "Starter motor ka pinion gear ya flywheel ring gear damaged hai",
+        "C": "Alternator belt loose hai",
+        "D": "Fuel pump fuse blown hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Whirring' sound ka matlab hai starter motor ghum raha hai, lekin engine tak power transmit nahi ho rahi. Iska common reason pinion gear ya flywheel ring gear ka damage hona hai, ya overrunning clutch ka fail hona."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Starter motor ke armature ka kya function hai?",
+      "options": {
+        "A": "Magnetic field create karna",
+        "B": "Electrical energy ko mechanical energy mein convert karna",
+        "C": "Current ko regulate karna",
+        "D": "Heat dissipate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Armature starter motor ka rotating part hota hai, jismein windings hoti hain. Jab current in windings se flow karta hai aur magnetic field se interact karta hai, toh rotational motion generate hota hai, jo engine ko crank karta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Starter motor ke field windings ka kya role hai?",
+      "options": {
+        "A": "Engine ko cool karna",
+        "B": "Magnetic field create karna",
+        "C": "Fuel supply control karna",
+        "D": "Spark generate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Field windings (ya permanent magnets) starter motor mein stationary magnetic field generate karte hain, jiske saath armature interact karta hai aur torque produce karta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Agar starter circuit mein high resistance hai, toh iska kya asar hoga starter motor par?",
+      "options": {
+        "A": "Starter motor tez ghumega",
+        "B": "Starter motor slow ghumega ya bilkul nahi ghumega",
+        "C": "Starter motor zyada current draw karega",
+        "D": "Engine zyada fuel consume karega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High resistance (jaise corroded terminals ya loose connections) voltage drop ka karan banta hai, jisse starter motor ko sufficient voltage nahi milta aur woh slow crank karta hai ya bilkul nahi karta."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Ignition system ka primary function kya hai?",
+      "options": {
+        "A": "Engine ko cool karna",
+        "B": "Fuel delivery control karna",
+        "C": "Spark plugs ko high voltage spark provide karna",
+        "D": "Brakes ko activate karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ignition system ka kaam hai cylinder ke andar air-fuel mixture ko ignite karne ke liye spark plugs par high voltage spark generate karna."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Spark plug ka kya kaam hai?",
+      "options": {
+        "A": "Fuel ko atomize karna",
+        "B": "Cylinder mein air-fuel mixture ko ignite karna",
+        "C": "Engine temperature measure karna",
+        "D": "Engine exhaust ko filter karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spark plug electrical energy ko spark mein convert karta hai jo cylinder mein compressed air-fuel mixture ko ignite karta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Ignition coil ka kya function hai?",
+      "options": {
+        "A": "Low voltage ko high voltage mein step down karna",
+        "B": "Low voltage ko high voltage mein step up karna",
+        "C": "Fuel pump ko power dena",
+        "D": "Battery ko charge karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ignition coil battery ke relatively low voltage (12V) ko spark plugs ko fire karne ke liye required thousands of volts mein transform karta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Modern cars mein 'distributor' ki jagah kaun sa system use hota hai?",
+      "options": {
+        "A": "Carburetor",
+        "B": "Distributor-less Ignition System (DIS) ya Coil-on-Plug (COP)",
+        "C": "Manual ignition",
+        "D": "Points ignition"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Modern vehicles mein distributor ki jagah DIS ya COP systems use hote hain jo zyada precise timing aur reliability provide karte hain."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Engine Control Unit (ECU) ka kya kaam hai?",
+      "options": {
+        "A": "Car ka interior light control karna",
+        "B": "Engine ke various functions ko monitor aur control karna",
+        "C": "Tyre pressure monitor karna",
+        "D": "Windshield wipers chalana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ECU (Engine Control Unit) car ka 'brain' hai, jo sensors se data lekar fuel injection, ignition timing, idle speed jaise engine functions ko control karta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Mass Air Flow (MAF) sensor ka kya function hai?",
+      "options": {
+        "A": "Engine oil temperature measure karna",
+        "B": "Engine mein enter hone wali air ki quantity measure karna",
+        "C": "Exhaust gas temperature measure karna",
+        "D": "Fuel level monitor karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MAF sensor engine mein enter hone wali air ki mass flow rate ko measure karta hai, jo ECU ko fuel injection calculate karne mein help karta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Oxygen (O2) sensor ka kya kaam hai?",
+      "options": {
+        "A": "Engine oil pressure measure karna",
+        "B": "Exhaust gases mein oxygen content measure karna",
+        "C": "Cabin air quality check karna",
+        "D": "Tyre pressure measure karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oxygen sensor exhaust gases mein oxygen level ko monitor karta hai, jisse ECU air-fuel mixture ko optimize karta hai for better combustion aur emission control."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Agar spark plug gap galat ho, toh engine performance par kya asar padega?",
+      "options": {
+        "A": "Engine zyada smooth chalega",
+        "B": "Engine misfire kar sakta hai ya rough idle ho sakta hai",
+        "C": "Fuel efficiency badh jayegi",
+        "D": "Brakes zyada effective ho jayengi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Incorrect spark plug gap weak spark ya no spark ka karan ban sakta hai, jisse incomplete combustion, misfires, aur poor engine performance hoti hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Crankshaft Position Sensor (CKP) ka kya role hai?",
+      "options": {
+        "A": "Vehicle speed measure karna",
+        "B": "Crankshaft ki rotational speed aur position ko monitor karna",
+        "C": "Throttle position measure karna",
+        "D": "Engine oil level monitor karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CKP sensor ECU ko engine ki RPM aur piston ki position ke baare mein inform karta hai, jo ignition timing aur fuel injection ke liye crucial hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Ignition timing advanced hone ka kya matlab hai?",
+      "options": {
+        "A": "Spark bahut jaldi hota hai",
+        "B": "Spark bahut der se hota hai",
+        "C": "Spark plug gap bahut zyada hai",
+        "D": "Spark plug gap bahut kam hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Advanced ignition timing ka matlab hai spark top dead center (TDC) se pehle hota hai. Isse power badh sakti hai lekin excessive advance pre-ignition ya 'pinging' ka karan ban sakta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Knock sensor ka kya kaam hai?",
+      "options": {
+        "A": "Engine mein noise level measure karna",
+        "B": "Engine mein abnormal combustion (knocking/pinging) detect karna",
+        "C": "Door locking system control karna",
+        "D": "Exhaust system mein blockage detect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Knock sensor engine block par mount hota hai aur vibrations ko detect karta hai jo pre-ignition ya detonation (knocking) se hote hain. ECU phir ignition timing ko retard karke isse correct karta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Coil-on-Plug (COP) ignition system ka kya fayda hai?",
+      "options": {
+        "A": "Distributor ki zaroorat hoti hai",
+        "B": "Har spark plug ke liye separate ignition coil hoti hai, jisse zyada efficient spark milta hai",
+        "C": "Zyada wiring ki zaroorat hoti hai",
+        "D": "Spark plugs ko manually adjust karna padta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "COP system mein har cylinder ke liye ek individual ignition coil hoti hai, jo spark plug ke upar direct mount hoti hai. Isse high voltage loss kam hota hai aur zyada precise spark delivery hoti hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Camshaft Position Sensor (CMP) ka kya role hai?",
+      "options": {
+        "A": "Engine oil pressure monitor karna",
+        "B": "Camshaft ki rotational position monitor karna, jo valve timing ke liye important hai",
+        "C": "Fuel tank level monitor karna",
+        "D": "Vehicle ki speed monitor karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CMP sensor ECU ko crankshaft position ke relative mein camshaft ki position batata hai, jo ECU ko fuel injection aur ignition timing ko precisely control karne mein help karta hai, especially for sequential fuel injection."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Agar ECU mein 'Check Engine Light' (CEL) illuminate ho raha hai, toh pehla step kya hona chahiye?",
+      "options": {
+        "A": "Battery disconnect karna",
+        "B": "Diagnostic Trouble Codes (DTCs) ko scan karna",
+        "C": "Spark plugs change karna",
+        "D": "Engine oil change karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CEL ka matlab hai ECU ne koi malfunction detect kiya hai. Diagnostic scanner se DTCs ko read karke specific problem ka pata lagaya ja sakta hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Variable Valve Timing (VVT) system ka electrical component kya control karta hai?",
+      "options": {
+        "A": "Ignition coil current",
+        "B": "Spark plug gap",
+        "C": "Camshaft position, jisse valve opening aur closing timing adjust hoti hai",
+        "D": "Fuel pressure"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "VVT system engine performance aur fuel efficiency ko optimize karne ke liye camshaft ki relative position ko adjust karta hai, jisse intake aur exhaust valves ke opening/closing timing change hote hain. Iska control ECU electrical solenoids ke through karta hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Glow plugs ka use kis type ke engine mein hota hai aur kyun?",
+      "options": {
+        "A": "Petrol engines mein spark generate karne ke liye",
+        "B": "Diesel engines mein cold start ke liye combustion chamber ko pre-heat karne ke liye",
+        "C": "Electric vehicles mein battery charging ke liye",
+        "D": "Hybrid engines mein auxiliary power ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Glow plugs diesel engines mein use hote hain. Ye fuel ko ignite karne ke liye compression heat par rely karte hain, aur cold weather mein engine start karne ke liye combustion chamber ko pre-heat karna zaroori hota hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Agar car misfire kar rahi hai aur CEL blink kar rahi hai, toh kya immediate action lena chahiye?",
+      "options": {
+        "A": "Zyada speed par chalana chahiye",
+        "B": "Car ko rok kar engine off karna chahiye aur mechanic se contact karna chahiye",
+        "C": "AC on karna chahiye",
+        "D": "Fuel tank full karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blinking CEL severe misfire indicate karta hai jo catalytic converter ko damage kar sakta hai. Aise mein vehicle ko immediately rok kar engine off karna aur repair karwana zaroori hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Headlights ke dim hone ka common reason kya ho sakta hai?",
+      "options": {
+        "A": "High beam switch kharab hai",
+        "B": "Battery low ya charging system mein problem hai",
+        "C": "Tail lights kharab hain",
+        "D": "Horn button stuck hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dim headlights low battery voltage ya charging system (alternator/voltage regulator) mein problem ka indication hai, jisse lights ko sufficient power nahi mil rahi."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Turn signal (indicator) blink nahi kar raha, toh kya check karna chahiye sabse pehle?",
+      "options": {
+        "A": "Brake fluid level",
+        "B": "Flasher relay ya fuse",
+        "C": "Engine oil pressure",
+        "D": "Tyre tread depth"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Turn signals ka blink na karna aksar faulty flasher relay, blown fuse, ya damaged bulb ka karan hota hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Car horn baj nahi raha, toh kya check karna chahiye?",
+      "options": {
+        "A": "Fuel filter",
+        "B": "Horn fuse, relay aur connections",
+        "C": "Power steering fluid",
+        "D": "Wiper blades"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Horn ke kaam na karne par, sabse pehle uska fuse, relay, wiring connections, aur khud horn unit ko check kiya jata hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Power window kaam nahi kar rahi, toh kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Engine overheating",
+        "B": "Blown fuse, faulty switch ya motor",
+        "C": "Flat tyre",
+        "D": "Exhaust leak"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Power window failure ke common reasons mein blown fuse, faulty window switch, ya power window motor ka kharab hona shamil hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Automotive wiring harness ka kya fayda hai?",
+      "options": {
+        "A": "Wires ko zyada flexible banana",
+        "B": "Wiring ko organize, protect aur install karna aasaan banana",
+        "C": "Wires ko invisible banana",
+        "D": "Wires ko conductive banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wiring harness wires ko ek bundle mein organize karta hai, unhe physical damage se bachata hai, aur vehicle mein installation ko simplify karta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Dome light (cabin light) ke fuse ko replace karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Kisi bhi fuse se replace kar dena chahiye",
+        "B": "Same amperage rating ke fuse se replace karna chahiye",
+        "C": "High amperage rating ke fuse se replace karna chahiye",
+        "D": "Fuse ko wire se bypass kar dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fuse ko hamesha same amperage rating ke fuse se replace karna chahiye. Incorrect fuse use karne se components damage ho sakte hain ya fire hazard ho sakta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Relay ka kya function hai automotive circuit mein?",
+      "options": {
+        "A": "Current ko step down karna",
+        "B": "Small electrical current se high current circuit ko control karna",
+        "C": "Voltage ko step up karna",
+        "D": "Resistance badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Relay ek electromagnetic switch hai jo ek low-current control signal (jaise ignition switch se) ka use karke high-current circuit (jaise starter motor ya headlights) ko switch karta hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "LED lights ke kya fayde hain halogen lights ke mukable?",
+      "options": {
+        "A": "Zyada garmi produce karte hain",
+        "B": "Kam energy consume karte hain aur zyada long-lasting hote hain",
+        "C": "Zyada expensive hote hain aur jaldi kharab hote hain",
+        "D": "Installation zyada mushkil hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LEDs (Light Emitting Diodes) halogen bulbs ke mukable bahut kam energy use karte hain, zyada bright hote hain, aur unki lifespan bahut zyada hoti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar ek headlight bulb baar-baar fuse blow kar raha hai, toh kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Battery bahut zyada charged hai",
+        "B": "Wire mein short circuit ya overcurrent hai",
+        "C": "Alternator overcharging kar raha hai",
+        "D": "Engine oil low hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Baar-baar fuse blow hona indicate karta hai ki circuit mein excessive current flow ho raha hai, jo aksar short circuit ya wire damage ke karan hota hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Power mirrors kaam nahi kar rahe, toh kya troubleshooting steps honge?",
+      "options": {
+        "A": "Engine compression check karna",
+        "B": "Fuse box check karna, wiring aur mirror switch ko test karna",
+        "C": "Tyre pressure adjust karna",
+        "D": "Exhaust system inspect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Power mirror failure mein fuse, wiring connections, mirror switch, aur mirror motor ko test karna zaroori hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Trailer wiring harness install karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Kisi bhi wire se connect kar dena chahiye",
+        "B": "Properly insulated aur weatherproof connections banane chahiye",
+        "C": "Wiring ko loose chhod dena chahiye",
+        "D": "Sirf positive wires connect karne chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Trailer wiring weather aur road conditions ke contact mein aata hai, isliye properly insulated aur weatherproof connections banana corrosion aur short circuits se bachne ke liye crucial hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "CAN bus system mein ek faulty module ka kya asar ho sakta hai?",
+      "options": {
+        "A": "Sirf us module ka function affect hoga",
+        "B": "Poore CAN bus network ka communication disrupt ho sakta hai",
+        "C": "Engine oil pressure badh jayega",
+        "D": "Fuel efficiency improve ho jayegi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CAN bus ek network hai. Agar ek module theek se kaam nahi karta ya short circuit ho jata hai, toh woh poore network ke communication ko block ya disrupt kar sakta hai, jisse multiple systems fail ho sakte hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Automotive electrical connectors ko waterproof banane ke liye kya use karte hain?",
+      "options": {
+        "A": "Normal tape",
+        "B": "Dielectric grease aur heat shrink tubing",
+        "C": "Cooking oil",
+        "D": "Plain wire"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dielectric grease electrical connections ko moisture aur corrosion se bachata hai, aur heat shrink tubing ek tight seal provide karta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar ek car mein aftermarket accessories install kiye gaye hain aur battery jaldi discharge ho rahi hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Tyre pressure",
+        "B": "Parasitic drain, especially from aftermarket accessories",
+        "C": "Engine coolant level",
+        "D": "Wiper fluid level"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aftermarket accessories often parasitic drains ka karan bante hain agar woh theek se wire na kiye gaye hon, jisse battery jaldi discharge ho sakti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Dashboard lights dim ya flicker kar rahi hain, kya reason ho sakta hai?",
+      "options": {
+        "A": "Fuel tank khaali hai",
+        "B": "Loose battery terminal, faulty ground connection, ya charging system issue",
+        "C": "Brake pads worn out hain",
+        "D": "Air filter clogged hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dim ya flickering lights electrical system mein voltage instability ka sign hai, jo loose connections, poor grounds, ya charging system ki problem se ho sakta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Reverse lights kaam nahi kar rahi, toh kya check karna chahiye?",
+      "options": {
+        "A": "Headlight bulbs",
+        "B": "Reverse light fuse, bulbs, aur reverse light switch (transmission par)",
+        "C": "Interior lights",
+        "D": "Fog lights"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reverse lights ke kaam na karne par, related fuse, bulbs, aur transmission par located reverse light switch ko check kiya jata hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Diagnostic Trouble Codes (DTCs) ko read karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Multimeter",
+        "B": "OBD-II scanner",
+        "C": "Hydrometer",
+        "D": "Timing light"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "OBD-II (On-Board Diagnostics II) scanner vehicle ke ECU se connect hokar diagnostic trouble codes ko read karta hai, jo system malfunctions ko identify karte hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Agar car start nahi ho rahi aur koi click sound nahi aa rahi, toh kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Fuel pump fuse blown hai",
+        "B": "Ignition switch, starter relay, ya starter motor mein problem hai",
+        "C": "Tyre puncture hai",
+        "D": "Windshield wipers kharab hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar koi click sound nahi hai, toh power starter motor tak nahi pahunch rahi. Iska matlab ignition switch, starter relay, fuse, ya wiring mein problem ho sakti hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Voltage drop test karne ka kya fayda hai?",
+      "options": {
+        "A": "Battery ka size check karna",
+        "B": "Circuit mein high resistance ya poor connections ko pinpoint karna",
+        "C": "Engine ki speed measure karna",
+        "D": "Fuel consumption check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Voltage drop test component par nahi, balki wire ya connection par kiya jata hai. Agar drop zyada hai, toh wahan resistance hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Agar ek circuit mein fuse baar-baar blow ho raha hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Low voltage",
+        "B": "Short circuit ya overcurrent",
+        "C": "High resistance",
+        "D": "Open circuit"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fuse baar-baar blow hone ka matlab hai ki circuit mein consistently rated current se zyada current flow ho raha hai, jo short circuit ka indication hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Parasitic drain test karne ke liye kaun sa tool use karte hain?",
+      "options": {
+        "A": "Voltmeter",
+        "B": "Ammeter",
+        "C": "Ohmmeter",
+        "D": "Pressure gauge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Parasitic drain test mein battery aur circuit ke beech series mein ammeter connect karke current draw measure kiya jata hai jab engine off ho."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Scan tool par 'P0301' DTC ka kya matlab hai?",
+      "options": {
+        "A": "Engine oil pressure low",
+        "B": "Cylinder 1 Misfire Detected",
+        "C": "Fuel pump circuit open",
+        "D": "Oxygen sensor faulty"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "P0301 ek generic OBD-II code hai jo 'Cylinder 1 Misfire Detected' ko indicate karta hai. P030x series misfires ke liye hoti hai, jahan 'x' cylinder number hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Agar alternator output voltage bahut kam hai (e.g., 12.5V engine running par), toh kya check karna chahiye?",
+      "options": {
+        "A": "Spark plugs",
+        "B": "Alternator belt tension, connections, aur alternator unit",
+        "C": "Fuel filter",
+        "D": "Brake fluid"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Low alternator output voltage ka matlab hai ki alternator theek se charge nahi kar raha. Iske liye belt tension, wiring connections, aur alternator ki internal health check karni chahiye."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Poor ground connection ka electrical system par kya asar hota hai?",
+      "options": {
+        "A": "Voltage increase hota hai",
+        "B": "Components ko intermittent power milti hai ya woh kaam nahi karte",
+        "C": "Current flow smooth hota hai",
+        "D": "Battery overcharge hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Poor ground connection circuit mein high resistance create karta hai, jisse components ko sufficient voltage nahi milta aur woh theek se kaam nahi karte ya bilkul nahi karte."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Intermittent electrical fault ko diagnose karna kyun mushkil hota hai?",
+      "options": {
+        "A": "Woh hamesha engine off hone par hi hote hain",
+        "B": "Woh sirf kabhi-kabhi ya specific conditions mein occur hote hain",
+        "C": "Unka koi DTC generate nahi hota",
+        "D": "Woh siraf visual inspection se detect ho jaate hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Intermittent faults irregular hote hain aur specific vibrations, temperature, ya load conditions mein hi appear hote hain, jisse unhe diagnose karna challenging ho jata hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Wiring diagram ka use troubleshooting mein kaise help karta hai?",
+      "options": {
+        "A": "Engine ka weight batata hai",
+        "B": "Components ke locations aur unke electrical connections ko samajhne mein help karta hai",
+        "C": "Tyre size batata hai",
+        "D": "Fuel type recommend karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wiring diagrams circuit path, component location, wire colors, aur connections ko visualize karne mein help karte hain, jo fault finding ke liye essential hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Agar ek car ka ECU communication lost ho gaya hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Wiper blades",
+        "B": "ECU fuses, power supply, ground connections aur CAN bus lines",
+        "C": "Seat belts",
+        "D": "Air filter"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ECU communication loss ek serious issue hai. Iske liye ECU ke power, ground, aur CAN bus connections ko meticulously check karna chahiye."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Oscilloscope ka use automotive diagnostics mein kya detect karne ke liye kiya jata hai?",
+      "options": {
+        "A": "Static voltage values",
+        "B": "Dynamic electrical signals (waveforms) jaise sensor outputs ya ignition patterns",
+        "C": "Fuel level",
+        "D": "Tyre pressure"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Oscilloscope real-time mein electrical signals (waveforms) ko display karta hai, jo intermittent faults, sensor glitches, ya ignition system ke timing issues ko diagnose karne mein invaluable hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Ammeter clamp (current clamp) ka kya fayda hai parasitic drain test mein?",
+      "options": {
+        "A": "Circuit ko break kiye bina current measure karna",
+        "B": "Voltage measure karna",
+        "C": "Resistance measure karna",
+        "D": "Temperature measure karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Ammeter clamp circuit ko disconnect kiye bina wire ke around current measure karta hai, jisse ECU ya other modules ki memory reset nahi hoti during parasitic drain test."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Agar car mein 'no start' condition hai aur starter motor ghum raha hai lekin engine fire nahi kar raha, toh kya troubleshoot karna chahiye?",
+      "options": {
+        "A": "Tyre pressure",
+        "B": "Fuel system (fuel pump, injectors) aur Ignition system (spark, coils)",
+        "C": "Wiper motor",
+        "D": "Power window switch"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar engine crank ho raha hai lekin start nahi ho raha, toh iska matlab hai ki fuel, spark, ya compression mein se koi ek missing hai. Fuel aur ignition systems ko check karna priority hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Check Engine Light (CEL) reset karne ke baad agar woh phir se aa jaye, toh iska kya matlab hai?",
+      "options": {
+        "A": "Problem solve ho gayi hai",
+        "B": "Underlying problem abhi bhi मौजूद hai aur usse fix karna zaroori hai",
+        "C": "Battery ko replace karna padega",
+        "D": "Engine ko tune-up ki zaroorat hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CEL reset karne se sirf light off hoti hai, problem fix nahi hoti. Agar underlying fault condition abhi bhi मौजूद hai, toh ECU use detect karke CEL ko phir se illuminate kar dega."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Agar ek car mein multiple electrical systems mein random faults aa rahe hain, toh kya common root cause ho sakta hai?",
+      "options": {
+        "A": "Dirty air filter",
+        "B": "Faulty ground connections ya poor battery connections",
+        "C": "Low fuel level",
+        "D": "Worn out brake pads"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Poor ground connections ya loose battery terminals poore vehicle ke electrical system mein voltage fluctuations aur random malfunctions ka karan ban sakte hain, kyunki sabhi circuits ko stable power aur return path ki zaroorat hoti hai."
+    }
+  ]
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "Solar Panel Installation Technician",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Solar Energy & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Solar Panel Components & Types",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Site Assessment & System Design Basics",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Solar Panel Installation Procedures",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Wiring, Inverters & Battery Storage",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Maintenance, Troubleshooting & Regulations",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Solar energy ka primary source kya hai?",
+      "options": {
+        "A": "Wind",
+        "B": "Water",
+        "C": "Sun",
+        "D": "Coal"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Solar energy ka mukhya srot suraj (sun) hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Solar panel install karte time kaun sa Personal Protective Equipment (PPE) sabse zaroori hai?",
+      "options": {
+        "A": "Safety goggles",
+        "B": "Helmet",
+        "C": "Safety harness",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Height par kaam karte samay safety harness, aur general safety ke liye goggles aur helmet sabhi zaroori hain."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ek off-grid solar system mein electricity store karne ke liye kya use hota hai?",
+      "options": {
+        "A": "Grid connection",
+        "B": "Batteries",
+        "C": "Hydro power",
+        "D": "Wind turbine"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Off-grid system mein, jo grid se connect nahi hota, batteries energy store karti hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Voltage ki unit kya hoti hai?",
+      "options": {
+        "A": "Ampere",
+        "B": "Watt",
+        "C": "Volt",
+        "D": "Ohm"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Voltage ko 'Volt' mein measure kiya jaata hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Solar energy ke kya advantages hain?",
+      "options": {
+        "A": "Renewable",
+        "B": "Environment friendly",
+        "C": "Low running cost",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Solar energy ek renewable, environment friendly aur low running cost wala energy source hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "DC current ka full form kya hai?",
+      "options": {
+        "A": "Direct Current",
+        "B": "Dynamic Current",
+        "C": "Digital Current",
+        "D": "Distributed Current"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DC ka matlab Direct Current hota hai, jo solar panels produce karte hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Kaun sa tool electrical wires cut karne ke liye use hota hai?",
+      "options": {
+        "A": "Hammer",
+        "B": "Pliers/Wire cutter",
+        "C": "Screwdriver",
+        "D": "Wrench"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pliers ya wire cutter electrical wires ko cut karne ke liye use hote hain."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Solar panels ko roof par install karte samay, kis cheez ka dhyaan rakhna sabse zaroori hai?",
+      "options": {
+        "A": "Panel ka colour",
+        "B": "Roof ki structural integrity",
+        "C": "Panel ka brand",
+        "D": "Installation ki speed"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Roof ki structural integrity check karna zaroori hai taaki woh panels ka weight bear kar sake."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Kaun sa solar system grid se connected hota hai aur excess power ko grid mein feed kar sakta hai?",
+      "options": {
+        "A": "Off-grid system",
+        "B": "Hybrid system",
+        "C": "On-grid system",
+        "D": "Stand-alone system"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "On-grid system utility grid se connected hota hai aur excess power feed-in kar sakta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Electrical shock se bachne ke liye kya precaution leni chahiye?",
+      "options": {
+        "A": "Insulated tools use karein",
+        "B": "Power supply disconnect karein",
+        "C": "PPE pehne",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Electrical shock se bachne ke liye insulated tools, power disconnect karna aur PPE pehenna sab zaroori hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Power (P) ka formula kya hota hai, agar Voltage (V) aur Current (I) diye gaye hon?",
+      "options": {
+        "A": "P = V + I",
+        "B": "P = V / I",
+        "C": "P = V * I",
+        "D": "P = I / V"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Electrical power ka formula P = V * I hota hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Solar panel installation mein 'earthing' (grounding) kyun important hai?",
+      "options": {
+        "A": "System ki efficiency badhane ke liye",
+        "B": "Lightning aur fault currents se safety ke liye",
+        "C": "Panel ko clean rakhne ke liye",
+        "D": "Aesthetic look ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Earthing system ko lightning strikes aur electrical faults se protect karta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Solar panel installation mein 'shading' ka kya impact hota hai?",
+      "options": {
+        "A": "Panel ki life badhti hai",
+        "B": "Panel ka output power kam ho jaata hai",
+        "C": "Panel zyada heat hota hai",
+        "D": "Panel ka weight kam ho jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shading se solar panel ka output power significantly kam ho jaata hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek technician ko height par kaam karte samay kaun se safety measures lene chahiye?",
+      "options": {
+        "A": "Only wear safety shoes",
+        "B": "Use a ladder without checking its stability",
+        "C": "Use safety harness and secure fall protection",
+        "D": "Work alone to avoid distractions"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Height par kaam karte samay safety harness aur fall protection ka use karna anivarya hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Agar kisi solar system mein AC aur DC dono loads hon, toh kaun sa system prefer kiya jaata hai?",
+      "options": {
+        "A": "On-grid system",
+        "B": "Off-grid system",
+        "C": "Hybrid system",
+        "D": "Micro-grid system"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Hybrid system AC aur DC dono loads ko handle kar sakta hai, aur grid connection ke saath battery storage bhi provide karta hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Solar panel installation ke time 'hot spots' kya hote hain aur inka kya nuksaan hai?",
+      "options": {
+        "A": "Panel ka garmi absorb karne ka point, efficiency badhata hai",
+        "B": "Panel par zyada dhoop padne wala area, overheating aur damage kar sakta hai",
+        "C": "Panel ke cooling points, panel ko thanda rakhte hain",
+        "D": "Panel ke electrical connection points, jahan voltage sabse zyada hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hot spots panel ke woh areas hain jahan zyada resistance ya shading ke kaaran heat build-up hota hai, jo panel ko permanently damage kar sakta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek technician ko electrical fire ki situation mein kaun sa fire extinguisher use karna chahiye?",
+      "options": {
+        "A": "Water based extinguisher",
+        "B": "Foam based extinguisher",
+        "C": "CO2 or Dry Chemical (Class C) extinguisher",
+        "D": "Sand bucket"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Electrical fires (Class C) ke liye CO2 ya Dry Chemical fire extinguisher use karna chahiye, water based extinguishers electrical shock ka risk badha sakte hain."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Solar panels kis principle par kaam karte hain?",
+      "options": {
+        "A": "Electromagnetic induction",
+        "B": "Photovoltaic effect",
+        "C": "Thermoelectric effect",
+        "D": "Piezoelectric effect"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Solar panels photovoltaic effect ka upyog karke sunlight ko electricity mein convert karte hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "MC4 connectors ka use kis liye hota hai?",
+      "options": {
+        "A": "AC wiring ke liye",
+        "B": "Solar panels ko series/parallel mein connect karne ke liye",
+        "C": "Batteries ko connect karne ke liye",
+        "D": "Inverter ko grid se connect karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MC4 connectors specifically solar panels ke DC wiring connections ke liye design kiye gaye hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Kaun sa solar panel type sabse zyada efficient mana jaata hai?",
+      "options": {
+        "A": "Polycrystalline",
+        "B": "Monocrystalline",
+        "C": "Thin-film",
+        "D": "Amorphous"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Monocrystalline panels generally sabse zyada efficiency provide karte hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Solar panel ke piche jo junction box hota hai, usmein kya hota hai?",
+      "options": {
+        "A": "Inverter",
+        "B": "Batteries",
+        "C": "Bypass diodes",
+        "D": "Charge controller"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Junction box mein bypass diodes hote hain jo shading ke case mein current flow ko maintain karte hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Solar cables ko UV radiation se bachane ke liye unmein kya feature hota hai?",
+      "options": {
+        "A": "Thin insulation",
+        "B": "Metallic shield",
+        "C": "UV resistant insulation",
+        "D": "Transparent coating"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Solar cables UV resistant insulation ke saath aate hain taaki woh dhoop mein kharab na hon."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Solar panel ki nameplate par 'Pmax' kya indicate karta hai?",
+      "options": {
+        "A": "Minimum power output",
+        "B": "Maximum voltage",
+        "C": "Maximum power output",
+        "D": "Panel ki physical size"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Pmax ka matlab Maximum Power output hai jo panel standard test conditions (STC) par generate kar sakta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Solar panel ke mounting structure ka main purpose kya hai?",
+      "options": {
+        "A": "Panels ko decorate karna",
+        "B": "Panels ko sahi angle par hold karna aur secure rakhna",
+        "C": "Panel se current flow ko control karna",
+        "D": "Panel ko cool rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mounting structure panels ko sahi tilt angle aur orientation par fix karta hai aur unhein weather se protect karta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Polycrystalline solar panels monocrystalline panels se kaise alag hote hain?",
+      "options": {
+        "A": "Inki efficiency zyada hoti hai",
+        "B": "Yeh single crystal se bane hote hain",
+        "C": "Yeh multiple silicon crystals se bane hote hain aur kam costly hote hain",
+        "D": "Yeh sirf off-grid systems mein use hote hain"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Polycrystalline panels multiple silicon crystals se bante hain, jo unhein monocrystalline se kam efficient aur kam costly banata hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Solar panel ki 'Voc' (Open Circuit Voltage) kya darshata hai?",
+      "options": {
+        "A": "Panel ka operating current",
+        "B": "Panel ka maximum voltage jab koi load connect na ho",
+        "C": "Panel ka maximum power point voltage",
+        "D": "Panel ka operating voltage"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Voc woh maximum voltage hai jo panel generate karta hai jab usse koi load connect na ho aur current zero ho."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Thin-film solar panels ke kya fayde hain?",
+      "options": {
+        "A": "Highest efficiency",
+        "B": "Flexible aur lightweight ho sakte hain",
+        "C": "Zyada space mein kam power output dete hain",
+        "D": "Costliest hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Thin-film panels flexible, lightweight hote hain aur kam light conditions mein bhi acha perform karte hain, although unki efficiency kam hoti hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Solar panel installation mein 'string' ka kya matlab hai?",
+      "options": {
+        "A": "Ek single solar panel",
+        "B": "Kai panels ko parallel mein connect karna",
+        "C": "Kai panels ko series mein connect karna",
+        "D": "Panel ko roof par secure karne wali rope"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek string tab banti hai jab kai solar panels ko series mein connect kiya jaata hai taaki total voltage badh sake."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Solar panel ki efficiency ko kaun se factors affect karte hain?",
+      "options": {
+        "A": "Temperature, shading, dust",
+        "B": "Panel ka physical size only",
+        "C": "Wind speed only",
+        "D": "Installation ki height only"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Temperature, shading aur dust solar panel ki efficiency ko directly affect karte hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Solar panel mein use hone wale 'bypass diodes' ka kya role hai?",
+      "options": {
+        "A": "Voltage ko regulate karna",
+        "B": "Current ko reverse flow hone se rokna",
+        "C": "Shaded cells se current ko bypass karna",
+        "D": "Panel ko AC current mein convert karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bypass diodes shaded ya damaged cells ko bypass karke string ke baki healthy cells se current flow maintain karte hain, jisse power loss kam hota hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Solar panel ki 'Degradation Rate' ka kya matlab hai?",
+      "options": {
+        "A": "Panel ki physical appearance ka kharab hona",
+        "B": "Panel ki efficiency ka time ke saath kam hona",
+        "C": "Panel ka weight kam hona",
+        "D": "Panel ka installation cost"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Degradation rate woh dar hai jis par solar panel ki power output efficiency har saal kam hoti hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Agar aapko high current aur low voltage chahiye, toh panels ko kaise connect karenge?",
+      "options": {
+        "A": "Series mein",
+        "B": "Parallel mein",
+        "C": "Hybrid connection mein",
+        "D": "Ek single panel use karenge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Panels ko parallel mein connect karne se total current badhta hai jabki voltage same rehta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Kaun sa factor solar panel ke 'Temperature Coefficient' ko define karta hai?",
+      "options": {
+        "A": "Panel ka output power par temperature change ka asar",
+        "B": "Panel ka resistance temperature ke saath",
+        "C": "Panel ki physical size par temperature ka asar",
+        "D": "Panel ka colour temperature ke saath"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Temperature Coefficient batata hai ki panel ka output power kitna change hoga jab uska operating temperature badlega ya kam hoga."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Solar panel ke backsheet ka primary function kya hai?",
+      "options": {
+        "A": "Sunlight ko reflect karna",
+        "B": "Panel ko mechanical damage aur moisture se protect karna",
+        "C": "Panel ki efficiency badhana",
+        "D": "Panel ko aesthetically pleasing banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Backsheet panel ko moisture, UV radiation, aur physical damage se protect karta hai aur electrical insulation bhi provide karta hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Site assessment karte samay sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Owner ka pasandida panel brand",
+        "B": "Roof ki condition aur orientation",
+        "C": "Panel ka colour",
+        "D": "Inverter ka size"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Roof ki condition aur orientation solar panel installation ke liye critical factors hain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Solar panels ko kis direction mein install karna sabse beneficial hota hai India mein?",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "East",
+        "D": "West"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "India mein, panels ko South direction mein install karna maximum sunlight capture karta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Load calculation ka kya purpose hai?",
+      "options": {
+        "A": "Panel ka weight calculate karna",
+        "B": "Ghar ki total electricity consumption estimate karna",
+        "C": "Installation ki height determine karna",
+        "D": "Battery ka colour decide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Load calculation se yeh pata chalta hai ki system ko kitni electricity generate karni hai, jisse system sizing mein help milti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Shading analysis ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Tape measure",
+        "B": "Solar pathfinder ya shading analysis app",
+        "C": "Voltmeter",
+        "D": "Hammer"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Solar pathfinder ya specialized apps site par shading patterns ko analyze karne mein help karte hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Roof-mounted system ke liye roof ka 'tilt angle' kis cheez par depend karta hai?",
+      "options": {
+        "A": "Owner ki height",
+        "B": "Panel ka brand",
+        "C": "Site ka geographical latitude",
+        "D": "Inverter ka type"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Optimal tilt angle site ke latitude par depend karta hai taaki saal bhar maximum sunlight capture ho sake."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Ek residential solar system ke liye average daily energy consumption kis unit mein measure ki jaati hai?",
+      "options": {
+        "A": "Watts",
+        "B": "Kilowatt-hours (kWh)",
+        "C": "Amperes",
+        "D": "Volts"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Daily energy consumption kilowatt-hours (kWh) mein measure ki jaati hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Site survey ke dauran roof par 'obstructions' kya ho sakte hain?",
+      "options": {
+        "A": "Chimney, trees, adjacent buildings",
+        "B": "Solar panels",
+        "C": "Inverter",
+        "D": "Batteries"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Chimney, trees aur aas-paas ki buildings shading create kar sakti hain, jo obstructions hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Solar system design mein 'sizing' ka kya matlab hai?",
+      "options": {
+        "A": "Panels ka physical size determine karna",
+        "B": "System ke components (panels, inverter, battery) ki capacity decide karna",
+        "C": "Installation area ka size determine karna",
+        "D": "Wiring ka diameter decide karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "System sizing mein yeh decide kiya jaata hai ki kitne panels, kitni capacity ka inverter aur kitni capacity ki batteries required hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Net metering kis type ke solar system mein commonly use hota hai?",
+      "options": {
+        "A": "Off-grid system",
+        "B": "Stand-alone system",
+        "C": "On-grid system",
+        "D": "DC coupled system"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Net metering on-grid systems mein use hota hai jahan excess solar power grid ko export kiya jaata hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Agar kisi ghar mein AC consumption zyada hai, toh kaun sa inverter type prefer kiya jaayega?",
+      "options": {
+        "A": "DC-DC converter",
+        "B": "Microinverter",
+        "C": "String inverter",
+        "D": "AC-DC converter"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "String inverter residential aur commercial AC loads ke liye commonly use hota hai, microinverters bhi AC output dete hain but har panel ke liye alag hote hain."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Ek solar technician ko site assessment report mein kya include karna chahiye?",
+      "options": {
+        "A": "Roof dimensions, shading analysis, load calculation, proposed system layout",
+        "B": "Sirf owner ka naam aur address",
+        "C": "Sirf panel ka colour preference",
+        "D": "Sirf total installation cost"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ek comprehensive site assessment report mein roof details, shading, load aur proposed system layout shamil hona chahiye."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Solar system design mein 'redundancy' ka kya matlab hai?",
+      "options": {
+        "A": "System mein extra panels lagana",
+        "B": "System mein backup components rakhna taaki ek fail hone par dusra kaam kar sake",
+        "C": "System ko kam capacity ka banana",
+        "D": "System ko sirf ek type ke load ke liye design karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Redundancy ka matlab hai system mein backup components rakhna taaki koi ek component fail hone par system continue kaam karta rahe."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Agar roof ka orientation South-East hai, toh panels ko kaise adjust karenge maximum output ke liye?",
+      "options": {
+        "A": "Pure South face karenge",
+        "B": "South-East face karenge aur tilt angle adjust karenge",
+        "C": "North face karenge",
+        "D": "West face karenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar roof South-East oriented hai, toh panels ko usi direction mein lagayenge aur tilt angle ko optimize karenge taaki morning sun ka zyada fayda mile."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Kisi site par high wind speed ka factor solar panel installation design mein kaise consider kiya jaata hai?",
+      "options": {
+        "A": "Panels ko kam tilt par lagana",
+        "B": "Stronger mounting structures aur extra bracing use karna",
+        "C": "Kam efficient panels use karna",
+        "D": "Panels ko ground par install karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High wind areas mein, panels ko secure karne ke liye stronger mounting structures aur extra bracing ki zaroorat hoti hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Ek hilly area mein jahan uneven terrain hai, wahan kaun sa mounting system prefer kiya jaayega?",
+      "options": {
+        "A": "Roof-mounted system",
+        "B": "Ground-mounted system with adjustable racks",
+        "C": "Floating solar system",
+        "D": "Integrated PV system"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Uneven terrain par ground-mounted systems with adjustable racks zyada suitable hote hain taaki panels ko level aur optimal tilt par rakha ja sake."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Agar customer ka future load increase ka plan hai, toh system design mein kya consideration lenge?",
+      "options": {
+        "A": "Smaller inverter size use karenge",
+        "B": "Modular design approach apnayenge taaki future mein panels aur components add kiye ja sakein",
+        "C": "Sirf current load ke liye design karenge",
+        "D": "Customer ko solar system install na karne ki salah denge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Modular design future expansion ke liye flexibility provide karta hai, jahan additional panels aur components as needed add kiye ja sakte hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Solar system design mein 'balance of system' (BOS) components mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf solar panels",
+        "B": "Inverter aur batteries only",
+        "C": "Mounting structures, wiring, inverters, disconnects, monitoring systems, etc.",
+        "D": "Sirf labour cost"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "BOS mein panels ke alawa sabhi components shamil hote hain jaise mounting, wiring, inverters, safety devices, monitoring, etc."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Solar panels install karne se pehle roof par kya check karna zaroori hai?",
+      "options": {
+        "A": "Roof ka colour",
+        "B": "Roof ki waterproof integrity",
+        "C": "Neighbours ke ghar ki height",
+        "D": "Roof par kitni dhool hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Roof ki waterproof integrity check karna zaroori hai taaki installation ke baad leakage na ho."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Mounting rails ko roof par kis cheez se secure kiya jaata hai?",
+      "options": {
+        "A": "Glue",
+        "B": "Bolts/Screws/Clamps",
+        "C": "Ropes",
+        "D": "Tape"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mounting rails ko bolts, screws ya clamps se roof rafters ya purlins par secure kiya jaata hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Solar panels ko rails par secure karne ke liye kaun se components use hote hain?",
+      "options": {
+        "A": "Wire ties",
+        "B": "Mid-clamps aur End-clamps",
+        "C": "Nails",
+        "D": "Velcro straps"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mid-clamps panels ke beech mein aur End-clamps string ke end panels ko secure karte hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "DC cables ko sunlight se protect karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Plastic bags",
+        "B": "Conduits ya cable trays",
+        "C": "Aluminium foil",
+        "D": "Cloth tape"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Conduits ya cable trays cables ko physical damage aur UV exposure se protect karte hain."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Solar panel installation ke baad sabse pehla electrical connection kya check karna chahiye?",
+      "options": {
+        "A": "AC output voltage",
+        "B": "DC voltage aur polarity",
+        "C": "Battery level",
+        "D": "Grid connection"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "DC voltage aur polarity check karna pehla step hai taaki system proper function kare aur damage na ho."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Roof par panels utarte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Panels ko tezi se fekna chahiye",
+        "B": "Lift ya rope system ka use karna chahiye",
+        "C": "Panels ko ek ke upar ek rakhna chahiye",
+        "D": "Panels ko bina support ke chhod dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Panels ko carefully lift ya rope system se utarna chahiye taaki damage na ho aur safety bani rahe."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Ground-mounted solar system mein foundation kis cheez se banaya jaata hai?",
+      "options": {
+        "A": "Wood",
+        "B": "Plastic",
+        "C": "Concrete ya steel piles",
+        "D": "Cardboard"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ground-mounted systems ke liye strong foundation concrete ya steel piles se banaya jaata hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Solar panel installation mein 'stringing' ka kya matlab hai?",
+      "options": {
+        "A": "Panels ko clean karna",
+        "B": "Panels ko series mein connect karna",
+        "C": "Panels ko parallel mein connect karna",
+        "D": "Panels ko painting karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stringing ka matlab hai panels ko series mein connect karke ek high voltage DC circuit banana."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Agar roof uneven hai ya uspar obstacles hain, toh panels ko kaise arrange karenge?",
+      "options": {
+        "A": "Sirf flat areas par install karenge",
+        "B": "Obstacles ko ignore karenge",
+        "C": "Custom mounting solutions aur careful panel layout design karenge",
+        "D": "Installation cancel kar denge"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Uneven roofs aur obstacles ke liye custom mounting solutions aur careful panel layout design karna padta hai taaki shading kam ho."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Solar panel array ki proper earthing (grounding) kyun important hai?",
+      "options": {
+        "A": "System ki efficiency badhane ke liye",
+        "B": "Electrical safety aur lightning protection ke liye",
+        "C": "Panel ka weight kam karne ke liye",
+        "D": "System ko zyada aesthetically pleasing banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Earthing electrical faults aur lightning strikes se system aur users ko protect karta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Solar panel installation mein 'conduit' ka kya role hai?",
+      "options": {
+        "A": "Panels ko support dena",
+        "B": "Electrical wires ko protect karna",
+        "C": "Panels ko clean karna",
+        "D": "Inverter ko mount karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Conduit electrical wires ko physical damage, moisture aur UV rays se protect karta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Solar panels ko install karte samay 'torque wrench' ka use kyun zaroori hai?",
+      "options": {
+        "A": "Fasteners ko over-tighten na karne ke liye",
+        "B": "Fasteners ko loose rakhne ke liye",
+        "C": "Panels ko adjust karne ke liye",
+        "D": "Wires ko strip karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Torque wrench fasteners ko specified torque par tighten karne ke liye use hota hai, taaki over-tightening se damage na ho aur connection secure rahe."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Solar array mein 'inter-row spacing' ka kya importance hai?",
+      "options": {
+        "A": "Panels ke beech mein jagah chhodna",
+        "B": "Ek row ke panels ki shading dusri row par na pade",
+        "C": "Installation ko asaan banana",
+        "D": "Cable management ke liye space banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Inter-row spacing is important to ensure that one row of panels does not shade the row behind it, especially during winter months."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Flat roof par solar panels install karte samay kaun sa mounting system prefer kiya jaata hai?",
+      "options": {
+        "A": "Flush-mounted system",
+        "B": "Ballasted or tilted rack system",
+        "C": "Integrated PV system",
+        "D": "Ground-mounted system"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flat roofs par panels ko optimal tilt angle dene ke liye ballasted ya tilted rack systems use kiye jaate hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Solar panel installation mein 'module-level power electronics' (MLPE) ka kya fayda hai?",
+      "options": {
+        "A": "Sirf panel ke colour ko improve karta hai",
+        "B": "Har panel ke output ko individually optimize karta hai, shading ke impact ko kam karta hai",
+        "C": "System ka total weight kam karta hai",
+        "D": "Installation cost badhata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "MLPE (jaise microinverters ya power optimizers) har panel ke performance ko optimize karta hai, jisse shading ya mismatch ke effects kam hote hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar aapko existing building par solar panels lagane hain, toh kis cheez ka detailed structural analysis zaroori hai?",
+      "options": {
+        "A": "Building ka height",
+        "B": "Building ki foundation aur roof ki load-bearing capacity",
+        "C": "Building ka age",
+        "D": "Building ka paint colour"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Existing building par panels lagane se pehle uski structural integrity aur load-bearing capacity ka detailed analysis zaroori hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Solar panels ko install karte samay 'thermal expansion' ko kaise accommodate kiya jaata hai?",
+      "options": {
+        "A": "Panels ko tight-fit install karte hain",
+        "B": "Mounting structures aur panels ke beech mein thoda gap chhodte hain",
+        "C": "Panels ko sirf thande mausam mein install karte hain",
+        "D": "Panels ko paint karte hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Thermal expansion aur contraction ko accommodate karne ke liye mounting structures aur panels ke beech mein thoda gap chhodna zaroori hai taaki material stress na ho."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Inverter ka main function kya hai?",
+      "options": {
+        "A": "DC current ko store karna",
+        "B": "DC current ko AC current mein convert karna",
+        "C": "AC current ko DC current mein convert karna",
+        "D": "Solar panels ko clean karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inverter solar panels se generate hone wale DC current ko ghar ke appliances ke liye usable AC current mein convert karta hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Batteries ko solar system mein kyun use kiya jaata hai?",
+      "options": {
+        "A": "Voltage badhane ke liye",
+        "B": "Extra power store karne ke liye for later use",
+        "C": "System ka weight badhane ke liye",
+        "D": "AC current generate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Batteries excess solar energy ko store karti hain taaki use raat mein ya kam dhoop wale din use kiya ja sake."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Kaun sa device battery ko overcharge hone se bachata hai?",
+      "options": {
+        "A": "Inverter",
+        "B": "Charge controller",
+        "C": "Circuit breaker",
+        "D": "Transformer"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Charge controller battery ko overcharge ya deep discharge hone se protect karta hai, uski life badhata hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Solar panel array mein 'DC Disconnect' switch ka kya purpose hai?",
+      "options": {
+        "A": "AC power ko off karna",
+        "B": "DC power flow ko manually stop karna for safety/maintenance",
+        "C": "Batteries ko charge karna",
+        "D": "Inverter ko reboot karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "DC Disconnect switch safety ke liye solar array aur inverter ke beech DC power ko isolate karta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Agar aapko total voltage badhana hai, toh panels ko kaise connect karenge?",
+      "options": {
+        "A": "Parallel mein",
+        "B": "Series mein",
+        "C": "Alag-alag",
+        "D": "Cross connection"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Panels ko series mein connect karne se individual panel voltages add ho jaate hain, jisse total voltage badhta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Grid-tied inverter ko kahan install kiya jaata hai?",
+      "options": {
+        "A": "Roof par panels ke paas",
+        "B": "Batteries ke paas",
+        "C": "Electrical service panel (meter) ke paas",
+        "D": "Kitchen mein"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Grid-tied inverter ko electrical service panel ke paas install kiya jaata hai taaki woh grid se easily connect ho sake."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Kaun sa battery type off-grid solar systems mein commonly use hota hai?",
+      "options": {
+        "A": "AA batteries",
+        "B": "Lead-acid batteries",
+        "C": "Alkaline batteries",
+        "D": "Button cell batteries"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lead-acid batteries (jaise deep cycle batteries) off-grid solar systems mein cost-effective aur reliable option hain."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "String inverter aur microinverter mein kya difference hai?",
+      "options": {
+        "A": "String inverter har panel ke liye hota hai, microinverter poore string ke liye",
+        "B": "String inverter poore string ke liye hota hai, microinverter har panel ke liye",
+        "C": "Dono same hain",
+        "D": "Microinverter sirf DC output deta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "String inverter ek ya do strings of panels ko handle karta hai, jabki microinverter har individual panel ke liye hota hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Solar wiring mein 'gauge' ka kya matlab hai?",
+      "options": {
+        "A": "Wire ka colour",
+        "B": "Wire ki length",
+        "C": "Wire ka diameter/thickness",
+        "D": "Wire ka material"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Wire gauge wire ke diameter ya thickness ko refer karta hai, jo current carrying capacity ko determine karta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Agar batteries ko series mein connect kiya jaaye, toh total voltage aur Ah rating par kya asar padega?",
+      "options": {
+        "A": "Voltage badhega, Ah rating same rahegi",
+        "B": "Voltage same rahega, Ah rating badhegi",
+        "C": "Dono badhenge",
+        "D": "Dono kam honge"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Batteries ko series mein connect karne se voltage add hota hai, jabki Ah rating (capacity) same rehti hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Hybrid inverter ka kya fayda hai?",
+      "options": {
+        "A": "Sirf off-grid use hota hai",
+        "B": "Sirf on-grid use hota hai",
+        "C": "Grid-tied aur battery backup dono provide karta hai",
+        "D": "Sirf DC loads ke liye hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Hybrid inverters grid se connect ho sakte hain aur batteries ko charge/discharge bhi kar sakte hain, jisse backup power milta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Solar system mein 'AC Disconnect' switch ka kya role hai?",
+      "options": {
+        "A": "DC side ko isolate karna",
+        "B": "Inverter ko AC grid se isolate karna",
+        "C": "Batteries ko disconnect karna",
+        "D": "Solar panels ko disconnect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AC Disconnect switch inverter ko AC grid se manually isolate karta hai, jo safety aur maintenance ke liye zaroori hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Lithium-ion batteries lead-acid batteries se kaise better hain solar applications mein?",
+      "options": {
+        "A": "Kam costly, kam life cycle",
+        "B": "Halki, zyada energy density, zyada life cycle, fast charging",
+        "C": "Heavy, slow charging",
+        "D": "Maintenance free nahi hoti"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Lithium-ion batteries lightweight, high energy density, longer life cycle aur faster charging capabilities ke saath aati hain."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "MPPT charge controller ka kya fayda hai PWM charge controller ke upar?",
+      "options": {
+        "A": "Zyada costly hota hai",
+        "B": "Kam efficient hota hai",
+        "C": "Solar panel se maximum power extract karta hai, especially in varying conditions",
+        "D": "Sirf low power systems ke liye hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "MPPT (Maximum Power Point Tracking) charge controllers solar panel se maximum available power extract karte hain, jisse overall system efficiency badhti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Agar inverter 'fault' dikha raha hai, toh pehla troubleshooting step kya hoga?",
+      "options": {
+        "A": "Inverter ko replace karna",
+        "B": "Power supply check karna, wiring connections inspect karna, error code dekhna",
+        "C": "Customer ko complain karne ko kehna",
+        "D": "Panels ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Inverter fault par power supply, wiring connections aur error code check karna pehla troubleshooting step hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Solar system mein 'Arc Fault Circuit Interrupter' (AFCI) ka kya role hai?",
+      "options": {
+        "A": "Overcurrent se bachana",
+        "B": "Short circuit se bachana",
+        "C": "Dangerous electrical arcs ko detect aur interrupt karna",
+        "D": "Voltage ko regulate karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "AFCI dangerous electrical arcs ko detect karta hai jo faulty wiring ya damaged insulation se ho sakte hain, aur fire risk ko kam karta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Solar panels ki routine maintenance mein kya shamil hai?",
+      "options": {
+        "A": "Panels ko har din change karna",
+        "B": "Panels ko saaf karna aur visual inspection karna",
+        "C": "Panels ko paint karna",
+        "D": "Panels ko hamesha off rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Routine maintenance mein panels ko dust aur debris se saaf karna aur physical damage ke liye inspect karna shamil hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Agar solar system output kam de raha hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Panel ka colour",
+        "B": "Shading, dust accumulation, inverter error codes",
+        "C": "Neighbour ke panels",
+        "D": "System ka age only"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Low output ke common reasons mein shading, dust aur inverter faults shamil hain."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Solar cables ki lifespan badhane ke liye kya karna chahiye?",
+      "options": {
+        "A": "Unhein open air mein chhod dena",
+        "B": "Unhein conduits mein install karna",
+        "C": "Unhein baar-baar cut karna",
+        "D": "Unhein paint karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cables ko conduits mein install karne se woh physical damage aur environmental factors se protected rehte hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Solar panel installation ke liye kaun se Indian standard (BIS) codes follow karne chahiye?",
+      "options": {
+        "A": "Only international codes",
+        "B": "Relevant IS codes for electrical safety and solar PV installations",
+        "C": "No specific codes required",
+        "D": "Only local building codes"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Indian standards (BIS) codes ko follow karna zaroori hai electrical safety aur quality assurance ke liye."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Solar system ka performance monitor karne ke liye kya use hota hai?",
+      "options": {
+        "A": "Weather report",
+        "B": "Monitoring apps ya web portals",
+        "C": "Newspaper",
+        "D": "Radio"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Monitoring apps ya web portals system ke real-time performance data ko track karne mein help karte hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Battery-based solar systems mein batteries ki health check karne ke liye kya check karte hain?",
+      "options": {
+        "A": "Battery ka colour",
+        "B": "Voltage, specific gravity (lead-acid), visual inspection for corrosion",
+        "C": "Battery ka weight",
+        "D": "Battery ki manufacturing date only"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Battery health check karne ke liye voltage, specific gravity aur corrosion ki visual inspection zaroori hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Agar inverter 'no AC output' error dikha raha hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "DC input voltage from panels",
+        "B": "Grid connection aur AC disconnect switch",
+        "C": "Batteries ka charge level",
+        "D": "Panel ka orientation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "No AC output error ka matlab ho sakta hai ki grid connection loose hai ya AC disconnect switch off hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Solar panel ki cleaning ke liye kaun sa material use karna chahiye?",
+      "options": {
+        "A": "Rough brush aur harsh chemicals",
+        "B": "Soft brush/cloth aur clean water (mild detergent if needed)",
+        "C": "High-pressure washer",
+        "D": "Sandpaper"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Panels ko soft brush/cloth aur clean water se saaf karna chahiye taaki surface scratch na ho."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Solar system ke 'preventive maintenance' ka kya fayda hai?",
+      "options": {
+        "A": "System ko jaldi kharab karna",
+        "B": "System ki lifespan badhana aur unexpected breakdowns kam karna",
+        "C": "Electricity bill badhana",
+        "D": "System ko zyada noise karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Preventive maintenance system ki lifespan badhata hai aur major faults ko hone se rokta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Solar panel installation mein 'warranty' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf panel ka colour ki guarantee",
+        "B": "Product ki performance aur durability ki guarantee",
+        "C": "Installation ki speed ki guarantee",
+        "D": "Free electricity for life"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Warranty product ki performance, material aur workmanship ki guarantee hoti hai ek specified period ke liye."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Agar solar system mein 'reverse current flow' detect ho, toh kya action lenge?",
+      "options": {
+        "A": "System ko ignore kar denge",
+        "B": "System ko immediately disconnect karenge aur issue investigate karenge (e.g., faulty diode, wiring error)",
+        "C": "Aur panels add karenge",
+        "D": "Inverter ko reset karenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reverse current flow system ko damage kar sakta hai, isliye immediate disconnection aur investigation zaroori hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Solar panel ke 'hot spot' ko kaise identify aur rectify kiya jaata hai?",
+      "options": {
+        "A": "Sirf visual inspection se",
+        "B": "Thermal camera se detect karke aur shading remove karke ya bypass diode check karke",
+        "C": "Panel ko pani se dhokar",
+        "D": "Panel ko paint karke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hot spots ko thermal camera se detect kiya jaata hai, aur rectify karne ke liye shading remove karna ya faulty bypass diode replace karna padta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Solar system ke 'performance ratio' (PR) ka kya significance hai?",
+      "options": {
+        "A": "System ki installation cost",
+        "B": "System ki actual output aur theoretical output ka ratio, jo system ki overall quality batata hai",
+        "C": "Panel ka physical size",
+        "D": "Inverter ka colour"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Performance ratio system ki efficiency ka ek key indicator hai, jo batata hai ki system kitni achi tarah se perform kar raha hai ideal conditions ke comparison mein."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Solar system ke end-user ko 'safety guidelines' mein kya educate karna chahiye?",
+      "options": {
+        "A": "Sirf cleaning instructions",
+        "B": "Emergency shutdown procedures, do's and don'ts, monitoring system usage",
+        "C": "Only how to pay bills",
+        "D": "Panel ka manufacturing process"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "End-user ko system ki safety features, emergency procedures aur basic monitoring ke baare mein inform karna zaroori hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Agar solar system continuous 'low power' output de raha hai despite clear weather, toh kya advanced troubleshooting step lenge?",
+      "options": {
+        "A": "Inverter firmware update check karenge, panel string voltages individually measure karenge, cabling ki integrity check karenge",
+        "B": "Sirf panel ko saaf karenge",
+        "C": "Customer ko naya system lene ki salah denge",
+        "D": "System ko off kar denge"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Advanced troubleshooting mein inverter firmware, individual string voltages aur cabling ki integrity check karna shamil hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Solar panel installation ke 'documentation' mein kya shamil hona chahiye?",
+      "options": {
+        "A": "Sirf invoice",
+        "B": "System design drawings, equipment spec sheets, warranty info, maintenance schedule, contact details",
+        "C": "Sirf customer ka phone number",
+        "D": "Installation team ki photo"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Comprehensive documentation mein system design, equipment details, warranty, maintenance plan aur contact info shamil hona chahiye."
+    }
+  ]
+}

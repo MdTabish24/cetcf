@@ -1,0 +1,1443 @@
+{
+  "course_name": "Python Programming — Beginner to Job Ready",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Intermediate",
+  "duration": "4 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Python Basics & Setup",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Data Structures & Functions",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Object-Oriented Programming (OOP)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "File I/O, Error Handling & Modules",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Advanced Python Concepts",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Practical Applications & Libraries",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which command is used to install a Python package named 'requests' using pip?",
+      "options": {
+        "A": "pip install requests",
+        "B": "python install requests",
+        "C": "install requests",
+        "D": "get requests"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The 'pip install' command is the standard way to install Python packages."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "What is the output of the following Python code snippet?\nx = 10\ny = '20'\nz = x + int(y)\nprint(z)",
+      "options": {
+        "A": "1020",
+        "B": "30",
+        "C": "TypeError",
+        "D": "2010"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The string '20' is converted to an integer 20 using `int()`, then added to 10, resulting in 30."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Which of the following is NOT a valid Python variable name?",
+      "options": {
+        "A": "my_variable",
+        "B": "_privateVar",
+        "C": "2nd_variable",
+        "D": "variableName"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Python variable names cannot start with a digit. They must start with a letter or an underscore."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "What is the primary purpose of using a virtual environment in Python development?",
+      "options": {
+        "A": "To speed up code execution.",
+        "B": "To isolate project dependencies and avoid conflicts.",
+        "C": "To compile Python code into machine code.",
+        "D": "To create a graphical user interface for applications."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Virtual environments allow you to manage separate package installations for different projects, preventing conflicts between package versions required by various projects."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "What will be the value of `result` after this operation?\n`result = 15 // 4`",
+      "options": {
+        "A": "3.75",
+        "B": "3",
+        "C": "4",
+        "D": "3.0"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `//` operator performs floor division, which returns the integer part of the quotient."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Which of the following data types is immutable in Python?",
+      "options": {
+        "A": "list",
+        "B": "dict",
+        "C": "tuple",
+        "D": "set"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Tuples are immutable, meaning their elements cannot be changed after creation. Lists, dictionaries, and sets are mutable."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Consider the following code:\n`if 5 > 3: print('A')\nelif 5 == 5: print('B')\nelse: print('C')`\nWhat is the output?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "Error"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The first condition `5 > 3` is true, so 'A' is printed and the rest of the `if-elif-else` block is skipped."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "How do you correctly write a comment in Python?",
+      "options": {
+        "A": "// This is a comment",
+        "B": "/* This is a comment */",
+        "C": "# This is a comment",
+        "D": "-- This is a comment"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In Python, the '#' symbol is used to denote a single-line comment. Everything after '#' on that line is ignored by the interpreter."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "What will be the output of the following loop?\n`for i in range(3):\n    print(i)`",
+      "options": {
+        "A": "0\n1\n2",
+        "B": "1\n2\n3",
+        "C": "0\n1\n2\n3",
+        "D": "Error"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The `range(3)` function generates numbers from 0 up to (but not including) 3, which are 0, 1, 2."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Which operator is used for exponentiation in Python?",
+      "options": {
+        "A": "^",
+        "B": "**",
+        "C": "//",
+        "D": "%"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `**` operator is used to calculate the power of a number (e.g., `2 ** 3` is 8)."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What is the result of the expression `True and False or True`?",
+      "options": {
+        "A": "True",
+        "B": "False",
+        "C": "Error",
+        "D": "None"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Python evaluates `and` before `or`. So, `True and False` is `False`. Then `False or True` is `True`."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "How can you get input from the user in Python?",
+      "options": {
+        "A": "get_input()",
+        "B": "read()",
+        "C": "input()",
+        "D": "prompt()"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The built-in `input()` function is used to read a line from input, convert it to a string, and return that."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "What will the following code print?\n`count = 0\nwhile count < 3:\n    print('Hello')\n    count += 1`",
+      "options": {
+        "A": "Hello (once)",
+        "B": "Hello (twice)",
+        "C": "Hello (thrice)",
+        "D": "Infinite loop"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The loop runs when `count` is 0, 1, and 2. It prints 'Hello' three times before `count` becomes 3 and the condition `count < 3` becomes false."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Which of these is used to define a block of code in Python?",
+      "options": {
+        "A": "Curly braces `{}`",
+        "B": "Parentheses `()`",
+        "C": "Indentation",
+        "D": "Keywords like `BEGIN` and `END`"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Python uses indentation (whitespace) to define code blocks, unlike many other languages that use curly braces."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "What is the data type of `x` after the following assignment?\n`x = '123'`",
+      "options": {
+        "A": "int",
+        "B": "float",
+        "C": "str",
+        "D": "list"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Values enclosed in single or double quotes are treated as strings in Python."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Which of the following is an example of a logical operator in Python?",
+      "options": {
+        "A": "+",
+        "B": "==",
+        "C": "not",
+        "D": "%"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "`not`, `and`, and `or` are logical operators in Python. `+` is arithmetic, `==` is comparison, and `%` is arithmetic (modulo)."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "A developer needs to ensure that a specific block of code runs only if a certain condition is met, and a different block runs if that condition is not met. Which control flow statement should be used?",
+      "options": {
+        "A": "for loop",
+        "B": "while loop",
+        "C": "if-else statement",
+        "D": "try-except block"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "An `if-else` statement is designed for conditional execution, running one block of code if a condition is true and another if it's false."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "What is the correct way to add an element `5` to the end of a list named `my_list`?",
+      "options": {
+        "A": "my_list.add(5)",
+        "B": "my_list.insert(5)",
+        "C": "my_list.append(5)",
+        "D": "my_list + 5"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `append()` method is used to add an element to the end of a list."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "What will be the output of `len(my_tuple)` where `my_tuple = (1, 'hello', 3.14)`?",
+      "options": {
+        "A": "3",
+        "B": "Error",
+        "C": "4",
+        "D": "None"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The `len()` function returns the number of items in an object. The tuple `my_tuple` has three items."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Given `my_dict = {'a': 1, 'b': 2}`, how do you access the value associated with the key 'b'?",
+      "options": {
+        "A": "my_dict('b')",
+        "B": "my_dict['b']",
+        "C": "my_dict.get('b')",
+        "D": "Both B and C"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Both `my_dict['b']` and `my_dict.get('b')` are valid ways to access a value by its key. The `get()` method is safer as it returns `None` if the key doesn't exist, preventing a `KeyError`."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Which of the following is true about Python sets?",
+      "options": {
+        "A": "Sets can contain duplicate elements.",
+        "B": "Sets are ordered collections.",
+        "C": "Elements in a set must be immutable.",
+        "D": "Sets are indexed by numbers."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sets do not allow duplicate elements and are unordered. While the set itself is mutable, its elements must be immutable (hashable)."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "What is the output of the following code?\n`def greet(name):\n    return f'Hello, {name}!'\nprint(greet('Alice'))`",
+      "options": {
+        "A": "Hello, name!",
+        "B": "Hello, Alice!",
+        "C": "greet('Alice')",
+        "D": "Error"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `greet` function takes a `name` argument and returns a formatted string. When called with 'Alice', it returns 'Hello, Alice!'."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "What is the purpose of the `return` statement in a Python function?",
+      "options": {
+        "A": "To print output to the console.",
+        "B": "To exit the function and optionally pass a value back to the caller.",
+        "C": "To declare a variable.",
+        "D": "To start a loop within the function."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `return` statement immediately exits the function and can send a value back to the code that called the function."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Given `my_list = [1, 2, 3, 4, 5]`, what does `my_list[1:4]` return?",
+      "options": {
+        "A": "[1, 2, 3]",
+        "B": "[2, 3, 4]",
+        "C": "[1, 2, 3, 4]",
+        "D": "[2, 3, 4, 5]"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "List slicing `[start:end]` includes elements from `start` up to (but not including) `end`. So, `my_list[1]` (value 2) to `my_list[3]` (value 4) are included."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Which of the following correctly defines a function that takes an arbitrary number of positional arguments?",
+      "options": {
+        "A": "def func(args):",
+        "B": "def func(*args):",
+        "C": "def func(**args):",
+        "D": "def func(args[]):"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The `*args` syntax allows a function to accept an arbitrary number of positional arguments, which are then received as a tuple."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "What is a key difference between a list and a tuple in Python?",
+      "options": {
+        "A": "Lists can store different data types, tuples cannot.",
+        "B": "Lists are mutable, tuples are immutable.",
+        "C": "Tuples are faster than lists for all operations.",
+        "D": "Lists are defined with `()`, tuples with `[]`."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The primary difference is mutability: lists can be modified after creation, while tuples cannot. Both can store different data types."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "What happens if you try to access a non-existent key in a dictionary using square bracket notation (e.g., `my_dict['non_existent_key']`)?",
+      "options": {
+        "A": "It returns `None`.",
+        "B": "It raises a `KeyError`.",
+        "C": "It returns an empty string.",
+        "D": "It creates the key with a `None` value."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Accessing a non-existent key using square brackets will raise a `KeyError`. To avoid this, use the `get()` method."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "What is the output of the following code?\n`my_set = {1, 2, 3, 2, 1}\nprint(len(my_set))`",
+      "options": {
+        "A": "5",
+        "B": "3",
+        "C": "Error",
+        "D": "1"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sets automatically remove duplicate elements. So, `{1, 2, 3, 2, 1}` becomes `{1, 2, 3}`, and its length is 3."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "A function that takes another function as an argument or returns a function is called a:",
+      "options": {
+        "A": "Generator function",
+        "B": "Higher-order function",
+        "C": "Lambda function",
+        "D": "Decorator function"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A higher-order function is a function that either takes one or more functions as arguments or returns a function as its result."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Which of the following is a valid way to create an empty dictionary?",
+      "options": {
+        "A": "{}",
+        "B": "dict()",
+        "C": "Both A and B",
+        "D": "[]"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Both `{}` and `dict()` can be used to create an empty dictionary. Note that `{}` for empty set is not valid; it creates an empty dict. `set()` is for an empty set."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "What does `my_list.pop()` do if `my_list` is `[10, 20, 30]`?",
+      "options": {
+        "A": "Removes and returns 10",
+        "B": "Removes and returns 30",
+        "C": "Removes all elements",
+        "D": "Raises an error"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The `pop()` method, when called without an index, removes and returns the last element of the list."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "What is the scope of a variable defined inside a function?",
+      "options": {
+        "A": "Global scope",
+        "B": "Local scope",
+        "C": "Module scope",
+        "D": "Class scope"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Variables defined inside a function have local scope, meaning they are only accessible within that function."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "What is the output of this code?\n`x = lambda a: a * 2\nprint(x(5))`",
+      "options": {
+        "A": "lambda a: a * 2",
+        "B": "10",
+        "C": "5",
+        "D": "Error"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A lambda function is a small anonymous function. Here, `x` is defined to multiply its argument by 2. Calling `x(5)` results in `5 * 2 = 10`."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "A software engineer needs to store a collection of unique items without any specific order. Which Python data structure is most suitable?",
+      "options": {
+        "A": "List",
+        "B": "Tuple",
+        "C": "Dictionary",
+        "D": "Set"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Sets are designed to store unique, unordered collections of items. Lists allow duplicates and are ordered, tuples are immutable and ordered, and dictionaries store key-value pairs."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "In Object-Oriented Programming (OOP) in Python, what is a 'class'?",
+      "options": {
+        "A": "An instance of an object.",
+        "B": "A blueprint for creating objects.",
+        "C": "A specific value stored in memory.",
+        "D": "A function that returns a value."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A class is a blueprint or a template for creating objects, defining their attributes (data) and methods (functions)."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "What is the purpose of the `__init__` method in a Python class?",
+      "options": {
+        "A": "To destroy an object when it's no longer needed.",
+        "B": "To define static methods.",
+        "C": "To initialize the object's attributes when an object is created.",
+        "D": "To perform arithmetic operations."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `__init__` method is a special method called a constructor. It is automatically called when a new object (instance) of the class is created, allowing for initial setup of the object's attributes."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Which keyword is used to create a class in Python?",
+      "options": {
+        "A": "define",
+        "B": "class",
+        "C": "object",
+        "D": "struct"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `class` keyword is used to define a new class in Python."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "What does the `self` parameter refer to in a Python instance method?",
+      "options": {
+        "A": "The class itself.",
+        "B": "The current instance of the class.",
+        "C": "A global variable.",
+        "D": "The parent class."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "`self` is a convention used to refer to the instance of the class (the object itself) within its own methods. It must be the first parameter of any instance method."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Which OOP principle refers to the ability of an object to take on many forms, often achieved through method overriding?",
+      "options": {
+        "A": "Encapsulation",
+        "B": "Inheritance",
+        "C": "Polymorphism",
+        "D": "Abstraction"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Polymorphism (meaning 'many forms') allows objects of different classes to be treated as objects of a common type, often using method overriding to provide different implementations for the same method name."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Consider the following code:\n`class Animal:\n    def speak(self):\n        pass\nclass Dog(Animal):\n    def speak(self):\n        return 'Woof!'\nd = Dog()\nprint(d.speak())`\nWhat OOP concept is demonstrated here?",
+      "options": {
+        "A": "Encapsulation",
+        "B": "Abstraction",
+        "C": "Inheritance and Method Overriding",
+        "D": "Data Hiding"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The `Dog` class inherits from `Animal`, and it provides its own implementation of the `speak` method, which is an example of method overriding."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "What is the primary benefit of encapsulation in OOP?",
+      "options": {
+        "A": "To allow direct access to all object data from anywhere.",
+        "B": "To bundle data and methods that operate on the data within a single unit, restricting direct access to some components.",
+        "C": "To enable objects to take on multiple forms.",
+        "D": "To create a hierarchy of classes."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Encapsulation is about bundling data (attributes) and methods (functions) that operate on the data into a single unit (a class) and restricting direct access to some of the object's components, typically to protect data integrity."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "If Class `B` inherits from Class `A`, which statement is true?",
+      "options": {
+        "A": "Class `A` is the child class, Class `B` is the parent class.",
+        "B": "Class `B` is the child class, Class `A` is the parent class.",
+        "C": "Class `A` and Class `B` are unrelated.",
+        "D": "Class `B` replaces Class `A` entirely."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "In inheritance, the class that inherits is the child (or derived) class, and the class from which it inherits is the parent (or base) class."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Which of the following describes a 'static method' in Python?",
+      "options": {
+        "A": "A method that can access and modify instance attributes.",
+        "B": "A method that receives the class itself as the first argument.",
+        "C": "A method that belongs to the class rather than an instance, and doesn't receive `self` or `cls`.",
+        "D": "A method that is automatically called when an object is created."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A static method, decorated with `@staticmethod`, belongs to the class but doesn't operate on the instance or the class itself. It's essentially a regular function logically grouped within a class, and it doesn't receive `self` or `cls` as its first argument."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "What is the output of the following code?\n`class MyClass:\n    class_var = 0\n    def __init__(self):\n        self.instance_var = 1\nobj1 = MyClass()\nobj2 = MyClass()\nobj1.class_var = 5\nprint(MyClass.class_var)`",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "1",
+        "D": "Error"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "When `obj1.class_var = 5` is executed, it creates a new instance variable named `class_var` for `obj1` and sets its value to 5. It does NOT modify the class variable `MyClass.class_var`. The class variable remains 0."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "What is the term for a class that cannot be instantiated and is designed to be inherited by other classes?",
+      "options": {
+        "A": "Concrete class",
+        "B": "Final class",
+        "C": "Abstract class",
+        "D": "Utility class"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "An abstract class (often defined using the `abc` module and `@abstractmethod` decorator in Python) cannot be instantiated directly and serves as a blueprint for other classes, forcing them to implement certain methods."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Which method is automatically called when an object is about to be destroyed or garbage collected?",
+      "options": {
+        "A": "`__init__`",
+        "B": "`__del__`",
+        "C": "`__exit__`",
+        "D": "`__destroy__`"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The `__del__` method, also known as the destructor, is called when an instance is about to be destroyed. It's rarely used directly in Python applications due to automatic garbage collection."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "A developer wants to ensure that a specific attribute of an object can only be accessed and modified through methods, rather than direct access. This concept is known as:",
+      "options": {
+        "A": "Inheritance",
+        "B": "Polymorphism",
+        "C": "Encapsulation (Data Hiding)",
+        "D": "Abstraction"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "This describes encapsulation, specifically data hiding, where internal data is protected and accessed/modified via public methods (getters/setters), providing control over how the data is used."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "In Python, how do you typically indicate that a method or attribute is intended for internal use only (private convention)?",
+      "options": {
+        "A": "By prefixing its name with a single underscore (e.g., `_my_method`).",
+        "B": "By prefixing its name with a double underscore (e.g., `__my_method`).",
+        "C": "By using the `private` keyword.",
+        "D": "Python does not have private members, all are public."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Python does not have strict private access modifiers like some other languages. By convention, a single leading underscore (`_`) indicates that a method or attribute is intended for internal use and should not be accessed directly from outside the class."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "What is multiple inheritance in Python?",
+      "options": {
+        "A": "When a class inherits from only one parent class.",
+        "B": "When a class inherits from two or more parent classes.",
+        "C": "When a class can have multiple instances.",
+        "D": "When a method is overridden multiple times."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Multiple inheritance is a feature where a class can inherit attributes and methods from multiple base (parent) classes."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is the Method Resolution Order (MRO) in Python?",
+      "options": {
+        "A": "The order in which methods are defined in a class.",
+        "B": "The order in which methods are called during runtime.",
+        "C": "The order in which Python searches for a method in a class hierarchy, especially with multiple inheritance.",
+        "D": "The order of arguments in a method signature."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "The Method Resolution Order (MRO) is the sequence in which Python searches for a method or attribute in a class hierarchy. It's particularly important in multiple inheritance to resolve potential conflicts (e.g., diamond problem)."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "A software company is developing a system for different types of vehicles (Car, Bike, Truck). They need a common `start_engine()` method, but each vehicle type will have a unique implementation. Which OOP concept best describes this design requirement?",
+      "options": {
+        "A": "Inheritance with Polymorphism",
+        "B": "Encapsulation with Abstraction",
+        "C": "Composition over Inheritance",
+        "D": "Static methods"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "This scenario perfectly describes inheritance (Vehicle as a base class, Car/Bike/Truck as derived classes) combined with polymorphism (the `start_engine()` method being overridden in each derived class to provide specific behavior)."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which of the following modes is used to open a file for writing, creating it if it doesn't exist, and overwriting its contents if it does?",
+      "options": {
+        "A": "`'r'`",
+        "B": "`'a'`",
+        "C": "`'w'`",
+        "D": "`'x'`"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `'w'` mode (write) opens a file for writing. If the file exists, its contents are truncated (emptied). If it doesn't exist, a new file is created."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "What is the best practice for ensuring a file is properly closed after operations, even if errors occur?",
+      "options": {
+        "A": "Always call `file.close()` manually at the end.",
+        "B": "Use a `try-except-finally` block with `file.close()` in `finally`.",
+        "C": "Use the `with open(...) as file:` statement.",
+        "D": "Python's garbage collector handles file closing automatically."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The `with` statement (context manager) ensures that `file.close()` is automatically called when the block is exited, regardless of whether an error occurred or not. This is the recommended and most Pythonic way."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Which block in a `try-except-else-finally` structure is guaranteed to execute?",
+      "options": {
+        "A": "`try`",
+        "B": "`except`",
+        "C": "`else`",
+        "D": "`finally`"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The `finally` block is always executed, whether an exception occurred in the `try` block or not, and after the `try`, `except`, and `else` blocks (if applicable)."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "How do you import a specific function `my_func` from a module named `my_module`?",
+      "options": {
+        "A": "import my_func from my_module",
+        "B": "from my_module import my_func",
+        "C": "include my_module.my_func",
+        "D": "require my_module.my_func"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `from ... import ...` statement is used to import specific attributes (functions, classes, variables) from a module."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "What type of error occurs when Python encounters an operation that is syntactically correct but logically impossible or incorrect, such as dividing by zero?",
+      "options": {
+        "A": "SyntaxError",
+        "B": "IndentationError",
+        "C": "NameError",
+        "D": "Runtime Error (Exception)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Dividing by zero is a runtime error, specifically a `ZeroDivisionError`, which is a type of exception. Syntax errors occur before execution due to invalid Python syntax."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "A developer needs to read the entire content of a text file into a single string. Which file method should they use?",
+      "options": {
+        "A": "`readline()`",
+        "B": "`readlines()`",
+        "C": "`read()`",
+        "D": "`next()`"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `read()` method reads the entire content of the file and returns it as a single string."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "What is the purpose of the `else` block in a `try-except` statement?",
+      "options": {
+        "A": "It executes if an exception occurs.",
+        "B": "It always executes, regardless of exceptions.",
+        "C": "It executes if no exception occurs in the `try` block.",
+        "D": "It handles unhandled exceptions."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The `else` block in a `try-except` statement is executed only if the code in the `try` block runs without raising any exceptions."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "How do you explicitly raise an exception in Python?",
+      "options": {
+        "A": "catch Exception",
+        "B": "throw Exception",
+        "C": "raise Exception",
+        "D": "error Exception"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `raise` statement is used to explicitly trigger an exception."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "What is a Python package?",
+      "options": {
+        "A": "A single Python file.",
+        "B": "A collection of modules organized in directories, typically with an `__init__.py` file.",
+        "C": "A compiled Python program.",
+        "D": "A variable that holds multiple values."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Python package is a way of organizing related modules into a directory hierarchy. It usually contains an `__init__.py` file (though not strictly required in Python 3.3+ for simple packages, it's good practice)."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "A developer needs to check if a file exists before attempting to open it to prevent errors. Which module would be most helpful for this task?",
+      "options": {
+        "A": "`sys`",
+        "B": "`math`",
+        "C": "`os`",
+        "D": "`random`"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The `os` module provides functions for interacting with the operating system, including file system operations like checking for file existence (`os.path.exists()`)."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "What happens if an `except` block handles an exception, but another unhandled exception occurs later in the program?",
+      "options": {
+        "A": "The program continues normally.",
+        "B": "The program terminates and raises the unhandled exception.",
+        "C": "The first `except` block catches all subsequent exceptions.",
+        "D": "Python automatically logs the error and continues."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "If an exception is not caught by an appropriate `except` block, it propagates up the call stack. If it reaches the top level of the program without being handled, the program will terminate and report the unhandled exception."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "To read a file line by line efficiently, especially for large files, which approach is generally recommended?",
+      "options": {
+        "A": "Using `file.read().splitlines()`",
+        "B": "Using a `for` loop directly on the file object (`for line in file:`)",
+        "C": "Using `file.readlines()` to load all lines into memory.",
+        "D": "Reading the entire file with `file.read()`."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Iterating directly over a file object (`for line in file:`) reads the file line by line without loading the entire content into memory, making it efficient for large files. `readlines()` and `read()` load the entire file, which can be memory-intensive."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "What is the purpose of the `__name__ == '__main__'` block in a Python script?",
+      "options": {
+        "A": "It defines the main function of the script.",
+        "B": "It ensures that the code inside the block only runs when the script is executed directly, not when imported as a module.",
+        "C": "It is a mandatory block for all Python scripts.",
+        "D": "It specifies the entry point for a web application."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "This idiom is used to differentiate between when a script is run directly (in which case `__name__` is `__main__`) and when it is imported as a module into another script (in which case `__name__` is the module's name)."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Consider a scenario where a program needs to write binary data (e.g., an image file) to disk. Which file mode should be used?",
+      "options": {
+        "A": "`'wt'`",
+        "B": "`'wb'`",
+        "C": "`'r+b'`",
+        "D": "`'w+'`"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `'b'` in `'wb'` indicates binary mode. `'w'` is for writing, so `'wb'` means 'write in binary mode'."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "What happens if a `try` block has multiple lines of code and an exception occurs on the first line?",
+      "options": {
+        "A": "The rest of the `try` block is executed, then the `except` block.",
+        "B": "The `try` block immediately stops execution, and control passes to the appropriate `except` block.",
+        "C": "The program terminates immediately.",
+        "D": "The `else` block is executed."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Once an exception is raised within a `try` block, the execution of that `try` block is halted, and Python immediately looks for a matching `except` block."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "A developer wants to create a custom exception specific to their application's business logic. How should they typically define it?",
+      "options": {
+        "A": "By defining a function named `MyCustomError()`.",
+        "B": "By inheriting from the built-in `Exception` class.",
+        "C": "By using the `raise` keyword without a class.",
+        "D": "Custom exceptions are not supported in Python."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Custom exceptions are created by defining a new class that inherits, directly or indirectly, from the built-in `Exception` class. This allows them to be raised and caught like any other exception."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Which Python module is commonly used for generating pseudo-random numbers?",
+      "options": {
+        "A": "`math`",
+        "B": "`sys`",
+        "C": "`datetime`",
+        "D": "`random`"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The `random` module provides functions for generating random numbers and making random selections."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "What is the result of the following list comprehension?\n`[x * 2 for x in range(3)]`",
+      "options": {
+        "A": "[0, 1, 2]",
+        "B": "[0, 2, 4]",
+        "C": "[0, 2, 4, 6]",
+        "D": "Error"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `range(3)` generates 0, 1, 2. Each number is then multiplied by 2, resulting in `[0, 2, 4]`."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Which of the following is characteristic of a generator in Python?",
+      "options": {
+        "A": "It stores all its values in memory at once.",
+        "B": "It uses the `return` keyword to yield values.",
+        "C": "It produces values one at a time, on demand, using the `yield` keyword.",
+        "D": "It can only be used once to generate values."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Generators are functions that return an iterator. They produce items one by one and only when asked, using the `yield` keyword, thus saving memory, especially for large sequences."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "What is a decorator in Python?",
+      "options": {
+        "A": "A special type of function that modifies the behavior of another function or method.",
+        "B": "A design pattern for creating singletons.",
+        "C": "A tool for debugging Python code.",
+        "D": "A way to define constants in Python."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "A decorator is a function that takes another function as an argument, adds some functionality, and returns the modified function. It's often used with the `@` syntax."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Which of the following is a valid dictionary comprehension?",
+      "options": {
+        "A": "{x: x*x for x in range(3)}",
+        "B": "[x: x*x for x in range(3)]",
+        "C": "(x: x*x for x in range(3))",
+        "D": "dict(x: x*x for x in range(3))"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Dictionary comprehensions use curly braces `{}` and the `key: value` syntax within the comprehension expression."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "What is the main benefit of using a `lambda` function over a regular `def` function?",
+      "options": {
+        "A": "Lambda functions are always faster.",
+        "B": "Lambda functions can contain multiple statements.",
+        "C": "Lambda functions are anonymous and are typically used for simple, short, one-time operations.",
+        "D": "Lambda functions support recursion more efficiently."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Lambda functions are concise, anonymous functions often used for simple operations where defining a full function with `def` would be overkill, such as within `map()`, `filter()`, or `sorted()`."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "What does the `re.search()` function return if it finds a match in the string?",
+      "options": {
+        "A": "The matched string itself.",
+        "B": "A boolean `True`.",
+        "C": "A match object.",
+        "D": "The starting index of the match."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "If `re.search()` finds a match, it returns a match object; otherwise, it returns `None`."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "A developer needs to apply the same transformation (e.g., squaring) to every item in a list and get a new list of the results. Which built-in function or comprehension is most suitable?",
+      "options": {
+        "A": "`filter()`",
+        "B": "`reduce()`",
+        "C": "List comprehension",
+        "D": "`any()`"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "List comprehensions are highly idiomatic and efficient for creating new lists by transforming elements of an existing iterable."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "What is the primary use case for the `yield` keyword?",
+      "options": {
+        "A": "To return a single value from a function.",
+        "B": "To define an infinite loop.",
+        "C": "To create a generator function that produces a sequence of values lazily.",
+        "D": "To handle exceptions in a function."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The `yield` keyword is used in generator functions. When `yield` is encountered, the function's state is saved, and the yielded value is returned. The next time the generator is iterated, execution resumes from where it left off."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Which regular expression pattern would match any single digit (0-9)?",
+      "options": {
+        "A": "`\\d`",
+        "B": "`[abc]`",
+        "C": "`\\s`",
+        "D": "`.*`"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "In regular expressions, `\\d` is a special sequence that matches any digit (0-9)."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "What is a 'closure' in Python?",
+      "options": {
+        "A": "A function that has access to variables from its enclosing scope, even after the enclosing scope has finished execution.",
+        "B": "A function that takes no arguments.",
+        "C": "A function that is defined inside a class.",
+        "D": "A function that explicitly closes file handles."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "A closure is a nested function that 'remembers' the values of variables from its containing (enclosing) scope, even if that containing scope has already completed execution."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "What is the output of the following code?\n`my_string = 'apple,banana,cherry'\nparts = my_string.split(',')\nprint(parts[1])`",
+      "options": {
+        "A": "apple",
+        "B": "banana",
+        "C": "cherry",
+        "D": "Error"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `split(',')` method splits the string into a list of substrings using ',' as the delimiter. `parts` becomes `['apple', 'banana', 'cherry']`. `parts[1]` accesses the second element, which is 'banana'."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Which of the following describes the purpose of a context manager (used with the `with` statement)?",
+      "options": {
+        "A": "To manage multiple threads in a program.",
+        "B": "To ensure that resources (like files or network connections) are properly acquired and released.",
+        "C": "To create a new scope for variables.",
+        "D": "To handle asynchronous operations."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Context managers, implemented using `__enter__` and `__exit__` methods, provide a robust way to manage resources, ensuring setup (acquisition) and teardown (release) operations are handled correctly, even if errors occur."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "What is the difference between `re.match()` and `re.search()`?",
+      "options": {
+        "A": "`re.match()` finds all occurrences, `re.search()` finds only the first.",
+        "B": "`re.match()` only matches at the beginning of the string, `re.search()` matches anywhere in the string.",
+        "C": "`re.search()` only matches at the beginning of the string, `re.match()` matches anywhere in the string.",
+        "D": "There is no functional difference, they are aliases."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "`re.match()` checks for a match only at the beginning of the string. `re.search()` scans through the entire string to find the first location where the regular expression produces a match."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Which of these is NOT a valid set comprehension?",
+      "options": {
+        "A": "{x for x in 'hello'}",
+        "B": "{x for x in [1, 2, 2, 3]}",
+        "C": "{x: x*2 for x in range(3)}",
+        "D": "{x**2 for x in (1, 2, 3)}"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Option C is a dictionary comprehension, not a set comprehension, due to the `x: x*2` key-value pair syntax. Set comprehensions only specify the element, not a key-value pair."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "A developer needs to filter a list of numbers, keeping only the even ones. Which built-in function or comprehension is most suitable?",
+      "options": {
+        "A": "`map()`",
+        "B": "`filter()`",
+        "C": "Set comprehension",
+        "D": "Dictionary comprehension"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `filter()` function (or a list comprehension with an `if` clause) is designed for filtering elements from an iterable based on a condition."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "What is the output of the following code snippet?\n`import re\ntext = 'The quick brown fox.'\nmatch = re.search(r'quick', text)\nprint(match.group(0) if match else 'No match')`",
+      "options": {
+        "A": "quick",
+        "B": "The quick brown fox.",
+        "C": "No match",
+        "D": "Error"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "`re.search(r'quick', text)` finds the substring 'quick'. `match.group(0)` returns the entire matched string, which is 'quick'."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is the primary purpose of `venv` (or `virtualenv`) in Python?",
+      "options": {
+        "A": "To create virtual machines for deploying Python applications.",
+        "B": "To manage separate, isolated Python environments for different projects.",
+        "C": "To optimize Python code for faster execution.",
+        "D": "To provide a graphical user interface for Python development."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Virtual environments (venv) allow developers to create isolated Python environments, each with its own set of installed packages, preventing conflicts between project dependencies."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Which Python library is commonly used for making HTTP requests (e.g., to fetch web page content)?",
+      "options": {
+        "A": "`urllib` (built-in)",
+        "B": "`requests` (third-party)",
+        "C": "`httpclient` (built-in)",
+        "D": "Both A and B"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Both `urllib` (built-in) and `requests` (a very popular third-party library) are used for making HTTP requests. `requests` is generally preferred for its user-friendliness."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "What is a Pandas DataFrame?",
+      "options": {
+        "A": "A single-dimensional labeled array.",
+        "B": "A two-dimensional labeled data structure with columns of potentially different types.",
+        "C": "A multi-dimensional array for numerical operations.",
+        "D": "A collection of key-value pairs."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Pandas DataFrame is a 2-dimensional labeled data structure with columns of potentially different types. It is similar to a spreadsheet or SQL table."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Which of the following is a common Python library used for parsing HTML and XML documents in web scraping?",
+      "options": {
+        "A": "`requests`",
+        "B": "`BeautifulSoup`",
+        "C": "`Selenium`",
+        "D": "`Scrapy`"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "`BeautifulSoup` (specifically `BeautifulSoup4`) is widely used for pulling data out of HTML and XML files, making it a staple for web scraping tasks."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "To connect to an SQLite database in Python, which module is typically used?",
+      "options": {
+        "A": "`mysql.connector`",
+        "B": "`psycopg2`",
+        "C": "`sqlite3`",
+        "D": "`pymongo`"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `sqlite3` module is part of Python's standard library and provides a DB-API 2.0 compliant interface for working with SQLite databases."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "In the context of Flask, what is a 'route'?",
+      "options": {
+        "A": "A URL pattern that maps to a specific function in your application.",
+        "B": "A database query.",
+        "C": "A template file for rendering HTML.",
+        "D": "A way to manage user sessions."
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "In Flask (and other web frameworks), a route is a URL pattern that, when accessed by a client, triggers the execution of a specific Python function (a view function) to handle the request."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Which method is used to execute SQL queries on a database connection object's cursor?",
+      "options": {
+        "A": "`connect()`",
+        "B": "`fetch()`",
+        "C": "`execute()`",
+        "D": "`commit()`"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `execute()` method of a cursor object is used to send SQL commands to the database."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "What is the primary benefit of using NumPy arrays over standard Python lists for numerical operations?",
+      "options": {
+        "A": "NumPy arrays can store elements of different data types.",
+        "B": "NumPy arrays are generally much faster and more memory-efficient for large numerical datasets.",
+        "C": "NumPy arrays provide built-in string manipulation functions.",
+        "D": "NumPy arrays are mutable, while lists are immutable."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "NumPy arrays are optimized for numerical computations and offer significant performance and memory advantages over Python lists, especially for large datasets, due to their underlying C implementation."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "A developer needs to ensure that changes made to an SQLite database are permanently saved. Which method should be called on the connection object?",
+      "options": {
+        "A": "`save()`",
+        "B": "`close()`",
+        "C": "`commit()`",
+        "D": "`persist()`"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The `commit()` method saves (persists) any pending transactions to the database. Without calling `commit()`, changes might not be permanently stored."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "When building a web application with Flask, how do you typically render an HTML template?",
+      "options": {
+        "A": "By returning a string of HTML directly.",
+        "B": "Using the `send_file()` function.",
+        "C": "Using the `render_template()` function.",
+        "D": "By printing HTML content to the console."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Flask's `render_template()` function is used to render Jinja2 templates, allowing you to separate HTML structure from Python logic and pass dynamic data to the templates."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Which of the following describes 'Unit Testing'?",
+      "options": {
+        "A": "Testing the entire integrated system.",
+        "B": "Testing individual components or functions of a software application in isolation.",
+        "C": "Testing the user interface for usability.",
+        "D": "Testing only the database interactions."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Unit testing involves testing the smallest testable parts of an application (units), such as individual functions or methods, to ensure they work correctly in isolation."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "A data scientist needs to create a new Pandas DataFrame from a dictionary where keys are column names and values are lists of data. Which function is used?",
+      "options": {
+        "A": "`pd.Series()`",
+        "B": "`pd.read_csv()`",
+        "C": "`pd.DataFrame()`",
+        "D": "`pd.array()`"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `pd.DataFrame()` constructor is used to create a DataFrame, and it can take a dictionary of lists (or NumPy arrays, etc.) where keys become column names."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Which `unittest` assertion method checks if two values are equal?",
+      "options": {
+        "A": "`assertTrue()`",
+        "B": "`assertEqual()`",
+        "C": "`assertIs()`",
+        "D": "`assertRaises()`"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `assertEqual(a, b)` method in `unittest` asserts that `a` and `b` are equal."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "When interacting with a database using `sqlite3`, what is the purpose of the 'cursor' object?",
+      "options": {
+        "A": "It represents the database connection itself.",
+        "B": "It is used to execute SQL queries and fetch results.",
+        "C": "It stores the database schema.",
+        "D": "It manages user authentication."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A cursor object is an intermediary between the database connection and the SQL queries. You use the cursor to execute SQL commands and retrieve results."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "A developer is writing tests for a Flask application. They want to simulate HTTP requests without running a full server. Which Flask feature allows this?",
+      "options": {
+        "A": "`flask run`",
+        "B": "Flask's test client (`app.test_client()`)",
+        "C": "`requests` library",
+        "D": "Directly calling view functions"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flask provides a built-in `test_client()` that allows you to simulate requests to your application directly within your test suite, without needing to run the development server."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "What is the result of `np.array([1, 2, 3]) * 2` if `np` is imported as `numpy`?",
+      "options": {
+        "A": "[1, 2, 3, 1, 2, 3]",
+        "B": "[2, 4, 6]",
+        "C": "Error",
+        "D": "[[1, 2, 3], [1, 2, 3]]"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "NumPy arrays support element-wise operations. Multiplying a NumPy array by 2 multiplies each element by 2, resulting in `[2, 4, 6]`."
+    }
+  ]
+}

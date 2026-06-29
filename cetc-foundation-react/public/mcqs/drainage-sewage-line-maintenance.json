@@ -1,0 +1,1443 @@
+{
+  "course_name": "Drainage & Sewage Line Maintenance",
+  "sector": "Plumbing, Sanitation & Water",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Drainage & Sewage Systems",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Tools and Equipment for Drainage Maintenance",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Understanding Pipes and Fittings",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Common Drainage Issues and Troubleshooting",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Sewage Line Maintenance and Safety Protocols",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Advanced Maintenance Techniques & Environmental Considerations",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Drainage system ka primary purpose kya hai?",
+      "options": {
+        "A": "Clean water supply karna",
+        "B": "Waste water ko safely remove karna",
+        "C": "Ghar ko garam rakhna",
+        "D": "Bijli provide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drainage system ka mukhya uddeshya gharon aur building se waste water ko surakshit roop se bahar nikalna hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Sewage mein kaun-kaun se waste shamil hote hain?",
+      "options": {
+        "A": "Sirf barish ka pani",
+        "B": "Domestic aur industrial waste water",
+        "C": "Sirf peene ka pani",
+        "D": "Sirf saaf pani"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sewage mein gharelu (domestic) aur audyogik (industrial) dono tarah ka waste water shamil hota hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Household drainage system mein kaun sa component 'P-trap' ka example hai?",
+      "options": {
+        "A": "Water meter",
+        "B": "Sink ke niche curved pipe",
+        "C": "Overhead water tank",
+        "D": "Main water supply pipe"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "P-trap ek curved pipe hota hai jo sink ke niche lagaya jata hai, jismein pani ka ek chota sa hissa hamesha rehta hai taaki sewer gases ghar ke andar na aa sakein."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Sanitation ka kya matlab hai?",
+      "options": {
+        "A": "Sirf bathroom saaf rakhna",
+        "B": "Public health ko improve karne ke liye hygiene practices",
+        "C": "Bijli ki wiring karna",
+        "D": "Roads banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sanitation ka matlab hai public health ko behtar banane ke liye swachhta aur hygiene ke practices ko maintain karna, jismein waste disposal bhi shamil hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Drainage system mein 'vent pipe' ka kya role hai?",
+      "options": {
+        "A": "Water pressure badhana",
+        "B": "Sewer gases ko bahar nikalna aur proper drainage flow maintain karna",
+        "C": "Garam pani supply karna",
+        "D": "Pipes ko support dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vent pipe sewer gases ko bahar nikalta hai aur drainage system mein negative pressure ko rok kar pani ke smooth flow ko banaye rakhta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Agar drainage system properly maintain na ho, toh kya ho sakta hai?",
+      "options": {
+        "A": "Bijli ka bill kam aayega",
+        "B": "Ghar mein achhi khushboo aayegi",
+        "C": "Waterlogging, health hazards aur structural damage",
+        "D": "Internet speed badh jayegi"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Poorly maintained drainage system se pani jama ho sakta hai (waterlogging), bimariyan phail sakti hain (health hazards) aur building ko nuksan ho sakta hai (structural damage)."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Surface drainage ka example kya hai?",
+      "options": {
+        "A": "Underground sewer pipes",
+        "B": "Kitchen sink drain",
+        "C": "Road ke kinare bane gutters",
+        "D": "Septic tank"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Surface drainage mein barish ke pani ko zameen ki satah se bahar nikala jata hai, jaise road ke kinare bane gutters."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Sub-surface drainage ka kya matlab hai?",
+      "options": {
+        "A": "Pani ko zameen ke upar jama karna",
+        "B": "Zameen ke niche se pani nikalna",
+        "C": "Hawa ko filter karna",
+        "D": "Bijli ke wires bichhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sub-surface drainage mein zameen ke niche se ya soil se excess water ko remove kiya jata hai, jaise perforated pipes use karke."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Drainage system mein 'cleanout' ka kya fayda hai?",
+      "options": {
+        "A": "Pipes ko decorate karna",
+        "B": "Blockages ko access aur clear karne ke liye",
+        "C": "Pani ko garam karna",
+        "D": "Noise kam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cleanout fittings pipes mein blockages ko saaf karne ke liye asaan access provide karte hain."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Grey water mein kya shamil hota hai?",
+      "options": {
+        "A": "Toilet flush ka pani",
+        "B": "Kitchen sink aur shower ka pani",
+        "C": "Sirf barish ka pani",
+        "D": "Industrial chemical waste"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grey water mein kitchen sink, shower, washing machine se aane wala pani shamil hota hai, jo toilet waste (black water) se alag hota hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Drainage work karte samay kaun sa safety equipment sabse important hai?",
+      "options": {
+        "A": "Sun glasses",
+        "B": "Safety goggles aur gloves",
+        "C": "Radio",
+        "D": "Smartwatch"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drainage work mein chemicals, bacteria aur debris se bachne ke liye safety goggles aur gloves bahut zaroori hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Sewer gases mein kaun si gas sabse zyada dangerous hoti hai?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Hydrogen Sulfide (H2S)",
+        "D": "Carbon Dioxide"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Hydrogen Sulfide (H2S) sewer gases mein ek highly toxic aur flammable gas hoti hai, jo low concentrations mein bhi dangerous ho sakti hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Drainage system mein 'grease trap' ka kya function hai?",
+      "options": {
+        "A": "Pani ko filter karna",
+        "B": "Grease aur oil ko sewer line mein jaane se rokna",
+        "C": "Pani ka temperature maintain karna",
+        "D": "Pani ko store karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grease trap kitchen waste se grease aur oil ko alag karta hai, taki woh drainage pipes mein jam na ho aur blockages na karein."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Stormwater drainage system kiske liye design kiya jata hai?",
+      "options": {
+        "A": "Domestic sewage",
+        "B": "Industrial waste",
+        "C": "Barish ka pani",
+        "D": "Drinking water"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Stormwater drainage system specifically barish ke pani ko collect aur discharge karne ke liye banaya jata hai taaki flooding na ho."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek achhe drainage system ki kya quality honi chahiye?",
+      "options": {
+        "A": "Expensive ho",
+        "B": "Efficient, durable aur leak-proof ho",
+        "C": "Loud noise kare",
+        "D": "Frequent maintenance ki zaroorat pade"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek achha drainage system efficient, durable, leak-proof aur kam maintenance wala hona chahiye."
+    },
+    {
+      "qno": 16,
+      "module": 2,
+      "question": "Blocked drain ko kholne ke liye sabse common hand tool kaun sa hai?",
+      "options": {
+        "A": "Hammer",
+        "B": "Plunger",
+        "C": "Screwdriver",
+        "D": "Tape measure"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plunger ek suction device hai jo minor blockages ko clear karne ke liye use hota hai."
+    },
+    {
+      "qno": 17,
+      "module": 2,
+      "question": "Pipes ko tight karne ya loose karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Pliers",
+        "B": "Pipe wrench",
+        "C": "Hacksaw",
+        "D": "Drill"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pipe wrench specially pipes aur fittings ko pakadne aur ghumane ke liye design kiya gaya hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "PVC pipes ko kaatne ke liye kaun sa tool sabse achha hai?",
+      "options": {
+        "A": "Chisel",
+        "B": "Pipe cutter (ratchet type)",
+        "C": "Axe",
+        "D": "Spoon"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PVC pipe cutter (ratchet type) PVC pipes ko saaf aur seedha kaatne ke liye ideal hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Drainage line mein deep blockage ko remove karne ke liye kaun sa specialized tool use hota hai?",
+      "options": {
+        "A": "Sponge",
+        "B": "Drain snake (plumber's auger)",
+        "C": "Paint brush",
+        "D": "Scissor"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drain snake ya plumber's auger ek lamba flexible cable hota hai jo pipes mein deep blockages tak pahunch kar unhein clear karta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "PPE ka full form kya hai?",
+      "options": {
+        "A": "Personal Power Equipment",
+        "B": "Professional Plumbing Expertise",
+        "C": "Personal Protective Equipment",
+        "D": "Pipe Positioning Engineering"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "PPE ka matlab Personal Protective Equipment hai, jo workers ko hazards se bachata hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Drainage work mein kaun sa PPE zaroori hai agar chemicals use ho rahe hon?",
+      "options": {
+        "A": "Safety glasses, chemical-resistant gloves",
+        "B": "Normal T-shirt",
+        "C": "Flip-flops",
+        "D": "Headphones"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Chemicals ke saath kaam karte samay aankhon aur hathon ki suraksha ke liye safety glasses aur chemical-resistant gloves zaroori hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Pipes ki length measure karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Weight scale",
+        "B": "Measuring tape",
+        "C": "Thermometer",
+        "D": "Compass"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Measuring tape pipes aur anya components ki sahi length naapne ke liye use hota hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Agar aapko pipe join karne ke liye sealant apply karna hai, toh kaun sa tool use karenge?",
+      "options": {
+        "A": "Hammer",
+        "B": "Caulking gun",
+        "C": "Pliers",
+        "D": "Screwdriver"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Caulking gun sealant ko uniformly apply karne ke liye use hota hai, taaki joints watertight ban sakein."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Confined space mein kaam karte samay kaun sa equipment essential hai?",
+      "options": {
+        "A": "Fan",
+        "B": "Gas detector",
+        "C": "Music player",
+        "D": "Coffee maker"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confined spaces mein harmful gases ki presence detect karne ke liye gas detector bahut zaroori hai, taaki workers ki safety یقینی ho."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Tools ko saaf aur dry rakhna kyon zaroori hai?",
+      "options": {
+        "A": "Woh zyada chamakdar dikhenge",
+        "B": "Unki life badhane aur rust se bachane ke liye",
+        "C": "Woh zyada mehange lagenge",
+        "D": "Woh zyada heavy honge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools ko saaf aur dry rakhne se unki life badhti hai aur woh rust (zang) se bache rehte hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Drainage work mein 'safety helmet' kab pehenna chahiye?",
+      "options": {
+        "A": "Sirf garmi mein",
+        "B": "Jab bhi overhead hazards hon ya head injury ka risk ho",
+        "C": "Sirf raat mein",
+        "D": "Jab bhi mann kare"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety helmet tab pehenna chahiye jab girne wali cheezon ya sir par chot lagne ka khatra ho."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Agar aapko ek old metal pipe ko kaatna hai, toh kaun sa tool best hoga?",
+      "options": {
+        "A": "Butter knife",
+        "B": "Hacksaw",
+        "C": "Plastic cutter",
+        "D": "Spoon"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hacksaw metal pipes ko kaatne ke liye design kiya gaya hai, ismein fine teeth wala blade hota hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Drainage system mein leaks detect karne ke liye kaun sa tool use ho sakta hai?",
+      "options": {
+        "A": "Binoculars",
+        "B": "Leak detection spray ya smoke tester",
+        "C": "Microscope",
+        "D": "Telescope"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Leak detection spray ya smoke tester chote leaks ko visible banane mein help karte hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Tools ko sahi tarike se store karne ka kya fayda hai?",
+      "options": {
+        "A": "Woh jaldi kharab ho jayenge",
+        "B": "Unhein dhoondhna asaan hoga aur unki safety badhegi",
+        "C": "Woh zyada space lenge",
+        "D": "Woh kam useful honge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi tool storage se tools organized rehte hain, dhoondhne mein asani hoti hai aur unki life badhti hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Drainage lines ki internal inspection ke liye kaun sa modern tool use hota hai?",
+      "options": {
+        "A": "Flashlight",
+        "B": "CCTV camera (drain camera)",
+        "C": "Mirror",
+        "D": "Magnifying glass"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CCTV camera (drain camera) pipes ke andar ki condition ko visually inspect karne aur exact problem location identify karne mein madad karta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Hand tools ko use karne se pehle kya check karna chahiye?",
+      "options": {
+        "A": "Unka colour",
+        "B": "Woh saaf hain ya nahi",
+        "C": "Woh damaged toh nahi hain aur sahi condition mein hain",
+        "D": "Unka brand"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tools ko use karne se pehle unki condition check karna zaroori hai taaki koi damage ya malfunction na ho jo safety risk banaye."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Drainage system mein nuts aur bolts ko tight karne ya loose karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Screwdriver",
+        "B": "Adjustable wrench (spanner)",
+        "C": "Crowbar",
+        "D": "Chisel"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Adjustable wrench ya spanner alag-alag size ke nuts aur bolts ko tight ya loose karne ke liye versatile tool hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Jab aap chemical drain cleaner use karte hain, toh kis cheez ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Usse khana chahiye",
+        "B": "Manufacturers ke instructions aur safety precautions follow karna",
+        "C": "Uski bottle ko khula chhod dena chahiye",
+        "D": "Usse hawa mein spray karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemical drain cleaners dangerous ho sakte hain, isliye manufacturers ke instructions aur safety precautions (jaise PPE pehenna) ko follow karna bahut zaroori hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Pipes ko support dene aur unhein fix karne ke liye kaun se fittings use hote hain?",
+      "options": {
+        "A": "Traps",
+        "B": "Pipe clamps ya hangers",
+        "C": "Reducers",
+        "D": "Valves"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pipe clamps aur hangers pipes ko walls ya structures par support aur fix karne ke liye use hote hain."
+    },
+    {
+      "qno": 35,
+      "module": 2,
+      "question": "Drainage work mein 'hearing protection' kab zaroori hai?",
+      "options": {
+        "A": "Jab aapko music sunna ho",
+        "B": "Jab high noise levels wale power tools use ho rahe hon",
+        "C": "Sirf sardiyon mein",
+        "D": "Jab aap akele kaam kar rahe hon"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High noise levels wale power tools ya machinery use karte samay hearing protection (earplugs/earmuffs) pehenna zaroori hai taaki sunne ki kshamta ko nuksan na ho."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Household drainage mein sabse commonly use hone wala plastic pipe kaun sa hai?",
+      "options": {
+        "A": "Copper",
+        "B": "PVC (Polyvinyl Chloride)",
+        "C": "Cast Iron",
+        "D": "Lead"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PVC pipes lightweight, corrosion-resistant aur install karne mein asaan hote hain, isliye domestic drainage mein bahut use hote hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Cast Iron (CI) pipes ka kya fayda hai?",
+      "options": {
+        "A": "Bahut saste hote hain",
+        "B": "High strength aur noise reduction properties",
+        "C": "Install karna bahut asaan hota hai",
+        "D": "Corrosion resistant hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cast Iron pipes bahut mazboot hote hain aur pani ke flow se hone wale noise ko kam karte hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Pipes ko direction change karne ke liye kaun sa fitting use hota hai?",
+      "options": {
+        "A": "Coupling",
+        "B": "Elbow (bend)",
+        "C": "Reducer",
+        "D": "Cap"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Elbow ya bend fitting pipes ki direction ko 90 degree ya 45 degree par change karne ke liye use hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Do alag-alag diameter ke pipes ko join karne ke liye kaun sa fitting use hota hai?",
+      "options": {
+        "A": "Tee",
+        "B": "Cross",
+        "C": "Reducer",
+        "D": "Union"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Reducer fitting do alag-alag size ke pipes ko smoothly connect karta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "P-trap ka main function kya hai?",
+      "options": {
+        "A": "Pani ka pressure badhana",
+        "B": "Sewer gases ko ghar mein aane se rokna",
+        "C": "Pani ko filter karna",
+        "D": "Drainage flow ko speed up karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "P-trap mein hamesha pani ka ek chota sa hissa rehta hai jo sewer gases ke liye seal ka kaam karta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "PVC pipes ko join karne ke liye kaun sa method use hota hai?",
+      "options": {
+        "A": "Welding",
+        "B": "Soldering",
+        "C": "Solvent cement",
+        "D": "Threading"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "PVC pipes ko solvent cement se join kiya jata hai, jo plastic ko chemically fuse kar deta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Drainage system mein 'floor trap' kahan use hota hai?",
+      "options": {
+        "A": "Roof par",
+        "B": "Bathroom ya kitchen ke floor par",
+        "C": "Water meter ke paas",
+        "D": "Main sewer line mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Floor trap bathrooms, kitchens aur utility areas ke floor par lagaya jata hai taaki floor se waste water drain ho sake aur sewer gases na aa sakein."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "HDPE pipes ka kya fayda hai?",
+      "options": {
+        "A": "Bahut fragile hote hain",
+        "B": "Flexible, chemical resistant aur durable",
+        "C": "Bahut jaldi rust lag jata hai",
+        "D": "Sirf garam pani ke liye use hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HDPE (High-Density Polyethylene) pipes apni flexibility, chemical resistance aur durability ke liye jaane जाते hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Drainage system mein 'Y-fitting' ka kya use hai?",
+      "options": {
+        "A": "Pani ko block karna",
+        "B": "Ek main line se do branch lines ko connect karna",
+        "C": "Pipes ko straight rakhna",
+        "D": "Pressure release karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Y-fitting ek main drainage line se do branch lines ko ek angle par connect karta hai, smooth flow ke liye."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "S-trap aur P-trap mein kya difference hai?",
+      "options": {
+        "A": "S-trap zyada pani store karta hai",
+        "B": "S-trap ka design S-shaped hota hai aur P-trap ka P-shaped",
+        "C": "S-trap sirf kitchen mein use hota hai",
+        "D": "P-trap zyada costly hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "S-trap S-shaped hota hai aur P-trap P-shaped. S-trap siphonage ke liye zyada prone hota hai, isliye P-trap zyada preferred hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Pipes mein leakage ko rokne ke liye kaun sa material use hota hai?",
+      "options": {
+        "A": "Sand",
+        "B": "Sealant tape (PTFE tape) ya jointing compound",
+        "C": "Paper",
+        "D": "Wood glue"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PTFE tape ya jointing compound pipe threads par lagaye jate hain taaki leak-proof connections ban sakein."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Drainage system mein 'non-return valve' ka kya function hai?",
+      "options": {
+        "A": "Pani ko dono direction mein flow hone dena",
+        "B": "Pani ko sirf ek direction mein flow hone dena",
+        "C": "Pani ko filter karna",
+        "D": "Pani ka temperature control karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Non-return valve (ya check valve) pani ko sirf ek hi direction mein flow hone deta hai, backflow ko rokta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Stoneware pipes kahan use hote hain?",
+      "options": {
+        "A": "High-pressure water supply",
+        "B": "Underground drainage aur sewer lines",
+        "C": "Interior plumbing",
+        "D": "Gas lines"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stoneware pipes chemical resistant aur durable hote hain, isliye underground drainage aur sewer lines mein use hote hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Ek 'coupling' fitting ka kya kaam hai?",
+      "options": {
+        "A": "Pipe ki direction change karna",
+        "B": "Ek hi size ke do pipes ko straight connect karna",
+        "C": "Pipe ko band karna",
+        "D": "Pipe se branch nikalna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Coupling do pipes ko ek seedhi line mein connect karta hai, unhein ek saath jodne ke liye."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Drainage system mein 'reducing bush' ka kya purpose hai?",
+      "options": {
+        "A": "Pipe ko decorate karna",
+        "B": "Ek fitting ke size ko chota karna taaki usmein chota pipe fit ho sake",
+        "C": "Pani ko block karna",
+        "D": "Pipes ko support dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reducing bush ek fitting ka size reduce karta hai, allowing a smaller pipe to be connected to a larger fitting."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Kitchen sink ke drain mein blockage ka sabse common cause kya hai?",
+      "options": {
+        "A": "Barish ka pani",
+        "B": "Grease aur food particles",
+        "C": "Patthar",
+        "D": "Cement"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kitchen sink drains mein grease aur food particles jama hokar blockages create karte hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Bathroom drains mein blockage ka sabse common cause kya hai?",
+      "options": {
+        "A": "Kagaz",
+        "B": "Hair aur soap scum",
+        "C": "Lakdi",
+        "D": "Metal pieces"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bathroom drains mein baal (hair) aur sabun ka mail (soap scum) milkar blockages ka karan bante hain."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Ek blocked drain ka sign kya ho sakta hai?",
+      "options": {
+        "A": "Pani ka tez flow",
+        "B": "Dheere-dheere drain hona ya pani ka back-up hona",
+        "C": "Pani ka colour change hona",
+        "D": "Pani ka garam hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Blocked drain ka sabse pehla sign hai pani ka dheere drain hona ya phir sink/toilet se pani ka wapas aana (back-up)."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Minor blockage ko clear karne ke liye sabse pehle kya try karna chahiye?",
+      "options": {
+        "A": "Pipes ko tod dena",
+        "B": "Plunger use karna",
+        "C": "Naye pipes lagana",
+        "D": "Drain ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Minor blockages ke liye plunger ek effective aur safe initial solution hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Chemical drain cleaners ke saath kaam karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Unhein peena chahiye",
+        "B": "Proper ventilation aur PPE (gloves, goggles) use karna",
+        "C": "Unhein garam pani mein mix karna chahiye",
+        "D": "Unhein khule mein chhod dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemical drain cleaners corrosive hote hain aur fumes release karte hain, isliye proper ventilation aur PPE bahut zaroori hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Drainage pipe mein leak ka sabse common sign kya hai?",
+      "options": {
+        "A": "Pipe ka chamakna",
+        "B": "Walls ya floor par damp patches ya pani ke nishan",
+        "C": "Pipe ka garam hona",
+        "D": "Pipe ka thanda hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pipe leaks ke karan walls, ceilings ya floors par dampness, discoloration ya pani ke spots dikhai dete hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Agar drain snake se blockage clear na ho, toh next step kya ho sakta hai?",
+      "options": {
+        "A": "Ghar chhod dena",
+        "B": "Professional plumber ko bulana",
+        "C": "Zyada pani dalna",
+        "D": "Usse ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar basic tools se blockage clear na ho, toh professional plumber ke paas advanced tools aur expertise hoti hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Pipe leaks ko temporarily fix karne ke liye kya use kar sakte hain?",
+      "options": {
+        "A": "Glue",
+        "B": "Pipe repair clamp ya waterproof tape",
+        "C": "Nail polish",
+        "D": "Rubber band"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pipe repair clamps ya waterproof tape chote leaks ko temporary roop se seal kar sakte hain jab tak permanent repair na ho."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Drainage system mein 'foul smell' ka kya matlab ho sakta hai?",
+      "options": {
+        "A": "P-trap ka dry hona ya blockage",
+        "B": "Naya air freshener lagana",
+        "C": "Achha ventilation",
+        "D": "Pani ka saaf hona"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Agar P-trap dry ho jaye toh sewer gases ghar mein aa sakte hain, ya phir kahin blockage ho sakti hai jo smell ka karan ban rahi hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Drainage pipes mein 'tree roots' kaise problem create karte hain?",
+      "options": {
+        "A": "Pipes ko mazboot banate hain",
+        "B": "Pipes mein ghus kar blockages aur damage karte hain",
+        "C": "Pani ko filter karte hain",
+        "D": "Pipes ko garam rakhte hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tree roots pani aur nutrients ki talaash mein pipes ki choti cracks mein ghus jate hain aur unhein block ya tod sakte hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Pipes mein 'cracks' aur 'fractures' kiske karan ho sakte hain?",
+      "options": {
+        "A": "Sahi installation",
+        "B": "Ground movement, freezing temperatures ya heavy loads",
+        "C": "Kam pressure",
+        "D": "Saaf pani"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Zameen ke hilne, thand se pani ke jamne ya pipes par zyada wazan padne se cracks aur fractures ho sakte hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Drainage system mein 'siphonage' kya hai?",
+      "options": {
+        "A": "Pani ka tez flow",
+        "B": "Trap seal se pani ka bahar nikal jana, jisse sewer gases aate hain",
+        "C": "Pani ka filter hona",
+        "D": "Pipes ka garam hona"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Siphonage tab hota hai jab drain ke through pani ka suction itna strong ho jaye ki woh trap seal ke pani ko bhi bahar kheench le, jisse sewer gases andar aa sakte hain."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar ek pipe mein chota sa hole ho jaye, toh use kaise repair kar sakte hain?",
+      "options": {
+        "A": "Usmein tape chipka kar",
+        "B": "Pipe patch kit ya epoxy putty se",
+        "C": "Usmein kapda bhar kar",
+        "D": "Usmein keel thok kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chote holes ko pipe patch kit ya epoxy putty se seal kiya ja sakta hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Drainage pipes mein 'corrosion' kiske karan hoti hai?",
+      "options": {
+        "A": "Pani ka achha flow",
+        "B": "Chemical exposure, acidic waste water ya pipe material ki age",
+        "C": "Thanda pani",
+        "D": "Sunlight"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Corrosion chemicals, acidic waste water ya pipe material ke samay ke saath kharab hone se hoti hai, khaaskar metal pipes mein."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Toilet bowl mein pani ka level kam hona kiska sign ho sakta hai?",
+      "options": {
+        "A": "Achha drainage",
+        "B": "Partial blockage ya vent pipe issue",
+        "C": "Pani ki kami",
+        "D": "Garbage disposal problem"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Toilet bowl mein pani ka level kam hona partial blockage ya vent pipe mein problem ka sanket ho sakta hai jo siphonage effect create kar raha hai."
+    },
+    {
+      "qno": 66,
+      "module": 5,
+      "question": "Sewage line mein kaam karte samay sabse bada safety concern kya hai?",
+      "options": {
+        "A": "Zyada thand lagna",
+        "B": "Toxic gases, bacteria aur oxygen deficiency",
+        "C": "Kam roshni",
+        "D": "Tools ka kho jana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sewage lines mein Hydrogen Sulfide (H2S), Methane jaise toxic gases, harmful bacteria aur oxygen ki kami ka khatra rehta hai."
+    },
+    {
+      "qno": 67,
+      "module": 5,
+      "question": "Confined space entry se pehle kya check karna zaroori hai?",
+      "options": {
+        "A": "Apne phone ki battery",
+        "B": "Atmospheric conditions (gas levels, oxygen) aur proper ventilation",
+        "C": "Kitna khana khaya hai",
+        "D": "Mausam kaisa hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Confined space mein enter karne se pehle gas detector se atmospheric conditions check karna aur ventilation provide karna critical hai."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Sewage work mein kaun sa PPE sabse important hai?",
+      "options": {
+        "A": "Stylish cap",
+        "B": "Impermeable gloves, boots, safety glasses aur respirator",
+        "C": "Sandals",
+        "D": "Normal clothes"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sewage mein maujood pathogens aur chemicals se bachne ke liye impermeable PPE bahut zaroori hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Sewage line ki maintenance mein 'regular flushing' ka kya fayda hai?",
+      "options": {
+        "A": "Pani ki bachat hoti hai",
+        "B": "Sediment aur debris ko jama hone se rokta hai",
+        "C": "Pipes ko garam rakhta hai",
+        "D": "Pipes ko thanda karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular flushing se pipes mein sediment, grease aur anya debris jama nahi hote, jisse blockages ka khatra kam hota hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Sewage line inspection ke liye kaun si technique use hoti hai?",
+      "options": {
+        "A": "Awaz sunna",
+        "B": "CCTV camera inspection",
+        "C": "Coin toss karna",
+        "D": "Smell karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CCTV camera inspection se sewage lines ke andar ki condition ko visually check kiya jata hai, cracks, blockages ya root intrusion ko identify karne ke liye."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Sewage spill hone par kya action lena chahiye?",
+      "options": {
+        "A": "Use ignore karna",
+        "B": "Area ko isolate karna, PPE pehenna aur spill ko saaf karna",
+        "C": "Usmein khana pakana",
+        "D": "Usmein nahana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sewage spills health hazard hote hain, isliye area ko isolate karna, PPE pehenna aur spill ko disinfect karke saaf karna zaroori hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Main sewer line kahan se connect hoti hai?",
+      "options": {
+        "A": "Ghar ke bedroom se",
+        "B": "Building ke individual drainage lines se public sewer system tak",
+        "C": "Roof se",
+        "D": "Garden se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Main sewer line building ke internal drainage system ko public sewer network se connect karti hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Sewage line maintenance mein 'root cutting' ka kya matlab hai?",
+      "options": {
+        "A": "Ped lagana",
+        "B": "Pipes mein ghusi hui ped ki jadon ko remove karna",
+        "C": "Sabziyan kaatna",
+        "D": "Pipes ko chota karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Root cutting ek process hai jismein specialized tools use karke sewage pipes mein ghusi hui tree roots ko kaata aur remove kiya jata hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Sewage system mein 'backflow preventer' ka kya role hai?",
+      "options": {
+        "A": "Pani ka pressure badhana",
+        "B": "Contaminated water ko public water supply mein wapas aane se rokna",
+        "C": "Pani ko garam karna",
+        "D": "Pani ko filter karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Backflow preventer ek device hai jo contaminated water ko public drinking water supply mein wapas flow hone se rokta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Sewage work ke baad tools aur equipment ko kaise saaf karna chahiye?",
+      "options": {
+        "A": "Sirf pani se dhona",
+        "B": "Properly clean aur disinfect karna",
+        "C": "Unhein fenk dena",
+        "D": "Unhein aise hi rakh dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sewage ke contact mein aaye tools aur equipment ko contamination rokne ke liye achhe se saaf aur disinfect karna zaroori hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Preventive maintenance mein kya shamil hai?",
+      "options": {
+        "A": "Sirf tab kaam karna jab kuch toot jaye",
+        "B": "Regular inspection, cleaning aur potential issues ko address karna",
+        "C": "Naye pipes lagana har saal",
+        "D": "System ko zyada use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Preventive maintenance mein regular checks aur cleaning shamil hote hain taaki bade problems hone se pehle unhein roka ja sake."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Sewage line mein 'grease buildup' ko rokne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Zyada grease drain mein dalna",
+        "B": "Kitchen sink mein grease na dalna aur grease trap maintain karna",
+        "C": "Garam pani dalna",
+        "D": "Thanda pani dalna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grease ko sink mein dalne se bachna aur grease traps ko regular saaf karna grease buildup ko rokne mein madad karta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Confined space entry ke liye 'permit-to-work' system ka kya fayda hai?",
+      "options": {
+        "A": "Kaam ko slow karna",
+        "B": "Safety procedures ensure karna aur risks ko manage karna",
+        "C": "Extra paperwork add karna",
+        "D": "Workers ko pareshan karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Permit-to-work system confined space entry ke liye required safety measures aur procedures ko ensure karta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Sewage system mein 'septic tank' ka kya function hai?",
+      "options": {
+        "A": "Pani ko filter karke peene ke liye",
+        "B": "Domestic wastewater ko collect, treat aur dispose karna (jahan central sewer system na ho)",
+        "C": "Barish ka pani jama karna",
+        "D": "Garam pani supply karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Septic tank ek underground chamber hai jo gharelu waste water ko partially treat karta hai jahan public sewer system available nahi hota."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Safety harness aur lifeline kab use kiya jata hai?",
+      "options": {
+        "A": "Jab khana kha rahe hon",
+        "B": "Jab height par ya confined space mein kaam kar rahe hon jahan girne ka khatra ho",
+        "C": "Jab sona ho",
+        "D": "Jab chal rahe hon"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Safety harness aur lifeline workers ko girne se bachane ke liye use hote hain, khaaskar height par ya confined spaces mein."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Sewage line mein 'hydrogen sulfide' (H2S) gas ki pehchan kaise hoti hai?",
+      "options": {
+        "A": "Sweet smell",
+        "B": "Rotten egg smell",
+        "C": "Lemon smell",
+        "D": "Flower smell"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hydrogen Sulfide gas ki khas pehchan uski rotten egg (sade ande jaisi) smell hai, lekin high concentrations mein yeh smell sense ko paralyze kar sakti hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Sewage line ke paas excavation karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Blindly khodna",
+        "B": "Underground utilities (jaise gas, bijli, pani) ka pata lagana",
+        "C": "Jaldi jaldi kaam karna",
+        "D": "Bade tools use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Excavation se pehle underground utilities ka pata lagana bahut zaroori hai taaki unhein damage na ho aur safety risks na hon."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Sewage work ke dauran 'hand hygiene' ka kya importance hai?",
+      "options": {
+        "A": "Sirf achha dikhne ke liye",
+        "B": "Infections aur bimariyon ko phailne se rokne ke liye",
+        "C": "Kaam ko slow karne ke liye",
+        "D": "Tools ko saaf rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sewage mein maujood harmful bacteria se bachne aur infections rokne ke liye regular hand hygiene bahut zaroori hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Sewage line mein 'blockage location' ko accurately identify karne ka kya fayda hai?",
+      "options": {
+        "A": "Zyada paise kharch karna",
+        "B": "Targeted repair karna aur unnecessary digging se bachna",
+        "C": "Kaam ko lamba karna",
+        "D": "Zyada tools use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Accurate blockage location se repair work zyada efficient hota hai aur unnecessary excavation se bacha ja sakta hai."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Sewage lines ke liye 'pressure testing' kyon ki jaati hai?",
+      "options": {
+        "A": "Pipe ka colour check karne ke liye",
+        "B": "Leaks aur system ki integrity check karne ke liye",
+        "C": "Pani ka taste check karne ke liye",
+        "D": "Pipe ka weight check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pressure testing se pipes mein leaks aur unki structural integrity ka pata lagaya jata hai, jisse system ki reliability ensure hoti hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Hydro-jetting technique ka kya principle hai?",
+      "options": {
+        "A": "Chemicals use karna",
+        "B": "High-pressure water se blockages saaf karna",
+        "C": "Heat use karna",
+        "D": "Manual digging karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hydro-jetting mein high-pressure water streams ka use kiya jata hai pipes ke andar ki blockages, grease aur debris ko saaf karne ke liye."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "CCTV inspection se drainage lines mein kya detect kiya ja sakta hai?",
+      "options": {
+        "A": "Pani ka temperature",
+        "B": "Cracks, root intrusion, collapsed pipes aur blockages",
+        "C": "Pipe ka material",
+        "D": "Pani ka pressure"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CCTV camera pipes ke andar ki physical damage, obstructions aur structural issues ko visually identify karta hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Trenchless repair methods ka kya fayda hai?",
+      "options": {
+        "A": "Bahut zyada khodai ki zaroorat padti hai",
+        "B": "Minimal disruption to property, faster aur less costly",
+        "C": "Bahut zyada samay lagta hai",
+        "D": "Zyada manpower ki zaroorat padti hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Trenchless methods mein bina zyada khodai ke pipes ko repair ya replace kiya jata hai, jisse property ko kam nuksan hota hai aur kaam jaldi hota hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Improper waste disposal ka environment par kya impact hota hai?",
+      "options": {
+        "A": "Hawa saaf ho jaati hai",
+        "B": "Soil aur water pollution, health hazards",
+        "C": "Ped zyada ugte hain",
+        "D": "Jungle badhte hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Improper waste disposal se zameen aur pani polluted hote hain, jisse insani swasthya aur paryavaran ko nuksan hota hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Water conservation ke liye drainage system mein kya kiya ja sakta hai?",
+      "options": {
+        "A": "Zyada pani waste karna",
+        "B": "Grey water recycling system install karna",
+        "C": "Pipes ko leak hone dena",
+        "D": "Pani ko continuously chalana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grey water recycling se kitchen aur bathroom se nikle pani ko non-potable uses (jaise gardening, toilet flushing) ke liye use kiya ja sakta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Pipe bursting technique kiske liye use hoti hai?",
+      "options": {
+        "A": "Naye pipes lagane ke liye",
+        "B": "Existing damaged pipe ko replace karne ke liye, bina zyada khodai ke",
+        "C": "Pipes ko saaf karne ke liye",
+        "D": "Pipes ko chota karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pipe bursting ek trenchless method hai jismein ek naya pipe existing damaged pipe ki jagah leta hai, use andar se tod kar."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Cured-in-Place Pipe (CIPP) lining ka kya fayda hai?",
+      "options": {
+        "A": "Naya pipe dalna padta hai",
+        "B": "Existing pipe ke andar ek naya, seamless pipe create karna",
+        "C": "Bahut mehnga hota hai",
+        "D": "Pipe ko kamzor karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CIPP lining mein existing damaged pipe ke andar ek resin-saturated liner dala jata hai jo cure hokar naya, mazboot pipe banata hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Rainwater harvesting ka kya purpose hai?",
+      "options": {
+        "A": "Barish ke pani ko waste karna",
+        "B": "Barish ke pani ko collect aur store karna non-potable uses ke liye",
+        "C": "Nadiyon mein pani chhodna",
+        "D": "Samudra mein pani dalna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rainwater harvesting barish ke pani ko jama karke usse garden, toilet flushing ya cleaning jaise kaam mein use karne ka process hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Drainage system mein 'bio-degradable drain cleaners' ka kya fayda hai?",
+      "options": {
+        "A": "Bahut harmful hote hain",
+        "B": "Environmentally friendly aur less corrosive",
+        "C": "Pipes ko damage karte hain",
+        "D": "Koi fayda nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bio-degradable drain cleaners chemicals ke bajaye enzymes ya micro-organisms use karte hain, jo environment ke liye safer hote hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Sewer system mein 'fat, oil, and grease' (FOG) ko properly manage karna kyon zaroori hai?",
+      "options": {
+        "A": "Woh pipes ko chamakdar banate hain",
+        "B": "Blockages aur sewer overflows ko rokne ke liye",
+        "C": "Woh pipes ko lubricate karte hain",
+        "D": "Unka koi impact nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FOG sewer lines mein jam kar bade blockages aur overflows ka karan bante hain, jisse environment aur public health ko nuksan hota hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Drainage system mein 'smart sensors' ka kya role ho sakta hai?",
+      "options": {
+        "A": "Pipes ko decorate karna",
+        "B": "Leaks, blockages aur flow anomalies ko real-time monitor karna",
+        "C": "Pani ko garam karna",
+        "D": "Pipes ko thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Smart sensors drainage system mein problems ko early detect kar sakte hain, jisse preventive maintenance zyada effective ho jaati hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Drainage system mein 'sedimentation' kya hai?",
+      "options": {
+        "A": "Pani ka tez flow",
+        "B": "Solid particles ka pipes ke bottom par jama hona",
+        "C": "Pani ka ubalna",
+        "D": "Pani ka filter hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sedimentation mein solid particles (jaise mitti, ret) pani ke flow ke saath pipes mein aate hain aur dheere-dheere bottom par jama hokar blockages create karte hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Sustainable drainage practices ka kya matlab hai?",
+      "options": {
+        "A": "Sirf naye pipes lagana",
+        "B": "Environmental impact ko kam karte hue drainage solutions provide karna",
+        "C": "Zyada chemicals use karna",
+        "D": "Maintenance na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sustainable drainage practices mein aise methods use hote hain jo pani ko effectively manage karte hain, environment ko kam nuksan pahunchate hain aur resources ko conserve karte hain."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Drainage system mein 'regular professional inspection' ka kya fayda hai?",
+      "options": {
+        "A": "Sirf paise kharch karna",
+        "B": "Hidden problems ko early detect karna aur costly repairs se bachna",
+        "C": "Kaam ko lamba karna",
+        "D": "Pipes ko jaldi kharab karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professional inspections se hidden issues jaise chote cracks, root intrusion ya pipe alignment problems ko samay rehte identify kiya ja sakta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "India mein drainage aur sanitation ke liye kaun si regulatory body ya standards hain?",
+      "options": {
+        "A": "NASA",
+        "B": "BIS (Bureau of Indian Standards) aur local municipal bodies",
+        "C": "WHO",
+        "D": "UNICEF"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "India mein Bureau of Indian Standards (BIS) plumbing aur sanitation ke liye codes aur standards set karta hai, aur local municipal bodies unhein enforce karti hain."
+    }
+  ]
+}

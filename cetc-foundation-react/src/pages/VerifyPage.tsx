@@ -61,7 +61,7 @@ export default function VerifyPage() {
           <div className="verify-card" id="verify-card">
             <div style={{ textAlign: 'center', marginBottom: '24px' }}>
               <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px', color: 'var(--cetc-gold)' }}><Search size={48} /></div>
-              <h2 style={{ fontFamily: 'var(--font-display)', fontSize: '22px', color: 'var(--navy)', marginBottom: '6px' }}>
+              <h2 style={{ fontFamily: 'var(--font-display)', fontSize: '22px', color: 'var(--text-main)', marginBottom: '6px' }}>
                 Certificate Verification Portal
               </h2>
               <p style={{ fontSize: '13px', color: 'var(--muted)' }}>
@@ -124,7 +124,7 @@ export default function VerifyPage() {
                   ].map((item, i) => (
                     <div key={i} style={{ padding: '10px 14px', background: 'rgba(27,122,74,0.06)', borderRadius: '8px' }}>
                       <div style={{ fontSize: '10px', color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.06em' }}>{item.label}</div>
-                      <div style={{ fontSize: '14px', fontWeight: 600, color: 'var(--navy)', marginTop: '2px' }}>{item.value}</div>
+                      <div style={{ fontSize: '14px', fontWeight: 600, color: 'var(--text-main)', marginTop: '2px' }}>{item.value}</div>
                     </div>
                   ))}
                 </div>
@@ -165,8 +165,8 @@ export default function VerifyPage() {
               { icon: <Mail size={28} />, title: 'Need Help?', desc: 'Contact info@cetcf.org or call us for verification assistance.' },
             ].map((item, i) => (
               <div key={i} className="card" style={{ padding: '20px', textAlign: 'center' }}>
-                <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '8px', color: 'var(--navy)' }}>{item.icon}</div>
-                <h4 style={{ fontSize: '14px', fontWeight: 600, color: 'var(--navy)', marginBottom: '6px' }}>{item.title}</h4>
+                <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '8px', color: 'var(--text-main)' }}>{item.icon}</div>
+                <h4 style={{ fontSize: '14px', fontWeight: 600, color: 'var(--text-main)', marginBottom: '6px' }}>{item.title}</h4>
                 <p style={{ fontSize: '12px', color: 'var(--muted)', lineHeight: 1.5 }}>{item.desc}</p>
               </div>
             ))}

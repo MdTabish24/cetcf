@@ -1,0 +1,1443 @@
+{
+  "course_name": "Stock Market & Investment Basics",
+  "sector": "Business, Retail & Finance",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Financial Markets",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Stock Market Participants & Regulators",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Trading & Investment Concepts",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Fundamental Analysis Basics",
+      "question_range": "Q52-Q67"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Technical Analysis Basics",
+      "question_range": "Q68-Q83"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Mutual Funds & Other Investment Avenues",
+      "question_range": "Q84-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Stock market mein 'share' ka kya matlab hota hai?",
+      "options": {
+        "A": "Company mein hissa (ownership)",
+        "B": "Company se liya gaya loan",
+        "C": "Government bond",
+        "D": "Ek tarah ka tax"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Share khareedne ka matlab hai company mein ek chota sa hissa ya ownership khareedna. Isse aap company ke munafa aur nuksan mein hissedar bante hain."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "India ke do pramukh (main) stock exchanges kaun se hain?",
+      "options": {
+        "A": "SEBI aur RBI",
+        "B": "NSE (National Stock Exchange) aur BSE (Bombay Stock Exchange)",
+        "C": "NIFTY aur SENSEX",
+        "D": "CDSL aur NSDL"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "NSE aur BSE India ke do sabse bade aur pramukh stock exchanges hain jahan par shares ki khareed-farokht hoti hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Primary Market kise kehte hain?",
+      "options": {
+        "A": "Jahan purane shares khareede-beche jaate hain",
+        "B": "Jahan company pehli baar apne shares (IPO) public ko bechti hai",
+        "C": "Jahan sirf government bonds milte hain",
+        "D": "Jahan mutual funds trade hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Primary Market woh jagah hai jahan company Initial Public Offering (IPO) ke zariye pehli baar apne shares seedhe investors ko issue karti hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "BSE ke benchmark index ka kya naam hai?",
+      "options": {
+        "A": "NIFTY 50",
+        "B": "Bank Nifty",
+        "C": "SENSEX",
+        "D": "Dow Jones"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "SENSEX (Sensitive Index) Bombay Stock Exchange (BSE) ka benchmark index hai, jo BSE par listed 30 sabse badi companies ke performance ko track karta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Secondary Market ka kya kaam hai?",
+      "options": {
+        "A": "Naye IPOs launch karna",
+        "B": "Investors ke beech pehle se issue kiye gaye shares ki trading karwana",
+        "C": "Company ko seedha paisa dena",
+        "D": "Sirf bonds ki trading karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Secondary Market mein IPO ke baad shares list ho jaate hain aur investors aapas mein unki khareed-farokht karte hain. Stock exchange ek secondary market hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "NIFTY 50 index kya darshata hai?",
+      "options": {
+        "A": "BSE ki top 50 companies",
+        "B": "Pure Indian stock market ka haal",
+        "C": "NSE par listed 50 alag-alag sectors ki pramukh companies ka performance",
+        "D": "Sirf banking stocks ka performance"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "NIFTY 50 National Stock Exchange (NSE) ka benchmark index hai. Yeh NSE par listed 50 badi aur actively traded companies ke performance ko represent karta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Bull Market kise kehte hain?",
+      "options": {
+        "A": "Jab market lagatar gir raha ho",
+        "B": "Jab market mein koi utar-chadav na ho",
+        "C": "Jab market mein lagatar tezi (badhotri) ho aur investors aashavadi (optimistic) hon",
+        "D": "Jab market band ho"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bull Market ek aisi sthiti hai jahan stock prices lagatar badh rahe hote hain aur aam taur par economy bhi majboot hoti hai. Investors ka sentiment positive hota hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Bear Market ka kya matlab hai?",
+      "options": {
+        "A": "Jab stock prices mein tezi se uchhal aaye",
+        "B": "Jab market mein lagatar giravat ho aur investors nirashavadi (pessimistic) hon",
+        "C": "Jab market flat rehta hai",
+        "D": "Jab naye IPOs aate hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bear Market woh situation hai jab stock prices lagatar gir rahe hote hain, aam taur par 20% ya usse zyada. Is dauran investors ka sentiment negative hota hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Demat Account ka kya upyog hai?",
+      "options": {
+        "A": "Bank mein paise jama karne ke liye",
+        "B": "Shares aur securities ko electronic form mein rakhne ke liye",
+        "C": "Mutual funds khareedne ke liye",
+        "D": "Property ke documents rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Demat Account (Dematerialized Account) ek electronic account hai jismein aapke khareede hue shares, bonds, aur anya securities digital form mein surakshit rakhe jaate hain."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Trading Account kyu zaroori hai?",
+      "options": {
+        "A": "Shares ko store karne ke liye",
+        "B": "Stock market mein shares khareedne aur bechne ke orders place karne ke liye",
+        "C": "Bank se loan lene ke liye",
+        "D": "Dividend receive karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Trading Account aapke Demat Account aur Bank Account ke beech ek link ka kaam karta hai. Shares khareedne ya bechne ke liye order aap Trading Account se hi dete hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Stock market mein 'Volatility' ka kya arth hai?",
+      "options": {
+        "A": "Market ka volume",
+        "B": "Stock price mein tezi se aur bade utar-chadhav ka hona",
+        "C": "Market ka hamesha upar jaana",
+        "D": "Market ka band rehna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Volatility se pata chalta hai ki kisi stock ya market ka price kitni tezi se aur kitna zyada upar-neeche ho raha hai. High volatility matlab zyada risk aur zyada return ki sambhavna."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Market Capitalization (Market Cap) kaise calculate kiya jaata hai?",
+      "options": {
+        "A": "Company ka total profit x Total shares",
+        "B": "Ek share ka current price x Company ke total outstanding shares",
+        "C": "Company ki total sales / Total shares",
+        "D": "Company ka total debt"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Market Cap company ka total valuation hota hai. Ise nikalne ke liye, company ke ek share ke current market price ko uske total number of shares se multiply kiya jaata hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Blue-chip stocks kise kaha jaata hai?",
+      "options": {
+        "A": "Nayi aur chhoti companies ke stocks",
+        "B": "Jo stocks 10 rupaye se kam ke hon",
+        "C": "Badi, financially strong aur well-established companies ke stocks",
+        "D": "Jo stocks lagatar gir rahe hon"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Blue-chip stocks aam taur par un badi, pratishthit (reputed) aur financially stable companies ke hote hain jinka performance record lamba aur accha hota hai. Inhe kam risky maana jaata hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "IPO ka full form kya hai?",
+      "options": {
+        "A": "Initial Price Offering",
+        "B": "Internal Public Order",
+        "C": "Initial Public Offering",
+        "D": "Instant Payment Offer"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "IPO ka full form Initial Public Offering hai. Yeh woh process hai jiske zariye ek private company pehli baar apne shares public ko offer karke stock exchange par list hoti hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Dividend kya hota hai?",
+      "options": {
+        "A": "Share bechne par hone wala munafa",
+        "B": "Company dwara apne munafey ka woh hissa jo shareholders ko diya jaata hai",
+        "C": "Broker ko diya jaane wala commission",
+        "D": "Share khareedne par lagne wala tax"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dividend company ke profit ka ek hissa hota hai jo woh apne shareholders ko unke nivesh ke badle mein deti hai. Yeh aam taur par per-share basis par declare hota hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Face Value (of a share) kya hoti hai?",
+      "options": {
+        "A": "Share ka current market price",
+        "B": "Share ki woh mool keemat jo company ke records mein hoti hai (par value)",
+        "C": "Share ki sabse zyada keemat",
+        "D": "IPO mein share ka issue price"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Face Value ya Par Value ek share ki nominal keemat hoti hai jo company ke accounting records mein likhi hoti hai. Iska market price se seedha sambandh nahi hota, lekin dividend calculation mein iska istemal hota hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek investor ke liye stock market mein paisa lagane ka mukhya uddeshya kya hota hai?",
+      "options": {
+        "A": "Tax bachana",
+        "B": "Apne paise ko samay ke saath badhana (wealth creation)",
+        "C": "Company par control hasil karna",
+        "D": "Roz ka kharcha nikalna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Stock market mein nivesh ka pramukh uddeshya capital appreciation (पूंजी वृद्धि) aur dividend income ke zariye apne paise ko badhana hota hai, jise wealth creation kehte hain."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Indian stock market ka regulator kaun hai?",
+      "options": {
+        "A": "RBI (Reserve Bank of India)",
+        "B": "Finance Ministry",
+        "C": "SEBI (Securities and Exchange Board of India)",
+        "D": "IRDAI"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "SEBI, yaani Securities and Exchange Board of India, Indian capital aur securities market ka pramukh niyamak (regulator) hai. Iska kaam investors ke hiton ki raksha karna aur market ko regulate karna hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Stock Broker ka kya kaam hota hai?",
+      "options": {
+        "A": "Investors ko loan dena",
+        "B": "Stock exchange par investors ke liye shares khareedna aur bechna",
+        "C": "Company ke accounts manage karna",
+        "D": "Market ko regulate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Stock Broker ek intermediary hota hai jo stock exchange ka member hota hai aur investors ke behalf par unke buy/sell orders ko execute karta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Depository kya hoti hai?",
+      "options": {
+        "A": "Ek bank jo loan deta hai",
+        "B": "Ek sanstha jo securities ko electronic form mein hold karti hai",
+        "C": "Ek stock exchange",
+        "D": "Ek insurance company"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Depository ek bank ki tarah hai jahan shares aur securities rakhe jaate hain, lekin electronic form mein. India mein do pramukh depositories hain - NSDL aur CDSL."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "India mein do main Depositories kaun si hain?",
+      "options": {
+        "A": "NSE aur BSE",
+        "B": "SEBI aur RBI",
+        "C": "NSDL (National Securities Depository Ltd) aur CDSL (Central Depository Services Ltd)",
+        "D": "AMFI aur IRDAI"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "NSDL aur CDSL India ki do depositories hain jo investors ke Demat accounts ko maintain karti hain aur securities ka electronic settlement sunishchit karti hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Retail Investor kise kehte hain?",
+      "options": {
+        "A": "Bade banks aur financial institutions",
+        "B": "Ek aam vyakti jo kam maatra mein nivesh karta hai",
+        "C": "Foreign investors",
+        "D": "Company ke malik (promoters)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Retail Investor ek individual investor hota hai, jaise aap aur hum, jo apne personal account se apekshakrit (relatively) chhoti rakam invest karta hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Institutional Investors (DIIs/FIIs) kaun hote hain?",
+      "options": {
+        "A": "Chhote niveshak jo roz trading karte hain",
+        "B": "Badi sansthayein jaise Mutual Funds, Insurance companies, aur videshi nivesh fund",
+        "C": "Sarkari karmchari",
+        "D": "Stock brokers"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Institutional Investors badi matra mein paisa invest karte hain. Domestic Institutional Investors (DIIs) mein Indian mutual funds, insurance companies aate hain, jabki Foreign Institutional Investors (FIIs) videshi fund hote hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "SEBI ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Sarkar ke liye tax collect karna",
+        "B": "Investors ke hiton ki raksha karna aur market ko theek se chalana",
+        "C": "Companies ko profit kamane mein madad karna",
+        "D": "Interest rates tay karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SEBI ke teen mukhya kaam hain: Issuers (companies) ko platform dena, Investors ke interests ko protect karna, aur Market intermediaries (brokers, etc.) ko regulate karna."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Depository Participant (DP) kaun hota hai?",
+      "options": {
+        "A": "Depository ka malik",
+        "B": "Ek investor",
+        "C": "Depository ka agent (jaise broker ya bank) jo investors ko Demat account ki suvidha deta hai",
+        "D": "SEBI ka ek officer"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Aap seedhe NSDL ya CDSL mein account nahi khol sakte. Aap ek Depository Participant (DP) ke paas jaate hain, jo aapka broker ya bank ho sakta hai. DP, depository aur investor ke beech ki kadi hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Insider Trading kise kehte hain?",
+      "options": {
+        "A": "Company ke andar kaam karte hue trading karna",
+        "B": "Market band hone ke baad trading karna",
+        "C": "Company ki gupt (non-public) jaankari ka istemal karke share khareedna ya bechna",
+        "D": "Bahut saare shares ek saath khareedna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Insider Trading ek gairkanooni (illegal) kaam hai. Ismein company se juda koi vyakti (jaise director, employee) aisi jaankari ka fayda uthata hai jo public ko nahi pata, aur usse munafa kamata hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Clearing Corporation ka stock market mein kya role hai?",
+      "options": {
+        "A": "Stock prices ko control karna",
+        "B": "Saare trades ki settlement aur guarantee sunishchit karna",
+        "C": "Investors ko advice dena",
+        "D": "Naye stocks list karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Clearing Corporation stock exchange aur investors ke beech kaam karta hai. Iska kaam hai har trade ko verify karna, settlement karwana (shares aur paise ka transfer), aur counterparty risk ko khatm karna."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Promoter kaun hota hai?",
+      "options": {
+        "A": "Company ka CEO",
+        "B": "Woh vyakti ya group jo company shuru karta hai aur usmein badi hissedari rakhta hai",
+        "C": "Ek stock broker",
+        "D": "Ek retail investor"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Promoter woh log hote hain jinke paas company ko shuru karne ka idea hota hai aur woh shuruaati poonji lagate hain. Aam taur par unke paas company ka sabse bada stake hota hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "KYC ka full form kya hai aur iski zaroorat kyu hoti hai?",
+      "options": {
+        "A": "Know Your Company - Company ke baare mein janne ke liye",
+        "B": "Know Your Customer - Investor ki pehchan verify karne ke liye",
+        "C": "Keep Your Cash - Paise bachane ke liye",
+        "D": "Know Your Capital - Apni poonji janne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "KYC (Know Your Customer) ek process hai jiske zariye financial institutions (jaise brokers, banks) apne customer ki identity aur address verify karte hain. Yeh money laundering ko rokne ke liye zaroori hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Agar aapko apne broker se koi shikayat hai, to aap sabse pehle kahan sampark karenge?",
+      "options": {
+        "A": "Seedhe Supreme Court mein",
+        "B": "Broker ke Compliance Officer ya Grievance Cell mein",
+        "C": "Prime Minister Office mein",
+        "D": "RBI ke paas"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kisi bhi samasya ke liye pehla kadam hamesha service provider se hi sampark karna hota hai. Agar wahan se samadhan na mile, tab aap Stock Exchange ya SEBI ke SCORES platform par ja sakte hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Arbitrator kaun hota hai?",
+      "options": {
+        "A": "Ek trader jo do alag-alag markets ke price difference se fayda uthata hai",
+        "B": "Ek nishpaksh (neutral) teesra paksh jo investor aur broker ke beech vivad suljhata hai",
+        "C": "Ek market analyst",
+        "D": "SEBI ka chairman"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Arbitration court ke bahar vivad suljhane ka ek tareeka hai. Stock exchange ek arbitrator niyukt karta hai jo dono pakshon ki baat sunkar faisla deta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Registrar and Transfer Agent (RTA) ka kya kaam hai?",
+      "options": {
+        "A": "Stock exchange chalana",
+        "B": "Company ke liye investors ka record maintain karna, jaise shareholding, dividend payment, etc.",
+        "C": "Brokerage calculate karna",
+        "D": "Market research karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RTA jaise CAMS aur KFintech, companies ke liye unke shareholders ka poora record rakhte hain. Naye shares issue karna, dividend bhejna, aur ownership transfer jaise kaam RTA hi dekhta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "SEBI SCORES kya hai?",
+      "options": {
+        "A": "Stock market performance score",
+        "B": "Ek online platform jahan investor listed companies ya intermediaries ke khilaf shikayat darj kar sakte hain",
+        "C": "Ek trading software",
+        "D": "Brokers ki rating system"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SCORES (SEBI Complaints Redress System) ek online portal hai jahan niveshak apni shikayatein SEBI tak pahuncha sakte hain, agar unhe broker ya company se santoshjanak jawab nahi milta."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Market Maker ka kya role hota hai, khas karke SME IPOs mein?",
+      "options": {
+        "A": "Market ko hamesha upar le jaana",
+        "B": "Stock mein liquidity pradan karna, yaani hamesha khareedne aur bechne ke liye quote dena",
+        "C": "Company ke liye marketing karna",
+        "D": "Investors ko gair-kanooni tips dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Market Maker ek entity hai jo kisi particular stock ke liye hamesha buy aur sell price quote karti hai. Isse us stock mein liquidity bani rehti hai aur investors jab chahe use khareed ya bech sakte hain."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Intraday Trading ka kya matlab hai?",
+      "options": {
+        "A": "Shares ko khareed kar lambe samay tak rakhna",
+        "B": "Ek hi din mein shares khareedna aur bech dena",
+        "C": "IPO mein nivesh karna",
+        "D": "Sirf raat mein trading karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Intraday Trading mein trader market band hone se pehle apni position (khareedi ya bechi hui) ko square off kar deta hai. Iska uddeshya ek din ke price movement se fayda kamana hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Delivery-based Trading kya hoti hai?",
+      "options": {
+        "A": "Shares ko usi din bech dena",
+        "B": "Shares khareed kar apne Demat account mein lena aur kuch din, mahine ya saal baad bechna",
+        "C": "Futures aur Options mein trade karna",
+        "D": "Broker se udhaar lekar trading karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Delivery Trading mein aap shares khareedte hain aur unka poora payment karte hain. Shares aapke Demat account mein T+1 din (Trading day plus one day) mein aa jaate hain. Aap unhe jab tak chahe hold kar sakte hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Stop-Loss order kyu lagaya jaata hai?",
+      "options": {
+        "A": "Munafa book karne ke liye",
+        "B": "Ek trade mein संभावित nuksan (potential loss) ko seemit (limit) karne ke liye",
+        "C": "Market price par turant khareedne ke liye",
+        "D": "Aur zyada shares khareedne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stop-Loss ek order hai jo aapke potential loss ko kam karta hai. Agar share ka price aapke khareede hue daam se neeche ek certain level tak gir jaata hai, to yeh order automatically trigger hokar aapke shares bech deta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Limit Order kya hota hai?",
+      "options": {
+        "A": "Market mein jo bhi price chal raha hai, uspar turant khareedna ya bechna",
+        "B": "Ek specific price ya usse behtar price par hi share khareedne ya bechne ka order",
+        "C": "Ek din mein kitne share khareed sakte hain uski limit",
+        "D": "Sirf Intraday trading ke liye order"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Limit Order mein aap ek price set karte hain. Buy limit order tabhi execute hoga jab market price aapke set kiye gaye price ya usse kam par aayega. Sell limit order tab execute hoga jab price set price ya usse zyada par aayega."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Market Order ka kya fayda hai?",
+      "options": {
+        "A": "Aapko manchaha price milta hai",
+        "B": "Order turant execute hone ki guarantee hoti hai, lekin price ki nahi",
+        "C": "Ismein brokerage kam lagti hai",
+        "D": "Yeh nuksan ko rokta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Market Order ka matlab hai ki aap market mein available best price par turant khareedna ya bechna chahte hain. Ismein order execution ki speed to milti hai, par price thoda upar-neeche ho sakta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Short Selling kise kehte hain?",
+      "options": {
+        "A": "Kam samay ke liye shares khareedna",
+        "B": "Shares ko pehle bechna (jabki aapke paas nahi hain) aur baad mein jab daam gir jaaye to khareed lena",
+        "C": "Chhote-chhote amounts mein shares khareedna",
+        "D": "Kam daam wale shares bechna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Short Selling mein trader ko lagta hai ki share ka price girega. Isliye woh broker se share udhaar lekar pehle market mein bech deta hai aur jab price girta hai to wapas khareed kar broker ko lauta deta hai. Beech ka difference uska munafa hota hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Bid Price aur Ask Price mein kya antar hai?",
+      "options": {
+        "A": "Bid = Khareedne ka price, Ask = Bechne ka price",
+        "B": "Bid = Bechne ka price, Ask = Khareedne ka price",
+        "C": "Dono ek hi hote hain",
+        "D": "Bid = Aaj ka price, Ask = Kal ka price"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bid price woh sabse zyada price hai jo koi khareedar (buyer) ek share ke liye dene ko taiyar hai. Ask price woh sabse kam price hai jispar koi bechne wala (seller) apna share bechne ko taiyar hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Bid-Ask Spread kya hota hai?",
+      "options": {
+        "A": "Ek din ka sabse high aur low price ka antar",
+        "B": "Ask price aur Bid price ke beech ka antar",
+        "C": "Brokerage charge",
+        "D": "Share ka volume"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Spread = Ask Price - Bid Price. Yeh antar us stock ki liquidity ko darshata hai. Kam spread matlab high liquidity, aur zyada spread matlab kam liquidity."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Circuit Breaker (Upper/Lower Circuit) kab lagta hai?",
+      "options": {
+        "A": "Jab market mein bahut zyada volume ho",
+        "B": "Jab kisi stock ya index mein ek din mein bahut zyada tezi ya mandi aa jaaye",
+        "C": "Jab koi company dividend declare karti hai",
+        "D": "Har din market band hone par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Panic buying ya selling ko rokne ke liye SEBI ne circuit limits banayi hain. Agar koi stock ya index ek din mein ek nirdharit percentage se zyada badh ya gir jaata hai, to usmein trading kuch samay ke liye rok di jaati hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Portfolio Diversification ka kya matlab hai?",
+      "options": {
+        "A": "Saara paisa ek hi stock mein laga dena",
+        "B": "Apne nivesh ko alag-alag stocks, sectors aur asset classes mein baantna",
+        "C": "Sirf ek hi sector ke stocks khareedna",
+        "D": "Roz-roz stocks khareedna aur bechna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Diversification ka matlab hai 'Don't put all your eggs in one basket'. Ismein risk ko kam karne ke liye paiso ko alag-alag jagah invest kiya jaata hai, taaki agar ek investment perform na kare to doosra uski bharpaai kar sake."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Rolling Settlement system mein T+1 ka kya arth hai?",
+      "options": {
+        "A": "Trade ke 1 minute baad settlement",
+        "B": "Trade kal hoga",
+        "C": "Trade (Sauda) hone ke 1 working day ke baad shares aur paise ka len-den poora hoga",
+        "D": "Trade ke 1 hafte baad settlement"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "T+1 ka matlab hai Trading Day plus One working day. Agar aapne Somvar ko share khareede, to Budhwar (Wednesday) tak woh aapke Demat account mein aur paise seller ke account mein settle ho jayenge. (Note: Indian markets moved to T+1 completely in Jan 2023, so this is current)."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Stock Split kyu kiya jaata hai?",
+      "options": {
+        "A": "Company ka profit badhane ke liye",
+        "B": "Share ki liquidity badhane aur use chhote investors ke liye sasta (affordable) banane ke liye",
+        "C": "Shareholders ki sankhya kam karne ke liye",
+        "D": "Company ka market cap badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Stock Split mein ek share ko kai hisson mein baant diya jaata hai. Isse per-share price kam ho jaata hai, lekin company ka market cap same rehta hai. Yeh share ko zyada liquid aur chhote niveshakon ke liye aakarshak banata hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Bonus Issue kya hota hai?",
+      "options": {
+        "A": "Company dwara employees ko diya gaya bonus",
+        "B": "Company dwara apne maujooda shareholders ko muft mein diye gaye extra shares",
+        "C": "IPO mein milne wala discount",
+        "D": "Ek tarah ka dividend"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bonus Issue mein company apne reserves aur surplus ka istemal karke apne existing shareholders ko free mein naye shares deti hai. Isse company ki paid-up capital badh jaati hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Systematic Investment Plan (SIP) kya hai?",
+      "options": {
+        "A": "Ek saath bahut saara paisa invest karna",
+        "B": "Har mahine ek nishchit (fixed) rakam nियमित roop se invest karna",
+        "C": "Sirf stocks mein invest karna",
+        "D": "Ek high-risk trading strategy"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SIP ek tareeka hai jismein aap har mahine ek tay amount Mutual Fund ya stocks mein invest karte hain. Isse Rupee Cost Averaging ka fayda milta hai aur discipline ke saath nivesh hota hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Averaging Down ya Rupee Cost Averaging kya hai?",
+      "options": {
+        "A": "Jab share ka price badhe to aur khareedna",
+        "B": "Jab share ka price gire to aur shares khareedna taaki average buying price kam ho jaaye",
+        "C": "Apne saare shares bech dena",
+        "D": "Har share ka average price nikalna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh ek strategy hai jismein investor kisi stock ke girne par uske aur shares khareedta hai. Isse uski overall khareedari ki average laagat (cost) kam ho jaati hai. SIP isi principle par kaam karta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Derivatives (Futures & Options) kya hote hain?",
+      "options": {
+        "A": "Company ke shares",
+        "B": "Ek financial contract jinki value kisi underlying asset (jaise stock, index) se derive hoti hai",
+        "C": "Ek tarah ka mutual fund",
+        "D": "Government bonds"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Derivatives complex financial instruments hain. Inki apni koi value nahi hoti, balki inki value kisi aur cheez (underlying asset) ke price par nirbhar karti hai. Ye aam taur par hedging ya speculation ke liye use hote hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Brokerage kya hoti hai?",
+      "options": {
+        "A": "Sarkar ko diya jaane wala tax",
+        "B": "Aapke trade ko execute karne ke liye broker dwara li jaane wali fees ya commission",
+        "C": "Demat account ka maintenance charge",
+        "D": "SEBI ko di jaane wali fees"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Brokerage woh charge hai jo aapka stock broker aapse aapke buy aur sell orders ko stock exchange par execute karne ke badle mein leta hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Fundamental Analysis ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Share price ke charts aur patterns ko study karna",
+        "B": "Company ke business, finances, aur economy ko analyze karke share ki 'intrinsic value' pata karna",
+        "C": "Market ke sentiment ko samajhna",
+        "D": "Roz ke price movement se munafa kamana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fundamental Analysis ka focus company ki aarthik sthiti (financial health) aur uske future prospects par hota hai, taaki yeh pata lagaya ja sake ki share undervalued hai ya overvalued."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Earnings Per Share (EPS) kya batata hai?",
+      "options": {
+        "A": "Company ka total profit",
+        "B": "Company har ek share par kitna munafa kama rahi hai",
+        "C": "Share ka market price",
+        "D": "Company kitna dividend deti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "EPS = (Net Profit - Preferred Dividends) / Total Outstanding Shares. Yeh company ki profitability ka ek mahatvapurna indicator hai. Zyada EPS aam taur par accha maana jaata hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Price to Earnings (P/E) Ratio kya darshata hai?",
+      "options": {
+        "A": "Company kitni sasti ya mehngi hai uski kamai ke muqable",
+        "B": "Company ka total debt",
+        "C": "Company ki sales growth",
+        "D": "Company ka dividend payout"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "P/E Ratio = Market Price per Share / Earnings per Share (EPS). Yeh batata hai ki investor company ke har ek rupaye ki kamai ke liye kitna paisa dene ko taiyar hai. Isse company ke valuation ka andaza lagta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Balance Sheet kya hoti hai?",
+      "options": {
+        "A": "Company ke ek saal ke income aur kharchon ka vivran",
+        "B": "Ek particular date par company ke Assets (sampatti), Liabilities (denadari), aur Equity ka snapshot",
+        "C": "Company ke cash flow ka statement",
+        "D": "Company ki annual report"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Balance Sheet ek financial statement hai jo batati hai ki ek company ke paas kya-kya hai (Assets), uspar kitna karz hai (Liabilities), aur malikon ka kitna paisa laga hai (Equity). Ismein hamesha Assets = Liabilities + Equity hota hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Profit and Loss (P&L) Statement kya jaankari deta hai?",
+      "options": {
+        "A": "Company ke assets aur liabilities",
+        "B": "Ek samay avadhi (jaise ek saal) mein company ki income, kharche, aur net profit ya loss",
+        "C": "Company ke paas kitna cash hai",
+        "D": "Company ke promoters ki jaankari"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "P&L Statement, jise Income Statement bhi kehte hain, company ki financial performance ko dikhata hai. Isse pata chalta hai ki company ne ek period mein kitna revenue kamaya aur uspar kitna kharch karke aakhir mein kitna munafa ya nuksan hua."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Book Value per Share kya hoti hai?",
+      "options": {
+        "A": "Share ka market price",
+        "B": "Company ke kul assets mein se saari liabilities hatane ke baad har share ki keemat",
+        "C": "Share ki face value",
+        "D": "Company ki total sales per share"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Book Value ek accounting term hai. Book Value = (Total Assets - Total Liabilities) / Total Outstanding Shares. Yeh batata hai ki agar company aaj band ho jaaye aur sab kuch bech de, to har shareholder ko kitna paisa milega."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Debt-to-Equity Ratio kya maapta (measure) hai?",
+      "options": {
+        "A": "Company ki profitability",
+        "B": "Company par kitna karz (debt) hai uske shareholders ke fund ke muqable",
+        "C": "Company ki sales efficiency",
+        "D": "Company ka valuation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Debt-to-Equity Ratio = Total Debt / Shareholders' Equity. Yeh company ke financial leverage ya risk ko darshata hai. Aam taur par 1 se kam ka ratio accha maana jaata hai, lekin yeh industry par nirbhar karta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Dividend Yield kaise calculate karte hain?",
+      "options": {
+        "A": "Annual Dividend per Share / Current Market Price per Share",
+        "B": "Total Dividend / Net Profit",
+        "C": "Market Price / EPS",
+        "D": "Net Profit / Total Assets"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Dividend Yield percentage mein batata hai ki aapko apne nivesh par kitna dividend return mil raha hai. Yeh un investors ke liye important hai jo regular income chahte hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Ek company ka 'Revenue' kya hota hai?",
+      "options": {
+        "A": "Company ka net profit",
+        "B": "Company dwara apne products ya services bech kar kamai gayi kul rakam (Total Sales)",
+        "C": "Company par kul karz",
+        "D": "Company ke kul kharche"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Revenue ya 'Top Line' company ki total sales hoti hai, ismein se kharche (costs) ghatane ke baad profit nikala jaata hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Return on Equity (ROE) kya indicate karta hai?",
+      "options": {
+        "A": "Company apne total assets par kitna return kama rahi hai",
+        "B": "Company shareholders ke lagaye gaye paise par kitna munafa kama rahi hai",
+        "C": "Share price mein kitna return mila",
+        "D": "Company par kitna karz hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ROE = Net Income / Shareholders' Equity. Yeh ek bahut important profitability ratio hai. Yeh batata hai ki management shareholders ke paise ko kitni कुशलता (efficiency) se istemal karke profit generate kar raha hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Qualitative Analysis mein kya dekha jaata hai?",
+      "options": {
+        "A": "Sirf company ke financial numbers",
+        "B": "Company ka management, brand value, competitive advantage jaise non-numerical factors",
+        "C": "Share ka price chart",
+        "D": "Market ka volume"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fundamental analysis mein Quantitative (numbers jaise P/E, EPS) aur Qualitative (non-numerical) dono factors dekhe jaate hain. Qualitative factors mein company ke management ki quality, business model, aur industry mein uski position aati hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar ek company ka P/E ratio uske industry average se bahut zyada hai, to iska kya matlab ho sakta hai?",
+      "options": {
+        "A": "Stock sasta hai (undervalued)",
+        "B": "Stock mehnga hai (overvalued) ya investors ko usse future mein high growth ki umeed hai",
+        "C": "Company loss mein hai",
+        "D": "Company dividend nahi deti"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High P/E ratio ka matlab ho sakta hai ki stock overvalued hai. Lekin, growth companies ke case mein, high P/E isliye hota hai kyunki investors ko umeed hoti hai ki company ki earnings future mein tezi se badhengi."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Quarterly Results kya hote hain?",
+      "options": {
+        "A": "Company ki saalana report",
+        "B": "Har teen mahine mein company dwara jaari kiye jaane wale financial results",
+        "C": "Company ke stock ka performance",
+        "D": "Broker ki research report"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SEBI ke niyam ke anusaar, har listed company ko har teen mahine (quarter) mein apne financial results (P&L, Balance Sheet, etc.) jaari karne hote hain. Isse investors ko company ke performance ka regular update milta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Cash Flow Statement kya batata hai?",
+      "options": {
+        "A": "Company ka net profit",
+        "B": "Ek period ke dauran company ke andar aur bahar jaane wale cash ka poora hisab",
+        "C": "Company ke assets ki list",
+        "D": "Company ke upar loan ki jaankari"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cash Flow Statement company ki liquidity ko समझने ke liye zaroori hai. Yeh teen activities se cash flow batata hai: Operating, Investing, aur Financing."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Top-down approach of analysis mein ek analyst kya karta hai?",
+      "options": {
+        "A": "Pehle specific company ko dekhta hai, fir industry, aur fir economy",
+        "B": "Pehle poori economy ko dekhta hai, fir best performing industry, aur fir us industry mein best company",
+        "C": "Sirf company ke management ko analyze karta hai",
+        "D": "Sirf share ke chart ko dekhta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Top-down approach mein analysis bade level (macro) se shuru hokar chhote level (micro) tak jaata hai. Economy -> Industry -> Company. Iske vipreet Bottom-up approach hota hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Ek company ki Annual Report mein kya-kya shamil hota hai?",
+      "options": {
+        "A": "Sirf company ka profit",
+        "B": "Financial Statements, Director's report, Auditor's report, aur company ke future plans",
+        "C": "Sirf company ke products ki list",
+        "D": "Employees ki salary details"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Annual Report ek comprehensive document hota hai jismein company ke pichle saal ke performance aur aage ke vision ki poori jaankari hoti hai. Yeh fundamental analysis ke liye ek bahut mahatvapurna source hai."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Technical Analysis kis cheez par focus karta hai?",
+      "options": {
+        "A": "Company ke financial data par",
+        "B": "Past price movements aur volume data ke charts aur patterns par",
+        "C": "Economy ki sthiti par",
+        "D": "Company ke management par"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Technical Analysis ka manna hai ki 'history repeats itself'. Yeh pichle price aur volume ke data ko study karke future price movements ka anuman lagane ki koshish karta hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Candlestick chart mein 'Green Candle' (ya White Candle) kya darshati hai?",
+      "options": {
+        "A": "Closing price, opening price se neeche tha",
+        "B": "Closing price, opening price se upar tha (price badha)",
+        "C": "Price mein koi badlav nahi hua",
+        "D": "Bahut zyada volume tha"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek green (ya bullish) candle tab banti hai jab us time period ka closing price uske opening price se zyada hota hai. Yeh market mein tezi (strength) ko darshata hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Support level kya hota hai?",
+      "options": {
+        "A": "Ek price level jahan se price ke aur upar jaane ki sambhavna kam hoti hai",
+        "B": "Ek price level jahan se price ke aur neeche girne ki sambhavna kam hoti hai aur buying pressure badhta hai",
+        "C": "Din ka sabse high price",
+        "D": "Din ka sabse low price"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Support ek aisa price level ya area hota hai jahan par buyers ki demand sellers ki supply se zyada ho jaati hai, jiske kaaran girti hui keemat ruk jaati hai aur wapas upar ja sakti hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Resistance level kya hota hai?",
+      "options": {
+        "A": "Ek price level jahan se price ke aur neeche girne ki sambhavna kam hoti hai",
+        "B": "Ek price level jahan se price ke aur upar jaane ki sambhavna kam hoti hai aur selling pressure badhta hai",
+        "C": "Jahan se market open hota hai",
+        "D": "Jahan par market close hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Resistance ek aisa price level ya area hota hai jahan par sellers ki supply buyers ki demand se zyada ho jaati hai, jiske kaaran badhti hui keemat ruk jaati hai aur wapas neeche aa sakti hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Moving Average (MA) indicator ka kya upyog hai?",
+      "options": {
+        "A": "Company ka profit batane ke liye",
+        "B": "Price data ko smooth karke trend ki disha (direction) pehchanne ke liye",
+        "C": "Future price ko achanak batane ke liye",
+        "D": "Dividend kab milega yeh janne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Moving Average ek specific time period ke average price ko plot karta hai. Yeh short-term price fluctuations ko filter karke underlying trend (uptrend, downtrend, ya sideways) ko identify karne mein madad karta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "RSI (Relative Strength Index) kya maapta hai?",
+      "options": {
+        "A": "Ek stock ki doosre stock ke muqable strength",
+        "B": "Price movement ki gati (speed) aur badlav (change) ko, yeh batane ke liye ki stock overbought hai ya oversold",
+        "C": "Trading volume ko",
+        "D": "Market ke trend ko"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "RSI ek momentum oscillator hai jo 0 se 100 ke beech ghumta hai. Aam taur par 70 se upar ki reading overbought (zyada khareeda hua) aur 30 se neeche ki reading oversold (zyada becha hua) maani jaati hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Trading Volume kya darshata hai?",
+      "options": {
+        "A": "Ek din mein kitne shares trade hue",
+        "B": "Stock ka price",
+        "C": "Company ka size",
+        "D": "Kitne log market dekh rahe hain"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Volume batata hai ki ek nishchit samay mein (jaise ek din) kul kitne shares ki khareed-farokht hui. High volume ke saath price movement ko zyada significant maana jaata hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Downtrend kya hota hai?",
+      "options": {
+        "A": "Jab stock price lagatar naye highs aur higher lows banata hai",
+        "B": "Jab stock price lagatar naye lows aur lower highs banata hai",
+        "C": "Jab stock price ek range mein ghumta hai",
+        "D": "Jab volume badh jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Downtrend ki pehchan hoti hai 'lower highs and lower lows' ki series se. Iska matlab hai ki har agli choti (peak) pichli choti se neeche aur har agla nichla star (trough) pichle nichle star se neeche hota hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Chart par 'Doji' candlestick pattern kya sanket deta hai?",
+      "options": {
+        "A": "Market mein mazboot tezi",
+        "B": "Market mein mazboot mandi",
+        "C": "Market mein anishchit'ta (indecision), buyers aur sellers ke beech barabari ki takkar",
+        "D": "Market band hone wala hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Doji tab banta hai jab opening aur closing price lagbhag ek hi level par hote hain. Yeh darshata hai ki bulls (buyers) aur bears (sellers) dono mein se koi bhi jeet nahi paaya, aur trend reverse ho sakta hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Golden Cross kya hota hai?",
+      "options": {
+        "A": "Jab ek short-term moving average (jaise 50-day MA) ek long-term moving average (jaise 200-day MA) ko neeche se upar ki taraf cross karta hai",
+        "B": "Jab ek short-term moving average ek long-term moving average ko upar se neeche ki taraf cross karta hai",
+        "C": "Jab RSI 70 ke upar jaata hai",
+        "D": "Jab stock apne 52-week high par pahunchta hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Golden Cross ek bullish (tezi ka) sanket maana jaata hai. Yeh darshata hai ki short-term momentum long-term trend ke muqable zyada tezi se badh raha hai, jo ek potential uptrend ki shuruaat ho sakti hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "'Stop Loss' order lagane ke liye technical analysis ka kaun sa concept sabse zyada upyogi hai?",
+      "options": {
+        "A": "Resistance level",
+        "B": "Recent support level ke theek neeche",
+        "C": "Moving Average",
+        "D": "Volume"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek accha tareeka hai ki stop loss ko haal hi ke (recent) support level ke thoda neeche lagaya jaaye. Agar price us support ko todkar neeche jaata hai, to yeh sanket hai ki trend badal gaya hai aur aur giravat aa sakti hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "MACD (Moving Average Convergence Divergence) indicator kya hai?",
+      "options": {
+        "A": "Ek leading indicator",
+        "B": "Ek trend-following momentum indicator jo do moving averages ke beech sambandh dikhata hai",
+        "C": "Ek volatility indicator",
+        "D": "Ek volume indicator"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "MACD trend ki strength, direction, momentum, aur duration mein badlav ko pehchanne mein madad karta hai. Yeh do exponential moving averages (EMAs) ke beech ke difference ko calculate karke kaam karta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Technical analysis ka mukhya aalochna (criticism) kya hai?",
+      "options": {
+        "A": "Yeh bahut aasan hai",
+        "B": "Yeh hamesha 100% sahi hota hai",
+        "C": "Yeh 'self-fulfilling prophecy' ho sakta hai aur company ke fundamentals ko ignore karta hai",
+        "D": "Iske liye mehenge software chahiye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Aalochak kehte hain ki technical analysis isliye kaam karta hai kyunki bahut saare log ispar vishwas karte hain aur usi ke hisab se trade karte hain (self-fulfilling prophecy). Iska sabse bada drawback yeh hai ki yeh company ke actual business performance ko nahi dekhta."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Bollinger Bands ka istemal kya pata lagane ke liye hota hai?",
+      "options": {
+        "A": "Company ka P/E ratio",
+        "B": "Market ki volatility aur price ka relative high ya low hona",
+        "C": "Dividend yield",
+        "D": "Insider trading"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bollinger Bands mein ek moving average aur uske dono taraf do standard deviation lines hoti hain. Jab bands failte hain, to volatility badhti hai; jab sikudte hain, to volatility kam hoti hai. Price ka upper band ke paas hona 'overbought' aur lower band ke paas hona 'oversold' ka sanket de sakta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Head and Shoulders pattern kaisa sanket hai?",
+      "options": {
+        "A": "Ek bullish (tezi) reversal pattern",
+        "B": "Ek bearish (mandi) reversal pattern",
+        "C": "Trend ke continue rehne ka pattern",
+        "D": "Market ke sideways rehne ka pattern"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Head and Shoulders ek classic chart pattern hai jo uptrend ke baad banta hai aur aane wale downtrend ka sanket deta hai. Ismein teen chotiyan (peaks) hoti hain, beech wali (head) sabse unchi hoti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Uptrend ki pehchan kya hai?",
+      "options": {
+        "A": "Lower Lows aur Lower Highs",
+        "B": "Higher Highs aur Higher Lows",
+        "C": "Equal Highs aur Equal Lows",
+        "D": "Price ka neeche jaana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek stock uptrend mein tab maana jaata hai jab woh lagatar pichle high se upar naya high (Higher High) aur pichle low se upar naya low (Higher Low) banata hai."
+    },
+    {
+      "qno": 84,
+      "module": 6,
+      "question": "Mutual Fund kya hota hai?",
+      "options": {
+        "A": "Ek tarah ka bank account",
+        "B": "Ek company jo sirf ek stock mein invest karti hai",
+        "C": "Ek trust jo bahut saare niveshakon se paisa ikattha karke use stocks, bonds, etc. mein invest karta hai",
+        "D": "Ek government savings scheme"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mutual Fund ek professionally managed investment fund hai jo kai investors se paisa pool karke ek diversified portfolio banata hai. Isse chhote niveshak bhi kam paise mein diversification ka fayda utha sakte hain."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "NAV (Net Asset Value) ka kya matlab hai?",
+      "options": {
+        "A": "Mutual fund scheme ka market price",
+        "B": "Mutual fund scheme ki har ek unit ki value",
+        "C": "Mutual fund ka total profit",
+        "D": "Mutual fund ka entry load"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "NAV mutual fund ki ek unit ka per-share market value hota hai. Ise nikalne ke liye scheme ke total assets mein se uski liabilities ko ghatakar total number of units se divide kiya jaata hai. Mutual fund units NAV par hi khareede aur beche jaate hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Equity Mutual Funds apna paisa mukhyatah kahan invest karte hain?",
+      "options": {
+        "A": "Government bonds aur fixed deposits mein",
+        "B": "Companies ke shares ya stocks mein",
+        "C": "Gold aur Silver mein",
+        "D": "Real Estate mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Equity Mutual Funds apne portfolio ka ek bada hissa (aam taur par 65% se zyada) alag-alag companies ke shares mein invest karte hain. Inka uddeshya capital appreciation hota hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Debt Mutual Funds kinke liye aam taur par aadarsh (ideal) hote hain?",
+      "options": {
+        "A": "Jo bahut zyada risk lena chahte hain",
+        "B": "Jo kam risk ke saath ek sthir (stable) return chahte hain",
+        "C": "Jo sirf 1 din ke liye invest karna chahte hain",
+        "D": "Jo share market mein direct invest karna chahte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Debt Funds apna paisa fixed-income securities jaise government bonds, corporate bonds, aur treasury bills mein lagate hain. Yeh equity funds ke muqable kam risky hote hain aur un niveshakon ke liye aache hain jo kam risk aur regular income chahte hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "ELSS (Equity Linked Savings Scheme) mein nivesh ka sabse bada fayda kya hai?",
+      "options": {
+        "A": "Ismein koi risk nahi hai",
+        "B": "Income Tax Act ke Section 80C ke tehat tax mein chhoot milti hai",
+        "C": "Yeh har mahine fixed return deta hai",
+        "D": "Ismein lock-in period nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "ELSS ek special type ka equity mutual fund hai jismein invest karke aap ek financial year mein 1.5 lakh rupaye tak ki tax deduction claim kar sakte hain. Ismein 3 saal ka lock-in period hota hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Index Fund kya hota hai?",
+      "options": {
+        "A": "Ek fund jo actively stocks chunta hai market ko beat karne ke liye",
+        "B": "Ek fund jo kisi specific market index (jaise NIFTY 50 ya SENSEX) ko copy karta hai",
+        "C": "Ek fund jo sirf debt instruments mein invest karta hai",
+        "D": "Ek fund jise SEBI manage karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Index Fund ek passive investment strategy hai. Fund manager khud stocks nahi chunta, balki woh NIFTY 50 jaise kisi index mein shamil saare stocks ko usi anupaat (proportion) mein khareed leta hai. Iska expense ratio kam hota hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Expense Ratio (in a mutual fund) kya hai?",
+      "options": {
+        "A": "Fund se milne wala return",
+        "B": "Fund ko manage karne ke liye Asset Management Company (AMC) dwara li jaane wali saalana fees",
+        "C": "Investor dwara diya jaane wala tax",
+        "D": "Fund ka NAV"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Expense Ratio ek percentage hai jo AMC aapse fund ke management, administration, aur anya kharchon ke liye leti hai. Yeh aapke investment value se kaat liya jaata hai. Kam expense ratio investor ke liye behtar hota hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "AMFI ka full form kya hai?",
+      "options": {
+        "A": "All Mutual Funds of India",
+        "B": "Association of Mutual Funds in India",
+        "C": "Asset Management for India",
+        "D": "Annual Mutual Fund Index"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AMFI (Association of Mutual Funds in India) India mein SEBI-registered saari Asset Management Companies (AMCs) ki association hai. Yeh mutual fund industry ke hiton ke liye kaam karti hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Gold ETFs (Exchange Traded Funds) mein nivesh karne ka kya matlab hai?",
+      "options": {
+        "A": "Physical gold (jewellery ya coin) khareedna",
+        "B": "Electronic form mein gold khareedna jo stock exchange par share ki tarah trade hota hai",
+        "C": "Gold mining company ke shares khareedna",
+        "D": "Ek tarah ka bank FD"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gold ETF ek aisa instrument hai jo gold ki keemat ko track karta hai. Ise khareedne ka matlab hai ki aapke paas physical gold to nahi hai, lekin aapke paas utni hi keemat ka paper gold hai. Ise Demat account ke zariye khareeda aur becha ja sakta hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Real Estate Investment Trusts (REITs) kya hote hain?",
+      "options": {
+        "A": "Ek property dealer ki company",
+        "B": "Ek company jo income-generating real estate properties (jaise office, mall) own karti hai aur investors usmein units khareed sakte hain",
+        "C": "Ek home loan company",
+        "D": "Ek construction company"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "REITs mutual funds ki tarah kaam karte hain, lekin yeh stocks ke bajaye real estate properties mein invest karte hain. Isse chhote niveshak bhi bade commercial properties mein hissa le sakte hain aur rental income/appreciation se fayda kama sakte hain."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Direct Plan aur Regular Plan (Mutual Fund) mein kya antar hai?",
+      "options": {
+        "A": "Dono mein return barabar hota hai",
+        "B": "Direct Plan mein investor seedhe AMC se khareedta hai, jisse commission nahi lagta aur expense ratio kam hota hai. Regular Plan distributor ke through hota hai.",
+        "C": "Direct Plan sirf online milta hai",
+        "D": "Regular Plan zyada safe hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Regular Plan mein distributor (agent) ka commission expense ratio mein juda hota hai, isliye woh mehenga hota hai. Direct Plan mein koi agent nahi hota, isliye uska expense ratio kam hota hai, jisse investor ko long term mein zyada return milta hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Government Bonds (G-Secs) ko sabse surakshit (safest) nivesh kyu maana jaata hai?",
+      "options": {
+        "A": "Kyunki inpar sabse zyada return milta hai",
+        "B": "Kyunki inki guarantee Bharat Sarkar (Government of India) deti hai",
+        "C": "Kyunki yeh stock market mein trade hote hain",
+        "D": "Kyunki inpar tax nahi lagta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Government Securities (G-Secs) sarkar dwara jaari kiye gaye debt instruments hote hain. Inpar default ka risk lagbhag na ke barabar hota hai, kyunki inke principal aur interest payment ki guarantee sarkar ki hoti hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Ek diversified portfolio mein Gold ko shamil karne ka kya fayda hai?",
+      "options": {
+        "A": "Yeh sabse zyada return deta hai",
+        "B": "Jab equity market girta hai, tab gold aam taur par accha perform karta hai (Hedge)",
+        "C": "Is par koi tax nahi lagta",
+        "D": "Ise khareedna bahut aasan hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gold ka equity market ke saath aam taur par inverse correlation hota hai. Jab market mein darr ya anishchit'ta hoti hai, to log surakshit nivesh ke taur par gold khareedte hain, jisse iski keemat badhti hai. Yeh portfolio ko balance karta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Corporate Bond kya hai?",
+      "options": {
+        "A": "Sarkar dwara jaari kiya gaya loan paper",
+        "B": "Ek private company dwara paisa jutane ke liye jaari kiya gaya loan paper",
+        "C": "Company ka share",
+        "D": "Ek tarah ka mutual fund"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jab private companies ko paise ki zaroorat hoti hai, to woh bonds issue karke aam janta ya sansthaon se loan leti hain. Iske badle mein woh ek nishchit byaaj (interest) deti hain. Yeh G-Secs se zyada risky hote hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Asset Allocation ka kya matlab hai?",
+      "options": {
+        "A": "Saara paisa ek hi asset mein lagana",
+        "B": "Apne nivesh ko risk lene ki kshamta aur financial goals ke anusaar alag-alag asset classes (jaise Equity, Debt, Gold) mein baantna",
+        "C": "Sirf real estate khareedna",
+        "D": "Roz-roz trading karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Asset Allocation ek investment strategy hai jiska uddeshya risk aur reward ko balance karna hota hai. Ismein aap tay karte hain ki aapke portfolio ka kitna paisa stocks mein, kitna bonds mein, aur kitna gold etc. mein lagega."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Mutual Fund Sahi Hai' campaign kis sanstha ne chalaya hai?",
+      "options": {
+        "A": "SEBI",
+        "B": "RBI",
+        "C": "AMFI (Association of Mutual Funds in India)",
+        "D": "NSE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "'Mutual Fund Sahi Hai' ek investor awareness campaign hai jo AMFI dwara chalaya gaya hai taaki aam logon ko mutual funds ke fayde ke baare mein jaankari di ja sake."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Liquid Funds kya hote hain?",
+      "options": {
+        "A": "Jo stocks mein invest karte hain",
+        "B": "Debt funds jo bahut hi short-term instruments (jaise 91 din tak ki maturity wale) mein invest karte hain",
+        "C": "Jo gold mein invest karte hain",
+        "D": "Jo 3 saal ke liye lock ho jaate hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Liquid Funds bahut kam risk wale debt funds hote hain. Inka istemal log apne emergency fund ya kuch dino/hafto ke liye extra paise park karne ke liye karte hain. Yeh savings account se thoda behtar return de sakte hain aur inpar exit load nahi hota."
+    }
+  ]
+}

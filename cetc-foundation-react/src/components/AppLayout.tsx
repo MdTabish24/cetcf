@@ -1,25 +1,27 @@
 import { useState } from 'react';
 import { Link, NavLink, Outlet } from 'react-router-dom';
-import { GraduationCap, MapPin, Mail, Phone, Send, LogIn } from 'lucide-react';
+import { GraduationCap, MapPin, Mail, Phone, Send, LogIn, Languages } from 'lucide-react';
+import { useLang } from '../context/LangContext';
 
 export default function AppLayout() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const { lang, toggleLang, t } = useLang();
 
   const navItems = [
-    { label: 'Home', to: '/' },
-    { label: 'Courses', to: '/courses' },
-    { label: 'Verify', to: '/verify' },
-    { label: 'Partner (AAC)', to: '/partner' },
-    { label: 'About', to: '/about' },
+    { label: t('nav.home'), to: '/' },
+    { label: t('nav.courses'), to: '/courses' },
+    { label: t('nav.verify'), to: '/verify' },
+    { label: t('nav.partner'), to: '/partner' },
+    { label: t('nav.about'), to: '/about' },
   ];
 
   return (
     <>
       {/* ── Navbar ────────────────────────────────────────── */}
-      <nav className="navbar" id="main-nav">
+      <nav className="navbar" id="main-nav" style={{ background: 'rgba(2, 11, 24, 0.85)', backdropFilter: 'blur(12px)', borderBottom: '1px solid var(--border)' }}>
         <div className="navbar-inner">
-          <Link to="/" className="nav-brand" id="nav-brand">
-            <div className="nav-brand-icon">CT</div>
+          <Link to="/" className="nav-brand" id="nav-brand" style={{ color: 'var(--text-main)' }}>
+            <img src="/favicon.svg" alt="CETCF Logo" style={{ height: '36px', marginRight: '4px' }} />
             <div className="nav-brand-text">
               <span className="nav-brand-name">CETCF</span>
               <span className="nav-brand-sub">Education · Training · Certification</span>
@@ -44,20 +46,44 @@ export default function AppLayout() {
                 to="/login"
                 className="nav-link-login"
                 onClick={() => setMenuOpen(false)}
-                style={{ display: 'flex', alignItems: 'center', gap: '6px', fontWeight: 600, color: '#ffffff' }}
+                style={{ display: 'flex', alignItems: 'center', gap: '6px', fontWeight: 600, color: 'var(--text-main)' }}
               >
-                <LogIn size={18} /> Login
+                <LogIn size={18} /> {t('nav.login')}
               </Link>
+            </li>
+            {/* Language Toggle */}
+            <li>
+              <button
+                onClick={toggleLang}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '6px',
+                  padding: '6px 14px',
+                  background: lang === 'hi' ? 'var(--gold)' : 'var(--bg-card)',
+                  color: lang === 'hi' ? '#000' : 'var(--text-main)',
+                  border: '1px solid var(--border)',
+                  borderRadius: '20px',
+                  fontSize: '13px',
+                  fontWeight: 600,
+                  cursor: 'pointer',
+                  transition: 'all 0.2s ease',
+                  fontFamily: 'var(--font-ui)',
+                }}
+              >
+                <Languages size={16} />
+                {lang === 'en' ? 'हिंदी' : 'ENG'}
+              </button>
             </li>
             <li>
               <Link
                 to="/exam"
-                className="nav-cta"
+                className="nav-cta btn"
                 onClick={() => setMenuOpen(false)}
                 id="nav-cta-exam"
-                style={{ display: 'flex', alignItems: 'center', gap: '6px' }}
+                style={{ display: 'flex', alignItems: 'center', gap: '6px', background: 'var(--gold)', color: '#fff', fontWeight: 700, borderRadius: '30px', boxShadow: '0 4px 10px rgba(184, 134, 11, 0.2)' }}
               >
-                <GraduationCap size={18} /> Get Certified
+                <GraduationCap size={18} /> {t('nav.getCertified')}
               </Link>
             </li>
           </ul>
@@ -84,7 +110,7 @@ export default function AppLayout() {
       </main>
 
       {/* ── Footer ────────────────────────────────────────── */}
-      <footer className="footer" id="main-footer">
+      <footer className="footer" id="main-footer" style={{ background: 'var(--navy-light)', borderTop: '1px solid rgba(255,255,255,0.05)' }}>
         <div className="wrap-lg">
           <div className="footer-grid">
             {/* Brand */}
@@ -134,7 +160,7 @@ export default function AppLayout() {
                 <li style={{ display: 'flex', alignItems: 'center', gap: '8px' }}><Mail size={16} /> info@cetcf.org</li>
                 <li style={{ display: 'flex', alignItems: 'center', gap: '8px' }}><Phone size={16} /> +91 XXXX XXXX XX</li>
                 <li style={{ marginTop: '12px' }}>
-                  <Link to="/contact" className="btn btn-sm btn-outline" style={{ borderColor: 'rgba(255,255,255,0.2)', color: 'rgba(255,255,255,0.6)', display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                  <Link to="/contact" className="btn btn-sm btn-outline" style={{ borderColor: 'var(--gold-light)', color: 'var(--gold-light)', display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
                     <Send size={16} /> Send Enquiry
                   </Link>
                 </li>

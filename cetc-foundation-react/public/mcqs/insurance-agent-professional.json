@@ -1,0 +1,1443 @@
+{
+  "course_name": "Insurance Agent Professional",
+  "sector": "Business, Retail & Finance",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Insurance",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Life Insurance Products",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "General Insurance Products",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Underwriting and Claims",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Regulations and Ethics",
+      "question_range": "Q69-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Sales, Marketing & Customer Service",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Insurance ka primary purpose kya hai?",
+      "options": {
+        "A": "Paise invest karna",
+        "B": "Risk ko transfer karna",
+        "C": "Tax bachana",
+        "D": "Loan lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Insurance ka mukhya uddeshya kisi individual ya entity ke risk ko insurance company par transfer karna hai, jiske badle mein premium pay kiya jaata hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Jo व्यक्ति insurance policy kharidta hai, use kya kehte hain?",
+      "options": {
+        "A": "Insurer",
+        "B": "Insured/Policyholder",
+        "C": "Agent",
+        "D": "Nominee"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Policy kharidne wale vyakti ko Insured ya Policyholder kaha jaata hai. Insurer insurance company hoti hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Premium kya hota hai?",
+      "options": {
+        "A": "Claim ke time milne wala paisa",
+        "B": "Policyholder dwara insurance company ko di jaane wali regular payment",
+        "C": "Policy ka maturity amount",
+        "D": "Agent ka commission"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Premium woh amount hai jo policyholder insurance coverage ke badle mein insurance company ko regularly pay karta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "'Principle of Utmost Good Faith' (Uberrimae Fidei) ka kya matlab hai?",
+      "options": {
+        "A": "Sirf agent ko saari jaankari deni chahiye",
+        "B": "Sirf company ko saari jaankari deni chahiye",
+        "C": "Policyholder aur insurer dono ko ek doosre ko saari zaroori jaankari deni chahiye",
+        "D": "Nominee ko saari jaankari deni chahiye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Is principle ka matlab hai ki insurance contract mein dono parties (insurer aur insured) ko ek doosre se sabhi material facts truthfully disclose karne chahiye."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "'Insurable Interest' ka matlab kya hai?",
+      "options": {
+        "A": "Insurance policy par milne wala interest rate",
+        "B": "Agent ka policy bechne mein interest",
+        "C": "Policyholder ka us cheez ya व्यक्ति mein financial interest hona jiska insurance ho raha hai",
+        "D": "Company ka premium lene mein interest"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Insurable Interest ka matlab hai ki policyholder ko us subject matter (jaise life, car, house) ke nuksaan se financial loss hona chahiye. Aap kisi anjaan व्यक्ति ke naam par life insurance nahi le sakte."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Life Insurance aur General Insurance mein mukhya antar kya hai?",
+      "options": {
+        "A": "Life Insurance sirf death cover karta hai, General Insurance sab kuch",
+        "B": "Life Insurance long-term contract hota hai, General Insurance short-term (usually 1 year)",
+        "C": "Life Insurance sasta hota hai",
+        "D": "General Insurance mein claim nahi milta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Life insurance policies aam taur par lambe samay ke liye hoti hain (e.g., 20 years, whole life), jabki general insurance policies (like motor, health) aam taur par ek saal ke liye hoti hain aur unhe renew karna padta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Nominee kaun hota hai?",
+      "options": {
+        "A": "Insurance agent",
+        "B": "Woh व्यक्ति jise policyholder ki death ke baad policy ka paisa milta hai",
+        "C": "Insurance company ka manager",
+        "D": "Policyholder ka lawyer"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nominee woh vyakti hota hai jise policyholder apne na hone par insurance claim ka paisa receive karne ke liye nominate karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "'Principle of Indemnity' kis type ke insurance par lagu hota hai?",
+      "options": {
+        "A": "Sirf Life Insurance",
+        "B": "Sirf General Insurance",
+        "C": "Dono par",
+        "D": "Kisi par nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Indemnity ka siddhant, jiska matlab hai 'nuksaan ki bharpaai karna', aam taur par General Insurance (like motor, health, property) par lagu hota hai. Iska uddeshya policyholder ko us financial position mein wapas laana hai jismein woh loss se pehle tha, na ki profit kamana. Life insurance mein manav jeevan ki value anmol hoti hai, isliye yeh principle wahan lagu nahi hota."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Risk pooling ka kya concept hai?",
+      "options": {
+        "A": "Sabhi risk ko ek jagah jama karna",
+        "B": "Bahut se logon se premium collect karke, unme se kuch logon ke losses ko pay karna",
+        "C": "High-risk logon ko alag karna",
+        "D": "Risk ko bech dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Risk pooling insurance ka fundamental concept hai. Ismein, insurance company bahut saare logon se premium collect karti hai (pool banati hai) aur us pool se un logon ko compensate karti hai jinhe loss hota hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek insurance agent ka primary role kya hai?",
+      "options": {
+        "A": "Sirf policy bechna",
+        "B": "Customer ki needs ko samajhkar sahi product suggest karna aur after-sales service dena",
+        "C": "Company ke liye profit kamana",
+        "D": "Claims ko reject karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek achhe agent ka kaam sirf policy bechna nahi, balki graahak ki zarooraton ko samajhna, sahi salah dena, policy lene mein madad karna aur claim ke samay sahayata karna hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Sum Assured kya hota hai?",
+      "options": {
+        "A": "Total premium jo pay kiya gaya",
+        "B": "Woh fixed amount jo insurance company policy ke event (jaise death ya maturity) par dene ka wada karti hai",
+        "C": "Policy par milne wala bonus",
+        "D": "Agent ka commission"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sum Assured woh pre-decided amount hai jo policyholder ya nominee ko policy ki sharton ke poora hone par milta hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Proximate Cause (sabse nazdeeki kaaran) ka principle claim settlement mein kyu important hai?",
+      "options": {
+        "A": "Premium decide karne ke liye",
+        "B": "Yeh determine karne ke liye ki loss policy mein cover kiye gaye kaaran se hua hai ya nahi",
+        "C": "Agent ka commission nikalne ke liye",
+        "D": "Policy renew karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jab loss ke ek se zyada kaaran hote hain, toh Proximate Cause principle yeh identify karne mein madad karta hai ki sabse dominant aur direct kaaran kya tha. Agar woh kaaran policy mein covered hai, tabhi claim pay hota hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Moral Hazard kise kehte hain?",
+      "options": {
+        "A": "Earthquake ya flood jaisa natural risk",
+        "B": "Policyholder ke dishonest ya careless behavior ke kaaran loss ka badhta hua chance",
+        "C": "Physical condition jaise faulty wiring",
+        "D": "Market ka risk"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Moral Hazard tab hota hai jab koi vyakti insurance lene ke baad laaparvaah ho jaata hai ya jaan boojh kar loss create karta hai kyunki use pata hai ki insurance company nuksaan ki bharpaai karegi."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Insurance contract mein 'Consideration' kya hota hai?",
+      "options": {
+        "A": "Agent ki advice",
+        "B": "Policy document",
+        "C": "Policyholder dwara diya gaya premium aur insurer dwara kiya gaya promise of payment",
+        "D": "Customer ki zaroorat"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Kisi bhi valid contract ki tarah, insurance mein bhi consideration zaroori hai. Yahan, policyholder ka consideration premium hai, aur insurer ka consideration claim pay karne ka promise hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Reinsurance kya hai?",
+      "options": {
+        "A": "Ek hi policy ko baar baar renew karna",
+        "B": "Jab ek insurance company doosri insurance company se apne risk ka insurance karwati hai",
+        "C": "Customer ko do policies bechna",
+        "D": "Policy ko cancel karke nayi policy lena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Reinsurance mein, ek insurance company apne bade risks ko manage karne ke liye, apne risk portfolio ka ek hissa doosri (reinsurance) company ko transfer kar deti hai. Isse 'insurance for insurance companies' bhi kehte hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Ek insurance policy ka 'Policy Term' kya darshata hai?",
+      "options": {
+        "A": "Premium pay karne ki frequency",
+        "B": "Woh samay avadhi jiske liye policy active rehti hai",
+        "C": "Claim settle hone ka time",
+        "D": "Agent ka license term"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Policy Term woh duration hai jiske dauraan insurance cover laagu rehta hai, jaise 1 saal (motor insurance) ya 20 saal (life insurance)."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Contribution ka principle kab lagu hota hai?",
+      "options": {
+        "A": "Jab policyholder premium nahi de paata",
+        "B": "Jab ek hi subject matter ka insurance ek se zyada company se liya gaya ho",
+        "C": "Jab policy lapse ho jaati hai",
+        "D": "Jab nominee badalna ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar kisi ne apni car ka insurance do alag-alag companies se karwaya hai, toh accident hone par dono companies aapas mein loss ko proportion mein 'contribute' karke pay karengi. Policyholder dono se poora-poora claim lekar profit nahi bana sakta."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Term Insurance plan ka mukhya feature kya hai?",
+      "options": {
+        "A": "Yeh ek pure risk cover hai, maturity par koi paisa nahi milta",
+        "B": "Yeh investment aur insurance ka mix hai",
+        "C": "Ismein har 5 saal par paisa wapas milta hai",
+        "D": "Yeh retirement ke liye pension deta hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Term Insurance sabse sasta aur saral life insurance hai. Ismein policy term ke dauraan death hone par nominee ko sum assured milta hai. Agar policyholder term survive kar jaata hai, toh aam taur par kuch nahi milta (except in Term with Return of Premium plans)."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "ULIP ka full form kya hai?",
+      "options": {
+        "A": "Universal Life Insurance Plan",
+        "B": "Unit Linked Insurance Plan",
+        "C": "Unified Life Investment Product",
+        "D": "Underwritten Long-term Investment Plan"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ULIP ka poora naam Unit Linked Insurance Plan hai. Yeh insurance aur market-linked investment ka combination hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Endowment Policy, Term Policy se kaise alag hai?",
+      "options": {
+        "A": "Endowment policy mein sirf death benefit milta hai",
+        "B": "Endowment policy mein death benefit aur maturity benefit dono hote hain",
+        "C": "Endowment policy sasti hoti hai",
+        "D": "Endowment policy short term ke liye hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Endowment policy mein savings aur insurance dono hote hain. Policyholder ki death hone par ya policy term ke poora hone par (maturity), jo bhi pehle ho, sum assured milta hai. Jabki term plan mein sirf death benefit hota hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Money-Back Policy ka khaas fayda kya hai?",
+      "options": {
+        "A": "Sabse zyada returns deti hai",
+        "B": "Policy term ke dauraan regular interval par survival benefits milte hain",
+        "C": "Sabse kam premium hota hai",
+        "D": "Sirf death cover deti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Money-Back Policy ek tarah ki endowment policy hai jismein policyholder ko policy term ke dauraan niyamit antral par sum assured ka ek hissa wapas milta rehta hai. Poora sum assured death ya maturity par bhi milta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Life insurance policy mein 'Rider' kya hota hai?",
+      "options": {
+        "A": "Policy ka main benefit",
+        "B": "Ek extra benefit jo base policy ke saath joda jaa sakta hai, jaise critical illness cover",
+        "C": "Agent ka assistant",
+        "D": "Policy document ka cover page"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rider ek add-on benefit hota hai jise thoda extra premium dekar base policy ke saath kharida jaa sakta hai. Udaharan: Accidental Death Benefit Rider, Critical Illness Rider."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Ek 30 saal ke vyakti, jiske upar family ki zimmedari hai aur budget kam hai, uske liye sabse suitable life insurance plan kaunsa hoga?",
+      "options": {
+        "A": "ULIP",
+        "B": "Endowment Plan",
+        "C": "Term Insurance Plan",
+        "D": "Money-Back Policy"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Kam budget mein maximum life cover ke liye Term Insurance sabse behtar vikalp hai. Yeh uski family ko uske na rehne par financial security dega."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Whole Life Insurance policy kab tak cover deti hai?",
+      "options": {
+        "A": "60 saal ki umar tak",
+        "B": "80 saal ki umar tak",
+        "C": "Policyholder ki poori zindagi tak (aksar 100 saal ki umar tak)",
+        "D": "Sirf 20 saal tak"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Whole Life Insurance policyholder ko uski poori zindagi ke liye cover karti hai. Iska matlab hai ki death kabhi bhi ho, nominee ko claim zaroor milta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Annuity (Pension) plan kharidne ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Bachchon ki shaadi ke liye paisa jodna",
+        "B": "Retirement ke baad regular income stream create karna",
+        "C": "Bimari ke kharchon ko cover karna",
+        "D": "Car kharidne ke liye loan lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Annuity plans retirement planning ke liye hote hain. Inmein aap ek lump sum ya regular premium invest karte hain, aur retirement ke baad aapko regular pension milna shuru ho jaata hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "ULIP mein investment risk kiska hota hai?",
+      "options": {
+        "A": "Insurance company ka",
+        "B": "Agent ka",
+        "C": "Policyholder ka",
+        "D": "IRDAI ka"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "ULIP mein premium ka ek hissa market-linked funds (equity, debt) mein invest hota hai. Isliye, investment se juda saara risk policyholder ka hota hai, na ki insurance company ka."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Agar policyholder policy lene ke 3 saal baad suicide kar leta hai, toh kya nominee ko poora Sum Assured milega?",
+      "options": {
+        "A": "Haan, poora milega",
+        "B": "Bilkul nahi milega",
+        "C": "Sirf pay kiye gaye premiums wapas milenge",
+        "D": "Yeh company ke upar hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "IRDAI ke niyam anusaar, agar policy issue hone ke 12 mahine (1 saal) ke baad policyholder suicide karta hai, toh nominee ko poora sum assured milne ka adhikar hai. Agar 1 saal ke andar suicide hota hai, toh company sirf pay kiye gaye premiums ka 80% ya Surrender Value (jo zyada ho) wapas karti hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Paid-up Value kya hoti hai?",
+      "options": {
+        "A": "Policy ki surrender value",
+        "B": "Jab policyholder kuch saal premium dene ke baad aage premium dena band kar deta hai, toh policy kam Sum Assured ke saath active rehti hai",
+        "C": "Policy par liya gaya loan",
+        "D": "Total premium paid"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar koi policyholder (Endowment/Whole Life) kuch nirdharit saalon tak premium bharne ke baad aage nahi bhar paata, toh policy lapse hone ke bajaye 'paid-up' ho jaati hai. Ismein Sum Assured ghata diya jaata hai, lekin policy chalti rehti hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Keyman Insurance kaun kharidta hai?",
+      "options": {
+        "A": "Ek employee apne liye",
+        "B": "Ek employer apne key employee ke liye",
+        "C": "Ek bank apne customer ke liye",
+        "D": "Parents apne bachchon ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Keyman Insurance ek company dwara apne uss zaroori employee ke liye li jaati hai, jiske na rehne se company ko bada financial loss ho sakta hai. Ismein policy ka beneficiary company hoti hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "'Grace Period' ka kya matlab hai?",
+      "options": {
+        "A": "Policy lene ke baad sochnay ka time",
+        "B": "Premium due date ke baad milne wala extra samay jismein bina late fee ke premium bhara ja sakta hai",
+        "C": "Claim file karne ka time",
+        "D": "Policy renew karne ka time"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grace Period, premium due date nikal jaane ke baad milne wala atirikt samay hai (aam taur par 15-30 din). Is dauraan premium bharne par policy active rehti hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Married Women's Property (MWP) Act ke tehat li gayi life insurance policy ka kya fayda hai?",
+      "options": {
+        "A": "Premium kam ho jaata hai",
+        "B": "Policy se milne wala paisa (death benefit) creditors (jinse udhaar liya hai) se surakshit rehta hai aur sirf wife/children ko milta hai",
+        "C": "Policy par loan aasani se mil jaata hai",
+        "D": "Policy jaldi mature ho jaati hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "MWP Act ke tehat li gayi policy ek trust ban jaati hai jiske trustees wife aur/ya bachche hote hain. Policyholder ke upar kitna bhi karz ho, policy ki proceeds par sirf unka hak hota hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Critical Illness Rider mein kaunsi bimari aam taur par cover hoti hai?",
+      "options": {
+        "A": "Sardi-Zukaam",
+        "B": "Cancer, Heart Attack, Kidney Failure",
+        "C": "Pet dard",
+        "D": "Malaria"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Critical Illness Rider gambhir bimariyon jaise Cancer, Heart Attack, Stroke, Kidney Failure aadi ko cover karta hai. Bimari diagnose hone par ek lump sum amount policyholder ko mil jaata hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Policy 'Lapse' kab hoti hai?",
+      "options": {
+        "A": "Jab claim file kiya jaata hai",
+        "B": "Jab grace period ke andar bhi premium nahi bhara jaata",
+        "C": "Jab policy mature ho jaati hai",
+        "D": "Jab nominee badla jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar policyholder grace period ke andar bhi premium ka bhugtaan nahi karta hai, toh policy lapse (inactive) ho jaati hai aur uske benefits band ho jaate hain."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Human Life Value (HLV) concept ka upyog kya nirdharit karne ke liye kiya jaata hai?",
+      "options": {
+        "A": "Sahi premium amount",
+        "B": "Policy ka term",
+        "C": "Ek vyakti ko kitne life insurance cover ki zaroorat hai",
+        "D": "Agent ka commission"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "HLV ek method hai jisse ek vyakti ki future earning capacity ke aadhar par uske liye zaroori life insurance cover ka anumaan lagaya jaata hai, taaki uske na rehne par family ko financial support mil sake."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Health Insurance mein 'Deductible' kya hota hai?",
+      "options": {
+        "A": "Premium par milne wala discount",
+        "B": "Claim amount ka woh hissa jo policyholder ko apni jeb se dena padta hai, uske baad company pay karti hai",
+        "C": "Doctor ki fees",
+        "D": "Hospital ka room rent"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Deductible ek fixed amount hai (e.g., Rs. 5,000) jo policyholder ko har claim par pehle khud pay karna hota hai. Isse premium kam karne mein madad milti hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Motor Insurance mein Third-Party cover kya cover karta hai?",
+      "options": {
+        "A": "Driver ki chot",
+        "B": "Apni gaadi ka nuksaan",
+        "C": "Aapki gaadi se kisi teesre vyakti (person or property) ko hua nuksaan",
+        "D": "Gaadi ki chori"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Third-Party insurance, jise 'Act Only' policy bhi kehte hain, aapki gaadi se kisi doosre vyakti, uski gaadi ya property ko hue nuksaan ki bharpaai karta hai. Yeh kaanoon anusaar anivarya hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Comprehensive Motor Insurance mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf Third-Party cover",
+        "B": "Sirf Own Damage (apni gaadi ka nuksaan) cover",
+        "C": "Third-Party cover + Own Damage cover",
+        "D": "Sirf Personal Accident cover"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Comprehensive policy, jise 'Package Policy' bhi kehte hain, Third-Party liability aur Own Damage (accident, chori, aag, natural calamity se gaadi ko hua nuksaan) dono ko cover karti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "No Claim Bonus (NCB) kya hai?",
+      "options": {
+        "A": "Claim na lene par milne wala cash bonus",
+        "B": "Agle saal ke premium par milne wala discount agar pichle saal koi claim na liya ho",
+        "C": "Policy ke saath milne wala gift",
+        "D": "Accident hone par milne wala extra paisa"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "NCB ek reward hai jo insurance company safe driving ke liye deti hai. Agar aap poore policy year mein koi claim nahi karte, toh agle saal ke renewal premium par aapko discount milta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Family Floater Health Plan ka kya matlab hai?",
+      "options": {
+        "A": "Har family member ke liye alag-alag policy",
+        "B": "Ek hi policy jismein poori family (pati, patni, bachche) ek single sum insured ke under cover hoti hai",
+        "C": "Sirf bachchon ke liye policy",
+        "D": "Sirf parents ke liye policy"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Family Floater plan mein ek hi Sum Insured poori family ke beech float (share) hota hai. Koi bhi member uss limit tak use kar sakta hai. Yeh individual policies se sasta padta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Home Insurance policy aam taur par kya cover nahi karti hai?",
+      "options": {
+        "A": "Aag se nuksaan",
+        "B": "Chori",
+        "C": "Jaan boojh kar kiya gaya nuksaan (Willful damage)",
+        "D": "Baadh se nuksaan"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Insurance policies accidental aur unforeseen events ko cover karti hain. Policyholder dwara jaan boojh kar kiye gaye nuksaan ko kabhi cover nahi kiya jaata."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Travel Insurance kharidne ka kya fayda hai?",
+      "options": {
+        "A": "Flight ticket sasti milti hai",
+        "B": "Yatra ke dauraan medical emergency, flight cancellation, passport khone jaise risks ko cover karta hai",
+        "C": "Hotel booking mein discount milta hai",
+        "D": "Visa aasani se mil jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Travel insurance yatra ke dauraan hone wale anishchit kharchon jaise medical treatment, baggage loss, trip cancellation aadi se financial protection deta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Health insurance mein 'Co-payment' clause ka kya matlab hai?",
+      "options": {
+        "A": "Company poora claim pay karegi",
+        "B": "Policyholder ko har claim ka ek certain percentage (e.g., 10%) khud pay karna hoga",
+        "C": "Premium do kiston mein pay karna",
+        "D": "Policyholder ko kuch pay nahi karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Co-payment mein, policyholder claim amount ka ek pre-decided percentage share karta hai. For example, 10% co-payment ke saath 1 lakh ke bill par, policyholder 10,000 dega aur company 90,000 degi."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Personal Accident Insurance kya cover karta hai?",
+      "options": {
+        "A": "Bimari se hone wali death",
+        "B": "Accident ke kaaran hone wali death ya disability (apangta)",
+        "C": "Natural death",
+        "D": "Hospitalization ka kharcha"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Yeh policy sirf accident ke kaaran hone wali maut, permanent disability, ya temporary disability ke case mein compensation deti hai. Yeh bimari ko cover nahi karti."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "IDV (Insured Declared Value) ka sambandh kis insurance se hai?",
+      "options": {
+        "A": "Health Insurance",
+        "B": "Motor Insurance",
+        "C": "Life Insurance",
+        "D": "Home Insurance"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IDV motor insurance mein gaadi ki current market value hoti hai. Gaadi chori hone ya total loss hone par insurance company maximum IDV tak ka hi claim deti hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Health Insurance mein 'Waiting Period' ka kya matlab hai?",
+      "options": {
+        "A": "Claim settle hone mein lagne wala time",
+        "B": "Policy lene ke baad ka woh shuruaati samay jiske dauraan kuch bimariyan cover nahi hoti",
+        "C": "Policy renew karne ka time",
+        "D": "Hospital mein admit hone ka time"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Health policies mein aam taur par shuruaat mein 30 din ka waiting period hota hai (accident ke alawa). Kuch pehle se maujood bimariyon ke liye yeh 2 se 4 saal tak ho sakta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Fire Insurance policy mein kaunsa risk cover hota hai?",
+      "options": {
+        "A": "Sirf aag lagne se nuksaan",
+        "B": "Aag, lightning, explosion aadi se property ko hua nuksaan",
+        "C": "Chori",
+        "D": "Earthquake"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Standard Fire and Special Perils Policy sirf aag hi nahi, balki bijli girne, gas cylinder phatne, dange, toofan, baadh jaise kai anya khatron se bhi suraksha pradaan karti hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Crop Insurance kise suraksha pradaan karta hai?",
+      "options": {
+        "A": "Factory workers ko",
+        "B": "Shopkeepers ko",
+        "C": "Farmers (kisaano) ko",
+        "D": "Doctors ko"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Crop Insurance (Fasal Bima) kisaano ko unki faslon ke kharab hone (jaise sookha, baadh, keede lagne se) par hone wale financial loss se bachata hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar aapki gaadi se accident hota hai aur aapke paas sirf Third-Party insurance hai, toh aapki gaadi ke repair ka kharcha kaun dega?",
+      "options": {
+        "A": "Insurance company degi",
+        "B": "Doosre party ka insurance dega",
+        "C": "Aapko khud dena padega",
+        "D": "Sarkaar degi"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Third-Party insurance sirf doosre paksh ke nuksaan ko cover karta hai. Apni gaadi ke nuksaan (Own Damage) ke liye comprehensive policy hona zaroori hai. Sirf TP policy hone par, apni gaadi ka kharcha khud uthana padta hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Top-up Health Plan kya hota hai?",
+      "options": {
+        "A": "Ek basic health plan",
+        "B": "Ek aisa plan jo aapki existing health policy ki limit (deductible) khatm hone ke baad kaam karta hai",
+        "C": "Ek accident policy",
+        "D": "Ek travel insurance policy"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Top-up plan kam premium mein zyada cover deta hai. Maan lijiye aapke paas 3 lakh ki base policy hai aur aapne 3 lakh deductible wala 10 lakh ka top-up liya hai. Agar bill 7 lakh ka aata hai, toh pehle 3 lakh base policy se aur baaki 4 lakh top-up se pay honge."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Cashless hospitalization ka kya matlab hai?",
+      "options": {
+        "A": "Hospital mein free ilaaj",
+        "B": "Aapko hospital ko paise nahi dene padte, insurance company (via TPA) seedhe hospital ko pay karti hai",
+        "C": "Ilaaj ke baad aapko cash wapas milta hai",
+        "D": "Aapko pehle pay karna hota hai, fir company paise wapas karti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cashless facility mein, agar aap insurance company ke network hospital mein admit hote hain, toh aapko apni jeb se paise nahi dene padte (deductible/co-pay ke alawa). TPA (Third Party Administrator) aapke behalf par bill settle karta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Depreciation (mulyahraas) ka concept kis insurance claim mein important hai?",
+      "options": {
+        "A": "Life Insurance",
+        "B": "Motor Insurance",
+        "C": "Personal Accident Insurance",
+        "D": "Travel Insurance"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Motor insurance claim mein, plastic, rubber, aur metal parts ki value samay ke saath kam hoti hai (depreciation). Claim ke time, company in parts ki poori keemat nahi deti, balki depreciation kaat kar deti hai. Isse bachne ke liye 'Zero Depreciation' add-on le sakte hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Insurance mein 'Underwriting' ka kya matlab hai?",
+      "options": {
+        "A": "Policy document likhna",
+        "B": "Risk ko assess karna aur decide karna ki policy deni hai ya nahi, aur kis premium par deni hai",
+        "C": "Claim process karna",
+        "D": "Policy bechna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Underwriting woh process hai jismein insurance company customer dwara diye gaye information ke aadhar par uske risk ko mapti hai aur premium tay karti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Proposal Form bharte samay sabse zaroori baat kya hai?",
+      "options": {
+        "A": "Form ko saaf-suthra rakhna",
+        "B": "Sabhi jaankari sahi aur poori bharna",
+        "C": "Sirf agent se form bharwana",
+        "D": "Kuch jaankariyan chhipa lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proposal form 'Utmost Good Faith' ke principle par aadharit hota hai. Galat ya adhoori jaankari dene par claim reject ho sakta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Claim intimation ka kya matlab hai?",
+      "options": {
+        "A": "Claim ka paisa milna",
+        "B": "Loss hone par insurance company ko sabse pehle soochit karna",
+        "C": "Claim form bharna",
+        "D": "Claim ka reject hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Claim process ka sabse pehla step hai company ko jald se jald (phone, email, ya letter se) loss ya event ke baare mein inform karna. Ise claim intimation kehte hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Life insurance mein early claim (policy lene ke 2-3 saal ke andar) hone par company kya kar sakti hai?",
+      "options": {
+        "A": "Turant claim pay kar degi",
+        "B": "Claim ko investigate kar sakti hai yeh dekhne ke liye ki koi material fact toh nahi chhipaya gaya tha",
+        "C": "Premium double kar degi",
+        "D": "Policy cancel kar degi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar policy lene ke kuch hi saalon mein death claim aata hai, toh companies aksar investigation karti hain. Yeh sunishchit karne ke liye ki proposal form mein medical history ya aadat (jaise smoking) se judi koi zaroori baat chhipayi toh nahi gayi thi."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Motor accident claim ke liye kaunsa document anivarya hai?",
+      "options": {
+        "A": "Aadhaar Card",
+        "B": "Birth Certificate",
+        "C": "FIR (First Information Report) ya Police Report",
+        "D": "Ration Card"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Major accident, chori, ya third-party injury ke case mein, FIR ya police report claim process ke liye ek zaroori document hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Surveyor/Loss Assessor ka kya role hota hai?",
+      "options": {
+        "A": "Policy bechna",
+        "B": "Premium collect karna",
+        "C": "Loss hone par nuksaan ka aaklan (assessment) karna aur report banana",
+        "D": "Customer ko call karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "General insurance (motor, property) mein, claim aane par company ek licensed surveyor ko bhejti hai jo nuksaan ki maatra aur kaaran ka aaklan karke apni independent report company ko deta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Death claim ke liye aam taur par kaunsa document zaroori nahi hota?",
+      "options": {
+        "A": "Death Certificate",
+        "B": "Original Policy Document",
+        "C": "Claimant ka ID proof",
+        "D": "Policyholder ki school marksheet"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Death claim ke liye Death Certificate, Policy Bond, Nominee ka ID aur address proof, aur claim form zaroori hote hain. School marksheet ki aavashyakta nahi hoti."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Agar underwriter ko lagta hai ki customer high-risk hai (jaise koi purani bimari), toh woh kya kar sakta hai?",
+      "options": {
+        "A": "Premium badha sakta hai (loading)",
+        "B": "Policy dene se mana kar sakta hai",
+        "C": "Uss bimari ko policy se exclude kar sakta hai",
+        "D": "Uparokt sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "High-risk cases mein underwriter ke paas kai vikalp hote hain: woh extra premium (loading) charge kar sakta hai, policy dene se inkaar kar sakta hai, ya fir uss khaas condition ko policy coverage se bahar rakh sakta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Third Party Administrator (TPA) ka health insurance mein kya role hai?",
+      "options": {
+        "A": "Policy bechna",
+        "B": "Insurance company ki taraf se claim processing, cashless hospitalization jaisi services manage karna",
+        "C": "Premium decide karna",
+        "D": "Hospital chalana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "TPA, insurance company aur policyholder/hospital ke beech ek link ka kaam karta hai. Unka kaam claims ko process karna, network hospitals manage karna aur customer ko support dena hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Material Fact (zaroori tathya) kise kehte hain?",
+      "options": {
+        "A": "Customer ka naam aur pata",
+        "B": "Koi bhi aisi jaankari jo underwriter ke decision ko prabhavit kar sakti hai",
+        "C": "Nominee ka naam",
+        "D": "Agent ka code"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Material fact woh jaankari hai jiske pata hone par underwriter ya toh policy dene se mana kar deta, ya alag sharton par ya zyada premium par deta. Jaise ki, pehle se heart ki bimari hona."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Claim repudiation (claim ka asweekar hona) ka sabse aam kaaran kya hota hai?",
+      "options": {
+        "A": "Premium late bharna",
+        "B": "Proposal form mein material facts chhipana (non-disclosure)",
+        "C": "Agent ko badalna",
+        "D": "Nominee ka minor hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sabse zyada claims isliye reject hote hain kyunki policyholder ne policy lete samay apni health, aadat, ya occupation se judi zaroori jaankari chhipayi hoti hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Maturity Claim ke liye policyholder ko kya karna hota hai?",
+      "options": {
+        "A": "Kuch nahi, paisa apne aap aa jaayega",
+        "B": "Company ko pehle se soochit karke, original policy bond aur bank details ke saath discharge form jama karna hota hai",
+        "C": "FIR karwani padti hai",
+        "D": "Agent ko call karna hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Policy mature hone par, policyholder ko maturity amount receive karne ke liye company dwara bheja gaya discharge form bharkar, zaroori documents ke saath jama karna hota hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Subrogation ka adhikar insurance company ko kab milta hai?",
+      "options": {
+        "A": "Policy issue karte samay",
+        "B": "Claim pay karne ke baad",
+        "C": "Policy lapse hone par",
+        "D": "Premium milne par"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Subrogation ka matlab hai ki claim pay karne ke baad, insurance company policyholder ki jagah le leti hai aur uss third party se nuksaan vasoolne ka adhikar paati hai jiski galti se loss hua tha. Yeh general insurance mein lagu hota hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Insurance policy mein 'Exclusions' kya hote hain?",
+      "options": {
+        "A": "Policy ke benefits",
+        "B": "Woh situations ya conditions jinke liye company claim pay nahi karegi",
+        "C": "Policy ke riders",
+        "D": "Premium ki details"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Har policy mein exclusions list hoti hai, jismein bataya jaata hai ki kaun-kaun si paristhitiyon mein hua nuksaan cover nahi hoga (jaise, sharab peekar gaadi chalane se hua accident)."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Agar policy bond kho jaaye toh claim kaise milega?",
+      "options": {
+        "A": "Claim nahi mil sakta",
+        "B": "Ek Indemnity Bond sign karke aur zaroori paper formalities poori karke duplicate policy issue karwai ja sakti hai aur claim file kiya ja sakta hai",
+        "C": "Sirf aadha claim milega",
+        "D": "Nayi policy leni padegi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Policy document kho jaane par claim reject nahi hota. Policyholder ko ek Indemnity Bond (ek legal paper) company ko dena padta hai, jiske baad company duplicate policy issue karti hai aur claim process karti hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Medical underwriting mein kya shamil ho sakta hai?",
+      "options": {
+        "A": "Sirf proposal form ki jaankari",
+        "B": "Proposal form ki jaankari aur medical examination",
+        "C": "Sirf customer se phone par baat karna",
+        "D": "Agent ki report"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Zyada age ya high sum assured ke cases mein, underwriter sirf proposal form par nirbhar nahi rehta, balki customer ka medical check-up (blood test, ECG, etc.) bhi karwa sakta hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Claim settlement ratio kya batata hai?",
+      "options": {
+        "A": "Company ne kitna profit kamaya",
+        "B": "Ek financial year mein receive hue total claims mein se kitne claims company ne pay kiye",
+        "C": "Company ke paas kitne agents hain",
+        "D": "Company ne kitna premium collect kiya"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High claim settlement ratio (jaise 98%) yeh darshata hai ki company apne claims ko settle karne mein kitni reliable hai. Yeh ek important factor hai company choose karte samay."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "India mein insurance industry ko kaunsi sanstha regulate karti hai?",
+      "options": {
+        "A": "SEBI",
+        "B": "RBI",
+        "C": "IRDAI",
+        "D": "PFRDA"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Insurance Regulatory and Development Authority of India (IRDAI) भारत mein insurance sector ki supreme regulatory body hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "IRDAI ka mukhya kaam kya hai?",
+      "options": {
+        "A": "Policyholders ke hiton ki raksha karna",
+        "B": "Insurance industry ka vikas karna",
+        "C": "Insurance companies ko regulate karna",
+        "D": "Uparokt sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "IRDAI ke mukhya kaam policyholders ke interests ko protect karna, insurance market ko promote aur regulate karna, aur companies ka sahi se kaam karna sunishchit karna hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Insurance agent ke liye 'Code of Conduct' kaun jaari karta hai?",
+      "options": {
+        "A": "Insurance Company",
+        "B": "Central Government",
+        "C": "IRDAI",
+        "D": "Agent's Association"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "IRDAI ne sabhi agents ke liye ek Code of Conduct (aachar sanhita) banayi hai, jiska paalan karna anivarya hai. Ismein customer ke saath sahi vyavahar karne ke nirdesh hote hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Mis-selling (galat tarike se bechna) ka ek udaharan kya hai?",
+      "options": {
+        "A": "Customer ko policy ke saare features sahi-sahi batana",
+        "B": "Customer ko uski zaroorat ke anusaar plan suggest karna",
+        "C": "Insurance ko fixed deposit bata kar bechna",
+        "D": "Customer ko free-look period ke baare mein batana"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Mis-selling ka matlab hai customer ko galat, adhoori, ya bhramak jaankari dekar policy bechna. Insurance ko guaranteed return wali FD bata kar bechna ek gambhir mis-selling hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Policy lene ke baad, customer ko kitne din ka 'Free-look Period' milta hai?",
+      "options": {
+        "A": "7 din",
+        "B": "15 din",
+        "C": "30 din",
+        "D": "45 din"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Policy document milne ke baad, customer ke paas 15 din ka samay hota hai jismein woh policy ke terms and conditions padh sakta hai. Agar woh santusht nahi hai, toh woh policy cancel karwa sakta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "KYC ka full form kya hai?",
+      "options": {
+        "A": "Know Your Company",
+        "B": "Know Your Customer",
+        "C": "Keep Your Cash",
+        "D": "Know Your Commission"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "KYC ka matlab hai Know Your Customer. Yeh ek process hai jiske tehat financial institutions apne graahakon ki identity aur address verify karti hain, taaki money laundering jaisi गतिविधियों ko roka jaa sake."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Insurance Ombudsman kaun hota hai?",
+      "options": {
+        "A": "Insurance company ka CEO",
+        "B": "Ek sarkari adhikaari jo policyholders ki shikayaton ka niwaran karta hai",
+        "C": "Ek senior agent",
+        "D": "IRDAI ka chairman"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Insurance Ombudsman (Bima Lokpal) ek independent authority hai. Agar aapki shikayat ka samadhan insurance company nahi karti hai, toh aap Ombudsman ke paas jaa sakte hain."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Ek agent ko customer ki kaunsi jaankari confidential (gopniya) rakhni chahiye?",
+      "options": {
+        "A": "Sirf naam aur pata",
+        "B": "Sirf policy number",
+        "C": "Customer ki sabhi personal, financial aur medical jaankari",
+        "D": "Koi jaankari confidential nahi hoti"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ek professional agent ka yeh kartavya hai ki woh apne customer ki sabhi jaankariyon ko gopniya rakhe aur kisi teesre vyakti ke saath share na kare."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "IRDAI (Protection of Policyholders' Interests) Regulations, 2017 ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Insurance companies ka profit badhana",
+        "B": "Agents ka commission badhana",
+        "C": "Policyholders ke hiton ki raksha karna, jaise fair treatment aur aasan claim process sunishchit karna",
+        "D": "Naye insurance products launch karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Yeh regulation policyholders ke अधिकारों ki raksha karne ke liye banaya gaya hai. Ismein policy issue karne, claim settle karne, aur shikayat nivaran ke liye saaf nirdesh diye gaye hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Insurance Act, 1938 ka Section 45 kya kehta hai?",
+      "options": {
+        "A": "Agent ke commission ke baare mein",
+        "B": "Policy ko 3 saal ke baad galat jaankari ke aadhar par challenge nahi kiya ja sakta (Indisputability Clause)",
+        "C": "Free-look period ke baare mein",
+        "D": "KYC norms ke baare mein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Section 45 ke anusaar, agar ek policy 3 saal tak active rehti hai, toh uske baad insurance company use kisi bhi galat bayaan (misrepresentation) ke aadhar par radd nahi kar sakti, jab tak ki yeh saabit na ho ki yeh jaan boojh kar kiya gaya fraud tha."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Anti-Money Laundering (AML) guidelines ka insurance sector mein kya kaam hai?",
+      "options": {
+        "A": "Premium kam karna",
+        "B": "Yeh sunishchit karna ki insurance products ka istemaal kaale dhan ko safed karne mein na ho",
+        "C": "Claims jaldi settle karna",
+        "D": "Agents ko training dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AML guidelines ke tehat, insurance companies ko suspicious transactions par nazar rakhni hoti hai aur unki report karni hoti hai, taaki insurance ka galat istemaal na ho sake. KYC iska ek important hissa hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Agar koi agent mis-selling ka doshi paaya jaata hai, toh IRDAI kya kar sakta hai?",
+      "options": {
+        "A": "Agent par jurmana laga sakta hai",
+        "B": "Agent ka license cancel kar sakta hai",
+        "C": "Agent ko warn kar sakta hai",
+        "D": "Uparokt sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Mis-selling ki gambhirta ke aadhar par, IRDAI agent ko chetavni de sakta hai, uspar bhaari jurmana laga sakta hai, ya uska license permanent ya temporary taur par cancel kar sakta hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Ek agent ko kis cheez se bachna chahiye?",
+      "options": {
+        "A": "Customer ko doosri company ke products se compare karke batana",
+        "B": "Apni company ke product ko badha-chadhakar aur doosri company ke product ko galat batana (Twisting)",
+        "C": "Customer ki need analysis karna",
+        "D": "After-sales service dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Twisting' ek unethical practice hai jismein agent customer ko galat tulna karke uski maujooda policy surrender karwata hai aur apni company ki policy bechta hai. Yeh IRDAI ke niyam ke khilaaf hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Policyholder ki shikayat ka samadhan karne ka pehla level kya hai?",
+      "options": {
+        "A": "Seedhe IRDAI ke paas jaana",
+        "B": "Seedhe Ombudsman ke paas jaana",
+        "C": "Insurance company ke Grievance Redressal Officer (GRO) se sampark karna",
+        "D": "Court mein case karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Shikayat nivaran ka pehla kadam hamesha insurance company ke apne grievance cell ya officer se sampark karna hota hai. Agar wahan se santoshjanak jawab nahi milta, tab aage ke options dekhe jaate hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Rebating (premium mein chhoot dena) anuchit kyu maana jaata hai?",
+      "options": {
+        "A": "Isse agent ka commission kam ho jaata hai",
+        "B": "Yeh Insurance Act, 1938 ke Section 41 ka ullanghan hai aur customer ko galat tarike se prabhavit karta hai",
+        "C": "Isse company ko loss hota hai",
+        "D": "Yeh customer ke liye faydemand hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Section 41 ke anusaar, koi bhi agent policy bechne ke liye apne commission se ya kisi aur tarike se customer ko premium mein chhoot (rebate) nahi de sakta. Yeh ek illegal practice hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Ek agent ka license kitne saal ke liye valid hota hai?",
+      "options": {
+        "A": "1 saal",
+        "B": "3 saal",
+        "C": "5 saal",
+        "D": "Lifetime"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IRDAI ke niyam anusaar, ek insurance agent ka license aam taur par 3 saal ke liye jaari kiya jaata hai, jiske baad use renew karwana padta hai."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "IGMS (Integrated Grievance Management System) kya hai?",
+      "options": {
+        "A": "Ek agent training portal",
+        "B": "IRDAI ka ek online platform jahan policyholder apni shikayat seedhe darj kar sakte hain",
+        "C": "Ek insurance company ka internal software",
+        "D": "Ek sales tracking system"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IGMS ek central online system hai jise IRDAI ne banaya hai. Is par koi bhi policyholder apni insurance company ke khilaaf online shikayat darj kar sakta hai aur uska status track kar sakta hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Insurance sales process ka pehla step kya hona chahiye?",
+      "options": {
+        "A": "Product ke features batana",
+        "B": "Premium calculate karna",
+        "C": "Prospecting (sambhavit graahakon ki pehchan karna)",
+        "D": "Form bharna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi sales process ki shuruaat sambhavit graahakon (prospects) ki pehchan karne se hoti hai, jinse aap sampark karke unki zarooraton ko samajh sakte hain."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Need-based selling ka kya matlab hai?",
+      "options": {
+        "A": "Jo product aapko pasand hai woh bechna",
+        "B": "Jo product sabse mehenga hai woh bechna",
+        "C": "Pehle customer ki zarooraton, goals, aur financial situation ko samajhna aur fir uske anusaar product suggest karna",
+        "D": "Sirf apne target poora karne ke liye bechna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Need-based selling ek ethical approach hai jismein agent ka focus customer ki zarooraton ko poora karna hota hai, na ki sirf apni sales target ko. Isse customer ka vishwas badhta hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Customer ke objection 'Aapka premium bahut zyada hai' ko handle karne ka sabse achha tarika kya hai?",
+      "options": {
+        "A": "Kehna 'Isse sasta nahi milega'",
+        "B": "Customer ko premium ke badle milne wale benefits aur value (jaise high sum assured, riders, company ki reliability) samjhana",
+        "C": "Baat ko ignore kar dena",
+        "D": "Customer ko doosra agent dhoondne ke liye kehna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Objection ko handle karne ka best tareeka premium ko value se jodna hai. Customer ko samjhana ki thoda zyada premium dekar use kitni behtar suraksha aur features mil rahe hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "After-sales service mein kya shamil hota hai?",
+      "options": {
+        "A": "Premium payment ke liye reminder bhejna",
+        "B": "Policy mein nominee ya address change karwane mein madad karna",
+        "C": "Claim ke samay customer ki madad karna",
+        "D": "Uparokt sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "After-sales service policy bechne ke baad shuru hoti hai. Ismein customer ko har tarah ki sahayata pradaan karna shamil hai, jisse long-term relationship banti hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Cross-selling kya hota hai?",
+      "options": {
+        "A": "Ek hi product baar baar bechna",
+        "B": "Ek maujooda customer ko ek naya aur alag product bechna (jaise life insurance customer ko health insurance bechna)",
+        "C": "Product ko discount par bechna",
+        "D": "Customer ko doosri company ka product bechna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cross-selling mein aap apne existing customer ki doosri zarooraton ko pehchankar use ek naya product offer karte hain. Isse business badhta hai aur customer relationship majboot hoti hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Ek naye agent ke liye lead generate karne ka sabse achha natural source kya hai?",
+      "options": {
+        "A": "Cold calling",
+        "B": "Apne friends, family, aur acquaintances ka circle (Natural Market)",
+        "C": "Newspaper mein advertisement dena",
+        "D": "Social media par ads chalana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Naye agents ke liye sabse pehle apne 'Natural Market' ya 'Circle of Influence' (dost, rishtedaar, padosi) se shuruaat karna aasan hota hai kyunki wahan pehle se ek trust level hota hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Customer se appointment lete samay aapka primary goal kya hona chahiye?",
+      "options": {
+        "A": "Phone par hi policy bech dena",
+        "B": "Customer ki zarooraton ko samajhne ke liye ek face-to-face meeting fix karna",
+        "C": "Customer se uski saari financial details phone par hi le lena",
+        "D": "Customer ko batana ki aapke paas best product hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Appointment call ka mukhya uddeshya sirf meeting fix karna hota hai, na ki poori sales pitch dena. Meeting mein aap detail mein uski zarooraton ko samajh sakte hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Ek successful sales presentation ki kya nishani hai?",
+      "options": {
+        "A": "Agent zyada bolta hai aur customer kam",
+        "B": "Presentation mein bahut saare technical jargons ka istemaal hota hai",
+        "C": "Yeh ek two-way conversation hoti hai jismein agent customer ki sunta hai aur uske sawaalon ka jawab deta hai",
+        "D": "Presentation bahut lambi hoti hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek achhi presentation hamesha interactive hoti hai. Agent ko customer ko engage karna chahiye, uski zarooraton ko sunna chahiye, aur product ke features ko un zarooraton se jod kar batana chahiye."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Closing a sale' ka kya matlab hai?",
+      "options": {
+        "A": "Customer se milne jaana",
+        "B": "Customer se baat khatm karna",
+        "C": "Customer ko proposal form bharne aur premium pay karne ke liye agree karwana",
+        "D": "Customer ko follow-up call karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Closing, sales process ka woh antim charan hai jismein aap customer se policy kharidne ke liye commitment lete hain aur aage ki formalities poori karte hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Referrals maangna kyu zaroori hai?",
+      "options": {
+        "A": "Yeh aapko naye prospects (sambhavit graahak) deta hai jinke paas aap ek trusted source ke through jaate hain",
+        "B": "Isse aapka sales target poora hota hai",
+        "C": "Yeh company ki policy hai",
+        "D": "Yeh zaroori nahi hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Apne satisfied customers se referrals maangna naye business paane ka sabse prabhavi tareeka hai. Ek satisfied customer ka reference aapke liye darwaze kholta hai aur trust build karne mein madad karta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Ek customer kehta hai, 'Mujhe sochnay ke liye time chahiye'. Agent ko kya karna chahiye?",
+      "options": {
+        "A": "Customer par turant decide karne ke liye dabav daalna",
+        "B": "Uski baat ko samajhna, uske doubts ko clear karne ki koshish karna, aur follow-up ke liye ek samay nirdharit karna",
+        "C": "Kehna 'Theek hai' aur call kaat dena",
+        "D": "Use doosri company ke product dekhne ke liye kehna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yeh ek aam objection hai. Agent ko patient rehna chahiye. Customer se poochhna chahiye ki uske kya specific concerns hain aur unhe address karna chahiye. Fir, bina pressure daale, ek follow-up meeting ya call ka time fix karna chahiye."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Up-selling ka kya matlab hai?",
+      "options": {
+        "A": "Customer ko ek alag product bechna",
+        "B": "Customer ko uske chune hue product ka ek behtar ya mehenga version bechna (jaise zyada sum assured ya extra riders ke saath)",
+        "C": "Product ki keemat badhana",
+        "D": "Product ko online bechna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Up-selling mein aap customer ko uske original choice se thoda behtar product lene ke liye prerit karte hain, jisse uski zaroorat behtar dhang se poori ho aur company/agent ki revenue bhi badhe."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Ek professional insurance agent ki sabse badi quality kya honi chahiye?",
+      "options": {
+        "A": "Achha bolna",
+        "B": "Achha sunna (Good listening skills)",
+        "C": "Achhe kapde pehanna",
+        "D": "Aggressive hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jabki sabhi qualities important hain, ek achha listener hona sabse zaroori hai. Jab tak agent customer ki zarooraton aur chintaon ko dhyan se sunega nahi, woh sahi samadhan nahi de sakta."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Ek agent ko apne product knowledge ko update kyu karte rehna chahiye?",
+      "options": {
+        "A": "Kyunki company ke products aur niyam badalte rehte hain",
+        "B": "Market mein naye competitive products aate rehte hain",
+        "C": "Customer ke sawaalon ka sahi jawab dene ke liye",
+        "D": "Uparokt sabhi (All of the above)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Insurance industry dynamic hai. Naye products, badalte niyam, aur competition ke baare mein jaankari rakhne se agent customer ko behtar salah de paata hai aur professional dikhta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Customer relationship management (CRM) ek agent ke liye kyu zaroori hai?",
+      "options": {
+        "A": "Yeh customer ki jaankari, jaise contact details, policy details, aur important dates ko organize karne mein madad karta hai",
+        "B": "Isse sirf data entry hoti hai",
+        "C": "Yeh sirf badi companies ke liye hai",
+        "D": "Yeh bahut mehenga hota hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "CRM tools ya simple diary system, agent ko apne customers ka data manage karne mein madad karte hain. Isse woh samay par premium reminders bhej sakta hai, birthdays wish kar sakta hai, aur cross-selling ke opportunities dhoondh sakta hai, jisse customer service behtar hoti hai."
+    }
+  ]
+}

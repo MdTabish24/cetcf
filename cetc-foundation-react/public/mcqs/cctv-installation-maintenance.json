@@ -1,0 +1,1443 @@
+{
+  "course_name": "CCTV Installation & Maintenance",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "CCTV Systems ka Parichay aur Mool Baatein (Introduction to CCTV Systems & Basics)",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "CCTV System ke Components (Hardware) (CCTV System Components - Hardware)",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Installation Techniques aur Best Practices (Installation Techniques & Best Practices)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Configuration aur Networking Mool Baatein (Configuration & Networking Basics)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Testing, Troubleshooting aur Maintenance (Testing, Troubleshooting & Maintenance)",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Safety, Standards aur Advanced Concepts (Safety, Standards & Advanced Concepts)",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "CCTV ka full form kya hai?",
+      "options": {
+        "A": "Closed-Circuit Television",
+        "B": "Central Control Television",
+        "C": "Common Channel Television",
+        "D": "Circuit Control Television"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CCTV ka full form Closed-Circuit Television hota hai, jiska matlab hai ki video signal sirf specific monitors par hi transmit hota hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ek basic CCTV system mein kaun sa component video record karta hai?",
+      "options": {
+        "A": "Camera",
+        "B": "Monitor",
+        "C": "DVR/NVR",
+        "D": "Power Supply"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "DVR (Digital Video Recorder) ya NVR (Network Video Recorder) video footage ko record aur store karte hain."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Analog CCTV system mein video signal kis cable se transmit hota hai?",
+      "options": {
+        "A": "Cat5/Cat6 Cable",
+        "B": "Fiber Optic Cable",
+        "C": "Coaxial Cable",
+        "D": "USB Cable"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Analog CCTV systems mein Coaxial Cable (jaise RG59) video signal transmit karne ke liye use hota hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "IP CCTV system mein data kaise transmit hota hai?",
+      "options": {
+        "A": "Analog signals through coaxial cable",
+        "B": "Digital signals over a network (LAN/WAN)",
+        "C": "Radio waves",
+        "D": "Infrared signals"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IP (Internet Protocol) CCTV systems digital data ko network (LAN ya WAN) par transmit karte hain, jaise ki internet data."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "CCTV surveillance ka primary purpose kya hai?",
+      "options": {
+        "A": "Entertainment provide karna",
+        "B": "Security aur monitoring karna",
+        "C": "Internet access dena",
+        "D": "Phone calls record karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV ka mukhya uddeshya suraksha aur kisi area ki continuous monitoring karna hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Ek dome camera ka mukhya fayda kya hai?",
+      "options": {
+        "A": "Long-range night vision",
+        "B": "Discreet design aur vandal-resistant casing",
+        "C": "Bahut sasta hona",
+        "D": "Wireless hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dome camera apni discreet design aur tamper-resistant casing ke karan popular hain, jo unhe vandal-resistant banata hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "DVR ka kya kaam hai?",
+      "options": {
+        "A": "Analog video ko digital mein convert karna aur record karna",
+        "B": "Sirf live video display karna",
+        "C": "IP cameras ko power dena",
+        "D": "Network settings manage karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DVR (Digital Video Recorder) analog cameras se aaye video signals ko digital format mein convert karke hard drive par record karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "NVR kis type ke cameras ke liye use hota hai?",
+      "options": {
+        "A": "Analog cameras",
+        "B": "HD-TVI cameras",
+        "C": "IP cameras",
+        "D": "AHD cameras"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "NVR (Network Video Recorder) specifically IP (Internet Protocol) cameras ke liye design kiya gaya hai, jo digital video streams ko record karta hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "CCTV system mein 'resolution' ka kya matlab hai?",
+      "options": {
+        "A": "Camera ka physical size",
+        "B": "Video footage ki clarity aur detail",
+        "C": "Camera ki power consumption",
+        "D": "Cable ki length"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Resolution video footage ki clarity aur detail ko refer karta hai, jo pixels mein maapa jata hai. Higher resolution matlab clearer image."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Wireless CCTV system ka ek mukhya fayda kya hai?",
+      "options": {
+        "A": "High initial cost",
+        "B": "More secure against hacking",
+        "C": "Cabling ki zaroorat kam hoti hai",
+        "D": "Power consumption bahut zyada hota hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Wireless CCTV systems mein cabling ki zaroorat kam hoti hai, jisse installation aasaan aur kam mahanga ho jata hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Day/Night camera kis environment ke liye best hai?",
+      "options": {
+        "A": "Sirf din ke liye",
+        "B": "Sirf raat ke liye",
+        "C": "Din aur raat dono ke liye, low light mein bhi",
+        "D": "Underwater use ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Day/Night cameras din ke ujjale mein color aur raat ya low light conditions mein black and white mode par switch karke achhi visibility provide karte hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Pan-Tilt-Zoom (PTZ) camera ka kya use hai?",
+      "options": {
+        "A": "Fixed view provide karna",
+        "B": "Camera ki direction aur zoom ko remotely control karna",
+        "C": "Sirf audio record karna",
+        "D": "Wireless connectivity provide karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PTZ cameras ko remotely pan (horizontally), tilt (vertically), aur zoom kiya ja sakta hai, jisse ek bade area ko monitor karna aasaan ho jata hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Ek CCTV system mein 'latency' ka kya matlab hai?",
+      "options": {
+        "A": "Video footage ki storage capacity",
+        "B": "Live video aur actual event ke beech ka delay",
+        "C": "Camera ki power supply voltage",
+        "D": "Cable ki resistance"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Latency live video stream mein hone wale delay ko kehte hain. High latency matlab real-time monitoring mein zyada deri."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Kisi outdoor CCTV camera ke liye IP rating ka kya mahatva hai?",
+      "options": {
+        "A": "Internet Protocol address batata hai",
+        "B": "Dust aur water resistance level batata hai",
+        "C": "Image processing power batata hai",
+        "D": "Installation ki height batata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IP (Ingress Protection) rating batata hai ki camera dhool (dust) aur paani (water) se kitna protected hai, jo outdoor cameras ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Megapixel (MP) kiski unit hai?",
+      "options": {
+        "A": "Video storage space",
+        "B": "Camera lens ka aperture",
+        "C": "Camera sensor ki resolution",
+        "D": "Power consumption"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Megapixel camera sensor ki resolution ko indicate karta hai. 1 Megapixel = 1 million pixels, jo zyada detail wali image provide karta hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Hybrid DVR (HDVR) kya kar sakta hai?",
+      "options": {
+        "A": "Sirf IP cameras ko support karta hai",
+        "B": "Sirf analog cameras ko support karta hai",
+        "C": "Analog aur IP dono cameras ko support karta hai",
+        "D": "Sirf wireless cameras ko support karta hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Hybrid DVR (HDVR) ek aisa device hai jo ek hi system mein analog, HD-TVI/AHD/CVI, aur IP cameras ko support kar sakta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "CCTV system mein 'Frame Rate' ka kya matlab hai?",
+      "options": {
+        "A": "Video clip ki length",
+        "B": "Ek second mein kitne individual images (frames) display hote hain",
+        "C": "Camera ka viewing angle",
+        "D": "Video ka color depth"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Frame Rate (FPS - Frames Per Second) batata hai ki ek second mein kitne individual images ya frames record ya display ho rahe hain, jo video ki smoothness ko affect karta hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "IR (Infrared) LEDs ka kya kaam hai CCTV cameras mein?",
+      "options": {
+        "A": "Din mein colour enhance karna",
+        "B": "Raat mein ya kam roshni mein visibility provide karna",
+        "C": "Camera ko power supply dena",
+        "D": "Audio record karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IR LEDs infrared light emit karte hain jo insaani aankh se dikhai nahi deti, lekin camera ke sensor ko raat mein bhi clear image capture karne mein help karti hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Ek vari-focal lens ka kya fayda hai?",
+      "options": {
+        "A": "Fixed viewing angle deta hai",
+        "B": "Viewing angle aur zoom ko manually adjust kar sakte hain",
+        "C": "Sirf wireless connectivity provide karta hai",
+        "D": "Bahut kam power consume karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vari-focal lens mein focal length ko manually adjust kiya ja sakta hai, jisse viewing angle aur zoom level ko installation site par customize kiya ja sake."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "PoE (Power over Ethernet) ka mukhya fayda kya hai IP cameras mein?",
+      "options": {
+        "A": "Separate power cable ki zaroorat nahi padti",
+        "B": "Wireless connectivity provide karta hai",
+        "C": "Video quality improve karta hai",
+        "D": "Camera ko waterproof banata hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "PoE technology ek single Ethernet cable par data aur power dono provide karti hai, jisse separate power cable ki zaroorat khatam ho jaati hai aur installation aasaan ho jaati hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Hard Disk Drive (HDD) ka kya role hai DVR/NVR mein?",
+      "options": {
+        "A": "Live video display karna",
+        "B": "Recorded video footage store karna",
+        "C": "System ko power dena",
+        "D": "Internet connectivity provide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "HDD recorded video footage ko digital format mein store karta hai, jisse baad mein review kiya ja sake."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "BNC connector kis type ke cable ke liye use hota hai?",
+      "options": {
+        "A": "Cat6 cable",
+        "B": "Fiber optic cable",
+        "C": "Coaxial cable",
+        "D": "HDMI cable"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "BNC (Bayonet Neill-Concelman) connector aam taur par coaxial cables (jaise RG59) ke liye use hota hai analog CCTV systems mein."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "UTP cable ka full form kya hai?",
+      "options": {
+        "A": "Unshielded Twisted Pair",
+        "B": "Universal Transmission Protocol",
+        "C": "Underground Telecom Pathway",
+        "D": "Unified Terminal Port"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "UTP ka full form Unshielded Twisted Pair hai, jo IP CCTV systems mein data transmission ke liye commonly use hota hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Ek bullet camera ka mukhya fayda kya hai?",
+      "options": {
+        "A": "Discreet design",
+        "B": "Long-range viewing aur robust housing",
+        "C": "Sirf indoor use ke liye",
+        "D": "Wireless hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bullet cameras aam taur par outdoor use ke liye design kiye jaate hain, inki shape long-range viewing ke liye suitable hoti hai aur inka housing robust hota hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "CCTV camera ko power supply karne ke liye commonly kitne volts ka adapter use hota hai?",
+      "options": {
+        "A": "5V DC",
+        "B": "12V DC",
+        "C": "24V AC",
+        "D": "220V AC"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Zyadatar CCTV cameras ko 12V DC power supply ki zaroorat hoti hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Balun ka kya kaam hai CCTV system mein?",
+      "options": {
+        "A": "Coaxial cable ko fiber optic mein convert karna",
+        "B": "UTP cable par analog video signal ko transmit karna",
+        "C": "Power supply ko regulate karna",
+        "D": "Hard disk ko format karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Balun (Balanced-Unbalanced) device coaxial cable se aane wale analog video signal ko UTP cable par transmit karne ke liye use hota hai, jisse lambi doori par video bheja ja sake."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Kis type ka monitor CCTV footage dekhne ke liye best hai?",
+      "options": {
+        "A": "Old CRT monitor",
+        "B": "High-resolution LED/LCD monitor",
+        "C": "Small portable screen",
+        "D": "Projector"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "High-resolution LED/LCD monitors clear aur detailed footage provide karte hain, jo surveillance ke liye crucial hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "CCTV camera ke 'Lens Aperture' ka kya matlab hai?",
+      "options": {
+        "A": "Lens ka physical size",
+        "B": "Kitni roshni lens se sensor tak pahunchti hai",
+        "C": "Lens ka zoom capacity",
+        "D": "Lens ka material"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Aperture lens mein ek opening hoti hai jo control karti hai ki kitni roshni camera sensor tak pahunchegi. Isse image brightness aur depth of field affect hoti hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Outdoor CCTV installations ke liye kaun sa cable type zyada durable hota hai?",
+      "options": {
+        "A": "Indoor rated UTP cable",
+        "B": "Shielded Outdoor Rated Cat6 cable",
+        "C": "Flat ribbon cable",
+        "D": "Telephone cable"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Outdoor rated (UV resistant aur waterproof) shielded Cat6 cable weather conditions aur EMI se better protection provide karta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "PIR sensor ka kya use hai CCTV camera mein?",
+      "options": {
+        "A": "Picture quality improve karna",
+        "B": "Motion detection ke liye human heat signature detect karna",
+        "C": "Camera ko wireless banata hai",
+        "D": "Audio recording improve karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PIR (Passive Infrared) sensor body heat detect karke motion ko trigger karta hai, jisse false alarms kam hote hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Network Switch ka kya kaam hai IP CCTV system mein?",
+      "options": {
+        "A": "Analog signals ko convert karna",
+        "B": "Multiple IP cameras ko NVR se connect karna",
+        "C": "Recorded footage store karna",
+        "D": "Cameras ko fixed angle par lock karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Network Switch multiple network devices (jaise IP cameras aur NVR) ko ek network par connect karne mein help karta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "CCTV system mein 'UTC Controller' ka kya use hai?",
+      "options": {
+        "A": "Camera ko power supply dena",
+        "B": "Coaxial cable par OSD (On-Screen Display) menu control karna",
+        "C": "Network configuration karna",
+        "D": "Hard disk ko format karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "UTC (Up The Coax) Controller coaxial cable ke through camera ke OSD menu ko access aur control karne ki suvidha deta hai, jisse camera settings adjust ki ja sakti hain."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Video analytics features kis type ke cameras mein common hain?",
+      "options": {
+        "A": "Analog cameras",
+        "B": "Basic HD cameras",
+        "C": "Smart IP cameras",
+        "D": "Wireless analog cameras"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Smart IP cameras mein advanced video analytics jaise facial recognition, line crossing detection, object tracking jaise features hote hain."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Ek junction box ka kya mahatva hai CCTV installation mein?",
+      "options": {
+        "A": "Sirf cables ko aesthetic look dena",
+        "B": "Cable connections ko weather aur tampering se protect karna",
+        "C": "Wireless signal boost karna",
+        "D": "Recorded footage store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Junction box electrical connections ko weather elements, dhool aur tampering se bachane ke liye use hota hai, khaas kar outdoor installations mein."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "CCTV camera install karne se pehle sabse pehla step kya hona chahiye?",
+      "options": {
+        "A": "Cables bichana",
+        "B": "Power supply connect karna",
+        "C": "Site survey aur requirement analysis karna",
+        "D": "Monitor connect karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ek successful installation ke liye sabse pehle site survey karke client ki requirements aur site ki limitations ko samajhna zaroori hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Camera placement karte time kya dhyan rakhna chahiye taaki blind spots na banen?",
+      "options": {
+        "A": "Cameras ko ek hi height par lagana",
+        "B": "Overlapping fields of view rakhna",
+        "C": "Sirf ek camera lagana",
+        "D": "Cameras ko deewar ke beech mein lagana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blind spots se bachne ke liye cameras ke fields of view ko overlap karna chahiye, jisse koi area unmonitored na rahe."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Coaxial cable ko terminate karte time kis tool ka use hota hai?",
+      "options": {
+        "A": "Network crimping tool",
+        "B": "Wire stripper aur BNC crimping tool",
+        "C": "Soldering iron",
+        "D": "Drill machine"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Coaxial cable ko BNC connector ke saath terminate karne ke liye wire stripper aur specific BNC crimping tool ki zaroorat hoti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "IP camera ke liye Cat5e/Cat6 cable ko terminate karte time kaun sa wiring standard use hota hai?",
+      "options": {
+        "A": "T568A ya T568B",
+        "B": "RG59",
+        "C": "USB standard",
+        "D": "HDMI standard"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ethernet cables ko terminate karne ke liye T568A ya T568B wiring standards ka use kiya jata hai, jinse straight-through ya crossover cables banaye jaate hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Outdoor cable routing karte time kya precaution lena chahiye?",
+      "options": {
+        "A": "Cables ko khule mein chhod dena",
+        "B": "Cables ko conduit ya casing mein dalna",
+        "C": "Cables ko loose chhod dena",
+        "D": "Cables ko high voltage wires ke paas se le jana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Outdoor cables ko weather damage, physical damage aur rodents se bachane ke liye conduit ya PVC casing mein dalna zaroori hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Camera mounting ke liye sahi screw aur wall plug ka selection kyon zaroori hai?",
+      "options": {
+        "A": "Sirf aesthetic look ke liye",
+        "B": "Camera ki stability aur suraksha ke liye",
+        "C": "Video quality improve karne ke liye",
+        "D": "Power consumption kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi mounting hardware camera ko girne se bachata hai aur uski stability aur suraksha ensure karta hai, khaas kar outdoor ya high-traffic areas mein."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Low light performance improve karne ke liye camera kis taraf face hona chahiye?",
+      "options": {
+        "A": "Direct light source ki taraf",
+        "B": "Light source se door",
+        "C": "Shadow area ki taraf",
+        "D": "Koi farak nahi padta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Camera ko direct light source (jaise suraj ya bright light) ki taraf face karne se glare ya overexposure ho sakta hai, isliye usse door rakhna chahiye."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Power supply calculations karte time kya dhyan mein rakhna chahiye?",
+      "options": {
+        "A": "Sirf camera ki quantity",
+        "B": "Har camera ka current consumption (Amps) aur total current requirement",
+        "C": "Cable ki length",
+        "D": "Hard disk ki capacity"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi power supply choose karne ke liye har camera ke individual current consumption (Amps) ko jodkar total current requirement nikalna zaroori hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Long cable runs (zyada lambi cables) par video signal loss ko kam karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Thinner cables",
+        "B": "Video amplifier/extender",
+        "C": "Zyada connectors",
+        "D": "Low-quality cables"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lambi cable runs par signal loss ko compensate karne ke liye video amplifier ya extender ka use kiya jata hai, khaas kar analog systems mein."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Ek CCTV technician ke paas kaun sa basic tool hona chahiye?",
+      "options": {
+        "A": "Hammer",
+        "B": "Multimeter",
+        "C": "Welding machine",
+        "D": "Paint brush"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Multimeter voltage, current aur continuity check karne ke liye ek essential tool hai, jo troubleshooting aur power verification mein kaam aata hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "CCTV camera ko direct sunlight se bachane ke liye kya kar sakte hain?",
+      "options": {
+        "A": "Uske upar paani dalna",
+        "B": "Sun shield ya hood lagana",
+        "C": "Usse kaale rang mein paint karna",
+        "D": "Usko band kamre mein rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sun shield ya hood direct sunlight ko block karke camera lens par glare ko kam karta hai aur camera ko overheat hone se bachata hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Konse environment mein dome camera preferable hai?",
+      "options": {
+        "A": "Bahut lambi doori ki monitoring ke liye",
+        "B": "Discreet surveillance aur vandal-resistance required ho wahan",
+        "C": "Bahut andhere areas mein",
+        "D": "Underwater surveillance ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dome cameras apni discreet design aur tough casing ke karan indoor public spaces ya jahan vandal-resistance zaroori ho, wahan preferred hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Cables ko neatly manage karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Tape",
+        "B": "Cable ties, clips aur trays",
+        "C": "Nails",
+        "D": "Glue"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cable ties, clips aur cable trays cables ko organized aur neat rakhne mein help karte hain, jisse maintenance aur troubleshooting aasaan ho."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar hum IP camera ko PoE switch se connect kar rahe hain, to alag se power adapter ki zaroorat padegi kya?",
+      "options": {
+        "A": "Haan, hamesha padegi",
+        "B": "Nahi, kyunki PoE switch power bhi provide karta hai",
+        "C": "Sirf tab jab camera 4K ho",
+        "D": "Sirf tab jab cable bahut lambi ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PoE (Power over Ethernet) switch data ke saath-saath camera ko power bhi deta hai, isliye alag se power adapter ki zaroorat nahi padti."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "CCTV system installation ke baad, image quality check karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Sirf camera on karke chhod dena",
+        "B": "Live footage review karna, focus aur viewing angle adjust karna",
+        "C": "Monitor ko band kar dena",
+        "D": "Sabhi cables nikal dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Installation ke baad, har camera ka live footage check karna, focus adjust karna, aur viewing angle ko optimize karna zaroori hai taaki best image quality mile."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Ek CCTV system mein earthing (grounding) kyon important hai?",
+      "options": {
+        "A": "Video footage ko encrypt karne ke liye",
+        "B": "Electric shocks se bachne aur equipment ko surge se protect karne ke liye",
+        "C": "Internet speed badhane ke liye",
+        "D": "Hard disk ki lifespan badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper earthing electrical safety ke liye crucial hai. Yeh electric shocks se bachata hai aur equipment ko voltage surges aur lightning strikes se protect karta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Kisi factory jaise noisy electrical environment mein konsa cable prefer kiya jayega?",
+      "options": {
+        "A": "Unshielded Twisted Pair (UTP)",
+        "B": "Shielded Twisted Pair (STP)",
+        "C": "Flat ribbon cable",
+        "D": "Telephone wire"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "STP cable, UTP ke mukable, electrical noise aur interference ke khilaf zyada protection provide karta hai, jo industrial environments ke liye suitable hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "DVR/NVR mein date aur time settings ko sahi rakhna kyon zaroori hai?",
+      "options": {
+        "A": "Sirf system ko chalane ke liye",
+        "B": "Recorded footage ko sahi timestamp ke saath dekhne ke liye",
+        "C": "Internet connect karne ke liye",
+        "D": "Power consumption kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi date aur time recorded footage ko review karte time events ko accurately track karne aur evidence ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "IP camera ko network mein configure karne ke liye sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Uska physical size",
+        "B": "Uska IP address",
+        "C": "Uska color",
+        "D": "Uska weight"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IP camera ko network par access aur configure karne ke liye uska IP address (ya default IP) pata hona zaroori hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "DVR/NVR mein motion detection feature ka kya fayda hai?",
+      "options": {
+        "A": "Sirf din mein recording karna",
+        "B": "Jab koi movement detect ho tabhi recording shuru karna, storage bachane ke liye",
+        "C": "Audio recording improve karna",
+        "D": "Wireless connectivity provide karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Motion detection feature sirf tab record karta hai jab camera ke view mein movement ho, jisse hard disk storage space bachti hai aur footage review karna aasaan hota hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Remote viewing ke liye DVR/NVR ko internet se connect karne ke liye kya zaroori hai?",
+      "options": {
+        "A": "Offline mode mein rakhna",
+        "B": "Network cable aur internet connection",
+        "C": "Bluetooth connectivity",
+        "D": "Sirf local monitor"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Remote viewing ke liye DVR/NVR ko network cable se router/modem se connect karke internet access dena zaroori hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Port Forwarding kyon kiya jata hai remote viewing ke liye?",
+      "options": {
+        "A": "Local network mein cameras ko detect karne ke liye",
+        "B": "Internet se DVR/NVR tak traffic ko allow karne ke liye",
+        "C": "Camera ki resolution badhane ke liye",
+        "D": "Hard disk ko format karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Port Forwarding router par ek configuration hai jo incoming internet traffic ko specific internal network device (jaise DVR/NVR) tak forward karta hai, jisse remote access possible hota hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "CCTV system mein 'User Accounts' banana kyon zaroori hai?",
+      "options": {
+        "A": "Sirf system ko slow karne ke liye",
+        "B": "Access control aur security ke liye",
+        "C": "Video compression improve karne ke liye",
+        "D": "Camera lens adjust karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "User accounts aur passwords access control provide karte hain, jisse sirf authorized log hi system ko access aur control kar saken."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Static IP address aur Dynamic IP address mein kya antar hai?",
+      "options": {
+        "A": "Koi antar nahi hai",
+        "B": "Static IP change nahi hota, Dynamic IP change hota rehta hai",
+        "C": "Static IP sirf wireless devices ke liye hai",
+        "D": "Dynamic IP zyada secure hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Static IP address ek fixed IP address hota hai jo kabhi change nahi hota, jabki Dynamic IP address DHCP server dwara assign kiya jata hai aur samay-samay par badal sakta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Mobile app se remote viewing setup karte time kya information zaroori hoti hai?",
+      "options": {
+        "A": "Camera ka serial number",
+        "B": "DVR/NVR ka IP address ya P2P ID, port number aur login credentials",
+        "C": "Monitor ka model number",
+        "D": "Cable ki length"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mobile app se connect karne ke liye DVR/NVR ka network address (IP/DDNS/P2P ID), port number aur uske login credentials chahiye hote hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "DDNS (Dynamic DNS) ka kya fayda hai remote access mein?",
+      "options": {
+        "A": "Static IP address provide karta hai",
+        "B": "Dynamic IP address ko ek fixed domain name se link karta hai",
+        "C": "Internet speed badhata hai",
+        "D": "Sirf local network par kaam karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DDNS service dynamic IP address ko ek easy-to-remember domain name se link karti hai, jisse dynamic IP change hone par bhi remote access maintain rehta hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "DVR/NVR ke 'recording schedule' ko set karna kyon zaroori hai?",
+      "options": {
+        "A": "Sirf system ko on-off karne ke liye",
+        "B": "Kab aur kaise recording ho, yeh decide karne ke liye",
+        "C": "Camera ka focus adjust karne ke liye",
+        "D": "Monitor ki brightness adjust karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Recording schedule set karke aap decide kar sakte hain ki recording kab ho (continuous, motion-triggered, ya scheduled time par), jisse storage ko efficiently manage kiya ja sake."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Agar IP camera network par detect nahi ho raha hai, to kya check karna chahiye?",
+      "options": {
+        "A": "Camera ka color",
+        "B": "Network cable connection aur camera ka power",
+        "C": "Monitor ka resolution",
+        "D": "Hard disk status"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sabse pehle network cable connection ko verify karna chahiye ki woh sahi se laga hai aur camera ko power mil rahi hai ya nahi."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Video compression standard (jaise H.264, H.265) ka kya mahatva hai?",
+      "options": {
+        "A": "Camera ki physical strength",
+        "B": "Video file size aur storage efficiency",
+        "C": "Camera ka viewing angle",
+        "D": "Network cable ki quality"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Video compression standards video file size ko kam karte hain bina quality zyada degrade kiye, jisse storage space bachti hai aur network bandwidth kam use hoti hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Admin password ko regular intervals par change karna kyon zaroori hai?",
+      "options": {
+        "A": "Video quality improve karne ke liye",
+        "B": "System ki security badhane ke liye",
+        "C": "Hard disk ki speed badhane ke liye",
+        "D": "Cable ki lifespan badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Admin password ko regular intervals par change karna unauthorized access se bachne aur system ki security ko maintain rakhne ke liye ek best practice hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "P2P (Peer-to-Peer) connectivity ka kya fayda hai remote viewing mein?",
+      "options": {
+        "A": "Port forwarding ki zaroorat padti hai",
+        "B": "Port forwarding ki zaroorat nahi padti, installation aasan hoti hai",
+        "C": "Sirf local network par kaam karta hai",
+        "D": "Zyada bandwidth consume karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "P2P connectivity se remote viewing ke liye port forwarding ki zaroorat nahi padti, jisse non-technical users ke liye setup aasan ho jata hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Agar DVR/NVR ka hard disk full ho jaye, to kya hoga?",
+      "options": {
+        "A": "System crash ho jayega",
+        "B": "Oldest footage automatically overwrite ho jayegi (agar configured ho)",
+        "C": "Naye cameras add nahi kar payenge",
+        "D": "Internet connection cut jayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar 'overwrite' option enable ho, to hard disk full hone par system automatically sabse purani footage ko naye footage se overwrite kar deta hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Network Time Protocol (NTP) ka kya use hai CCTV system mein?",
+      "options": {
+        "A": "Network speed test karne ke liye",
+        "B": "Sabhi devices par accurate time sync karne ke liye",
+        "C": "Video compression improve karne ke liye",
+        "D": "Camera lens adjust karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "NTP server network par sabhi devices (DVR/NVR, cameras) ke time ko automatically sync karta hai, jisse footage par accurate timestamps ensure hote hain."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Video stream ko main stream aur sub-stream mein divide karna kyon useful hai?",
+      "options": {
+        "A": "Sirf high-end cameras ke liye",
+        "B": "High quality recording aur low bandwidth remote viewing ke liye alag-alag streams manage karna",
+        "C": "Audio quality improve karne ke liye",
+        "D": "Camera ki power efficiency badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Main stream high-resolution recording ke liye hoti hai, jabki sub-stream low-resolution aur kam bandwidth wali hoti hai, jo mobile viewing ya live preview ke liye efficient hoti hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Agar CCTV monitor par 'No Video' message aa raha hai, to sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Hard disk capacity",
+        "B": "Camera aur DVR/NVR ke beech cable connection aur power supply",
+        "C": "Internet speed",
+        "D": "Monitor ka model number"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "No video aane par sabse common reason cable connection loose ya cut hona, ya camera ko power na milna hota hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Blurry ya out-of-focus image ka kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Hard disk full hai",
+        "B": "Lens ka focus sahi se adjust nahi hai",
+        "C": "Internet speed slow hai",
+        "D": "Power supply bahut zyada hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Blurry image ka sabse common reason camera lens ka focus sahi se adjust na hona hota hai. Manual adjustment se yeh theek ho sakta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Agar IR night vision kaam nahi kar raha, to kya check karna chahiye?",
+      "options": {
+        "A": "Camera ka color",
+        "B": "IR LEDs ki functionality aur power supply",
+        "C": "Hard disk space",
+        "D": "Monitor ka resolution"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IR LEDs ko power na milna ya unka kharab hona night vision na hone ka mukhya karan ho sakta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "DVR/NVR par 'HDD Error' message aa raha hai, to kya karna chahiye?",
+      "options": {
+        "A": "Naye cameras add karna",
+        "B": "Hard disk connection check karna ya hard disk replace karna",
+        "C": "Internet cable disconnect karna",
+        "D": "Monitor ko change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HDD Error ka matlab hard disk connect nahi hai, kharab hai ya usme koi issue hai. Connection check karein ya hard disk replace karein."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "CCTV camera par cobwebs ya dhool jama hone par kya hoga?",
+      "options": {
+        "A": "Internet speed slow ho jayegi",
+        "B": "Video quality degrade ho jayegi aur night vision block ho sakta hai",
+        "C": "Hard disk full ho jayegi",
+        "D": "Power consumption badh jayega"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cobwebs aur dhool lens ko block kar sakte hain, jisse image blurry ya dull dikhegi aur IR light block hone se night vision effect ho sakta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Preventive maintenance mein kya shamil hai?",
+      "options": {
+        "A": "Sirf system kharab hone par theek karna",
+        "B": "Regular cleaning, connections check karna aur software updates",
+        "C": "Har din naye cameras lagana",
+        "D": "Sirf hard disk change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Preventive maintenance mein regular checks, cleaning, software updates aur connections ki verification shamil hai, jisse system ki lifespan badhti hai aur failures kam hote hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Agar remote viewing kaam nahi kar raha hai, to kya check karna chahiye?",
+      "options": {
+        "A": "Camera ka mounting bracket",
+        "B": "Internet connection, router settings (port forwarding/P2P) aur DVR/NVR network settings",
+        "C": "Monitor ka size",
+        "D": "IR LEDs"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Remote viewing issues mein internet connectivity, router (port forwarding/P2P) aur DVR/NVR ke network settings ko check karna zaroori hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Video footage mein horizontal lines ya ripples aane ka kya karan ho sakta hai?",
+      "options": {
+        "A": "Camera ka lens dirty hai",
+        "B": "Electrical interference ya ground loop issue",
+        "C": "Hard disk full hai",
+        "D": "Internet slow hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yeh electrical interference ya ground loop ke common symptoms hain. Iske liye proper grounding aur video balun ka use kiya ja sakta hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Camera ki power supply unit (PSU) kharab hone par kya hoga?",
+      "options": {
+        "A": "Camera ki image quality badh jayegi",
+        "B": "Camera on nahi hoga ya intermittent power issue aayega",
+        "C": "Hard disk full ho jayegi",
+        "D": "Internet connection cut jayega"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kharab PSU camera ko sahi voltage ya current nahi de payegi, jisse camera on nahi hoga ya intermittent power loss hoga."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Firmware update kyon zaroori hai DVR/NVR aur cameras ke liye?",
+      "options": {
+        "A": "Sirf system ka color change karne ke liye",
+        "B": "Bug fixes, security patches aur naye features add karne ke liye",
+        "C": "Hard disk ko format karne ke liye",
+        "D": "Cable ki length badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Firmware updates system ki performance, security aur functionality ko improve karte hain, aur naye features bhi add kar sakte hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Agar NVR IP cameras ko detect nahi kar raha hai, to kya troubleshooting steps lenge?",
+      "options": {
+        "A": "NVR ko factory reset karna",
+        "B": "Camera aur NVR ke IP addresses, subnet mask aur gateway check karna",
+        "C": "Hard disk ko replace karna",
+        "D": "Monitor ko change karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "IP cameras ko detect na hone par network settings (IP, subnet, gateway) ka mismatch ek common issue hota hai. Unhe check aur adjust karna zaroori hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "CCTV camera lens par condensation (bhaap) jamne ka kya karan hai?",
+      "options": {
+        "A": "Camera overheating",
+        "B": "Temperature aur humidity ka sudden change",
+        "C": "Hard disk full hai",
+        "D": "Incorrect power supply"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab temperature aur humidity mein sudden change hota hai, to lens par condensation ho sakti hai, jisse image blurry ho jati hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Recorded footage ko retrieve karne ke liye kya procedure hai?",
+      "options": {
+        "A": "DVR/NVR ko directly computer se connect karna",
+        "B": "DVR/NVR ke playback menu se date/time select karke footage export karna (USB/network)",
+        "C": "Cameras ko nikal dena",
+        "D": "Hard disk ko physically nikal kar PC mein lagana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Recorded footage ko retrieve karne ke liye DVR/NVR ke playback menu ka use karke specific date/time ki footage ko USB drive ya network par export kiya jata hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar DVR/NVR reboot ho raha hai baar-baar, to kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Camera lens dirty hai",
+        "B": "Unstable power supply ya overheating",
+        "C": "Internet cable loose hai",
+        "D": "Monitor ka resolution low hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Unstable power supply (fluctuations) ya overheating DVR/NVR ke baar-baar reboot hone ka common karan ho sakta hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Network camera mein 'pixelation' (image ka blocky hona) ka kya karan ho sakta hai?",
+      "options": {
+        "A": "Lens ka focus kharab hai",
+        "B": "Low bandwidth ya network congestion",
+        "C": "IR LEDs kharab hain",
+        "D": "Power supply voltage high hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pixelation ya blocky image network cameras mein low bandwidth, network congestion ya packet loss ke karan hoti hai, jisse video stream data sahi se receive nahi ho pata."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "CCTV system ke 'health check' mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf cameras ki counting",
+        "B": "All cameras working, recording, remote access, HDD status, date/time sync",
+        "C": "System ka color change karna",
+        "D": "Sirf cables ko re-route karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Health check mein system ke sabhi components ki functionality verify karna shamil hai: cameras, recording, remote access, storage aur time sync."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Electrical safety ke liye CCTV installation karte time kya precaution lena chahiye?",
+      "options": {
+        "A": "Live wires ko nange haathon se pakadna",
+        "B": "Power off karna aur insulated tools use karna",
+        "C": "Paani ke paas wiring karna",
+        "D": "Sare wires ko ek saath jod dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shock se bachne ke liye kaam shuru karne se pehle power off karna aur insulated tools ka use karna bahut zaroori hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Data privacy laws (jaise GDPR) CCTV footage par kaise apply hote hain?",
+      "options": {
+        "A": "Unka CCTV se koi lena-dena nahi hai",
+        "B": "Footage ko responsibly store aur manage karna zaroori hai",
+        "C": "Footage ko public mein share karna chahiye",
+        "D": "Sirf government offices mein apply hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Data privacy laws ke tahat, CCTV footage ko personal data mana jata hai, isliye usko securely store karna, unauthorized access se bachana aur retention policy follow karna zaroori hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Lightning arrester ka kya use hai CCTV system mein?",
+      "options": {
+        "A": "Internet speed badhana",
+        "B": "Bijli girne se hone wale nuksan se system ko bachana",
+        "C": "Video quality improve karna",
+        "D": "Camera ka focus adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lightning arrester bijli girne par high voltage surge ko divert karke CCTV equipment ko damage hone se bachata hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "CCTV footage ko kitne samay tak store karna chahiye?",
+      "options": {
+        "A": "Hamesha ke liye",
+        "B": "Jab tak hard disk full na ho jaye",
+        "C": "Local laws aur client ki requirements ke according",
+        "D": "Sirf 1 din ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Footage retention period local laws, regulations aur client ki specific security requirements par nirbhar karta hai. Iski ek policy honi chahiye."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "IP CCTV system mein cybersecurity risks kya ho sakte hain?",
+      "options": {
+        "A": "Sirf physical damage",
+        "B": "Unauthorized access, hacking aur data breach",
+        "C": "Power failure",
+        "D": "Cable breakage"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "IP cameras aur NVRs network se connect hote hain, isliye woh hacking, unauthorized access aur data breach jaise cybersecurity risks ke prone ho sakte hain agar proper security measures na liye jayen."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Storage calculation karte time kin factors ko dhyan mein rakhte hain?",
+      "options": {
+        "A": "Camera ka color aur shape",
+        "B": "Number of cameras, resolution, frame rate aur compression method",
+        "C": "Cable ki length",
+        "D": "Monitor ka size"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Storage requirement calculate karte time cameras ki sankhya, video resolution, frame rate aur video compression standard (jaise H.265) bahut mahatvপূর্ণ hote hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "UPS (Uninterruptible Power Supply) ka kya fayda hai CCTV system mein?",
+      "options": {
+        "A": "Sirf internet speed badhana",
+        "B": "Power cut hone par system ko kuch samay tak chalaye rakhna",
+        "C": "Video quality improve karna",
+        "D": "Cable ki lifespan badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "UPS power cut hone par CCTV system ko backup power provide karta hai, jisse continuous monitoring aur recording maintain rehti hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Cloud-based CCTV storage ka kya fayda hai?",
+      "options": {
+        "A": "Sirf local storage provide karna",
+        "B": "Off-site storage, remote access aur physical damage se suraksha",
+        "C": "Internet ki zaroorat nahi padti",
+        "D": "Bahut mahanga hota hai hamesha"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cloud storage recorded footage ko off-site server par store karta hai, jisse footage physical damage se surakshit rehti hai aur kahin se bhi access ki ja sakti hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Public places par CCTV lagate samay kis baat ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Sirf sabse saste cameras lagana",
+        "B": "Privacy concerns aur signage (CCTV laga hone ki soochana) ka dhyan rakhna",
+        "C": "Sabhi cameras ko hidden rakhna",
+        "D": "Koi rules follow nahi karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Public places par CCTV lagate samay logon ki privacy ka dhyan rakhna aur yeh clearly indicate karna ki area surveillance mein hai (signage) kaanooni aur ethical requirement hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Video management software (VMS) ka kya role hai bade CCTV systems mein?",
+      "options": {
+        "A": "Sirf ek camera manage karna",
+        "B": "Multiple cameras, NVRs aur advanced analytics ko centrally manage karna",
+        "C": "Sirf power supply control karna",
+        "D": "Hard disk ko replace karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "VMS ek centralized platform hai jo bade aur complex CCTV systems mein multiple cameras, NVRs, aur video analytics features ko manage aur control karta hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "PoE+ (Power over Ethernet Plus) ka kya fayda hai standard PoE ke mukable?",
+      "options": {
+        "A": "Kam power deliver karta hai",
+        "B": "Zyada power deliver karta hai, high-power devices ke liye",
+        "C": "Sirf data transfer karta hai",
+        "D": "Wireless connectivity provide karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "PoE+ (802.3at) standard PoE (802.3af) se zyada power (up to 30W per port) deliver karta hai, jo PTZ cameras ya high-power IP cameras ke liye zaroori hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "CCTV installation mein 'right of way' ka kya matlab hai?",
+      "options": {
+        "A": "Camera ko kisi bhi direction mein lagana",
+        "B": "Cable routing ke liye zaroori permission aur access",
+        "C": "Sirf wireless installation karna",
+        "D": "Monitor ko kahin bhi rakhna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Right of way ka matlab hai ki cables ya equipment install karne ke liye zaroori permissions aur legal rights hona, khaas kar public property ya private property par."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Artificial Intelligence (AI) ka CCTV mein kya use ho sakta hai?",
+      "options": {
+        "A": "Sirf video ko blur karna",
+        "B": "Advanced analytics jaise facial recognition, object detection aur abnormal behavior analysis",
+        "C": "Camera ko power dena",
+        "D": "Cable ki cleaning karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI-powered CCTV systems advanced analytics jaise facial recognition, object detection aur specific events ko automatically identify karke security ko enhance karte hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "CCTV system ke 'Bandwidth Calculation' kyon important hai?",
+      "options": {
+        "A": "Sirf camera ka model number janne ke liye",
+        "B": "Network par kitna data traffic generate hoga, yeh estimate karne ke liye",
+        "C": "Hard disk ki capacity badhane ke liye",
+        "D": "Monitor ka size decide karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bandwidth calculation se yeh pata chalta hai ki IP cameras kitna network traffic generate karenge, jisse network infrastructure ko sahi se plan kiya ja sake aur lag issues se bacha ja sake."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "CCTV system ki 'audit trail' feature ka kya fayda hai?",
+      "options": {
+        "A": "Sirf video playback speed control karna",
+        "B": "System mein kiye gaye sabhi actions (login, logout, settings changes) ko record karna",
+        "C": "Camera ka color change karna",
+        "D": "Power supply voltage adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Audit trail feature system mein kiye gaye sabhi user actions aur changes ko record karta hai, jo security, accountability aur troubleshooting ke liye useful hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "CCTV system ko cyber threats se bachane ke liye kya karna chahiye?",
+      "options": {
+        "A": "Default passwords use karna",
+        "B": "Strong passwords, network segmentation aur regular firmware updates",
+        "C": "Internet connection disconnect kar dena",
+        "D": "Sirf antivirus install karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cyber threats se bachne ke liye strong aur unique passwords use karna, network segmentation (CCTV network ko main network se alag rakhna), aur devices ke firmware ko regularly update karna bahut zaroori hai."
+    }
+  ]
+}

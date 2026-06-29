@@ -1,0 +1,1443 @@
+{
+  "course_name": "AC & Refrigeration Technician (HVAC)",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Intermediate",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Electrical & Electronics for HVAC",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Refrigeration Principles & Components",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Air Conditioning Systems & Components",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "HVAC System Installation & Maintenance",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Troubleshooting & Repair",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Safety, Tools & Best Practices",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek AC circuit mein current flow ko rokne ke liye kaun sa safety device use hota hai?",
+      "options": {
+        "A": "Capacitor",
+        "B": "Resistor",
+        "C": "Circuit Breaker",
+        "D": "Inductor"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Circuit Breaker ek safety device hai jo electrical circuit ko overload ya short-circuit hone par automatically trip karke current flow ko rok deta hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ohm's Law ke according, voltage, current aur resistance ka kya relation hai?",
+      "options": {
+        "A": "V = I * R",
+        "B": "V = I / R",
+        "C": "V = R / I",
+        "D": "V = I + R"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ohm's Law kehta hai ki voltage (V) current (I) aur resistance (R) ka product hota hai, yaani V = I * R."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ek single-phase AC motor ko start karne ke liye commonly kaun sa component use hota hai?",
+      "options": {
+        "A": "Resistor",
+        "B": "Capacitor",
+        "C": "Diode",
+        "D": "Transformer"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Single-phase AC motors ko start karne ke liye 'start capacitor' ka use kiya jata hai jo starting torque provide karta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Agar ek AC unit ka compressor start nahi ho raha hai aur humming sound aa rahi hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Low refrigerant",
+        "B": "Faulty start capacitor",
+        "C": "Clogged air filter",
+        "D": "Loose fan belt"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Compressor se humming sound aana aur start na hona aksar faulty start capacitor ki wajah se hota hai, jo required starting torque provide nahi kar pa raha hota."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek relay ka primary function kya hai?",
+      "options": {
+        "A": "Voltage regulate karna",
+        "B": "High current circuit ko low current se control karna",
+        "C": "Resistance badhana",
+        "D": "Frequency change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Relay ek electrical switch hai jo low current circuit ke through high current circuit ko control karta hai, jaise compressor ko start karna."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Multimeter ka use kis liye kiya jata hai?",
+      "options": {
+        "A": "Refrigerant pressure check karne ke liye",
+        "B": "Temperature measure karne ke liye",
+        "C": "Voltage, current aur resistance measure karne ke liye",
+        "D": "Airflow measure karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Multimeter ek versatile tool hai jo electrical parameters jaise voltage, current (amperes) aur resistance (ohms) ko measure karta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Ek AC circuit mein 'continuity' test karne ka kya matlab hai?",
+      "options": {
+        "A": "Circuit mein kitna current hai",
+        "B": "Circuit mein kitna voltage hai",
+        "C": "Circuit mein koi break ya open circuit toh nahi hai",
+        "D": "Circuit ki power consumption"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Continuity test yeh check karta hai ki electrical path complete hai ya nahi. Agar continuity nahi hai, toh circuit mein kahin break ya open circuit hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Agar ek AC unit ka outdoor fan motor nahi chal raha hai, toh kya possible electrical fault ho sakta hai?",
+      "options": {
+        "A": "Indoor blower motor failure",
+        "B": "Faulty outdoor fan capacitor ya motor winding",
+        "C": "Low refrigerant charge",
+        "D": "Clogged drain line"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Outdoor fan motor ke na chalne ka ek common electrical reason uska capacitor ya motor winding ka kharab hona ho sakta hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Ek thermostat ka primary function kya hai HVAC system mein?",
+      "options": {
+        "A": "Refrigerant circulate karna",
+        "B": "Room temperature ko sense aur control karna",
+        "C": "Air filter karna",
+        "D": "Drainage control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Thermostat room ke temperature ko monitor karta hai aur AC ya heating system ko on/off karta hai taaki desired temperature maintain ho sake."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Kya hoga agar ek 230V AC unit ko galti se 110V supply se connect kar diya jaye?",
+      "options": {
+        "A": "Unit normally operate karega",
+        "B": "Unit overheat hokar damage ho jayega",
+        "C": "Unit underperform karega ya start hi nahi hoga",
+        "D": "Unit ki efficiency badh jayegi"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Agar 230V unit ko 110V supply milegi, toh use sufficient voltage nahi milega, jiske karan woh underperform karega ya bilkul start nahi hoga. Isse components ko damage bhi ho sakta hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek contactor ka use kis liye kiya jata hai HVAC system mein?",
+      "options": {
+        "A": "Refrigerant leak detect karne ke liye",
+        "B": "High voltage load, jaise compressor ko switch on/off karne ke liye",
+        "C": "Airflow measure karne ke liye",
+        "D": "Drainage pump control karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Contactor ek heavy-duty relay hota hai jo large electrical loads, jaise compressor aur outdoor fan motor ko power on/off karne ke liye use hota hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Electrical wiring karte samay 'earthing' (grounding) ka kya importance hai?",
+      "options": {
+        "A": "Power consumption badhane ke liye",
+        "B": "Short circuit se bachane aur electrical shock se safety ke liye",
+        "C": "System ki efficiency badhane ke liye",
+        "D": "Noise reduce karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Earthing system electrical equipment ko fault condition mein electrical shock se protect karta hai aur excess current ko zameen mein divert karta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Agar ek motor ka winding resistance 'infinity' show kar raha hai multimeter par, toh iska kya matlab hai?",
+      "options": {
+        "A": "Motor theek hai",
+        "B": "Motor short-circuited hai",
+        "C": "Motor winding open circuit hai",
+        "D": "Motor over-loaded hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Infinity resistance ka matlab hai ki circuit mein koi path nahi hai, yaani motor winding open circuit ho gayi hai, jo ki ek major fault hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "HVAC electrical circuits mein 'control voltage' kitna hota hai?",
+      "options": {
+        "A": "230V AC",
+        "B": "415V AC",
+        "C": "24V AC",
+        "D": "12V DC"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "HVAC systems mein thermostats aur safety devices ko control karne ke liye commonly 24V AC control voltage ka use kiya jata hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek PTC (Positive Temperature Coefficient) thermistor ka kya use hota hai AC systems mein?",
+      "options": {
+        "A": "Voltage regulate karna",
+        "B": "Overcurrent protection ke liye ya start device ke roop mein",
+        "C": "Refrigerant pressure measure karna",
+        "D": "Air filter karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "PTC thermistor ka resistance temperature badhne par badhta hai, iska use motor starting devices mein aur overcurrent protection ke liye kiya jata hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Agar ek AC unit ka fuse baar-baar blow ho raha hai, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Low refrigerant",
+        "B": "High voltage supply",
+        "C": "Overload ya short circuit",
+        "D": "Clogged air filter"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Fuse baar-baar blow hone ka matlab hai ki circuit mein ya toh overload hai ya kahin short circuit ho raha hai, jise identify aur rectify karna zaroori hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Kya hota hai jab ek AC motor ka 'insulation resistance' low ho jata hai?",
+      "options": {
+        "A": "Motor ki speed badh jati hai",
+        "B": "Motor ki efficiency badh jati hai",
+        "C": "Motor body par current leakage ho sakta hai ya winding short ho sakti hai",
+        "D": "Motor ka noise level kam ho jata hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Low insulation resistance ka matlab hai ki winding aur motor body ke beech electrical insulation weak ho gaya hai, jisse current leakage, electrical shock ka khatra aur winding short hone ka risk badh jata hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Vapor compression refrigeration cycle ka main purpose kya hai?",
+      "options": {
+        "A": "Air filter karna",
+        "B": "Heat ko ek jagah se absorb karke doosri jagah reject karna",
+        "C": "Water purify karna",
+        "D": "Electrical energy generate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vapor compression cycle ka core principle hai heat ko ek low-temperature area (evaporator) se absorb karke high-temperature area (condenser) mein reject karna."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Refrigerant ke 'superheat' hone ka kya matlab hai?",
+      "options": {
+        "A": "Refrigerant liquid form mein hai",
+        "B": "Refrigerant gas form mein hai aur uska temperature uske boiling point se upar hai",
+        "C": "Refrigerant solid form mein hai",
+        "D": "Refrigerant condense ho raha hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Superheat ka matlab hai ki refrigerant vapor state mein hai aur uska actual temperature uske saturation temperature (boiling point) se zyada hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Refrigeration system mein compressor ka kya role hai?",
+      "options": {
+        "A": "Refrigerant ko condense karna",
+        "B": "Refrigerant vapor ko compress karke uska pressure aur temperature badhana",
+        "C": "Refrigerant ko expand karna",
+        "D": "Air filter karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Compressor refrigerant vapor ko compress karta hai, jisse uska pressure aur temperature badh jata hai, aur woh condenser mein heat reject karne ke liye ready ho jata hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Evaporator coil ka primary function kya hai?",
+      "options": {
+        "A": "Heat ko room se absorb karna",
+        "B": "Heat ko room mein reject karna",
+        "C": "Refrigerant ko compress karna",
+        "D": "Air filter karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Evaporator coil room ya space se heat absorb karta hai, jisse refrigerant vaporize hota hai aur room cool hota hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Ek capillary tube ka kya kaam hota hai refrigeration system mein?",
+      "options": {
+        "A": "Refrigerant ko compress karna",
+        "B": "Refrigerant flow ko control karna aur uska pressure drop karna",
+        "C": "Refrigerant ko filter karna",
+        "D": "Refrigerant ko heat karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Capillary tube ek simple expansion device hai jo high-pressure liquid refrigerant ko expand karke uska pressure drop karta hai, jisse woh evaporator mein evaporate ho sake."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "R-22 refrigerant ko ab kyu phase-out kiya ja raha hai?",
+      "options": {
+        "A": "Kyuki yeh bahut expensive hai",
+        "B": "Kyuki iska Ozone Depletion Potential (ODP) high hai",
+        "C": "Kyuki yeh flammable hai",
+        "D": "Kyuki yeh cooling nahi karta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "R-22 (HCFC) ek ozone-depleting substance hai, isliye Montreal Protocol ke तहत इसे phase-out kiya ja raha hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Agar ek refrigeration system mein 'low suction pressure' hai, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Overcharged refrigerant",
+        "B": "Clogged condenser coil",
+        "C": "Low refrigerant charge ya partially blocked capillary tube",
+        "D": "Faulty compressor"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Low suction pressure aksar low refrigerant charge ya refrigerant flow mein restriction (jaise partially blocked capillary tube) ki wajah se hota hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Condenser coil ka kya role hai AC unit mein?",
+      "options": {
+        "A": "Heat ko room se absorb karna",
+        "B": "Heat ko room mein reject karna",
+        "C": "Compressor ko start karna",
+        "D": "Refrigerant ko filter karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Condenser coil high-pressure, high-temperature refrigerant vapor se heat ko ambient air mein reject karta hai, jisse refrigerant liquid mein condense ho jata hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Refrigerant ke 'subcooling' hone ka kya matlab hai?",
+      "options": {
+        "A": "Refrigerant gas form mein hai",
+        "B": "Refrigerant liquid form mein hai aur uska temperature uske saturation point se neeche hai",
+        "C": "Refrigerant freeze ho gaya hai",
+        "D": "Refrigerant evaporate ho raha hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Subcooling ka matlab hai ki condenser se nikalne wala liquid refrigerant apne saturation temperature se bhi thoda aur ठंडा ho gaya hai, jo system ki efficiency ke liye achha hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Thermostatic Expansion Valve (TXV) ka kya kaam hai?",
+      "options": {
+        "A": "Refrigerant ko filter karna",
+        "B": "Compressor ko on/off karna",
+        "C": "Evaporator mein refrigerant flow ko control karna based on superheat",
+        "D": "Condenser fan ko control karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "TXV ek precise expansion device hai jo evaporator exit par refrigerant ke superheat ke according refrigerant flow ko regulate karta hai, jisse evaporator fully utilized ho sake."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Agar ek refrigeration system mein 'high discharge pressure' hai, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Undercharged refrigerant",
+        "B": "Clogged air filter",
+        "C": "Clogged condenser coil ya condenser fan failure",
+        "D": "Faulty expansion valve"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "High discharge pressure aksar condenser coil par airflow restriction (jaise dirt) ya condenser fan ke failure ki wajah se hota hai, jisse heat reject nahi ho pati."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Refrigerant R-32 ki kya property hai jo use R-410A ka replacement banati hai?",
+      "options": {
+        "A": "Lower flammability",
+        "B": "Higher ODP",
+        "C": "Lower Global Warming Potential (GWP)",
+        "D": "Higher cost"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "R-32 ka GWP R-410A se kaafi kam hai, jiske karan yeh environmentally friendly option hai aur R-410A ka replacement ban raha hai, although yeh mildly flammable hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Accumulator ka kya function hota hai refrigeration system mein?",
+      "options": {
+        "A": "Liquid refrigerant ko compressor mein jaane se rokna",
+        "B": "Refrigerant ko filter karna",
+        "C": "Refrigerant pressure badhana",
+        "D": "Oil separate karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Accumulator compressor ke suction line par laga hota hai aur yeh ensure karta hai ki compressor mein sirf vapor refrigerant hi jaye, liquid refrigerant nahi, jisse compressor damage se bacha rahe."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Agar ek AC system mein refrigerant charge kam hai, toh evaporator coil par kya effect dikhega?",
+      "options": {
+        "A": "Evaporator coil bahut zyada garam ho jayegi",
+        "B": "Evaporator coil par ice formation ho sakti hai",
+        "C": "Evaporator coil ka temperature badh jayega",
+        "D": "Evaporator coil se zyada airflow hoga"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Low refrigerant charge hone par evaporator coil par pressure drop hota hai, jisse coil ka temperature freezing point se neeche chala jata hai aur moisture freeze hokar ice ban jati hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Kya hoga agar ek refrigeration system mein non-condensable gases enter kar jayein?",
+      "options": {
+        "A": "Compressor ki efficiency badh jayegi",
+        "B": "Discharge pressure badh jayega aur cooling capacity kam ho jayegi",
+        "C": "Suction pressure badh jayega",
+        "D": "Refrigerant leak ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Non-condensable gases (jaise air) condenser mein refrigerant ke saath mix ho kar heat transfer ko impede karti hain, jisse discharge pressure badhta hai aur cooling efficiency kam hoti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Refrigerant ke 'pressure-temperature (P-T) chart' ka kya use hai?",
+      "options": {
+        "A": "Refrigerant ke color ko identify karna",
+        "B": "Refrigerant ke saturation pressure aur temperature ko relate karna",
+        "C": "Refrigerant ke cost ko calculate karna",
+        "D": "Refrigerant leak detect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "P-T chart technician ko kisi bhi refrigerant ke liye ek specific pressure par uska saturation temperature (boiling/condensing point) aur vice-versa pata karne mein help karta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Oil separator ka kya function hai refrigeration system mein?",
+      "options": {
+        "A": "Refrigerant se moisture remove karna",
+        "B": "Compressor discharge line se oil ko separate karke compressor mein return karna",
+        "C": "Refrigerant se impurities remove karna",
+        "D": "Refrigerant pressure regulate karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Oil separator compressor discharge line mein laga hota hai aur yeh refrigerant vapor se mixed lubricating oil ko separate karke compressor ke sump mein return karta hai, jisse system ki efficiency maintain rahe."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Split AC system mein indoor unit ka kya primary function hai?",
+      "options": {
+        "A": "Refrigerant compress karna",
+        "B": "Room se garam hawa ko absorb karke thandi hawa supply karna",
+        "C": "Condenser fan ko control karna",
+        "D": "Refrigerant ko store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Indoor unit (evaporator) room ki garam hawa ko absorb karta hai, use thanda karta hai aur phir thandi hawa ko room mein circulate karta hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Window AC unit ki installation mein sabse important considerations mein se ek kya hai?",
+      "options": {
+        "A": "Unit ka color",
+        "B": "Proper sealing aur drainage",
+        "C": "Remote control ka type",
+        "D": "Unit ka brand"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Window AC install karte samay proper sealing (air leakage rokne ke liye) aur drainage (condensate water bahar nikalne ke liye) bahut zaroori hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Ductable AC system ka kya advantage hai over split ACs?",
+      "options": {
+        "A": "Lower initial cost",
+        "B": "Multiple rooms ko ek unit se cool karna aur centralized control",
+        "C": "Easier installation",
+        "D": "Portable hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ductable AC systems multiple rooms ya large areas ko ek centralized unit se cool kar sakte hain, jisme ducts ke through air distribute hoti hai, aur aesthetic bhi maintain hota hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Air filter ka kya role hai AC system mein?",
+      "options": {
+        "A": "Refrigerant pressure control karna",
+        "B": "Indoor air se dust, pollen aur impurities remove karna",
+        "C": "Compressor ko lubricate karna",
+        "D": "Condensate water drain karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Air filter indoor air se dust particles, pollen aur anya impurities ko remove karta hai, jisse indoor air quality improve hoti hai aur evaporator coil clean rehti hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Agar ek Split AC ke indoor unit se pani leak ho raha hai, toh kya common reason ho sakta hai?",
+      "options": {
+        "A": "Outdoor unit ka fan kharab hai",
+        "B": "Clogged drain line ya tilted indoor unit",
+        "C": "Low refrigerant charge",
+        "D": "Compressor fault"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Indoor unit se water leakage ka sabse common reason drain line ka block hona ya unit ka properly level na hona hai, jisse condensate water overflow hota hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "VRF/VRV system ka kya matlab hai?",
+      "options": {
+        "A": "Very Rapid Freezing / Very Rapid Ventilation",
+        "B": "Variable Refrigerant Flow / Variable Refrigerant Volume",
+        "C": "Volatile Refrigerant Flow / Volatile Refrigerant Volume",
+        "D": "Vertical Refrigeration Fan / Vertical Refrigeration Valve"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "VRF (Variable Refrigerant Flow) ya VRV (Variable Refrigerant Volume) multi-zone AC systems hote hain jo ek single outdoor unit se multiple indoor units ko connect karte hain aur individual zone control provide karte hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "AC system mein 'blower motor' ka kya function hai?",
+      "options": {
+        "A": "Refrigerant circulate karna",
+        "B": "Indoor air ko evaporator coil ke upar se circulate karna",
+        "C": "Outdoor air ko exhaust karna",
+        "D": "Condensate water pump karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Blower motor indoor unit mein hota hai aur yeh room ki hawa ko evaporator coil ke upar se kheench kar thanda karta hai aur phir thandi hawa ko room mein wapas circulate karta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Agar ek Split AC ka outdoor unit bahut zyada noise kar raha hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Indoor fan motor kharab hai",
+        "B": "Loose fan blade, unbalanced motor ya faulty compressor",
+        "C": "Clogged air filter",
+        "D": "Low refrigerant charge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Outdoor unit se zyada noise aana aksar fan blade ke loose hone, motor ke unbalanced hone ya compressor ke andar mechanical issues ki wajah se hota hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "AC system mein 'thermostat' kis location par install karna chahiye?",
+      "options": {
+        "A": "Direct sunlight mein",
+        "B": "Heat-emitting appliances ke paas",
+        "C": "Room ke centre mein, jahan average temperature mile aur direct draft na ho",
+        "D": "Outdoor unit ke paas"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Thermostat ko aise jagah install karna chahiye jahan woh room ka average temperature accurate measure kar sake, direct sunlight ya heat sources se door."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Centralized AC system mein 'chiller' ka kya function hai?",
+      "options": {
+        "A": "Directly room ko cool karna",
+        "B": "Water ko thanda karna jo phir heat exchanger ke through air ko cool karega",
+        "C": "Refrigerant ko filter karna",
+        "D": "Compressor ko power supply karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Chiller bade commercial AC systems mein use hota hai, jo water ko thanda karta hai. Yeh chilled water phir AHU (Air Handling Unit) mein circulate hota hai jahan yeh air ko cool karta hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Agar ek AC unit 'ice formation' show kar raha hai evaporator coil par, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Overcharged refrigerant",
+        "B": "Low refrigerant charge, clogged air filter ya low airflow",
+        "C": "Overheated compressor",
+        "D": "Faulty outdoor fan"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Evaporator coil par ice jamna low refrigerant charge, clogged air filter ya blower fan ke slow chalne ki wajah se hota hai, jisse coil ka surface temperature freezing point se neeche chala jata hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "AC system mein 'drain pan' ka kya uddeshya hai?",
+      "options": {
+        "A": "Refrigerant store karna",
+        "B": "Evaporator coil se condensate water collect karna",
+        "C": "Dust collect karna",
+        "D": "Electrical components ko protect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drain pan evaporator coil se drip hone wale condensate water ko collect karta hai aur use drain line ke through bahar nikalta hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Agar AC system se 'bad smell' aa rahi hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Refrigerant pressure",
+        "B": "Drain pan aur evaporator coil par mold ya mildew growth",
+        "C": "Compressor oil level",
+        "D": "Outdoor unit ki cleanliness"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bad smell (musty odour) aksar evaporator coil ya drain pan par mold, mildew ya bacteria ke build-up ki wajah se hoti hai, jo damp conditions mein grow karte hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "AC system mein 'ducts' ka kya kaam hai?",
+      "options": {
+        "A": "Refrigerant carry karna",
+        "B": "Conditioned air ko rooms mein distribute karna",
+        "C": "Electrical wiring ko protect karna",
+        "D": "Condensate water drain karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ducts air distribution system ka hissa hote hain jo conditioned air (thandi ya garam) ko Central AC unit se various rooms mein circulate karte hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "AC remote control par 'Dry Mode' ka kya function hai?",
+      "options": {
+        "A": "Room ko bahut zyada thanda karna",
+        "B": "Room se humidity kam karna bina zyada cooling ke",
+        "C": "Only fan chalana",
+        "D": "System ko off karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dry Mode (Dehumidification Mode) AC unit ko low fan speed par chalata hai aur intermittent cooling karta hai, jisse air se moisture remove ho sake bina temperature ko zyada drop kiye."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Kya hoga agar AC unit ka 'condenser coil' ganda ho jaye?",
+      "options": {
+        "A": "Cooling efficiency badh jayegi",
+        "B": "Cooling efficiency kam ho jayegi aur power consumption badh jayegi",
+        "C": "Unit se pani leak hoga",
+        "D": "Compressor ka noise kam ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ganda condenser coil heat ko efficiently reject nahi kar pata, jisse system par load badhta hai, cooling capacity kam hoti hai aur power consumption badh jati hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Ek 'Air Handling Unit (AHU)' ka kya role hai large HVAC systems mein?",
+      "options": {
+        "A": "Refrigerant ko store karna",
+        "B": "Air ko filter karna, heat karna, cool karna aur circulate karna",
+        "C": "Only exhaust air ko handle karna",
+        "D": "Electrical power distribute karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "AHU ek large box hai jisme blower, heating/cooling coils, filter racks, sound attenuators aur dampers hote hain jo air ko condition aur circulate karte hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Split AC install karte samay outdoor unit aur indoor unit ke beech refrigerant piping ki maximum permissible length kya hoti hai?",
+      "options": {
+        "A": "1-2 meters",
+        "B": "5-10 meters (model par depend karta hai)",
+        "C": "20-30 meters",
+        "D": "No limit"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Refrigerant piping ki length model aur tonnage par depend karti hai, lekin commonly 5 se 10 meters tak hoti hai. Zyada length se performance aur efficiency par asar padta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Refrigerant piping karte samay 'flaring' ka kya purpose hai?",
+      "options": {
+        "A": "Piping ko bend karna",
+        "B": "Copper tube ke end ko expand karna taaki leak-proof connection ban sake",
+        "C": "Piping ko clean karna",
+        "D": "Piping ko insulate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Flaring tool ka use copper tube ke end ko ek conical shape mein expand karne ke liye kiya jata hai, jisse flare nut ke saath tight aur leak-proof joint ban sake."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "AC system mein 'vacuuming' kyu zaroori hai refrigerant charging se pehle?",
+      "options": {
+        "A": "System ko garam karne ke liye",
+        "B": "System se air aur moisture ko remove karne ke liye",
+        "C": "Refrigerant leak detect karne ke liye",
+        "D": "Oil level check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vacuuming system se air aur moisture ko remove karta hai. Moisture aur air refrigerant ke saath mix hokar system ko damage kar sakte hain aur efficiency kam kar sakte hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Refrigerant charging karte samay 'manifold gauge' ka kya use hai?",
+      "options": {
+        "A": "Electrical voltage measure karna",
+        "B": "System ke high aur low side pressures ko measure karna",
+        "C": "Airflow measure karna",
+        "D": "Temperature measure karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Manifold gauge set refrigeration system ke high (discharge) aur low (suction) side pressures ko measure karne ke liye use hota hai, jo charging aur troubleshooting mein help karta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Refrigerant piping mein 'insulation' kyu lagate hain?",
+      "options": {
+        "A": "Piping ko sundar dikhane ke liye",
+        "B": "Heat gain/loss ko rokne aur condensation ko prevent karne ke liye",
+        "C": "Piping ko strong banane ke liye",
+        "D": "Noise reduce karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Piping insulation refrigerant ke temperature ko maintain rakhta hai, heat gain (suction line) ya heat loss (liquid line) ko rokta hai, aur suction line par condensation se water drip hone se bachata hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Split AC install karte samay indoor unit ko 'level' mein rakhna kyu zaroori hai?",
+      "options": {
+        "A": "Aesthetics ke liye",
+        "B": "Proper condensate drainage ensure karne ke liye",
+        "C": "Noise reduce karne ke liye",
+        "D": "Airflow badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Indoor unit ko level mein rakhna bahut zaroori hai taaki condensate water drain pan se drain line mein smoothly flow kar sake aur unit se leakage na ho."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "AC unit ke 'preventive maintenance' mein kya shaamil hota hai?",
+      "options": {
+        "A": "Sirf unit ko repair karna jab woh kharab ho jaye",
+        "B": "Regular cleaning of filters and coils, checking refrigerant levels, electrical connections",
+        "C": "Unit ko daily on/off karna",
+        "D": "Sirf outdoor unit ko clean karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Preventive maintenance mein filters aur coils ki regular cleaning, refrigerant levels, electrical connections, drain lines aur overall system performance ki checking shaamil hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Brazing karte samay kis gas ka use kiya jata hai?",
+      "options": {
+        "A": "Oxygen aur Nitrogen",
+        "B": "Oxygen aur Acetylene",
+        "C": "Nitrogen aur Hydrogen",
+        "D": "Propane aur Butane"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Brazing ke liye oxy-acetylene torch ka use kiya jata hai. Acetylene fuel gas hai aur oxygen combustion ko support karti hai, jisse high temperature flame milti hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Refrigerant charging karte samay 'liquid charging' ka kya fayda hai?",
+      "options": {
+        "A": "Zyada accurate charge",
+        "B": "Kam time lagta hai",
+        "C": "Refrigerant composition change nahi hoti (especially blends mein)",
+        "D": "System ko damage nahi hota"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Liquid charging especially refrigerant blends (jaise R-410A) ke liye preferred hai, kyuki isse refrigerant ke components ka separation nahi hota aur correct composition maintain rehti hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "AC unit ke 'condensate drain line' ko regularly clean karna kyu important hai?",
+      "options": {
+        "A": "Refrigerant leak rokne ke liye",
+        "B": "Water leakage aur mold growth ko prevent karne ke liye",
+        "C": "Electrical faults rokne ke liye",
+        "D": "Airflow badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clogged drain line se condensate water overflow ho sakta hai, jisse water damage aur mold/mildew growth ho sakti hai, isliye regular cleaning zaroori hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "AC unit ke 'load calculation' ka kya uddeshya hai?",
+      "options": {
+        "A": "Unit ka weight pata karna",
+        "B": "Room ya space ko properly cool karne ke liye correct capacity ka AC select karna",
+        "C": "Unit ki electrical consumption calculate karna",
+        "D": "Installation time estimate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Load calculation room ke size, insulation, windows, occupancy aur heat sources jaise factors ko consider karke required cooling capacity (BTU/hr ya Ton) determine karta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Refrigerant leak test ke liye kaun sa method sabse effective hai?",
+      "options": {
+        "A": "Sirf pressure gauge check karna",
+        "B": "Soap bubble test ya electronic leak detector ka use karna",
+        "C": "Unit ko on karke check karna",
+        "D": "Unit ko vacuum karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Soap bubble test small leaks ke liye visual confirmation deta hai, jabki electronic leak detector bahut chhote leaks ko bhi detect kar sakta hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "AC unit ki 'servicing' karte samay indoor unit ke 'evaporator coil' ko kaise clean karna chahiye?",
+      "options": {
+        "A": "Dry kapde se ragad kar",
+        "B": "Water spray aur coil cleaner ka use karke",
+        "C": "Vacuum cleaner se sirf dust hatakar",
+        "D": "Compressed air se blow karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Evaporator coil ko water spray aur specialized coil cleaner se clean karna chahiye taaki accumulated dirt aur grime effectively remove ho sake aur heat transfer efficiency maintain rahe."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Ek naye AC system ko install karne ke baad 'startup checks' mein kya shaamil hota hai?",
+      "options": {
+        "A": "Sirf unit ko power on karna",
+        "B": "Electrical connections, refrigerant pressures, airflow, temperature difference aur drainage check karna",
+        "C": "Paint finish check karna",
+        "D": "Remote control functions check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Startup checks mein sabhi electrical connections ki tightness, refrigerant pressures ka correct hona, proper airflow, supply aur return air ke beech temperature difference, aur condensate drainage ki verification shaamil hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Piping ke liye copper tubes ko 'bending' karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Hand se bend karna",
+        "B": "Tube bender ka use karna taaki tube kink na ho",
+        "C": "Heat karke bend karna",
+        "D": "Bina kisi tool ke bend karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tube bender ka use karne se copper tube smoothly bend hoti hai bina kink ya flatten hue, jisse refrigerant flow mein obstruction nahi aata."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Refrigerant charging ke liye 'weighing scale' ka use kyu kiya jata hai?",
+      "options": {
+        "A": "Refrigerant cylinder ka weight check karne ke liye",
+        "B": "System mein exact amount of refrigerant charge karne ke liye",
+        "C": "Refrigerant ka pressure measure karne ke liye",
+        "D": "Refrigerant ka temperature measure karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Weighing scale ka use system mein refrigerant ki exact quantity (weight) charge karne ke liye kiya jata hai, jo manufacturer ki specifications ke according hona chahiye for optimal performance."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "AC unit ki 'seasonal maintenance' kab karni chahiye?",
+      "options": {
+        "A": "Jab unit kharab ho jaye",
+        "B": "Har mahine",
+        "C": "Cooling season start hone se pehle (spring) aur heating season se pehle (autumn)",
+        "D": "Sirf saal mein ek baar"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Seasonal maintenance spring mein cooling season se pehle aur autumn mein heating season se pehle karni chahiye, taaki system peak efficiency par operate kare."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Agar ek AC unit chal raha hai lekin cooling nahi kar raha hai, toh kya primary reason ho sakta hai?",
+      "options": {
+        "A": "Clogged drain line",
+        "B": "Low or no refrigerant charge",
+        "C": "Dirty air filter",
+        "D": "Faulty thermostat"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar AC unit chal raha hai lekin cooling nahi ho rahi hai, toh sabse common reason refrigerant ka kam hona ya pura khatam hona hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "AC compressor 'trip' ho raha hai baar-baar, toh kya check karna chahiye?",
+      "options": {
+        "A": "Condensate drain line",
+        "B": "Refrigerant pressure, electrical connections, condenser coil cleanliness aur motor overload protector",
+        "C": "Indoor unit fan speed",
+        "D": "Air filter"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Compressor tripping ka matlab hai ki woh overload ho raha hai. Iske reasons high refrigerant pressure, dirty condenser coil, faulty electrical connections ya compressor ka internal fault ho sakta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Agar AC unit se 'gurgling sound' aa rahi hai, toh kya indicate karta hai?",
+      "options": {
+        "A": "Normal operation",
+        "B": "Refrigerant line mein air ya moisture, ya low refrigerant charge",
+        "C": "Compressor overheating",
+        "D": "Fan blade problem"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gurgling sound aksar refrigerant line mein air ya moisture ke presence ko ya low refrigerant charge ko indicate karta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Faulty start capacitor ke kya symptoms hote hain AC compressor mein?",
+      "options": {
+        "A": "Compressor smoothly start hota hai",
+        "B": "Compressor start nahi hota ya humming sound karta hai aur trip ho jata hai",
+        "C": "Compressor bahut zyada cooling karta hai",
+        "D": "Compressor se pani leak hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Faulty start capacitor compressor ko necessary starting torque nahi de pata, jiske karan woh start nahi hota, sirf humming sound karta hai aur phir overload protector trip ho jata hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Agar AC unit 'short cycling' kar raha hai (baar-baar on/off ho raha hai), toh kya possible reasons ho sakte hain?",
+      "options": {
+        "A": "Properly sized unit",
+        "B": "Oversized unit, faulty thermostat, low refrigerant charge ya clogged air filter",
+        "C": "Clean coils",
+        "D": "High voltage supply"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Short cycling ke reasons mein oversized AC unit (room ko jaldi thanda kar deta hai), faulty thermostat (incorrect reading), low refrigerant, ya clogged filter (airflow issue) shaamil hain."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Refrigerant leak detect karne ke baad, repair kaise karna chahiye?",
+      "options": {
+        "A": "Sirf refrigerant recharge kar dena chahiye",
+        "B": "Leak ko repair/seal karna, vacuum karna aur phir recharge karna",
+        "C": "Unit ko replace kar dena chahiye",
+        "D": "Leak ko ignore kar dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Leak detect hone ke baad use properly repair karna, system ko vacuum karna (air aur moisture remove karne ke liye) aur phir correct amount mein refrigerant recharge karna zaroori hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Agar AC unit ke indoor blower se 'no air' aa rahi hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Outdoor unit ka fan",
+        "B": "Blower motor, capacitor, blower wheel aur related electrical connections",
+        "C": "Refrigerant pressure",
+        "D": "Drainage system"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "No air supply ka matlab hai blower system mein problem hai. Blower motor ka failure, uska capacitor kharab hona, ya blower wheel ka jam ho jana common reasons hain."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "AC unit se 'rattling noise' kyu aa sakti hai?",
+      "options": {
+        "A": "Normal operation hai",
+        "B": "Loose panel, fan blade ya debris unit ke andar",
+        "C": "Low refrigerant",
+        "D": "Clogged drain line"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rattling noise aksar unit ke loose panels, unbalanced ya damaged fan blade ya unit ke andar gire hue debris ki wajah se hoti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar AC system mein 'overheating' ki problem hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Indoor fan speed",
+        "B": "Condenser coil cleanliness, airflow, fan motor aur refrigerant charge",
+        "C": "Drainage system",
+        "D": "Thermostat settings"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Overheating common hai jab condenser coil gandi ho, airflow blocked ho, condenser fan theek se na chal raha ho, ya refrigerant charge galat ho (overcharge/undercharge)."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "AC unit ke electrical system mein 'open circuit' ka kya matlab hai?",
+      "options": {
+        "A": "Circuit mein bahut zyada current flow ho raha hai",
+        "B": "Circuit mein kahin par break hai aur current flow nahi ho raha hai",
+        "C": "Circuit mein low voltage hai",
+        "D": "Circuit bahut zyada garam ho gaya hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Open circuit ka matlab hai ki electrical path complete nahi hai, jaise wire ka toot jana ya loose connection, jiske karan current flow ruk jata hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Agar AC unit ka 'outdoor fan' chal raha hai lekin 'compressor' nahi chal raha, toh kya check karna chahiye?",
+      "options": {
+        "A": "Indoor unit ka fan",
+        "B": "Compressor contractor, start capacitor aur compressor winding",
+        "C": "Drain line",
+        "D": "Air filter"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar outdoor fan chal raha hai lekin compressor nahi, toh problem compressor ke control circuit ya khud compressor mein ho sakti hai (contactor, capacitor, winding)."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "AC unit mein 'voltage drop' ka kya effect hota hai?",
+      "options": {
+        "A": "Unit ki efficiency badh jati hai",
+        "B": "Components overheat ho sakte hain aur damage ho sakte hain, performance kam ho jati hai",
+        "C": "Unit zyada cooling karta hai",
+        "D": "Noise level kam ho jata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Voltage drop hone par motors aur compressors ko required power nahi milti, jisse woh overheat hote hain, current badhta hai aur unki life kam ho jati hai, performance bhi down hoti hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Agar AC unit ke 'thermostat' par 'no display' hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Refrigerant pressure",
+        "B": "Thermostat ki batteries, wiring aur power supply",
+        "C": "Outdoor unit ki cleanliness",
+        "D": "Drain line"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Thermostat display na hone ka sabse common reason batteries ka dead hona ya phir uski wiring aur power supply mein problem ho sakti hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "AC system mein 'liquid slugging' kya hai aur iska kya effect hota hai?",
+      "options": {
+        "A": "Refrigerant ka normal flow hai",
+        "B": "Liquid refrigerant ka compressor mein enter karna, jisse compressor damage ho sakta hai",
+        "C": "Condenser coil ka freeze ho jana",
+        "D": "Drain line ka block ho jana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Liquid slugging tab hota hai jab liquid refrigerant compressor mein enter kar jata hai, jo hydraulic lock aur mechanical damage (jaise valves ka tootna) ka karan ban sakta hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Agar AC unit se 'burning smell' aa rahi hai, toh kya indicate karta hai?",
+      "options": {
+        "A": "Normal operation",
+        "B": "Overheated electrical components, motor winding ya insulation problem",
+        "C": "Low refrigerant",
+        "D": "Clean air filter"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Burning smell aana ek serious electrical problem ka sign hai, jaise overheated motor winding, faulty wiring ya electrical insulation ka jalna. Immediately power off karna chahiye."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "AC unit mein 'low ambient temperature' ka kya effect hota hai cooling performance par?",
+      "options": {
+        "A": "Cooling efficiency badh jati hai",
+        "B": "Cooling efficiency kam ho sakti hai aur unit freeze ho sakta hai",
+        "C": "Unit ka noise badh jata hai",
+        "D": "Power consumption badh jati hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bahut kam ambient temperature par outdoor unit ko heat reject karne mein problem hoti hai, jisse low suction pressure aur evaporator coil par ice formation ho sakti hai, cooling performance kam ho jati hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "AC technician ko electrical work karte samay kaun sa PPE (Personal Protective Equipment) pehenna zaroori hai?",
+      "options": {
+        "A": "Sun hat",
+        "B": "Safety goggles aur insulated gloves",
+        "C": "Raincoat",
+        "D": "Simple cloth gloves"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical hazards se bachne ke liye safety goggles (aankhon ki protection) aur insulated gloves (electrical shock se protection) bahut zaroori hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Refrigerant cylinders ko store karte samay kya precautions leni chahiye?",
+      "options": {
+        "A": "Direct sunlight mein rakhna",
+        "B": "Cool, dry aur well-ventilated area mein store karna",
+        "C": "Heating sources ke paas rakhna",
+        "D": "Horizontal position mein store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Refrigerant cylinders ko cool, dry aur well-ventilated area mein store karna chahiye, direct sunlight aur heat sources se door, taaki pressure build-up na ho."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Brazing karte samay kya safety precaution leni chahiye?",
+      "options": {
+        "A": "Normal clothes pehenna",
+        "B": "Proper ventilation, fire extinguisher ready rakhna aur flame-resistant clothing pehenna",
+        "C": "Bina goggles ke kaam karna",
+        "D": "Flammable materials ke paas kaam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Brazing mein high heat aur open flame involve hota hai, isliye proper ventilation, fire extinguisher aur flame-resistant PPE (jaise welding gloves aur safety glasses) zaroori hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "AC servicing karte samay electrical power supply ko kyu disconnect karna zaroori hai?",
+      "options": {
+        "A": "Unit ko thanda rakhne ke liye",
+        "B": "Electrical shock aur accidental startup se bachne ke liye",
+        "C": "Refrigerant leak detect karne ke liye",
+        "D": "Unit ko clean karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Maintenance ya repair work karte samay electrical power ko disconnect karna sabse important safety precaution hai, jisse electrical shock aur accidental operation se bacha ja sake."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Refrigerant recovery unit ka kya use hai?",
+      "options": {
+        "A": "Refrigerant ko system mein charge karna",
+        "B": "System se refrigerant ko safely collect aur store karna",
+        "C": "Refrigerant leaks detect karna",
+        "D": "Refrigerant pressure measure karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Refrigerant recovery unit system se refrigerant ko safely remove karke ek separate cylinder mein store karta hai, jisse environment mein release na ho aur reuse ho sake."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Tube cutter ka kya use hai HVAC trade mein?",
+      "options": {
+        "A": "Wires cut karna",
+        "B": "Copper aur aluminum tubes ko clean cut karna",
+        "C": "Plastic pipes cut karna",
+        "D": "Wood cut karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tube cutter ek specialized tool hai jo copper, aluminum aur brass tubes ko smooth aur burr-free cut karne ke liye use hota hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Flaring tool kit mein kaun se components hote hain?",
+      "options": {
+        "A": "Wrench aur screwdriver",
+        "B": "Flaring bar, yoke aur reamer",
+        "C": "Hammer aur chisel",
+        "D": "Pliers aur wire stripper"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flaring tool kit mein flaring bar (tube ko hold karne ke liye), yoke (cone ko tube mein press karne ke liye) aur reamer (burrs remove karne ke liye) hote hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Vacuum pump ka kya use hai AC system mein?",
+      "options": {
+        "A": "System mein air blow karna",
+        "B": "System se non-condensable gases aur moisture ko evacuate karna",
+        "C": "Refrigerant charge karna",
+        "D": "System ko pressure test karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vacuum pump AC system se air aur moisture ko remove karta hai, jisse system ki efficiency aur longevity maintain rehti hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Leak detector (electronic) ka kya fayda hai?",
+      "options": {
+        "A": "Sirf bade leaks detect karta hai",
+        "B": "Chhote se chhote refrigerant leaks ko bhi detect kar sakta hai",
+        "C": "Bahut time consuming hai",
+        "D": "Sirf water leaks detect karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electronic leak detectors bahut sensitive hote hain aur bahut chhote refrigerant leaks ko bhi pinpoint kar sakte hain, jo soap bubbles se detect karna mushkil hota hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "HVAC system mein 'manometer' ka kya use hai?",
+      "options": {
+        "A": "Electrical current measure karna",
+        "B": "Airflow pressure (static aur velocity pressure) measure karna",
+        "C": "Refrigerant temperature measure karna",
+        "D": "Sound level measure karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Manometer ka use ductwork aur air handling units mein airflow ke static aur velocity pressures ko measure karne ke liye kiya jata hai, jo system balancing aur troubleshooting mein help karta hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Electrical safety mein 'Lockout/Tagout' procedure kyu follow kiya jata hai?",
+      "options": {
+        "A": "Tools ko secure karne ke liye",
+        "B": "Equipment ko accidentally energize hone se rokne ke liye maintenance ke dauran",
+        "C": "Refrigerant leaks rokne ke liye",
+        "D": "Documents ko protect karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Lockout/Tagout ek safety procedure hai jo yeh ensure karta hai ki equipment ko maintenance ya repair ke dauran accidentally start ya energize na kiya jaye, jisse workers ki safety bani rahe."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Soldering aur Brazing mein kya main difference hai?",
+      "options": {
+        "A": "Dono same hain",
+        "B": "Soldering low temperature par hota hai aur brazing high temperature par",
+        "C": "Soldering sirf electrical connections ke liye hai",
+        "D": "Brazing sirf plastic ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Soldering mein filler metal ka melting point 450°C se kam hota hai, jabki brazing mein filler metal ka melting point 450°C se zyada hota hai, jisse stronger joint banta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "AC drain line ko clean karne ke liye kaun sa tool ya method use karte hain?",
+      "options": {
+        "A": "Hammer",
+        "B": "Wet/dry vacuum, drain cleaner solution ya drain snake",
+        "C": "Pliers",
+        "D": "Screwdriver"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clogged drain line ko clear karne ke liye wet/dry vacuum, specialized drain cleaner solution ya drain snake ka use kiya jata hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Refrigerant handling mein 'environmental regulations' ka kya importance hai?",
+      "options": {
+        "A": "Cost saving ke liye",
+        "B": "Ozone layer depletion aur global warming ko control karne ke liye",
+        "C": "Unit ki efficiency badhane ke liye",
+        "D": "Installation time kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Refrigerants (especially CFCs aur HCFCs) ozone layer ko deplete karte hain aur potent greenhouse gases hain, isliye unki proper handling aur disposal environmental protection ke liye zaroori hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "AC technician ko 'confined space entry' karte samay kya precautions leni chahiye?",
+      "options": {
+        "A": "Akele enter karna",
+        "B": "Proper ventilation, gas detection equipment aur ek attendant bahar hona chahiye",
+        "C": "Bina kisi plan ke enter karna",
+        "D": "Sirf flashlight lekar enter karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confined spaces mein oxygen deficiency, toxic gases ya flammable atmosphere ka khatra hota hai. Isliye proper ventilation, gas detection, aur ek trained attendant ka bahar hona critical hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "AC system ke electrical components ko test karne ke liye kaun sa tool sabse commonly use hota hai?",
+      "options": {
+        "A": "Flaring tool",
+        "B": "Multimeter",
+        "C": "Tube bender",
+        "D": "Manifold gauge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Multimeter electrical components ke voltage, current aur resistance ko test karne ke liye sabse basic aur essential tool hai."
+    }
+  ]
+}

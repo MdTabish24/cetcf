@@ -1,0 +1,1443 @@
+{
+  "course_name": "Welding & Fabrication Technician",
+  "sector": "Construction & Building Trades",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Safety, Health & Tools",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Basic Welding Processes (SMAW)",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Material Identification & Preparation",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Basic Fabrication Techniques",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Welding Defects & Quality Control",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Advanced Concepts & Workshop Management",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Welding karte samay sabse zaroori Personal Protective Equipment (PPE) kya hai?",
+      "options": {
+        "A": "Safety Goggles",
+        "B": "Welding Helmet",
+        "C": "Leather Gloves",
+        "D": "Ear Plugs"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Welding karte samay aankhon ko arc rays aur sparks se bachane ke liye welding helmet sabse zaroori hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Fire extinguisher ka sahi type kaun sa hai jo welding workshop mein electrical fire (Class C) ke liye use hota hai?",
+      "options": {
+        "A": "Water Type",
+        "B": "Foam Type",
+        "C": "CO2 Type",
+        "D": "Dry Powder Type (ABC)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "CO2 type extinguisher electrical fires (Class C) ke liye effective hai kyunki yeh residue nahi chhodta aur non-conductive hota hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ek welder ko apne working area mein proper ventilation kyu maintain karna chahiye?",
+      "options": {
+        "A": "Taaki welding fumes se bacha ja sake",
+        "B": "Taaki workshop thanda rahe",
+        "C": "Taaki visibility achhi rahe",
+        "D": "Taaki kaam jaldi ho"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Proper ventilation welding fumes ko remove karta hai jo health ke liye harmful ho sakte hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Commonly use hone wala measuring tool jo metal sheets ki length aur width check karne ke liye kaam aata hai?",
+      "options": {
+        "A": "Vernier Caliper",
+        "B": "Micrometer",
+        "C": "Steel Tape Measure",
+        "D": "Try Square"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Steel tape measure lambi measurements aur general layout ke liye sabse common aur convenient tool hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Chhote aur intricate measurements jaise plate thickness ya rod diameter ke liye kaun sa tool best hai?",
+      "options": {
+        "A": "Steel Rule",
+        "B": "Vernier Caliper",
+        "C": "Measuring Tape",
+        "D": "Divider"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vernier caliper high precision measurements ke liye use hota hai, jo steel rule se zyada accurate hota hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Metal surface par marking karne ke liye kya use kiya jata hai?",
+      "options": {
+        "A": "Chisel",
+        "B": "Hammer",
+        "C": "Scriber",
+        "D": "File"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Scriber ek sharp pointed tool hai jo metal surface par clear lines mark karne ke liye use hota hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Kisi metal piece ko support aur hold karne ke liye konsa tool use hota hai jab uspar kaam kiya ja raha ho (jaise filing ya cutting)?",
+      "options": {
+        "A": "C-Clamp",
+        "B": "Welding Clamp",
+        "C": "Bench Vice",
+        "D": "Pliers"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bench vice ek sturdy clamping device hai jo workpieces ko securely hold karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Electrical shock se bachne ke liye kya precaution leni chahiye?",
+      "options": {
+        "A": "Wet gloves pehenna",
+        "B": "Damaged cables se kaam karna",
+        "C": "Properly insulated tools aur cables use karna",
+        "D": "Nange paer kaam karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Properly insulated tools aur cables electrical shock ke risk ko kam karte hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Angle grinder use karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Safety glasses nahi pehenna",
+        "B": "Loose kapde pehenna",
+        "C": "Workpiece ko securely clamp karna",
+        "D": "Guard ko remove karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Workpiece ko securely clamp karne se grinder slip nahi hota aur operator safe rehta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Welding fumes mein kaun se harmful substances ho sakte hain?",
+      "options": {
+        "A": "Oxygen aur Nitrogen",
+        "B": "Carbon Monoxide aur Ozone",
+        "C": "Water Vapor aur Argon",
+        "D": "Helium aur Neon"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Welding fumes mein carbon monoxide, ozone, aur various metal oxides jaise harmful gases ho sakte hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Kisi bhi power tool ko use karne se pehle kya check karna zaroori hai?",
+      "options": {
+        "A": "Tool ka colour",
+        "B": "Tool ka weight",
+        "C": "Cable, plug aur switch ki condition",
+        "D": "Tool ki manufacturing date"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Damaged cables, plugs ya switches electrical hazards create kar sakte hain. Always check before use."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Welding arc se nikalne wali UV rays se bachne ke liye kya pehenna chahiye?",
+      "options": {
+        "A": "Normal sunglasses",
+        "B": "Clear safety glasses",
+        "C": "Welding helmet with proper shade lens",
+        "D": "Dust mask"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Welding helmet ka shade lens UV rays ko block karta hai aur aankhon ko damage se bachata hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Hot metal ko handle karne ke liye kaun se gloves use karne chahiye?",
+      "options": {
+        "A": "Cotton gloves",
+        "B": "Rubber gloves",
+        "C": "Leather welding gloves",
+        "D": "Disposable plastic gloves"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Leather welding gloves heat resistant hote hain aur hot metal se protection provide karte hain."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Workshop mein oil spills ko immediately saaf karna kyu zaroori hai?",
+      "options": {
+        "A": "Taaki workshop clean lage",
+        "B": "Taaki fire hazard na ho",
+        "C": "Taaki koi slip hokar gire nahi",
+        "D": "B aur C dono"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Oil spills se fire hazard aur slipping hazard dono ho sakte hain, isliye unhe turant saaf karna chahiye."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Try Square ka primary use kya hai?",
+      "options": {
+        "A": "Measurements lena",
+        "B": "Angles check karna aur mark karna (90 degree)",
+        "C": "Holes drill karna",
+        "D": "Metal cut karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Try square metal pieces par 90 degree angles check karne aur mark karne ke liye use hota hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Ek welder ko apne kapde kaise pehenne chahiye?",
+      "options": {
+        "A": "Loose aur synthetic fabric",
+        "B": "Tight aur synthetic fabric",
+        "C": "Flame-resistant cotton ya leather, sleeves rolled down",
+        "D": "Shorts aur T-shirt"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Flame-resistant kapde sparks aur heat se bachate hain, aur sleeves rolled down hone chahiye taaki skin exposed na ho."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Welding area mein kis cheez ko store nahi karna chahiye?",
+      "options": {
+        "A": "Welding electrodes",
+        "B": "Flammable liquids jaise paint thinner",
+        "C": "Metal scrap",
+        "D": "Welding machine"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Welding ke sparks aur heat se flammable liquids mein aag lag sakti hai, isliye unhe welding area se door rakhna chahiye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "SMAW ka full form kya hai?",
+      "options": {
+        "A": "Shielded Metal Arc Welding",
+        "B": "Solid Metal Arc Welding",
+        "C": "Soft Metal Arc Welding",
+        "D": "Strong Metal Arc Welding"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "SMAW ko 'Stick Welding' bhi kehte hain, aur iska full form Shielded Metal Arc Welding hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "SMAW mein arc ko maintain karne ke liye kya zaroori hai?",
+      "options": {
+        "A": "Constant electrode movement",
+        "B": "Proper arc length",
+        "C": "Low amperage",
+        "D": "Thick workpiece"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek stable aur consistent arc ke liye proper arc length maintain karna bahut zaroori hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "E6013 electrode kis type ke material ke liye commonly use hota hai?",
+      "options": {
+        "A": "Stainless Steel",
+        "B": "Cast Iron",
+        "C": "Mild Steel",
+        "D": "Aluminum"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "E6013 general purpose mild steel welding ke liye bahut popular electrode hai, jo easy-to-use hota hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Welding current ki unit kya hai?",
+      "options": {
+        "A": "Volts",
+        "B": "Ohms",
+        "C": "Amperes",
+        "D": "Watts"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Welding current ko Amperes (Amps) mein measure kiya jata hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "AC welding machine ka ek fayda kya hai?",
+      "options": {
+        "A": "Smoother arc",
+        "B": "Arc blow ko kam karta hai",
+        "C": "Thinner materials ke liye best",
+        "D": "Deep penetration deta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AC welding machines arc blow ko kam karne mein madad karte hain, jo DC welding mein ek common problem hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "DCEN (Direct Current Electrode Negative) polarity mein heat kahan zyada generate hoti hai?",
+      "options": {
+        "A": "Electrode par",
+        "B": "Workpiece par",
+        "C": "Dono par equally",
+        "D": "Welding machine mein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DCEN mein, current electrode se workpiece ki taraf flow karta hai, jisse workpiece par approximately 2/3 heat generate hoti hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "SMAW mein flux ka kya kaam hai?",
+      "options": {
+        "A": "Arc ko ignite karna",
+        "B": "Molten weld pool ko atmospheric contamination se bachana",
+        "C": "Welding current ko control karna",
+        "D": "Electrode ko thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flux melt hokar shielding gas aur slag banata hai, jo molten weld pool ko oxygen aur nitrogen se bachata hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Short arc length hone se kya ho sakta hai?",
+      "options": {
+        "A": "Poor penetration",
+        "B": "Excessive spatter",
+        "C": "Arc extinguishing (sticking)",
+        "D": "Wider bead"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bahut short arc length hone par electrode workpiece se touch kar sakta hai aur arc bujh sakta hai (sticking)."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Long arc length hone se kya ho sakta hai?",
+      "options": {
+        "A": "Deep penetration",
+        "B": "Narrow bead",
+        "C": "Increased spatter aur poor shielding",
+        "D": "Smooth weld bead"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Long arc length se shielding gas dissolve ho jata hai, jisse spatter badhta hai aur weld quality kharab hoti hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "E7018 electrode ki kya khas baat hai?",
+      "options": {
+        "A": "Fast freeze electrode hai",
+        "B": "Low hydrogen electrode hai",
+        "C": "Non-ferrous metals ke liye hai",
+        "D": "AC power ke liye hi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "E7018 ek low hydrogen electrode hai, jo high strength welds aur crack resistance ke liye use hota hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Welding ke baad slag ko remove karna kyu zaroori hai?",
+      "options": {
+        "A": "Taaki weld thanda ho sake",
+        "B": "Taaki next pass kiya ja sake aur weld inspection ho sake",
+        "C": "Taaki weld shine kare",
+        "D": "Isse weld strength badhti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Slag ko remove karne se agla weld pass properly deposit ho pata hai aur weld defects ko inspect kiya ja sakta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Welding rod ko kis angle par hold karna chahiye?",
+      "options": {
+        "A": "90 degrees workpiece se",
+        "B": "45 degrees workpiece se",
+        "C": "70-80 degrees workpiece se",
+        "D": "Parallel workpiece ke"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Typically, electrode ko 70-80 degree angle par hold kiya jata hai taaki proper penetration aur bead shape mil sake."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Ek welding machine mein 'Duty Cycle' ka kya matlab hai?",
+      "options": {
+        "A": "Machine ka total weight",
+        "B": "Kitni der tak machine continuous weld kar sakti hai 10-minute cycle mein",
+        "C": "Machine ka power consumption",
+        "D": "Machine ki maximum current setting"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Duty cycle percentage mein batata hai ki ek machine 10-minute period mein kitni der tak rated output current par weld kar sakti hai overheat hue bina."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Arc Welding mein 'Arc Blow' kya hai?",
+      "options": {
+        "A": "Arc ka bahut zyada heat produce karna",
+        "B": "Magnetic forces ke karan arc ka deflected hona",
+        "C": "Arc ka bahut chhota hona",
+        "D": "Arc ka baar baar bujh jana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Arc blow magnetic fields ke karan arc ka unstable ya deflected ho jana hai, jo DC welding mein common hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "SMAW mein kaun sa factor penetration ko directly affect karta hai?",
+      "options": {
+        "A": "Electrode coating type",
+        "B": "Welding current (Amperage)",
+        "C": "Arc length",
+        "D": "Travel speed"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Higher amperage zyada heat produce karta hai, jisse deeper penetration milti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Rutile electrodes (jaise E6013) ki kya khas baat hai?",
+      "options": {
+        "A": "Very deep penetration",
+        "B": "Smooth arc aur easy slag removal",
+        "C": "High strength welds only",
+        "D": "Only for overhead welding"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rutile electrodes smooth arc, easy slag removal, aur good bead appearance dete hain, making them user-friendly."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Welding machine ke earth clamp ko kahan attach karna chahiye?",
+      "options": {
+        "A": "Welder ke kapdon par",
+        "B": "Workpiece ke jitna ho sake utna kareeb",
+        "C": "Welding machine par",
+        "D": "Kisi bhi metal structure par"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Earth clamp ko workpiece ke jitna ho sake utna kareeb attach karne se current path short hota hai aur arc stability badhti hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Mild steel ko kaise identify kar sakte hain?",
+      "options": {
+        "A": "Ismein magnet nahi lagta",
+        "B": "Iska surface bahut rough hota hai",
+        "C": "Ismein magnet lagta hai aur yeh easily weld ho jata hai",
+        "D": "Yeh bahut lightweight hota hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mild steel ferromagnetic hota hai (magnet lagta hai) aur iski weldability achhi hoti hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Stainless steel ki ek khas property kya hai?",
+      "options": {
+        "A": "Rust lagta hai",
+        "B": "Corrosion resistant hota hai",
+        "C": "Bohut soft hota hai",
+        "D": "Easily bend nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Stainless steel mein chromium hota hai jo use corrosion resistant banata hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Welding se pehle metal surfaces ko clean karna kyu zaroori hai?",
+      "options": {
+        "A": "Taaki weld achha dikhe",
+        "B": "Taaki weld defects jaise porosity aur poor fusion se bacha ja sake",
+        "C": "Taaki welding faster ho",
+        "D": "Taaki electrode melt na ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oil, grease, rust ya paint jaise contaminants weld quality ko kharab karte hain aur defects create karte hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Butt joint mein do metal pieces ko kaise rakha jata hai?",
+      "options": {
+        "A": "Ek ke upar ek",
+        "B": "Ek doosre ke edge to edge",
+        "C": "90 degree angle par",
+        "D": "Parallel lekin thoda gap ke saath"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Butt joint mein do metal pieces ko same plane mein edge to edge rakha jata hai aur unke edges ko weld kiya jata hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Lap joint mein metal pieces ko kaise place kiya jata hai?",
+      "options": {
+        "A": "Edges ek doosre se touch karte hue",
+        "B": "Ek piece doosre ke upar overlap karta hua",
+        "C": "90 degree par ek doosre se milte hue",
+        "D": "Gap ke saath"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lap joint mein ek metal piece doosre ke upar overlap karta hai aur edges par weld kiya jata hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Thick plates ko full penetration weld karne ke liye kaun sa edge preparation commonly use hota hai?",
+      "options": {
+        "A": "Square edge",
+        "B": "Bevel edge",
+        "C": "Rounded edge",
+        "D": "Flat edge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bevel edge preparation thick plates mein deep penetration aur strong weld ke liye joint design mein space provide karta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Oxy-fuel cutting mein kaun si gases use hoti hain?",
+      "options": {
+        "A": "Argon aur Helium",
+        "B": "Oxygen aur Acetylene",
+        "C": "Nitrogen aur Hydrogen",
+        "D": "CO2 aur Oxygen"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oxy-fuel cutting mein oxygen aur fuel gas (jaise acetylene) ka mixture metal ko preheat aur cut karta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Grinding wheel se metal ko cut karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Loose kapde pehenna",
+        "B": "Safety glasses aur face shield pehenna",
+        "C": "High speed par grind karna",
+        "D": "Workpiece ko haath se pakadna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grinding se sparks aur metal particles udte hain, isliye aankhon aur chehre ko protect karna zaroori hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "T-joint mein do metal pieces kis angle par milte hain?",
+      "options": {
+        "A": "180 degrees",
+        "B": "45 degrees",
+        "C": "90 degrees",
+        "D": "30 degrees"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "T-joint mein ek metal piece doosre ke surface par perpendicular (90 degrees) join hota hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Welding se pehle joint edges ko 'root gap' kyu diya jata hai?",
+      "options": {
+        "A": "Taaki weld thanda ho sake",
+        "B": "Taaki electrode easily enter ho sake aur full penetration mil sake",
+        "C": "Taaki weld zyada strong bane",
+        "D": "Taaki metal kam use ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Root gap proper penetration aur fusion ke liye zaroori hai, khas kar butt joints mein."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Metal ko hacksaw se cut karte samay kya sahi technique hai?",
+      "options": {
+        "A": "Fast aur heavy pressure",
+        "B": "Slow aur light pressure",
+        "C": "Forward stroke par pressure aur return stroke par no pressure",
+        "D": "Backward stroke par pressure aur forward stroke par no pressure"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Hacksaw blades cutting action forward stroke par karte hain, isliye pressure forward stroke par apply karna chahiye."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Cast iron ki welding mein kya dikkat aati hai?",
+      "options": {
+        "A": "Yeh bahut soft hota hai",
+        "B": "Ismein high carbon content hota hai, jisse yeh brittle hota hai aur crack hone ka risk hota hai",
+        "C": "Yeh easily melt nahi hota",
+        "D": "Ismein magnet nahi lagta"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cast iron mein high carbon content use brittle banata hai, jisse welding ke dauran cracks ka risk badh jata hai. Pre-heating aur slow cooling zaroori hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Welding se pehle metal surface se rust remove karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Measuring tape",
+        "B": "Wire brush ya grinder",
+        "C": "Hammer",
+        "D": "Scriber"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wire brush ya grinder se rust aur scale ko effectively remove kiya ja sakta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Fillet weld kis joint type par commonly use hota hai?",
+      "options": {
+        "A": "Butt joint",
+        "B": "Lap joint aur T-joint",
+        "C": "Edge joint",
+        "D": "Corner joint, jab edges flush ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fillet weld lap joints aur T-joints mein do surfaces ke beech ke angle mein banaya jata hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Ek thin metal sheet ko cut karne ke liye sabse suitable method kya hai?",
+      "options": {
+        "A": "Oxy-fuel cutting",
+        "B": "Plasma cutting",
+        "C": "Manual hacksaw ya Nibbler",
+        "D": "Grinder with thick wheel"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Thin sheets ke liye manual hacksaw ya nibbler zyada precise aur kam heat input wali method hai, distortion kam hoti hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Weld joint ki strength ko improve karne ke liye kya kiya ja sakta hai?",
+      "options": {
+        "A": "Less penetration",
+        "B": "Proper joint preparation aur sufficient weld metal deposition",
+        "C": "Fast travel speed",
+        "D": "Low amperage"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Achhi joint preparation aur proper amount mein weld metal deposit karne se joint ki strength badhti hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Metal surface par paint ya coating hone se welding par kya asar padta hai?",
+      "options": {
+        "A": "Weld zyada strong banta hai",
+        "B": "Weld defects jaise porosity aur lack of fusion ho sakte hain",
+        "C": "Welding process faster ho jata hai",
+        "D": "Koi asar nahi padta"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint aur coatings weld zone mein contaminants introduce karte hain, jisse porosity, lack of fusion aur fumes ki problems hoti hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Layout marking ke liye kaun sa tool use hota hai taaki metal sheet par precise lines banayi ja sake?",
+      "options": {
+        "A": "Chisel",
+        "B": "Punch",
+        "C": "Scriber aur Steel Rule",
+        "D": "Hammer"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Scriber aur steel rule ka combination precise marking ke liye essential hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Metal sheets ko manually bend karne ke liye kya use hota hai?",
+      "options": {
+        "A": "Welding machine",
+        "B": "Bench vice aur Hammer",
+        "C": "Grinder",
+        "D": "Drill machine"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chhote bends ke liye bench vice mein sheet ko clamp karke hammer se bend kiya ja sakta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Burrs kya hote hain aur unhe kyu remove karna chahiye?",
+      "options": {
+        "A": "Yeh weld defects hain, unhe rehne dena chahiye",
+        "B": "Yeh sharp metal edges hain, unhe safety aur fit-up ke liye remove karna chahiye",
+        "C": "Yeh weld ko strong banate hain",
+        "D": "Yeh sirf decorative hote hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Burrs cutting ya grinding ke baad bache sharp edges hote hain, jo injuries cause kar sakte hain aur proper fit-up mein rukawat dal sakte hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Tack welding ka primary purpose kya hai?",
+      "options": {
+        "A": "Final weld banana",
+        "B": "Components ko temporarily hold karna aur unki alignment maintain karna",
+        "C": "Metal ko heat up karna",
+        "D": "Weld defects ko cover karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tack welds chhote, temporary welds hote hain jo components ko position mein rakhte hain final welding se pehle."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Sheet metal ko straight line mein cut karne ke liye kaun sa manual tool use hota hai?",
+      "options": {
+        "A": "Chisel",
+        "B": "Tin snips (Sheet metal shears)",
+        "C": "Hacksaw",
+        "D": "Drill"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tin snips ya sheet metal shears thin sheets ko straight aur curved lines mein cut karne ke liye designed hote hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Holes drill karne se pehle kya karna zaroori hai?",
+      "options": {
+        "A": "Directly drill karna shuru kar dena",
+        "B": "Center punch se mark karna",
+        "C": "Metal ko heat karna",
+        "D": "Welding machine on karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Center punch se mark karne se drill bit apni jagah par rehti hai aur slip nahi hoti."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Metal ko smooth finish dene ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Hammer",
+        "B": "File",
+        "C": "Chisel",
+        "D": "Scriber"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Files metal surfaces ko smooth karne, burrs remove karne aur shapes refine karne ke liye use hote hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Fitting up operations mein components ko align karne ke liye kya use hota hai?",
+      "options": {
+        "A": "Measuring tape",
+        "B": "Squares, clamps aur levels",
+        "C": "Welding electrodes",
+        "D": "Grinding wheel"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Squares, clamps, aur levels components ko correct position aur angle mein hold karne aur align karne mein help karte hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Distortion ko kam karne ke liye kya technique use hoti hai during welding?",
+      "options": {
+        "A": "Long continuous welds",
+        "B": "Intermittent welding aur proper clamping",
+        "C": "High heat input",
+        "D": "Thinner electrodes"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Intermittent welds (skip welding) aur strong clamping metal ko warp hone se bachate hain. Pre-setting aur balanced welding bhi helpful hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Grinding karte samay guard ka kya purpose hai?",
+      "options": {
+        "A": "Grinder ko balance karna",
+        "B": "Sparks aur debris se operator ko protect karna",
+        "C": "Grinding wheel ko thanda karna",
+        "D": "Grinder ko speed dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Guard operator ko flying sparks, debris aur wheel rupture se protect karta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Drill bit ko workpiece par kyu press karna chahiye?",
+      "options": {
+        "A": "Taaki drill bit garam ho jaye",
+        "B": "Taaki cutting action ho aur chips remove ho",
+        "C": "Taaki hole bada bane",
+        "D": "Taaki drill bit toot jaye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper pressure apply karne se drill bit material ko cut karti hai aur chips remove karti hai, jisse efficient drilling hoti hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Ek welder ko apne tools ko kaise maintain karna chahiye?",
+      "options": {
+        "A": "Unhe ganda aur unorganized rakhna",
+        "B": "Regularly clean karna, inspect karna aur sharpen karna",
+        "C": "Unhe kabhi saaf nahi karna",
+        "D": "Dusre welders ke tools use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular maintenance se tools ki life badhti hai, performance achhi rehti hai aur safety maintain hoti hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Marking fluid (Layout dye) ka kya use hai fabrication mein?",
+      "options": {
+        "A": "Metal ko colour karna",
+        "B": "Metal par temporary lines banana",
+        "C": "Metal surface ko dark karna taaki scribed lines clearly dikhein",
+        "D": "Metal ko protect karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Layout dye metal surface ko blue ya black kar deta hai, jisse scriber se banayi gayi shiny lines clearly visible hoti hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Sheet metal bending ke liye 'bending brake' machine ka kya fayda hai?",
+      "options": {
+        "A": "Sirf gol bends banata hai",
+        "B": "Accurate aur sharp bends banata hai",
+        "C": "Sirf bahut thick metal bend karta hai",
+        "D": "Welding ke liye use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bending brake (ya press brake) machine sheet metal mein precise aur sharp angles banane ke liye ideal hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Pipes ko cut karne ke liye kaun sa tool use ho sakta hai?",
+      "options": {
+        "A": "Tin snips",
+        "B": "Pipe cutter ya hacksaw",
+        "C": "Bench vice",
+        "D": "Scriber"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pipe cutter pipes ko clean aur straight cut karne ke liye designed hai, hacksaw bhi use ho sakti hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Welding fixture ka kya role hai fabrication mein?",
+      "options": {
+        "A": "Welding current control karna",
+        "B": "Workpieces ko accurately position aur hold karna welding ke dauran",
+        "C": "Welding fumes ko remove karna",
+        "D": "Welding machine ko protect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Welding fixtures repeated aur accurate assembly ke liye components ko sahi jagah par hold karte hain, distortion bhi kam karte hain."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Workpiece ko clean aur dry rakhna kyu important hai fabrication se pehle?",
+      "options": {
+        "A": "Taaki welding machine achhi chale",
+        "B": "Taaki marking clear dikhe aur contamination na ho",
+        "C": "Taaki tool slip na ho",
+        "D": "Taaki zyada heat lage"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clean aur dry surface par marking clear hoti hai, aur welding ke dauran contamination se bacha ja sakta hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Weld mein 'Porosity' kya hai?",
+      "options": {
+        "A": "Weld bead ka bahut mota hona",
+        "B": "Weld metal ke andar trapped gas bubbles",
+        "C": "Weld ka bahut patla hona",
+        "D": "Weld surface par cracks"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Porosity weld metal mein gas bubbles ka trap ho jana hai, jo shielding ki kami ya contaminated material se hota hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "'Undercut' kya hai?",
+      "options": {
+        "A": "Weld metal ka base metal ke upar flow karna",
+        "B": "Base metal mein ek groove ya notch jo weld toe ke paas banta hai",
+        "C": "Weld metal ka joint se bahar nikalna",
+        "D": "Weld ka bahut zyada penetrate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Undercut base metal mein ek notch hai jo weld toe ke paas banta hai, jisse strength kam hoti hai. High current ya wrong angle se hota hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "'Lack of Fusion' kya hai?",
+      "options": {
+        "A": "Do weld passes ka achhe se mix hona",
+        "B": "Weld metal ka base metal ya previous weld pass ke saath properly fuse na hona",
+        "C": "Weld ka bahut zyada fusion",
+        "D": "Weld ka over-penetration"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lack of fusion tab hota hai jab weld metal base metal ya previous weld pass ke saath achhe se bond nahi ho pata, jisse weak spots bante hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Welding mein 'Distortion' ka kya matlab hai?",
+      "options": {
+        "A": "Weld bead ka colour change hona",
+        "B": "Heat ke karan metal component ki shape ya dimension mein change aana",
+        "C": "Weld metal ka hard ho jana",
+        "D": "Weld ka bahut zyada smooth hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Welding heat ke karan metal expand aur contract karta hai, jisse component ki original shape mein badlav aa sakta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "'Slag Inclusion' kya hai?",
+      "options": {
+        "A": "Weld metal ka bahut clean hona",
+        "B": "Non-metallic material (slag) ka weld metal ke andar trap ho jana",
+        "C": "Weld surface par bumps",
+        "D": "Weld ka bahut zyada chamakna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slag inclusion tab hota hai jab slag weld metal mein trap ho jata hai, usually improper cleaning ya high travel speed ke karan."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Visual inspection mein kya check kiya jata hai?",
+      "options": {
+        "A": "Internal defects jaise cracks",
+        "B": "Weld bead ka appearance, size, shape aur surface defects",
+        "C": "Metal ki chemical composition",
+        "D": "Weld ki hardness"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Visual inspection mein weld surface par dikhne wale defects jaise undercut, porosity, crack, aur bead profile check kiye jate hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Excessive travel speed se kya defect ho sakta hai?",
+      "options": {
+        "A": "Too much penetration",
+        "B": "Lack of penetration aur narrow weld bead",
+        "C": "Wide weld bead",
+        "D": "No spatter"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar travel speed bahut zyada ho, toh weld metal ko proper penetration aur fusion ke liye enough time nahi milta."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Too low amperage se kya ho sakta hai?",
+      "options": {
+        "A": "Deep penetration",
+        "B": "Lack of penetration, poor fusion aur electrode sticking",
+        "C": "High spatter",
+        "D": "Wide weld bead"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kam amperage se heat input kam hota hai, jisse weld metal properly melt nahi hota aur penetration kam rehti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Welding mein 'Cracks' kyu aate hain?",
+      "options": {
+        "A": "Metal ka bahut soft hona",
+        "B": "High carbon content, rapid cooling, ya excessive stress ke karan",
+        "C": "Weld ka bahut zyada mota hona",
+        "D": "Proper shielding gas use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cracks high stress, inappropriate material, improper pre-heat/post-heat, ya rapid cooling ke karan aate hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Weld bead ki uniformity kyu zaroori hai?",
+      "options": {
+        "A": "Sirf appearance ke liye",
+        "B": "Stress distribution aur strength maintain karne ke liye",
+        "C": "Taaki welding faster ho",
+        "D": "Taaki electrode kam use ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Uniform weld bead stress ko evenly distribute karta hai aur joint ki strength ko maintain karta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Welding ke baad 'spatter' kya hota hai?",
+      "options": {
+        "A": "Weld metal ka ek smooth surface",
+        "B": "Chhote metal particles jo weld area ke aas-paas chipak jate hain",
+        "C": "Weld metal ka colour change",
+        "D": "Weld joint ki depth"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spatter molten metal ke chhote droplets hote hain jo arc se bahar nikal kar workpiece par ya aas-paas chipak jate hain."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Spatter ko kam karne ke liye kya kiya ja sakta hai?",
+      "options": {
+        "A": "High amperage use karna",
+        "B": "Proper arc length, current setting aur electrode angle maintain karna",
+        "C": "Thick electrode use karna",
+        "D": "Fast travel speed"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Correct welding parameters maintain karne se spatter ko kafi had tak control kiya ja sakta hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Welding mein 'Burn-through' kya hai?",
+      "options": {
+        "A": "Weld ka bahut shallow hona",
+        "B": "Molten weld metal ka workpiece ke through pass ho jana, jisse hole ban jata hai",
+        "C": "Weld ka bahut clean hona",
+        "D": "Excessive slag formation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Burn-through tab hota hai jab high heat input ya thin material ke karan weld metal workpiece se poora nikal jata hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Welding defects ko avoid karne ke liye sabse important step kya hai?",
+      "options": {
+        "A": "Fast welding karna",
+        "B": "Proper joint preparation aur correct welding parameters set karna",
+        "C": "Bina PPE ke kaam karna",
+        "D": "Kam heat use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Achhi joint preparation aur sahi welding parameters defects ko minimize karne ki key hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Weld bead ki convex (bahar ki taraf ubhri hui) shape kis baat ka indication ho sakti hai?",
+      "options": {
+        "A": "Perfect weld",
+        "B": "Insufficient heat input ya too fast travel speed",
+        "C": "Excessive penetration",
+        "D": "Lack of fusion"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Excessive convexity (over-reinforcement) usually insufficient heat input ya fast travel speed ke karan hoti hai, jisse weld profile achha nahi banta."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Visual inspection ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Welding gauge",
+        "C": "X-ray machine",
+        "D": "Hardness tester"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Welding gauge weld bead size, fillet weld leg length, throat thickness, undercut aur misalignment jaise parameters ko measure karta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "MIG welding ka full form kya hai?",
+      "options": {
+        "A": "Manual Inert Gas",
+        "B": "Metal Inert Gas",
+        "C": "Machine Inert Gas",
+        "D": "Molten Inert Gas"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MIG welding ko Metal Inert Gas welding ya GMAW (Gas Metal Arc Welding) bhi kehte hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "MIG welding mein shielding gas ka kya kaam hai?",
+      "options": {
+        "A": "Weld metal ko thanda karna",
+        "B": "Atmospheric contamination se weld pool ko protect karna",
+        "C": "Arc ko ignite karna",
+        "D": "Wire feed speed control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shielding gas oxygen aur nitrogen ko weld area se door rakhta hai, jisse weld defects nahi aate."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "TIG welding ka full form kya hai?",
+      "options": {
+        "A": "Tungsten Inert Gas",
+        "B": "Thin Inert Gas",
+        "C": "Tool Inert Gas",
+        "D": "Thermal Inert Gas"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "TIG welding ko Tungsten Inert Gas welding ya GTAW (Gas Tungsten Arc Welding) bhi kehte hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "TIG welding mein kaun sa electrode use hota hai?",
+      "options": {
+        "A": "Consumable electrode",
+        "B": "Non-consumable tungsten electrode",
+        "C": "Carbon electrode",
+        "D": "Copper electrode"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "TIG welding mein non-consumable tungsten electrode use hota hai, aur filler rod alag se feed kiya jata hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "MIG welding ka ek major advantage kya hai?",
+      "options": {
+        "A": "Very slow welding speed",
+        "B": "High deposition rate aur continuous wire feed",
+        "C": "Only for thin materials",
+        "D": "Produces a lot of slag"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MIG welding high deposition rate aur continuous wire feed ke karan faster hai, jisse productivity badhti hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "TIG welding ka primary advantage kya hai?",
+      "options": {
+        "A": "Very fast welding speed",
+        "B": "High quality, precise welds aur no spatter/slag",
+        "C": "Low skill required",
+        "D": "Only for mild steel"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "TIG welding sabse clean aur precise welds deta hai, jo critical applications ke liye ideal hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Welding machine ke cables ko kaise maintain karna chahiye?",
+      "options": {
+        "A": "Unhe tight coil karke rakhna",
+        "B": "Regularly inspect karna aur damaged cables ko replace karna",
+        "C": "Unhe floor par chhod dena",
+        "D": "Unhe pani mein dhona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Damaged cables electrical hazards create kar sakte hain aur poor weld performance de sakte hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Workshop mein tools ko organize karna kyu zaroori hai?",
+      "options": {
+        "A": "Taaki workshop bhara hua lage",
+        "B": "Taaki tools easily mil sakein aur accidents kam ho",
+        "C": "Taaki tools kharab ho jayein",
+        "D": "Taaki kaam slow ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Organized tools se efficiency badhti hai aur tripping hazards kam hote hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Gas cylinders ko kaise store karna chahiye?",
+      "options": {
+        "A": "Horizontal position mein",
+        "B": "Vertically aur chain se secure karke",
+        "C": "Direct sunlight mein",
+        "D": "Kisi bhi jagah par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gas cylinders ko vertically store karna chahiye aur chain se secure karna chahiye taaki woh gir na sakein."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Welding torch ke nozzles ko regularly clean karna kyu zaroori hai?",
+      "options": {
+        "A": "Taaki nozzle garam ho jaye",
+        "B": "Taaki proper shielding gas flow aur arc stability maintain ho",
+        "C": "Taaki nozzle shine kare",
+        "D": "Taaki zyada spatter ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clogged nozzles shielding gas flow ko disrupt karte hain aur weld quality ko affect karte hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Basic blueprint reading mein welding symbol ka kya matlab hota hai?",
+      "options": {
+        "A": "Weld ki location aur type batana",
+        "B": "Welder ka naam batana",
+        "C": "Welding machine ka model batana",
+        "D": "Welding ki speed batana"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Welding symbols drawings par weld type, size, location aur other details ko graphically represent karte hain."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Welding workshop mein 'good housekeeping' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf floor saaf rakhna",
+        "B": "Regularly clean karna, tools ko organize karna aur hazards ko remove karna",
+        "C": "Tools ko kahi bhi rakhna",
+        "D": "Sirf welding machine ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Good housekeeping ek safe aur efficient working environment banata hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Welding machine ke cooling system ko kyu maintain karna chahiye?",
+      "options": {
+        "A": "Taaki machine zyada noise kare",
+        "B": "Taaki machine overheat na ho aur uski life badhe",
+        "C": "Taaki machine jaldi garam ho",
+        "D": "Cooling system ka koi kaam nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper cooling machine ko overheating se bachata hai, jisse uski efficiency aur lifespan badhti hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Material handling ke liye kya precaution leni chahiye?",
+      "options": {
+        "A": "Heavy material ko akele uthana",
+        "B": "Proper lifting techniques use karna ya lifting equipment ka sahara lena",
+        "C": "Rough surface par material drag karna",
+        "D": "Gloves nahi pehenna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper material handling techniques aur equipment se back injuries aur accidents se bacha ja sakta hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Welding ke liye 'Consumables' kya hote hain?",
+      "options": {
+        "A": "Welding machine",
+        "B": "Shielding gas, electrodes, filler wires jo welding process mein consume ho jate hain",
+        "C": "Safety glasses",
+        "D": "Workpiece"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Consumables woh materials hain jo welding process ke dauran use ho jate hain aur unhe regularly replace karna padta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek welding technician ke liye continuous learning kyu zaroori hai?",
+      "options": {
+        "A": "Kyuki usko naye tools nahi sikhne",
+        "B": "Industry mein naye processes aur materials aate rehte hain, skills ko up-to-date rakhne ke liye",
+        "C": "Kyuki usko bas ek hi kaam karna hai",
+        "D": "Kyuki usko sab kuch aata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Welding industry constantly evolve karti hai, isliye up-to-date rehne ke liye continuous learning essential hai."
+    }
+  ]
+}

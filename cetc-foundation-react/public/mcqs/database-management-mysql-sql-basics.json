@@ -1,0 +1,1443 @@
+{
+  "course_name": "Database Management — MySQL & SQL Basics",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Databases & DBMS",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Relational Database Concepts & SQL Introduction",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "SQL Data Definition Language (DDL)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "SQL Data Manipulation Language (DML) - SELECT Statement",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "SQL DML - INSERT, UPDATE, DELETE & Transactions",
+      "question_range": "Q69-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "MySQL Specific Features & Basic Administration",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "What is the primary purpose of a Database Management System (DBMS)?",
+      "options": {
+        "A": "To create spreadsheets for data analysis.",
+        "B": "To manage and organize data efficiently and securely.",
+        "C": "To design graphic user interfaces for applications.",
+        "D": "To perform complex mathematical calculations."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A DBMS is a software system designed to manage and organize data in a database, ensuring its efficiency, integrity, and security."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Which of the following is NOT a common type of database model?",
+      "options": {
+        "A": "Relational Model",
+        "B": "Hierarchical Model",
+        "C": "Object-Oriented Model",
+        "D": "Procedural Model"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Procedural model is a programming paradigm, not a database model. Common database models include Relational, Hierarchical, Network, Object-Oriented, and NoSQL models."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "What does the acronym 'SQL' stand for?",
+      "options": {
+        "A": "Structured Query Language",
+        "B": "Standard Question Logic",
+        "C": "Sequential Query Logic",
+        "D": "System Query Language"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "SQL stands for Structured Query Language, which is the standard language for managing and manipulating relational databases."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Which of the following describes data redundancy?",
+      "options": {
+        "A": "Data is stored in only one location.",
+        "B": "Multiple copies of the same data are stored in different places.",
+        "C": "Data is encrypted for security.",
+        "D": "Data is organized hierarchically."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Data redundancy occurs when the same piece of data is stored in multiple places within a database or across different databases, often leading to inconsistencies and wasted storage."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "A collection of related data that is organized so that it can be easily accessed, managed, and updated is called a:",
+      "options": {
+        "A": "Spreadsheet",
+        "B": "Document",
+        "C": "Database",
+        "D": "Folder"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A database is an organized collection of data, typically stored and accessed electronically from a computer system."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Which component of a DBMS is responsible for handling user requests and interacting with the database files?",
+      "options": {
+        "A": "Query Processor",
+        "B": "Report Generator",
+        "C": "Application Program Interface",
+        "D": "Graphical User Interface"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "The Query Processor (or Query Optimizer) is a core component that interprets SQL queries, optimizes their execution plan, and interacts with the storage manager to retrieve/modify data."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "What is data independence in the context of DBMS?",
+      "options": {
+        "A": "The ability to access data without any security restrictions.",
+        "B": "The separation of data definition from the programs that access the data.",
+        "C": "The feature that allows data to be stored across multiple servers.",
+        "D": "The process of backing up data automatically."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Data independence refers to the ability to modify the schema at one level (e.g., physical or logical) without affecting the schema at a higher level or the application programs that use the data. This means changes to physical storage don't require changes to logical views or applications."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Which of the following is an advantage of using a DBMS?",
+      "options": {
+        "A": "Increased data redundancy",
+        "B": "Reduced data security",
+        "C": "Improved data sharing and security",
+        "D": "Only supports single-user access"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "DBMS provides centralized control of data, leading to improved data sharing, better data security, and reduced data redundancy."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "In a client-server database architecture, where does the actual database reside?",
+      "options": {
+        "A": "On the client machine",
+        "B": "On the server machine",
+        "C": "Partially on client, partially on server",
+        "D": "On a cloud storage service only"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "In a client-server architecture, the database and the DBMS software typically reside on the server machine, which handles data storage, retrieval, and processing requests from client applications."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "What is the role of a Database Administrator (DBA)?",
+      "options": {
+        "A": "To write application code that interacts with the database.",
+        "B": "To manage and maintain the database system, ensuring its performance and security.",
+        "C": "To create user interfaces for database applications.",
+        "D": "To perform data entry into the database tables."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A DBA is responsible for the overall management of the database system, including installation, configuration, monitoring, backup/recovery, security, and performance tuning."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Which level of data abstraction describes 'what data is stored in the database' and 'the relationships among that data'?",
+      "options": {
+        "A": "Physical Level",
+        "B": "Logical Level",
+        "C": "View Level",
+        "D": "Conceptual Level"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The logical level (or conceptual level) describes the data stored in the database and the relationships among the data. It's a higher level of abstraction than the physical level, focusing on the overall logical structure of the database."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Which of the following is a disadvantage of file processing systems compared to DBMS?",
+      "options": {
+        "A": "Easier data sharing",
+        "B": "Better data security",
+        "C": "Increased data redundancy and inconsistency",
+        "D": "Faster data retrieval for complex queries"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "File processing systems often suffer from data redundancy (duplicate data in different files) and inconsistency (different values for the same data in different files) because each application manages its own data files independently."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "What is an 'entity' in a database context?",
+      "options": {
+        "A": "A specific piece of data, like a name or age.",
+        "B": "A real-world object or concept about which data is stored.",
+        "C": "A programming language used to query databases.",
+        "D": "A software application that accesses the database."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "In database terms, an entity represents a real-world object or concept (e.g., a customer, a product, an order) about which data is collected and stored."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Which of these is a widely used open-source relational DBMS?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "MySQL",
+        "C": "Adobe Photoshop",
+        "D": "Microsoft Excel"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MySQL is a very popular open-source Relational Database Management System (RDBMS). The other options are not DBMS products."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "A 'tuple' in a relational database refers to what?",
+      "options": {
+        "A": "A column in a table.",
+        "B": "A row in a table.",
+        "C": "The entire table.",
+        "D": "A database schema."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "In relational database terminology, a 'tuple' is another name for a row or record in a table, representing a single instance of an entity."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "The overall design of the database is called the:",
+      "options": {
+        "A": "Instance",
+        "B": "Schema",
+        "C": "Relation",
+        "D": "Attribute"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The schema is the logical design or structure of the database, defining tables, columns, relationships, and constraints. An instance refers to the actual data stored in the database at a particular moment."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Which of the following is a characteristic of ACID properties in database transactions?",
+      "options": {
+        "A": "Accessibility, Consistency, Isolation, Durability",
+        "B": "Atomicity, Consistency, Isolation, Durability",
+        "C": "Availability, Consistency, Integrity, Data sharing",
+        "D": "Atomicity, Concurrency, Integrity, Durability"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ACID is an acronym for Atomicity, Consistency, Isolation, and Durability. These are a set of properties that guarantee that database transactions are processed reliably."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "In a relational database, what is a 'table' also commonly known as?",
+      "options": {
+        "A": "Record",
+        "B": "Field",
+        "C": "Relation",
+        "D": "Schema"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In relational database theory, a table is formally referred to as a 'relation'."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Which of the following is used to uniquely identify each row in a table?",
+      "options": {
+        "A": "Foreign Key",
+        "B": "Candidate Key",
+        "C": "Primary Key",
+        "D": "Super Key"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A Primary Key is a column or a set of columns in a table that uniquely identifies each row/record in that table. It cannot contain NULL values and must be unique."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "What is an 'attribute' in the context of a relational database?",
+      "options": {
+        "A": "A row in a table.",
+        "B": "A column in a table.",
+        "C": "A relationship between tables.",
+        "D": "A database query."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "An attribute refers to a column in a table, representing a specific characteristic or property of the entity that the table describes (e.g., 'Name' or 'Age')."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "A Foreign Key is used to establish a link between two tables. What does it reference?",
+      "options": {
+        "A": "A primary key in the same table.",
+        "B": "A primary key in another table.",
+        "C": "Any column in another table.",
+        "D": "A unique constraint in the same table."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Foreign Key is a column or a set of columns in one table that refers to the Primary Key in another table, establishing a relationship between them."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Which SQL command is used to retrieve data from a database?",
+      "options": {
+        "A": "UPDATE",
+        "B": "INSERT",
+        "C": "SELECT",
+        "D": "DELETE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The SELECT statement is the primary SQL command used to query the database and retrieve data that matches specified criteria."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "What is the purpose of the 'WHERE' clause in an SQL SELECT statement?",
+      "options": {
+        "A": "To specify the columns to be retrieved.",
+        "B": "To sort the results.",
+        "C": "To filter rows based on a specified condition.",
+        "D": "To group rows that have the same values."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The WHERE clause is used to extract only those records that fulfill a specified condition, effectively filtering the rows returned by a query."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Which type of relationship exists when one row in table A can be related to many rows in table B, but one row in table B can only be related to one row in table A?",
+      "options": {
+        "A": "One-to-One",
+        "B": "One-to-Many",
+        "C": "Many-to-Many",
+        "D": "Self-Referencing"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "This describes a One-to-Many relationship, where a parent record can have multiple child records, but each child record has only one parent."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "What does a 'NULL' value represent in a database table?",
+      "options": {
+        "A": "The number zero.",
+        "B": "An empty string.",
+        "C": "The absence of a value; unknown or not applicable.",
+        "D": "An error condition."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "NULL represents the absence of a value. It is not the same as zero or an empty string; it means that no data value exists for that attribute in that record."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Which of the following is a DDL command?",
+      "options": {
+        "A": "SELECT",
+        "B": "INSERT",
+        "C": "CREATE",
+        "D": "UPDATE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "CREATE is a Data Definition Language (DDL) command used to create database objects like tables, databases, or indexes. SELECT, INSERT, and UPDATE are DML commands."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Normalization in database design primarily aims to:",
+      "options": {
+        "A": "Improve query performance by adding redundancy.",
+        "B": "Reduce data redundancy and improve data integrity.",
+        "C": "Encrypt sensitive data for security.",
+        "D": "Increase the number of tables in a database."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Normalization is a process of organizing the columns and tables of a relational database to minimize data redundancy and improve data integrity. It aims to eliminate undesirable characteristics like Insertion, Update, and Deletion Anomalies."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Which SQL keyword is used to sort the result-set of a query?",
+      "options": {
+        "A": "SORT BY",
+        "B": "ORDER BY",
+        "C": "ARRANGE BY",
+        "D": "GROUP BY"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The ORDER BY clause is used to sort the result-set in ascending (ASC) or descending (DESC) order based on one or more columns."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "What is a 'Composite Key'?",
+      "options": {
+        "A": "A key that is composed of only one attribute.",
+        "B": "A key that is composed of two or more attributes.",
+        "C": "A key that references another table.",
+        "D": "A key that can have NULL values."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Composite Key is a primary key that consists of two or more attributes (columns) whose values, when combined, uniquely identify each record in a table."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Which of the following is an example of an aggregate function in SQL?",
+      "options": {
+        "A": "UPPER()",
+        "B": "SUBSTRING()",
+        "C": "COUNT()",
+        "D": "CONCAT()"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Aggregate functions perform calculations on a set of rows and return a single summary value. COUNT(), SUM(), AVG(), MIN(), and MAX() are common aggregate functions."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "What is the purpose of the 'DISTINCT' keyword in a SELECT statement?",
+      "options": {
+        "A": "To select only numerical data.",
+        "B": "To return only unique values in the specified column(s).",
+        "C": "To sort the results in descending order.",
+        "D": "To limit the number of rows returned."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The DISTINCT keyword is used in conjunction with SELECT to eliminate duplicate rows from the result set, returning only unique values."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Which operator is used to test for the absence of a value in SQL?",
+      "options": {
+        "A": "IS NULL",
+        "B": "= NULL",
+        "C": "NULL CHECK",
+        "D": "HAS NO VALUE"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The IS NULL operator is used to test for NULL values. You cannot use '=' or '!=' to test for NULLs because NULL is not a value but an absence of value."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "What is a 'schema' in the context of a relational database?",
+      "options": {
+        "A": "The actual data stored in the tables.",
+        "B": "A logical design of the database, defining tables, columns, and relationships.",
+        "C": "A user account with specific permissions.",
+        "D": "A physical storage location for database files."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A schema is the blueprint or logical structure of a database, outlining how the data is organized, including table definitions, column types, constraints, and relationships."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Which of the following is NOT a characteristic of a relational database?",
+      "options": {
+        "A": "Data is stored in tables (relations).",
+        "B": "Relationships are established using primary and foreign keys.",
+        "C": "Supports complex, hierarchical data structures without tables.",
+        "D": "Data integrity is maintained through constraints."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Relational databases are characterized by storing data in tables and using keys for relationships. Complex hierarchical structures without tables are more typical of NoSQL databases or older hierarchical models, not relational databases."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Which SQL command is used to create a new table in a database?",
+      "options": {
+        "A": "ADD TABLE",
+        "B": "INSERT TABLE",
+        "C": "MAKE TABLE",
+        "D": "CREATE TABLE"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The CREATE TABLE statement is used to create a new table in a database. It specifies the table name and the columns with their data types and constraints."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Which SQL command is used to delete an existing table from a database?",
+      "options": {
+        "A": "REMOVE TABLE",
+        "B": "ERASE TABLE",
+        "C": "DELETE TABLE",
+        "D": "DROP TABLE"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The DROP TABLE statement is used to remove an entire table from the database, including all its data, indexes, and constraints. DELETE TABLE is not a valid SQL command for this purpose."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Which SQL command is used to add, delete, or modify columns in an existing table?",
+      "options": {
+        "A": "UPDATE TABLE",
+        "B": "MODIFY TABLE",
+        "C": "ALTER TABLE",
+        "D": "CHANGE TABLE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The ALTER TABLE statement is used to modify the structure of an existing table, such as adding, dropping, or modifying columns, or adding/dropping constraints."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "What is the correct syntax to create a table named 'Employees' with columns 'id' (INT, Primary Key) and 'name' (VARCHAR(100))?",
+      "options": {
+        "A": "CREATE TABLE Employees (id INT PRIMARY KEY, name VARCHAR(100));",
+        "B": "CREATE TABLE Employees (id INT, name VARCHAR(100) PRIMARY KEY);",
+        "C": "NEW TABLE Employees (id INT, name VARCHAR(100));",
+        "D": "ADD TABLE Employees (id INT PRIMARY KEY, name VARCHAR(100));"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "The correct syntax for CREATE TABLE involves specifying the table name, followed by column definitions (name, data type, and constraints) in parentheses."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Which data type would you use for storing dates and times in MySQL?",
+      "options": {
+        "A": "DATE_TIME",
+        "B": "TIME_DATE",
+        "C": "DATETIME",
+        "D": "TIMEANDDATE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The DATETIME data type in MySQL is used to store both date and time values. Other options like DATE, TIME, and TIMESTAMP also exist for specific needs."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "What does the 'NOT NULL' constraint ensure?",
+      "options": {
+        "A": "The column can only contain numerical values.",
+        "B": "The column must contain a unique value.",
+        "C": "The column cannot contain NULL values.",
+        "D": "The column must be indexed for faster access."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The NOT NULL constraint ensures that a column cannot have a NULL value. It forces a column to always contain a value."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Which SQL command is used to remove all rows from a table, but keep the table structure intact?",
+      "options": {
+        "A": "DELETE FROM table_name;",
+        "B": "REMOVE FROM table_name;",
+        "C": "TRUNCATE TABLE table_name;",
+        "D": "DROP TABLE table_name;"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "TRUNCATE TABLE removes all rows from a table, effectively emptying it, but leaves the table structure, columns, indexes, and constraints intact. It's faster than DELETE FROM table_name without a WHERE clause, and it typically resets auto-increment counters."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "How do you add a new column named 'email' with VARCHAR(255) data type to an existing table named 'Customers'?",
+      "options": {
+        "A": "ALTER TABLE Customers ADD COLUMN email VARCHAR(255);",
+        "B": "MODIFY TABLE Customers ADD email VARCHAR(255);",
+        "C": "UPDATE Customers ADD email VARCHAR(255);",
+        "D": "ALTER Customers ADD email VARCHAR(255);"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "The ALTER TABLE statement is used with the ADD COLUMN clause to add a new column to an existing table. The correct syntax is ALTER TABLE table_name ADD COLUMN column_name datatype."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Which constraint ensures that all values in a column are different?",
+      "options": {
+        "A": "PRIMARY KEY",
+        "B": "FOREIGN KEY",
+        "C": "UNIQUE",
+        "D": "CHECK"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The UNIQUE constraint ensures that all values in a column (or a group of columns) are distinct. Unlike PRIMARY KEY, a UNIQUE column can accept one NULL value."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "What is the purpose of the 'DEFAULT' constraint?",
+      "options": {
+        "A": "To specify a default value for a column when no value is provided during INSERT.",
+        "B": "To make a column the primary key by default.",
+        "C": "To set the default table name for queries.",
+        "D": "To define the default database to connect to."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "The DEFAULT constraint is used to provide a default value for a column. If no value is specified for that column during an INSERT operation, the default value will be assigned."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Which of the following data types would be most suitable for storing a person's age (a whole number) in MySQL?",
+      "options": {
+        "A": "VARCHAR",
+        "B": "BOOLEAN",
+        "C": "INT",
+        "D": "DECIMAL"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "INT (Integer) is the most appropriate data type for storing whole numbers like age. VARCHAR is for strings, BOOLEAN for true/false, and DECIMAL for numbers with decimal places."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "What is the effect of `DROP DATABASE my_database;`?",
+      "options": {
+        "A": "It deletes all tables within 'my_database' but keeps the database itself.",
+        "B": "It deletes the 'my_database' along with all its tables and data.",
+        "C": "It renames 'my_database' to 'my_database_old'.",
+        "D": "It detaches 'my_database' from the server without deleting it."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The DROP DATABASE statement is a DDL command that permanently deletes an entire database, including all its tables, data, indexes, and other objects. This action is irreversible."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "How can you change the data type of an existing column 'price' from INT to DECIMAL(10,2) in a table named 'Products'?",
+      "options": {
+        "A": "ALTER TABLE Products MODIFY COLUMN price DECIMAL(10,2);",
+        "B": "CHANGE COLUMN Products price DECIMAL(10,2);",
+        "C": "UPDATE TABLE Products SET price_type = DECIMAL(10,2);",
+        "D": "ALTER TABLE Products CHANGE TYPE price DECIMAL(10,2);"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "The ALTER TABLE statement with MODIFY COLUMN (or CHANGE COLUMN in MySQL, which also allows renaming) is used to change the data type of an existing column. The syntax is ALTER TABLE table_name MODIFY COLUMN column_name new_datatype."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Which statement is true regarding the PRIMARY KEY and UNIQUE constraints?",
+      "options": {
+        "A": "Both can contain multiple NULL values.",
+        "B": "A table can have multiple PRIMARY KEYs but only one UNIQUE constraint.",
+        "C": "PRIMARY KEY enforces uniqueness and NOT NULL; UNIQUE enforces uniqueness but allows one NULL.",
+        "D": "UNIQUE keys are always indexed, but PRIMARY KEYs are not."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A PRIMARY KEY automatically implies UNIQUE and NOT NULL. A UNIQUE constraint ensures uniqueness but allows a single NULL value (as NULL is considered different from any other value, including other NULLs in some SQL dialects, but typically only one NULL is allowed per UNIQUE column)."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Which command is used to create an index on a table?",
+      "options": {
+        "A": "ADD INDEX",
+        "B": "BUILD INDEX",
+        "C": "CREATE INDEX",
+        "D": "MAKE INDEX"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The CREATE INDEX statement is used to create indexes on tables. Indexes are used to retrieve data from the database more quickly."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "When defining a foreign key, what does 'ON DELETE CASCADE' do?",
+      "options": {
+        "A": "Prevents deletion of parent row if child rows exist.",
+        "B": "Sets foreign key values to NULL if the parent row is deleted.",
+        "C": "Deletes all child rows when the corresponding parent row is deleted.",
+        "D": "Generates an error if the parent row is deleted."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "ON DELETE CASCADE is a referential action that specifies that if a row in the parent table is deleted, then the corresponding rows in the child table (that reference the deleted parent row) will also be automatically deleted."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Which MySQL data type is suitable for storing a small amount of text, like a short name, with a fixed length?",
+      "options": {
+        "A": "TEXT",
+        "B": "VARCHAR",
+        "C": "CHAR",
+        "D": "TINYTEXT"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "CHAR(N) stores a fixed-length string of N characters. If the string is shorter than N, it's padded with spaces. VARCHAR(N) stores a variable-length string up to N characters, only using the space needed. For fixed, small lengths, CHAR is efficient."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which SQL statement is used to fetch data from a database?",
+      "options": {
+        "A": "EXTRACT",
+        "B": "GET",
+        "C": "OPEN",
+        "D": "SELECT"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The SELECT statement is the fundamental SQL command for retrieving data from one or more tables in a database."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "How do you select all columns from a table named 'Customers'?",
+      "options": {
+        "A": "SELECT * FROM Customers;",
+        "B": "SELECT ALL FROM Customers;",
+        "C": "SELECT Customers.* FROM Customers;",
+        "D": "GET * FROM Customers;"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The asterisk (*) is a wildcard character used in the SELECT statement to indicate that all columns from the specified table should be retrieved."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Which clause is used to filter records based on a specified condition?",
+      "options": {
+        "A": "FILTER BY",
+        "B": "CONDITION",
+        "C": "WHERE",
+        "D": "HAVING"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The WHERE clause is used to specify a condition that filters the rows returned by a SELECT statement before any grouping occurs."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "What is the correct way to select customers whose 'City' is 'London'?",
+      "options": {
+        "A": "SELECT * FROM Customers WHERE City = 'London';",
+        "B": "SELECT * FROM Customers IF City = 'London';",
+        "C": "SELECT City = 'London' FROM Customers;",
+        "D": "SELECT Customers WHERE City = 'London';"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The WHERE clause is followed by the column name, an operator (like '=' for equality), and the value to match. String values are enclosed in single quotes."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Which operator is used for pattern matching in SQL?",
+      "options": {
+        "A": "MATCH",
+        "B": "LIKE",
+        "C": "CONTAINS",
+        "D": "FIND"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The LIKE operator is used in a WHERE clause to search for a specified pattern in a column. It often uses wildcards like '%' (for any sequence of characters) and '_' (for any single character)."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Which wildcard character represents zero or more characters in a LIKE clause?",
+      "options": {
+        "A": "_",
+        "B": "?",
+        "C": "*",
+        "D": "%"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The '%' wildcard character matches any sequence of zero or more characters. For example, 'A%' matches any string starting with 'A'."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Which clause is used to group rows that have the same values in specified columns into a summary row?",
+      "options": {
+        "A": "ORDER BY",
+        "B": "GROUP BY",
+        "C": "ARRANGE BY",
+        "D": "CLUSTER BY"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The GROUP BY clause is used with aggregate functions (like COUNT, SUM, AVG) to group the result-set by one or more columns. For each group, the aggregate function calculates a single value."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Which clause is used to filter the results of aggregate functions?",
+      "options": {
+        "A": "WHERE",
+        "B": "FILTER",
+        "C": "HAVING",
+        "D": "GROUP BY"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The HAVING clause is used to filter groups based on conditions applied to aggregate functions, whereas the WHERE clause filters individual rows before grouping."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "What is the result of `SELECT COUNT(DISTINCT City) FROM Customers;`?",
+      "options": {
+        "A": "The total number of customers.",
+        "B": "The number of customers from a specific city.",
+        "C": "The number of unique cities in the Customers table.",
+        "D": "The sum of all city names."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "COUNT(DISTINCT City) counts the number of unique, non-NULL values in the 'City' column, effectively telling you how many different cities are represented in the Customers table."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Which JOIN type returns only the rows that have matching values in both tables?",
+      "options": {
+        "A": "LEFT JOIN",
+        "B": "RIGHT JOIN",
+        "C": "FULL JOIN",
+        "D": "INNER JOIN"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "An INNER JOIN returns only the rows where there is a match in both tables based on the join condition. Rows without a match in either table are excluded."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "What is the purpose of the `AS` keyword in a SELECT statement?",
+      "options": {
+        "A": "To specify the data type of a column.",
+        "B": "To create an alias for a column or a table.",
+        "C": "To indicate an ascending order sort.",
+        "D": "To perform an arithmetic operation."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The AS keyword is used to assign a temporary name (an alias) to a column or a table, making the result set or the query more readable."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Consider two tables: `Orders` (OrderID, CustomerID) and `Customers` (CustomerID, CustomerName). How would you list all orders along with the customer names, including orders that do not have a matching customer?",
+      "options": {
+        "A": "SELECT * FROM Orders INNER JOIN Customers ON Orders.CustomerID = Customers.CustomerID;",
+        "B": "SELECT * FROM Orders RIGHT JOIN Customers ON Orders.CustomerID = Customers.CustomerID;",
+        "C": "SELECT * FROM Orders LEFT JOIN Customers ON Orders.CustomerID = Customers.CustomerID;",
+        "D": "SELECT * FROM Orders FULL JOIN Customers ON Orders.CustomerID = Customers.CustomerID;"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A LEFT JOIN (or LEFT OUTER JOIN) returns all rows from the left table (Orders) and the matching rows from the right table (Customers). If there is no match, NULL is returned for columns from the right table. This ensures all orders are listed."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Which operator combines the result-set of two or more SELECT statements and removes duplicate rows?",
+      "options": {
+        "A": "MERGE",
+        "B": "COMBINE",
+        "C": "UNION",
+        "D": "JOIN"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The UNION operator is used to combine the result-set of two or more SELECT statements. It automatically removes duplicate rows. UNION ALL combines results without removing duplicates."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "What is a subquery in SQL?",
+      "options": {
+        "A": "A query that is executed before the main query.",
+        "B": "A query nested inside another SQL query.",
+        "C": "A query that only returns a single row.",
+        "D": "A query used exclusively for data definition."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A subquery (or inner query) is a query embedded within another SQL query. It can be used in WHERE, FROM, or SELECT clauses, and its result is used by the outer query."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Which operator checks if a value is within a range?",
+      "options": {
+        "A": "BETWEEN",
+        "B": "RANGE",
+        "C": "IN RANGE",
+        "D": "LIMIT"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The BETWEEN operator selects values within a given range, inclusive of the start and end values. It can be used with numbers, text, or dates."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "To get the top 5 most expensive products from a 'Products' table, which clause would you use in MySQL?",
+      "options": {
+        "A": "TOP 5",
+        "B": "LIMIT 5",
+        "C": "FETCH FIRST 5 ROWS ONLY",
+        "D": "SELECT FIRST 5"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "In MySQL, the LIMIT clause is used to restrict the number of rows returned by a SELECT statement. To get the top 5, you would typically ORDER BY price DESC and then LIMIT 5."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Which of the following functions returns the current date and time in MySQL?",
+      "options": {
+        "A": "GETDATE()",
+        "B": "NOW()",
+        "C": "CURRENT_TIME()",
+        "D": "SYSDATE()"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "NOW() is a common MySQL function that returns the current date and time as a DATETIME value. GETDATE() is common in SQL Server, and SYSDATE() in Oracle."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Which SQL command is used to add new rows of data into a table?",
+      "options": {
+        "A": "ADD ROW",
+        "B": "INSERT INTO",
+        "C": "CREATE ROW",
+        "D": "PUT DATA"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The INSERT INTO statement is used to add new records (rows) to a table in the database."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "What is the correct syntax to insert a new customer with 'id' 101 and 'name' 'Alice' into the 'Customers' table?",
+      "options": {
+        "A": "INSERT INTO Customers VALUES (101, 'Alice');",
+        "B": "INSERT Customers (id, name) VALUES (101, 'Alice');",
+        "C": "ADD Customer (101, 'Alice');",
+        "D": "INSERT INTO Customers SET id = 101, name = 'Alice';"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The basic INSERT INTO syntax allows specifying values for all columns in the order they appear in the table definition. Option B is also valid if column names are explicitly listed."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Which SQL command is used to modify existing data in a table?",
+      "options": {
+        "A": "MODIFY",
+        "B": "CHANGE",
+        "C": "ALTER",
+        "D": "UPDATE"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The UPDATE statement is used to modify existing records in a table. It is typically used with a WHERE clause to specify which rows to update."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "How do you update the 'City' of a customer with 'id' 101 to 'New York' in the 'Customers' table?",
+      "options": {
+        "A": "MODIFY Customers SET City = 'New York' WHERE id = 101;",
+        "B": "UPDATE Customers City = 'New York' WHERE id = 101;",
+        "C": "UPDATE Customers SET City = 'New York' WHERE id = 101;",
+        "D": "ALTER Customers SET City = 'New York' WHERE id = 101;"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The correct syntax for updating records is UPDATE table_name SET column1 = value1, column2 = value2 WHERE condition."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Which SQL command is used to delete existing rows from a table?",
+      "options": {
+        "A": "REMOVE FROM",
+        "B": "ERASE FROM",
+        "C": "DELETE FROM",
+        "D": "DROP ROWS FROM"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The DELETE FROM statement is used to remove one or more rows from a table. If no WHERE clause is specified, all rows will be deleted."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "What happens if you run `DELETE FROM Customers;` without a WHERE clause?",
+      "options": {
+        "A": "It will delete the 'Customers' table itself.",
+        "B": "It will delete only the first row from the 'Customers' table.",
+        "C": "It will delete all rows from the 'Customers' table.",
+        "D": "It will result in a syntax error."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A DELETE FROM statement without a WHERE clause will delete all records (rows) from the specified table, but it will leave the table structure intact."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "What are the four properties that define a transaction in a database system (ACID)?",
+      "options": {
+        "A": "Access, Consistency, Integrity, Durability",
+        "B": "Atomicity, Concurrency, Isolation, Durability",
+        "C": "Atomicity, Consistency, Isolation, Durability",
+        "D": "Availability, Concurrency, Integrity, Data sharing"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "ACID properties ensure reliable processing of database transactions: Atomicity (all or nothing), Consistency (valid state before and after), Isolation (concurrent transactions don't interfere), and Durability (committed changes are permanent)."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Which SQL command is used to start a transaction?",
+      "options": {
+        "A": "START TRANSACTION;",
+        "B": "BEGIN TRANSACTION;",
+        "C": "INIT TRANSACTION;",
+        "D": "Both A and B are commonly used."
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Both `START TRANSACTION;` (common in MySQL) and `BEGIN TRANSACTION;` (common in SQL Server/PostgreSQL) are used to initiate a new transaction."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "What does the `COMMIT` command do in a transaction?",
+      "options": {
+        "A": "Reverts all changes made since the last COMMIT or ROLLBACK.",
+        "B": "Makes all changes made during the transaction permanent.",
+        "C": "Starts a new transaction.",
+        "D": "Saves the transaction to a temporary file."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The COMMIT command is used to save all changes made during the current transaction permanently to the database. Once committed, changes cannot be rolled back."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "What does the `ROLLBACK` command do in a transaction?",
+      "options": {
+        "A": "Saves the current state of the database.",
+        "B": "Undoes all changes made since the last COMMIT or ROLLBACK.",
+        "C": "Restarts the database server.",
+        "D": "Applies changes only if no errors occurred."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The ROLLBACK command is used to undo all changes made during the current transaction. It restores the database to the state it was in before the transaction began."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Which isolation level prevents 'dirty reads'?",
+      "options": {
+        "A": "READ UNCOMMITTED",
+        "B": "READ COMMITTED",
+        "C": "REPEATABLE READ",
+        "D": "SERIALIZABLE"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dirty reads occur when a transaction reads data written by another uncommitted transaction. READ COMMITTED isolation level prevents dirty reads by ensuring that a transaction can only see data that has been committed by other transactions."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "In MySQL, which statement can be used to insert multiple rows in a single query?",
+      "options": {
+        "A": "INSERT INTO Customers VALUES (1, 'A'), (2, 'B'), (3, 'C');",
+        "B": "INSERT MULTIPLE INTO Customers VALUES (1, 'A'), (2, 'B');",
+        "C": "INSERT BATCH INTO Customers VALUES (1, 'A'), (2, 'B');",
+        "D": "MULTIPLE INSERT Customers (1, 'A');"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "MySQL (and standard SQL) allows inserting multiple rows in a single INSERT INTO statement by providing comma-separated value lists after the VALUES keyword."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Which of the following scenarios is NOT suitable for a database transaction?",
+      "options": {
+        "A": "Transferring money between bank accounts.",
+        "B": "Booking a flight ticket.",
+        "C": "Updating a user's profile picture.",
+        "D": "Generating a daily sales report."
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Generating a daily sales report is typically a read-only operation and doesn't require the atomicity or consistency guarantees of a transaction. Money transfers, flight bookings, and complex profile updates often involve multiple dependent operations that must succeed or fail as a single unit, making them ideal for transactions."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "What is a 'savepoint' in a transaction?",
+      "options": {
+        "A": "A point where the transaction is automatically committed.",
+        "B": "A temporary marker within a transaction to which you can partially ROLLBACK.",
+        "C": "A backup copy of the database before the transaction starts.",
+        "D": "A point where the transaction is paused."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A savepoint allows you to set a marker within a transaction. You can then ROLLBACK TO a specific savepoint, undoing only the changes made after that savepoint, without rolling back the entire transaction."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Which statement best describes the 'Atomicity' property of ACID transactions?",
+      "options": {
+        "A": "All transactions run independently of each other.",
+        "B": "The transaction must begin and end in a consistent state.",
+        "C": "Either all changes within a transaction are applied, or none are.",
+        "D": "Once a transaction is committed, its changes are permanent."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Atomicity ensures that a transaction is treated as a single, indivisible unit of work. If any part of the transaction fails, the entire transaction is aborted, and the database remains in its state prior to the transaction."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "If you `UPDATE` a table without a `WHERE` clause, what will be the impact?",
+      "options": {
+        "A": "Only the first row will be updated.",
+        "B": "The database will prompt for a WHERE clause.",
+        "C": "All rows in the table will be updated with the specified values.",
+        "D": "It will cause a syntax error."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "An UPDATE statement without a WHERE clause will apply the specified changes to every single row in the table. This can be a very destructive operation if done accidentally."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Which of these is a common MySQL statement for creating a new user?",
+      "options": {
+        "A": "CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';",
+        "B": "ADD USER 'username' PASSWORD 'password';",
+        "C": "NEW USER 'username' WITH PASSWORD 'password';",
+        "D": "INSERT INTO Users (username, password) VALUES ('username', 'password');"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The `CREATE USER` statement is used in MySQL to create new database users, specifying their username, host from which they can connect, and their password."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "What is the default port number for MySQL server?",
+      "options": {
+        "A": "80",
+        "B": "443",
+        "C": "3306",
+        "D": "22"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The standard default port for MySQL server communication is 3306."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Which MySQL storage engine is known for supporting transactions and foreign key constraints?",
+      "options": {
+        "A": "MyISAM",
+        "B": "CSV",
+        "C": "InnoDB",
+        "D": "ARCHIVE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "InnoDB is the default and most widely used storage engine for MySQL, offering ACID-compliant transactions, foreign key support, and crash recovery."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Which command is used to show all available databases in MySQL?",
+      "options": {
+        "A": "LIST DATABASES;",
+        "B": "SHOW DATABASES;",
+        "C": "DISPLAY DATABASES;",
+        "D": "GET DATABASES;"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `SHOW DATABASES;` command lists all databases that the current user has access to on the MySQL server."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "How do you select a specific database to work with in MySQL?",
+      "options": {
+        "A": "SELECT my_database;",
+        "B": "USE my_database;",
+        "C": "OPEN my_database;",
+        "D": "SET DATABASE my_database;"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `USE database_name;` command is used to specify the default database for subsequent SQL statements, so you don't have to prefix table names with the database name."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Which command displays the structure of a table named 'Products' in MySQL?",
+      "options": {
+        "A": "DESCRIBE Products;",
+        "B": "SHOW COLUMNS FROM Products;",
+        "C": "EXPLAIN TABLE Products;",
+        "D": "Both A and B"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Both `DESCRIBE table_name;` (or `DESC table_name;`) and `SHOW COLUMNS FROM table_name;` are used in MySQL to display the column structure, data types, and constraints of a table."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "What is the primary disadvantage of the MyISAM storage engine compared to InnoDB?",
+      "options": {
+        "A": "Slower for read operations.",
+        "B": "Does not support full-text indexing.",
+        "C": "Lacks support for transactions and foreign key constraints.",
+        "D": "Requires more disk space."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "MyISAM does not support transactions (ACID properties) or foreign key constraints, making it unsuitable for applications requiring high data integrity. InnoDB provides these critical features."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Which command is used to grant specific permissions to a user on a database or table in MySQL?",
+      "options": {
+        "A": "ALLOW",
+        "B": "PERMIT",
+        "C": "GRANT",
+        "D": "AUTHORIZE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The `GRANT` statement is used to give specific privileges (like SELECT, INSERT, UPDATE, DELETE) to a user on a database, table, or other database object."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "What is the purpose of `FLUSH PRIVILEGES;` after granting new permissions to a user in MySQL?",
+      "options": {
+        "A": "To commit the changes to the database permanently.",
+        "B": "To clear the user's session cache.",
+        "C": "To reload the grant tables so the server notices the changes.",
+        "D": "To disconnect all active user sessions."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "After making changes to user privileges using GRANT or REVOKE, `FLUSH PRIVILEGES;` is often necessary to tell the MySQL server to reload its internal grant tables, ensuring the new permissions take effect immediately without restarting the server."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "How can you check the current version of MySQL server you are connected to?",
+      "options": {
+        "A": "SELECT VERSION();",
+        "B": "SHOW VERSION;",
+        "C": "GET MYSQL_VERSION;",
+        "D": "SELECT @@mysql_version;"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The `SELECT VERSION();` statement is a common way to retrieve the version string of the MySQL server."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Which MySQL utility is commonly used for backing up databases?",
+      "options": {
+        "A": "mysqlrestore",
+        "B": "mysqldump",
+        "C": "mysqlcopy",
+        "D": "mysqlbackup"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "mysqldump is a command-line utility provided by MySQL for creating logical backups of databases. It generates SQL statements that can be used to recreate the database."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "What does `AUTO_INCREMENT` do in MySQL?",
+      "options": {
+        "A": "Automatically increases the size of a column.",
+        "B": "Assigns a unique, sequential number to new rows automatically.",
+        "C": "Increments a counter for each successful transaction.",
+        "D": "Automatically adds new columns to a table."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The AUTO_INCREMENT attribute can be applied to an integer column (typically a primary key) to automatically generate a unique, sequential number for that column each time a new row is inserted."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Which command would you use to change the password for an existing MySQL user 'dev_user'?",
+      "options": {
+        "A": "SET PASSWORD FOR 'dev_user'@'localhost' = 'new_pass';",
+        "B": "UPDATE USER 'dev_user'@'localhost' SET PASSWORD = 'new_pass';",
+        "C": "ALTER USER 'dev_user'@'localhost' IDENTIFIED BY 'new_pass';",
+        "D": "Both A and C are valid depending on MySQL version."
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Both `SET PASSWORD FOR` (older versions/syntax) and `ALTER USER ... IDENTIFIED BY` (newer, preferred syntax) can be used to change a user's password in MySQL. The exact syntax might vary slightly across MySQL versions."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "What is the purpose of `OPTIMIZE TABLE` in MySQL?",
+      "options": {
+        "A": "To defragment table data and reclaim unused space.",
+        "B": "To analyze table statistics for query optimization.",
+        "C": "To repair corrupted tables.",
+        "D": "To backup the table data."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "OPTIMIZE TABLE is used to defragment the data file and index files of a table, reclaiming unused space and potentially improving performance, especially for tables with many updates and deletions."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Which command is used to display the currently running processes (queries, connections) in MySQL?",
+      "options": {
+        "A": "SHOW ACTIVITY;",
+        "B": "SHOW PROCESSLIST;",
+        "C": "SHOW CONNECTIONS;",
+        "D": "DISPLAY PROCESSES;"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The `SHOW PROCESSLIST;` command displays information about the currently executing threads (client connections and background processes) on the MySQL server, which is useful for monitoring and troubleshooting."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "When designing a database in MySQL, why would you typically choose InnoDB over MyISAM for new applications?",
+      "options": {
+        "A": "InnoDB is faster for simple read-only operations.",
+        "B": "InnoDB provides better support for transactions and data integrity.",
+        "C": "MyISAM offers row-level locking, which InnoDB lacks.",
+        "D": "MyISAM is the default storage engine in modern MySQL versions."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "InnoDB is the preferred choice for most modern applications due to its support for ACID transactions, foreign key constraints (ensuring referential integrity), and row-level locking (improving concurrency). While MyISAM can be faster for very specific read-heavy, non-transactional workloads, its lack of ACID compliance makes it generally unsuitable where data integrity is critical. InnoDB also offers row-level locking, whereas MyISAM uses table-level locking."
+    }
+  ]
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "Eyelash & Eyebrow Technician",
+  "sector": "Beauty & Lifestyle",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction, Safety & Hygiene",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Anatomy & Physiology of Eyes & Brows",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Eyelash Extension Techniques",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Eyebrow Shaping & Tinting Techniques",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Client Consultation & Aftercare",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Business Practices & Professional Ethics",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Salon mein tools ko sanitize karne ka primary reason kya hai?",
+      "options": {
+        "A": "Products ko achha dikhane ke liye",
+        "B": "Customers ko comfortable feel karane ke liye",
+        "C": "Bacteria aur germs ke spread ko rokne ke liye",
+        "D": "Tools ki life badhane ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tools ko sanitize karne ka mukhya uddeshya bacteria aur germs ke spread ko rokna hai, jisse client aur technician dono surakshit rahen."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Personal Protective Equipment (PPE) mein kya shamil nahi hai?",
+      "options": {
+        "A": "Gloves",
+        "B": "Face mask",
+        "C": "Safety goggles",
+        "D": "Designer uniform"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "PPE mein gloves, face mask aur safety goggles shamil hote hain jo technician ko chemicals aur biological agents se bachate hain. Designer uniform PPE ka hissa nahi hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Eyelash extension adhesive ko store karne ka best tareeka kya hai?",
+      "options": {
+        "A": "Direct sunlight mein",
+        "B": "Refrigerator mein",
+        "C": "Cool, dry place par, tightly sealed",
+        "D": "Warm aur humid place par"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Eyelash extension adhesive ko cool, dry place par aur tightly sealed store karna chahiye, taki uski shelf life aur effectiveness bani rahe. Heat aur humidity uski quality kharab kar sakte hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Client ki skin par patch test karna kyun zaroori hai?",
+      "options": {
+        "A": "Product ki khushboo check karne ke liye",
+        "B": "Allergic reactions ko identify karne ke liye",
+        "C": "Product ki quantity decide karne ke liye",
+        "D": "Client ka skin type janne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Patch test allergic reactions ko pehchanne ke liye kiya jata hai, taki treatment se pehle client ki safety ensure ki ja sake."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Disinfection aur Sterilization mein kya difference hai?",
+      "options": {
+        "A": "Disinfection sirf germs ko remove karta hai, sterilization sabhi microorganisms ko kill karta hai.",
+        "B": "Sterilization sirf germs ko remove karta hai, disinfection sabhi microorganisms ko kill karta hai.",
+        "C": "Dono same process hain.",
+        "D": "Disinfection mein heat use hoti hai, sterilization mein chemicals."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Disinfection surfaces se most harmful microorganisms ko remove karta hai, jabki sterilization sabhi microorganisms, including spores, ko completely kill karta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Eyelash extensions apply karte samay proper ventilation kyun important hai?",
+      "options": {
+        "A": "Adhesive ko jaldi sukhane ke liye",
+        "B": "Client aur technician ko fumes se bachane ke liye",
+        "C": "Light ko behtar banane ke liye",
+        "D": "Salon ko cool rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Eyelash extension adhesive se nikalne wale fumes harmful ho sakte hain. Proper ventilation client aur technician dono ko in fumes se bachata hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Agar client ko eye infection ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Treatment continue karna chahiye.",
+        "B": "Treatment ko postpone karke doctor se consult karne ki salah deni chahiye.",
+        "C": "Sirf mild products use karne chahiye.",
+        "D": "Infection wali eye par extension nahi lagana chahiye, doosri eye par lagana chahiye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Eye infection ek contraindication hai. Aise mein treatment ko postpone karna aur client ko doctor se consult karne ki salah dena zaroori hai, taaki infection spread na ho."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Disposable items ka use karne ka kya fayda hai?",
+      "options": {
+        "A": "Cost-effective hote hain.",
+        "B": "Hygiene maintain karne mein madad karte hain aur cross-contamination rokte hain.",
+        "C": "Reusable items se zyada durable hote hain.",
+        "D": "Environment ke liye acche hote hain."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Disposable items jaise micro-brushes, cotton pads, etc., cross-contamination ko rokte hain aur highest hygiene standards maintain karte hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Salon mein emergency exits aur first-aid kit ki location pata hona kyun important hai?",
+      "options": {
+        "A": "Sirf fire drills ke liye.",
+        "B": "Clients ko impress karne ke liye.",
+        "C": "Kisi bhi accident ya emergency situation mein quick response ke liye.",
+        "D": "Government regulations follow karne ke liye."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Emergency exits aur first-aid kit ki knowledge kisi bhi accident ya emergency mein prompt aur effective response ke liye crucial hai, jisse sabki safety ensure ho."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Cross-contamination ko rokne ke liye sabse best practice kya hai?",
+      "options": {
+        "A": "Tools ko sirf water se rinse karna.",
+        "B": "Har client ke baad fresh gloves pehnna.",
+        "C": "Ek hi towel ko sabhi clients ke liye use karna.",
+        "D": "Tools ko sirf dry cloth se saaf karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Har client ke baad fresh gloves pehnna cross-contamination ko rokne ka sabse effective tareeka hai, jisse germs ka transfer nahi hota."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Eyelash extension application ke dauran client ki eyes ko kaise protect karna chahiye?",
+      "options": {
+        "A": "Unhe tight se band rakhne ko keh kar.",
+        "B": "Gel pads ya surgical tape se lower lashes ko isolate karke.",
+        "C": "Ek towel se cover karke.",
+        "D": "Unhe khud protect karne ke liye keh kar."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gel pads ya surgical tape lower lashes ko isolate karte hain aur adhesive fumes se client ki delicate skin aur eyes ko protect karte hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Agar client ko treatment ke dauran discomfort ya irritation feel ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Unhe ignore karna chahiye.",
+        "B": "Treatment ko turant rok dena chahiye aur reason investigate karna chahiye.",
+        "C": "Unhe relax karne ko kehna chahiye.",
+        "D": "Product ki quantity badha deni chahiye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ke discomfort ko kabhi ignore nahi karna chahiye. Turant treatment rok kar reason pata karna aur appropriate action lena zaroori hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Eyelash extension adhesive ke main ingredient mein se ek kya hai jo irritation cause kar sakta hai?",
+      "options": {
+        "A": "Water",
+        "B": "Cyanoacrylate",
+        "C": "Vitamin E",
+        "D": "Glycerin"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cyanoacrylate eyelash extension adhesives ka primary bonding agent hai aur yahi ingredient kuch individuals mein irritation ya allergic reactions ka karan ban sakta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ultraviolet (UV) sterilizer ka primary function kya hai salon mein?",
+      "options": {
+        "A": "Tools ko heat karne ke liye.",
+        "B": "Tools ko dry karne ke liye.",
+        "C": "Tools ki surfaces par microorganisms ko kill karne ke liye.",
+        "D": "Tools ko chamakdar banane ke liye."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "UV sterilizer UV light ka use karke tools aur surfaces par maujood bacteria, viruses aur anya microorganisms ko kill karta hai, hygiene maintain karta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Workstation ko saaf aur organized rakhne ka kya fayda hai?",
+      "options": {
+        "A": "Cost cutting hoti hai.",
+        "B": "Efficiency badhti hai aur accidents ka risk kam hota hai.",
+        "C": "Client ko zyada time tak wait karana padta hai.",
+        "D": "Zyada products use kar sakte hain."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek clean aur organized workstation work flow ko smooth banata hai, efficiency badhata hai aur tools ke galat jagah rakhne ya girne se hone wale accidents ko kam karta hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "MSDS (Material Safety Data Sheet) kis liye important hai?",
+      "options": {
+        "A": "Product pricing information ke liye.",
+        "B": "Product ingredients aur safety precautions ki detail information ke liye.",
+        "C": "Product marketing strategies ke liye.",
+        "D": "Product expiry date janne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "MSDS (ab SDS - Safety Data Sheet) chemicals ke safe handling, storage aur emergency procedures ke baare mein detailed information provide karta hai, jo technician ki safety ke liye crucial hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Eyelash extensions ke liye client ki natural lashes ka health check karna kyun zaroori hai?",
+      "options": {
+        "A": "Taki extensions ka color match ho sake.",
+        "B": "Taki extensions ka weight aur length natural lashes par suit kare.",
+        "C": "Taki client ki age pata chal sake.",
+        "D": "Taki client ki income ka andaza lag sake."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Natural lashes ki health aur strength ke according hi extensions ka weight aur length decide kiya jata hai, taki natural lashes ko damage na ho."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Human eyelashes ka main function kya hai?",
+      "options": {
+        "A": "Aankhon ko khoobsurat banana.",
+        "B": "Aankhon ko dhool aur debris se bachana.",
+        "C": "Vision improve karna.",
+        "D": "Aankhon ko warm rakhna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Eyelashes ka primary biological function aankhon ko dhool, debris aur chhote particles se protect karna hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Eyelash growth cycle mein kitne main phases hote hain?",
+      "options": {
+        "A": "Ek",
+        "B": "Do",
+        "C": "Teen",
+        "D": "Char"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Eyelash growth cycle ke teen main phases hote hain: Anagen (growth), Catagen (transition), aur Telogen (resting/shedding)."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Upper eyelid par generally kitni eyelashes hoti hain?",
+      "options": {
+        "A": "50-70",
+        "B": "100-150",
+        "C": "200-250",
+        "D": "300-400"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Generally, upper eyelid par lagbhag 100-150 eyelashes hoti hain, jabki lower eyelid par kam, lagbhag 70-80."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Eyebrows ka main function kya hai?",
+      "options": {
+        "A": "Face ko expressiveness dena.",
+        "B": "Sweat aur rain ko aankhon mein jaane se rokna.",
+        "C": "Sunlight se aankhon ko bachana.",
+        "D": "Dono A aur B"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Eyebrows face ko expressiveness dene ke saath-saath sweat aur rain ko aankhon mein jaane se bhi rokte hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Hair follicle kya hai?",
+      "options": {
+        "A": "Hair shaft ka visible part.",
+        "B": "Skin ke andar ka structure jahan hair grow hota hai.",
+        "C": "Hair ko color dene wala pigment.",
+        "D": "Hair ko soft banane wala oil."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hair follicle skin ke andar ka ek tube-like structure hai jahan se hair grow hota hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Blepharitis kya hai?",
+      "options": {
+        "A": "Aankhon ka sookhna.",
+        "B": "Eyelids ki inflammation.",
+        "C": "Vision loss.",
+        "D": "Eyelashes ka bahut tez girna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Blepharitis eyelids ki inflammation hai, jo often eyelashes ke base par bacteria ya oil gland dysfunction ke karan hoti hai. Eyelash extensions ke liye yeh ek contraindication ho sakta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Conjunctivitis ko commonly kya kehte hain?",
+      "options": {
+        "A": "Dry eye syndrome",
+        "B": "Pink eye",
+        "C": "Stye",
+        "D": "Glaucoma"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Conjunctivitis ko aam taur par 'Pink Eye' kehte hain, jo conjunctiva ki inflammation hai aur yeh highly contagious ho sakta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Eyelash extensions kis phase mein natural lash par apply karne chahiye?",
+      "options": {
+        "A": "Anagen phase",
+        "B": "Catagen phase",
+        "C": "Telogen phase",
+        "D": "Kisi bhi phase mein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ideal tareeka Catagen phase mein extensions apply karna hai. Anagen lashes bahut young aur fragile hoti hain, jabki Telogen lashes girne wali hoti hain. Catagen phase mein lash stable hoti hai aur ek achhi retention period deti hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Skin ka outermost layer jo hum dekhte hain, use kya kehte hain?",
+      "options": {
+        "A": "Dermis",
+        "B": "Epidermis",
+        "C": "Hypodermis",
+        "D": "Subcutis"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Epidermis skin ka outermost protective layer hai jo humein dikhta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Sebaceous glands ka main function kya hai?",
+      "options": {
+        "A": "Sweat produce karna.",
+        "B": "Hair follicles ko oil (sebum) provide karna.",
+        "C": "Melanin produce karna.",
+        "D": "Blood circulation regulate karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sebaceous glands sebum produce karte hain jo hair aur skin ko lubricate aur waterproof karta hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Stye (Hordeolum) kya hai?",
+      "options": {
+        "A": "Eyelid ke andar ek cyst.",
+        "B": "Eyelid par ek painful, red lump, usually infection ke karan.",
+        "C": "Eyelid ka color change.",
+        "D": "Eyelid ka drooping."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stye ek acute bacterial infection hai jo eyelid par ek painful, red lump ke roop mein dikhta hai. Is condition mein eyelash extensions apply nahi karne chahiye."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Eyelashes kis type ke hair hote hain?",
+      "options": {
+        "A": "Vellus hair",
+        "B": "Terminal hair",
+        "C": "Lanugo hair",
+        "D": "Dono A aur B"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Eyelashes terminal hair hote hain, jo ki thick, dark aur long hair hote hain, jaise ki eyebrows aur scalp hair."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Agar client ko severe hay fever ho, toh kya eyelash extensions lagana advisable hai?",
+      "options": {
+        "A": "Haan, koi problem nahi hai.",
+        "B": "Nahi, isse irritation badh sakti hai aur retention kam ho sakti hai.",
+        "C": "Sirf synthetic lashes use karne chahiye.",
+        "D": "Client ko antihistamine lene ko kehna chahiye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Severe hay fever ke dauran aankhon mein itching aur watering common hai, jo adhesive ki retention ko affect kar sakta hai aur irritation badha sakta hai. Is samay extensions lagana advisable nahi hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "What is the function of the orbicularis oculi muscle?",
+      "options": {
+        "A": "Eye movements ko control karna.",
+        "B": "Eyelid ko close karna (blink karna).",
+        "C": "Tears produce karna.",
+        "D": "Pupil size control karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Orbicularis oculi muscle eyelid ko close karne ke liye responsible hai, yaani blink karne ke liye. Eyelash application ke dauran is muscle ka relax rehna zaroori hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Demodex mites kahan paye ja sakte hain?",
+      "options": {
+        "A": "Baalon ke ends par.",
+        "B": "Skin surface par.",
+        "C": "Hair follicles aur sebaceous glands mein.",
+        "D": "Sirf dead skin cells par."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Demodex mites natural roop se human hair follicles aur sebaceous glands mein paye jaate hain. Excessive growth se eyelids par itching ya irritation ho sakti hai, jo lash extensions ki retention ko bhi affect kar sakta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Collagen ka skin health mein kya role hai?",
+      "options": {
+        "A": "Skin ko hydrated rakhna.",
+        "B": "Skin ko elasticity aur firmness provide karna.",
+        "C": "Skin ko sunlight se bachana.",
+        "D": "Skin ko detoxify karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Collagen skin ko structure, elasticity aur firmness provide karta hai. Healthy skin eyelash aur eyebrow treatments ke liye ek accha base provide karti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Alopecia Areata kya hai?",
+      "options": {
+        "A": "Excessive hair growth.",
+        "B": "Patchy hair loss.",
+        "C": "Hair shaft ka damage.",
+        "D": "Hair ka color change."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Alopecia Areata ek autoimmune condition hai jismein patchy hair loss hota hai, jo eyelashes aur eyebrows ko bhi affect kar sakta hai. Aise cases mein extensions ya tinting nahi karni chahiye."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Classic eyelash extensions mein, kitne extensions ek natural lash par apply kiye jaate hain?",
+      "options": {
+        "A": "Ek",
+        "B": "Do",
+        "C": "Teen",
+        "D": "Char"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Classic extensions mein, 'one-to-one' ratio follow kiya jata hai, yaani ek natural lash par ek extension apply kiya jata hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Volume eyelash extensions mein kis technique ka use hota hai?",
+      "options": {
+        "A": "One-to-one application",
+        "B": "Pre-made fans",
+        "C": "Hand-made fans (2D-6D)",
+        "D": "Dono B aur C"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Volume extensions mein lightweight extensions ke fans (pre-made ya hand-made) banakar ek natural lash par apply kiye jaate hain, jisse fuller look milta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Eyelash extensions apply karne se pehle natural lashes ko clean karna kyun important hai?",
+      "options": {
+        "A": "Taki adhesive acche se stick na ho.",
+        "B": "Taki oil, dirt aur makeup residue hat jaye aur adhesive bond strong bane.",
+        "C": "Taki client ko fresh feel ho.",
+        "D": "Taki lashes ka color change ho jaye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lashes ko clean karne se oil, dirt aur makeup residue hat jaate hain, jisse adhesive ka bond natural lash par strong aur long-lasting banta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Lash mapping kya hai?",
+      "options": {
+        "A": "Client ka address record karna.",
+        "B": "Eyelash extensions ke liye desired style aur length ko plan karna.",
+        "C": "Lashes ko count karna.",
+        "D": "Adhesive ki quantity map karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lash mapping ek technique hai jismein client ki eye shape aur desired look ke according extensions ki length, curl aur thickness ko plan kiya jata hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Isolation ka kya matlab hai eyelash extension application mein?",
+      "options": {
+        "A": "Client ko akela chhod dena.",
+        "B": "Ek natural lash ko doosri lashes se alag karna.",
+        "C": "Extensions ko ek doosre se alag rakhna.",
+        "D": "Adhesive ko air se alag rakhna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Isolation ka matlab hai ek single natural lash ko doosri lashes se alag karna, taaki adhesive sirf usi lash par lage aur 'stickies' na bane."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Eyelash extensions ke liye sabse common curls kaun se hain?",
+      "options": {
+        "A": "S, M, L",
+        "B": "J, B, C, D",
+        "C": "X, Y, Z",
+        "D": "P, Q, R"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "J, B, C, D curls sabse commonly used hain, jahan J sabse straight aur D sabse curly hota hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Agar client ki natural lashes weak ya damaged hain, toh kya karna chahiye?",
+      "options": {
+        "A": "Heavier extensions lagane chahiye.",
+        "B": "Lightweight extensions ya no extensions recommend karne chahiye.",
+        "C": "Zyada adhesive use karna chahiye.",
+        "D": "Unhe strong banane ke liye primer lagana chahiye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Weak ya damaged lashes par heavy extensions lagane se aur damage ho sakta hai. Lightweight extensions ya extensions na lagane ki salah dena behtar hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Eyelash extension adhesive ko proper tarike se cure karne ke liye kya zaroori hai?",
+      "options": {
+        "A": "High temperature",
+        "B": "Controlled humidity",
+        "C": "Direct sunlight",
+        "D": "Low air pressure"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Eyelash adhesive cyanoacrylate-based hote hain aur moisture (humidity) ki presence mein cure hote hain. Optimal humidity level adhesive ki bonding strength aur retention ke liye crucial hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Hybrid eyelash extensions kya hote hain?",
+      "options": {
+        "A": "Sirf colorful extensions.",
+        "B": "Classic aur Volume extensions ka mix.",
+        "C": "Sirf bottom lashes par extensions.",
+        "D": "Reusable extensions."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hybrid extensions classic aur volume techniques ka blend hote hain, jisse client ko fullness aur defined look dono milte hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Lash extensions remove karne ka sahi tareeka kya hai?",
+      "options": {
+        "A": "Unhe pull karke nikalna.",
+        "B": "Oil-based remover use karna.",
+        "C": "Professional lash remover gel/cream use karna.",
+        "D": "Sabun aur pani se wash karna."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Professional lash remover gel ya cream adhesive ko dissolve karta hai, jisse extensions safely aur without damage remove ho jaate hain."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Eyelash extension infills kitne time baad recommend kiye jaate hain?",
+      "options": {
+        "A": "Every week",
+        "B": "Har 2-3 hafte mein",
+        "C": "Har 2-3 mahine mein",
+        "D": "Saal mein ek baar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Natural lash growth cycle aur shedding ke karan, infills har 2-3 hafte mein recommend kiye jaate hain, taaki lashes fuller dikhe."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar client ki eyes bahut sensitive hain, toh kaun sa adhesive use karna chahiye?",
+      "options": {
+        "A": "Fast-drying adhesive.",
+        "B": "Slow-drying, low-fume sensitive adhesive.",
+        "C": "Strongest adhesive available.",
+        "D": "Koi bhi adhesive."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sensitive clients ke liye low-fume aur slow-drying adhesives better hote hain, jisse irritation ka risk kam hota hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Eyelash primer ka kya role hai?",
+      "options": {
+        "A": "Lashes ko color karna.",
+        "B": "Lashes ko clean aur prepare karna adhesive ke liye.",
+        "C": "Lashes ko curl karna.",
+        "D": "Lashes ko shine dena."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lash primer natural lashes se oil aur residue remove karta hai, surface ko rough banata hai, jisse adhesive ki bonding strength badhti hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Eyelash extension tweezers ko kaise maintain karna chahiye?",
+      "options": {
+        "A": "Unhe kabhi saaf nahi karna chahiye.",
+        "B": "Har use ke baad sanitize aur disinfect karna chahiye.",
+        "C": "Sirf pani se dhona chahiye.",
+        "D": "Unhe ek saath rakhna chahiye, chahe woh dirty hon."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tweezers ko har use ke baad sanitize aur disinfect karna zaroori hai, taaki cross-contamination se bacha ja sake aur unki performance bani rahe."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Agar client ki natural lashes bahut straight hain, toh kaun sa curl recommend karna chahiye?",
+      "options": {
+        "A": "J curl",
+        "B": "B curl",
+        "C": "C curl",
+        "D": "D curl"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "D curl sabse zyada curly hota hai aur straight lashes ko lift dene aur dramatic look dene ke liye best hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Eyelash extensions ki longevity ko affect karne wala ek factor kya hai?",
+      "options": {
+        "A": "Client ki height.",
+        "B": "Client ki natural lash growth cycle.",
+        "C": "Client ki favorite color.",
+        "D": "Client ki shoe size."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ki natural lash growth cycle extensions ki longevity ko directly affect karti hai, kyunki lashes shed hone par extensions bhi gir jaate hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Eyelash extension adhesive drop ko kitne time baad change karna chahiye?",
+      "options": {
+        "A": "Every 2 hours",
+        "B": "Har 15-20 minute mein",
+        "C": "Sirf ek baar session mein",
+        "D": "Jab woh completely dry ho jaye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Adhesive drop air ke contact mein aane se cure hona shuru ho jata hai. Uski effectiveness maintain karne ke liye use har 15-20 minute mein fresh drop se replace karna chahiye."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Eyebrow mapping ka primary goal kya hai?",
+      "options": {
+        "A": "Eyebrows ko randomly shape dena.",
+        "B": "Client ki face shape ke according symmetrical aur balanced eyebrows create karna.",
+        "C": "Eyebrows ko color karna.",
+        "D": "Eyebrows ko trim karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Eyebrow mapping client ki unique facial features ke according ideal brow shape aur symmetry ko determine karne mein help karta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Threading technique mein kya use hota hai?",
+      "options": {
+        "A": "Wax",
+        "B": "Tweezers",
+        "C": "Cotton thread",
+        "D": "Razor"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Threading mein ek thin cotton thread ka use kiya jata hai jisse hairs ko root se pull karke remove kiya jata hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Eyebrow tinting ka kya purpose hai?",
+      "options": {
+        "A": "Eyebrows ko remove karna.",
+        "B": "Eyebrows ko darken aur define karna.",
+        "C": "Eyebrows ko straight karna.",
+        "D": "Eyebrows ko grow karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Eyebrow tinting se brows ko darker aur fuller dikhaya jata hai, jisse unki definition badhti hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Waxing se pehle skin ko kaise prepare karna chahiye?",
+      "options": {
+        "A": "Oil lagana chahiye.",
+        "B": "Clean, dry aur powder se dust karna chahiye.",
+        "C": "Moisturizer lagana chahiye.",
+        "D": "Thande pani se dhona chahiye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waxing se pehle skin ko clean aur dry hona chahiye, aur thoda powder lagane se wax acche se adhere hota hai aur skin irritation kam hoti hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Agar client ki skin sensitive hai, toh eyebrow shaping ke liye kaun sa method prefer karna chahiye?",
+      "options": {
+        "A": "Hot wax",
+        "B": "Threading ya plucking",
+        "C": "Chemical peel",
+        "D": "Razor"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sensitive skin ke liye threading ya plucking (tweezing) waxing se behtar option ho sakte hain, kyunki inmein chemicals aur heat ka use nahi hota."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Eyebrow lamination kya hai?",
+      "options": {
+        "A": "Eyebrows ko permanently tattoo karna.",
+        "B": "Eyebrow hairs ko straighten aur set karna desired shape mein.",
+        "C": "Eyebrows ko color karna.",
+        "D": "Eyebrows ko remove karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Eyebrow lamination ek semi-permanent treatment hai jo eyebrow hairs ko straighten, lift aur set karta hai, jisse fuller aur well-groomed look milta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Eyebrow tinting ke liye kaun sa product use hota hai?",
+      "options": {
+        "A": "Hair dye",
+        "B": "Specialized brow tint",
+        "C": "Mascara",
+        "D": "Eyeliner"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Eyebrow tinting ke liye specifically formulated brow tint products use hote hain jo eyes ke paas use karne ke liye safe hote hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Eyebrow tinting patch test kitne time pehle karna chahiye?",
+      "options": {
+        "A": "Just before the treatment",
+        "B": "24-48 hours pehle",
+        "C": "Ek hafta pehle",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Patch test allergic reactions ko check karne ke liye 24-48 hours pehle karna zaroori hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Brow mapping ke liye generally kitne points mark kiye jaate hain?",
+      "options": {
+        "A": "Ek",
+        "B": "Do",
+        "C": "Teen",
+        "D": "Char"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Brow mapping ke liye teen main points mark kiye jaate hain: brow start, arch aur tail, jo client ki facial features ke according ideal shape define karte hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Agar client ne recent chemical peel karaya ho, toh eyebrow waxing karna safe hai kya?",
+      "options": {
+        "A": "Haan, bilkul safe hai.",
+        "B": "Nahi, skin bahut sensitive ho sakti hai aur tearing ka risk hota hai.",
+        "C": "Sirf soft wax use karna chahiye.",
+        "D": "Sirf small areas wax karni chahiye."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Recent chemical peel ke baad skin extremely sensitive hoti hai. Waxing se skin tearing, redness aur severe irritation ho sakti hai. Waxing avoid karna chahiye."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Eyebrow shaping ke liye tweezers ka use karte samay, hairs ko kis direction mein pull karna chahiye?",
+      "options": {
+        "A": "Against the hair growth",
+        "B": "In the direction of hair growth",
+        "C": "Sideways",
+        "D": "Kisi bhi direction mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hairs ko growth ki direction mein pull karne se pain kam hota hai aur hair breakage ka risk bhi kam hota hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Eyebrow tinting kitne time tak last karta hai?",
+      "options": {
+        "A": "Kuch ghante",
+        "B": "1-2 din",
+        "C": "2-4 hafte",
+        "D": "6 mahine"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Eyebrow tinting generally 2-4 hafte tak last karta hai, depending on client ki hair growth cycle aur aftercare."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Microblading kya hai?",
+      "options": {
+        "A": "Eyebrows ko shave karna.",
+        "B": "Semi-permanent tattoo technique jismein fine hair-like strokes banaye jaate hain.",
+        "C": "Eyebrow lamination ka doosra naam.",
+        "D": "Eyebrows ko bleach karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Microblading ek semi-permanent cosmetic tattoo technique hai jismein small, hand-held tool se skin mein pigment deposit karke natural-looking hair strokes create kiye jaate hain. Technician ko iski basic knowledge honi chahiye, although certification for this is separate."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Eyebrow trimming ka kya fayda hai?",
+      "options": {
+        "A": "Hairs ko remove karna.",
+        "B": "Long aur unruly hairs ko neat aur defined look dena.",
+        "C": "Hairs ko darken karna.",
+        "D": "Hairs ko grow karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Eyebrow trimming se long aur unruly hairs ko short karke brows ko cleaner aur more defined look diya jaata hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Wax application ke baad soothing gel ya oil lagana kyun important hai?",
+      "options": {
+        "A": "Hair growth ko badhane ke liye.",
+        "B": "Skin ko hydrate aur calm karne ke liye, redness kam karne ke liye.",
+        "C": "Wax residue ko aur chipkane ke liye.",
+        "D": "Skin ko dry banane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waxing ke baad skin sensitive ho jaati hai. Soothing gel ya oil redness aur irritation ko kam karta hai aur skin ko hydrate karta hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar client ki eyebrows bahut sparse (kam ghani) hain, toh kaun sa treatment best rahega?",
+      "options": {
+        "A": "Sirf plucking.",
+        "B": "Tinting ya microblading (agar certified ho).",
+        "C": "Lamination.",
+        "D": "Sirf trimming."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sparse brows ko fuller dikhane ke liye tinting ya microblading (agar technician certified ho) best options hain. Lamination se hairs ko spread karke fuller dikhaya ja sakta hai, par naye hairs nahi add hote."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Eyebrow hair growth cycle eyelashes se kaise different hoti hai?",
+      "options": {
+        "A": "Eyebrow hairs ki growth cycle zyada fast hoti hai.",
+        "B": "Eyebrow hairs ki growth cycle zyada slow hoti hai aur anagen phase shorter hota hai.",
+        "C": "Dono ki growth cycle same hoti hai.",
+        "D": "Eyebrow hairs kabhi grow nahi karte."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Eyebrow hairs ki growth cycle eyelashes se slow hoti hai aur unka anagen (growth) phase shorter hota hai, isliye woh ek particular length se zyada grow nahi karte."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Client consultation ka primary goal kya hai?",
+      "options": {
+        "A": "Client ko jaldi se jaldi service provide karna.",
+        "B": "Client ki needs, medical history aur expectations ko samajhna.",
+        "C": "Client ko expensive services sell karna.",
+        "D": "Sirf client ka naam aur contact details lena."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Consultation client ki needs, medical history aur expectations ko samajhne ke liye crucial hai, taaki safe aur satisfied service provide ki ja sake."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Consultation form mein kaun si information leni chahiye?",
+      "options": {
+        "A": "Client ka favorite color.",
+        "B": "Medical conditions, allergies aur previous lash/brow treatments.",
+        "C": "Client ke pets ke naam.",
+        "D": "Client ki travel history."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Medical conditions, allergies aur previous treatments ki information client ki safety aur customized treatment plan ke liye essential hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Agar client ko adhesive allergy ka history ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Regular adhesive use karna chahiye.",
+        "B": "Unhe lash extensions na lagane ki salah deni chahiye ya patch test ke baad sensitive adhesive try karna chahiye.",
+        "C": "Zyada adhesive use karna chahiye.",
+        "D": "Unhe promise karna chahiye ki koi reaction nahi hoga."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Adhesive allergy ki history wale clients ko lash extensions na lagane ki salah dena ya sensitive adhesive ke saath patch test ke baad hi proceed karna chahiye."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Eyelash extension aftercare instructions mein kya shamil hota hai?",
+      "options": {
+        "A": "Har din oil-based makeup use karna.",
+        "B": "Pehle 24-48 ghante tak pani se bachana aur oil-free products use karna.",
+        "C": "Lashes ko har ghante brush karna.",
+        "D": "Saath mein swimming karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Initial 24-48 hours tak pani se bachna aur oil-free products use karna adhesive ko acche se cure hone aur extensions ki longevity ke liye critical hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Client ki expectations ko manage karna kyun important hai?",
+      "options": {
+        "A": "Taki woh zyada paise kharch karein.",
+        "B": "Taki woh unrealistic results ki उम्मीद na rakhen aur satisfied rahen.",
+        "C": "Taki technician ko kam kaam karna pade.",
+        "D": "Taki client jaldi wapas na aaye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client ki expectations ko realistically manage karna zaroori hai, taaki woh treatment ke results se satisfied rahen aur miscommunication na ho."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Agar client ko treatment ke baad severe redness aur swelling ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Unhe ghar bhej dena chahiye.",
+        "B": "Turant medical attention lene ki salah deni chahiye.",
+        "C": "Unhe ice pack lagane ko kehna chahiye.",
+        "D": "Unhe ignore karna chahiye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Severe redness aur swelling allergic reaction ya infection ka sign ho sakta hai. Aise mein turant medical attention lene ki salah dena zaroori hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Client retention ke liye kaun sa factor sabse important hai?",
+      "options": {
+        "A": "Lowest prices.",
+        "B": "High-quality service, excellent communication aur aftercare.",
+        "C": "Har baar naye products use karna.",
+        "D": "Client ko gift dena."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High-quality service, clear communication aur comprehensive aftercare client trust banate hain aur unhe wapas aane ke liye encourage karte hain."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Aftercare instructions ko written form mein dena kyun beneficial hai?",
+      "options": {
+        "A": "Taki client unhe bhool jaye.",
+        "B": "Taki client ko reference ke liye yaad rahe aur woh proper aftercare follow kar sakein.",
+        "C": "Taki technician ko bolna na pade.",
+        "D": "Sirf formality ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Written aftercare instructions client ko ghar par sahi care karne mein madad karte hain aur treatment ki longevity badhate hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar client ki natural lashes bahut curly hain, toh kaun sa curl extension recommend karna chahiye?",
+      "options": {
+        "A": "J curl",
+        "B": "B curl",
+        "C": "C curl",
+        "D": "L curl"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Bahut curly natural lashes par C ya D curl lagane se 'kinking' ya uncomfortable feel ho sakta hai. L curl (flat base, sharp lift) natural curly lashes par better blend hota hai aur unhe lift deta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Client feedback lena kyun important hai?",
+      "options": {
+        "A": "Taki technician ko apni galti pata na chale.",
+        "B": "Services ko improve karne aur client satisfaction badhane ke liye.",
+        "C": "Sirf good reviews collect karne ke liye.",
+        "D": "Client ko impress karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client feedback valuable insights provide karta hai, jisse technician apni services ko refine kar sakta hai aur overall client satisfaction badha sakta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Contraindications kya hote hain?",
+      "options": {
+        "A": "Woh conditions jinmein treatment karna safe hai.",
+        "B": "Woh conditions jinmein treatment nahi karna chahiye kyunki woh harmful ho sakte hain.",
+        "C": "Woh products jo treatment mein use hote hain.",
+        "D": "Woh techniques jo treatment mein use hoti hain."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Contraindications aisi conditions hoti hain jinmein koi particular treatment karna unsafe ya detrimental ho sakta hai, jaise eye infections ya allergies."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Eyelash extensions ke saath oil-based products use karna kyun avoid karna chahiye?",
+      "options": {
+        "A": "Yeh lashes ko shine dete hain.",
+        "B": "Oil adhesive ke bond ko dissolve kar sakta hai, jisse extensions jaldi gir jaate hain.",
+        "C": "Yeh lashes ko dry karte hain.",
+        "D": "Yeh lashes ko color karte hain."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oil-based products eyelash adhesive ke cyanoacrylate bond ko break down kar sakte hain, jisse extensions ki retention kam ho jaati hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Agar client ko watery eyes ki problem ho, toh kaun sa lash style recommend karna chahiye?",
+      "options": {
+        "A": "Bahut long aur heavy extensions.",
+        "B": "Lightweight extensions aur natural look.",
+        "C": "Volume lashes with strong curl.",
+        "D": "Koi bhi style."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Watery eyes wale clients ke liye lightweight aur natural look wale extensions better hote hain, jisse irritation kam ho aur retention bhi affected na ho. Heavy extensions discomfort badha sakte hain."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Client ke lifestyle ko consultation mein discuss karna kyun important hai?",
+      "options": {
+        "A": "Taki unke hobbies pata chal sakein.",
+        "B": "Taki treatment plan unke daily routine aur activities ke according customize ho sake.",
+        "C": "Taki unki personal life mein interfere kiya ja sake.",
+        "D": "Taki unki income pata chal sake."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client ka lifestyle (jaise gym-goer, swimmer, outdoor activities) aftercare aur retention ko affect karta hai, isliye treatment plan ko customize karna zaroori hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Punctuality aur reliability client relations mein kaise contribute karte hain?",
+      "options": {
+        "A": "Client ko wait karane ke liye.",
+        "B": "Trust aur professionalism build karne ke liye.",
+        "C": "Appointment cancel karne ke liye.",
+        "D": "Zyada tips lene ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Punctuality aur reliability client ke saath trust build karte hain aur aapki professionalism ko darshate hain, jisse strong client relations develop hote hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Agar client ko treatment se satisfaction na mile, toh kya karna chahiye?",
+      "options": {
+        "A": "Unse argue karna chahiye.",
+        "B": "Unki concerns ko sunna chahiye aur solution offer karna chahiye.",
+        "C": "Unhe ignore karna chahiye.",
+        "D": "Unhe refund dena chahiye without discussion."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client ki concerns ko patiently sunna aur constructive solution offer karna (jaise minor adjustments, touch-up) unki satisfaction ko restore kar sakta hai aur negative feedback ko prevent kar sakta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Ek eyelash & eyebrow technician ke liye professional image maintain karna kyun important hai?",
+      "options": {
+        "A": "Sirf fashion statement ke liye.",
+        "B": "Clients ka trust aur respect gain karne aur business ko grow karne ke liye.",
+        "C": "Personal preference ke liye.",
+        "D": "Kisi bhi reason se nahi."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professional image (hygiene, attire, behavior) client ka trust banati hai aur business ki credibility badhati hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Salon mein client records maintain karne ka kya fayda hai?",
+      "options": {
+        "A": "Sirf client ke phone number yaad rakhne ke liye.",
+        "B": "Har client ki preferences, history aur allergies ko track karne ke liye, jisse personalized service di ja sake.",
+        "C": "Client ko stalk karne ke liye.",
+        "D": "Koi fayda nahi hai."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Detailed client records personalized service, better treatment planning aur client safety ensure karne mein madad karte hain."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Word-of-mouth marketing kya hai?",
+      "options": {
+        "A": "Social media par ads chalana.",
+        "B": "Satisfied clients ka doosron ko aapki services recommend karna.",
+        "C": "Newspapers mein ads dena.",
+        "D": "Pamphlets distribute karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Word-of-mouth marketing sabse powerful marketing tool hai jahan satisfied clients aapki services ko apne friends aur family ko recommend karte hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Pricing strategies banate samay kin factors ko consider karna chahiye?",
+      "options": {
+        "A": "Sirf competitors ki pricing.",
+        "B": "Cost of products, time spent, technician's skill, market demand aur overheads.",
+        "C": "Client ki financial status.",
+        "D": "Sirf profit margin."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pricing decide karte samay product cost, time, skill, market demand aur salon ke overhead expenses sabhi factors ko consider karna chahiye."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Client ki personal information ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Kisi ke saath bhi share karna chahiye.",
+        "B": "Confidential rakhna chahiye aur sirf professional use ke liye.",
+        "C": "Social media par post karna chahiye.",
+        "D": "Usse paise kamane chahiye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ki personal aur medical information ko confidential rakhna aur privacy laws ka paalan karna professional ethics ka hissa hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Continuous learning aur skill development kyun important hai is field mein?",
+      "options": {
+        "A": "Sirf certification ke liye.",
+        "B": "Industry trends ke saath updated rehne aur better services provide karne ke liye.",
+        "C": "Naye products kharidne ke liye.",
+        "D": "Competition se bachne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Beauty industry constantly evolve ho rahi hai. Continuous learning se technician naye trends, techniques aur products ke saath updated rehta hai, jisse woh high-quality services provide kar sakta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Customer service mein 'Active Listening' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf sunna, par dhyan na dena.",
+        "B": "Client ki baat ko dhyan se sunna, samajhna aur appropriate response dena.",
+        "C": "Client ko interrupt karna.",
+        "D": "Sirf apni baat batana."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Active listening client ki needs aur concerns ko sahi tarike se samajhne mein help karta hai, jisse better service aur satisfaction milta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Online presence (social media, website) ka kya fayda hai ek technician ke liye?",
+      "options": {
+        "A": "Sirf time pass ke liye.",
+        "B": "New clients attract karne, portfolio display karne aur brand awareness badhane ke liye.",
+        "C": "Clients se dur rehne ke liye.",
+        "D": "Sirf friends banane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Strong online presence new clients ko attract karti hai, technician ke kaam ka portfolio show karti hai aur brand ko promote karti hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Professional boundaries maintain karna kyun important hai client ke saath?",
+      "options": {
+        "A": "Taki client se dosti na ho.",
+        "B": "Professionalism maintain karne, mutual respect banaye rakhne aur miscommunication avoid karne ke liye.",
+        "C": "Taki client ko discomfort ho.",
+        "D": "Taki client wapas na aaye."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Professional boundaries maintain karna technician aur client ke beech ek healthy aur respectful relationship banaye rakhta hai, aur kisi bhi tarah ki awkwardness ya miscommunication ko rokte hain."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Upselling aur cross-selling ka kya matlab hai beauty services mein?",
+      "options": {
+        "A": "Client ko unwanted services sell karna.",
+        "B": "Upselling matlab higher-value service offer karna, cross-selling matlab related complementary service offer karna.",
+        "C": "Sirf discounts dena.",
+        "D": "Clients ko zyada time tak salon mein rakhna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Upselling ka matlab hai client ko unki current choice se better ya advanced service option offer karna, jabki cross-selling ka matlab hai unki main service ke saath related ya complementary services (jaise brow tint ke saath lash tint) offer karna."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Ek technician ko apni mistakes ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Unhe chhipana chahiye.",
+        "B": "Unhe accept karna, sorry kehna aur solution provide karna chahiye.",
+        "C": "Doosron par blame dalna chahiye.",
+        "D": "Client ko ignore karna chahiye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mistakes ko accept karna, apology offer karna aur solution provide karna professionalism darshata hai aur client trust ko banaye rakhta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Legal compliance (jaise health & safety regulations) kyun important hai salon business mein?",
+      "options": {
+        "A": "Sirf fines se bachne ke liye.",
+        "B": "Client aur staff ki safety ensure karne aur business ko legal troubles se bachane ke liye.",
+        "C": "Business ko slow karne ke liye.",
+        "D": "Extra paperwork create karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Legal compliance, special health aur safety regulations ko follow karna client aur staff dono ki safety ensure karta hai aur business ko legal issues aur liabilities se bachata hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Networking ka kya fayda hai beauty industry mein?",
+      "options": {
+        "A": "Sirf gossip karne ke liye.",
+        "B": "Industry professionals se connect hona, knowledge share karna aur career opportunities explore karna.",
+        "C": "Competition badhane ke liye.",
+        "D": "Apni skills ko chhipane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Networking se industry professionals ke saath connections bante hain, jisse knowledge exchange hota hai, career growth ke liye naye darwaze khulte hain aur latest trends ka pata chalta hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Time management skills ek technician ke liye kyun crucial hain?",
+      "options": {
+        "A": "Taki appointments miss ho jayein.",
+        "B": "Taki appointments smoothly run karein, clients ko wait na karna pade aur productivity badhe.",
+        "C": "Taki jaldi ghar ja sakein.",
+        "D": "Taki zyada breaks le sakein."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Effective time management se appointments on schedule rehte hain, client satisfaction badhti hai aur technician ki productivity bhi improve hoti hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Online reviews aur ratings ka business par kya asar hota hai?",
+      "options": {
+        "A": "Koi asar nahi hota.",
+        "B": "Positive reviews new clients ko attract karte hain aur business ki reputation badhate hain, negative reviews nuksan pahunchate hain.",
+        "C": "Sirf entertainment ke liye hote hain.",
+        "D": "Sirf old clients ke liye hote hain."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Online reviews aajkal clients ke decision-making process mein bahut important role play karte hain. Positive reviews business ko boost karte hain, jabki negative reviews ko professionally address karna chahiye."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Professional development mein workshops aur advanced courses ka kya role hai?",
+      "options": {
+        "A": "Sirf certificates collect karna.",
+        "B": "Existing skills ko enhance karna aur naye specialized techniques seekhna.",
+        "C": "Time aur paisa barbad karna.",
+        "D": "Basic knowledge ko bhool jana."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Workshops aur advanced courses technician ko apni existing skills ko polish karne aur industry mein aane wali naye aur advanced techniques ko seekhne mein madad karte hain."
+    }
+  ]
+}

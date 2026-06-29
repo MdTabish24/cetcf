@@ -1,0 +1,1444 @@
+{
+  "course_name": "Site Supervisor — Construction",
+  "sector": "Construction & Building Trades",
+  "level": "Intermediate",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Module 1: Site Supervision Basics & Safety Management",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Module 2: Material Management & Quality Control",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Module 3: Construction Techniques & Equipment Handling",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Module 4: Drawing Interpretation & Site Measurement",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Module 5: Site Administration & Labor Management",
+      "question_range": "Q69-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Module 6: Project Monitoring & Environmental Compliance",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek Site Supervisor ka primary role kya hota hai?",
+      "options": {
+        "A": "Construction material supply karna",
+        "B": "Site par daily activities aur workers ko manage karna",
+        "C": "Project ke liye funding arrange karna",
+        "D": "Architectural drawings design karna",
+        "E": "Marketing activities handle karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Site Supervisor ka primary role hota hai site par daily construction activities aur workers ko effectively manage karna, taaki project time par aur quality standard ke according complete ho."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "PPE ka full form kya hai aur yeh construction site par kyun important hai?",
+      "options": {
+        "A": "Personal Project Equipment, productivity badhane ke liye",
+        "B": "Primary Protection Element, material ko protect karne ke liye",
+        "C": "Personal Protective Equipment, worker safety ke liye",
+        "D": "Project Planning Estimation, cost control ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "PPE ka matlab Personal Protective Equipment hai, jaise safety helmet, gloves, safety shoes. Yeh workers ko site par hone wale accidents aur hazards se bachane ke liye bahut important hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Agar site par kisi worker ko chot lag jaye, toh Site Supervisor ka pehla kadam kya hona chahiye?",
+      "options": {
+        "A": "Investigation report banana",
+        "B": "Sabse pehle first aid provide karna aur medical help bulana",
+        "C": "Worker ko ghar bhej dena",
+        "D": "Dusre workers ko kaam continue karne ke liye kehna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kisi bhi accident ki situation mein, Site Supervisor ki pehli priority injured worker ko turant first aid provide karna aur zaroorat padne par medical help bulana hota hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "RAMS ka kya matlab hai construction safety mein?",
+      "options": {
+        "A": "Risk Assessment and Material Storage",
+        "B": "Routine Activity and Manpower Scheduling",
+        "C": "Risk Assessment and Method Statement",
+        "D": "Resource Allocation and Management System"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "RAMS ka matlab Risk Assessment and Method Statement hai. Yeh ek document hota hai jo kisi particular task se jude risks ko identify karta hai aur unhe mitigate karne ke liye safe work methods specify karta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Site layout plan mein kya-kya information shamil hoti hai?",
+      "options": {
+        "A": "Sirf building ka design",
+        "B": "Material storage areas, site office, access roads, safety points, etc.",
+        "C": "Workers ke salaries ka record",
+        "D": "Project ka financial budget"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Site layout plan mein site par various facilities jaise material storage, site office, worker facilities, access roads, emergency exits aur safety points ki location detailed hoti hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Ek toolbox talk ka uddeshya kya hai?",
+      "options": {
+        "A": "Daily progress report discuss karna",
+        "B": "Workers ko specific task se related safety precautions batana",
+        "C": "Material order karna",
+        "D": "Project ke budget par charcha karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Toolbox talk ek short safety meeting hoti hai jo daily work start hone se pehle ki jaati hai, jisme workers ko specific task se jude hazards aur unki safety precautions ke baare mein bataya jaata hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Agar site par fire hazard ka risk ho, toh Supervisor ko kya ensure karna chahiye?",
+      "options": {
+        "A": "Sirf water buckets available hon",
+        "B": "Fire extinguishers properly maintained aur accessible hon",
+        "C": "Smoking area ban kar den",
+        "D": "Sabhi workers ko site se bahar bhej den"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fire hazard ke risk ko manage karne ke liye, Site Supervisor ko ensure karna chahiye ki fire extinguishers available hon, functional hon aur easily accessible hon. Workers ko unhe use karna bhi aana chahiye."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Construction site par scaffolding ka kya mahatva hai?",
+      "options": {
+        "A": "Material transport ke liye",
+        "B": "Workers ke liye safe working platform provide karna",
+        "C": "Building ko support dena",
+        "D": "Waterproofing ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Scaffolding workers ko height par kaam karne ke liye ek safe aur stable platform provide karta hai, jisse unki safety ensure hoti hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Hot work permit kab zaroori hota hai?",
+      "options": {
+        "A": "Jab bhi cement mix kiya jaata hai",
+        "B": "Jab welding, cutting ya grinding jaise kaam hote hain jisse heat ya sparks generate ho",
+        "C": "Jab baarish ho rahi ho",
+        "D": "Jab laborers lunch break par hon"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hot work permit tab zaroori hota hai jab site par aise kaam kiye ja rahe hon jisse heat, sparks ya open flame generate ho sakte hain, jaise welding, cutting, grinding, taaki fire risk ko control kiya ja sake."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Confined space mein kaam karte waqt kya precautions leni chahiye?",
+      "options": {
+        "A": "Sirf helmet pehenna kaafi hai",
+        "B": "Proper ventilation, gas detection aur rescue plan hona chahiye",
+        "C": "Extra laborers ko andar bhejna chahiye",
+        "D": "Koi special precaution ki zaroorat nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confined spaces mein oxygen deficiency, toxic gases aur other hazards ka risk hota hai. Isliye proper ventilation, atmosphere testing (gas detection), aur ek well-defined rescue plan bahut zaroori hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Site Supervisor ko daily site inspection kyun karni chahiye?",
+      "options": {
+        "A": "Sirf attendance check karne ke liye",
+        "B": "Safety hazards identify karne aur work progress check karne ke liye",
+        "C": "Material order list banane ke liye",
+        "D": "Client se meeting karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Daily site inspection se Site Supervisor safety hazards ko identify kar pata hai aur work progress ko monitor kar paata hai, jisse issues ko time par address kiya ja sake."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Work at height ke liye kya safety measures zaroori hain?",
+      "options": {
+        "A": "Sirf ladders use karna",
+        "B": "Safety harnesses, guardrails aur secure platforms ka use karna",
+        "C": "Workers ko gloves pehenne ke liye kehna",
+        "D": "Raat mein kaam na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Work at height mein fall protection sabse critical hai. Iske liye safety harnesses, guardrails, toe boards aur secure working platforms jaise measures lena zaroori hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Electrical safety ke liye kya precaution leni chahiye site par?",
+      "options": {
+        "A": "Loose wires ko ignore karna",
+        "B": "Damaged electrical cables aur equipment ko turant repair ya replace karna",
+        "C": "Water ke paas electrical work karna",
+        "D": "Temporary wiring ko permanent wiring ki tarah treat karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electrical hazards se bachne ke liye, damaged electrical cables, tools aur equipment ko turant repair ya replace karna chahiye. Proper earthing aur insulation bhi check karna zaroori hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Hazard identification ka kya matlab hai?",
+      "options": {
+        "A": "Sirf accidents ko record karna",
+        "B": "Potential dangers ya risks ko pehchanana jo workers ko nuksaan pahuncha sakte hain",
+        "C": "Work schedule banana",
+        "D": "Material ki quality check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hazard identification ka matlab hai construction site par maujood un sabhi cheezon, situations ya conditions ko pehchanana jinse workers ko chot lag sakti hai ya unki health ko nuksaan ho sakta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Site par emergency evacuation plan kyun zaroori hai?",
+      "options": {
+        "A": "Visitors ko guide karne ke liye",
+        "B": "Emergency ki sthiti mein sabhi logon ko safely site se nikalne ke liye",
+        "C": "Material delivery track karne ke liye",
+        "D": "Daily progress report file karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency evacuation plan site par kisi bhi aakasmik sthiti (jaise fire, earthquake) mein sabhi logon, khaaskar workers ko, surakshit roop se site se nikalne ke liye ek structured approach provide karta hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Stop Work Authority (SWA) ka kya significance hai?",
+      "options": {
+        "A": "Workers ko kaam rokne ki permission dena jab unhe koi safety concern na ho",
+        "B": "Kisi bhi worker ko kaam rokne ka adhikar dena agar unhe lagta hai ki kaam unsafe hai",
+        "C": "Sirf Site Supervisor ko kaam rokne ka adhikar dena",
+        "D": "Contractor ko kaam rokne ke liye majboor karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Stop Work Authority ek safety principle hai jismein kisi bhi worker ko adhikar hota hai ki woh kaam ko rok sake agar unhe lagta hai ki kaam unsafe hai ya usse kisi ko khatra ho sakta hai. Yeh safety culture ko promote karta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Excavation work ke dauran soil collapse se bachne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Sirf ek worker ko andar bhejna",
+        "B": "Shoring, sloping ya trench boxes ka use karna",
+        "C": "Excavated soil ko trench ke bilkul kinare par rakhna",
+        "D": "Raat mein excavation karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Excavation ke dauran soil collapse ek bada khatra hai. Isse bachne ke liye shoring (support structures), sloping (excavation sides ko angle dena) ya trench boxes (protective enclosures) ka use karna zaroori hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Cement ko store karte waqt kin baaton ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Direct sunlight mein store karna",
+        "B": "Moisture se bachana aur elevated platform par store karna",
+        "C": "Open air mein rakhna",
+        "D": "Dusre materials ke saath mix kar ke rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cement bahut hygroscopic hota hai, matlab yeh moisture absorb karta hai. Isliye isse moisture se bachana aur zameen se upar (elevated platform par) store karna chahiye, taaki uski strength intact rahe."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Aggregate (ret aur bajri) ki quality check karne ke liye kya dekha jaata hai?",
+      "options": {
+        "A": "Unka colour",
+        "B": "Cleanliness, size distribution aur strength",
+        "C": "Unka weight",
+        "D": "Unka price"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aggregate ki quality ke liye uski cleanliness (dust, clay, organic impurities se free), proper size distribution (grading) aur strength (crushing value) ko check karna zaroori hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "TMT bars ka kya matlab hai aur yeh construction mein kyun use hote hain?",
+      "options": {
+        "A": "Treated Material Technology, sirf decorative purposes ke liye",
+        "B": "Thermo-Mechanically Treated, high strength aur ductility provide karne ke liye",
+        "C": "Total Material Transfer, material transport ke liye",
+        "D": "Temporary Material Type, temporary structures ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "TMT bars (Thermo-Mechanically Treated) high strength aur ductility (lacchilapan) provide karte hain, jisse structures earthquake resistant bante hain. Yeh RCC construction mein reinforcement ke liye use hote hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Concrete ki strength kis factor par sabse zyada depend karti hai?",
+      "options": {
+        "A": "Uske colour par",
+        "B": "Water-cement ratio par",
+        "C": "Uske volume par",
+        "D": "Uske finishing par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Concrete ki strength water-cement ratio par direct depend karti hai. Low water-cement ratio (within limits) high strength concrete deta hai, jabki high ratio weak concrete banata hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Slump test kyun kiya jaata hai concrete ke liye?",
+      "options": {
+        "A": "Concrete ki strength check karne ke liye",
+        "B": "Concrete ki workability (kaam karne mein aasani) check karne ke liye",
+        "C": "Concrete ka colour check karne ke liye",
+        "D": "Concrete ka setting time check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slump test concrete ki workability ya consistency check karne ke liye kiya jaata hai. Yeh batata hai ki concrete kitna geela ya dry hai aur use place karna kitna aasan hoga."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Curing of concrete ka kya mahatva hai?",
+      "options": {
+        "A": "Concrete ko jaldi sukhane ke liye",
+        "B": "Concrete ki proper hydration aur strength gain ke liye moisture maintain karna",
+        "C": "Concrete ko colour dene ke liye",
+        "D": "Concrete ko rough banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Curing concrete ko ek specific period tak moisture aur temperature control mein rakhne ki process hai, jisse cement ka hydration process complete ho aur concrete apni maximum strength achieve kar sake."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Bricks ki quality check karte waqt kya dekha jaata hai?",
+      "options": {
+        "A": "Unka price",
+        "B": "Uniform size, shape, colour aur sound test",
+        "C": "Unka weight",
+        "D": "Unki rough surface"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Achhi quality ki bricks uniform size, shape aur colour ki hoti hain. Jab do bricks ko aapas mein takraya jaata hai toh metallic ringing sound aana chahiye. Water absorption bhi kam hona chahiye."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Steel reinforcement ko store karte waqt kya precautions leni chahiye?",
+      "options": {
+        "A": "Direct zameen par rakhna",
+        "B": "Rust se bachane ke liye elevated aur dry jagah par store karna",
+        "C": "Dusre metals ke saath mix karna",
+        "D": "Open air mein chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Steel reinforcement ko rust se bachana bahut zaroori hai, kyunki rust uski bond strength ko concrete ke saath kam kar deta hai. Isliye usse dry aur elevated platform par store karna chahiye."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Admixtures kya hote hain aur kyun use kiye jaate hain concrete mein?",
+      "options": {
+        "A": "Extra aggregate",
+        "B": "Cement ke substitute",
+        "C": "Chemical agents jo concrete ki properties (jaise workability, setting time) ko modify karte hain",
+        "D": "Concrete ko colourful banane ke liye"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Admixtures chemical substances hote hain jo concrete mix mein add kiye jaate hain takki uski workability, setting time, strength, durability jaise properties ko improve kiya ja sake."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "First-in, First-out (FIFO) principle material management mein kyun follow kiya jaata hai?",
+      "options": {
+        "A": "Sabse naye material ko pehle use karne ke liye",
+        "B": "Sabse purane material ko pehle use karne ke liye, wastage kam karne aur expiry se bachne ke liye",
+        "C": "Material ko randomly use karne ke liye",
+        "D": "Material inventory ko badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FIFO principle yeh ensure karta hai ki jo material pehle aaya hai use pehle use kiya jaaye. Yeh specially perishable items jaise cement ke liye important hai, taaki unki expiry date se pehle use ho sake aur wastage na ho."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Quality control ke liye Cube test kyun kiya jaata hai?",
+      "options": {
+        "A": "Concrete ki workability check karne ke liye",
+        "B": "Hardened concrete ki compressive strength check karne ke liye",
+        "C": "Concrete ka temperature check karne ke liye",
+        "D": "Concrete ka colour check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cube test hardened concrete ki compressive strength check karne ke liye kiya jaata hai. Concrete cubes ko site par cast kiya jaata hai aur specified curing ke baad laboratory mein test kiya jaata hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Building construction mein Timber (wood) ki quality kaise judge ki jaati hai?",
+      "options": {
+        "A": "Uske weight se",
+        "B": "Knots, cracks, decay aur moisture content check karke",
+        "C": "Uske price se",
+        "D": "Uske colour se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Timber ki quality usmein maujood defects jaise knots (ganthen), cracks, decay (sadna) aur uske moisture content se judge ki jaati hai. Achha timber straight-grained aur defect-free hota hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Water used for concrete mixing ki kya quality honi chahiye?",
+      "options": {
+        "A": "Koi bhi water use kar sakte hain",
+        "B": "Potable (peene layak) aur impurities se free hona chahiye",
+        "C": "Sea water use karna chahiye",
+        "D": "Acidic water use karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Concrete mixing ke liye use hone wala paani potable (peene layak) hona chahiye aur usmein salts, acids, oils, organic matter jaise impurities nahi honi chahiye, kyunki yeh concrete ki strength ko negatively affect kar sakte hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Material reconciliation ka kya uddeshya hai?",
+      "options": {
+        "A": "Naye material suppliers dhundhna",
+        "B": "Site par received aur actually consumed material ki quantity ko compare karna, wastage aur theft control karne ke liye",
+        "C": "Material ke prices negotiate karna",
+        "D": "Material ko dispose karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Material reconciliation mein received material aur consumed material ka comparison kiya jaata hai. Isse material wastage, theft aur pilferage ko track aur control kiya ja sakta hai, jisse cost savings hoti hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Cement ke bags ko kitni height tak stack karna safe hota hai?",
+      "options": {
+        "A": "15 bags se zyada",
+        "B": "10 bags se zyada nahi",
+        "C": "20 bags tak",
+        "D": "Jitna ho sake utna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cement bags ko 10 bags se zyada height tak stack nahi karna chahiye, taaki stability bani rahe aur collapse ka risk kam ho. Stacking walls se 60 cm (2 feet) door honi chahiye."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Plasticizer admixture ka kya kaam hota hai concrete mein?",
+      "options": {
+        "A": "Concrete ko jaldi set karna",
+        "B": "Concrete ki strength kam karna",
+        "C": "Workability badhana without increasing water content",
+        "D": "Concrete ka colour change karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Plasticizer (water reducer) admixtures concrete ki workability ko increase karte hain, jisse same slump achieve karne ke liye kam paani ki zaroorat padti hai. Isse strength improve hoti hai aur segregation kam hota hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Reinforcement bars ki bending kaise karni chahiye?",
+      "options": {
+        "A": "Kisi bhi angle par",
+        "B": "Drawing aur design ke according, proper bending radius maintain karte hue",
+        "C": "Torch se garam karke",
+        "D": "Hath se mod kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reinforcement bars ki bending hamesha drawings aur design specifications ke according hi karni chahiye. Proper bending radius maintain karna zaroori hai, taaki bar mein cracks na aaye aur uski strength maintain rahe."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Footing ka kya uddeshya hota hai building construction mein?",
+      "options": {
+        "A": "Building ko decorate karna",
+        "B": "Structure ke load ko soil par distribute karna",
+        "C": "Waterproofing provide karna",
+        "D": "Bijli ki wiring ke liye jagah banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Footing foundation ka ek important part hai jo building ke saare load ko safely aur evenly surrounding soil par distribute karta hai, taaki settlement aur structural failure na ho."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "RCC ka full form kya hai?",
+      "options": {
+        "A": "Ready Cement Concrete",
+        "B": "Reinforced Cement Concrete",
+        "C": "Rapid Cooling Concrete",
+        "D": "Rough Cast Concrete"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RCC ka full form Reinforced Cement Concrete hai. Ismein steel reinforcement bars ko concrete ke andar dala jaata hai, jisse concrete ki compressive strength aur steel ki tensile strength ka fayda uthaya ja sake."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Shuttering ya Formwork ka kya kaam hai?",
+      "options": {
+        "A": "Concrete ko mix karna",
+        "B": "Fresh concrete ko desired shape aur support provide karna jab tak woh set na ho jaye",
+        "C": "Concrete ko rough banana",
+        "D": "Concrete ko colour dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shuttering ya Formwork ek temporary structure hota hai jo fresh concrete ko uski casting ke dauran desired shape, size aur support provide karta hai, jab tak concrete apni initial strength gain na kar le."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Column casting se pehle kya check karna bahut zaroori hai?",
+      "options": {
+        "A": "Column ka colour",
+        "B": "Verticality (plumb), reinforcement ki correct placement aur cover block use hue hain ya nahi",
+        "C": "Column ka weight",
+        "D": "Column ki height"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Column casting se pehle uski exact verticality (plumb), reinforcement bars ki sahi placement, stirrups ki spacing aur cover blocks ka use check karna critical hai, taaki structural integrity bani rahe."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Concrete compaction kyun zaroori hai?",
+      "options": {
+        "A": "Concrete ko jaldi sukhane ke liye",
+        "B": "Concrete se air voids nikalne aur uski density aur strength badhane ke liye",
+        "C": "Concrete ko light banane ke liye",
+        "D": "Concrete ko colour dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Concrete compaction vibrating needles ya hand tamping se kiya jaata hai, taaki fresh concrete mein trapped air voids nikal jayein. Isse concrete dense, strong aur durable banta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Plastering se pehle walls par kya preparation karni chahiye?",
+      "options": {
+        "A": "Walls ko dry chhod dena",
+        "B": "Walls ko achhe se clean aur wet karna",
+        "C": "Walls par paint karna",
+        "D": "Walls par oil lagana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plastering se pehle walls ko dust, loose particles se clean karna aur achhe se wet karna zaroori hai. Isse plaster aur wall ke beech achha bond banta hai aur plaster ki cracking kam hoti hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Masonry work mein 'bond' ka kya matlab hai?",
+      "options": {
+        "A": "Bricks ka colour",
+        "B": "Bricks ko is tarah arrange karna ki joints overlap hon, taaki structure stable aur strong ho",
+        "C": "Bricks ka weight",
+        "D": "Bricks ko randomly rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Bond' masonry mein bricks ko arrange karne ka tareeka hai, jismein vertical joints overlap hote hain. Isse wall ki strength, stability aur appearance improve hoti hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Backfilling ka kya uddeshya hai?",
+      "options": {
+        "A": "Nayi foundation banana",
+        "B": "Excavated area ko soil ya aggregate se wapas bharna",
+        "C": "Concrete mix karna",
+        "D": "Wall plaster karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Backfilling mein excavated area ko soil, sand ya aggregate jaise materials se wapas bhara jaata hai, typically foundations, trenches ya basements ke aas-paas, taaki support provide kiya ja sake."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Cranes aur heavy machinery operate karte waqt kya safety precautions leni chahiye?",
+      "options": {
+        "A": "Sirf operator par depend karna",
+        "B": "Properly trained aur certified operators, load charts follow karna, aur clear communication (signals) maintain karna",
+        "C": "Maintenance schedule ignore karna",
+        "D": "Overload karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cranes aur heavy machinery ke operation mein safety critical hai. Certified operators, load charts ka strict adherence, proper rigging, aur clear communication signals safety ensure karte hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Centering aur Shuttering kab remove karni chahiye?",
+      "options": {
+        "A": "Concrete dalne ke turant baad",
+        "B": "Jab concrete ne required strength achieve kar li ho, design aur standard ke according",
+        "C": "Jab bhi man kare",
+        "D": "Ek din ke andar"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Centering aur Shuttering ko tabhi remove karna chahiye jab concrete ne apni required strength achieve kar li ho. Iske liye specific timeframes hote hain jo structural design aur relevant codes par depend karte hain, taaki structure ko nuksaan na ho."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "PCC ka kya matlab hai aur yeh kahan use hota hai?",
+      "options": {
+        "A": "Precast Concrete Column, columns ke liye",
+        "B": "Plain Cement Concrete, leveling course aur protective layer ke liye",
+        "C": "Polymer Coated Concrete, waterproofing ke liye",
+        "D": "Power Compacted Concrete, roads ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PCC ka matlab Plain Cement Concrete hai. Ismein steel reinforcement nahi hota hai. Yeh usually leveling course (e.g., foundation ke niche) aur protective layer ke roop mein use hota hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Ready Mix Concrete (RMC) ke kya fayde hain?",
+      "options": {
+        "A": "Site par zyada mess hota hai",
+        "B": "Consistent quality, faster construction aur reduced labor",
+        "C": "Cost zyada hoti hai",
+        "D": "Quality control mushkil hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RMC ek central plant mein taiyar kiya jaata hai aur site par delivery kiya jaata hai. Iske fayde hain consistent quality, faster construction, kam labor requirement aur site par kam pollution/mess."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Damp Proof Course (DPC) ka kya kaam hai?",
+      "options": {
+        "A": "Wall ko decorate karna",
+        "B": "Ground se aane wali moisture ko walls mein upar chadne se rokna",
+        "C": "Bijli ki wiring ke liye jagah banana",
+        "D": "Wall ko support dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Damp Proof Course (DPC) ek waterproof barrier hota hai jo walls mein ground level se thoda upar provide kiya jaata hai, taaki ground se aane wali moisture (rising dampness) walls mein upar na chade."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "What is the purpose of a vibrator in concrete work?",
+      "options": {
+        "A": "To mix the concrete more effectively",
+        "B": "To remove air bubbles from the concrete (compaction)",
+        "C": "To heat the concrete in cold weather",
+        "D": "To give a smooth finish to the concrete surface"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Concrete vibrator ka use fresh concrete se trapped air bubbles ko nikalne (compaction) ke liye kiya jaata hai, jisse concrete dense, strong aur void-free banta hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Pre-stressed concrete kya hota hai?",
+      "options": {
+        "A": "Concrete jo pehle se stress mein ho",
+        "B": "Concrete jismein steel tendons ko tension kiya jaata hai taaki woh external loads ko resist kar sake",
+        "C": "Concrete jo bahut jaldi set hota hai",
+        "D": "Concrete jismein koi reinforcement na ho"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pre-stressed concrete mein high-strength steel tendons ko concrete pour karne se pehle ya baad mein tension kiya jaata hai, jisse concrete mein compressive stresses induce hote hain. Yeh external loads ko efficiently resist karta hai aur crack formation kam karta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Pointing (masonry work) ka kya kaam hai?",
+      "options": {
+        "A": "Bricks ko colour karna",
+        "B": "Mortar joints ko finish karna aur weather resistance provide karna",
+        "C": "Bricks ko cut karna",
+        "D": "Wall ki height badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pointing masonry walls mein exposed mortar joints ko finish karne ki process hai, jisse wall ki aesthetic appearance improve hoti hai aur weather resistance (paani ka andar aana) bhi badhti hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Pile foundation kab use ki jaati hai?",
+      "options": {
+        "A": "Jab soil bahut strong ho",
+        "B": "Jab surface soil weak ho aur deep, strong strata par load transfer karna ho",
+        "C": "Sirf single storey building ke liye",
+        "D": "Jab building ka weight bahut kam ho"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pile foundation tab use ki jaati hai jab surface soil weak ya compressible ho aur building ka load ek deep, strong soil strata tak transfer karna ho. Yeh heavy structures ke liye common hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Architectural drawing mein 'Plan' view kya dikhata hai?",
+      "options": {
+        "A": "Building ka side view",
+        "B": "Building ka top view, walls, doors, windows, rooms ke layout ke saath",
+        "C": "Building ka front view",
+        "D": "Building ka interior design"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plan view building ka top-down perspective dikhata hai, jaise ki building ko ek horizontal plane par kaat kar upar se dekha gaya ho. Ismein walls, doors, windows, room dimensions aur layout hote hain."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Structural drawing mein 'Section' ka kya matlab hai?",
+      "options": {
+        "A": "Building ka exterior view",
+        "B": "Building ko vertically kaat kar andar ke details (beams, columns, slabs, foundation) dikhana",
+        "C": "Building ka top view",
+        "D": "Building ka location map"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Section drawing building ko vertically kaat kar uske andar ke structural components jaise beams, columns, slabs, foundation aur unke reinforcement details ko dikhata hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Drawing mein 'Scale' ka kya mahatva hai?",
+      "options": {
+        "A": "Drawing ki beauty badhane ke liye",
+        "B": "Actual dimensions ko proportionately chhota karke drawing par dikhana",
+        "C": "Drawing ko bada karne ke liye",
+        "D": "Drawing ka weight kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Scale drawing mein actual object ki dimensions ko ek specific ratio mein chhota karke represent karta hai, taaki ek bade structure ko ek chote paper par accurately dikhaya ja sake."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Beam schedule mein kya information hoti hai?",
+      "options": {
+        "A": "Beam ka colour",
+        "B": "Beam ki size, reinforcement details (bars ka diameter, quantity, cutting length) aur concrete grade",
+        "C": "Beam ki location",
+        "D": "Beam ko ban banane wala worker ka naam"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Beam schedule ek table hota hai jo har beam ki complete details provide karta hai, jaise uski cross-section size, main reinforcement bars, stirrups (rings) ki details, concrete grade aur other relevant specifications."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Foundation plan mein kya dikhaya jaata hai?",
+      "options": {
+        "A": "Building ka roof design",
+        "B": "Footings, columns, grade beams aur foundation se related saari structural details",
+        "C": "Building ka interior layout",
+        "D": "Electrical wiring details"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Foundation plan building ke foundation system ki details dikhata hai, jismein footings, columns, grade beams, foundation walls aur unki dimensions aur locations shamil hoti hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "BOQ ka full form kya hai aur iska kya use hai?",
+      "options": {
+        "A": "Building Order Quantity, material order karne ke liye",
+        "B": "Bill of Quantities, project mein required items aur unki quantities ki detailed list",
+        "C": "Building Operations Quality, quality control ke liye",
+        "D": "Basic Output Quota, labor productivity check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "BOQ (Bill of Quantities) ek detailed document hai jo project mein hone wale har kaam aur uski quantity ko specify karta hai. Yeh tendering, costing aur project progress tracking ke liye use hota hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Leveling instrument (jaise Dumpy Level ya Auto Level) ka kya use hai site par?",
+      "options": {
+        "A": "Material ka weight check karna",
+        "B": "Relative heights ya elevations ko measure karna",
+        "C": "Distance measure karna",
+        "D": "Temperature check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Leveling instruments ka use site par alag-alag points ki relative heights ya elevations ko accurately measure karne ke liye hota hai, jo foundation, slab, floor finishing jaise kaam ke liye critical hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Cutting Length of Stirrups (rings) calculate karne ke liye kya formula use hota hai?",
+      "options": {
+        "A": "P = 2(L+B) + Hook Length - Bend Deductions",
+        "B": "P = L*B",
+        "C": "P = L+B",
+        "D": "P = 2(L-B)"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Stirrups ki cutting length calculate karne ke liye, perimeter (2*(length + breadth)) mein hook lengths add ki jaati hain aur bend deductions (90 degree bends ke liye 2d, 135 degree bends ke liye 3d, where d is diameter of bar) minus kiye jaate hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Centerline method ka kya fayda hai quantity estimation mein?",
+      "options": {
+        "A": "Yeh bahut complicated method hai",
+        "B": "Calculations ko simplify karta hai aur time bachata hai, khaaskar uniform walls ke liye",
+        "C": "Sirf material cost calculate karta hai",
+        "D": "Labor cost calculate karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Centerline method estimation mein total centerline length calculate karke, common cross-section areas se multiply kiya jaata hai. Yeh calculations ko simplify karta hai aur time efficient hai, especially for structures with uniform wall thicknesses."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Rebar Schedule mein 'TMT 12 @ 150 C/C' ka kya matlab hai?",
+      "options": {
+        "A": "12 mm diameter TMT bars ko 150 mm spacing par corner to corner lagana hai",
+        "B": "12 mm diameter TMT bars ko 150 mm spacing par center to center lagana hai",
+        "C": "12 TMT bars ko 150 cm spacing par lagana hai",
+        "D": "12 gauge TMT wire 150 cm lambi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Is notation ka matlab hai ki Thermo-Mechanically Treated (TMT) bars ka diameter 12 mm hai aur unhe 150 mm (15 cm) ke center-to-center spacing par place karna hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Area calculation ke liye square ya rectangular room ki formula kya hai?",
+      "options": {
+        "A": "Length + Width",
+        "B": "Length * Width",
+        "C": "2 * (Length + Width)",
+        "D": "Length / Width"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek square ya rectangular room ka area uski length ko uski width se multiply karke calculate kiya jaata hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Volume of concrete for a slab (length x width x thickness) calculate karne ke liye units kya honi chahiye?",
+      "options": {
+        "A": "Feet, Inches, Yards",
+        "B": "Meter, Meter, Centimeter",
+        "C": "Sabhi units same honi chahiye, jaise Meters, Meters, Meters",
+        "D": "Kilogram, Meter, Second"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Volume calculation ke liye sabhi dimensions ko same units mein hona zaroori hai, jaise agar length aur width meters mein hain toh thickness bhi meters mein honi chahiye, taaki result cubic meters mein aaye."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Plot plan ya Site plan kya dikhata hai?",
+      "options": {
+        "A": "Building ka interior design",
+        "B": "Building ki location property line, roads, landscaping aur utilities ke reference mein",
+        "C": "Sirf building ka front elevation",
+        "D": "Material storage details"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plot plan ya Site plan building ki location ko property boundaries, nearby roads, landscaping features, utility connections (water, sewer, electricity) aur site contours ke reference mein dikhata hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Door schedule mein kya information hoti hai?",
+      "options": {
+        "A": "Door ka colour",
+        "B": "Door ki size, type, material, finish aur hardware details",
+        "C": "Door ka weight",
+        "D": "Door ki manufacturing date"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Door schedule ek table hota hai jo har door ki detailed specifications provide karta hai, jaise uski width, height, type (flush, panelled), material, finish, fire rating aur hardware (hinges, locks) details."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Total Station ka kya use hai modern construction surveying mein?",
+      "options": {
+        "A": "Cement mix karne ke liye",
+        "B": "Angles aur distances ko accurately measure karne ke liye, aur coordinate data collect karne ke liye",
+        "C": "Material ka weight check karne ke liye",
+        "D": "Concrete ki strength check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Total Station ek advanced surveying instrument hai jo horizontal aur vertical angles, slope distances ko electronic tarike se measure karta hai. Yeh layout, setting out aur as-built surveys ke liye bahut accurate hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Skirting ki measurement kaise ki jaati hai?",
+      "options": {
+        "A": "Room ke area se",
+        "B": "Room ke perimeter (lambai + chaudai ka dugna) se, doors ke openings ko minus karke",
+        "C": "Room ki height se",
+        "D": "Room ke volume se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Skirting (ya dado rail) ki measurement room ke perimeter se ki jaati hai. Doors ke openings ko total perimeter se minus kiya jaata hai kyunki wahan skirting nahi lagti."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Wastage factor kyun apply kiya jaata hai material estimation mein?",
+      "options": {
+        "A": "Material ki cost badhane ke liye",
+        "B": "Cutting losses, breakage aur handling losses ko account karne ke liye",
+        "C": "Material ko kam order karne ke liye",
+        "D": "Material ki quality check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wastage factor material estimation mein apply kiya jaata hai taaki cutting losses, breakage, theft, spillages aur other handling losses ko cover kiya ja sake. Yeh ensure karta hai ki site par required quantity se kam material na pade."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Daily Progress Report (DPR) ka kya mahatva hai?",
+      "options": {
+        "A": "Sirf record keeping ke liye",
+        "B": "Daily work progress, labor attendance, material consumption aur site issues ko track karne ke liye",
+        "C": "Workers ki salary calculate karne ke liye",
+        "D": "Naye project dhundhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "DPR ek critical document hai jo daily work progress, deployed labor, consumed materials, equipment usage, site problems aur safety observations ko record karta hai. Yeh project monitoring aur decision making mein help karta hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Site par labor management mein Supervisor ki kya zimmedari hai?",
+      "options": {
+        "A": "Sirf workers ko kaam batana",
+        "B": "Workers ko assign tasks dena, unki productivity monitor karna, safety ensure karna aur conflicts resolve karna",
+        "C": "Workers ki salary fix karna",
+        "D": "Workers ko training dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Supervisor ki zimmedari hai workers ko tasks assign karna, unki performance monitor karna, site safety rules follow karwana, aur workers ke beech hone wale kisi bhi conflict ko solve karna."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Site Instruction (SI) ka kya uddeshya hai?",
+      "options": {
+        "A": "Workers ko chutti dene ke liye",
+        "B": "Project Manager ya Client se formal instructions ya changes ko Site Supervisor tak convey karna",
+        "C": "Material order karne ke liye",
+        "D": "Safety rules banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Site Instruction (SI) ek formal document hai jo Project Manager ya Client ki taraf se Site Supervisor ko diya jaata hai. Ismein design changes, work scope variations ya other critical instructions hote hain jinhe site par implement karna hota hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Good communication skills ek Site Supervisor ke liye kyun important hain?",
+      "options": {
+        "A": "Sirf client ko impress karne ke liye",
+        "B": "Workers, management aur other stakeholders ke saath effective coordination, problem solving aur instructions dene ke liye",
+        "C": "Bas report likhne ke liye",
+        "D": "Material order karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Effective communication Supervisor ko workers ko clear instructions dene, problems solve karne, management ko updates dene aur sabhi stakeholders ke saath achha coordination maintain karne mein help karti hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Site meeting mein kya discuss kiya jaata hai?",
+      "options": {
+        "A": "Sirf personal baatein",
+        "B": "Project progress, upcoming tasks, safety concerns, quality issues aur resource requirements",
+        "C": "Sabhi workers ki complaints",
+        "D": "Sirf financial matters"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Site meetings mein project ki current progress review ki jaati hai, future plans discuss kiye jaate hain, safety aur quality issues par baat hoti hai, aur resource needs ko identify kiya jaata hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Attendance register maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf workers ko ginti karne ke liye",
+        "B": "Labor cost calculate karne, productivity monitor karne aur safety ke liye (in case of emergency)",
+        "C": "Material delivery track karne ke liye",
+        "D": "Drawing review karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Attendance register labor cost calculation, individual worker productivity analysis aur emergency situations mein site par maujood logon ki accurate count ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Conflict resolution mein Site Supervisor ka kya role hai?",
+      "options": {
+        "A": "Conflict ko ignore karna",
+        "B": "Neutral rehkar parties ke beech mediation karna aur fair solution nikalna",
+        "C": "Sirf ek party ka saath dena",
+        "D": "Dono parties ko kaam se nikal dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Supervisor ko conflicts ko resolve karne mein neutral rehkar mediate karna chahiye, dono sides ko sunna chahiye aur ek fair, practical solution dhundhna chahiye jo project ke हित mein ho."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Permit-to-Work (PTW) system ka kya fayda hai?",
+      "options": {
+        "A": "Kaam ko slow karna",
+        "B": "High-risk activities ko safely plan, authorize aur control karna",
+        "C": "Sirf extra documentation create karna",
+        "D": "Workers ko punishment dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "PTW system high-risk activities jaise hot work, confined space entry, electrical work ke liye zaroori hai. Yeh ensure karta hai ki kaam shuru karne se pehle saare hazards identify ho jayein aur proper safety measures implement kiye jayein."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Site logbook mein kya record kiya jaata hai?",
+      "options": {
+        "A": "Sirf weather conditions",
+        "B": "Daily events, visitors, deliveries, incidents, instructions aur major observations",
+        "C": "Workers ki personal details",
+        "D": "Future project plans"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Site logbook mein daily ke sabhi important events, jaise visitors, material deliveries, minor incidents, special instructions, aur general site observations ko record kiya jaata hai. Yeh ek legal record bhi hota hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Toolbox talks ke liye sahi frequency kya honi chahiye?",
+      "options": {
+        "A": "Kabhi kabhi",
+        "B": "Daily ya jab bhi naya task shuru ho",
+        "C": "Hafte mein ek baar",
+        "D": "Mahine mein ek baar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Toolbox talks daily ya jab bhi koi naya ya high-risk task shuru ho, tab conduct kiye jaane chahiye, taaki workers ko latest safety information aur task-specific hazards ke baare mein update kiya ja sake."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Induction training naye workers ke liye kyun zaroori hai?",
+      "options": {
+        "A": "Sirf unki skills check karne ke liye",
+        "B": "Unhe site specific safety rules, emergency procedures aur general site layout se familiarize karwane ke liye",
+        "C": "Unhe project ka detailed design batane ke liye",
+        "D": "Unhe kaam par turant lagane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Induction training naye workers ko site ke specific safety rules, emergency procedures, site layout, first aid points aur unke roles aur responsibilities se familiarize karwati hai, jisse accidents ka risk kam hota hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Material Requisition Form (MRF) ka kya use hai?",
+      "options": {
+        "A": "Material ko dispose karne ke liye",
+        "B": "Site par required materials ko officially order karne ke liye",
+        "C": "Material ki quality check karne ke liye",
+        "D": "Material ko store karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MRF ek form hota hai jisse Site Supervisor ya Storekeeper required materials ki list officially purchase department ko bhejte hain, taaki materials site par timely deliver ho sakein."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Site par discipline maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf workers ko darane ke liye",
+        "B": "Safety, productivity aur smooth workflow ensure karne ke liye",
+        "C": "Supervisor ki power dikhane ke liye",
+        "D": "Workers ko kaam se nikalne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Discipline maintain karna safety rules follow karwane, productivity badhane, aur site par ek organized aur efficient working environment create karne ke liye crucial hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Record keeping ki importance construction site par kya hai?",
+      "options": {
+        "A": "Sirf paper waste badhana",
+        "B": "Future reference, legal compliance, dispute resolution aur project analysis ke liye",
+        "C": "Sirf extra kaam karna",
+        "D": "Workers ko busy rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper record keeping (DPRs, material receipts, safety reports, meeting minutes) future reference, legal requirements fulfill karne, disputes settle karne aur project ke performance ko analyze karne ke liye bahut important hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Shift Handover (shift change ke waqt) ke dauran kya information pass karni chahiye?",
+      "options": {
+        "A": "Sirf greetings",
+        "B": "Pending tasks, critical issues, equipment status, safety concerns aur special instructions",
+        "C": "Personal stories",
+        "D": "Future vacation plans"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Effective shift handover mein incoming Supervisor ko pending tasks, koi bhi critical issues, equipment ki status, safety alerts aur special instructions ke baare mein detailed brief dena chahiye, taaki work continuity bani rahe aur koi information miss na ho."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Visitor logbook maintain karna kyun important hai?",
+      "options": {
+        "A": "Visitors ko impress karne ke liye",
+        "B": "Safety aur security reasons ke liye, aur in case of emergency pata chale kaun site par hai",
+        "C": "Visitors se paise lene ke liye",
+        "D": "Visitors ko material bechne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Visitor logbook security ke liye zaroori hai, taaki pata chale kaun site par aaya aur kab. Emergency ki sthiti mein bhi yeh list helpful hoti hai ki kitne log site par hain."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Performance appraisal (kaarj pradarshan moolyankan) ka kya uddeshya hai?",
+      "options": {
+        "A": "Sirf workers ki galtiyan nikalna",
+        "B": "Workers ki performance evaluate karna, unki strengths aur weaknesses identify karna, aur development areas suggest karna",
+        "C": "Workers ko kaam se nikalna",
+        "D": "Workers ko bonus dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Performance appraisal workers ki performance ko objectively evaluate karta hai. Isse unki strengths aur weaknesses ko pehchana jaata hai, aur unhe further training ya development ke liye guide kiya jaata hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Project Schedule mein 'Critical Path' ka kya matlab hai?",
+      "options": {
+        "A": "Sabse chhota rasta project complete karne ka",
+        "B": "Tasks ka sequence jinko complete hone mein sabse zyada time lagta hai aur jinmein koi float (flexibility) nahi hota, isse project ki total duration determine hoti hai",
+        "C": "Sabse aasaan tasks",
+        "D": "Sabse mushkil tasks"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Critical Path project schedule mein tasks ka woh sequence hai jiske delay hone se poora project delay ho jaata hai. Ismein koi float ya flexibility nahi hoti, isliye in tasks ko closely monitor karna hota hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Progress monitoring kyun zaroori hai?",
+      "options": {
+        "A": "Sirf paperwork badhane ke liye",
+        "B": "Project ke actual progress ko planned schedule se compare karna aur deviations ko identify karna",
+        "C": "Workers ko busy rakhne ke liye",
+        "D": "Material order karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Progress monitoring project ke actual physical progress ko project schedule aur budget se compare karta hai. Isse delays ya cost overruns ko time par identify karke corrective actions liye ja sakte hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Waste management site par kyun important hai?",
+      "options": {
+        "A": "Sirf site ko saaf dikhane ke liye",
+        "B": "Environmental compliance, cost savings aur safety ke liye",
+        "C": "Extra labor hire karne ke liye",
+        "D": "Material ko dispose karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper waste management environmental pollution kam karta hai, waste disposal costs ko reduce karta hai, aur site ko safer banata hai. Ismein waste segregation, reuse aur recycling shamil hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Environmental compliance ka kya matlab hai construction sector mein?",
+      "options": {
+        "A": "Sirf trees lagana",
+        "B": "Environmental laws aur regulations ko follow karna, jaise dust control, noise pollution control, waste disposal norms",
+        "C": "Sirf green paint use karna",
+        "D": "Extra money spend karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Environmental compliance ka matlab hai construction activities ko environmental laws aur regulations ke according conduct karna. Ismein dust control, noise reduction, water pollution prevention, aur proper waste management shamil hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Project completion ke baad Site closure process mein kya steps shamil hote hain?",
+      "options": {
+        "A": "Sirf workers ko ghar bhejna",
+        "B": "Site ki final cleanup, equipment removal, temporary structures dismantle karna aur final documentation",
+        "C": "Naye project ki planning",
+        "D": "Client se payment lena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Site closure mein site ki complete cleanup, sabhi temporary structures (site office, storage sheds) ko dismantle karna, equipment remove karna, site ko original state mein restore karna aur saare final documents submit karna shamil hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Quality Assurance (QA) aur Quality Control (QC) mein kya antar hai?",
+      "options": {
+        "A": "Koi antar nahi hai",
+        "B": "QA process-oriented hai (how to build quality), jabki QC product-oriented hai (checking if quality is built)",
+        "C": "QA sirf documentation hai, QC sirf inspection hai",
+        "D": "QA sirf client ke liye hai, QC sirf site ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "QA (Quality Assurance) process aur systems par focus karta hai, taaki quality ko prevent kiya ja sake (right first time). QC (Quality Control) finished product ya work ko inspect karta hai aur defects ko identify karta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Budget monitoring ka kya role hai Site Supervisor ke liye?",
+      "options": {
+        "A": "Sirf Project Manager ka kaam hai",
+        "B": "Material aur labor consumption ko track karna, taaki project budget ke andar rahe",
+        "C": "Client se extra paisa mangna",
+        "D": "Sirf bills collect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Site Supervisor ko material aur labor consumption ko closely monitor karna chahiye. Yeh budget se deviations ko identify karne aur cost-effective solutions dhundhne mein help karta hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Bar bending schedule (BBS) ka kya fayda hai?",
+      "options": {
+        "A": "Sirf steel bars ko count karna",
+        "B": "Steel reinforcement ki accurate cutting aur bending lengths provide karna, wastage kam karna",
+        "C": "Steel bars ko color karna",
+        "D": "Steel bars ko store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "BBS steel reinforcement bars ki exact cutting aur bending lengths ki detailed list hoti hai. Yeh steel wastage ko kam karta hai, fabrication process ko streamline karta hai aur cost savings karta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Risk management ka kya matlab hai project mein?",
+      "options": {
+        "A": "Sirf problems ko ignore karna",
+        "B": "Potential risks ko identify karna, unka assessment karna aur unhe mitigate karne ke liye plans banana",
+        "C": "Risk lena",
+        "D": "Sirf insurance lena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Risk management mein project ko affect karne wale potential risks (safety, financial, operational) ko identify kiya jaata hai, unki likelihood aur impact ko assess kiya jaata hai, aur unhe kam karne ya avoid karne ke liye strategies banayi jaati hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Value engineering ka kya uddeshya hai?",
+      "options": {
+        "A": "Project ki quality kam karna",
+        "B": "Cost reduce karna without compromising on quality aur functionality",
+        "C": "Project duration badhana",
+        "D": "Sirf naye materials use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Value engineering ek systematic approach hai jismein project ke design, materials aur methods ko analyze kiya jaata hai taaki cost ko reduce kiya ja sake, functionality aur quality ko maintain rakhte hue ya improve karte hue."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Sustainability in construction ka kya matlab hai?",
+      "options": {
+        "A": "Sirf bade buildings banana",
+        "B": "Environmentally responsible, resource-efficient aur socially beneficial construction practices adopt karna",
+        "C": "Construction ko slow karna",
+        "D": "Sirf expensive materials use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sustainability in construction mein aise methods aur materials ka use karna shamil hai jo environmental impact ko kam karte hain, resources ko efficiently use karte hain aur long-term societal benefits provide karte hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Snag list (Punch list) kab banayi jaati hai?",
+      "options": {
+        "A": "Project shuru hone se pehle",
+        "B": "Project completion ke kareeb, minor defects aur incomplete items ko identify karne ke liye",
+        "C": "Material order karte waqt",
+        "D": "Daily basis par"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Snag list ya Punch list project completion ke kareeb banayi jaati hai. Ismein woh sabhi minor defects, incomplete items ya finishing issues record kiye jaate hain jinhe final handover se pehle theek karna hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Client satisfaction Site Supervisor ke liye kyun important hai?",
+      "options": {
+        "A": "Sirf extra bonus lene ke liye",
+        "B": "Future business opportunities, good reputation aur project ke smooth handover ke liye",
+        "C": "Sirf project ko jaldi khatam karne ke liye",
+        "D": "Material order karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client satisfaction bahut important hai kyunki yeh future projects, company ki reputation aur project ke successful handover ke liye critical hai. Satisfied client positive feedback aur referrals dete hain."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "As-Built Drawings ka kya use hai?",
+      "options": {
+        "A": "Initial design dikhane ke liye",
+        "B": "Final structure ko accurately represent karna, jismein site par hue saare changes shamil hon",
+        "C": "Sirf marketing ke liye",
+        "D": "Material order karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "As-Built Drawings final drawings hote hain jo site par actually constructed structure ko reflect karte hain, jismein original design drawings se saare deviations aur changes (jaise pipe routing, electrical conduit changes) shamil hote hain. Yeh future maintenance aur renovations ke liye critical hain."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Post-construction audit (nirman ke baad ka audit) ka kya uddeshya hai?",
+      "options": {
+        "A": "Sirf galti nikalna",
+        "B": "Project ke performance ko analyze karna, lessons learned identify karna aur future projects ke liye best practices develop karna",
+        "C": "Client se extra paisa lena",
+        "D": "Material ko dispose karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Post-construction audit mein project ke success aur failures ko analyze kiya jaata hai. Isse lessons learned identify hote hain, jo future projects ki planning aur execution ko improve karne mein help karte hain."
+    }
+  ]
+}

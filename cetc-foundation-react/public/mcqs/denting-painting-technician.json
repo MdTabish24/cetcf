@@ -1,0 +1,1443 @@
+{
+  "course_name": "Denting & Painting Technician",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Workshop Safety, Tools & Basic Practices",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Denting Techniques & Body Repair",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Surface Preparation & Priming",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Painting Techniques & Equipment",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Paint Defects, Colour Matching & Finishing",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Quality Control, Customer Service & Basic Diagnostics",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Workshop mein kaam karte samay sabse zaroori PPE (Personal Protective Equipment) kya hai?",
+      "options": {
+        "A": "Safety Goggles",
+        "B": "Headphones",
+        "C": "Fancy Watch",
+        "D": "Casual Shoes"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Safety Goggles aankhon ko sparks, dust aur chemical splashes se bachane ke liye sabse zaroori PPE hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Fire Extinguisher ka istemal karne se pehle kya check karna chahiye?",
+      "options": {
+        "A": "Paint ka brand",
+        "B": "Expiry date aur pressure gauge",
+        "C": "Car ka model",
+        "D": "Weather forecast"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fire Extinguisher ki expiry date aur pressure gauge check karna zaroori hai taaki emergency mein woh sahi se kaam kare."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Denting ke liye kaun sa tool metal ko stretch ya shrink karne mein help karta hai?",
+      "options": {
+        "A": "Screwdriver",
+        "B": "Hammer aur Dolly",
+        "C": "Pliers",
+        "D": "Wrench"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hammer aur Dolly ka combination denting mein metal ko reshape aur repair karne ke liye use hota hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Electrical tools use karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Unko pani mein dhona",
+        "B": "Loose cables aur damaged insulation check karna",
+        "C": "High voltage se touch karna",
+        "D": "Bina gloves ke use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Loose cables aur damaged insulation electrical shock ka reason ban sakte hain, isliye unko check karna zaroori hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Workshop mein chemical spills hone par kya action lena chahiye?",
+      "options": {
+        "A": "Ignore kar dena",
+        "B": "Turant clean karna aur proper disposal karna",
+        "C": "Us par paani daalna",
+        "D": "Kisi aur ko clean karne ke liye kehna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemical spills ko turant clean karna aur unka proper disposal karna safety ke liye essential hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Power Sander use karte samay kya pehenna zaroori hai?",
+      "options": {
+        "A": "Dust Mask aur Safety Goggles",
+        "B": "Sunglasses",
+        "C": "Earrings",
+        "D": "High Heels"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Power Sander se nikalne wali dust aur particles se bachne ke liye Dust Mask aur Safety Goggles pehenna zaroori hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Welding karte samay kaun si light rays aankhon ke liye sabse dangerous hoti hain?",
+      "options": {
+        "A": "Infrared (IR) aur Ultraviolet (UV) rays",
+        "B": "Visible light",
+        "C": "Radio waves",
+        "D": "Microwaves"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Welding arc se nikalne wali Infrared aur Ultraviolet rays aankhon ko serious damage de sakti hain, isliye welding helmet zaroori hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Ek body file ka primary use kya hai?",
+      "options": {
+        "A": "Metal ko cut karna",
+        "B": "Metal surface ko smooth karna aur high spots detect karna",
+        "C": "Holes drill karna",
+        "D": "Paint mix karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Body file metal surface ko smooth karne aur high spots (metal ke ubhre hue hisse) ko detect karne ke liye use hoti hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Workshop mein oil ya grease spills hone par kya karna chahiye?",
+      "options": {
+        "A": "Us par kapda dal dena",
+        "B": "Turant absorbent material se clean karna",
+        "C": "Paani se dhona",
+        "D": "Chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oil ya grease spills slip hazards create karte hain, isliye unhe turant absorbent material (jaise saw dust) se clean karna chahiye."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Air Compressor use karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Pressure release valve ko block karna",
+        "B": "Proper ventilation ensure karna aur pressure limits check karna",
+        "C": "Bina ear protection ke use karna",
+        "D": "Compressor ko pani mein rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Air compressor ko safe tarike se operate karne ke liye proper ventilation aur pressure limits ka dhyan rakhna zaroori hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Jack stands ka kya purpose hai jab car ko lift kiya jaata hai?",
+      "options": {
+        "A": "Car ko stable support dena",
+        "B": "Car ko move karna",
+        "C": "Car ko wash karna",
+        "D": "Car ko paint karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Jack stands car ko lift karne ke baad usko stable support provide karte hain, jisse safety badhti hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Paint booth mein kaam karte samay proper ventilation kyun zaroori hai?",
+      "options": {
+        "A": "Thandak ke liye",
+        "B": "Paint fumes ko remove karne aur fresh air provide karne ke liye",
+        "C": "Light ke liye",
+        "D": "Noise kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint fumes toxic hote hain, isliye proper ventilation unhe remove karta hai aur technician ko fresh air deta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Hacksaw ka primary use kya hai?",
+      "options": {
+        "A": "Wood cut karna",
+        "B": "Metal cut karna",
+        "C": "Plastic cut karna",
+        "D": "Fabric cut karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hacksaw metal parts ko cut karne ke liye design kiya gaya hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Rust remover chemicals use karte samay kya precautions leni chahiye?",
+      "options": {
+        "A": "Bina gloves ke use karna",
+        "B": "Proper ventilation aur skin protection (gloves) ka use karna",
+        "C": "Ankhon mein lagne dena",
+        "D": "Khule mein rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rust remover chemicals corrosive hote hain, isliye proper ventilation aur skin protection zaroori hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Angle grinder use karte samay safety guard ka kya importance hai?",
+      "options": {
+        "A": "Noise kam karna",
+        "B": "Sparks aur debris ko user se door rakhna",
+        "C": "Tool ko khubsurat banana",
+        "D": "Battery life badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety guard sparks, metal particles aur debris ko user ki taraf aane se rokta hai, accident ka risk kam karta hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "SDS (Safety Data Sheet) kya provide karta hai?",
+      "options": {
+        "A": "Car ki price list",
+        "B": "Chemical products ki safety information",
+        "C": "Workshop ka address",
+        "D": "Tool maintenance schedule"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "SDS chemical products ke hazards, safe handling, storage aur emergency procedures ke baare mein detailed information deta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Compressor air lines mein moisture trap kyun lagaya jaata hai?",
+      "options": {
+        "A": "Air pressure badhane ke liye",
+        "B": "Paint mein moisture aane se rokne ke liye",
+        "C": "Noise kam karne ke liye",
+        "D": "Air flow regulate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Moisture trap compressed air se pani aur oil ko remove karta hai, jisse paint defects jaise fisheyes aur poor adhesion se bacha ja sake."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Denting repair mein 'On-Dolly' hammering technique ka kya matlab hai?",
+      "options": {
+        "A": "Hammer aur dolly ek hi point par hit karte hain",
+        "B": "Hammer aur dolly alag-alag points par hit karte hain",
+        "C": "Sirf hammer use hota hai",
+        "D": "Sirf dolly use hoti hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "On-Dolly hammering mein hammer aur dolly metal ke ek hi point par hit karte hain, jisse metal ko shape mein wapas laya jaata hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Body filler apply karne se pehle surface ko clean aur rough kyun kiya jaata hai?",
+      "options": {
+        "A": "Filler ko zyada dikhane ke liye",
+        "B": "Filler ki better adhesion ke liye",
+        "C": "Time waste karne ke liye",
+        "D": "Surface ko chamkane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clean aur rough surface filler ko achhe se pakadne mein help karta hai, jisse woh utarta nahi hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Shrinking metal ka kya purpose hai denting mein?",
+      "options": {
+        "A": "Metal ko expand karna",
+        "B": "Stretched metal ko original shape mein wapas laana",
+        "C": "Metal ko cut karna",
+        "D": "Metal ko polish karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Accident mein metal stretch ho jaata hai. Shrinking metal usko heat karke aur cool karke original shape mein wapas laata hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Body filler ko mix karte samay hardener ki sahi quantity kyun zaroori hai?",
+      "options": {
+        "A": "Taste ke liye",
+        "B": "Sahi curing aur strength ke liye",
+        "C": "Color change karne ke liye",
+        "D": "Quantity badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hardener ki sahi quantity body filler ko properly cure hone aur strong banne ke liye essential hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Minor dents ko remove karne ke liye kaun sa tool sabse common hai?",
+      "options": {
+        "A": "Welding machine",
+        "B": "Dent puller (suction/glue type)",
+        "C": "Grinder",
+        "D": "Drill machine"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Minor dents ko paint damage kiye bina remove karne ke liye suction ya glue type dent pullers use kiye jaate hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Panel alignment check karne ke liye kya dekha jaata hai?",
+      "options": {
+        "A": "Car ka tyre pressure",
+        "B": "Panel gaps aur flushness",
+        "C": "Engine oil level",
+        "D": "Windshield wipers"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Panel alignment mein adjoining panels ke beech ke gaps aur unki flushness (ek level par hona) check ki jaati hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Agar body panel mein rust ho, toh usse kaise treat karna chahiye?",
+      "options": {
+        "A": "Seedha paint kar dena",
+        "B": "Rust ko grind karke remove karna aur rust converter/primer use karna",
+        "C": "Us par tape laga dena",
+        "D": "Paani se dhona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rust ko properly remove karke aur anti-rust treatment lagana zaroori hai, warna rust paint ke neeche se wapas aa jaayega."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Denting ke baad surface par 'pinholes' kyun appear hote hain?",
+      "options": {
+        "A": "Zyada paint lagane se",
+        "B": "Body filler mein air bubbles trap hone se",
+        "C": "Kam hardener use karne se",
+        "D": "Surface ko zyada smooth karne se"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Body filler ko mix karte samay ya apply karte samay air bubbles trap ho sakte hain, jo sand karne par pinholes ban jaate hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Paintless Dent Repair (PDR) technique ka kya benefit hai?",
+      "options": {
+        "A": "Bohat saste tools lagte hain",
+        "B": "Original paint intact rehta hai aur time kam lagta hai",
+        "C": "Sirf bade dents ke liye hai",
+        "D": "Hamesha welding ki zaroorat padti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PDR mein dents ko special tools se push ya pull karke repair kiya jaata hai, jisse original paint intact rehta hai aur time/cost save hota hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Body filler ko sand karne ke liye kaun sa grit sandpaper pehle use karna chahiye?",
+      "options": {
+        "A": "P400",
+        "B": "P80",
+        "C": "P2000",
+        "D": "P1000"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rough sanding ke liye P80 jaise coarse grit sandpaper ka istemal kiya jaata hai, taaki excess filler jaldi remove ho."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Metal shrinking ke liye heat gun ke alawa aur kya use kiya ja sakta hai?",
+      "options": {
+        "A": "Blow torch (gas torch)",
+        "B": "Hair dryer",
+        "C": "Iron box",
+        "D": "Microwave"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Blow torch ka use metal ko localised heat provide karne ke liye kiya jaata hai, jisse metal shrink hota hai. Lekin isse carefully use karna chahiye."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Agar ek panel severely damaged hai aur repairable nahi hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Us par aur zyada filler lagana",
+        "B": "Panel ko replace karna",
+        "C": "Usse ignore kar dena",
+        "D": "Us par stickers laga dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Severely damaged panel ko replace karna hi best option hota hai, taaki structural integrity aur finish maintain rahe."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Panel bonding adhesive ka kya fayda hai over traditional welding in some cases?",
+      "options": {
+        "A": "Zyada heat produce karta hai",
+        "B": "Rust resistance aur vibration dampening provide karta hai",
+        "C": "Sirf plastic panels ke liye hai",
+        "D": "Bohat slow process hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Panel bonding adhesives weld ke compare mein rust resistance badhate hain aur vibrations ko absorb karte hain, but proper application technique zaroori hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Dent repair ke baad surface ko smooth karne ke liye kaun sa block use hota hai?",
+      "options": {
+        "A": "Wood block",
+        "B": "Rubber sanding block",
+        "C": "Metal block",
+        "D": "Plastic container"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rubber sanding block sandpaper ko evenly press karta hai surface par, jisse smooth aur flat finish milti hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Body filler ki curing time kis factor par depend karti hai?",
+      "options": {
+        "A": "Car ka color",
+        "B": "Ambient temperature aur hardener ki quantity",
+        "C": "Music choice",
+        "D": "Technician ka mood"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ambient temperature aur hardener ki sahi quantity body filler ki curing time ko directly affect karti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "'Feather edging' kya hai dent repair mein?",
+      "options": {
+        "A": "Naye panel ko cut karna",
+        "B": "Repair area ke edges ko smooth aur gradual banana",
+        "C": "Paint ko dry karna",
+        "D": "Body filler ko mix karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Feather edging mein repair area ke edges ko gradually sand kiya jaata hai, taaki paint transition smooth ho aur repair dikhe nahi."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Agar ek dent sharp aur deep hai, toh usse repair karne ka sabse effective method kya hai?",
+      "options": {
+        "A": "Sirf polishing",
+        "B": "Hammering, dolly work, aur body filler ka combination",
+        "C": "Us par tape laga dena",
+        "D": "Usse ignore kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sharp aur deep dents ko properly repair karne ke liye hammering, dolly work aur body filler ka sahi istemal zaroori hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Paint karne se pehle surface ko degrease kyun kiya jaata hai?",
+      "options": {
+        "A": "Surface ko chamkane ke liye",
+        "B": "Oil, grease aur wax ko remove karne ke liye, jisse paint adhesion improve ho",
+        "C": "Surface ko thanda karne ke liye",
+        "D": "Paint ko dilute karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Degreasing se surface par maujood oil, grease aur wax remove hote hain, jisse paint surface par achhe se chipakta hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Masking tape aur paper ka kya use hai painting mein?",
+      "options": {
+        "A": "Paint ko zyada shiny banana",
+        "B": "Unwanted areas ko paint se bachana",
+        "C": "Paint ko dry karna",
+        "D": "Color mix karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Masking tape aur paper use karke hum un parts ko cover karte hain jin par paint nahi karna hai, jaise windows, trims, etc."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Sanding ke liye sahi grit sequence follow karna kyun zaroori hai?",
+      "options": {
+        "A": "Zyada sandpaper use karne ke liye",
+        "B": "Previous grit ke scratches ko remove karne aur smooth finish achieve karne ke liye",
+        "C": "Time waste karne ke liye",
+        "D": "Noise kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi grit sequence (coarse se fine) follow karne se previous grit ke scratches remove hote hain aur surface paint ke liye ready hoti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Etch primer ka kya purpose hai?",
+      "options": {
+        "A": "Sirf plastic par use hota hai",
+        "B": "Bare metal par excellent adhesion provide karna aur rust ko prevent karna",
+        "C": "Paint ko chamkana",
+        "D": "Color matching mein help karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Etch primer bare metal par use hota hai, jo chemical etching se strong adhesion banata hai aur rust formation ko rokta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Agar surface par old paint mein minor scratches hain, toh unhe kaise prepare karna chahiye painting se pehle?",
+      "options": {
+        "A": "Seedha naya paint laga dena",
+        "B": "Wet sanding se smooth karna aur fine grit sandpaper use karna",
+        "C": "Sirf dry cloth se saaf karna",
+        "D": "Us par sticker laga dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Minor scratches ko wet sanding aur fine grit sandpaper se smooth karke prepare kiya jaata hai, taaki naya paint evenly apply ho."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Surfacer primer ka primary role kya hai?",
+      "options": {
+        "A": "Topcoat ko color dena",
+        "B": "Minor surface imperfections ko fill karna aur smooth foundation provide karna",
+        "C": "Rust ko promote karna",
+        "D": "Metallic finish dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Surfacer primer minor scratches, pinholes aur imperfections ko fill karta hai, jisse paint ke liye ek smooth aur uniform surface milti hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Masking tape ko remove karne ka best time kya hai?",
+      "options": {
+        "A": "Paint ke poori tarah dry hone ke baad",
+        "B": "Paint ke thoda tacky hone par, lekin poori tarah dry hone se pehle",
+        "C": "Paint apply karne se pehle",
+        "D": "Agli subah"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Masking tape ko paint ke thoda tacky hone par remove karna chahiye. Agar paint poora dry ho gaya toh edges sharp nahi banenge, aur agar zyada wet hai toh paint smear ho sakta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Agar car body par silicone contamination hai, toh kya paint defect ho sakta hai?",
+      "options": {
+        "A": "Extra shine",
+        "B": "Fisheyes ya craters",
+        "C": "Fast drying",
+        "D": "Better adhesion"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Silicone contamination paint ko repell karta hai, jisse surface par fisheyes ya craters ban jaate hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Epoxy primer ka kya fayda hai?",
+      "options": {
+        "A": "Sirf show cars ke liye hai",
+        "B": "Excellent corrosion resistance aur adhesion provide karta hai",
+        "C": "Bohat jaldi dry hota hai",
+        "D": "Saste mein milta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Epoxy primer apni excellent corrosion resistance aur strong adhesion properties ke liye jaana jaata hai, especially on bare metal."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Sanding karte samay dust ko control karne ka ek tareeka kya hai?",
+      "options": {
+        "A": "Bina mask ke kaam karna",
+        "B": "Dry sanding ke bajaye wet sanding karna",
+        "C": "Fan chala dena",
+        "D": "Dustbin ko door rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wet sanding dust ko air mein failne se rokta hai aur ek smoother finish bhi deta hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Plastic parts par primer lagane se pehle kya karna zaroori hai?",
+      "options": {
+        "A": "Unhe garam karna",
+        "B": "Unhe special plastic adhesion promoter se treat karna",
+        "C": "Unhe paani mein dubona",
+        "D": "Unhe rough sandpaper se ghisna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Plastic surfaces par paint ki achhi adhesion ke liye plastic adhesion promoter spray karna zaroori hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar repair area mein old paint ke sharp edges hain, toh kya defect ho sakta hai?",
+      "options": {
+        "A": "Excellent finish",
+        "B": "Paint 'ringing' ya 'witness lines' dikh sakti hain",
+        "C": "Paint jaldi dry hoga",
+        "D": "Color matching asaan hoga"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sharp edges ko feather edge na karne par naye paint ke neeche se old paint ki boundary dikh sakti hai, jise ringing kehte hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Pre-paint cleaner ka kya role hai?",
+      "options": {
+        "A": "Rust remove karna",
+        "B": "Surface se remaining contaminants (dust, fingerprints) ko remove karna",
+        "C": "Color change karna",
+        "D": "Hardener mix karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pre-paint cleaner painting se just pehle use hota hai, taaki surface par koi bhi microscopic contaminant na rahe."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar primer mein curing issues aa rahe hain, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Zyada thinner use karna",
+        "B": "Improper mixing ratio of hardener",
+        "C": "Kam temperature",
+        "D": "Sabhi"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Improper mixing ratio, bahut zyada thinner, ya kam ambient temperature primer ki curing ko negatively affect kar sakte hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Scuff pad ka kya use hai surface preparation mein?",
+      "options": {
+        "A": "Deep scratches banana",
+        "B": "Surface ko matte finish dena aur adhesion ke liye micro-scratches create karna",
+        "C": "Paint remove karna",
+        "D": "Polishing karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scuff pad old paint ya clear coat par microscopic scratches banata hai, jisse naye paint ki adhesion better hoti hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Metal ke exposed areas par primer lagana kyun zaroori hai?",
+      "options": {
+        "A": "Sirf color change ke liye",
+        "B": "Corrosion se bachane aur paint ki adhesion badhane ke liye",
+        "C": "Surface ko garam karne ke liye",
+        "D": "Noise kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Primer exposed metal ko rust se protect karta hai aur topcoat ke liye ek uniform base provide karta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Tack cloth ka kya use hai painting se just pehle?",
+      "options": {
+        "A": "Surface ko chamkana",
+        "B": "Surface se loose dust aur lint particles ko pick up karna",
+        "C": "Paint ko apply karna",
+        "D": "Chemical spill clean karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tack cloth ek sticky cloth hota hai jo surface se microscopic dust aur lint ko pick up karta hai, taaki paint mein koi particle na fas jaye."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "HVLP (High Volume Low Pressure) spray gun ka kya fayda hai?",
+      "options": {
+        "A": "Zyada paint waste hota hai",
+        "B": "High transfer efficiency aur kam overspray",
+        "C": "Sirf water-based paints ke liye hai",
+        "D": "Bohat slow paint karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HVLP spray guns paint ko low pressure par spray karte hain, jisse paint target surface par zyada chipakta hai aur kam waste hota hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Paint mix karte samay sahi mixing ratio follow karna kyun zaroori hai?",
+      "options": {
+        "A": "Paint ko sasta banane ke liye",
+        "B": "Sahi curing, durability aur finish ke liye",
+        "C": "Paint ko zyada shiny banane ke liye",
+        "D": "Color change karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi mixing ratio (paint, hardener, reducer) paint ki curing, durability aur final finish ke liye critical hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Clearcoat ka kya purpose hai auto painting mein?",
+      "options": {
+        "A": "Color provide karna",
+        "B": "Basecoat ko UV rays, scratches aur weather se protect karna aur gloss dena",
+        "C": "Rust prevent karna",
+        "D": "Dents repair karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clearcoat ek transparent protective layer hoti hai jo basecoat ko protect karti hai aur deep glossy finish deti hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Spray gun ko surface se kitni door rakhna chahiye paint karte samay?",
+      "options": {
+        "A": "Bilkul chipka kar",
+        "B": "Manufacturer ke recommendations ke according (usually 6-8 inches)",
+        "C": "Bohat door",
+        "D": "Jitna man kare"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi distance maintain karna zaroori hai taaki paint evenly apply ho aur runs/sags ya dry spray na ho."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Agar paint application mein 'orange peel' effect aa raha hai, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Surface bohat smooth hai",
+        "B": "Improper gun settings, wrong paint viscosity ya incorrect application technique",
+        "C": "Paint bohat patla hai",
+        "D": "Humidity bohat kam hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Orange peel paint surface ka rough aur bumpy hona hai, jo galat gun settings, paint viscosity ya application technique se ho sakta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Paint booth mein temperature aur humidity control kyun zaroori hai?",
+      "options": {
+        "A": "Technician ko comfortable rakhne ke liye",
+        "B": "Paint ki proper drying, curing aur finish ke liye",
+        "C": "Light control karne ke liye",
+        "D": "Noise control karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Correct temperature aur humidity paint ki drying aur curing process ko optimize karte hain, jisse paint defects kam hote hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Basecoat paint ka kya kaam hai?",
+      "options": {
+        "A": "Surface ko protect karna",
+        "B": "Car ko color aur metallic/pearl effect dena",
+        "C": "Minor scratches fill karna",
+        "D": "Rust prevent karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Basecoat paint car ko uska desired color aur special effects (jaise metallic flakes) deta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Spray gun ko clean karna kyun zaroori hai har use ke baad?",
+      "options": {
+        "A": "Zyada paint waste karne ke liye",
+        "B": "Nozzle clogging se bachne aur consistent spray pattern maintain karne ke liye",
+        "C": "Spray gun ko chamkane ke liye",
+        "D": "Time pass karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular cleaning spray gun ko proper working condition mein rakhta hai, jisse quality paint job possible hoti hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Paint 'runs' ya 'sags' kis wajah se hote hain?",
+      "options": {
+        "A": "Bohat kam paint lagane se",
+        "B": "Zyada paint apply karne se, gun ko bohat slow move karne se ya surface ke bohat close hone se",
+        "C": "Paint bohat patla hone se",
+        "D": "Surface bohat dry hone se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Runs aur sags tab hote hain jab paint ki quantity surface par itni zyada ho jaati hai ki woh gravity ki wajah se neeche flow karta hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Paint application mein 'overlap' technique ka kya matlab hai?",
+      "options": {
+        "A": "Paint ko ek hi jagah par lagana",
+        "B": "Har pass mein previous pass ke 50-75% area ko cover karna",
+        "C": "Paint ko ulat-pulat lagana",
+        "D": "Sirf ek hi pass mein paint karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Consistent overlap se paint evenly distribute hota hai aur streaking ya uneven coverage se bacha ja sakta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Agar paint gun ka spray pattern uneven hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Car ka tyre pressure",
+        "B": "Nozzle, air cap aur fluid tip ki cleanliness aur damage",
+        "C": "Paint ka color",
+        "D": "Music volume"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clogged ya damaged nozzle, air cap ya fluid tip uneven spray patterns ka common reason hote hain."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Water-based paints (waterborne) use karne ka kya fayda hai over solvent-based paints?",
+      "options": {
+        "A": "Zyada VOC emissions",
+        "B": "Kam VOC emissions aur environment friendly",
+        "C": "Bohat slow dry hote hain",
+        "D": "Sirf black color mein available hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Water-based paints mein Volatile Organic Compounds (VOCs) kam hote hain, jo environment aur technician ki health ke liye better hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Paint gun mein air pressure adjust karne ka kya purpose hai?",
+      "options": {
+        "A": "Paint ki quantity control karna",
+        "B": "Spray pattern aur atomization ko control karna",
+        "C": "Paint ka color change karna",
+        "D": "Gun ka weight kam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi air pressure paint particles ko fine droplets mein atomize karta hai aur desired spray pattern banata hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Spot repair mein blending technique ka kya importance hai?",
+      "options": {
+        "A": "Repair ko zyada visible banana",
+        "B": "Naye paint ko old paint ke saath seamlessly mix karna",
+        "C": "Paint ko jaldi dry karna",
+        "D": "Sirf white cars ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blending technique naye paint ko surrounding old paint mein gradually mix karti hai, jisse repair area dikhta nahi hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Two-stage paint system mein kaun si layers hoti hain?",
+      "options": {
+        "A": "Primer aur Clearcoat",
+        "B": "Basecoat aur Clearcoat",
+        "C": "Primer aur Basecoat",
+        "D": "Sirf Topcoat"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Two-stage system mein pehle color (basecoat) apply hota hai, phir us par transparent protective layer (clearcoat) lagayi jaati hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar paint application mein 'dry spray' ho raha hai, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Gun surface ke bohat close hai",
+        "B": "Gun surface se bohat door hai, paint viscosity high hai ya air pressure bohat zyada hai",
+        "C": "Paint bohat patla hai",
+        "D": "Humidity bohat zyada hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dry spray tab hota hai jab paint particles surface tak pahunchne se pehle hi dry ho jaate hain, jisse rough, grainy finish milti hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Paint gun cleaning ke liye kaun sa solvent use karna chahiye?",
+      "options": {
+        "A": "Paani",
+        "B": "Paint manufacturer dwara recommended cleaning solvent",
+        "C": "Engine oil",
+        "D": "Petrol"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi cleaning solvent paint gun ko bina damage kiye clean karta hai aur uski life badhata hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Paint defect 'fisheyes' kis wajah se hote hain?",
+      "options": {
+        "A": "Dust particles",
+        "B": "Surface par oil, grease ya silicone contamination",
+        "C": "Zyada paint lagane se",
+        "D": "Kam paint lagane se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fisheyes surface par maujood contaminants ki wajah se hote hain, jo paint ko repell karte hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Agar paint mein 'runs' aa gaye hain, toh unhe kaise correct kiya ja sakta hai?",
+      "options": {
+        "A": "Aur paint laga kar",
+        "B": "Dry hone ke baad carefully sand karke aur polish karke",
+        "C": "Us par tape laga kar",
+        "D": "Usse ignore kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Runs ko dry hone ke baad carefully sand karke aur polish karke remove kiya ja sakta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Color matching ke liye 'spray-out card' ka kya use hai?",
+      "options": {
+        "A": "Paint ko mix karna",
+        "B": "Test panel par paint spray karke color match check karna",
+        "C": "Paint gun clean karna",
+        "D": "Surface ko sand karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Spray-out card par paint spray karke original car ke paint se compare kiya jaata hai, taaki perfect color match mil sake."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Paint defect 'orange peel' ko kaise correct kiya ja sakta hai?",
+      "options": {
+        "A": "Zyada paint laga kar",
+        "B": "Wet sanding aur buffing/polishing se",
+        "C": "Us par sticker laga kar",
+        "D": "Usse ignore kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Orange peel ko fine grit wet sanding se smooth karke aur phir buffing/polishing se restore kiya ja sakta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Buffing machine use karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Bohat zyada pressure lagana",
+        "B": "High speed par kaam karna",
+        "C": "Surface ko overheat hone se bachana aur consistent movement rakhna",
+        "D": "Safety goggles na pehenna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Surface ko overheat karne se paint burn ho sakta hai, isliye consistent movement aur moderate pressure zaroori hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Paint defect 'blistering' ka kya reason ho sakta hai?",
+      "options": {
+        "A": "Sahi paint application",
+        "B": "Moisture trap hona ya improper surface preparation",
+        "C": "Car ko saaf rakhna",
+        "D": "Achha clearcoat"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Blistering tab hota hai jab paint ke neeche moisture ya air trap ho jaati hai, ya surface properly prepare nahi hoti."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Color matching mein 'tinting' ka kya matlab hai?",
+      "options": {
+        "A": "Paint ko light karna",
+        "B": "Base paint mein small amounts of other colors add karke exact match banana",
+        "C": "Paint ko dark karna",
+        "D": "Paint ko chamkana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tinting ek skilled process hai jismein different pigments ko carefully mix karke desired shade achieve kiya jaata hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Compounding ka kya purpose hai after painting?",
+      "options": {
+        "A": "Extra paint lagana",
+        "B": "Minor surface defects, swirl marks aur light scratches ko remove karna",
+        "C": "Paint ko dry karna",
+        "D": "Color change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Compounding ek abrasive process hai jo paint surface se imperfections ko remove karta hai aur gloss restore karta hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar buffing ke baad surface par 'holograms' ya 'swirl marks' dikh rahe hain, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Sahi technique aur product use na karna",
+        "B": "Bohat kam pressure lagana",
+        "C": "Bohat slow speed par kaam karna",
+        "D": "Surface bohat thandi hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Holograms improper buffing technique, wrong pad ya compound selection ki wajah se hote hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Paint repair ke baad final inspection mein kya check karna chahiye?",
+      "options": {
+        "A": "Tyre pressure",
+        "B": "Color match, paint finish, defects ki absence aur panel alignment",
+        "C": "Engine oil level",
+        "D": "Fuel level"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Final inspection mein quality aur customer satisfaction ensure karne ke liye sabhi aspects ko carefully check kiya jaata hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Polishing ka kya purpose hai after compounding?",
+      "options": {
+        "A": "Zyada scratches banana",
+        "B": "Micro-scratches ko refine karna aur deep gloss lana",
+        "C": "Paint ko rough banana",
+        "D": "Color matching karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Polishing compounding ke baad use hota hai, jo remaining fine scratches ko remove karta hai aur paint ko mirror-like finish deta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Agar paint ka color original se thoda light ya dark aa raha hai, toh yeh kis defect mein aata hai?",
+      "options": {
+        "A": "Orange peel",
+        "B": "Color mismatch",
+        "C": "Runs",
+        "D": "Blistering"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Color mismatch tab hota hai jab naya paint original paint ke shade se match nahi karta."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Paint defect 'cracking' ka kya reason ho sakta hai?",
+      "options": {
+        "A": "Sahi paint application",
+        "B": "Paint ki excessive thickness, improper curing ya old paint ki flexibility loss",
+        "C": "Car ko dhoop mein rakhna",
+        "D": "Regular car wash"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cracking paint system mein stress ki wajah se hoti hai, jo thickness, curing ya substrate ki movement se related ho sakta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "IR (Infrared) curing lamps ka kya fayda hai paint drying mein?",
+      "options": {
+        "A": "Costly hote hain",
+        "B": "Fast aur efficient drying, especially spot repairs ke liye",
+        "C": "Sirf winters mein use hote hain",
+        "D": "Noise zyada karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IR lamps paint ko andar se cure karte hain, jisse drying time kam hota hai aur finish quality improve hoti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Paint ko protect karne aur uski shine maintain karne ke liye kya recommend kiya jaata hai after repair?",
+      "options": {
+        "A": "Regular waxing ya ceramic coating",
+        "B": "Us par paani daalna",
+        "C": "Usse sand karna",
+        "D": "Us par sticker laga dena"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Waxing ya ceramic coating paint ko environmental elements se protect karti hai aur uski gloss ko maintain rakhti hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Agar ek metallic paint repair ke baad 'mottling' dikh raha hai, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Paint bohat patla hai",
+        "B": "Metallic particles ka uneven distribution ya improper spray technique",
+        "C": "Clearcoat bohat thick hai",
+        "D": "Surface bohat rough hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Mottling metallic paint mein uneven ya patchy appearance hota hai, jo metallic flakes ke galat alignment ki wajah se hota hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Customer ko repair process ke baare mein inform karna kyun zaroori hai?",
+      "options": {
+        "A": "Time pass karne ke liye",
+        "B": "Trust build karne aur expectations manage karne ke liye",
+        "C": "Extra bill banane ke liye",
+        "D": "Unhe confuse karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Transparent communication customer satisfaction ke liye critical hai, jisse unhe process aur timeline ki clear understanding milti hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Repair estimate banate samay kin factors ko consider kiya jaata hai?",
+      "options": {
+        "A": "Technician ka favorite color",
+        "B": "Damage ki extent, required parts, labor cost aur paint materials",
+        "C": "Weather forecast",
+        "D": "Car ka music system"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi estimate ke liye damage assessment, parts cost, labor time aur paint/materials ki cost ko calculate kiya jaata hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Quality control check mein kya include hota hai after a denting & painting job?",
+      "options": {
+        "A": "Only paint color",
+        "B": "Panel alignment, paint finish, color match, aur functionality of repaired parts",
+        "C": "Car ka fuel level",
+        "D": "Tyre pressure"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Comprehensive quality check se ensure hota hai ki repair highest standards ke according hua hai aur customer satisfied hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Agar customer repair ke baad kisi minor defect ki complaint karta hai, toh kya response hona chahiye?",
+      "options": {
+        "A": "Complaint ko ignore karna",
+        "B": "Complaint ko sunna, investigate karna aur solution offer karna",
+        "C": "Customer se argue karna",
+        "D": "Bolna ki yeh normal hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer complaints ko professionally handle karna good customer service ka part hai aur business ki reputation banata hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Workshop waste (paint cans, thinners, body filler residue) ka proper disposal kyun zaroori hai?",
+      "options": {
+        "A": "Zyada jagah banane ke liye",
+        "B": "Environmental pollution aur health hazards se bachne ke liye",
+        "C": "Cost kam karne ke liye",
+        "D": "Time waste karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hazardous waste ka proper disposal environmental regulations ko follow karta hai aur health risks ko kam karta hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Agar car ke sensor (parking sensor) ko panel repair ke liye remove karna pade, toh kya karna chahiye?",
+      "options": {
+        "A": "Usse tod dena",
+        "B": "Carefully remove karna, store karna aur repair ke baad properly reinstall karna",
+        "C": "Usse ignore kar dena",
+        "D": "Us par paint kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Modern cars mein sensors aur electronics hote hain, jinhe carefully handle karna zaroori hai taaki unki functionality intact rahe."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Job card ya repair order ka kya importance hai?",
+      "options": {
+        "A": "Sirf paper waste karna",
+        "B": "Repair details, parts used, labor hours aur customer instructions ko document karna",
+        "C": "Customer ko confuse karna",
+        "D": "Sirf technician ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Job card ek official record hota hai jo repair process ki transparency aur accountability maintain karta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar ek technician ko kisi repair technique mein doubt hai, toh usse kya karna chahiye?",
+      "options": {
+        "A": "Guess karna",
+        "B": "Senior technician se consult karna ya training manual refer karna",
+        "C": "Customer se puchna",
+        "D": "Usse ignore kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper guidance lene se mistakes avoid hoti hain aur quality work ensure hota hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Customer ko delivery se pehle repaired car ko clean karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf car ko chamkane ke liye",
+        "B": "Professional image maintain karne aur customer satisfaction badhane ke liye",
+        "C": "Paint ko dry karne ke liye",
+        "D": "Extra charge lene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clean car deliver karna workshop ki professionalism ko darshata hai aur customer ko achha experience deta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Teamwork ka kya importance hai ek busy workshop mein?",
+      "options": {
+        "A": "Competition badhane ke liye",
+        "B": "Work efficiency badhane, tasks distribute karne aur knowledge share karne ke liye",
+        "C": "Noise badhane ke liye",
+        "D": "Sirf baatein karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Teamwork se work flow smooth hota hai, deadlines meet hoti hain aur overall productivity badhti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Agar car ke headlight ya taillight ko remove karna pade repair ke liye, toh kya precaution leni chahiye?",
+      "options": {
+        "A": "Unhe jameen par phenk dena",
+        "B": "Carefully remove karna, wiring disconnect karna aur safe jagah store karna",
+        "C": "Unhe tod dena",
+        "D": "Unhe paani mein dal dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lights expensive components hote hain aur unki wiring bhi delicate hoti hai, isliye careful handling zaroori hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Ek professional denting & painting technician mein kaun si quality honi chahiye?",
+      "options": {
+        "A": "Sirf speed",
+        "B": "Attention to detail, problem-solving skills aur good communication",
+        "C": "Sirf physical strength",
+        "D": "Lazy hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Detailing, problem-solving aur communication skills ek successful technician ke liye essential hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar car repair ke baad electric window kaam nahi kar rahi hai, toh kya check karna chahiye pehle?",
+      "options": {
+        "A": "Tyre pressure",
+        "B": "Wiring connections, fuse aur switch",
+        "C": "Paint ka color",
+        "D": "Engine oil level"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Denting ya painting ke dauran wiring ya electrical components disturb ho sakte hain, isliye unhe check karna chahiye."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Customer feedback lena kyun important hai?",
+      "options": {
+        "A": "Sirf compliments sunne ke liye",
+        "B": "Service quality improve karne aur future business ke liye",
+        "C": "Time waste karne ke liye",
+        "D": "Negative comments ko ignore karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer feedback valuable insights provide karta hai jisse services ko aur behtar banaya ja sakta hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Repair area mein dust particles minimize karne ke liye kya steps lene chahiye?",
+      "options": {
+        "A": "Workshop ko ganda rakhna",
+        "B": "Paint booth ko clean rakhna, tack cloth use karna aur proper air filtration",
+        "C": "Windows khuli rakhna",
+        "D": "Fan chala dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dust-free environment paint defects ko rokta hai aur high-quality finish ensure karta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Agar car ki door handle ko remove karna pade, toh uske reinstallation mein kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Sirf usse chipka dena",
+        "B": "Sahi alignment, screws tight karna aur functionality check karna",
+        "C": "Us par paint laga dena",
+        "D": "Usse loose chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Door handle ki proper reinstallation uski functionality aur aesthetics ke liye essential hai."
+    }
+  ]
+}

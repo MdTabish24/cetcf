@@ -1,0 +1,1443 @@
+{
+  "course_name": "Swimming Pool Maintenance Technician",
+  "sector": "Plumbing, Sanitation & Water",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Pool Maintenance & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Pool Water Chemistry & Testing",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Filtration Systems & Circulation",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Cleaning & Vacuuming Techniques",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Pool Equipment & Basic Troubleshooting",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Record Keeping & Customer Service",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Swimming Pool maintenance mein sabse pehla aur important step kya hai?",
+      "options": {
+        "A": "Water level check karna",
+        "B": "Chemicals add karna",
+        "C": "Safety equipment check karna",
+        "D": "Filter ko backwash karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Safety equipment jaise lifebuoy, first aid kit, aur emergency exits ka check karna sabse pehla aur critical step hai taaki kisi bhi accident ko roka ja sake."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "PPE ka full form kya hai jo pool maintenance mein use hota hai?",
+      "options": {
+        "A": "Personal Pool Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Pool Entry",
+        "D": "Primary Protection Element"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PPE ka matlab 'Personal Protective Equipment' hota hai, jaise gloves, safety glasses, aur chemical-resistant clothing, jo technicians ko chemicals se bachata hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ek swimming pool technician ko chemicals handle karte time kya precautions leni chahiye?",
+      "options": {
+        "A": "Hamesha khule haath se handle karein",
+        "B": "Unhe mix karte waqt goggles na pehnein",
+        "C": "Proper ventilation aur PPE ka use karein",
+        "D": "Chemicals ko food items ke paas rakhein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Chemicals handle karte waqt proper ventilation (hawa ki aawajahi) aur PPE (jaise gloves, goggles) ka use karna bahut zaroori hai taaki chemical exposure se bacha ja sake."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Agar kisi ko pool mein electrical shock lage, toh aapka pehla action kya hoga?",
+      "options": {
+        "A": "Directly uss vyakti ko paani se nikalne ki koshish karein",
+        "B": "Emergency electrical supply ko band karein",
+        "C": "Uss vyakti par paani daalein",
+        "D": "Pool mein kud kar madad karein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sabse pehle electrical supply ko band karna chahiye taaki aur shock na lage aur rescue karne wala bhi safe rahe. Uske baad hi vyakti ko paani se nikalne ki koshish karein."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Pool deck par chiknahat (slipperiness) kam karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Zyada paani daalna",
+        "B": "Regularly brush aur rinse karna",
+        "C": "Oil spread karna",
+        "D": "Chemicals girakar chod dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pool deck ko regularly brush aur rinse karne se algae, dirt aur anya chiknahat wale substances hat jaate hain, jisse deck non-slippery rehta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Pool ke aas-paas 'No Running' signs kyon lagaye jaate hain?",
+      "options": {
+        "A": "Logon ko thakana nahi chahiye",
+        "B": "Chikne surface par girne se bachne ke liye",
+        "C": "Paani ki bachat ke liye",
+        "D": "Pool ko ganda hone se bachane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pool ke aas-paas ki surface aksar gili aur chikni hoti hai, jahan daudne se fisal kar girne ka khatra hota hai. 'No Running' signs accidents ko rokne ke liye hote hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Pool mein chemical spills hone par kya karna chahiye?",
+      "options": {
+        "A": "Use ignore kar dena chahiye",
+        "B": "Paani se dho dena chahiye",
+        "C": "Spill kit ka use karke saaf karna chahiye",
+        "D": "Kisi aur ko saaf karne ke liye bolna chahiye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Chemical spills ko handle karne ke liye hamesha ek dedicated spill kit ka use karna chahiye, jisme absorbent materials aur PPE hota hai, taaki spill ko safely contain aur clean kiya ja sake."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Ek residential pool aur commercial pool ki maintenance mein kya mukhya antar hai?",
+      "options": {
+        "A": "Commercial pools mein chemicals use nahi hote",
+        "B": "Residential pools ko daily clean karte hain",
+        "C": "Commercial pools mein zyada strict regulations aur higher usage hoti hai",
+        "D": "Antar kuch bhi nahi hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Commercial pools mein daily high usage hoti hai aur government dwara nirdharit zyada strict health aur safety regulations hote hain, jiske karan unki maintenance zyada intensive hoti hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Pool maintenance log book mein kya record karna zaroori hai?",
+      "options": {
+        "A": "Sirf chemical readings",
+        "B": "Sirf cleaning schedule",
+        "C": "Chemical readings, cleaning tasks, equipment checks, aur repairs",
+        "D": "Sirf temperature readings"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ek comprehensive log book mein chemical readings, kiye gaye cleaning tasks, equipment checks aur koi bhi repair ya maintenance activity record karna zaroori hai taaki pool ki history track ki ja sake aur future issues ko prevent kiya ja sake."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Pool mein algae growth ko rokne ke liye kya regularly karna chahiye?",
+      "options": {
+        "A": "Paani ka level kam karna",
+        "B": "Pool ko brush karna aur chemicals balance karna",
+        "C": "Filter ko band kar dena",
+        "D": "Zyada khana khana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Algae growth ko rokne ke liye pool walls aur floor ko regularly brush karna aur water chemistry, especially chlorine levels ko balance rakhna bahut important hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Pool area mein proper signage kyon lagana zaroori hai?",
+      "options": {
+        "A": "Decorate karne ke liye",
+        "B": "Rules aur safety guidelines inform karne ke liye",
+        "C": "Admissions fee batane ke liye",
+        "D": "Tairne walon ko confuse karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper signage logon ko pool rules, depth markings, emergency procedures aur safety guidelines ke baare mein inform karta hai, jisse accidents kam hote hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Pool ke paas first aid kit mein kya hona chahiye?",
+      "options": {
+        "A": "Sirf pain killers",
+        "B": "Bandages, antiseptic, scissors, CPR mask",
+        "C": "Snacks aur drinks",
+        "D": "Swimming goggles"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek first aid kit mein basic medical supplies jaise bandages, antiseptic wipes, scissors, aur CPR mask hona chahiye taaki minor injuries aur emergencies ko handle kiya ja sake."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Pool maintenance mein 'preventive maintenance' ka kya matlab hai?",
+      "options": {
+        "A": "Jab koi problem aaye tabhi theek karna",
+        "B": "Regular checks aur servicing karna taaki problems na aaye",
+        "C": "Sirf chemicals add karna",
+        "D": "Pool ko band rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Preventive maintenance ka matlab hai ki regular checks, cleaning, aur servicing karte rehna taaki equipment failure ya major problems hone se pehle unhe roka ja sake."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Pool mein water level kis height tak maintain karna chahiye?",
+      "options": {
+        "A": "Skimmer opening ke bottom tak",
+        "B": "Skimmer opening ke middle tak",
+        "C": "Skimmer opening ke top tak",
+        "D": "Jitna chahe utna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Water level ko skimmer opening ke middle tak maintain karna chahiye. Isse skimmer efficiently kaam karta hai aur surface debris ko remove karta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Pool maintenance technician ko kis tarah ke tools ki zaroorat hoti hai?",
+      "options": {
+        "A": "Bas ek hammer",
+        "B": "Skimmer net, brush, vacuum head, test kit",
+        "C": "Cooking utensils",
+        "D": "Office stationery"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek pool technician ko basic cleaning tools jaise skimmer net, brush, vacuum head, aur water testing ke liye test kit ki zaroorat hoti hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Pool mein dead spots kahan ban sakte hain?",
+      "options": {
+        "A": "Jahan water circulation bahut fast ho",
+        "B": "Corners aur steps ke paas jahan paani theek se circulate na ho",
+        "C": "Filter ke andar",
+        "D": "Pump ke paas"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dead spots pool ke un areas mein hote hain jahan water circulation weak hoti hai, jaise corners, steps ke paas, ya ladders ke neeche. In areas mein algae aur bacteria aasani se grow kar sakte hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Pool maintenance mein 'shock treatment' kyon kiya jata hai?",
+      "options": {
+        "A": "Paani ko thanda karne ke liye",
+        "B": "Heavy contamination, algae ya chloramines ko destroy karne ke liye",
+        "C": "Paani ka level badhane ke liye",
+        "D": "Filter ko clean karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shock treatment mein chlorine ki high dose daali jaati hai taaki bacteria, algae, aur chloramines (combined chlorine) ko destroy kiya ja sake, jo paani ki quality ko kharab karte hain."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Pool water ka ideal pH level kya hona chahiye?",
+      "options": {
+        "A": "6.0 - 7.0",
+        "B": "7.4 - 7.6",
+        "C": "8.0 - 9.0",
+        "D": "5.5 - 6.5"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ideal pH level 7.4 se 7.6 ke beech hona chahiye. Is range mein chlorine sabse effective hota hai aur skin/eyes ke liye bhi comfortable rehta hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Free Chlorine (FC) ka kya role hai pool water mein?",
+      "options": {
+        "A": "Paani ko rang deta hai",
+        "B": "Bacteria aur algae ko maarta hai",
+        "C": "Paani ko garam karta hai",
+        "D": "Paani ko thanda karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Free Chlorine (FC) pool water mein main disinfectant hai, jo bacteria, viruses aur algae ko destroy karta hai, jisse paani saaf aur safe rehta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Agar pool ka pH level bahut high ho, toh use kam karne ke liye kya add karenge?",
+      "options": {
+        "A": "Sodium Carbonate (Soda Ash)",
+        "B": "Muriatic Acid (Hydrochloric Acid)",
+        "C": "Calcium Hardness Increaser",
+        "D": "Alkalinity Increaser"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High pH ko kam karne ke liye Muriatic Acid ya Sodium Bisulfate (dry acid) use kiya jaata hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Total Alkalinity (TA) ka ideal range kya hai?",
+      "options": {
+        "A": "20-40 ppm",
+        "B": "80-120 ppm",
+        "C": "150-200 ppm",
+        "D": "0-10 ppm"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Total Alkalinity ka ideal range 80-120 ppm (parts per million) hai. Yeh pH ko stable rakhne mein madad karta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Cyanuric Acid (CYA) ka kya kaam hai pool water mein?",
+      "options": {
+        "A": "Paani ko neela karta hai",
+        "B": "Chlorine ko UV rays se bachata hai",
+        "C": "Algae ko badhata hai",
+        "D": "Paani ko cloudy karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cyanuric Acid (CYA), jise conditioner ya stabilizer bhi kehte hain, chlorine ko suraj ki ultraviolet (UV) rays se protect karta hai, jisse chlorine zyada der tak effective rehta hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Combined Chlorine (Chloramines) kya hain aur inki presence se kya hota hai?",
+      "options": {
+        "A": "Yeh good chlorine hai",
+        "B": "Yeh chlorine aur nitrogen compounds ka mix hai jo aankhon mein jalan aur strong smell paida karta hai",
+        "C": "Yeh paani ko saaf karta hai",
+        "D": "Yeh algae ko maarta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Combined Chlorine (Chloramines) tab bante hain jab Free Chlorine swimmers ke waste (sweat, urine) mein maujood nitrogen compounds se react karta hai. Yeh aankhon mein jalan, skin irritation aur ek tez chlorine ki smell ka karan bante hain. Inhe hataane ke liye shock treatment zaroori hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Water testing ke liye sabse common method kya hai?",
+      "options": {
+        "A": "Taste test",
+        "B": "Dip test strips ya liquid reagent test kit",
+        "C": "Smell test",
+        "D": "Finger test"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pool water testing ke liye dip test strips aur liquid reagent test kits sabse common aur reliable methods hain."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Agar pool water cloudy ho, toh iska ek common reason kya ho sakta hai?",
+      "options": {
+        "A": "Too much chlorine",
+        "B": "Improper filtration ya unbalanced water chemistry",
+        "C": "Too low water temperature",
+        "D": "Too high water level"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cloudy water ka ek common reason improper filtration (filter dirty ya malfunctioning) ya unbalanced water chemistry (jaise high pH, low chlorine, high calcium hardness) ho sakta hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Calcium Hardness ka ideal range kya hai?",
+      "options": {
+        "A": "50-100 ppm",
+        "B": "100-150 ppm",
+        "C": "200-400 ppm",
+        "D": "500-600 ppm"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Calcium Hardness ka ideal range 200-400 ppm hai. Low calcium hardness plaster ko damage kar sakta hai (corrosion), aur high hardness scaling ka karan ban sakta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Algae growth ko control karne ke liye chlorine ke alawa kya use kiya jaata hai?",
+      "options": {
+        "A": "Sugar",
+        "B": "Algaecide",
+        "C": "Salt",
+        "D": "Bleach"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Algaecide ek chemical hai jo algae growth ko prevent aur control karta hai, especially jab chlorine levels kam ho ya algae growth zyada ho."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Jab pool mein shock treatment kiya jata hai, toh uske baad kitni der tak swimming avoid karni chahiye?",
+      "options": {
+        "A": "Immediately swim kar sakte hain",
+        "B": "Kam se kam 4-8 ghante ya jab tak chlorine level safe na ho jaye",
+        "C": "15 minute",
+        "D": "Pure din"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shock treatment ke baad chlorine levels bahut high hote hain, jo skin aur aankhon ke liye harmful ho sakte hain. Isliye, kam se kam 4-8 ghante tak ya jab tak chlorine levels safe range mein na aa jayein, swimming avoid karni chahiye."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Chlorine granules ko pool mein kaise add karna chahiye?",
+      "options": {
+        "A": "Directly skimmer mein daal dein",
+        "B": "Ek bucket paani mein dissolve karke dheere-dheere pool mein daalein",
+        "C": "Ek saath poora packet pool mein fek dein",
+        "D": "Pump ko band karke daalein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chlorine granules ko hamesha ek bucket paani mein dissolve karke dheere-dheere pool mein daalna chahiye taaki woh theek se distribute ho sake aur pool surface ko damage na kare."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Agar pool water mein pH bahut low ho, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Paani cloudy ho jayega",
+        "B": "Equipment corrosion aur skin/eye irritation",
+        "C": "Algae growth badh jayegi",
+        "D": "Paani bahut thanda ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Low pH se paani acidic ho jaata hai, jisse pool equipment (heater, pump, liner) mein corrosion ho sakta hai aur swimmers ko skin aur eye irritation ho sakti hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Chlorine demand ka kya matlab hai?",
+      "options": {
+        "A": "Kitni chlorine pool mein hai",
+        "B": "Kitni chlorine pool ko saaf karne ke liye chahiye",
+        "C": "Chlorine ki smell kitni hai",
+        "D": "Kitni chlorine waste ho rahi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Chlorine demand ka matlab hai ki pool water mein maujood impurities (bacteria, algae, organic matter) ko neutralize karne ke liye kitni chlorine ki zaroorat hai. Jab ye demand poori ho jaati hai, tab Free Chlorine bachta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Pool water mein 'Total Dissolved Solids' (TDS) ka kya role hai?",
+      "options": {
+        "A": "Yeh paani ko saaf karta hai",
+        "B": "High TDS paani ko cloudy kar sakta hai aur chemical efficiency kam kar sakta hai",
+        "C": "Yeh paani ko meetha karta hai",
+        "D": "Yeh chlorine ka alternative hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High TDS (Total Dissolved Solids) paani ko cloudy kar sakte hain, chemicals ki efficiency ko kam kar sakte hain, aur paani ko 'flat' ya 'stale' taste de sakte hain. TDS ko control karne ke liye partial draining aur refill karna pad sakta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Liquid chlorine ko store karte waqt kin baaton ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Dhoop mein rakhein",
+        "B": "Thandi, andheri jagah par store karein aur dusre chemicals se door rakhein",
+        "C": "Food items ke paas rakhein",
+        "D": "Ulat kar rakhein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Liquid chlorine ko hamesha thandi, andheri aur well-ventilated jagah par store karna chahiye, aur acids jaise dusre chemicals se door rakhna chahiye taaki dangerous reactions na ho."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Agar pool mein iron stains hon, toh unhe kaise remove kiya ja sakta hai?",
+      "options": {
+        "A": "Zyada chlorine daal kar",
+        "B": "Metal sequestrant ya ascorbic acid ka use karke",
+        "C": "Pool ko drain karke",
+        "D": "Sirf brush karke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Iron stains ko remove karne ke liye metal sequestrant products ya ascorbic acid (vitamin C) ka use kiya jaata hai. Yeh stains ko dissolve karte hain aur paani mein metals ko chelate karte hain."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Pool filtration system ka main purpose kya hai?",
+      "options": {
+        "A": "Paani ko garam karna",
+        "B": "Paani ko thanda karna",
+        "C": "Paani se debris aur suspended particles ko remove karna",
+        "D": "Paani ko rang dena"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Filtration system ka mukhya uddeshya paani se physical impurities, jaise dirt, leaves, hair, aur suspended particles ko remove karna hai, jisse paani saaf aur clear dikhe."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Sand filter ko kab backwash karna chahiye?",
+      "options": {
+        "A": "Har din",
+        "B": "Jab filter pressure gauge reading normal se 8-10 PSI (pounds per square inch) zyada ho",
+        "C": "Mahine mein ek baar",
+        "D": "Jab paani cloudy ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sand filter ko tab backwash karna chahiye jab filter pressure gauge ki reading uske clean pressure se 8-10 PSI zyada ho jaye, jo indicates karta hai ki filter dirty ho gaya hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Swimming pool pump ka kya kaam hai?",
+      "options": {
+        "A": "Paani ko heater tak pahunchana",
+        "B": "Paani ko filter se circulate karna",
+        "C": "Paani mein chemicals add karna",
+        "D": "Paani ko drain karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pump pool water ko circulate karta hai, skimmer aur main drain se paani ko khinchkar filter se guzarta hai aur phir heated/treated paani ko pool mein wapas bhejta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "DE (Diatomaceous Earth) filter ki kya khaasiyat hai?",
+      "options": {
+        "A": "Yeh sabse sasta filter hai",
+        "B": "Yeh sabse fine particles ko filter karta hai",
+        "C": "Isko backwash karne ki zaroorat nahi padti",
+        "D": "Yeh bahut zyada electricity consume karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DE filters sabse efficient hote hain aur 1-5 micron tak ke bahut fine particles ko filter kar sakte hain, jisse paani crystal clear ho jaata hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Pool skimmer ka kya role hai?",
+      "options": {
+        "A": "Pool ko garam karna",
+        "B": "Surface se floating debris (pattiyan, insects) ko remove karna",
+        "C": "Paani ko deep clean karna",
+        "D": "Chemicals add karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skimmer pool ki surface se floating debris jaise pattiyan, insects, aur anya kachra ko khinchkar filter tak pahunchata hai, jisse paani ki surface saaf rehti hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Agar pool pump prime na ho raha ho (paani na khinch raha ho), toh kya check karna chahiye?",
+      "options": {
+        "A": "Filter ko backwash karein",
+        "B": "Skimmer basket aur pump basket mein blockage check karein",
+        "C": "Pool mein zyada paani daalein",
+        "D": "Pool ko drain karein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar pump prime nahi ho raha hai, toh skimmer basket aur pump basket mein blockage (debris) ya suction line mein air leak check karna sabse common troubleshooting step hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Cartridge filter ko kaise clean karte hain?",
+      "options": {
+        "A": "Backwash karke",
+        "B": "Cartridge ko nikal kar high-pressure hose se rinse karke",
+        "C": "Usmein acid daal kar",
+        "D": "Filter ko replace karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cartridge filters ko backwash nahi kiya jaata. Unhe filter housing se nikal kar high-pressure hose se rinse kiya jaata hai taaki trapped dirt nikal jaye."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Multiport valve mein 'Rinse' setting ka kya use hai?",
+      "options": {
+        "A": "Filter ko clean karna",
+        "B": "Backwash ke baad filter media ko settle karna",
+        "C": "Pool ko vacuum karna",
+        "D": "Water level badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Backwash ke baad 'Rinse' setting ka use kiya jaata hai taaki filter media (sand) settle ho jaye aur backwash ke dauran nikli hui fine dirt return line se pool mein wapas na aaye."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Pool mein returns (jets) ka kya kaam hai?",
+      "options": {
+        "A": "Paani ko filter tak khichna",
+        "B": "Filtered aur treated paani ko wapas pool mein dhakelna",
+        "C": "Paani ko garam karna",
+        "D": "Pool ko drain karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Returns (jets) filtered aur chemical-treated paani ko pool mein wapas bhejte hain, jisse paani ka proper circulation maintain hota hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Agar pump bahut zyada awaaz kar raha ho, toh kya cause ho sakta hai?",
+      "options": {
+        "A": "Pump theek kaam kar raha hai",
+        "B": "Air leak in suction line ya cavitation",
+        "C": "Paani ka level bahut high hai",
+        "D": "Filter bahut saaf hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pump se zyada awaaz aane ka ek common karan suction line mein air leak ya cavitation ho sakta hai, jisme pump mein paani ki jagah hawa khinch rahi hoti hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Filter sand ko kitne saal mein replace karna chahiye?",
+      "options": {
+        "A": "Har 6 mahine",
+        "B": "Har 1-2 saal",
+        "C": "Har 3-5 saal",
+        "D": "Kabhi nahi"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Filter sand ko generally har 3-5 saal mein replace karna chahiye, kyunki samay ke saath uski filtering efficiency kam ho jaati hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Pool mein 'turnover rate' ka kya matlab hai?",
+      "options": {
+        "A": "Kitni baar pool ka paani ulta hota hai",
+        "B": "Kitni baar pool ka total volume filter se guzarta hai ek specific time frame mein",
+        "C": "Paani ka temperature kitna badalta hai",
+        "D": "Kitne log pool use karte hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Turnover rate ka matlab hai ki kitni baar pool ka total water volume filter se circulate hota hai ek specific time frame (usually 24 ghante) mein. Achhe turnover rate se paani saaf rehta hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Main drain ka kya purpose hai pool mein?",
+      "options": {
+        "A": "Sirf paani ko drain karna",
+        "B": "Pool ke bottom se paani khinchkar filtration system tak pahunchana",
+        "C": "Chemicals add karna",
+        "D": "Light lagana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Main drain pool ke bottom se paani khinchta hai aur use filtration system tak pahunchata hai, jisse pool ke bottom se bhi impurities remove hoti hain aur circulation improve hoti hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar filter pressure bahut low ho, toh kya possible cause ho sakta hai?",
+      "options": {
+        "A": "Filter bahut dirty hai",
+        "B": "Pump ko prime nahi kiya gaya hai ya suction leak hai",
+        "C": "Filter media naya hai",
+        "D": "Backwash abhi kiya gaya hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Low filter pressure ka matlab hai ki paani filter tak theek se nahi pahunch raha hai, jo pump ke prime na hone ya suction line mein air leak ke karan ho sakta hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Pool pump ke strainer basket ko kitni baar clean karna chahiye?",
+      "options": {
+        "A": "Hafte mein ek baar",
+        "B": "Daily ya jab bhi usmein debris dikhe",
+        "C": "Mahine mein ek baar",
+        "D": "Saal mein ek baar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pump ke strainer basket ko daily ya jab bhi usmein debris (pattiyan, hair) dikhe, clean karna chahiye taaki pump par load na pade aur paani ka flow maintain rahe."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Flocculant ya clarifier ka kya use hai pool water mein?",
+      "options": {
+        "A": "Algae ko maarna",
+        "B": "Chote particles ko clump karke filterable banana",
+        "C": "Chlorine level badhana",
+        "D": "Paani ko garam karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flocculant ya clarifier chote suspended particles ko ek saath clump (floc) karte hain, jisse woh bade ho jaate hain aur filter unhe aasani se trap kar paata hai, ya woh bottom par settle ho jaate hain jise vacuum kiya ja sakta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Agar filter se paani pool mein wapas cloudy aa raha ho, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Filter media damaged hai ya channelized ho gaya hai",
+        "B": "Pump bahut fast chal raha hai",
+        "C": "Paani mein chemicals kam hain",
+        "D": "Pool mein zyada log hain"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Agar filter se paani cloudy wapas aa raha hai, toh iska matlab hai ki filter media damaged ho gaya hai (jaise sand filter mein channels ban gaye hain) ya DE filter mein grid tear ho gaya hai, jisse particles filter se bypass ho rahe hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Pool ki surface se floating debris ko hataane ke liye kis tool ka use karte hain?",
+      "options": {
+        "A": "Pool vacuum",
+        "B": "Skimmer net (leaf rake)",
+        "C": "Pool brush",
+        "D": "Filter"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skimmer net ya leaf rake ka use pool ki surface se pattiyan, insects aur dusre floating debris ko hataane ke liye kiya jaata hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Pool walls aur floor ko brush karna kyon zaroori hai?",
+      "options": {
+        "A": "Paani ka rang badalne ke liye",
+        "B": "Algae aur dirt build-up ko rokne ke liye",
+        "C": "Filter ko clean karne ke liye",
+        "D": "Paani ko garam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular brushing se walls aur floor par algae growth aur dirt build-up nahi hota, jisse paani saaf rehta hai aur chemicals zyada effective hote hain."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Manual vacuuming karte waqt pump ko kis setting par rakhna chahiye?",
+      "options": {
+        "A": "Backwash",
+        "B": "Filter",
+        "C": "Waste (agar bahut zyada dirt ho)",
+        "D": "Closed"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Agar pool mein bahut zyada dirt ya algae ho, toh vacuum karte waqt pump ko 'Waste' setting par rakhna chahiye. Isse ganda paani filter se bypass hokar seedha drain ho jaata hai, filter ganda nahi hota."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Automatic pool cleaner (robot) ka kya fayda hai?",
+      "options": {
+        "A": "Yeh chemicals add karta hai",
+        "B": "Yeh manual effort kam karta hai aur pool ko automatically clean karta hai",
+        "C": "Yeh paani ko garam karta hai",
+        "D": "Yeh filter ko replace karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Automatic pool cleaners manual vacuuming ke effort ko kam karte hain aur pool ko regularly aur automatically clean karte hain."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Pool tiles par waterline stains ko kaise remove karte hain?",
+      "options": {
+        "A": "Sirf paani se dho kar",
+        "B": "Tile cleaner aur scrub brush ka use karke",
+        "C": "Zyada chlorine daal kar",
+        "D": "Vacuum karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waterline stains (oil, dirt, mineral build-up) ko remove karne ke liye ek specially designed tile cleaner aur scrub brush ka use karna chahiye."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Vacuum hose ko pool mein daalte waqt usmein se hawa kaise nikalte hain?",
+      "options": {
+        "A": "Usko paani mein doobokar dheere-dheere paani se bharte hain",
+        "B": "Pump chalakar",
+        "C": "Hath se hawa nikalte hain",
+        "D": "Usko paani mein ulta karke"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Vacuum hose ko pool mein doobokar dheere-dheere paani se bharna chahiye, jisse usmein se hawa nikal jaye. Agar hawa pump mein chali gayi toh pump prime nahi hoga."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Agar pool liner par algae ke ziddi daag hon, toh kya karna chahiye?",
+      "options": {
+        "A": "Brush karna chod dena chahiye",
+        "B": "Spot treatment ke liye algaecide ya chlorine ka concentrated solution use karein",
+        "C": "Liner ko replace karein",
+        "D": "Paani ka level kam karein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ziddi algae stains ke liye, ek concentrated algaecide ya chlorine solution ko directly stain par apply karke brush karna effective ho sakta hai. Lekin dhyan rahe ki liner ko damage na ho."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Pool vacuuming se pehle kya preparation karni chahiye?",
+      "options": {
+        "A": "Chemicals check karna",
+        "B": "Surface se bade debris hataana aur pump basket clean karna",
+        "C": "Pool ko garam karna",
+        "D": "Filter ko backwash karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vacuuming se pehle surface se bade debris ko skimmer net se hataana chahiye aur pump basket ko clean karna chahiye taaki vacuuming smoothly ho sake aur pump clog na ho."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Pool mein 'black algae' ko clean karna itna mushkil kyon hota hai?",
+      "options": {
+        "A": "Yeh bahut sundar dikhta hai",
+        "B": "Ismein deep roots hote hain jo pool surface mein penetrate karte hain",
+        "C": "Yeh paani mein ghulta nahi hai",
+        "D": "Yeh dikhta nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Black algae ko clean karna mushkil hota hai kyunki ismein protective layers hoti hain aur iske roots pool surface (plaster, grout) mein deep penetrate karte hain, jisse yeh chemicals se easily affect nahi hota."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Pool cover ka kya benefit hai?",
+      "options": {
+        "A": "Sirf decoration ke liye",
+        "B": "Debris ko pool mein girne se rokta hai aur heat/chemical loss kam karta hai",
+        "C": "Paani ko cloudy karta hai",
+        "D": "Paani ko overflow karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pool cover debris ko pool mein girne se rokta hai, evaporation se heat aur chemical loss ko kam karta hai, aur safety bhi provide karta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Agar pool mein bahut zyada leaves ya debris ho, toh vacuuming ka kaun sa method best rahega?",
+      "options": {
+        "A": "Automatic cleaner",
+        "B": "Manual vacuum to waste",
+        "C": "Sirf brushing",
+        "D": "Skimmer net se hi sab hata dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bahut zyada leaves ya debris hone par manual vacuum to waste method best hai. Isse ganda paani filter se bypass hokar seedha drain ho jaata hai, jisse filter clog nahi hota."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Pool brush kitne types ke hote hain?",
+      "options": {
+        "A": "Sirf ek type",
+        "B": "Nylon, Steel wire, aur Combo (nylon/steel)",
+        "C": "Plastic aur wood",
+        "D": "Soft aur hard"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pool brushes mainly teen types ke hote hain: Nylon (liner pools ke liye), Steel wire (plaster/concrete pools ke liye ziddi daag hataane ke liye), aur Combo (dono surfaces ke liye)."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Pool cleaning schedule kitna frequent hona chahiye?",
+      "options": {
+        "A": "Hafte mein ek baar",
+        "B": "Daily surface skimming, weekly brushing aur vacuuming",
+        "C": "Mahine mein ek baar",
+        "D": "Jab paani ganda dikhe tabhi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek ideal cleaning schedule mein daily surface skimming, aur weekly walls/floor brushing aur vacuuming shamil hota hai taaki pool saaf aur healthy rahe."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Pool mein green water ka kya matlab hai?",
+      "options": {
+        "A": "Paani mein zyada chlorine hai",
+        "B": "Algae growth hai",
+        "C": "Paani bahut saaf hai",
+        "D": "Paani bahut thanda hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Green water algae growth ka sabse clear indication hai, jiska matlab hai ki chlorine levels low hain ya water chemistry unbalanced hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Pool cleaner robot ko regularly clean karna kyon zaroori hai?",
+      "options": {
+        "A": "Usse sundar dikhta hai",
+        "B": "Uske filter bag ya cartridge ko clean karne se uski efficiency maintain rehti hai",
+        "C": "Usmein chemicals add karne ke liye",
+        "D": "Uske wheels ko lubrigate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pool cleaner robot ke filter bag ya cartridge ko regularly clean karna zaroori hai taaki woh particles ko theek se trap kar sake aur uski cleaning efficiency maintain rahe."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Pool mein metal stains (jaise brown ya rust color) ko remove karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Algaecide",
+        "B": "Metal sequestrant ya stain remover",
+        "C": "Bleach",
+        "D": "Muriatic Acid"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Metal stains, jo usually iron, copper ya manganese ke karan hote hain, unhe remove karne ke liye specially designed metal sequestrant products ya stain removers ka use kiya jaata hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Vacuum head ko pool floor par kaise move karna chahiye?",
+      "options": {
+        "A": "Fast aur random tarike se",
+        "B": "Slow aur overlapping strokes mein, jaise lawn mower chalate hain",
+        "C": "Upar neeche",
+        "D": "Sirf ek jagah par rakhein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vacuum head ko pool floor par slow aur overlapping strokes mein move karna chahiye, bilkul ek lawn mower ki tarah, taaki poori surface evenly clean ho sake aur dirt dobara na uthe."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Pool pump ke motor se burning smell aane ka kya matlab ho sakta hai?",
+      "options": {
+        "A": "Motor theek kaam kar raha hai",
+        "B": "Motor overheating ho raha hai ya winding jal rahi hai",
+        "C": "Filter dirty hai",
+        "D": "Paani bahut garam hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pump motor se burning smell aana serious issue hai aur iska matlab hai ki motor overheating ho raha hai ya uski electrical windings jal rahi hain. Immediate action lena zaroori hai aur pump ko band kar dena chahiye."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Agar pool heater kaam nahi kar raha ho, toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Pool ka temperature",
+        "B": "Gas supply ya electrical connection aur thermostat setting",
+        "C": "Filter ko backwash karna",
+        "D": "Chemical levels"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Heater kaam na karne par sabse pehle uski power supply (gas/electricity) aur thermostat setting check karni chahiye. Kai baar low gas pressure ya tripped breaker bhi karan ho sakta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Pool lights mein paani chale jaane par kya karna chahiye?",
+      "options": {
+        "A": "Light ko chalu rakhna chahiye",
+        "B": "Immediate electrical supply band karein aur electrician ko bulayein",
+        "C": "Light ko haath se nikalne ki koshish karein",
+        "D": "Paani ka level kam karein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar pool lights mein paani dikhe toh immediate electrical supply band karni chahiye kyunki yeh electrical shock ka khatra paida kar sakta hai. Qualified electrician ko hi repair ke liye bulana chahiye."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Chlorinator (chemical feeder) ka kya kaam hai?",
+      "options": {
+        "A": "Paani ko filter karna",
+        "B": "Chlorine tablets ya liquid ko control tarike se pool mein release karna",
+        "C": "Paani ko garam karna",
+        "D": "Paani ka level check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chlorinator ek device hai jo chlorine tablets (jaise trichlor) ya liquid chlorine ko control tarike se pool water mein release karta hai, jisse constant chlorine level maintain rehta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Agar pool pump se paani leak ho raha ho, toh kya check karna chahiye?",
+      "options": {
+        "A": "Filter pressure",
+        "B": "Pump housing seal, O-rings, ya shaft seal",
+        "C": "Pool ka temperature",
+        "D": "Chemical levels"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pump se paani leak hone par pump housing seal, lid O-ring, ya motor shaft seal ko check karna chahiye. Yeh parts samay ke saath kharab ho sakte hain."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Saltwater chlorinator system mein salt kyon add kiya jaata hai?",
+      "options": {
+        "A": "Paani ko meetha karne ke liye",
+        "B": "Chlorine generate karne ke liye",
+        "C": "Paani ko thanda karne ke liye",
+        "D": "Algae ko maarna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Saltwater chlorinator system mein salt (sodium chloride) add kiya jaata hai, jise chlorinator cell electrical process se hypochlorous acid (chlorine) mein convert karta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Pool cleaner robot theek se move na kar raha ho, toh kya check karna chahiye?",
+      "options": {
+        "A": "Pool ka temperature",
+        "B": "Wheels, tracks, brushes mein blockage ya wear and tear",
+        "C": "Chemical levels",
+        "D": "Filter pressure"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Robot cleaner ke theek se move na karne par uske wheels, tracks, brushes mein blockage (debris) ya unmein wear and tear check karna chahiye."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "GFCI (Ground Fault Circuit Interrupter) outlet ka kya purpose hai pool equipment ke liye?",
+      "options": {
+        "A": "Electricity bill kam karna",
+        "B": "Electrical shocks se bachana",
+        "C": "Equipment ko garam karna",
+        "D": "Equipment ko thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "GFCI outlet electrical shocks se protection provide karta hai. Agar koi ground fault detect hota hai, toh yeh turant power cut kar deta hai, jo pool area mein bahut zaroori hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar pool mein paani ka level bina kisi reason ke kam ho raha ho, toh kya suspect karna chahiye?",
+      "options": {
+        "A": "Zyada log swim kar rahe hain",
+        "B": "Paani leak ho raha hai",
+        "C": "Filter dirty hai",
+        "D": "Heater kaam kar raha hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar paani ka level normally se zyada tezi se kam ho raha ho, toh yeh pool mein leak ka sign ho sakta hai. Evaporation ko bhi consider karna chahiye, lekin sudden drop leak ka indication hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Pool pump motor ke bearings kharab hone par kya sound aati hai?",
+      "options": {
+        "A": "Smooth humming sound",
+        "B": "High-pitched screeching ya grinding sound",
+        "C": "No sound",
+        "D": "Bubbling sound"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Kharab bearings se high-pitched screeching, grinding ya loud humming sound aati hai. Bearing failure pump motor ke liye ek common issue hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "O-ring ka kya kaam hai pool equipment mein?",
+      "options": {
+        "A": "Paani ko filter karna",
+        "B": "Water-tight seal provide karna",
+        "C": "Electricity conduct karna",
+        "D": "Decoration ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "O-rings rubber ke seals hote hain jo equipment connections (jaise pump lid, filter valve) par water-tight seal provide karte hain taaki paani leak na ho."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Variable Speed Pump (VSP) ka kya fayda hai?",
+      "options": {
+        "A": "Sirf ek speed par chalta hai",
+        "B": "Energy efficient hota hai aur alag-alag speeds par chal sakta hai",
+        "C": "Zyada noise karta hai",
+        "D": "Zyada maintenance mangta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Variable Speed Pumps energy efficient hote hain kyunki woh alag-alag speeds par chal sakte hain, jisse electricity bill kam hota hai aur woh quieter bhi hote hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Pool automation system ka kya benefit hai?",
+      "options": {
+        "A": "Sirf paani ka temperature control karta hai",
+        "B": "Chemical dosing, filtration schedule aur lighting ko automatically manage karta hai",
+        "C": "Pool ko ganda karta hai",
+        "D": "Manual operations ko badhata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pool automation system chemical dosing, filtration schedule, heating, aur lighting jaise kai pool functions ko automatically manage karta hai, jisse maintenance easy ho jaati hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Pressure gauge kis equipment par laga hota hai aur uska kya use hai?",
+      "options": {
+        "A": "Heater par, temperature batata hai",
+        "B": "Filter par, filter ke andar ka pressure batata hai",
+        "C": "Pump par, pump ki speed batata hai",
+        "D": "Skimmer par, water level batata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pressure gauge filter par laga hota hai aur filter ke andar ka pressure batata hai. Isse pata chalta hai ki filter kab clean karna hai (backwash ya rinse)."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Agar pump basket lid se air leak ho rahi ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Lid ko tightly band karein aur O-ring ko check/lubricate karein",
+        "B": "Pump ko band kar dein",
+        "C": "Pool mein zyada paani daalein",
+        "D": "Filter ko backwash karein"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Pump basket lid se air leak hone par lid ko tightly band karna chahiye aur O-ring ko check karna chahiye. Agar O-ring damaged ho ya dry ho, toh use replace ya lubricate karna chahiye."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Pool ke winterization (winter-proofing) mein kya steps shamil hote hain?",
+      "options": {
+        "A": "Sirf chemicals add karna",
+        "B": "Equipment ko drain karna, pipelines ko blow-out karna aur pool ko cover karna",
+        "C": "Pool ko garam karna",
+        "D": "Daily cleaning karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Winterization mein pool equipment (pump, filter, heater) ko drain karna, pipelines se paani nikalna (blow-out) taaki freezing se damage na ho, aur pool ko winter cover se cover karna shamil hota hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Pool maintenance log book kyon zaroori hai?",
+      "options": {
+        "A": "Sirf record keeping ke liye",
+        "B": "Pool ki health, chemical history aur maintenance activities ko track karne ke liye",
+        "C": "Customer ko impress karne ke liye",
+        "D": "Extra work generate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Log book pool ki health, chemical history, aur kiye gaye maintenance activities ka detailed record rakhta hai, jisse problems ko diagnose karna aur future maintenance plan karna easy hota hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Customer se baat karte waqt ek technician ko kaisa hona chahiye?",
+      "options": {
+        "A": "Rough aur rude",
+        "B": "Polite, professional aur clear communication wala",
+        "C": "Sirf apni baat karne wala",
+        "D": "Customer ki baat na sunne wala"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek technician ko hamesha polite, professional aur clear communication wala hona chahiye taaki customer ko sab kuch theek se samajh aaye aur trust build ho."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Agar koi emergency ho (jaise drowning), toh aapka pehla action kya hoga?",
+      "options": {
+        "A": "Video banana shuru karein",
+        "B": "Turant emergency services (police/ambulance) ko call karein aur rescue shuru karein (agar trained ho)",
+        "C": "Log book mein entry karein",
+        "D": "Pool ko band kar dein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drowning emergency mein sabse pehla step emergency services ko call karna aur agar trained ho toh CPR aur rescue shuru karna hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Chemical inventory ko kaise manage karna chahiye?",
+      "options": {
+        "A": "Jahan jagah mile wahan rakh dein",
+        "B": "Properly label karke, safe aur ventilated area mein store karein, aur expiry dates track karein",
+        "C": "Sab chemicals ko ek saath mix kar dein",
+        "D": "Unhe khule mein chod dein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemicals ko properly label karke, safe, ventilated area mein store karna chahiye, aur unki expiry dates ko track karna chahiye taaki safety aur efficiency maintain rahe."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Customer ko pool ke maintenance progress ke baare mein kaise inform karna chahiye?",
+      "options": {
+        "A": "Kabhi inform na karein",
+        "B": "Regular updates, log book entries dikha kar aur problems discuss karke",
+        "C": "Sirf bill bhej dein",
+        "D": "Phone par gaali dekar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ko regular updates dena, log book entries dikhana, aur koi bhi problem ya solution discuss karna transparent communication ke liye zaroori hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Agar koi equipment repair ki zaroorat ho, toh customer ko kya batana chahiye?",
+      "options": {
+        "A": "Sirf bill amount",
+        "B": "Problem kya hai, repair ka kya scope hai, estimated cost aur time frame",
+        "C": "Ki repair nahi ho sakta",
+        "D": "Ki yeh unki galti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer ko problem ka detailed explanation, repair ka scope, estimated cost aur time frame batana chahiye taaki woh informed decision le sakein."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Pool water conservation ke liye kya steps liye ja sakte hain?",
+      "options": {
+        "A": "Pool ko har din drain karna",
+        "B": "Evaporation ko kam karne ke liye pool cover use karna aur leaks fix karna",
+        "C": "Zyada paani fill karna",
+        "D": "Backwash frequency badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paani ki bachat ke liye pool cover use karna (evaporation kam karne ke liye) aur kisi bhi leak ko turant fix karna bahut zaroori hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "A good customer service practice includes:",
+      "options": {
+        "A": "Ignoring customer queries",
+        "B": "Being punctual, respectful, and providing accurate information",
+        "C": "Arguing with the customer",
+        "D": "Completing work as fast as possible without quality check"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Achhi customer service mein samay par aana, sammanpurn vyavahar karna aur sahi jaankari dena shamil hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Pool maintenance mein 'sustainability' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf paisa bachana",
+        "B": "Environmental impact ko kam karte hue long-term efficiency maintain karna",
+        "C": "Sirf naye equipment install karna",
+        "D": "Zyada chemicals use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sustainability ka matlab hai ki pool maintenance practices ko is tarah se karna jisse environmental impact (jaise water aur energy consumption) kam ho aur pool ki long-term efficiency maintain rahe."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Complaint handling mein sabse pehla step kya hona chahiye?",
+      "options": {
+        "A": "Customer ko blame karna",
+        "B": "Customer ki baat dhyan se sunna aur problem ko samajhna",
+        "C": "Complaint ko ignore karna",
+        "D": "Apni safai dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Complaint handling mein sabse pehle customer ki baat dhyan se sunna aur unki problem ko poori tarah samajhna zaroori hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Pool chemical supplier se order karte waqt kya check karna chahiye?",
+      "options": {
+        "A": "Sirf price",
+        "B": "Product quality, expiry dates, aur safety data sheets (SDS)",
+        "C": "Product ka rang",
+        "D": "Kitni badi bottle hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemicals order karte waqt product quality, expiry dates aur Safety Data Sheets (SDS) ko check karna zaroori hai taaki sahi aur safe products use kiye ja sakein."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Pool maintenance technician ko apne knowledge aur skills ko kaise update rakhna chahiye?",
+      "options": {
+        "A": "Kisi se bhi puchkar",
+        "B": "Regular training, workshops, aur industry publications padhkar",
+        "C": "Internet par videos dekhkar",
+        "D": "Kabhi update na karein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Apne knowledge aur skills ko update rakhne ke liye regular training, workshops attend karna aur latest industry publications padhna bahut zaroori hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Ek technician ko apne kaam ke liye kis tarah ki reporting karni chahiye?",
+      "options": {
+        "A": "Sirf verbal reporting",
+        "B": "Detailed written reports (log book, service sheets) aur verbal updates",
+        "C": "Koi reporting nahi",
+        "D": "Sirf emergency mein reporting"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Detailed written reports (log book entries, service sheets) aur verbal updates dono zaroori hain taaki sab records clear rahein aur client ko bhi saari jaankari mile."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Agar customer ko pool chemistry ke baare mein doubts hon, toh technician ko kya karna chahiye?",
+      "options": {
+        "A": "Unhe ignor karna chahiye",
+        "B": "Unhe simple language mein explain karna chahiye aur test results dikhane chahiye",
+        "C": "Unhe complex technical terms mein samjhana chahiye",
+        "D": "Unhe khud research karne ko kehna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ko simple language mein pool chemistry ke fundamentals explain karne chahiye aur test results dikhane chahiye taaki unhe poori baat samajh aa sake."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Pool maintenance mein ethical practices ka kya matlab hai?",
+      "options": {
+        "A": "Sirf zyada paise kamana",
+        "B": "Honesty, integrity, aur client ke best interest mein kaam karna",
+        "C": "Shortcuts lena",
+        "D": "Dusre technicians ke baare mein bura bolna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ethical practices mein honesty, integrity, aur hamesha client ke best interest mein kaam karna shamil hai, jisse trust aur reputation banti hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Inventory management mein 'minimum stock level' maintain karna kyon zaroori hai?",
+      "options": {
+        "A": "Zyada stock jama karne ke liye",
+        "B": "Emergency mein chemicals ya spare parts ki kami na ho",
+        "C": "Storage space kam karne ke liye",
+        "D": "Cost badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Minimum stock level maintain karna zaroori hai taaki emergency situations mein ya regular maintenance ke dauran chemicals ya spare parts ki kami na ho, aur kaam na ruke."
+    }
+  ]
+}

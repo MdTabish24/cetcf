@@ -1,0 +1,1443 @@
+{
+  "course_name": "Video Editing — Reels, Shorts & YouTube",
+  "sector": "Media, Photography & Content Creation",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Video Editing & Platforms",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Basic Editing Techniques & Software",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Reels & Shorts Specific Editing",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "YouTube Video Editing",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Audio, Color Grading & Effects",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Exporting, Optimization & Best Practices",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Video editing ka main purpose kya hai?",
+      "options": {
+        "A": "Raw footage ko ek cohesive story mein convert karna",
+        "B": "Videos ko sirf cut karna",
+        "C": "Sirf background music add karna",
+        "D": "Video ki quality reduce karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Video editing ka primary goal hota hai raw footage ko ek meaningful aur engaging story ya message mein transform karna, jisme cuts, transitions, audio, aur effects shamil hote hain."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Social media platforms par short-form videos (Reels, Shorts) ki popular hone ki wajah kya hai?",
+      "options": {
+        "A": "Long content ko log zyada pasand karte hain",
+        "B": "Kam attention span aur quick consumption ki demand",
+        "C": "Zyada storage space ki availability",
+        "D": "High-budget production ki zaroorat"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aajkal logon ka attention span kam ho gaya hai, isliye short, engaging content jaise Reels aur Shorts bahut popular ho gaye hain kyunki unhe jaldi consume kiya ja sakta hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "YouTube videos ke liye recommended aspect ratio kya hai?",
+      "options": {
+        "A": "9:16 (Vertical)",
+        "B": "1:1 (Square)",
+        "C": "16:9 (Horizontal)",
+        "D": "4:3 (Standard TV)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "YouTube videos generally horizontal format mein dekhe jaate hain, isliye 16:9 aspect ratio standard hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Ek video editor ke liye storytelling ability kyun important hai?",
+      "options": {
+        "A": "Sirf technical skills kaafi hain",
+        "B": "Audience ko engage aur retain karne ke liye",
+        "C": "Video ko lamba banane ke liye",
+        "D": "Background music choose karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Storytelling ability se editor viewers ke emotions ko connect kar sakta hai aur unhe video ke end tak engage rakh sakta hai, jo successful content ke liye crucial hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Reels aur Shorts ke liye video duration kitni honi chahiye?",
+      "options": {
+        "A": "Minimum 10 minutes",
+        "B": "Maximum 60-90 seconds",
+        "C": "Koi limit nahi hai",
+        "D": "Sirf 5 seconds"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Reels aur Shorts short-form content hote hain, jinki duration generally 15 se 90 seconds tak hoti hai, audience engagement ke liye."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Copyright kya hai video editing ke context mein?",
+      "options": {
+        "A": "Kisi bhi content ko freely use karna",
+        "B": "Original creators ke rights ko protect karna",
+        "C": "Sirf music par apply hota hai",
+        "D": "Video ko download karne ka process"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Copyright original creators ko unke kaam (jaise music, video clips, images) par exclusive rights deta hai, aur unki permission ke bina unhe use karna illegal ho sakta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Ek content creator ke liye video editing skills kyun zaroori hain?",
+      "options": {
+        "A": "Sirf camera operate karna kaafi hai",
+        "B": "Professional aur engaging content create karne ke liye",
+        "C": "Editing software sasta hota hai",
+        "D": "Video upload karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Achhi editing se content professional dikhta hai, audience ko engage karta hai aur creator ka message effectively convey karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Video editing workflow ka pehla step kya hota hai?",
+      "options": {
+        "A": "Exporting the final video",
+        "B": "Footage import karna",
+        "C": "Color grading karna",
+        "D": "Sound effects add karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Har editing project ki shuruat raw footage ko editing software mein import karne se hoti hai, taaki us par kaam kiya ja sake."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Ek effective Reel ya Short banane ke liye sabse important element kya hai?",
+      "options": {
+        "A": "Bahut zyada transitions",
+        "B": "Ek strong 'hook' jo audience ko turant engage kare",
+        "C": "Sirf stock footage use karna",
+        "D": "Video ko bahut lamba banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Short-form content mein audience ka attention turant grab karna zaroori hai. Ek strong hook video ke pehle kuch seconds mein viewer ko roke rakhta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "YouTube analytics ek video editor ke liye kaise helpful ho sakta hai?",
+      "options": {
+        "A": "Sirf views count karne ke liye",
+        "B": "Audience retention aur engagement patterns samajhne ke liye",
+        "C": "Video ka size kam karne ke liye",
+        "D": "Music selection mein help karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Analytics se pata chalta hai ki viewers kab video chhod rahe hain ya kis part ko pasand kar rahe hain, jisse future editing decisions improve ho sakti hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek video editor ko different platforms ke guidelines (e.g., aspect ratio, file size) pata hona kyun zaroori hai?",
+      "options": {
+        "A": "Sirf apni knowledge badhane ke liye",
+        "B": "Taki video sahi format mein upload ho aur best performance de",
+        "C": "Kyunki har platform same guidelines follow karta hai",
+        "D": "Yeh unimportant hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Har platform ki apni specific requirements hoti hain. Unhe follow karne se video sahi se display hota hai aur uski reach aur engagement increase hoti hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Creative Commons license ka kya matlab hai?",
+      "options": {
+        "A": "Content ko bina permission use karna",
+        "B": "Content ko specific terms ke under use karne ki permission",
+        "C": "Sirf paid content ke liye",
+        "D": "Content ko monetize karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Creative Commons licenses creators ko apne kaam ko public domain mein share karne ka ek tareeka provide karti hain, jisme kuch conditions ho sakti hain jaise attribution ya non-commercial use."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Video editing mein 'proxy workflow' ka kya benefit hai?",
+      "options": {
+        "A": "Sirf final export ko fast karna",
+        "B": "Low-spec systems par high-resolution footage ko smoothly edit karna",
+        "C": "Video ki quality improve karna",
+        "D": "Storage space kam karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Proxy workflow mein original high-res footage ki low-res copies banayi jaati hain editing ke liye. Isse editing smooth ho jaati hai, especially on less powerful computers. Final export original footage se hota hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek professional video editor ko time management skills ki kya zaroorat hai?",
+      "options": {
+        "A": "Sirf project ko lamba karne ke liye",
+        "B": "Deadlines meet karne aur multiple projects handle karne ke liye",
+        "C": "Creative process ko slow down karne ke liye",
+        "D": "Clients se zyada paise charge karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Professional video editors ko aksar tight deadlines aur kai projects par ek saath kaam karna hota hai, isliye effective time management bahut zaroori hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "YouTube Shorts aur Instagram Reels mein primarily kya difference hai?",
+      "options": {
+        "A": "Dono same hain, koi difference nahi",
+        "B": "YouTube Shorts sirf mobile par dekhe ja sakte hain, Reels nahi",
+        "C": "Monetization ke options aur audience base mein difference ho sakta hai",
+        "D": "Reels bahut lamba ho sakte hain, Shorts nahi"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Dono platforms short-form vertical video offer karte hain, lekin unke monetization options, discovery algorithms aur target audience base mein subtle differences hote hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Video editing mein 'B-roll' footage ka kya role hai?",
+      "options": {
+        "A": "Sirf main subject ko dikhana",
+        "B": "Visual interest add karna aur main narrative ko support karna",
+        "C": "Audio quality improve karna",
+        "D": "Video ka size kam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "B-roll footage main subject se alag supplementary clips hote hain jo video ko visually rich banate hain aur storytelling mein depth add karte hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek video editor ke liye client feedback ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Har feedback ko ignore karna",
+        "B": "Feedback ko samajhna, communicate karna aur accordingly changes karna",
+        "C": "Sirf apne hisaab se kaam karna",
+        "D": "Feedback ko personal attack samajhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client feedback ko professional tareeke se lena, uski requirements ko samajhna aur unhe video mein incorporate karna successful client relationship ke liye zaroori hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Mobile par video editing ke liye kaun sa app popular hai?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "CapCut",
+        "C": "Adobe Photoshop",
+        "D": "Google Chrome"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CapCut ek bahut popular aur user-friendly mobile video editing app hai jo Reels aur Shorts ke liye widely use hota hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Desktop par professional video editing ke liye kaun sa software commonly use hota hai?",
+      "options": {
+        "A": "MS Paint",
+        "B": "Adobe Premiere Pro",
+        "C": "Notepad",
+        "D": "Calculator"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Adobe Premiere Pro industry standard hai professional video editing ke liye, jisme advanced features available hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Video editing software mein 'timeline' ka kya kaam hai?",
+      "options": {
+        "A": "Sirf video ka title likhna",
+        "B": "Clips ko arrange karna, cut karna aur edit karna",
+        "C": "Internet speed check karna",
+        "D": "Computer ki storage dekhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Timeline woh area hai jahan editor apne video clips, audio, text aur effects ko sequential order mein arrange karta hai taaki ek final video ban sake."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "'Trimming' aur 'Cutting' mein kya fark hai?",
+      "options": {
+        "A": "Dono same hain",
+        "B": "Trimming clip ke ends adjust karta hai, cutting beech se part remove karta hai",
+        "C": "Cutting sirf audio ke liye hai, trimming video ke liye",
+        "D": "Trimming video ko slow karta hai, cutting fast"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Trimming refers to adjusting the start and end points of a clip to make it shorter or longer, while cutting involves removing a section from within a clip or splitting it into two separate clips."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Video mein text overlays add karne ka kya fayda hai?",
+      "options": {
+        "A": "Video ko zyada boring banana",
+        "B": "Key information highlight karna, context dena, aur engagement badhana",
+        "C": "Sirf video ka size badhana",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Text overlays viewers ko important points par dhyaan dilate hain, information ko easily convey karte hain, aur video ko visually appealing banate hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Transitions ka kya role hai video editing mein?",
+      "options": {
+        "A": "Sirf video ko lamba karna",
+        "B": "Ek clip se dusre clip mein smooth flow provide karna",
+        "C": "Video ki quality reduce karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Transitions do clips ke beech ka visual connection provide karte hain, jisse video choppy nahi lagta aur ek smooth viewing experience milti hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Ek 'J-cut' aur 'L-cut' kya hote hain?",
+      "options": {
+        "A": "Dono cuts video ko reverse karte hain",
+        "B": "J-cut mein audio pehle aata hai, L-cut mein video pehle aata hai",
+        "C": "Dono cuts sirf action scenes ke liye hain",
+        "D": "J-cut aur L-cut sirf text effects hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "J-cut mein next scene ka audio current scene ke video se pehle shuru hota hai. L-cut mein current scene ka audio next scene ke video mein chalta rehta hai, jisse smooth transitions bante hain."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Video editing mein 'keyframing' ka kya use hai?",
+      "options": {
+        "A": "Sirf video ko save karna",
+        "B": "Properties (jaise position, opacity, scale) ko time ke saath change karna",
+        "C": "Video ko delete karna",
+        "D": "Background color change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Keyframing se editor kisi bhi property (jaise object ki movement, effect ki intensity) ko video ke alag-alag points par define kar sakta hai, jisse animations aur dynamic changes create hote hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Footage import karte waqt 'organization' kyun important hai?",
+      "options": {
+        "A": "Sirf computer memory save karne ke liye",
+        "B": "Editing process ko efficient aur easy banane ke liye",
+        "C": "Video ko lamba karne ke liye",
+        "D": "Files ko delete karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Well-organized footage se editor ko required clips jaldi mil jaate hain, time save hota hai aur project management easier ho jaata hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Adobe Premiere Rush kis tarah ke users ke liye design kiya gaya hai?",
+      "options": {
+        "A": "High-end Hollywood professionals",
+        "B": "Beginners aur social media creators ke liye simple editing",
+        "C": "Sirf graphic designers ke liye",
+        "D": "Audio engineers ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Premiere Rush ek simplified editing tool hai jo especially social media creators aur beginners ke liye banaya gaya hai, jisme quick edits aur easy sharing options hote hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Green screen (chroma key) ka basic use kya hai?",
+      "options": {
+        "A": "Video ko green color dena",
+        "B": "Ek specific color ko transparent banakar background replace karna",
+        "C": "Video ko slow motion mein karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chroma keying technique mein ek specific color (usually green ya blue) ko video se remove kiya jaata hai, aur uski jagah koi dusra background ya visual add kiya jaata hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Video editing mein 'render' karna kya hota hai?",
+      "options": {
+        "A": "Video ko delete karna",
+        "B": "Effects aur transitions ko process karke final preview ya exportable file banana",
+        "C": "Sirf audio files ko mix karna",
+        "D": "Footage ko import karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rendering ek compute-intensive process hai jisme software saare edits, effects, aur transitions ko combine karke ek final video output generate karta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Ek 'jump cut' ka primary purpose kya hai?",
+      "options": {
+        "A": "Smooth transition banana",
+        "B": "Time ko compress karna aur energy add karna",
+        "C": "Video ko lamba karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jump cut ek jarring transition hota hai jisme same shot se ek portion remove kar diya jaata hai, jisse time compress hota hai aur video mein ek fast-paced feel aati hai. Ise aksar vlogging aur fast-paced content mein use kiya jaata hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Video editing software mein 'nesting' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf multiple audio tracks ko combine karna",
+        "B": "Multiple clips, effects aur tracks ko ek single sequence mein group karna",
+        "C": "Video ko horizontal se vertical karna",
+        "D": "Files ko rename karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Nesting ek feature hai jisme aap multiple clips aur unke effects ko ek single group mein combine kar sakte hain, jisse complex timelines ko manage karna easier ho jaata hai aur effects ko ek saath apply kiya ja sakta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Video editing mein 'ripple edit' tool ka kya function hai?",
+      "options": {
+        "A": "Sirf audio ko adjust karna",
+        "B": "Clip ki duration change karne par timeline ke saare subsequent clips ko automatically shift karna",
+        "C": "Video ko reverse karna",
+        "D": "Color correction karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ripple edit se jab aap ek clip ki duration change karte hain, toh uske baad ke saare clips automatically adjust ho jaate hain, jisse timeline ki overall duration maintain rehti hai aur gaps nahi bante."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "DaVinci Resolve ek popular video editing software hai. Iski unique selling point kya hai?",
+      "options": {
+        "A": "Sirf audio editing ke liye hai",
+        "B": "Iska free version bahut powerful hai aur advanced color grading features provide karta hai",
+        "C": "Sirf mobile par chalta hai",
+        "D": "Bahut complicated hai aur beginners ke liye nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "DaVinci Resolve apne robust color grading capabilities ke liye jaana jaata hai, aur iska free version bhi kaafi powerful hai jo beginners aur professionals dono ke liye suitable hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Video editing mein 'insert edit' aur 'overwrite edit' mein kya difference hai?",
+      "options": {
+        "A": "Dono same hain",
+        "B": "Insert edit clips ko timeline mein push karta hai; Overwrite edit existing clips ko replace karta hai",
+        "C": "Insert edit sirf audio ke liye hai; Overwrite edit video ke liye",
+        "D": "Insert edit video ko slow karta hai; Overwrite edit fast"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Insert edit naye clips ko timeline mein add karta hai, existing clips ko right side mein shift karke space banata hai. Overwrite edit naye clips ko existing clips ke upar paste karta hai, unhe replace karte hue."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Reels aur Shorts ke liye video ka 'vertical aspect ratio' kya hota hai?",
+      "options": {
+        "A": "16:9",
+        "B": "1:1",
+        "C": "9:16",
+        "D": "4:3"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Reels aur Shorts mobile-first content hain, isliye unhe vertical mode mein dekha jaata hai, jiske liye 9:16 aspect ratio standard hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Ek Reel ya Short mein 'hook' kaise create karte hain?",
+      "options": {
+        "A": "Video ko lamba karke",
+        "B": "Pehle kuch seconds mein intriguing visual, question ya statement se",
+        "C": "Sirf background music add karke",
+        "D": "Video ko bahut slow karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek strong hook viewer ka attention turant grab karta hai aur unhe video pura dekhne ke liye encourage karta hai. Isme surprising visuals ya thought-provoking questions shamil ho sakte hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Trending music Reels aur Shorts ke liye kyun important hai?",
+      "options": {
+        "A": "Sirf video ka size badhane ke liye",
+        "B": "Engagement badhane, reach improve karne aur video ko relatable banane ke liye",
+        "C": "Video ko copyright issue dene ke liye",
+        "D": "Audience ko bore karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Trending music videos ko discoverability mein help karta hai, audience ko engage karta hai aur content ko current trends ke saath align karta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Reels mein text overlays ka strategic use kya hai?",
+      "options": {
+        "A": "Sirf text ko decoration ke liye use karna",
+        "B": "Key points highlight karna, subtitles provide karna aur call to action dena",
+        "C": "Video ko cover karna",
+        "D": "Audio ko mute karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Text overlays short-form content mein bahut effective hote hain, especially jab log sound off karke videos dekhte hain. Ye important information convey karte hain aur engagement badhate hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Reels aur Shorts mein 'pacing' ka kya matlab hai?",
+      "options": {
+        "A": "Video ko kitna slow banana hai",
+        "B": "Clips ki speed aur transitions ka rhythm jo viewer ko engage rakhe",
+        "C": "Sirf background music ki speed",
+        "D": "Video ka resolution"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pacing refers to the speed at which information or actions unfold in a video. Fast pacing short-form content mein engagement maintain karta hai, viewers ko bore hone se bachata hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Ek Reel mein 'Call to Action' (CTA) kyun important hai?",
+      "options": {
+        "A": "Sirf video ko khatam karne ke liye",
+        "B": "Audience ko next step batane ke liye (e.g., Follow, Like, Share, Comment)",
+        "C": "Video ko lamba karne ke liye",
+        "D": "Background music change karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CTA viewers ko specifically batata hai ki aap unse kya action expect karte hain, jisse engagement aur desired outcome increase hota hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Reels aur Shorts mein 'caption' ka kya role hai?",
+      "options": {
+        "A": "Sirf video ka title likhna",
+        "B": "Video ko context dena, engage karna aur hashtags add karna",
+        "C": "Video ka size kam karna",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Captions video ko additional context dete hain, viewers ko engage karte hain aur relevant hashtags ke through discoverability badhate hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Short-form video mein 'looping' effect kaise achieve kiya ja sakta hai?",
+      "options": {
+        "A": "Video ko sirf ek baar play karke",
+        "B": "Video ke end ko start se seamlessly connect karke",
+        "C": "Background music ko repeat karke",
+        "D": "Video ko bahut lamba karke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Looping effect viewers ko video ko baar-baar dekhne ke liye encourage karta hai, jisse watch time aur engagement badhta hai. Isme video ke start aur end points ko carefully align kiya jaata hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Reels aur Shorts ke liye 'text-to-speech' feature ka kya fayda hai?",
+      "options": {
+        "A": "Sirf comedy ke liye",
+        "B": "Voiceover ke bina bhi information convey karna aur accessibility badhana",
+        "C": "Video ka size badhana",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Text-to-speech feature content creators ko apni awaaz record kiye bina bhi voiceover add karne ki facility deta hai, aur jin logon ko sunne mein problem hoti hai unke liye bhi content accessible banata hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Ek Reel ko 'viral' banane ke liye editing mein kaun se factors important hain?",
+      "options": {
+        "A": "Sirf high-quality camera use karna",
+        "B": "Engaging hook, fast pacing, trending elements aur strong CTA",
+        "C": "Video ko bahut lamba banana",
+        "D": "Sirf ek hi transition use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Viral content mein viewers ka attention grab karne ki ability, unhe engage rakhne ki speed, relevant trends ka use aur ek clear action provide karna bahut zaroori hota hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Short-form video mein 'sound design' ka kya importance hai?",
+      "options": {
+        "A": "Sirf background music add karna",
+        "B": "Emotion create karna, engagement badhana aur video ko dynamic banana",
+        "C": "Video ko silent karna",
+        "D": "Visuals ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sound design mein background music, sound effects, aur dialogue ka strategic use shamil hai jo video ki overall feel ko enhance karta hai aur storytelling mein depth add karta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Reels aur Shorts ke liye 'thumbnail' kyun important hai?",
+      "options": {
+        "A": "Sirf video ko decorate karna",
+        "B": "Video ko click-worthy banana aur audience ka attention grab karna",
+        "C": "Video ka size kam karna",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Thumbnail first impression hota hai. Ek compelling thumbnail viewers ko video par click karne ke liye encourage karta hai, especially jab wo feed scroll kar rahe hote hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Short-form content mein 'repetition' ka use kaise kiya ja sakta hai?",
+      "options": {
+        "A": "Audience ko bore karne ke liye",
+        "B": "Ek idea ko reinforce karna ya humorous effect create karna",
+        "C": "Video ko lamba banana",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Repetition, jab strategically use kiya jaata hai, toh woh ek idea ko viewers ke mind mein reinforce kar sakta hai ya ek funny ya memorable moment create kar sakta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Reels aur Shorts mein 'subtitles/captions' ka kya fayda hai?",
+      "options": {
+        "A": "Sirf video ko lamba karna",
+        "B": "Accessibility badhana aur sound-off viewers ko engage karna",
+        "C": "Video ki quality reduce karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bahut se log social media par videos without sound dekhte hain. Subtitles un viewers ko bhi content samajhne mein help karte hain aur overall accessibility badhate hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Short-form video editing mein 'speed ramps' ka kya use hai?",
+      "options": {
+        "A": "Video ko sirf fast karna",
+        "B": "Video ki speed ko smoothly change karna, dramatic ya rhythmic effect ke liye",
+        "C": "Video ko slow motion mein karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Speed ramps mein video ki playback speed ko gradually increase ya decrease kiya jaata hai, jisse dynamic transitions, emphasis ya artistic effects create hote hain."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Reels aur Shorts mein 'text animation' ka kya role hai?",
+      "options": {
+        "A": "Sirf text ko static rakhna",
+        "B": "Visual interest add karna aur key information ko dynamic tareeke se present karna",
+        "C": "Video ka size badhana",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Animated text viewers ka attention grab karta hai aur information ko zyada engaging tareeke se display karta hai, especially short-form content mein jahan har second matter karta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Ek Reel ko creative aur unique banane ke liye editing mein kya approach honi chahiye?",
+      "options": {
+        "A": "Sirf popular templates use karna",
+        "B": "Original ideas, innovative transitions aur personal style incorporate karna",
+        "C": "Video ko bahut lamba banana",
+        "D": "Sirf trending music use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Creative aur unique Reels banane ke liye personal touch, out-of-the-box ideas, aur editing techniques ka innovative use zaroori hai, jo aapko bheed se alag kar sake."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "YouTube videos ke liye 'intro' ka ideal duration kya hona chahiye?",
+      "options": {
+        "A": "Minimum 5 minutes",
+        "B": "5-10 seconds",
+        "C": "Koi limit nahi hai",
+        "D": "1 minute"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek short aur engaging intro viewers ka attention grab karta hai aur unhe video ke main content tak jaldi le jaata hai. Lambe intros se audience drop-off ho sakta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "YouTube video mein 'outro' ka kya purpose hai?",
+      "options": {
+        "A": "Sirf video ko end karna",
+        "B": "Subscribe karne, dusre videos dekhne ya social media par connect karne ke liye CTA dena",
+        "C": "Video ko lamba karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Outro viewers ko next steps provide karta hai, jaise channel subscribe karna, related videos dekhna, ya creator se connect karna, jisse channel growth hoti hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "YouTube videos mein 'B-roll' footage ka kya role hai?",
+      "options": {
+        "A": "Sirf main speaker ko dikhana",
+        "B": "Visual interest add karna, narrative ko enhance karna aur cuts ko smooth banana",
+        "C": "Audio quality improve karna",
+        "D": "Video ka size kam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "B-roll footage main narrative (A-roll) ko visually support karta hai, boring parts ko cover karta hai aur video ko zyada dynamic aur engaging banata hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "YouTube par 'audience retention' ko improve karne ke liye editing mein kya kiya ja sakta hai?",
+      "options": {
+        "A": "Video ko lamba karna",
+        "B": "Fast-paced editing, engaging visuals, variety in shots aur concise information",
+        "C": "Sirf ek hi shot use karna",
+        "D": "Background music ko bahut loud karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Audience retention ko improve karne ke liye editor ko viewers ko engage rakhna hota hai. Isme quick cuts, interesting visuals, aur important information ko clear tareeke se present karna shamil hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "YouTube videos mein 'chapter markers' ka kya fayda hai?",
+      "options": {
+        "A": "Sirf video ko decorate karna",
+        "B": "Viewers ko video ke specific sections par jump karne ki permission dena",
+        "C": "Video ka size kam karna",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chapter markers (timestamps) viewers ko video ke different sections ko easily navigate karne mein help karte hain, jisse user experience improve hota hai aur retention badhti hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "YouTube 'End Screens' ka kya use hai?",
+      "options": {
+        "A": "Sirf video ko end karna",
+        "B": "Last 5-20 seconds mein dusre videos, playlists, subscribe button add karna",
+        "C": "Video ko lamba karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "End screens viewers ko channel par aur content explore karne ke liye encourage karte hain, jisse views aur subscriptions increase hote hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "YouTube videos mein 'Cards' ka kya role hai?",
+      "options": {
+        "A": "Sirf video ko decorate karna",
+        "B": "Video ke beech mein relevant content (videos, playlists, polls) ka link provide karna",
+        "C": "Video ka size kam karna",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cards viewers ko video dekhte waqt related content explore karne ka option dete hain, jisse engagement aur channel watch time badhta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Ek 'multi-camera' setup se shoot kiye gaye footage ko kaise edit karte hain?",
+      "options": {
+        "A": "Sirf ek camera ka footage use karna",
+        "B": "Sabhi footage ko sync karna aur different angles ke beech switch karna",
+        "C": "Har camera ka footage alag video mein edit karna",
+        "D": "Sirf audio ko mix karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Multi-camera editing mein sabhi camera feeds ko sync kiya jaata hai, aur editor timing aur visual interest ke according different camera angles ke beech switch karta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "YouTube video ki 'thumbnail' design karte waqt kya dhyan mein rakhna chahiye?",
+      "options": {
+        "A": "Sirf text likhna",
+        "B": "Clear, appealing, relevant aur click-worthy hona chahiye",
+        "C": "Video ka size kam karna",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Thumbnail video ka first impression hota hai. Ek achha thumbnail viewers ko video par click karne ke liye attract karta hai aur video ke content ko accurately represent karta hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "YouTube video editing mein 'dynamic zoom' ka kya use hai?",
+      "options": {
+        "A": "Sirf video ko zoom out karna",
+        "B": "Shots ke andar movement aur emphasis create karna",
+        "C": "Video ko slow motion mein karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dynamic zoom (ya Ken Burns effect) static images ya video clips ko zoom in/out karke unme movement add karta hai, jisse visual engagement badhta hai aur important details highlight hote hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "YouTube video mein 'lower thirds' ka kya purpose hai?",
+      "options": {
+        "A": "Sirf video ko decorate karna",
+        "B": "Speaker ka naam, title ya key information screen ke bottom mein display karna",
+        "C": "Video ka size kam karna",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lower thirds viewers ko important context provide karte hain bina main visual ko obstruct kiye, jaise speaker identification ya key facts display karna."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "YouTube video editing mein 'motion graphics' ka kya fayda hai?",
+      "options": {
+        "A": "Sirf video ko lamba karna",
+        "B": "Visuals ko dynamic, engaging aur professional banana",
+        "C": "Video ki quality reduce karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Motion graphics (animated text, shapes, logos) video ko visually appealing banate hain, complex information ko simplify karte hain aur brand identity ko reinforce karte hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "YouTube video ke liye 'script' ya 'storyboard' ka kya importance hai?",
+      "options": {
+        "A": "Sirf time waste karna",
+        "B": "Editing process ko streamline karna aur cohesive narrative maintain karna",
+        "C": "Video ka size badhana",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Script aur storyboard editing se pehle video ki structure aur content ko define karte hain, jisse editing process smoother ho jaati hai aur final output cohesive banta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "YouTube videos mein 'color correction' aur 'color grading' ka kya role hai?",
+      "options": {
+        "A": "Sirf video ko bright karna",
+        "B": "Footage ko visually consistent banana aur mood/tone set karna",
+        "C": "Video ko black and white karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Color correction footage ko natural aur consistent dikhata hai, jabki color grading video ko ek specific aesthetic ya mood deta hai, jisse storytelling enhance hoti hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "YouTube video editing mein 'cutaways' ka kya use hai?",
+      "options": {
+        "A": "Sirf main speaker ko dikhana",
+        "B": "Ek scene se temporarily cut karke related visual dikhana, jo narrative ko support kare",
+        "C": "Video ko lamba karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cutaways main subject se away shot hote hain jo visual variety add karte hain, narrative ko clarify karte hain aur editing mistakes ko mask karne mein help karte hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "YouTube video mein 'text-based animation' ka kya fayda hai?",
+      "options": {
+        "A": "Sirf text ko static rakhna",
+        "B": "Key information ko visually engaging tareeke se present karna",
+        "C": "Video ka size badhana",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Animated text viewers ka attention grab karta hai aur important information ko dynamic aur professional tareeke se display karta hai, jo boring text se better hota hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "YouTube video editing mein 'playback speed' ka adjustment kaise helpful ho sakta hai?",
+      "options": {
+        "A": "Sirf video ko slow karna",
+        "B": "Time ko compress karna ya dramatic effect ke liye moments ko highlight karna",
+        "C": "Video ko reverse karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Playback speed adjustment (slow motion ya fast motion) specific moments par emphasis daal sakta hai, unwanted pauses ko remove kar sakta hai ya ek dynamic feel create kar sakta hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Video editing mein 'audio levels' adjust karna kyun important hai?",
+      "options": {
+        "A": "Sirf background music ko loud karna",
+        "B": "Clear aur balanced sound experience provide karna",
+        "C": "Video ki quality reduce karna",
+        "D": "Visuals ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper audio levels viewers ke liye listening experience ko comfortable banate hain. Dialogue ko clear rakhna aur background music ko balanced rakhna zaroori hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "'Noise reduction' ka kya matlab hai audio editing mein?",
+      "options": {
+        "A": "Sirf background music add karna",
+        "B": "Unwanted background sounds ko remove karna ya kam karna",
+        "C": "Audio ko reverse karna",
+        "D": "Audio ko mute karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Noise reduction se audio clean aur professional lagta hai, jisse main dialogue ya voiceover clearly suna ja sake."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Video mein background music add karte waqt kya dhyan mein rakhna chahiye?",
+      "options": {
+        "A": "Music bahut loud hona chahiye",
+        "B": "Music video ke mood aur tone se match kare aur dialogue ko overpower na kare",
+        "C": "Sirf trending music use karna",
+        "D": "Music ko bina license use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Background music video ke mood ko enhance karta hai, lekin use itna loud nahi hona chahiye ki woh dialogue ko disturb kare. Copyrighted music ka bhi dhyan rakhna chahiye."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "'Sound effects' ka video editing mein kya role hai?",
+      "options": {
+        "A": "Sirf video ko noisy banana",
+        "B": "Realism add karna, specific actions par emphasis dalna aur engagement badhana",
+        "C": "Video ki quality reduce karna",
+        "D": "Visuals ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sound effects (jaise door close hone ki awaaz, ya swipe sound) visuals ko reinforce karte hain, video ko zyada immersive banate hain aur viewer ko engage karte hain."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "'Color correction' ka primary objective kya hai?",
+      "options": {
+        "A": "Video ko artistic look dena",
+        "B": "Footage ko natural aur accurate colors mein restore karna",
+        "C": "Video ko black and white karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Color correction ka aim hota hai footage mein white balance, exposure aur contrast ko adjust karke use naturally correct dikhana, jaisa ki real life mein hota hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "'Color grading' ka primary objective kya hai?",
+      "options": {
+        "A": "Footage ko natural colors mein restore karna",
+        "B": "Video ko ek specific mood, tone ya aesthetic dena",
+        "C": "Video ko sirf bright karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Color grading ek creative process hai jisme colors ko manipulate karke video ko ek specific feel ya emotion diya jaata hai, jaise warm, cool, cinematic, etc."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Video editing mein 'LUTs' (Look Up Tables) ka kya use hai?",
+      "options": {
+        "A": "Sirf video ka size kam karna",
+        "B": "Pre-set color grades ko footage par apply karna",
+        "C": "Audio ko remove karna",
+        "D": "Video ko reverse karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "LUTs ek tarah ke color filters hote hain jo footage par apply karke use instant cinematic look ya specific color aesthetic de sakte hain, जिससे workflow fast होता है।"
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "'Slow motion' effect kaise achieve kiya jaata hai?",
+      "options": {
+        "A": "Video ko fast karke",
+        "B": "Video clips ki playback speed ko kam karke",
+        "C": "Audio ko remove karke",
+        "D": "Video ko reverse karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Slow motion effect video clips ki playback speed ko kam karke create kiya jaata hai, jisse dramatic effect ya details highlight hote hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "'Fast motion' effect ka kya fayda hai?",
+      "options": {
+        "A": "Sirf video ko lamba karna",
+        "B": "Time ko compress karna aur boring parts ko speed up karna",
+        "C": "Video ko slow motion mein karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fast motion effect se lambe, less important sections ko condense kiya jaata hai, jisse video ki overall pacing improve hoti hai aur viewers engage rehte hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Video editing mein 'stabilization' ka kya role hai?",
+      "options": {
+        "A": "Sirf video ko blurry karna",
+        "B": "Shaky footage ko smooth aur watchable banana",
+        "C": "Video ko black and white karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Video stabilization software algorithms ka use karke camera shake ko minimize karta hai, jisse footage professional aur smooth dikhta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Ek video mein 'audio sync' kyun important hai?",
+      "options": {
+        "A": "Sirf audio ko loud karna",
+        "B": "Visuals aur audio ko perfectly align karna taaki lips movement match kare",
+        "C": "Video ki quality reduce karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper audio sync viewers ko ek natural aur seamless experience deta hai. Out-of-sync audio bahut distracting ho sakta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Video editing mein 'vignette' effect ka kya use hai?",
+      "options": {
+        "A": "Sirf video ko bright karna",
+        "B": "Frame ke edges ko darken karke main subject par focus lana",
+        "C": "Video ko reverse karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vignette ek subtle effect hai jo viewers ka attention frame ke center mein direct karta hai aur video ko ek artistic ya nostalgic look de sakta hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Basic 'white balance' adjustment ka kya matlab hai?",
+      "options": {
+        "A": "Sirf video ko black and white karna",
+        "B": "Colors ko neutral dikhana, jisse white objects truly white dikhe",
+        "C": "Video ko bahut bright karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "White balance adjustment se colors accurate dikhte hain, aur footage mein koi unwanted color cast (jaise blue ya yellow tint) remove ho jaata hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Video editing mein 'cross dissolve' transition ka kya fayda hai?",
+      "options": {
+        "A": "Sirf video ko fast karna",
+        "B": "Ek clip se dusre clip mein smooth aur gradual fade-in/fade-out transition provide karna",
+        "C": "Video ko jump cut karna",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cross dissolve ek classic transition hai jo do clips ke beech ek soft blend create karta hai, aksar time ya location change indicate karne ke liye use hota hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Ek video mein 'background score' ka selection kaise karna chahiye?",
+      "options": {
+        "A": "Sirf apni pasand ka music choose karna",
+        "B": "Video ke theme, pace aur target audience ke according music choose karna",
+        "C": "Sabse loud music choose karna",
+        "D": "Copyrighted music use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Background score video ki storytelling ko support karta hai. Iska selection video ke overall narrative, emotions aur target audience ke saath align hona chahiye."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Video editing mein 'warp stabilizer' effect ka kya kaam hai?",
+      "options": {
+        "A": "Sirf video ko slow motion mein karna",
+        "B": "Highly shaky footage ko smooth aur cinematic banana",
+        "C": "Video ko black and white karna",
+        "D": "Audio levels adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Warp stabilizer ek advanced stabilization tool hai jo motion ko analyze karke footage ko smooth karta hai, jisse hand-held shots bhi tripod-like dikh sakte hain."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "YouTube ke liye video export karte waqt recommended 'resolution' kya hai?",
+      "options": {
+        "A": "480p",
+        "B": "720p",
+        "C": "1080p (Full HD) ya higher",
+        "D": "360p"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "High resolution (1080p ya 4K) videos YouTube par better quality dete hain aur viewers ko achha viewing experience provide karte hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Reels aur Shorts ke liye video export karte waqt 'aspect ratio' kya hona chahiye?",
+      "options": {
+        "A": "16:9",
+        "B": "1:1",
+        "C": "9:16",
+        "D": "4:3"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Reels aur Shorts vertical platforms ke liye hain, isliye 9:16 aspect ratio standard hai taaki video fullscreen mein display ho."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Video export karte waqt 'bitrate' ka kya importance hai?",
+      "options": {
+        "A": "Sirf video ka size kam karna",
+        "B": "Video ki quality aur file size ko determine karta hai",
+        "C": "Audio quality improve karna",
+        "D": "Video ko reverse karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bitrate data ki amount hai jo video ko encode karne ke liye use hoti hai. High bitrate se better quality milti hai, lekin file size bhi badh jaata hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Video files ke liye sabse common aur compatible format kaun sa hai?",
+      "options": {
+        "A": "AVI",
+        "B": "MOV",
+        "C": "MP4",
+        "D": "WMV"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "MP4 (MPEG-4) ek highly compressed aur widely compatible video format hai jo almost sabhi platforms aur devices par support kiya jaata hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "YouTube video ke liye 'thumbnail' ka kya role hai?",
+      "options": {
+        "A": "Sirf video ko decorate karna",
+        "B": "Viewer ka attention grab karna aur click-through rate badhana",
+        "C": "Video ka size kam karna",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek compelling thumbnail viewers ko video par click karne ke liye attract karta hai, jo YouTube par video ki success ke liye crucial hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "YouTube video ke 'title' aur 'description' mein 'keywords' use karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf video ko lamba karna",
+        "B": "SEO (Search Engine Optimization) improve karna aur video ko discoverable banana",
+        "C": "Video ki quality reduce karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Relevant keywords use karne se video YouTube search results mein rank karta hai, jisse organic views badhte hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Video editing mein 'backup strategy' kyun important hai?",
+      "options": {
+        "A": "Sirf storage space fill karne ke liye",
+        "B": "Data loss se bachne aur project files ko safe rakhne ke liye",
+        "C": "Editing process ko slow karna",
+        "D": "Video ko delete karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular backups se accidental deletion, hardware failure ya software crash ki wajah se hone wale data loss se bacha ja sakta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Video ko 'compress' karne ka kya fayda hai?",
+      "options": {
+        "A": "Sirf video ki quality reduce karna",
+        "B": "File size kam karna, jisse upload aur download speed fast ho",
+        "C": "Video ko lamba karna",
+        "D": "Audio quality improve karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Compression se file size kam ho jaata hai, jisse videos ko upload aur download karna easier ho jaata hai, bina significant quality loss ke."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Ek video editor ke liye 'feedback' lena aur us par kaam karna kyun important hai?",
+      "options": {
+        "A": "Sirf client ko khush karne ke liye",
+        "B": "Video ko client ki expectations ke according refine karna aur skills improve karna",
+        "C": "Apni creativity ko limit karna",
+        "D": "Project ko lamba karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Constructive feedback se editor video ko client ki requirements ke according adjust kar sakta hai aur apni editing skills ko bhi develop kar sakta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "YouTube par 'consistency' ka kya importance hai?",
+      "options": {
+        "A": "Sirf zyada videos upload karna",
+        "B": "Audience retention badhana, channel growth maintain karna aur viewers ko engage rakhna",
+        "C": "Video ko lamba karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Consistent uploads aur content quality se audience ko pata chalta hai ki unhe kab naya content expect karna hai, jisse loyalty aur growth badhti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Video editing mein 'non-destructive editing' ka kya matlab hai?",
+      "options": {
+        "A": "Original footage ko delete karna",
+        "B": "Original footage ko intact rakhna aur edits ko separate layers par apply karna",
+        "C": "Video ko reverse karna",
+        "D": "Sirf audio files ko edit karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Non-destructive editing mein original media files par koi permanent changes nahi hote hain. Edits ko instructions ke roop mein store kiya jaata hai, jisse future mein changes karna easier ho jaata hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Ek video editor ko 'software updates' ke baare mein informed rehna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf naye features dekhne ke liye",
+        "B": "New tools, performance improvements aur bug fixes ka fayda uthane ke liye",
+        "C": "Purane software ko use karna",
+        "D": "Internet speed check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Software updates mein aksar naye features, bug fixes aur performance improvements hote hain jo editing workflow ko easier aur more efficient bana sakte hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "YouTube videos mein 'closed captions' (CC) ka kya importance hai?",
+      "options": {
+        "A": "Sirf video ko decorate karna",
+        "B": "Hearing-impaired viewers ke liye accessibility badhana aur SEO improve karna",
+        "C": "Video ka size kam karna",
+        "D": "Audio ko remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Closed captions video ko hearing-impaired audience ke liye accessible banate hain aur search engines ko video ke content ko better samajhne mein help karte hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Video editing mein 'workflow efficiency' kaise achieve ki ja sakti hai?",
+      "options": {
+        "A": "Sirf ek hi software use karke",
+        "B": "Keyboard shortcuts use karna, organized project files aur templates create karna",
+        "C": "Har step ko manually karna",
+        "D": "Bahut sare effects use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Efficient workflow se time save hota hai aur productivity badhti hai. Isme smart use of tools, organization aur repetitive tasks ke liye templates banana shamil hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Video content ke liye 'audience engagement' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf views count karna",
+        "B": "Viewers ka content ke saath interact karna (likes, comments, shares, watch time)",
+        "C": "Video ko lamba karna",
+        "D": "Background music change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Engagement metrics indicate karte hain ki viewers content ko kitna pasand kar rahe hain aur uske saath interact kar rahe hain, jo channel growth ke liye important hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek video editor ke liye 'ethical considerations' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf paise kamana",
+        "B": "Copyrighted content ka respectful use, deepfake se bachna aur audience ko mislead na karna",
+        "C": "Kisi bhi content ko use karna",
+        "D": "Sirf technical skills par focus karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ethical considerations mein legal aur moral responsibilities shamil hain, jaise copyrighted material ka sahi use karna, fake news na failana, aur viewers ke trust ko maintain rakhna."
+    }
+  ]
+}

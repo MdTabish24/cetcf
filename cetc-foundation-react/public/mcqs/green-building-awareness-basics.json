@@ -1,0 +1,1443 @@
+{
+  "course_name": "Green Building Awareness Basics",
+  "sector": "Environmental & Green Skills",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Green Buildings aur Sustainability ka Parichay",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Green Building Materials aur Construction Techniques",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Green Buildings mein Energy Efficiency",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Water Efficiency aur Management",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Indoor Environmental Quality (IEQ) aur Waste Management",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Green Building Certifications aur Policies",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Green Building ka primary aim kya hai?",
+      "options": {
+        "A": "Construction cost kam karna",
+        "B": "Environment par negative impact kam karna",
+        "C": "Building ki height badhana",
+        "D": "Luxury amenities provide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Green Building ka mukhya uddeshya environment par building ke negative impacts ko kam karna hai, jaise energy consumption aur pollution."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Sustainable development ki definition mein kya shamil hai?",
+      "options": {
+        "A": "Future generations ki needs ko compromise kiye bina present needs ko pura karna",
+        "B": "Sirf economic growth par focus karna",
+        "C": "Sirf environmental protection par focus karna",
+        "D": "Fastest possible development achieve karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sustainable development ka matlab hai ki hum apni present needs ko is tarah pura karein ki future generations apni needs ko pura karne ki ability ko compromise na karein."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Green Building mein 'Life Cycle Assessment' (LCA) ka kya role hai?",
+      "options": {
+        "A": "Sirf building ke construction phase ka analysis karna",
+        "B": "Building materials ke cost ka calculation karna",
+        "C": "Building ke materials se lekar disposal tak ke environmental impacts ka evaluation karna",
+        "D": "Building ki maintenance cost estimate karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "LCA ek comprehensive method hai jo kisi product ya service ke pure life cycle (extraction, manufacturing, use, disposal) mein hone wale environmental impacts ko assess karta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Ek Green Building mein natural ventilation ka kya fayda hai?",
+      "options": {
+        "A": "Air conditioning ki zarurat badh jaati hai",
+        "B": "Energy consumption kam hota hai aur fresh air milti hai",
+        "C": "Building ki structural strength kam hoti hai",
+        "D": "Interior design mein restrictions aate hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Natural ventilation se mechanical cooling ki zarurat kam hoti hai, jisse energy bachti hai aur indoor air quality improve hoti hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Green Building design mein 'passive design' principles ka kya matlab hai?",
+      "options": {
+        "A": "Active mechanical systems ka maximum use karna",
+        "B": "Building ke design aur orientation se natural energy sources ka use karna",
+        "C": "Building ko completely sealed rakhna",
+        "D": "Sirf expensive materials ka use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Passive design mein building ki location, orientation, windows aur materials ka use karke heating, cooling aur lighting ke liye natural energy sources (sunlight, wind) ka fayda uthaya jaata hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Green Buildings mein site selection ka ek important factor kya hai?",
+      "options": {
+        "A": "Building ko city ke center mein banana",
+        "B": "Public transport access ke paas hona",
+        "C": "Maximum parking space provide karna",
+        "D": "Sirf residential areas mein banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Public transport ke paas site select karne se commute ke liye private vehicles ka use kam hota hai, jisse emissions reduce hote hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "'Carbon footprint' kya measure karta hai?",
+      "options": {
+        "A": "Ek building ke weight ko",
+        "B": "Ek activity ya entity dwara produce kiye gaye greenhouse gases ki total amount ko",
+        "C": "Building ke foundation ki depth ko",
+        "D": "Building mein use hone wale wood ki quantity ko"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Carbon footprint environmental impact ka ek measure hai, jo kisi vyakti, organization ya product dwara generate kiye gaye greenhouse gases ko quantify karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Green Building practices se kaunsa environmental benefit hota hai?",
+      "options": {
+        "A": "Increased air pollution",
+        "B": "Reduced landfill waste",
+        "C": "Higher energy consumption",
+        "D": "Depletion of natural resources"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Green Building practices mein waste reduction aur recycling par focus kiya jaata hai, jisse landfills mein jaane wale kachre ki matra kam hoti hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Climate change mein Green Buildings ka kya contribution ho sakta hai?",
+      "options": {
+        "A": "Greenhouse gas emissions badhana",
+        "B": "Climate change ke impacts ko mitigate karna",
+        "C": "Global warming ko accelerate karna",
+        "D": "Energy demand badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Green Buildings energy efficiency, renewable energy aur sustainable materials ka use karke greenhouse gas emissions ko kam karte hain, jisse climate change ke impacts ko mitigate kiya ja sakta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek Green Building mein 'embodied energy' ka kya matlab hai?",
+      "options": {
+        "A": "Building ko operate karne ke liye use hone wali energy",
+        "B": "Materials ke extraction, manufacturing, transport aur installation mein consume hone wali energy",
+        "C": "Solar panels se generate hone wali energy",
+        "D": "Building ko demolish karne mein lagne wali energy"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Embodied energy woh total energy hai jo kisi material ya product ko banate aur uski life cycle mein use karte hue consume hoti hai, extraction se lekar disposal tak."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Green Building design mein daylighting ka kya fayda hai?",
+      "options": {
+        "A": "Artificial light ki zarurat badhana",
+        "B": "Energy consumption kam karna aur occupants ki well-being improve karna",
+        "C": "Building ka interior dark banana",
+        "D": "Sunlight se heat gain badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Daylighting se artificial lighting ki zarurat kam hoti hai, jisse energy bachti hai aur natural light se occupants ka mood aur productivity improve hoti hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Green Building projects mein 'integrated design process' kyon important hai?",
+      "options": {
+        "A": "Sirf architects ko decision lene ke liye",
+        "B": "Project ke shuruat se hi sabhi stakeholders ko collaborate karne ke liye",
+        "C": "Construction speed badhane ke liye",
+        "D": "Costs ko ignore karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Integrated design process mein project ke early stages se hi architects, engineers, clients aur contractors milkar kaam karte hain, jisse holistic aur efficient solutions milte hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Green Buildings mein 'heat island effect' ko kam karne ke liye kya kiya jaata hai?",
+      "options": {
+        "A": "Dark-colored roofs ka use karna",
+        "B": "Reflective ya green roofs ka use karna",
+        "C": "Asphalt surfaces badhana",
+        "D": "Trees aur vegetation remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Heat island effect cities mein temperature increase ko refer karta hai. Reflective (cool) ya green roofs sunlight ko absorb karne ki bajaye reflect karte hain ya cool karte hain, jisse temperature kam hota hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Global warming ka ek major reason kya hai?",
+      "options": {
+        "A": "Ozone layer ka mota hona",
+        "B": "Greenhouse gases ka atmosphere mein increase hona",
+        "C": "Forest cover ka badhna",
+        "D": "Ocean level ka kam hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Greenhouse gases jaise Carbon Dioxide (CO2), Methane (CH4) aur Nitrous Oxide (N2O) atmosphere mein heat trap karte hain, jisse global warming hoti hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Green Building construction mein 'prefabrication' ka kya fayda hai?",
+      "options": {
+        "A": "Site par zyada waste generate karna",
+        "B": "Construction time aur waste kam karna",
+        "C": "Quality control mein kami aana",
+        "D": "Zyada skilled labor ki zarurat hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Prefabrication mein building components ko factory mein banaya jaata hai aur phir site par assemble kiya jaata hai, jisse waste kam hota hai aur construction faster hota hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Green Buildings mein 'biodiversity' ko promote karne ka ek tarika kya hai?",
+      "options": {
+        "A": "Native plants ki bajaye exotic plants lagana",
+        "B": "Green spaces aur native landscaping create karna",
+        "C": "Saari vegetation remove karna",
+        "D": "Concrete surfaces badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Native plants aur green spaces provide karne se local wildlife aur pollinators ko habitat milta hai, jisse biodiversity promote hoti hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Green Building practices mein 'resilience' ka kya matlab hai?",
+      "options": {
+        "A": "Building ka jaldi demolish ho jaana",
+        "B": "Building ka natural disasters aur climate change ke impacts ko withstand aur recover karna",
+        "C": "Building ka sirf aesthetic look par focus karna",
+        "D": "Building ka maintenance-free hona"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Resilience ka matlab hai ki building severe weather events, natural disasters aur climate change ke adverse effects ko jhel sake aur jaldi recover ho sake."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Green Building materials mein 'recycled content' ka kya mahatva hai?",
+      "options": {
+        "A": "Manufacturing cost badhana",
+        "B": "Virgin resources par dependence kam karna",
+        "C": "Material ki strength kam karna",
+        "D": "Toxic substances release karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Recycled materials ka use karne se naye resources ki mining aur processing ki zarurat kam hoti hai, jisse environmental impact reduce hota hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "'Fly ash' kya hai aur ise Green Building mein kaise use kiya jaata hai?",
+      "options": {
+        "A": "Ek type ka wood product",
+        "B": "Coal combustion ka byproduct jo cement ke substitute ke roop mein use hota hai",
+        "C": "Insulation material",
+        "D": "Waterproofing agent"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fly ash thermal power plants se nikalne wala ek waste product hai, jise cement ke partial substitute ke roop mein concrete mein milaya jaata hai, jisse cement production se hone wale emissions kam hote hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Green Building mein 'local materials' use karne ka kya fayda hai?",
+      "options": {
+        "A": "Transport cost aur emissions badhana",
+        "B": "Transport cost aur emissions kam karna",
+        "C": "Material quality compromise karna",
+        "D": "Limited design options hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Local materials use karne se materials ko lambi doori tak transport karne ki zarurat nahi padti, jisse fuel consumption aur associated emissions kam hote hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "VOCs (Volatile Organic Compounds) kya hain aur Green Buildings mein inka kya concern hai?",
+      "options": {
+        "A": "Energy efficient lighting products",
+        "B": "Hawa mein release hone wale chemicals jo health ke liye harmful ho sakte hain",
+        "C": "Water purification systems",
+        "D": "Renewable energy sources"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "VOCs paints, adhesives aur cleaning products se nikalne wale chemicals hain jo indoor air quality ko degrade karte hain aur health issues create kar sakte hain. Green Buildings low-VOC products ko prefer karte hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Bamboo ko Green Building material kyon mana jaata hai?",
+      "options": {
+        "A": "Yeh bahut dheere grow karta hai",
+        "B": "Yeh ek rapidly renewable resource hai aur strong hota hai",
+        "C": "Iski cultivation se bahut zyada water lagta hai",
+        "D": "Yeh toxic gases release karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bamboo ek tezi se badhne wala plant hai jise kam resources mein grow kiya ja sakta hai aur yeh wood ka ek sustainable alternative hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Green Building mein 'reclaimed wood' ka kya use hai?",
+      "options": {
+        "A": "Naye ped kaatna",
+        "B": "Purani buildings se nikali hui wood ka use karna",
+        "C": "Plastic se bani wood-like material",
+        "D": "Sirf decorative purposes ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reclaimed wood purani structures (jaise barns, factories) se nikali jaati hai aur ise naye projects mein use kiya jaata hai, jisse naye ped kaatne ki zarurat kam hoti hai aur waste reduce hota hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Cool roofs ka primary function kya hai?",
+      "options": {
+        "A": "Heat absorb karna",
+        "B": "Sunlight ko reflect karna aur building ko thanda rakhna",
+        "C": "Water collect karna",
+        "D": "Structure ko aesthetic look dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cool roofs special reflective coatings ya materials se bane hote hain jo sunlight ko reflect karte hain, jisse building ka interior temperature kam hota hai aur AC ki zarurat kam hoti hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Insulation materials Green Buildings mein kyon important hain?",
+      "options": {
+        "A": "Building ko zyada garam banane ke liye",
+        "B": "Heat loss aur heat gain ko kam karne ke liye",
+        "C": "Soundproofing ke liye hi",
+        "D": "Building ka weight badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Good insulation building ke andar ki temperature ko regulate karta hai, jisse heating aur cooling ke liye kam energy lagti hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Green Building mein 'modular construction' ka kya fayda hai?",
+      "options": {
+        "A": "Site par zyada noise aur pollution",
+        "B": "Off-site manufacturing aur assembly se construction speed aur quality control improve hoti hai",
+        "C": "Material waste badhana",
+        "D": "Design flexibility kam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Modular construction mein building ke sections ko factory mein banaya jaata hai, jisse controlled environment mein quality improve hoti hai aur site par waste aur disturbance kam hota hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Green Concrete mein kis material ka use common hai jo environmental impact kam karta hai?",
+      "options": {
+        "A": "Pure Portland cement",
+        "B": "Fly ash ya slag jaise supplementary cementitious materials",
+        "C": "Extra water",
+        "D": "High-carbon steel"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fly ash aur ground granulated blast-furnace slag (GGBS) jaise materials cement ki jagah use kiye jaate hain, jisse cement production se hone wale CO2 emissions kam hote hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Green Building mein 'bioplastics' ka kya potential use hai?",
+      "options": {
+        "A": "Main structural components ke liye",
+        "B": "Non-structural applications jaise insulation, piping ya interior finishes ke liye",
+        "C": "Pavement ke liye",
+        "D": "Roofing ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bioplastics plant-based materials se bante hain aur traditional plastics se zyada sustainable hote hain. Inka use non-structural components mein kiya ja sakta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Green Building mein 'recycled steel' ka use kyon kiya jaata hai?",
+      "options": {
+        "A": "Yeh kamzor hota hai",
+        "B": "Steel manufacturing mein bahut energy lagti hai, aur recycled steel use karne se energy bachti hai",
+        "C": "Yeh zyada costly hota hai",
+        "D": "Iska reuse possible nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Recycled steel use karne se naye steel ke production mein hone wali energy consumption aur emissions kam hote hain, jo ki ek highly energy-intensive process hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Ek Green Building mein paints aur coatings mein kya features hone chahiye?",
+      "options": {
+        "A": "High VOC content",
+        "B": "Low VOC content aur non-toxic properties",
+        "C": "Lead-based pigments",
+        "D": "Fast drying speed only"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Low VOC aur non-toxic paints indoor air quality maintain karte hain aur occupants ke health ke liye safe hote hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Green Buildings mein 'green walls' ya 'vertical gardens' ka kya fayda hai?",
+      "options": {
+        "A": "Building ko garam karna",
+        "B": "Air quality improve karna, insulation provide karna aur aesthetic value badhana",
+        "C": "Water consumption badhana",
+        "D": "Structural load badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Green walls air pollutants ko filter karte hain, building ko insulate karte hain, aur urban areas mein greenery badhate hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Green Building construction mein 'deconstruction' ka kya matlab hai?",
+      "options": {
+        "A": "Building ko blast karke demolish karna",
+        "B": "Building ko dismantle karna taaki materials ko reuse ya recycle kiya ja sake",
+        "C": "Nayi building ko construct karna",
+        "D": "Sirf building ke aesthetics par focus karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Deconstruction demolition ka ek sustainable alternative hai, jisme building components ko carefully alag kiya jaata hai taaki unhe waste na karke dobara use kiya ja sake."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Green Building mein 'Straw Bale' construction ka ek benefit kya hai?",
+      "options": {
+        "A": "Low insulation value",
+        "B": "Excellent insulation properties aur renewable material",
+        "C": "High fire risk",
+        "D": "Pest infestation ka high risk"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Straw bales agricultural waste se bante hain, jo ek renewable resource hai. Inme high insulation value hoti hai, jisse energy saving hoti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Green Building mein 'recycled glass' ka kya use ho sakta hai?",
+      "options": {
+        "A": "Structural beams ke liye",
+        "B": "Countertops, tiles, insulation aur aggregate ke roop mein",
+        "C": "Load-bearing walls ke liye",
+        "D": "Waterproofing membranes ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Recycled glass ko various architectural applications mein use kiya ja sakta hai, jaise decorative finishes, flooring, aur concrete aggregate ke substitute ke roop mein."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Green Buildings mein energy efficiency ka kya matlab hai?",
+      "options": {
+        "A": "Zyada energy consume karna",
+        "B": "Utni hi output ke liye kam energy use karna",
+        "C": "Sirf renewable energy sources use karna",
+        "D": "Energy consumption ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Energy efficiency ka matlab hai ki hum apne appliances, heating, cooling aur lighting systems ko is tarah design aur operate karein ki kam energy mein wahi performance mile."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "LED lights ko Green Buildings mein kyon prefer kiya jaata hai?",
+      "options": {
+        "A": "Yeh zyada heat generate karte hain",
+        "B": "Yeh traditional bulbs se kam energy use karte hain aur zyada chalte hain",
+        "C": "Yeh costly hote hain aur jaldi kharab hote hain",
+        "D": "Yeh harmful UV rays emit karte hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "LEDs bahut energy efficient hote hain, inki lifespan lambi hoti hai aur yeh kam heat generate karte hain, jisse cooling load bhi kam hota hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Solar panels (Photovoltaic systems) ka primary use kya hai Green Building mein?",
+      "options": {
+        "A": "Water heating ke liye",
+        "B": "Electricity generate karne ke liye",
+        "C": "Building ko decorate karne ke liye",
+        "D": "Natural ventilation provide karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Photovoltaic (PV) panels sunlight ko direct electricity mein convert karte hain, jo building ki electrical needs ko pura karne mein madad karti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "HVAC system ki efficiency improve karne ke liye kya kiya ja sakta hai?",
+      "options": {
+        "A": "Filters ko regularly change na karna",
+        "B": "High-efficiency HVAC equipment install karna aur regular maintenance karna",
+        "C": "Ducts mein leaks ignore karna",
+        "D": "Thermostat settings ko constantly change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High-efficiency equipment aur regular maintenance se HVAC systems kam energy use karte hain aur better perform karte hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Geothermal energy ka Green Building mein kya application hai?",
+      "options": {
+        "A": "Electricity production ke liye hi",
+        "B": "Space heating aur cooling ke liye",
+        "C": "Lighting ke liye",
+        "D": "Water purification ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Geothermal heat pumps zameen ke andar ke stable temperature ka use karke buildings ko garam ya thanda karte hain, jo ki ek highly efficient method hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Building envelope ka energy efficiency mein kya role hai?",
+      "options": {
+        "A": "Sirf building ke exterior look ko define karna",
+        "B": "Building ke interior aur exterior environment ke beech barrier provide karna",
+        "C": "Water collection system ka part hona",
+        "D": "Solar panels ko hold karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Building envelope (walls, roof, windows) heat gain aur heat loss ko control karta hai. Well-insulated aur air-tight envelope energy efficiency ke liye crucial hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Energy audits Green Buildings mein kyon conduct kiye jaate hain?",
+      "options": {
+        "A": "Building ki financial value check karne ke liye",
+        "B": "Energy consumption patterns ko identify karna aur efficiency improvements suggest karna",
+        "C": "Security flaws dhundhne ke liye",
+        "D": "Interior design evaluate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Energy audit building ke energy use ka detailed analysis hai, jo un areas ko pinpoint karta hai jahan energy waste ho rahi hai aur improvements ki ja sakti hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Smart thermostats ka kya fayda hai Green Building mein?",
+      "options": {
+        "A": "Sirf manual temperature control provide karna",
+        "B": "Temperature ko intelligently adjust karna aur energy save karna",
+        "C": "Zyada energy consume karna",
+        "D": "Internet connection ki zarurat na hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Smart thermostats occupancy, weather aur user preferences ke hisaab se heating aur cooling ko optimize karte hain, jisse energy waste kam hoti hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Wind turbines ka Green Building mein kya use hai?",
+      "options": {
+        "A": "Water pump karne ke liye",
+        "B": "Wind energy se electricity generate karne ke liye",
+        "C": "Air purification ke liye",
+        "D": "Sound production ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Small-scale wind turbines buildings mein ya unke paas install kiye ja sakte hain, jo wind power se clean electricity generate karte hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Building Management Systems (BMS) Green Buildings mein kaise help karte hain?",
+      "options": {
+        "A": "Building ke operations ko manually control karna",
+        "B": "Heating, ventilation, lighting aur security jaise systems ko centrally monitor aur control karna, jisse efficiency badhti hai",
+        "C": "Sirf energy consumption report karna",
+        "D": "Occupants ko entertainment provide karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "BMS ek centralized computer-based system hai jo building ke various mechanical aur electrical systems ko automate aur optimize karta hai, jisse energy efficiency aur operational cost savings hoti hain."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Green Building mein natural daylighting ko maximize karne ke liye kya design features use kiye jaate hain?",
+      "options": {
+        "A": "Choti khidkiyan aur dark interiors",
+        "B": "Large windows, skylights aur light shelves",
+        "C": "Artificial lighting ka zyada use",
+        "D": "Building ko north-facing banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Large windows, skylights, aur light shelves sunlight ko building ke andar tak penetrate karne mein madad karte hain, jisse artificial lighting ki zarurat kam hoti hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Energy Star certification kis cheez ke liye di jaati hai?",
+      "options": {
+        "A": "Building ke structural integrity ke liye",
+        "B": "Energy efficient products aur buildings ke liye",
+        "C": "Water conservation ke liye",
+        "D": "Indoor air quality ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Energy Star ek U.S. government-backed symbol hai jo superior energy efficiency products aur practices ko identify karta hai, jisse consumers energy aur money save kar sakein."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Thermal mass ka Green Building mein kya fayda hai?",
+      "options": {
+        "A": "Heat ko jaldi release karna",
+        "B": "Heat ko absorb aur store karna, aur phir dheere-dheere release karna",
+        "C": "Noise absorb karna",
+        "D": "Building ko lightweight banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Thermal mass materials (jaise concrete, stone) din mein heat absorb karte hain aur raat mein release karte hain, ya vice-versa, jisse indoor temperature stabilize hota hai aur heating/cooling load kam hota hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Occupancy sensors ka use Green Buildings mein kahan kiya jaata hai?",
+      "options": {
+        "A": "Water consumption monitor karne ke liye",
+        "B": "Lighting aur HVAC systems ko control karne ke liye jab koi room mein ho",
+        "C": "Building ki security ke liye",
+        "D": "Solar panel efficiency check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Occupancy sensors jab room mein koi nahi hota toh lights aur HVAC ko automatically off kar dete hain, jisse energy waste kam hoti hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Renewable energy sources ka ek example kya hai jo Green Buildings mein use hota hai?",
+      "options": {
+        "A": "Coal",
+        "B": "Natural Gas",
+        "C": "Solar energy",
+        "D": "Nuclear energy"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Solar energy ek renewable source hai jo sunlight se derive hoti hai aur Green Buildings mein electricity generation ya water heating ke liye use hoti hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Green Building mein 'demand-controlled ventilation' (DCV) ka kya role hai?",
+      "options": {
+        "A": "Constant air flow maintain karna",
+        "B": "Indoor air quality sensors ke through ventilation rate ko adjust karna",
+        "C": "Sirf outdoor air ko circulate karna",
+        "D": "Manual ventilation control ko promote karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DCV systems CO2 ya VOC levels jaise parameters ko measure karte hain aur uske according ventilation rate ko adjust karte hain, jisse energy save hoti hai aur indoor air quality maintain rehti hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Windows mein low-emissivity (low-e) coating ka kya benefit hai?",
+      "options": {
+        "A": "Zyada UV rays andar aane dena",
+        "B": "Heat transfer ko kam karna, jisse heating aur cooling energy bachti hai",
+        "C": "Window ko opaque banana",
+        "D": "Sirf aesthetic purpose ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Low-e coatings glass par ek thin metallic layer hoti hai jo infrared (heat) light ko reflect karti hai, jisse garmi mein heat gain aur sardi mein heat loss kam hoti hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Green Building mein 'rainwater harvesting' ka kya uddeshya hai?",
+      "options": {
+        "A": "Baarish ke paani ko waste karna",
+        "B": "Baarish ke paani ko collect aur store karna non-potable uses ke liye",
+        "C": "Groundwater level badhana",
+        "D": "Flood control mein madad karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rainwater harvesting mein baarish ke paani ko roofs ya other surfaces se collect karke toilets flush karne, gardening ya cleaning jaise kaam ke liye use kiya jaata hai, jisse potable water ki demand kam hoti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Low-flow fixtures (taps, showerheads) ka kya fayda hai Green Buildings mein?",
+      "options": {
+        "A": "Water pressure kam karna",
+        "B": "Water consumption kam karna",
+        "C": "Water temperature badhana",
+        "D": "Installation cost badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Low-flow fixtures kam paani use karte hain bina user experience ko compromise kiye, jisse water conservation hota hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "'Greywater recycling' system ka kya use hai Green Building mein?",
+      "options": {
+        "A": "Drinking water ko purify karna",
+        "B": "Used water (bath, laundry) ko treat karke non-potable uses ke liye reuse karna",
+        "C": "Sewage water ko dispose karna",
+        "D": "Rainwater collect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Greywater recycling mein sink, shower aur washing machine se nikle paani ko treat karke toilets, irrigation ya cleaning jaise purposes ke liye reuse kiya jaata hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Water-efficient landscaping mein kaunse plants prefer kiye jaate hain?",
+      "options": {
+        "A": "Zyada paani ki zarurat wale plants",
+        "B": "Native aur drought-tolerant plants",
+        "C": "Exotic plants",
+        "D": "Sirf ornamental plants"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Native aur drought-tolerant plants local climate ke liye suitable hote hain aur unhe kam paani ki zarurat hoti hai, jisse irrigation water save hota hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Green Buildings mein 'pervious pavements' ka kya fayda hai?",
+      "options": {
+        "A": "Surface runoff badhana",
+        "B": "Baarish ke paani ko zameen mein seep hone dena aur runoff kam karna",
+        "C": "Paani ko rokna",
+        "D": "Costly installation hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pervious pavements (jaise porous concrete ya permeable pavers) paani ko unke through zameen mein jaane dete hain, jisse storm water runoff kam hota hai aur groundwater recharge hota hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Dual-flush toilets ka kya benefit hai Green Building mein?",
+      "options": {
+        "A": "Sirf ek hi flush option dena",
+        "B": "Paani bachane ke liye do flush options (full aur half) provide karna",
+        "C": "Zyada paani use karna",
+        "D": "Toilet ko jaldi clog karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dual-flush toilets mein users apni જરૂરત ke hisaab se kam ya zyada paani ka flush option select kar sakte hain, jisse significant water savings hoti hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Green Buildings mein 'xeriscaping' ka kya matlab hai?",
+      "options": {
+        "A": "Water-intensive landscaping",
+        "B": "Drought-tolerant plants aur efficient irrigation ka use karke water-wise landscaping",
+        "C": "Sirf artificial turf ka use karna",
+        "D": "Indoor plants lagana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Xeriscaping landscaping ka ek method hai jo minimal ya no supplemental irrigation use karta hai, jisme native aur drought-tolerant plants lagaye jaate hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Sub-metering systems Green Buildings mein kyon install kiye jaate hain?",
+      "options": {
+        "A": "Sirf total building water consumption check karne ke liye",
+        "B": "Individual areas ya systems ke water consumption ko monitor karna aur leaks identify karna",
+        "C": "Water pressure regulate karna",
+        "D": "Water quality test karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sub-metering se specific areas ya equipment ke water usage ko track kiya ja sakta hai, jisse waste identify hota hai aur conservation efforts ko target kiya ja sakta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Green Buildings mein 'condensate recovery' ka kya use hai?",
+      "options": {
+        "A": "Rainwater collect karna",
+        "B": "HVAC systems se nikalne wale condensate water ko collect karke reuse karna",
+        "C": "Sewage water treat karna",
+        "D": "Drinking water ko store karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Air conditioning units se nikalne wala condensate water clean hota hai aur use non-potable uses jaise irrigation ya cooling tower make-up water ke liye recover kiya ja sakta hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Green Buildings mein 'smart irrigation systems' ka kya fayda hai?",
+      "options": {
+        "A": "Har din ek hi amount mein paani dena",
+        "B": "Weather conditions, soil moisture aur plant needs ke according irrigation ko optimize karna",
+        "C": "Manually irrigation control karna",
+        "D": "Zyada paani use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Smart irrigation systems sensors aur weather data ka use karke sirf tabhi paani dete hain jab zarurat ho, jisse water waste kam hota hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Potable water ka kya matlab hai?",
+      "options": {
+        "A": "Non-drinkable water",
+        "B": "Drinking ke liye safe paani",
+        "C": "Rainwater",
+        "D": "Sea water"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Potable water woh paani hai jo peene aur cooking ke liye suitable hai aur usme harmful contaminants nahi hote."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Green Buildings mein 'constructed wetlands' ka kya use hai?",
+      "options": {
+        "A": "Recreational purposes ke liye",
+        "B": "Wastewater treat karne ke liye natural ecosystem ka use karna",
+        "C": "Flood control ke liye hi",
+        "D": "Drinking water storage ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Constructed wetlands plants, soil aur microorganisms ka use karke wastewater se pollutants remove karte hain, jo ek eco-friendly treatment method hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Green Building mein water-efficient appliances ka ek example kya hai?",
+      "options": {
+        "A": "Old washing machine",
+        "B": "Energy Star certified dishwasher",
+        "C": "Traditional water heater",
+        "D": "High-flow showerhead"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Energy Star certified dishwashers aur washing machines kam paani aur energy use karte hain, jisse resource conservation hota hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Green Building mein 'drip irrigation' system ka kya fayda hai?",
+      "options": {
+        "A": "Evaporation se zyada water loss hona",
+        "B": "Paani ko seedhe plant roots tak deliver karna, jisse water waste kam hota hai",
+        "C": "Plants ko evenly water distribute na karna",
+        "D": "High maintenance ki zarurat hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drip irrigation paani ko slow aur directly plant roots tak deliver karta hai, jisse evaporation aur runoff se hone wala water loss minimize hota hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Cooling towers mein water efficiency improve karne ke liye kya kiya ja sakta hai?",
+      "options": {
+        "A": "Bleed-off rate badhana",
+        "B": "High-efficiency drift eliminators use karna aur water treatment optimize karna",
+        "C": "Evaporation rate badhana",
+        "D": "Regular maintenance ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High-efficiency drift eliminators water droplets ke loss ko kam karte hain, aur proper water treatment se make-up water ki zarurat kam hoti hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Green Buildings mein water fixtures leak detection systems ka kya role hai?",
+      "options": {
+        "A": "Sirf water pressure monitor karna",
+        "B": "Leaks ko detect karna aur water waste prevent karna",
+        "C": "Water quality test karna",
+        "D": "Water temperature control karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Leak detection systems paani ke anavashyak nuksaan ko pehchan kar use rokte hain, jisse water conservation hota hai aur damage se bacha jaata hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Green Buildings mein paani ki quality maintain karne ke liye kya kiya jaata hai?",
+      "options": {
+        "A": "Chemical treatment ko avoid karna",
+        "B": "Regular testing, filtration aur appropriate treatment methods ka use karna",
+        "C": "Sirf chlorine use karna",
+        "D": "Paani ko bina treat kiye use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paani ki quality ko regular testing, proper filtration aur zarurat ke hisaab se treatment se maintain kiya jaata hai, especially jab greywater ya rainwater use ho raha ho."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Indoor Environmental Quality (IEQ) ka kya matlab hai?",
+      "options": {
+        "A": "Building ka exterior look",
+        "B": "Building ke andar ke environment ki quality jo occupants ke health aur comfort ko affect karti hai",
+        "C": "Outdoor air quality",
+        "D": "Building ki energy efficiency"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IEQ mein indoor air quality, thermal comfort, lighting, aur acoustics jaise factors shamil hain jo building occupants ke well-being par asar dalte hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Green Building mein 'good indoor air quality' kaise achieve ki jaati hai?",
+      "options": {
+        "A": "Poor ventilation se",
+        "B": "Low-VOC materials, proper ventilation aur air filtration se",
+        "C": "Zyada chemical cleaning products use karke",
+        "D": "Windows ko hamesha band rakhkar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Low-VOC products se harmful emissions kam hote hain, proper ventilation fresh air provide karta hai, aur filtration air pollutants ko remove karta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Thermal comfort Green Building mein kyon important hai?",
+      "options": {
+        "A": "Sirf energy save karne ke liye",
+        "B": "Occupants ki productivity aur satisfaction ke liye",
+        "C": "Building ke structural integrity ke liye",
+        "D": "Outdoor temperature control karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Thermal comfort ka matlab hai ki occupants ko building ke andar na zyada garmi lage na zyada thand, jisse unki comfort aur productivity badhti hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Green Building mein 'waste management hierarchy' ka correct order kya hai?",
+      "options": {
+        "A": "Disposal > Recycling > Reuse > Reduce",
+        "B": "Reduce > Reuse > Recycle > Recover > Dispose",
+        "C": "Recycle > Reduce > Reuse > Dispose",
+        "D": "Recover > Dispose > Reduce > Recycle"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Waste management hierarchy ka mukhya uddeshya waste generation ko kam karna hai. Reduce, Reuse, Recycle, Recover aur Dispose iska sahi sequence hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Construction waste ko kam karne ka ek effective tarika kya hai?",
+      "options": {
+        "A": "Site par zyada materials order karna",
+        "B": "Efficient material purchasing, prefabrication aur on-site recycling",
+        "C": "Saare waste ko landfill mein fenk dena",
+        "D": "Waste segregation ko avoid karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Material waste ko kam karne ke liye precise planning, factory-made components ka use, aur waste ko site par hi alag karke recycle karna zaroori hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Green Buildings mein 'acoustics' kyon important hai?",
+      "options": {
+        "A": "Sirf music sunne ke liye",
+        "B": "Noise pollution kam karna aur sound comfort provide karna",
+        "C": "Visual appeal badhana",
+        "D": "Energy consumption kam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Good acoustics se building ke andar ka noise level control hota hai, jisse occupants ko concentration aur communication mein asaani hoti hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Green Buildings mein 'daylight glare' ko control karne ke liye kya kiya jaata hai?",
+      "options": {
+        "A": "Khidkiyon ko bada rakhna",
+        "B": "Blinds, shades, light shelves aur proper window orientation ka use karna",
+        "C": "Artificial lights hamesha on rakhna",
+        "D": "Dark-colored walls use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Glare control devices sunlight ko direct aankhon mein aane se rokte hain, jisse visual comfort maintain rehta hai aur daylighting ka fayda bhi milta hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Green Buildings mein 'source reduction' ka kya matlab hai?",
+      "options": {
+        "A": "Waste ko recycle karna",
+        "B": "Waste generate hone se pehle hi use kam karna",
+        "C": "Waste ko dispose karna",
+        "D": "Waste ko energy mein convert karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Source reduction waste management hierarchy ka sabse pehla aur sabse effective step hai, jisme products ko is tarah design aur use kiya jaata hai ki kam waste generate ho."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Green Building mein 'green cleaning products' ka kya fayda hai?",
+      "options": {
+        "A": "Zyada chemicals use karna",
+        "B": "Harmful chemicals se bachna aur indoor air quality improve karna",
+        "C": "Costly hona aur less effective hona",
+        "D": "Sirf aesthetic purpose ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Green cleaning products non-toxic aur biodegradable hote hain, jo indoor air quality ko kharab nahi karte aur occupants ke health ke liye safe hote hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Indoor air pollutants ka ek common source kya hai?",
+      "options": {
+        "A": "Fresh outdoor air",
+        "B": "Low-VOC paints",
+        "C": "Building materials, furniture aur cleaning products se nikalne wale VOCs",
+        "D": "Solar energy systems"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Building materials, furniture, carpets aur cleaning products se VOCs aur formaldehyde jaise chemicals release hote hain jo indoor air quality ko degrade karte hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Green Buildings mein 'post-occupancy evaluation' (POE) kyon ki jaati hai?",
+      "options": {
+        "A": "Sirf building ki construction cost check karne ke liye",
+        "B": "Building ke actual performance aur occupants ke satisfaction ko assess karne ke liye",
+        "C": "Building ke design flaws ignore karne ke liye",
+        "D": "Sirf energy bills check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "POE building ke use ke baad uska evaluation hai, jisme energy consumption, water use, indoor environment aur user satisfaction jaise factors ko analyze kiya jaata hai taaki future projects improve ho sakein."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Green Buildings mein 'waste auditing' ka kya role hai?",
+      "options": {
+        "A": "Sirf waste ko dispose karna",
+        "B": "Waste streams ko identify karna, quantify karna aur reduction strategies develop karna",
+        "C": "Waste ko ignore karna",
+        "D": "Sirf recycling rates badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waste auditing se yeh pata chalta hai ki kis type aur kitna waste generate ho raha hai, jisse effective waste reduction aur recycling programs design kiye ja sakte hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Green Buildings mein 'biophilic design' ka kya matlab hai?",
+      "options": {
+        "A": "Natural elements ko building design se exclude karna",
+        "B": "Building design mein nature aur natural processes ko integrate karna",
+        "C": "Sirf plants lagana",
+        "D": "Building ko completely artificial banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Biophilic design natural light, ventilation, plants aur natural views jaise elements ko building mein incorporate karta hai, jisse occupants ka physical aur mental well-being improve hota hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Green Buildings mein 'waste-to-energy' processes ka kya use hai?",
+      "options": {
+        "A": "Waste ko landfill mein fenk dena",
+        "B": "Non-recyclable waste se energy generate karna",
+        "C": "Sirf organic waste ko dispose karna",
+        "D": "Waste ko jalana bina energy recovery ke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waste-to-energy processes non-recyclable waste ko electricity ya heat mein convert karte hain, jisse landfill space kam hota hai aur energy generate hoti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Green Buildings mein 'indoor air quality monitoring' kyon zaroori hai?",
+      "options": {
+        "A": "Sirf temperature check karne ke liye",
+        "B": "Pollutants aur comfort parameters ko track karna aur health risks kam karna",
+        "C": "Outdoor air quality check karne ke liye",
+        "D": "Building ki security monitor karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Indoor air quality monitoring se CO2, VOCs, particulate matter, temperature aur humidity jaise parameters ko track kiya jaata hai, jisse potential health risks ko identify aur mitigate kiya ja sake."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Green Buildings mein 'composting' ka kya fayda hai?",
+      "options": {
+        "A": "Organic waste ko landfill mein bhejna",
+        "B": "Organic waste ko nutrient-rich soil amendment mein convert karna",
+        "C": "Plastic waste dispose karna",
+        "D": "Construction waste manage karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Composting organic waste (food scraps, yard waste) ko decompose karke valuable compost banata hai, jisse landfill waste kam hota hai aur soil fertility badhti hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "India mein Green Building certification ke liye kaunsi agency sabse prominent hai?",
+      "options": {
+        "A": "Bureau of Indian Standards (BIS)",
+        "B": "Indian Green Building Council (IGBC)",
+        "C": "National Building Code (NBC)",
+        "D": "Ministry of Environment, Forest and Climate Change (MoEFCC)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IGBC (Indian Green Building Council) India mein Green Building movement ko lead karta hai aur various rating systems provide karta hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "LEED certification ka full form kya hai?",
+      "options": {
+        "A": "Leadership in Energy and Environmental Design",
+        "B": "Leaders in Eco-friendly Energy Development",
+        "C": "Local Energy Efficiency Development",
+        "D": "Livable Environment and Eco-friendly Design"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "LEED ek internationally recognized Green Building certification system hai, jo U.S. Green Building Council (USGBC) dwara develop kiya gaya hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Green Building certification systems ka primary purpose kya hai?",
+      "options": {
+        "A": "Building ko zyada expensive banana",
+        "B": "Buildings ke environmental performance ko evaluate aur verify karna",
+        "C": "Sirf building ke aesthetic design ko judge karna",
+        "D": "Construction speed badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Certification systems standardized criteria ke against building ke design, construction aur operation ki sustainability ko measure karte hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "GRIHA rating system kis country mein develop kiya gaya hai?",
+      "options": {
+        "A": "USA",
+        "B": "Germany",
+        "C": "India",
+        "D": "UK"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "GRIHA (Green Rating for Integrated Habitat Assessment) India ka apna Green Building rating system hai, jise TERI (The Energy and Resources Institute) ne develop kiya hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Green Building policies ka ek objective kya hai?",
+      "options": {
+        "A": "Traditional construction methods ko promote karna",
+        "B": "Sustainable construction practices ko encourage karna",
+        "C": "Environmental regulations ko loose karna",
+        "D": "Energy consumption badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Government policies aur incentives sustainable building practices ko adopt karne ke liye motivate karte hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "LEED certification mein kaunse categories mein credits diye jaate hain?",
+      "options": {
+        "A": "Sirf energy efficiency",
+        "B": "Sustainable sites, water efficiency, energy & atmosphere, materials & resources, indoor environmental quality",
+        "C": "Sirf cost savings",
+        "D": "Building height aur aesthetics"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LEED ek comprehensive system hai jo building ke environmental performance ke various aspects ko cover karta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "India mein Green Building projects ke liye government incentives ka ek example kya hai?",
+      "options": {
+        "A": "Higher property taxes",
+        "B": "Reduced approval time, property tax rebates ya financial assistance",
+        "C": "Strict restrictions on design",
+        "D": "Mandatory use of specific materials"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Indian government aur local bodies Green Buildings ko promote karne ke liye various incentives offer karte hain, jaise fast-track approvals aur tax benefits."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "IGBC certification ke highest level ko kya kehte hain?",
+      "options": {
+        "A": "IGBC Certified",
+        "B": "IGBC Gold",
+        "C": "IGBC Platinum",
+        "D": "IGBC Silver"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "IGBC rating system mein 4 levels hain: Certified, Silver, Gold aur Platinum, jisme Platinum highest achievement level hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Green Building codes ka kya role hai?",
+      "options": {
+        "A": "Voluntary guidelines provide karna",
+        "B": "Building construction aur operation ke liye mandatory environmental performance standards set karna",
+        "C": "Sirf aesthetic requirements specify karna",
+        "D": "Building permit process ko complicated banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Green Building codes legal requirements hain jo minimum environmental performance standards ko enforce karte hain, jaise energy efficiency aur water conservation."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "BEE Star Rating kis cheez se related hai?",
+      "options": {
+        "A": "Water efficiency",
+        "B": "Energy efficiency of appliances aur buildings",
+        "C": "Indoor air quality",
+        "D": "Waste management"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "BEE (Bureau of Energy Efficiency) India mein appliances aur buildings ke liye energy efficiency standards aur ratings provide karta hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "WELL Building Standard kis cheez par focus karta hai?",
+      "options": {
+        "A": "Sirf energy consumption",
+        "B": "Building occupants ke health aur well-being par",
+        "C": "Water conservation",
+        "D": "Construction materials"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "WELL Building Standard building ke design, construction aur operations ko assess karta hai ki woh occupants ke health aur well-being ko kaise support karte hain (air, water, nourishment, light, fitness, comfort, mind)."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Green Building certification ka ek benefit kya hai developers ke liye?",
+      "options": {
+        "A": "Higher operating costs",
+        "B": "Enhanced marketability aur brand image",
+        "C": "Reduced property value",
+        "D": "Longer construction timelines"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Certified Green Buildings ki market value zyada hoti hai aur yeh tenants ko attract karte hain jo sustainable spaces prefer karte hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Paris Agreement ka Green Buildings par kya impact hai?",
+      "options": {
+        "A": "Greenhouse gas emissions badhana",
+        "B": "Countries ko greenhouse gas emissions kam karne ke liye encourage karna, jisme buildings ka role important hai",
+        "C": "Fossil fuels ka use promote karna",
+        "D": "Sustainable development goals ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paris Agreement climate change se ladne ke liye ek international treaty hai. Buildings significant energy consume karte hain aur emissions generate karte hain, isliye Green Buildings is agreement ke goals ko achieve karne mein critical hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "IGBC Green Homes rating system kis type ki buildings ke liye hai?",
+      "options": {
+        "A": "Commercial buildings",
+        "B": "Residential buildings",
+        "C": "Industrial complexes",
+        "D": "Hospitals"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IGBC Green Homes rating system specifically residential projects ke liye design kiya gaya hai, jo sustainable homes banane par focus karta hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Net-Zero Energy Building (NZEB) ka kya matlab hai?",
+      "options": {
+        "A": "Building jo zyada energy consume karti hai",
+        "B": "Building jo utni hi energy produce karti hai jitni woh consume karti hai",
+        "C": "Building jo bilkul energy use nahi karti",
+        "D": "Building jo sirf grid se energy leti hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "NZEB woh building hai jo on-site renewable energy sources se saal bhar mein utni hi energy generate karti hai jitni woh consume karti hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Green Building certification achieve karne ke liye project ko kis process se guzarna padta hai?",
+      "options": {
+        "A": "Sirf ek application submit karna",
+        "B": "Design aur construction stages mein stringent guidelines follow karna aur documentation submit karke third-party verification karwana",
+        "C": "Sirf building ko paint karna",
+        "D": "Koi specific process follow na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Certification ke liye project ko specific criteria meet karne hote hain, detailed documentation provide karna hota hai aur ek independent third-party agency dwara verification hota hai."
+    }
+  ]
+}

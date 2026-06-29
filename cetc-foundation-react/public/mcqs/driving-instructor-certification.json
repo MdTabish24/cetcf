@@ -1,0 +1,1443 @@
+{
+  "course_name": "Driving Instructor Certification",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Driving Instruction & Road Safety Fundamentals",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Vehicle Controls & Basic Driving Techniques",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Traffic Laws, Rules & Regulations (Motor Vehicles Act)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Defensive Driving & Hazard Perception",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Instructor Skills, Pedagogy & Practical Training Methods",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Vehicle Maintenance, Emergency Procedures & First Aid Basics",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek driving instructor ka primary role kya hai?",
+      "options": {
+        "A": "Learners ko sirf car chalana sikhana",
+        "B": "Safe aur responsible drivers banana, traffic rules ke sath",
+        "C": "Sirf parking techniques sikhana",
+        "D": "Gaadi ki maintenance sikhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek driving instructor ka main role learners ko sirf car chalana nahi, balki unhe safe aur responsible drivers banana hai jo traffic rules ka palan karein."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Road safety kyun important hai?",
+      "options": {
+        "A": "Sirf fine se bachne ke liye",
+        "B": "Accidents aur injuries ko rokne ke liye",
+        "C": "Petrol kam kharch ho isliye",
+        "D": "Gaadi ki speed badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Road safety accidents aur unse hone wali injuries aur deaths ko rokne ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Yeh sign kya indicate karta hai: 'Yield' sign?",
+      "options": {
+        "A": "Stop",
+        "B": "Give way to oncoming traffic",
+        "C": "No entry",
+        "D": "Parking allowed"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Yield sign ka matlab hai ki aapko aane wale traffic ko rasta dena hai, agar zaroorat pade toh rukna bhi pad sakta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Pedestrians ki safety ensure karne ke liye driving instructor ko kya sikhana chahiye?",
+      "options": {
+        "A": "Zebra crossing par speed badhana",
+        "B": "Pedestrians ko priority dena aur slow down karna",
+        "C": "Horn bajate hue nikal jana",
+        "D": "Pedestrians ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Driving instructor ko sikhana chahiye ki pedestrians ko zebra crossing ya kahin bhi road cross karte waqt priority deni chahiye aur unki safety ke liye speed slow karni chahiye."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek 'No Entry' sign ka kya matlab hota hai?",
+      "options": {
+        "A": "Entry allowed for emergency vehicles only",
+        "B": "Uss road par gaadi le jana mana hai",
+        "C": "Parking allowed nahi hai",
+        "D": "Slow down"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "No Entry sign ka matlab hai ki aapko uss road par entry nahi leni hai, yeh ek one-way road ka entrance ho sakta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Traffic lights mein 'Amber' (yellow) light ka kya function hai?",
+      "options": {
+        "A": "Go",
+        "B": "Stop",
+        "C": "Next light change hone wala hai, ready ho jao ya ruk jao agar safe ho",
+        "D": "U-turn allowed"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Amber light indicate karti hai ki light change hone wali hai. Agar aap intersection ke kareeb hain toh clear karein, nahi toh rukne ke liye ready ho jayein."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Road par continuous white line ka kya matlab hai?",
+      "options": {
+        "A": "Lane change allowed hai",
+        "B": "Lane change allowed nahi hai",
+        "C": "Parking allowed hai",
+        "D": "Emergency lane hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Continuous white line ka matlab hai ki aapko lane change nahi karna chahiye aur apni lane mein hi rehna chahiye."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Driving ke dauran mobile phone use karna kyun dangerous hai?",
+      "options": {
+        "A": "Battery jaldi khatam hoti hai",
+        "B": "Distraction hota hai aur accident ka risk badhta hai",
+        "C": "Call quality kharab hoti hai",
+        "D": "Gaadi slow ho jaati hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mobile phone use karne se driver ka attention road se hat jata hai, jisse distraction hota hai aur accident ka risk significantly badh jata hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Driving instructor ko learners mein kaun si quality develop karni chahiye for road safety?",
+      "options": {
+        "A": "Aggressive driving",
+        "B": "Patience aur tolerance",
+        "C": "High speed driving",
+        "D": "Horn ka excessive use"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Patience aur tolerance road par dusre drivers aur situations ke prati bahut zaroori hain, yeh road rage aur accidents ko kam karta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Pedestrian crossing signs kis color ke hote hain?",
+      "options": {
+        "A": "Blue",
+        "B": "Red",
+        "C": "Black on white/yellow background",
+        "D": "Green"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pedestrian crossing signs usually black symbols on a white or yellow background ke hote hain, often triangular for warning signs."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Roundabout mein enter karte waqt kis traffic ko priority deni chahiye?",
+      "options": {
+        "A": "Jo roundabout mein enter kar raha ho",
+        "B": "Jo roundabout ke andar already ghoom raha ho",
+        "C": "Right se aane wale traffic ko",
+        "D": "Left se aane wale traffic ko"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Roundabout mein enter karte waqt hamesha uss traffic ko priority deni chahiye jo already roundabout ke andar ghoom raha ho."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Safety belt pehenna kyun zaroori hai?",
+      "options": {
+        "A": "Fashion ke liye",
+        "B": "Accident ke dauran injuries ko kam karne ke liye",
+        "C": "Gaadi ko fast chalane ke liye",
+        "D": "Police se bachne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety belt accident ke dauran driver aur passengers ko gaadi ke andar secure rakhta hai aur serious injuries ke risk ko significantly kam karta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Ek driving instructor ko kya avoid karna chahiye jab woh student ko instruct kar raha ho?",
+      "options": {
+        "A": "Clear instructions dena",
+        "B": "Patient rehna",
+        "C": "Student par chillana ya gussa karna",
+        "D": "Positive feedback dena"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Student par chillana ya gussa karna unka confidence kam karta hai aur learning process ko negatively affect karta hai. Instructor ko hamesha calm aur supportive rehna chahiye."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "School zone mein driving karte waqt kya precautions leni chahiye?",
+      "options": {
+        "A": "Speed limit ignore karna",
+        "B": "Extra cautious rehna aur speed kam rakhna",
+        "C": "Horn bajate hue nikal jana",
+        "D": "Fastest lane mein chalana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "School zone mein bachche road par ho sakte hain, isliye extra cautious rehna aur prescribed speed limit ka palan karna zaroori hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Road par 'Zebra Crossing' ka kya purpose hai?",
+      "options": {
+        "A": "Vehicles ke liye parking area",
+        "B": "Pedestrians ke liye road cross karne ka safe area",
+        "C": "Gaadiyon ke overtake karne ka point",
+        "D": "Speed breaker"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Zebra crossing pedestrians ke liye road cross karne ka designated aur safe area hota hai, jahan unhe priority milti hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Foggy conditions mein driving karte waqt kaun si lights use karni chahiye?",
+      "options": {
+        "A": "High beam headlights",
+        "B": "Parking lights only",
+        "C": "Low beam headlights aur fog lights (agar hain)",
+        "D": "Hazard lights only"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Fog mein high beam se glare hota hai. Low beam aur fog lights use karni chahiye kyunki yeh road ko better illuminate karti hain aur visibility badhati hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek driving instructor ko learners ko road par kya observe karne ki training deni chahiye?",
+      "options": {
+        "A": "Sirf apni gaadi ke aage ka raasta",
+        "B": "Har taraf ka traffic, signs, pedestrians, aur potential hazards",
+        "C": "Dusri gaadiyon ke models",
+        "D": "Sirf rear-view mirror mein dekhna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ek good driver ko hamesha 360-degree awareness rakhni chahiye, yani har taraf ka traffic, road signs, pedestrians, aur potential hazards ko continuously observe karna chahiye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Car start karne se pehle driver ko kya check karna chahiye?",
+      "options": {
+        "A": "Music system on hai ya nahi",
+        "B": "Tyre pressure, mirrors ki adjustment, aur seat belt",
+        "C": "AC on hai ya nahi",
+        "D": "Fuel tank full hai ya nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Car start karne se pehle tyre pressure, mirrors ki adjustment aur seat belt check karna safe driving ke liye essential hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Steering wheel ko sahi tarike se kaise pakadna chahiye?",
+      "options": {
+        "A": "Sirf ek haath se",
+        "B": "Dono haathon se 10 aur 2 ya 9 aur 3 o'clock position par",
+        "C": "Upar se pakadna",
+        "D": "Neeche se pakadna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Steering wheel ko dono haathon se 10 aur 2 ya 9 aur 3 o'clock position par pakadne se best control aur stability milti hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Manual transmission car mein clutch pedal ka kya use hai?",
+      "options": {
+        "A": "Speed badhane ke liye",
+        "B": "Gears change karte waqt engine ko disconnect karne ke liye",
+        "C": "Brake lagane ke liye",
+        "D": "Horn bajane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clutch pedal gears change karte waqt engine ko transmission se temporarily disconnect karta hai, jisse smooth gear change hota hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Jab gaadi parking mein ho, toh kaun sa gear engage karna chahiye?",
+      "options": {
+        "A": "Neutral",
+        "B": "Reverse",
+        "C": "First gear (uphill) ya Reverse gear (downhill) aur handbrake",
+        "D": "Fifth gear"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Gaadi park karte waqt handbrake ke saath first gear (agar uphill hai) ya reverse gear (agar downhill hai) engage karna chahiye, extra security ke liye."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Smooth braking ke liye driver ko kya karna chahiye?",
+      "options": {
+        "A": "Brake pedal ko ekdum se dabana",
+        "B": "Brake pedal ko dheere se apply karna aur pressure adjust karna",
+        "C": "Engine braking use karna",
+        "D": "Handbrake use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Smooth braking ke liye brake pedal ko dheere se apply karna aur pressure ko adjust karna chahiye, jisse jhatka na lage aur gaadi control mein rahe."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Reverse parking karte waqt sabse important kya hai?",
+      "options": {
+        "A": "Radio on rakhna",
+        "B": "Rear-view aur side mirrors ka sahi use aur shoulder check",
+        "C": "Accelerator ko full dabana",
+        "D": "Sirf aage dekhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reverse parking mein mirrors aur shoulder check ka sahi use karna bahut zaroori hai taaki aap obstacles aur dusre vehicles ko dekh sakein."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Uphill start karte waqt gaadi ko peeche jaane se rokne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Sirf accelerator dabana",
+        "B": "Handbrake ka use karna aur fir dheere se clutch aur accelerator release karna",
+        "C": "Brake pedal ko zor se dabaye rakhna",
+        "D": "Gaadi ko roll hone dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Uphill start mein handbrake ka use karke gaadi ko peeche jaane se roka ja sakta hai, fir dheere se clutch release karte hue accelerator dena chahiye."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Dashboard par fuel gauge ka kya function hai?",
+      "options": {
+        "A": "Engine temperature batata hai",
+        "B": "Gaadi ki speed batata hai",
+        "C": "Fuel tank mein kitna petrol/diesel hai, yeh batata hai",
+        "D": "Battery charge level batata hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Fuel gauge driver ko batata hai ki gaadi ke fuel tank mein kitna fuel bacha hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Indicators ka kya use hai?",
+      "options": {
+        "A": "Gaadi ko decorate karne ke liye",
+        "B": "Dusre drivers ko turn ya lane change ka intention batane ke liye",
+        "C": "Emergency mein horn bajane ke liye",
+        "D": "Headlights on karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Indicators (turn signals) dusre road users ko aapke turn ya lane change ke intention ke baare mein inform karte hain, jo road safety ke liye critical hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Ek learner ko 'Blind Spot' ke baare mein kya sikhana chahiye?",
+      "options": {
+        "A": "Yeh ek myth hai",
+        "B": "Yeh area hai jo mirrors mein nahi dikhta, aur use check karne ke liye shoulder check zaroori hai",
+        "C": "Yeh sirf trucks mein hota hai",
+        "D": "Yeh area jahan headlights nahi pahunchti"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blind spot woh area hota hai jo rear-view aur side mirrors mein nahi dikhta. Isse check karne ke liye driver ko apna sir ghuma kar shoulder check karna chahiye."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Gear shifting mein 'double clutching' kab use hota hai?",
+      "options": {
+        "A": "Modern cars mein",
+        "B": "Purani commercial vehicles mein smooth downshifting ke liye",
+        "C": "Uphill driving mein",
+        "D": "Parking mein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Double clutching purani commercial vehicles mein smooth downshifting ke liye use hota tha, jahan synchromesh gears nahi hote the. Modern cars mein iski zaroorat nahi padti."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "A-pillar blind spot ko kaise overcome kiya ja sakta hai?",
+      "options": {
+        "A": "Gaadi ki speed badha kar",
+        "B": "Apne sir ko thoda aage-peeche ya side mein move karke",
+        "C": "Side mirror ko adjust karke",
+        "D": "Headlights on karke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A-pillar (windshield ke side wale pillar) se hone wale blind spot ko minimize karne ke liye driver ko thoda apne sir ko move karna chahiye, especially turns par."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Gaadi chalate waqt accelerator pedal ka kya use hai?",
+      "options": {
+        "A": "Gaadi ko rokne ke liye",
+        "B": "Engine ki speed aur gaadi ki गति (speed) control karne ke liye",
+        "C": "Gears badalne ke liye",
+        "D": "Horn bajane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Accelerator pedal engine mein fuel supply ko control karta hai, jisse engine ki speed aur gaadi ki गति (speed) badhti ya kam hoti hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Engine overheat hone par dashboard par kaun sa indicator light jalegi?",
+      "options": {
+        "A": "Battery light",
+        "B": "Oil pressure light",
+        "C": "Temperature warning light",
+        "D": "Check engine light"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Temperature warning light (usually red thermometer symbol) engine ke overheat hone par jalti hai, jo ek serious issue hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Parallel parking sikhate waqt instructor ko kis cheez par emphasize karna chahiye?",
+      "options": {
+        "A": "Maximum speed par park karna",
+        "B": "Mirrors ka use, steering control aur surrounding awareness",
+        "C": "Sirf forward parking",
+        "D": "Gaadi ko zor se ghumana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Parallel parking mein mirrors ka sahi use, steering par control aur surrounding ki awareness critical hai smooth aur safe parking ke liye."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Jab gaadi neutral mein ho, toh kya hota hai?",
+      "options": {
+        "A": "Engine band ho jata hai",
+        "B": "Engine wheels se disconnected hota hai aur power transfer nahi hoti",
+        "C": "Gaadi reverse mein chalti hai",
+        "D": "Gaadi ki speed badh jaati hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Neutral gear mein engine wheels se disconnected hota hai, jisse engine power wheels tak nahi pahunchti aur gaadi free-roll kar sakti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Downhill driving mein speed control karne ka best tarika kya hai (manual car)?",
+      "options": {
+        "A": "Lagatar brake pedal dabaye rakhna",
+        "B": "Lower gear engage karke engine braking ka use karna",
+        "C": "Engine off kar dena",
+        "D": "Neutral mein gaadi chalana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Downhill driving mein lower gear engage karke engine braking ka use karna brakes ko overheat hone se bachata hai aur better control provide karta hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "India mein driving license ke liye minimum age kya hai (Light Motor Vehicle ke liye)?",
+      "options": {
+        "A": "16 saal",
+        "B": "18 saal",
+        "C": "21 saal",
+        "D": "25 saal"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Light Motor Vehicle (non-transport) chalane ke liye India mein minimum age 18 saal hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Motor Vehicles Act, 1988 ka kya main purpose hai?",
+      "options": {
+        "A": "Sirf gaadiyon ki manufacturing regulate karna",
+        "B": "Road transport se related laws ko consolidate aur amend karna",
+        "C": "Petrol prices control karna",
+        "D": "Traffic police ki training karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Motor Vehicles Act, 1988 India mein road transport se related laws ko regulate karta hai, jisme driving licenses, vehicle registration aur traffic rules shamil hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Agar aapke paas valid driving license nahi hai aur aap gaadi chalate hue pakde jaate hain, toh kya penalty ho sakti hai?",
+      "options": {
+        "A": "Sirf warning milegi",
+        "B": "Heavy fine aur imprisonment ho sakti hai",
+        "C": "Gaadi free mein mil jayegi",
+        "D": "Sirf license ban jayega"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bina valid driving license ke gaadi chalana ek serious offence hai, jisme heavy fine aur imprisonment ho sakti hai as per MV Act."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Red traffic light ka kya matlab hai?",
+      "options": {
+        "A": "Gaadi chalao",
+        "B": "Ruk jao",
+        "C": "Slow down",
+        "D": "U-turn le lo"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Red traffic light ka matlab hai ki aapko stop line se pehle apni gaadi rokni hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Overtaking kis taraf se allowed hai (normal circumstances mein)?",
+      "options": {
+        "A": "Left side se",
+        "B": "Right side se",
+        "C": "Dono taraf se",
+        "D": "Jahan jagah mile wahan se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Normal circumstances mein overtaking hamesha right side se karni chahiye. Left side se overtaking tabhi allowed hai jab aage wala driver right turn ka signal de raha ho."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Gaadi ke registration certificate (RC) ka kya purpose hai?",
+      "options": {
+        "A": "Driver ki identity proof",
+        "B": "Gaadi ki ownership aur details ka proof",
+        "C": "Pollution check ka proof",
+        "D": "Insurance ka proof"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Registration Certificate gaadi ki legal ownership aur uski sari details ko prove karta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Driving karte samay kaun se documents gaadi mein hone chahiye?",
+      "options": {
+        "A": "Passport aur Aadhar card",
+        "B": "Driving License, Registration Certificate, Pollution Under Control (PUC) Certificate, aur Insurance Certificate",
+        "C": "Bank passbook aur cheque book",
+        "D": "School ID card"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Motor Vehicles Act ke according, driving karte samay Driving License, RC, PUC aur Insurance Certificate gaadi mein hona mandatory hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Agar aapko 'No Parking' sign dikhe, toh kya karna chahiye?",
+      "options": {
+        "A": "Wahan parking kar leni chahiye",
+        "B": "Wahan gaadi park nahi karni chahiye",
+        "C": "Sirf 5 minute ke liye park kar sakte hain",
+        "D": "Emergency mein park kar sakte hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "'No Parking' sign ka matlab hai ki aapko uss area mein gaadi park nahi karni chahiye, chahe woh temporary hi kyun na ho."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Horn ka use kab karna chahiye?",
+      "options": {
+        "A": "Jab mann kare",
+        "B": "Dusre drivers ko pareshan karne ke liye",
+        "C": "Hazard ya apni presence batane ke liye (judiciously)",
+        "D": "Traffic jam mein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Horn ka use sirf tab karna chahiye jab aapko kisi hazard se bachna ho ya apni presence batani ho, aur woh bhi judiciously, unnecessary use avoid karna chahiye."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Learner's License ki validity kitni hoti hai?",
+      "options": {
+        "A": "6 mahine",
+        "B": "1 saal",
+        "C": "2 saal",
+        "D": "5 saal"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Learner's License 6 mahine ke liye valid hota hai. Is dauran aapko driving practice karni hoti hai aur permanent license ke liye apply karna hota hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Alcohol consume karke gaadi chalana kyun illegal aur dangerous hai?",
+      "options": {
+        "A": "Police pakad legi",
+        "B": "Decision-making, reaction time aur judgment par asar padta hai, jisse accidents ka risk badhta hai",
+        "C": "Gaadi slow chalti hai",
+        "D": "Gaadi mein smell aati hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Alcohol se driver ki decision-making ability, reaction time aur judgment kharab ho jaate hain, jisse accidents ka khatra bahut badh jata hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Yellow continuous line road ke beech mein kya indicate karti hai?",
+      "options": {
+        "A": "Overtaking allowed hai",
+        "B": "Overtaking allowed nahi hai, aur lane change bhi nahi",
+        "C": "Parking allowed hai",
+        "D": "Emergency stop area"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Continuous yellow line ka matlab hai ki aapko uss line ko cross nahi karna hai, yaani overtaking aur lane change prohibited hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Agar aapko ambulance ya fire engine ki siren sunai de, toh kya karna chahiye?",
+      "options": {
+        "A": "Speed badha kar aage nikal jana",
+        "B": "Apni gaadi ko road ke left side mein le jakar rasta dena",
+        "C": "Horn bajana shuru kar dena",
+        "D": "Unko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency vehicles ko hamesha rasta dena chahiye. Apni gaadi ko road ke left side mein le jakar unhe clear passage dena zaroori hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Pollution Under Control (PUC) certificate kyun zaroori hai?",
+      "options": {
+        "A": "Gaadi ki speed badhane ke liye",
+        "B": "Gaadi ke pollution emissions ko check aur control karne ke liye",
+        "C": "Gaadi ki insurance ke liye",
+        "D": "Fuel efficiency badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PUC certificate yeh ensure karta hai ki aapki gaadi prescribed emission norms ke andar pollution kar rahi hai, jo environment ke liye zaroori hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Traffic signal par right turn lete waqt kya precautions leni chahiye?",
+      "options": {
+        "A": "Bina dekhe turn le lena",
+        "B": "Indicator dena, oncoming traffic ko give way karna, aur pedestrians ka dhyan rakhna",
+        "C": "Speed badha kar turn lena",
+        "D": "Sirf left mirror mein dekhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Right turn lete waqt indicator dena, oncoming traffic ko priority dena aur pedestrians ki safety ka dhyan rakhna bahut zaroori hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Agar aapka driving license expire ho gaya hai, toh aap kitne samay tak renew kara sakte hain without re-test?",
+      "options": {
+        "A": "1 mahina",
+        "B": "6 mahine",
+        "C": "1 saal",
+        "D": "5 saal"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Driving license expire hone ke baad ek saal tak renew karaya ja sakta hai without re-appearing for the driving test. Uske baad test dena pad sakta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Hit and Run case mein victim ko government ki taraf se kya compensation milta hai (MV Act ke under)?",
+      "options": {
+        "A": "Kuch nahi",
+        "B": "Sirf medical treatment",
+        "C": "Fixed compensation for death or grievous hurt",
+        "D": "Jitna chahe utna compensation"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Motor Vehicles (Amendment) Act, 2019 ke anusar, Hit and Run victims ko government ki taraf se death ke case mein ₹2 lakh aur grievous hurt ke case mein ₹50,000 ka fixed compensation milta hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Defensive driving ka kya matlab hai?",
+      "options": {
+        "A": "Aggressive hokar gaadi chalana",
+        "B": "Dusre drivers ki galti ko anticipate karna aur accidents se bachne ke liye proactive steps lena",
+        "C": "Sirf apni gaadi ki safety dekhna",
+        "D": "Hamesha high speed par chalana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Defensive driving mein aap dusre drivers ki possible mistakes ko anticipate karte hain aur accidents se bachne ke liye pehle se hi precautions lete hain."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Hazard perception mein kya shamil hai?",
+      "options": {
+        "A": "Sirf road signs dekhna",
+        "B": "Potential dangers ko jaldi identify karna aur un par react karna",
+        "C": "Radio sunna",
+        "D": "Gaadi ki speed badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hazard perception ka matlab hai road par hone wale potential dangers (jaise pedestrian, parked car, intersection) ko jaldi pehchanna aur un par sahi reaction dena."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Safe following distance maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Petrol bachane ke liye",
+        "B": "Aage wali gaadi ke sudden brake lagane par takkar se bachne ke liye",
+        "C": "Gaadi ko fast chalane ke liye",
+        "D": "Parking ke liye jagah banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safe following distance aapko aage wali gaadi ke sudden brake lagane par react karne aur takkar se bachne ke liye sufficient time aur space deta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Wet roads par driving karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Speed badha dena",
+        "B": "Speed kam karna, following distance badhana aur smooth braking karna",
+        "C": "Tyre pressure kam kar dena",
+        "D": "High beam headlights use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wet roads par grip kam hoti hai, isliye speed kam karni chahiye, following distance badhana chahiye aur smooth braking karni chahiye."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Agar aapki gaadi mein tyre burst ho jaye driving ke dauran, toh kya karna chahiye?",
+      "options": {
+        "A": "Ekdum se brake lagana",
+        "B": "Steering wheel ko firmly pakadna, accelerator se pair hatana aur dheere se brake apply karna",
+        "C": "Gaadi ko left mein ghumana",
+        "D": "Gaadi ko neutral mein dal dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tyre burst hone par steering ko firmly pakad kar control maintain karna aur dheere se speed kam karna chahiye, jisse gaadi control mein rahe."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Night driving mein visibility improve karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Interior lights on rakhna",
+        "B": "Headlights ko clean rakhna aur low/high beam ka sahi use karna",
+        "C": "Speed badhana",
+        "D": "Sun glasses pehenna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Night driving mein headlights ko clean rakhna aur oncoming traffic ke hisaab se low aur high beam ka sahi use karna visibility ke liye crucial hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Aggressive drivers se kaise deal karein?",
+      "options": {
+        "A": "Unse race lagana",
+        "B": "Unhe ignore karna aur unse dur rehna",
+        "C": "Horn bajate rehna",
+        "D": "Unko gussa dilana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aggressive drivers se confrontation avoid karna chahiye. Unhe ignore karein aur unse safe distance maintain karein."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Distracted driving ke examples kya hain?",
+      "options": {
+        "A": "Road par focus karna",
+        "B": "Mobile phone use karna, khana khana, ya passengers se excessive baat karna",
+        "C": "Mirrors check karna",
+        "D": "Traffic signs padhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Distracted driving mein koi bhi activity shamil hai jo driver ka attention road se hatati hai, jaise mobile use, khana peena, ya passengers se baat karna."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Aquaplaning kya hai aur isse kaise bach sakte hain?",
+      "options": {
+        "A": "Gaadi ka paani mein float karna",
+        "B": "Tyres ka paani ki layer par grip kho dena; speed kam karke aur achhe tyres use karke bach sakte hain",
+        "C": "Paani mein gaadi chala dena",
+        "D": "Engine ka paani mein band ho jana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Aquaplaning tab hota hai jab tyres paani ki ek layer par grip kho dete hain. Isse bachne ke liye wet conditions mein speed kam karni chahiye aur achhe tread wale tyres use karne chahiye."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Intersection par enter karte waqt kya precautions leni chahiye?",
+      "options": {
+        "A": "Speed badhana",
+        "B": "Slow down karna, dono taraf dekhna, aur ready rehna to stop",
+        "C": "Horn bajana",
+        "D": "Blindly cross karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Intersection par hamesha slow down karna chahiye, dono taraf traffic check karna chahiye aur stop karne ke liye ready rehna chahiye."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Emergency stop kaise perform karna chahiye?",
+      "options": {
+        "A": "Dheere se brake lagana",
+        "B": "Clutch aur brake ko ek saath zor se dabana (ABS ke saath) aur steering ko straight rakhna",
+        "C": "Handbrake use karna",
+        "D": "Engine off kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency stop mein, agar gaadi mein ABS hai, toh clutch aur brake ko ek saath zor se dabana chahiye, aur steering ko straight rakhna chahiye. Agar ABS nahi hai, toh pumping action use karna chahiye."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Fatigue driving ke kya risks hain?",
+      "options": {
+        "A": "Zyada petrol kharch hota hai",
+        "B": "Reaction time kam hota hai, concentration kharab hoti hai aur microsleeps ho sakte hain, jisse accidents ka risk badhta hai",
+        "C": "Gaadi slow chalti hai",
+        "D": "Music sunne mein problem hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fatigue driving alcohol driving jitna hi dangerous ho sakta hai. Isse reaction time kam hota hai, concentration kharab hoti hai aur microsleeps ho sakte hain, jisse accidents ka risk badhta hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Agar aapki gaadi ki headlights raat mein fail ho jayein, toh kya karna chahiye?",
+      "options": {
+        "A": "Gaadi chalaate rehna",
+        "B": "Hazard lights on karna, dheere se gaadi side mein park karna aur help seekhna",
+        "C": "Horn bajate rehna",
+        "D": "High beam on karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Headlight failure ek serious emergency hai. Hazard lights on karke, dheere se gaadi ko safe jagah par park karna chahiye aur help mangni chahiye."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Motorcyclists ke liye kya extra precautions leni chahiye?",
+      "options": {
+        "A": "Unhe ignore karna",
+        "B": "Unke blind spots ka dhyan rakhna aur unhe sufficient space dena",
+        "C": "Unke aage nikal jana",
+        "D": "Unko horn bajana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Motorcyclists chote hote hain aur aasani se blind spots mein chip sakte hain. Unke blind spots ka dhyan rakhna aur unhe sufficient space dena zaroori hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Driving instructor ko students ko 'scanning' ke baare mein kya sikhana chahiye?",
+      "options": {
+        "A": "Sirf aage dekhna",
+        "B": "Road par continuous aur systematic tarike se aage, side aur peeche dekhna",
+        "C": "Sirf mirrors mein dekhna",
+        "D": "Sirf speed limit dekhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scanning ka matlab hai road par continuous aur systematic tarike se aage, side aur peeche dekhte rehna, jisse potential hazards ko time par identify kiya ja sake."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Road rage se kaise bacha ja sakta hai?",
+      "options": {
+        "A": "Dusre drivers se ladai karke",
+        "B": "Calm rehna, aggressive drivers ko avoid karna aur patience maintain karna",
+        "C": "Horn bajate rehna",
+        "D": "Speed badha kar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Road rage se bachne ke liye calm rehna, aggressive drivers se dur rehna aur patience maintain karna sabse achha tarika hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Agar aapki gaadi mein brake fail ho jaye, toh kya steps leni chahiye?",
+      "options": {
+        "A": "Panic karna aur steering chhod dena",
+        "B": "Gear downshift karna (engine braking), handbrake dheere se apply karna, aur hazard lights on karna",
+        "C": "Accelerator dabate rehna",
+        "D": "Gaadi ko kisi cheez se takra dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Brake fail hone par, sabse pehle gear downshift karke engine braking use karna chahiye, fir dheere se handbrake apply karna chahiye aur hazard lights on karni chahiye taaki dusre drivers ko pata chale."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Ek effective driving instructor mein kaun si quality honi chahiye?",
+      "options": {
+        "A": "Har baat par gussa karna",
+        "B": "Patience, clear communication aur positive attitude",
+        "C": "Sirf car chalane ki knowledge",
+        "D": "Student ko judge karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Patience, clear communication aur positive attitude ek effective driving instructor ke liye bahut zaroori hain, jo learner ko comfortable aur confident feel karaye."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Driving lesson plan mein kya shamil hona chahiye?",
+      "options": {
+        "A": "Sirf driving route",
+        "B": "Learning objectives, teaching methods, aur assessment criteria",
+        "C": "Student ki personal details",
+        "D": "Gaadi ka maintenance log"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek well-structured lesson plan mein learning objectives, teaching methods, aur assessment criteria shamil hone chahiye taaki learning effective ho."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Learner ko feedback kaise dena chahiye?",
+      "options": {
+        "A": "Sirf unki galtiyan batana",
+        "B": "Constructive, specific aur encouraging feedback dena, positive points highlight karte hue",
+        "C": "Feedback bilkul nahi dena",
+        "D": "Dusre students se compare karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Feedback hamesha constructive, specific aur encouraging hona chahiye, jisse learner apni galtiyon se seekh sake aur improve kar sake."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Dual control vehicle ka kya advantage hai?",
+      "options": {
+        "A": "Students ko fast drive karne ki permission milti hai",
+        "B": "Instructor ko emergency mein control lene ki permission milti hai, jisse safety badhti hai",
+        "C": "Fuel efficiency badhti hai",
+        "D": "Sirf parking sikhane ke liye use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dual control vehicle mein instructor ke paas bhi brakes aur clutch hote hain, jo emergency mein control lene aur safety ensure karne mein help karta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Nervous learner ko kaise handle karein?",
+      "options": {
+        "A": "Unhe akela chhod dena",
+        "B": "Patient rehna, unka confidence build karna aur simple tasks se shuru karna",
+        "C": "Unhe zor se chillana",
+        "D": "Unhe jaldi se driving sikhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nervous learners ko patience aur encouragement ki zaroorat hoti hai. Simple tasks se shuru karke unka confidence build karna chahiye."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Pre-trip checks mein kya shamil hai (instructor ke perspective se)?",
+      "options": {
+        "A": "Sirf fuel level check karna",
+        "B": "Tyres, lights, mirrors, brakes, aur fluid levels check karna",
+        "C": "Music system check karna",
+        "D": "AC check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Har lesson se pehle instructor ko tyres, lights, mirrors, brakes, aur essential fluid levels check karne chahiye taaki gaadi safe ho."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Instructor ko road par student ki galtiyon par kaise react karna chahiye?",
+      "options": {
+        "A": "Gusse se react karna",
+        "B": "Calmly correct karna aur explanation dena",
+        "C": "Ignore karna",
+        "D": "Laughter mein uda dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Student ki galtiyon par calmly react karna aur unhe sahi explanation dena zaroori hai, taaki woh apni mistake se seekh sakein."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Learner ki progress ko kaise assess karna chahiye?",
+      "options": {
+        "A": "Sirf final exam se",
+        "B": "Continuous observation, regular feedback aur mock tests se",
+        "C": "Unki age dekh kar",
+        "D": "Unke friends se pooch kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Learner ki progress ko continuous observation, regular feedback aur periodic mock tests se assess karna chahiye, jisse unki strengths aur weaknesses ko identify kiya ja sake."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Driving instructor ko kya ethics follow karne chahiye?",
+      "options": {
+        "A": "Sirf paise kamana",
+        "B": "Professionalism, honesty, fairness aur confidentiality maintain karna",
+        "C": "Student ko cheat karna",
+        "D": "Unfair means use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek driving instructor ko hamesha professionalism, honesty, fairness aur confidentiality maintain karni chahiye, jo unke profession ki integrity ke liye zaroori hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Visual aids (jaise diagrams) ka use driving instruction mein kyun helpful hai?",
+      "options": {
+        "A": "Time waste karne ke liye",
+        "B": "Complex concepts ko simplify karne aur better understanding ke liye",
+        "C": "Sirf bachchon ke liye",
+        "D": "Instructor ko rest dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Visual aids complex driving concepts ko simplify karte hain aur learners ko better understand karne mein help karte hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Maneuvers (jaise 3-point turn) sikhate waqt instructor ko kya sequence follow karna chahiye?",
+      "options": {
+        "A": "Directly student ko karne dena",
+        "B": "Explain, Demonstrate, Practice, Correct (EDPC)",
+        "C": "Sirf verbally explain karna",
+        "D": "Sirf khud karke dikhana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "EDPC (Explain, Demonstrate, Practice, Correct) ek effective teaching method hai maneuvers sikhane ke liye, jisse learner step-by-step seekhta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Ek driving instructor ko apne knowledge aur skills ko kaise up-to-date rakhna chahiye?",
+      "options": {
+        "A": "Kabhi update nahi karna",
+        "B": "Regular training, workshops, aur traffic laws mein changes ko follow karke",
+        "C": "Sirf purani books padh kar",
+        "D": "Dusre instructors se competition karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Driving instructor ko apne knowledge aur skills ko up-to-date rakhne ke liye regular training, workshops attend karne chahiye aur traffic laws mein changes ko follow karna chahiye."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Learner ko self-correction kaise encourage karein?",
+      "options": {
+        "A": "Har galti par daantna",
+        "B": "Unhe apni galtiyan analyze karne aur solutions dhoondhne ke liye encourage karna",
+        "C": "Sirf instructor ka bataya hua follow karna",
+        "D": "Unhe khud hi sab karne dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Self-correction encourage karne se learner ki critical thinking aur independent decision-making skills develop hoti hain, jo long-term driving ke liye beneficial hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Driving test se pehle instructor ko student ko kis cheez ke liye prepare karna chahiye?",
+      "options": {
+        "A": "Sirf car chalane ke liye",
+        "B": "Test route yaad karne ke liye",
+        "C": "Road rules, safe driving practices, aur test format ke liye",
+        "D": "Inspector ko impress karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Driving test se pehle student ko road rules, safe driving practices, aur test ke format aur expectations ke liye thoroughly prepare karna chahiye."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Ek effective driving instructor ko different learning styles ko kaise accommodate karna chahiye?",
+      "options": {
+        "A": "Sirf ek hi method use karna",
+        "B": "Teaching methods ko adjust karna (visual, auditory, kinesthetic learners ke liye)",
+        "C": "Sirf fast learners par focus karna",
+        "D": "Student ko instructor ke method se adjust karne ko kehna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Different learners ki needs ko accommodate karne ke liye instructor ko apni teaching methods ko adjust karna chahiye, jaise visual aids, verbal instructions ya hands-on practice."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Road safety campaigns mein driving instructor ka kya role ho sakta hai?",
+      "options": {
+        "A": "Koi role nahi",
+        "B": "Public awareness programs mein participate karna aur safe driving messages promote karna",
+        "C": "Sirf apne students ko sikhana",
+        "D": "Government policies ko criticize karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Driving instructors road safety campaigns mein participate karke aur safe driving messages promote karke community mein road safety awareness badha sakte hain."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Engine oil ka kya function hai?",
+      "options": {
+        "A": "Engine ko garam karna",
+        "B": "Engine parts ko lubricate karna aur friction kam karna",
+        "C": "Fuel efficiency badhana",
+        "D": "Gaadi ko saaf rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Engine oil engine ke moving parts ko lubricate karta hai, friction aur wear-and-tear ko kam karta hai, aur engine ko cool rakhta hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Tyre pressure ko regularly check karna kyun zaroori hai?",
+      "options": {
+        "A": "Tyre ki shine maintain karne ke liye",
+        "B": "Safe driving, better fuel efficiency aur tyre longevity ke liye",
+        "C": "Gaadi ko fast chalane ke liye",
+        "D": "Engine ko cool rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi tyre pressure safe driving, achhi fuel efficiency aur tyres ki lambi life ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Agar gaadi overheat ho jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Ekdum se bonnet khol dena",
+        "B": "Gaadi ko safe jagah par park karna, engine off karna aur cool hone dena",
+        "C": "Coolant dal dena jab engine garam ho",
+        "D": "Speed badha kar chalate rehna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gaadi overheat hone par, use safe jagah park karke engine off kar dena chahiye aur use cool hone dena chahiye. Garam engine mein bonnet ya radiator cap nahi kholna chahiye."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Brake fluid level kam hone se kya problem ho sakti hai?",
+      "options": {
+        "A": "Horn kaam nahi karega",
+        "B": "Brakes ki performance kam ho sakti hai ya brakes fail ho sakte hain",
+        "C": "AC kaam nahi karega",
+        "D": "Engine overheat ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Brake fluid level kam hone se brakes ki efficiency kam ho sakti hai, jisse braking distance badh sakta hai aur brakes fail bhi ho sakte hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Flat tyre ko kaise replace karein?",
+      "options": {
+        "A": "Mechanic ko phone karna",
+        "B": "Gaadi ko safe jagah park karna, handbrake lagana, jack aur spare tyre use karke replace karna",
+        "C": "Chalte rehna",
+        "D": "Tyre mein hawa bhar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flat tyre replace karne ke liye gaadi ko safe jagah park karna, handbrake lagana aur jack, lug wrench aur spare tyre ka sahi use karna zaroori hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Accident site par sabse pehla step kya hona chahiye?",
+      "options": {
+        "A": "Victims ki photo lena",
+        "B": "Scene ko secure karna (hazard lights, warning triangle) aur emergency services ko call karna",
+        "C": "Gaadi ko wahan se hata dena",
+        "D": "Witnesses se baat karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Accident site par sabse pehle scene ko secure karna chahiye taaki aur accidents na ho, aur fir emergency services (police, ambulance) ko inform karna chahiye."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Basic first aid mein 'DRSABC' ka kya matlab hai?",
+      "options": {
+        "A": "Drive, Rest, Stop, Avoid, Brake, Cool",
+        "B": "Danger, Response, Send for help, Airway, Breathing, CPR",
+        "C": "Don't Run, Sit, Ask, Be Calm, Call",
+        "D": "Dust, Rashes, Scratches, Aches, Burns, Cuts"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DRSABC first aid ka ek acronym hai: Danger (check for safety), Response (check consciousness), Send for help (call emergency), Airway (clear airway), Breathing (check breathing), CPR (start CPR if needed)."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar kisi ko head injury hui hai accident mein, toh kya karna chahiye?",
+      "options": {
+        "A": "Unhe hila kar uthane ki koshish karna",
+        "B": "Unhe stable rakhna, unka neck support karna aur emergency help ka wait karna",
+        "C": "Unhe paani pilana",
+        "D": "Unhe chalne ko kehna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Head injury ke case mein victim ko hilaana nahi chahiye. Unhe stable rakhna, neck support karna aur emergency help ka wait karna zaroori hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "First aid kit mein kaun si cheezein honi chahiye?",
+      "options": {
+        "A": "Snacks aur drinks",
+        "B": "Bandages, antiseptic wipes, pain relievers, gloves",
+        "C": "Car cleaning items",
+        "D": "Tools for car repair"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek basic first aid kit mein bandages, antiseptic wipes, pain relievers, gloves, scissors aur adhesive tape jaise items hone chahiye."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Battery jump start karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Dono gaadiyon ko touch karte rehne dena",
+        "B": "Positive to positive, negative to negative connect karna aur goggles pehenna",
+        "C": "Engine on rakhna",
+        "D": "Sirf ek cable use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jump start karte waqt cables ko sahi order mein connect karna (positive to positive, negative to negative) aur safety goggles pehenna zaroori hai spark aur acid se bachne ke liye."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Car ke coolant ka kya kaam hai?",
+      "options": {
+        "A": "Engine ko garam karna",
+        "B": "Engine ko overheat hone se bachana",
+        "C": "Wipers ko chalana",
+        "D": "Tyre pressure maintain karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Coolant engine se heat absorb karke use radiator tak le jata hai, jahan woh cool hota hai, is tarah engine ko overheat hone se bachata hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Agar gaadi mein aag lag jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Bonnet khol kar bujhane ki koshish karna",
+        "B": "Gaadi ko rokna, sabko bahar nikalna, fire extinguisher use karna (agar safe ho) aur fire department ko call karna",
+        "C": "Gaadi ko chalaate rehna",
+        "D": "Paani dalna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Gaadi mein aag lagne par sabse pehle gaadi rokni chahiye, sabko bahar nikalna chahiye. Agar safe ho toh fire extinguisher use karein, warna fire department ko call karein."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Wiper blades ko kab replace karna chahiye?",
+      "options": {
+        "A": "Har saal",
+        "B": "Jab woh sahi se saaf na karein, streaks chhod dein ya noise karein",
+        "C": "Sirf winter mein",
+        "D": "Jab gaadi ka colour change ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wiper blades ko tab replace karna chahiye jab woh windshield ko sahi se saaf na karein, streaks chhod dein ya operation ke dauran noise karein, kyunki yeh visibility ko affect karte hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "CPR (Cardiopulmonary Resuscitation) ka main purpose kya hai?",
+      "options": {
+        "A": "Fracture theek karna",
+        "B": "Heart attack ya drowning jaise cases mein brain aur dusre vital organs mein blood flow aur oxygen supply maintain karna",
+        "C": "Sirf pain kam karna",
+        "D": "Victim ko conscious karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CPR ka main purpose heart attack ya drowning jaise cases mein jab breathing ya heart beat ruk jaye, toh brain aur dusre vital organs mein blood flow aur oxygen supply maintain karna hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Brake pad wear hone ke kya signs hain?",
+      "options": {
+        "A": "Engine ka smooth chalna",
+        "B": "Braking karte waqt screeching noise, pedal ka soft hona ya gaadi ka ek taraf pull karna",
+        "C": "Tyre pressure kam hona",
+        "D": "Headlights ka dim hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Worn-out brake pads ke signs mein braking karte waqt screeching noise, brake pedal ka soft hona ya gaadi ka ek taraf pull karna shamil hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Agar kisi ko severe bleeding ho rahi ho, toh sabse pehla first aid step kya hai?",
+      "options": {
+        "A": "Victim ko chalne ko kehna",
+        "B": "Direct pressure apply karna bleeding site par",
+        "C": "Warm water se dhona",
+        "D": "Tourniquet lagana immediately"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Severe bleeding ke case mein sabse pehla aur sabse effective step hai bleeding site par direct pressure apply karna, jisse blood flow ko control kiya ja sake."
+    }
+  ]
+}

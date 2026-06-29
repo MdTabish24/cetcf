@@ -201,7 +201,7 @@ export default function ExamPage() {
                   'Ensure a stable internet connection before starting.',
                   'No external help or reference material allowed.',
                 ].map((rule, i) => (
-                  <li key={i} style={{ fontSize: '13px', color: 'var(--text)', display: 'flex', gap: '8px' }}>
+                  <li key={i} style={{ fontSize: '13px', color: 'var(--text-main)', display: 'flex', gap: '8px' }}>
                     <span style={{ color: 'var(--danger)', flexShrink: 0 }}>•</span>
                     {rule}
                   </li>

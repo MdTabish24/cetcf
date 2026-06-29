@@ -128,7 +128,7 @@ export default function AdminPage() {
 
       {/* Main Content */}
       <main style={{ flex: 1, padding: '32px' }}>
-        <h1 style={{ fontSize: '24px', color: 'var(--navy)', textTransform: 'capitalize', marginBottom: '24px' }}>
+        <h1 style={{ fontSize: '24px', color: 'var(--text-main)', textTransform: 'capitalize', marginBottom: '24px' }}>
           {activeTab} Overview
         </h1>
 
@@ -141,11 +141,11 @@ export default function AdminPage() {
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '16px' }}>
                 <div className="card" style={{ padding: '24px' }}>
                   <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Total Candidates</div>
-                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--navy)' }}>{data.total_candidates || 0}</div>
+                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--text-main)' }}>{data.total_candidates || 0}</div>
                 </div>
                 <div className="card" style={{ padding: '24px' }}>
                   <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Total Partners</div>
-                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--navy)' }}>{data.total_partners || 0}</div>
+                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--text-main)' }}>{data.total_partners || 0}</div>
                 </div>
                 <div className="card" style={{ padding: '24px' }}>
                   <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Certificates Issued</div>

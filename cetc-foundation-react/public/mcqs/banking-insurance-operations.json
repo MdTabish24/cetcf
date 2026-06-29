@@ -1,0 +1,1443 @@
+{
+  "course_name": "Banking & Insurance Operations",
+  "sector": "Business, Retail & Finance",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Banking & Financial System",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Banking Products & Services",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Banking Operations & Technology",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Introduction to Insurance",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Insurance Products & Claims",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Customer Service & Regulations",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Bharat mein banking sector ka mukhya regulator kaun hai?",
+      "options": {
+        "A": "SEBI",
+        "B": "IRDAI",
+        "C": "Reserve Bank of India (RBI)",
+        "D": "Finance Ministry"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Reserve Bank of India (RBI) Bharat ka central bank hai aur sabhi banks ko regulate karta hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ek Commercial Bank ka primary function kya hota hai?",
+      "options": {
+        "A": "Sirf loans dena",
+        "B": "Sirf deposits lena",
+        "C": "Deposits accept karna aur loans dena",
+        "D": "Insurance policy bechna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Commercial banks ka mukhya kaam janta se deposits lena aur zarooratmand logon ko loans dena hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Financial Inclusion ka kya matlab hai?",
+      "options": {
+        "A": "Sirf ameer logon ko banking services dena",
+        "B": "Sabhi ko affordable cost par banking services uplabdh karana",
+        "C": "Bank branches band karna",
+        "D": "Interest rates badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Financial Inclusion ka uddeshya samaj ke har varg tak, khaaskar kamzor varg tak, banking aur financial services ko pahunchana hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Inmein se kaun sa ek Public Sector Bank (PSB) ka udaharan hai?",
+      "options": {
+        "A": "HDFC Bank",
+        "B": "ICICI Bank",
+        "C": "State Bank of India (SBI)",
+        "D": "Axis Bank"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "State Bank of India (SBI) ek Public Sector Bank hai, jismein sarkar ki hissedari sabse zyada hoti hai. Baaki private sector banks hain."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Monetary Policy kaun banata aur implement karta hai?",
+      "options": {
+        "A": "Central Government",
+        "B": "State Bank of India",
+        "C": "NITI Aayog",
+        "D": "Reserve Bank of India (RBI)"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Desh mein inflation control karne aur money supply manage karne ke liye Monetary Policy RBI dwara banayi jaati hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Co-operative Banks aamtaur par kis sector ki zarooraton ko poora karte hain?",
+      "options": {
+        "A": "Bade corporate houses",
+        "B": "Multinational companies",
+        "C": "Agriculture aur rural sector",
+        "D": "Stock market investors"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Co-operative Banks mukhya roop se gramin (rural) aur krishi (agriculture) shetra mein financial services pradan karte hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Bank 'Rate' kya hota hai?",
+      "options": {
+        "A": "Woh rate jispar bank customer ko loan deta hai",
+        "B": "Woh rate jispar bank customer ke deposit par interest deta hai",
+        "C": "Woh rate jispar RBI commercial banks ko long-term loan deta hai",
+        "D": "Credit card par lagne wala charge"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Bank Rate woh official interest rate hai jispar RBI, commercial banks ko lambi avadhi (long-term) ke liye karz deta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Small Finance Banks ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Bade udyogon ko loan dena",
+        "B": "Chhote kisanon, micro-industries aur asangathit shetra ko financial services dena",
+        "C": "Videshi mudra ka len-den karna",
+        "D": "Credit cards issue karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Small Finance Banks ko financial inclusion ko badhava dene ke liye banaya gaya hai, jisse chhote business aur kam aay wale logon tak banking pahunch sake."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "CRR ka poora naam kya hai?",
+      "options": {
+        "A": "Current Rate of Return",
+        "B": "Cash Reserve Ratio",
+        "C": "Cumulative Rate of Return",
+        "D": "Customer Relationship Ratio"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CRR ka full form Cash Reserve Ratio hai. Yeh woh percentage of deposits hai jo har bank ko RBI ke paas cash ke roop mein rakhna zaroori hota hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek bank ko 'Scheduled Bank' kab kaha jaata hai?",
+      "options": {
+        "A": "Jab woh stock exchange par listed ho",
+        "B": "Jab uska naam RBI Act, 1934 ke Second Schedule mein shamil ho",
+        "C": "Jab uski 100 se zyada branches ho",
+        "D": "Jab woh sirf shehri ilakon mein kaam karta ho"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jin banks ka naam Reserve Bank of India Act, 1934 ke Second Schedule mein darj hota hai, unhein Scheduled Banks kaha jaata hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Bank ka mukhya aay (income) ka srot kya hai?",
+      "options": {
+        "A": "Locker rent",
+        "B": "Service charges",
+        "C": "Interest on loans aur investments",
+        "D": "Government grants"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bank ki sabse zyada kamai diye gaye loans par milne wale byaaj (interest) aur investments se hoti hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Payments Bank ke baare mein kaun sa kathan sahi hai?",
+      "options": {
+        "A": "Yeh credit card issue kar sakte hain",
+        "B": "Yeh bade loans de sakte hain",
+        "C": "Yeh deposits accept kar sakte hain, lekin loans nahi de sakte",
+        "D": "Yeh sirf corporate clients ke liye hain"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Payments Banks customer se deposits (ek seema tak) le sakte hain, fund transfer kar sakte hain, lekin loans ya credit cards nahi de sakte."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "SLR ka full form kya hai?",
+      "options": {
+        "A": "Standard Lending Rate",
+        "B": "Statutory Liquidity Ratio",
+        "C": "Simple Loan Ratio",
+        "D": "Service Level Requirement"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SLR (Statutory Liquidity Ratio) woh minimum percentage of deposits hai jo commercial bank ko liquid assets jaise cash, gold, ya government securities mein maintain karna padta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "NABARD ka mukhya kaam kya hai?",
+      "options": {
+        "A": "Shehri infrastructure ko fund karna",
+        "B": "Stock market ko regulate karna",
+        "C": "Gramin (Rural) aur krishi (Agriculture) vikas ke liye finance provide karna",
+        "D": "Import-Export ko control karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "NABARD (National Bank for Agriculture and Rural Development) gramin vikas aur krishi ke liye desh ka sabse bada financial institution hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Banker-Customer relationship mein, jab customer bank locker leta hai, toh unka rishta kya hota hai?",
+      "options": {
+        "A": "Debtor-Creditor",
+        "B": "Agent-Principal",
+        "C": "Lessor-Lessee",
+        "D": "Trustee-Beneficiary"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Jab koi customer bank se locker kiraye par leta hai, toh bank 'Lessor' (kiraye par dene wala) aur customer 'Lessee' (kiraye par lene wala) ban jaata hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Pradhan Mantri Jan Dhan Yojana (PMJDY) ka mukhya uddeshya kya tha?",
+      "options": {
+        "A": "Housing loan dena",
+        "B": "Har parivar ka bank account kholna",
+        "C": "Pension plan bechna",
+        "D": "Mutual funds ko promote karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PMJDY ka mukhya uddeshya desh ke har parivar ko banking system se jodna tha, jiske liye unka basic savings bank account khola gaya."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek 'Private Sector Bank' mein mukhya hissedari (majority stake) kiske paas hoti hai?",
+      "options": {
+        "A": "Sarkar (Government)",
+        "B": "Reserve Bank of India",
+        "C": "Niji niveshak (Private shareholders)",
+        "D": "Videshi bank (Foreign banks)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Private Sector Bank mein majority ownership private individuals ya institutions ke paas hoti hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Savings Account ka mukhya uddeshya kya hota hai?",
+      "options": {
+        "A": "Roz ke business transactions ke liye",
+        "B": "Bachat (Savings) ko badhava dena",
+        "C": "Bade investments ke liye",
+        "D": "Loan lene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Savings Account logon ko apni choti-choti bachat ko surakshit rakhne aur uspar thoda byaaj kamane ke liye protsahit karta hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Current Account aamtaur par kaun khulwata hai?",
+      "options": {
+        "A": "Students",
+        "B": "Salaried employees",
+        "C": "Businessmen aur Companies",
+        "D": "Pensioners"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Current Account (Chalu Khata) businessmen ke liye hota hai jinko din mein kai baar paiso ka len-den karna padta hai. Is par aamtaur par byaaj nahi milta."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Fixed Deposit (FD) mein kya hota hai?",
+      "options": {
+        "A": "Aap kabhi bhi paisa nikal sakte hain",
+        "B": "Ek nishchit samay ke liye paisa lock ho jaata hai aur zyada byaaj milta hai",
+        "C": "Har mahine paisa jama karna padta hai",
+        "D": "Is par koi byaaj nahi milta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FD mein ek lumpsum amount ek fixed time period ke liye jama kiya jaata hai, jispar savings account se zyada interest milta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Recurring Deposit (RD) kaise kaam karta hai?",
+      "options": {
+        "A": "Ek baar mein saara paisa jama karna",
+        "B": "Har mahine ek fixed amount jama karna",
+        "C": "Jab mann chahe paisa jama karna",
+        "D": "Sirf business ke liye hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RD mein aap har mahine ek tay rashi (fixed amount) ek nishchit samay tak jama karte hain aur maturity par principal aur byaaj ek saath milta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Personal Loan lene ke liye aamtaur par kya dekha jaata hai?",
+      "options": {
+        "A": "Property ke papers",
+        "B": "Applicant ki income aur credit score",
+        "C": "Business ka turnover",
+        "D": "Loan ka purpose"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Personal loan ek unsecured loan hai, isliye bank applicant ki niyamit aay (regular income) aur CIBIL/credit score par sabse zyada dhyan deta hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Home Loan mein 'collateral' ya 'security' ke taur par kya rakha jaata hai?",
+      "options": {
+        "A": "Salary slip",
+        "B": "Sone ke gehne (Gold jewellery)",
+        "C": "Khareedi ja rahi property ke documents",
+        "D": "Kuch bhi nahi"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Home Loan ek secured loan hai jismein jo property khareedi ja rahi hai, usi ke kaagzaat bank ke paas loan chukane tak girvi (mortgage) rehte hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Debit Card ka istemal kiske liye hota hai?",
+      "options": {
+        "A": "Udhaar par kharidari karne ke liye",
+        "B": "Apne bank account se direct paise nikalne ya payment karne ke liye",
+        "C": "EMI par samaan lene ke liye",
+        "D": "Loan lene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Debit Card aapke bank account se link hota hai. Jab aap isse payment karte hain, toh paise seedhe aapke account se kat jaate hain."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Credit Card aur Debit Card mein mukhya antar kya hai?",
+      "options": {
+        "A": "Dono ek jaise hain",
+        "B": "Credit Card se aap udhaar lete hain, Debit Card se apne account se kharch karte hain",
+        "C": "Debit Card par byaaj lagta hai, Credit Card par nahi",
+        "D": "Credit Card sirf online use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Credit Card se ki gayi kharidari ek tarah ka short-term loan hota hai jise aapko baad mein chukana padta hai. Debit Card se kharch kiye gaye paise aapke apne account ke hote hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "'Floating Interest Rate' ka kya matlab hai?",
+      "options": {
+        "A": "Loan ki poori avadhi mein interest rate fix rehta hai",
+        "B": "Interest rate market conditions ke hisab se badalta rehta hai",
+        "C": "Koi interest nahi lagta",
+        "D": "Sirf pehle saal interest lagta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Floating Interest Rate, RBI ki policies ya market ke benchmarks (jaise Repo Rate) ke saath badalta rehta hai. Isse aapki EMI kam ya zyada ho sakti hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Overdraft (OD) facility kya hai?",
+      "options": {
+        "A": "Ek tarah ka home loan",
+        "B": "Account mein balance na hone par bhi ek seema tak paise nikalne ki suvidha",
+        "C": "Ek long-term investment plan",
+        "D": "Insurance policy"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Overdraft facility aamtaur par Current Account holders ko milti hai, jisse woh apne account balance se zyada paise ek limit tak nikal sakte hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Education Loan mein 'Moratorium Period' kya hota hai?",
+      "options": {
+        "A": "Woh samay jab loan application process hoti hai",
+        "B": "Woh samay jab student ko fees bharni hoti hai",
+        "C": "Woh samay (course ke dauraan aur uske baad) jab EMI chukane ki zaroorat nahi hoti",
+        "D": "Loan ka poora tenure"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Moratorium Period woh chhoot ka samay hota hai (jaise course period + 6-12 mahine) jiske dauraan borrower ko EMI pay karne ki zaroorat nahi hoti, haalanki simple interest lagta rehta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Bank Demat Account kholne mein kyon madad karte hain?",
+      "options": {
+        "A": "Cash nikalne ke liye",
+        "B": "Shares aur securities ko electronic form mein rakhne ke liye",
+        "C": "Fixed Deposit kholne ke liye",
+        "D": "Loan apply karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Demat (Dematerialised) Account ka upyog stock market mein khareede gaye shares aur anya securities ko digital roop mein store karne ke liye hota hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "EMI ka poora naam kya hai?",
+      "options": {
+        "A": "Easy Money Investment",
+        "B": "Equated Monthly Installment",
+        "C": "Early Monthly Investment",
+        "D": "Extra Monetary Incentive"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "EMI ka full form Equated Monthly Installment hai. Yeh woh fixed amount hai jo aap har mahine apne loan ko chukane ke liye bank ko dete hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "CIBIL Score kya darshata hai?",
+      "options": {
+        "A": "Aapki saalana aay (Annual income)",
+        "B": "Aapke bank account ka balance",
+        "C": "Aapki credit history aur loan chukane ki kshamta",
+        "D": "Aapke investments ki value"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "CIBIL Score ek 3-digit number hai jo aapki pichli loan aur credit card payments ki history ko represent karta hai. Achha score loan milne mein madad karta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Nomination facility in bank accounts ka kya fayda hai?",
+      "options": {
+        "A": "Account holder ko extra interest milta hai",
+        "B": "Account holder ki मृत्यु (death) ke baad, account ka paisa nominee ko aasani se mil jaata hai",
+        "C": "Loan jaldi approve ho jaata hai",
+        "D": "Account mein minimum balance rakhne ki zaroorat nahi hoti"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nomination se account holder yeh tay kar sakta hai ki uske na rehne par account mein jama paisa kis व्यक्ति ko milega, jisse legal jhanjhaton se bacha ja sakta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Loan Against Property (LAP) mein, loan amount kis cheez par nirbhar karta hai?",
+      "options": {
+        "A": "Applicant ke credit score par",
+        "B": "Applicant ki monthly income par",
+        "C": "Girvi rakhi jaa rahi property ki market value par",
+        "D": "Loan ke purpose par"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "LAP mein, loan ka amount mukhya roop se collateral ke taur par rakhi gayi property ki market value ke ek nishchit pratishat (jaise 60-70%) tak hota hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Ek 'Dormant Account' kya hota hai?",
+      "options": {
+        "A": "Ek naya khula hua account",
+        "B": "Ek joint account",
+        "C": "Ek account jismein ek nishchit samay (jaise 2 saal) se koi transaction nahi hua ho",
+        "D": "Ek account jismein bahut zyada balance ho"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Agar kisi savings ya current account mein 24 mahine tak customer dwara koi len-den nahi kiya jaata hai, toh bank use 'Dormant' ya 'Inoperative' account ghoshit kar deta hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Bank mein naya account kholne ke liye KYC ka poora naam kya hai?",
+      "options": {
+        "A": "Know Your Cash",
+        "B": "Keep Your Customer",
+        "C": "Know Your Customer",
+        "D": "Know Your Cheque"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "KYC ka full form 'Know Your Customer' hai. Yeh ek process hai jisse bank apne customer ki pehchan (identity) aur pate (address) ko verify karta hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "KYC process ke liye inmein se kaun sa document 'Proof of Identity' (POI) ke roop mein maanya hai?",
+      "options": {
+        "A": "Electricity Bill",
+        "B": "PAN Card",
+        "C": "Rent Agreement",
+        "D": "Bank Statement"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PAN Card, Aadhaar Card, Passport, Voter ID card jaise documents jis par aapka photo ho, Proof of Identity ke liye istemal hote hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "NEFT ka poora naam kya hai?",
+      "options": {
+        "A": "National Electronic Funds Transfer",
+        "B": "New Electronic Financial Transaction",
+        "C": "National Emergency Fund Transfer",
+        "D": "Non-stop Electronic Fund Transaction"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "NEFT ka full form National Electronic Funds Transfer hai. Isse ek bank account se doosre mein paise transfer kiye jaate hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "RTGS aur NEFT mein mukhya antar kya hai?",
+      "options": {
+        "A": "NEFT mehenga hai, RTGS sasta hai",
+        "B": "RTGS real-time mein settle hota hai, jabki NEFT batches mein hota hai",
+        "C": "NEFT sirf bade amount ke liye hai",
+        "D": "RTGS ka istemal sirf sarkari bank kar sakte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RTGS (Real Time Gross Settlement) mein fund transfer turant hota hai. NEFT (National Electronic Funds Transfer) mein transactions ko batches mein process kiya jaata hai, jismein thoda samay lagta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "IMPS service ka sabse bada fayda kya hai?",
+      "options": {
+        "A": "Yeh sirf bank ke working hours mein kaam karta hai",
+        "B": "Yeh 24x7, saal ke 365 din uplabdh hai",
+        "C": "Ismein transfer ki koi limit nahi hai",
+        "D": "Yeh sirf cheque se hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IMPS (Immediate Payment Service) ki sabse badi khasiyat yeh hai ki isse aap chutti wale din ya raat mein bhi, kabhi bhi turant paise transfer kar sakte hain."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "ATM ka poora naam kya hai?",
+      "options": {
+        "A": "Any Time Money",
+        "B": "Automated Teller Machine",
+        "C": "Auto Transaction Machine",
+        "D": "All Time Money"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ATM ka full form Automated Teller Machine hai. Yeh ek electronic machine hai jisse customer bina bank branch jaaye cash nikal sakte hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Ek 'Crossed Cheque' ka kya matlab hai?",
+      "options": {
+        "A": "Cheque ko phad dena",
+        "B": "Cheque ke upar do parallel lines kheench dena",
+        "C": "Cheque par signature na karna",
+        "D": "Cheque par galat date likhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cheque ke top-left corner par do parallel lines kheenchne se woh 'Crossed Cheque' ban jaata hai. Iska paisa sirf bank account mein hi transfer hota hai, counter par cash nahi milta."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Cheque par likhi date ke baad woh kitne samay tak valid rehta hai?",
+      "options": {
+        "A": "1 saal",
+        "B": "6 mahine",
+        "C": "3 mahine",
+        "D": "1 mahina"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "RBI ke niyam ke anusaar, ek cheque us par likhi hui तारीख se 3 mahine tak ke liye valid hota hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Mobile Banking ka upyog karne ke liye sabse zaroori cheez kya hai?",
+      "options": {
+        "A": "Ek landline phone",
+        "B": "Ek credit card",
+        "C": "Bank account se registered mobile number aur internet connection",
+        "D": "Ek cheque book"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mobile Banking ke liye aapka mobile number bank mein register hona chahiye aur aapke phone mein internet access hona zaroori hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "IFSC Code ka kya upyog hai?",
+      "options": {
+        "A": "Customer ki pehchan ke liye",
+        "B": "NEFT/RTGS transfer mein bank branch ki pehchan ke liye",
+        "C": "ATM PIN set karne ke liye",
+        "D": "International transactions ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IFSC (Indian Financial System Code) ek 11-digit ka alphanumeric code hai jo har bank branch ko uniquely identify karta hai aur electronic fund transfer mein istemal hota hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "UPI ka poora naam kya hai?",
+      "options": {
+        "A": "Universal Payment Interface",
+        "B": "Unified Payments Interface",
+        "C": "Unique Payment Identity",
+        "D": "Universal Personal ID"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "UPI ka full form Unified Payments Interface hai. Yeh ek instant real-time payment system hai jo mobile app ke zariye fund transfer ki suvidha deta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Cheque 'truncation' kya hota hai?",
+      "options": {
+        "A": "Cheque ko cancel karna",
+        "B": "Physical cheque ko ek jagah se doosri jagah bhejne ke bajaye uski electronic image bhejna",
+        "C": "Cheque par over-writing karna",
+        "D": "Cheque ko bank mein jama karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cheque Truncation System (CTS) mein, physical cheque ko clearing ke liye aage nahi bheja jaata, balki uski ek digital image (scan copy) data ke saath bhej di jaati hai, jisse clearing process tez ho jaati hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Agar kisi customer ka ATM card kho jaaye, toh use sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "Naye card ke liye apply karna",
+        "B": "Police station jaana",
+        "C": "Bank ke customer care par call karke card ko turant block karwana",
+        "D": "Ek hafte tak intezaar karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Card khone par sabse pehla aur zaroori kadam hai use turant block karwana taaki koi uska galat istemal na kar sake. Yeh customer care call ya mobile app se kiya jaa sakta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Anti-Money Laundering (AML) ka kya uddeshya hai?",
+      "options": {
+        "A": "Customer ko zyada loan dena",
+        "B": "Gair-kanooni tarike se kamaye gaye paise ko banking system mein aane se rokna",
+        "C": "Bank ki marketing karna",
+        "D": "Interest rates kam karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "AML niyam aur kanoon isliye banaye gaye hain taaki apradhik gatividhiyon se prapt kiye gaye 'kale dhan' ko legal 'safed dhan' mein badalne se roka jaa sake."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "MICR code ka upyog kahan hota hai?",
+      "options": {
+        "A": "Online fund transfer mein",
+        "B": "Cheque ki processing mein",
+        "C": "Mobile banking login mein",
+        "D": "Credit card payment mein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "MICR (Magnetic Ink Character Recognition) code cheque ke neeche likha hota hai. Yeh cheque ki fast processing aur clearing mein madad karta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Digital banking mein 'Phishing' kya hai?",
+      "options": {
+        "A": "Ek naye type ka bank account",
+        "B": "Ek secure way of transaction",
+        "C": "Fraudulent email ya website ke zariye personal information churane ki koshish",
+        "D": "Bank dwara bheja gaya official message"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Phishing ek tarah ka cyber crime hai jismein criminals, bank jaisi nakli email ya website banakar aapse aapki sensitive jaankari jaise password, PIN, CVV maangte hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Bank mein Cashier ka mukhya kaam kya hota hai?",
+      "options": {
+        "A": "Loan applications process karna",
+        "B": "Marketing karna",
+        "C": "Cash jama karna aur cash dena (deposits and withdrawals)",
+        "D": "Customer ke ghar jaana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bank Cashier (Teller) front-line staff hota hai jiska mukhya kaam counter par customer se cash lena aur unhein cash dena hota hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Insurance ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Paisa double karna",
+        "B": "Tax bachana",
+        "C": "Achanak hone wale financial loss se suraksha pradan karna",
+        "D": "Loan lena"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Insurance (Bima) ka buniyadi siddhant risk transfer karna hai, jisse kisi anishchit ghatna (uncertain event) se hone wale financial nuksan ki bharpayi ho sake."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Insurance policy mein 'Premium' kya hota hai?",
+      "options": {
+        "A": "Policy mature hone par milne wala paisa",
+        "B": "Insurance cover ke badle customer dwara company ko di jaane wali niyamit rashi",
+        "C": "Claim ke time milne wala paisa",
+        "D": "Policy par milne wala bonus"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Premium woh amount hai jo policyholder, insurance company ko regularly (jaise mahine, saal) pay karta hai taaki uski policy active rahe."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Bharat mein insurance sector ko kaun si sanstha regulate karti hai?",
+      "options": {
+        "A": "RBI (Reserve Bank of India)",
+        "B": "SEBI (Securities and Exchange Board of India)",
+        "C": "IRDAI (Insurance Regulatory and Development Authority of India)",
+        "D": "PFRDA (Pension Fund Regulatory and Development Authority)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "IRDAI, Bharat mein sabhi insurance companies ke kaamkaaj ko niyantrit aur regulate karti hai aur policyholders ke hiton ki raksha karti hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Insurance ke 'Principle of Utmost Good Faith' ka kya matlab hai?",
+      "options": {
+        "A": "Insurance company hamesha sahi hoti hai",
+        "B": "Policyholder aur insurance company dono ko ek doosre ko saari zaroori jaankari sach-sach batani chahiye",
+        "C": "Claim hamesha pass hoga",
+        "D": "Premium hamesha fix rahega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Is siddhant ke anusaar, policy lete samay applicant ko apni health, aadat, aadi se judi sabhi sachchi jaankari company ko deni chahiye, aur company ko policy ke sabhi terms saaf-saaf batane chahiye."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Life Insurance aur General Insurance mein mukhya antar kya hai?",
+      "options": {
+        "A": "Dono ek hi hain",
+        "B": "Life Insurance insaan ke jeevan ka bima karta hai, General Insurance gaadi, ghar, health jaisi cheezon ka karta hai",
+        "C": "Life Insurance sasta hota hai",
+        "D": "General Insurance mein claim nahi milta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Life Insurance, insured व्यक्ति ki death ya disability par cover deta hai. General Insurance non-life assets jaise car, house, ya health se jude risks ko cover karta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "'Sum Assured' ka kya matlab hai?",
+      "options": {
+        "A": "Har mahine diya jaane wala premium",
+        "B": "Policy par milne wala loan",
+        "C": "Woh pehle se tay rashi jo policy ki sharton ke poora hone par (jaise death ya maturity) company deti hai",
+        "D": "Agent ka commission"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sum Assured (Bima Dhan) woh pre-defined amount hai jiska vaada insurance company, policyholder ya uske nominee ko event ke hone par dene ke liye karti hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Insurance mein 'Nominee' kaun hota hai?",
+      "options": {
+        "A": "Insurance agent",
+        "B": "Insurance company ka malik",
+        "C": "Woh व्यक्ति jise policyholder ki death ke baad policy ka paisa milta hai",
+        "D": "Policy ke documents check karne wala"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Nominee woh ��्यक्ति hota hai jise policyholder appoint karta hai taaki uske na rehne par insurance claim ka paisa us व्यक्ति ko mil sake."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "'Principle of Indemnity' kis tarah ke insurance par lagu hota hai?",
+      "options": {
+        "A": "Sirf Life Insurance",
+        "B": "Sirf Accident Insurance",
+        "C": "Sabhi General Insurance jaise Motor, Fire, Health",
+        "D": "Kisi par nahi"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Indemnity ka siddhant kehta hai ki insurance nuksan se pehle wali financial position mein wapas laane ke liye hai, na ki profit kamane ke liye. Yeh life insurance par lagu nahi hota."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Ek 'Policy Document' kya hai?",
+      "options": {
+        "A": "Ek marketing brochure",
+        "B": "Premium ki receipt",
+        "C": "Insurance company aur policyholder ke beech ek legal contract",
+        "D": "Claim form"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Policy Document ek kanooni dastavez hai jismein insurance contract ke sabhi terms, conditions, benefits, aur exclusions likhe hote hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Insurance mein 'risk' ka kya matlab hai?",
+      "options": {
+        "A": "Profit hone ki sambhavna",
+        "B": "Nuksan hone ki anishchitata (uncertainty of loss)",
+        "C": "Premium amount",
+        "D": "Policy ka tenure"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Insurance ke sandarbh mein, risk ka matlab kisi aisi anishchit ghatna se hai jiske hone par financial loss ho sakta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Ek Insurance Agent ka kya role hota hai?",
+      "options": {
+        "A": "Claim settle karna",
+        "B": "Premium decide karna",
+        "C": "Insurance company aur customer ke beech ek madhyasth (intermediary) ka kaam karna",
+        "D": "Policy ke niyam banana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Insurance agent, company ke products ko customer tak pahunchata hai, unhein sahi policy chunne mein madad karta hai aur policy bechta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Reinsurance kya hota hai?",
+      "options": {
+        "A": "Ek hi cheez ka do baar insurance karana",
+        "B": "Jab ek insurance company apne risk ko kam karne ke liye doosri insurance company se insurance karwati hai",
+        "C": "Policy ko renew karna",
+        "D": "Customer ka insurance"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Reinsurance, ya 'insurance for insurers', ek process hai jismein ek insurance company apne dwara liye gaye bade risks ka ek hissa kisi doosri company ko transfer kar deti hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Policy 'Lapse' hone ka kya matlab hai?",
+      "options": {
+        "A": "Policy mature ho gayi hai",
+        "B": "Policy par claim mil gaya hai",
+        "C": "Samay par premium na bharne ke kaaran policy ka band ho jaana",
+        "D": "Policy mein nominee badalna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Agar policyholder due date aur grace period ke andar premium ka bhugtan nahi karta hai, toh policy inactive ho jaati hai, jise policy lapse hona kehte hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Moral Hazard in insurance kya hai?",
+      "options": {
+        "A": "Customer ka achha vyavhaar",
+        "B": "Insurance hone ke baad, insured व्यक्ति ka laparwah (careless) ho jaana",
+        "C": "Agent ka achha kaam",
+        "D": "Company ka profit"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Moral Hazard ek aisi sthiti hai jahan insurance cover hone ke kaaran ek व्यक्ति risk ke prati kam savdhan ho jaata hai, kyunki use pata hai ki nuksan ki bharpayi insurance company karegi."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Inmein se kaun sa general insurance ka prakar hai?",
+      "options": {
+        "A": "Term Plan",
+        "B": "Endowment Plan",
+        "C": "Motor Insurance",
+        "D": "ULIP"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Motor Insurance (car, bike ka bima) General Insurance ya Non-Life Insurance ke antargat aata hai. Baaki sabhi Life Insurance products hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "IRDAI ka mukhya kaaryalay (Head Office) kahan hai?",
+      "options": {
+        "A": "Mumbai",
+        "B": "Delhi",
+        "C": "Hyderabad",
+        "D": "Chennai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Insurance Regulatory and Development Authority of India (IRDAI) ka head office Hyderabad, Telangana mein sthit hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Underwriting process mein kya kiya jaata hai?",
+      "options": {
+        "A": "Policy bechi jaati hai",
+        "B": "Claim ka paisa diya jaata hai",
+        "C": "Insurance proposal ko assess karke risk ka mulyankan kiya jaata hai",
+        "D": "Marketing ki jaati hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Underwriting woh process hai jismein insurance company, applicant dwara di gayi jaankari ke aadhar par uske risk ko evaluate karti hai aur tay karti hai ki use policy deni hai ya nahi, aur deni hai toh kis premium par."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Term Insurance plan ka mukhya benefit kya hai?",
+      "options": {
+        "A": "Policy term ke baad paisa wapas milta hai",
+        "B": "Kam premium mein zyada life cover milta hai",
+        "C": "Yeh ek investment plan hai",
+        "D": "Is par loan mil sakta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Term Insurance ek pure protection plan hai. Iska mukhya labh yeh hai ki aap bahut kam premium dekar ek bada life cover (Sum Assured) le sakte hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Endowment Plan mein kya hota hai?",
+      "options": {
+        "A": "Sirf death par paisa milta hai",
+        "B": "Policyholder ki death par ya policy ke mature hone par, jo bhi pehle ho, paisa milta hai",
+        "C": "Yeh sirf ek saal ke liye hota hai",
+        "D": "Ismein koi risk cover nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Endowment Plan, insurance aur savings ka combination hai. Ismein death benefit ke saath-saath maturity benefit bhi hota hai, yaani agar policyholder term poora hone tak jeevit rehta hai toh use paisa wapas milta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Motor Insurance mein 'Third-Party' cover kya cover karta hai?",
+      "options": {
+        "A": "Apni gaadi ko hua nuksan",
+        "B": "Gaadi ke chori ho jaane ka nuksan",
+        "C": "Aapki gaadi se kisi teesre વ્યક્તિ (person) ya uski property ko hua nuksan",
+        "D": "Driver ko lagi chot"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Third-Party Insurance, kanoon anivaarya hai. Yeh aapki vajah se kisi doosre व्यक्ति ya uski sampatti ko hue nuksan ko cover karta hai, aapki apni gaadi ko nahi."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "'Comprehensive' Motor Insurance policy mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf Third-Party cover",
+        "B": "Sirf apni gaadi ka nuksan (Own Damage)",
+        "C": "Third-Party cover aur Own Damage cover dono",
+        "D": "Sirf chori ka cover"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Comprehensive policy ek package policy hai jismein Third-Party liability ke saath-saath aapki apni gaadi ko accident, chori, aag ya prakritik aapda se hone wale nuksan ka cover bhi shamil hota hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Health Insurance mein 'Cashless Claim' ka kya matlab hai?",
+      "options": {
+        "A": "Patient ko saara paisa cash mein milta hai",
+        "B": "Insurance company, network hospital ko treatment ka bill direct pay kar deti hai",
+        "C": "Patient pehle payment karta hai aur baad mein paisa wapas leta hai",
+        "D": "Ismein koi claim nahi milta"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cashless facility mein, agar aap insurance company ke network hospital mein ilaj karate hain, toh aapko bill pay nahi karna padta. Company seedhe hospital ke saath bill settle kar leti hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Health Insurance mein 'Waiting Period' kya hota hai?",
+      "options": {
+        "A": "Policy kharidne ka samay",
+        "B": "Policy lene ke baad ka woh shuruaati samay jiske dauraan kuch bimariyan cover nahi hoti",
+        "C": "Claim process hone mein lagne wala samay",
+        "D": "Hospital mein admit hone ka samay"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waiting Period policy shuru hone ke baad ka ek nishchit time hota hai (jaise 30 din ya 2-4 saal kuch bimariyon ke liye), jiske dauraan aap un specific conditions ke liye claim nahi kar sakte."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Insurance claim file karne ke liye sabse pehla kadam kya hai?",
+      "options": {
+        "A": "Police ko bulana",
+        "B": "Insurance company ko jald se jald ghatna ki soochana dena (Intimation)",
+        "C": "Media ko batana",
+        "D": "Agent ko gussa karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi tarah ka loss ya ghatna hone par, sabse pehla aur zaroori kaam hai ki policy ke niyam anusaar insurance company ko turant iski jaankari di jaaye."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Claim process mein 'Surveyor' ka kya role hota hai?",
+      "options": {
+        "A": "Policy bechna",
+        "B": "Nuksan ka aakalan (assessment) karna aur uski report company ko dena",
+        "C": "Customer se premium collect karna",
+        "D": "Hospital mein admit karana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Surveyor ek independent professional hota hai jise insurance company, nuksan (jaise car accident) ki jaanch karne aur uski value ka pata lagane ke liye appoint karti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "ULIP ka poora naam kya hai?",
+      "options": {
+        "A": "Universal Life Insurance Plan",
+        "B": "Unified Loan and Investment Plan",
+        "C": "Unit Linked Insurance Plan",
+        "D": "Unique Life Investment Policy"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "ULIP ka full form Unit Linked Insurance Plan hai. Yeh ek aisa product hai jo insurance aur investment dono ka fayda deta hai. Ismein premium ka ek hissa market (equity/debt) mein invest hota hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Motor Insurance mein 'No Claim Bonus' (NCB) kya hai?",
+      "options": {
+        "A": "Claim lene par milne wala bonus",
+        "B": "Policy renewal ke samay premium par milne wali chhoot (discount) agar pichle saal koi claim na liya ho",
+        "C": "Agent ko milne wala bonus",
+        "D": "Gaadi ki keemat badh jaana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "NCB ek reward hai jo insurance company un drivers ko deti hai jinhone policy year mein koi claim nahi kiya hota. Yeh renewal premium par discount ke roop mein milta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Life insurance claim ke liye kaun sa document sabse zaroori hai?",
+      "options": {
+        "A": "Ration Card",
+        "B": "Death Certificate",
+        "C": "Birth Certificate",
+        "D": "Marriage Certificate"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Life insurance mein death claim ke liye, insured person ka Death Certificate, jo sarkari authority dwara jaari kiya gaya ho, sabse mahatvapurna dastavez hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "'Free Look Period' in insurance kya hota hai?",
+      "options": {
+        "A": "Woh samay jismein aap bina premium diye policy le sakte hain",
+        "B": "Policy document milne ke baad 15 din ka samay jismein aap policy cancel kar sakte hain agar aap uske terms se sehmat nahi hain",
+        "C": "Claim file karne ka samay",
+        "D": "Policy renew karne ka samay"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "IRDAI ke niyam anusaar, policyholder ko policy document prapt hone ke 15 dinon ka samay milta hai. Agar woh policy ke niyam aur sharton se khush nahi hai, toh woh ise cancel karwa sakta hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Travel Insurance aamtaur par kya cover nahi karta hai?",
+      "options": {
+        "A": "Flight cancel hona",
+        "B": "Samaan (luggage) kho jaana",
+        "C": "Videsh mein medical emergency",
+        "D": "Pehle se maujood bimari (Pre-existing disease) ka ilaaj"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Zyadatar travel insurance policies, yatra shuru karne se pehle se maujood bimariyon ke karan hone wale medical kharchon ko cover nahi karti hain, jab tak ki use khaas taur par cover na kiya gaya ho."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Crop Insurance (Fasal Bima) kise suraksha pradan karta hai?",
+      "options": {
+        "A": "Shehri logon ko",
+        "B": "Kisanon ko",
+        "C": "Factory malikon ko",
+        "D": "Bank employees ko"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Crop Insurance kisanon ki faslon ko sookha, baadh, ya anya prakritik aapdaon se hone wale nuksan se bachane ke liye design kiya gaya hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Personal Accident Insurance policy kab claim deti hai?",
+      "options": {
+        "A": "Bimari se death hone par",
+        "B": "Durghatna (accident) ke karan death ya disability hone par",
+        "C": "Natural death hone par",
+        "D": "Job chhoot jaane par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh policy sirf accident ke kaaran hone wali maut, sthayi (permanent) ya asthayi (temporary) apangta (disability) ko cover karti hai, na ki bimari se hone wali maut ko."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Claim repudiation ka kya matlab hai?",
+      "options": {
+        "A": "Claim ka pass ho jaana",
+        "B": "Claim amount mil jaana",
+        "C": "Insurance company dwara claim ko reject kar dena",
+        "D": "Claim process mein hona"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Jab insurance company policy ke niyam aur sharton ka ullanghan (jaise galat jaankari dena) paaye jaane par customer ke claim ko dene se mana kar deti hai, use claim repudiation kehte hain."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Bank mein customer service ka kya mahatva hai?",
+      "options": {
+        "A": "Isse koi fark nahi padta",
+        "B": "Yeh customer ka vishwas banata hai aur bank ki reputation badhata hai",
+        "C": "Yeh sirf naye customer laane ke liye hai",
+        "D": "Yeh bank ka kharcha badhata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Achhi customer service se customer santusht rehte hain, bank par unka bharosa badhta hai aur bank ki image market mein achhi hoti hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Agar ek customer bank ki service se khush nahi hai, toh use sabse pehle kahan shikayat karni chahiye?",
+      "options": {
+        "A": "Seedhe RBI ke paas",
+        "B": "Police station mein",
+        "C": "Usi bank ke Branch Manager ya Grievance Redressal Officer ke paas",
+        "D": "Social media par post karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Shikayat nivaran ka pehla kadam hamesha usi service provider (bank) ke paas shikayat darj karana hota hai. Iske liye har branch mein ek system hota hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Banking Ombudsman kaun hai?",
+      "options": {
+        "A": "Bank ka CEO",
+        "B": "Ek sarkari neta",
+        "C": "RBI dwara niyukt ek adhikari jo bank customers ki shikayaton ka samadhan karta hai",
+        "D": "Ek private detective"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Banking Ombudsman (Lokpal) ek quasi-judicial authority hai jo bank aur customer ke beech vivadon ko suljhata hai, jab bank customer ki shikayat ka samadhan nahi kar paata."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Ek customer service executive mein kaun si quality sabse zaroori hai?",
+      "options": {
+        "A": "Jaldi gussa hona",
+        "B": "Achha sunne wala aur dhairya wala hona (Good listener and patient)",
+        "C": "Sirf apne target poore karna",
+        "D": "Customer ki baat na sunna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ki samasya ko dhyaan se sunna aur shaanti se uska samadhan nikalna, ek achhe customer service professional ki sabse badi pehchan hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "IRDAI ka ek mukhya kaam policyholder ke liye kya hai?",
+      "options": {
+        "A": "Policyholders ke hiton ki raksha karna",
+        "B": "Insurance companies ka profit badhana",
+        "C": "Nayi insurance companies kholna",
+        "D": "Premium rates ko badhana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "IRDAI ka ek pramukh uddeshya yeh sunishchit karna hai ki insurance companies, policyholders ke saath fair aur transparent tarike se vyavhaar karein."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Insurance policy bechte samay, galat ya jhoothi jaankari dena kya kehlata hai?",
+      "options": {
+        "A": "Good salesmanship",
+        "B": "Misselling",
+        "C": "Customer service",
+        "D": "Underwriting"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab koi agent ya bank employee customer ki zaroorat ko samjhe bina ya product ke baare mein galat jaankari dekar policy bechta hai, toh use Misselling kehte hain. Yeh ek anuchit pratha hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Ek gusse wale customer ko handle karne ka sabse achha tarika kya hai?",
+      "options": {
+        "A": "Usse bhi zyada gusse mein baat karna",
+        "B": "Uski baat ko ignore karna",
+        "C": "Shaanti se uski poori baat sunna aur samasya ko samjhne ki koshish karna",
+        "D": "Phone kaat dena ya usse jaane ko kehna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Gusse wale customer ko shaant karne ka sabse prabhavi tarika hai ki aap use bolne dein, uski samasya ko samjhein aur use yeh ehsaas dilayein ki aap uski madad karne ke liye hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Customer Relationship Management (CRM) ka banking mein kya matlab hai?",
+      "options": {
+        "A": "Sirf naye customer banana",
+        "B": "Customers ke saath long-term relationship banana aur maintain karna",
+        "C": "Shikayat register karna",
+        "D": "Cash manage karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CRM ek strategy hai jiske zariye bank apne maujooda aur naye customers ke saath behtar sambandh banata hai, unki zarooraton ko samajhta hai aur unhein behtar service deta hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Financial Literacy ka kya arth hai?",
+      "options": {
+        "A": "Bank mein job karna",
+        "B": "Banking aur financial products ko samajhne aur sahi nirnay lene ki yogyata",
+        "C": "Sirf paisa bachana",
+        "D": "Stock market mein invest karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vittiya Saksharta (Financial Literacy) ka matlab hai alag-alag financial concepts jaise budgeting, saving, investing, aur debt ko samajhne ki kshamta, taaki log apne paise ke baare mein sahi faisle le sakein."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar insurance company 30 din ke andar aapki shikayat nahi suljhati, toh aap kahan jaa sakte hain?",
+      "options": {
+        "A": "Police Station",
+        "B": "Insurance Ombudsman",
+        "C": "Bank",
+        "D": "Kahin nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar insurance company aapki shikayat par santoshjanak jawab nahi deti ya 30 din mein koi jawab hi nahi deti, to aap Insurance Ombudsman ke paas apni shikayat le jaa sakte hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "RBI ki 'Clean Note Policy' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf naye note istemal karna",
+        "B": "Janta ko saaf-suthre currency notes uplabdh karana aur gande-phate noton ko चलन se hatana",
+        "C": "Noton par likhne ki anumati dena",
+        "D": "Plastic ke note chalana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Is policy ka uddeshya hai ki logon ko achhi quality ke currency notes milen. Iske tehat noton par kuch bhi likhne, staple karne ya unhe ganda karne se mana kiya jaata hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Cross-selling in banking ka kya matlab hai?",
+      "options": {
+        "A": "Ek bank product ke khilaf doosra product bechna",
+        "B": "Ek maujooda customer ko ek naya ya alag product bechna",
+        "C": "Doosre bank ke customer ko apna product bechna",
+        "D": "Product ko discount par bechna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cross-selling ka matlab hai apne existing customer, jo pehle se ek product (jaise Savings Account) istemal kar raha hai, ko doosra product (jaise Credit Card ya Insurance) bechna."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Bank mein 'Confidentiality' (Gopniyata) ke niyam ka kya arth hai?",
+      "options": {
+        "A": "Customer ki jaankari kisi se bhi share karna",
+        "B": "Customer ke account ki jaankari ko surakshit aur gupt rakhna",
+        "C": "Sirf sarkari agencies se jaankari share karna",
+        "D": "Yeh niyam zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bank ka yeh kartavya hai ki woh apne customer ki financial aur personal information ko poori tarah se gupt rakhe aur bina customer ki anumati ke kisi anadhikrit व्यक्ति se share na kare."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Banking Codes and Standards Board of India (BCSBI) ka mukhya uddeshya kya tha?",
+      "options": {
+        "A": "Bankon ke liye niyam banana",
+        "B": "Customer ke liye banking services ke standards tay karna aur unki nigrani karna",
+        "C": "Loan recover karna",
+        "D": "ATM lagwana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "BCSBI ek independent body thi jiska kaam customer ke prati bankon ki sewaon mein transparency aur fairness badhane ke liye voluntary codes aur standards set karna tha. (Note: Ab yeh sanstha karyaarat nahi hai, par iska concept mahatvapurna hai)."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Insurance Ombudsman ke paas shikayat karne ke liye koi fees lagti hai?",
+      "options": {
+        "A": "Haan, ek choti si fees lagti hai",
+        "B": "Nahi, yeh ek free service hai",
+        "C": "Fees claim amount par depend karti hai",
+        "D": "Sirf lawyer ke through jaane par fees lagti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Policyholders, Insurance Ombudsman ke paas bina kisi shulk ya fees ke apni shikayat darj karwa sakte hain. Yeh poori tarah se ek nishulk sewa hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek bank employee ko customer se baat karte samay kaisa व्यवहार karna chahiye?",
+      "options": {
+        "A": "Rude aur unhelpful",
+        "B": "Professional, polite, aur helpful",
+        "C": "Jaldi mein aur laparwahi se",
+        "D": "Customer ki personal baaton mein zyada interest lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek bank employee ko hamesha vinamra (polite), peshevar (professional) aur sahayak (helpful) rehna chahiye, jisse customer ka anubhav achha ho aur bank ki chhavi behtar bane."
+    }
+  ]
+}

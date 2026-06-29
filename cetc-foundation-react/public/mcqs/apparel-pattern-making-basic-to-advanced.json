@@ -1,0 +1,1443 @@
+{
+  "course_name": "Apparel Pattern Making — Basic to Advanced",
+  "sector": "Apparel Design, Pattern Making & Fashion Technology",
+  "level": "Intermediate",
+  "duration": "4 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Pattern Making & Tools",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Basic Block Patterns & Dart Manipulation",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Garment Components & Pattern Development",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Grading & Advanced Pattern Adjustments",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Digital Pattern Making & CAD",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Production Pattern Making & Quality Control",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Body measurements lete samay 'full length' generally kahaan se kahaan tak li jaati hai?",
+      "options": {
+        "A": "Shoulder se waist tak",
+        "B": "Neckline se hem tak",
+        "C": "Shoulder se ankle tak",
+        "D": "High point shoulder (HPS) se desired hem tak"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Full length measurement HPS (High Point Shoulder) se shuru hokar garment ki desired hemline tak li jaati hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Pattern making ke liye kaun sa tool fabric grainline ko mark karne mein help karta hai?",
+      "options": {
+        "A": "Tracing wheel",
+        "B": "Awl",
+        "C": "L-square",
+        "D": "Notcher"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "L-square straight lines aur right angles banane mein help karta hai, jo grainline ko accurately mark karne ke liye essential hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Seam allowance kya hota hai aur iska kya purpose hai?",
+      "options": {
+        "A": "Yeh fabric ka woh hissa hai jise cutting ke baad trim kar dete hain.",
+        "B": "Yeh stitching line aur cutting edge ke beech ka distance hai, jo garment ko seam karne ke liye use hota hai.",
+        "C": "Yeh garment ko body par adjust karne ke liye extra fabric hai.",
+        "D": "Yeh design details add karne ke liye extra fabric hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Seam allowance stitching line aur cutting edge ke beech ka distance hota hai, jo garment parts ko ek saath stitch karne ke liye provide kiya jaata hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Pattern paper par 'grainline' kis direction ko indicate karta hai?",
+      "options": {
+        "A": "Crosswise direction",
+        "B": "Bias direction",
+        "C": "Lengthwise direction (warp) of the fabric",
+        "D": "Parallel to the selvage"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Grainline pattern piece par fabric ke lengthwise grain (warp) ki direction ko indicate karta hai, jo garment drape aur stability ke liye crucial hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek 'basic block' ya 'sloper' kya hota hai?",
+      "options": {
+        "A": "Ek specific garment ka complete pattern.",
+        "B": "Ek fitting garment jo customer ke liye banaya gaya ho.",
+        "C": "Ek fitted basic pattern without any design features, jo naye styles develop karne ke liye foundation provide karta hai.",
+        "D": "Ek pattern jo sirf mock-up banane ke liye use hota hai."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Basic block ya sloper ek fitted basic pattern hota hai jismein koi design features nahi hote, aur yeh naye garment styles develop karne ke liye ek foundation ke roop mein kaam karta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Pattern ko fabric par place karte samay kya ensure karna sabse important hai?",
+      "options": {
+        "A": "Fabric ki right side up ho.",
+        "B": "Pattern pieces fabric par evenly distributed hon.",
+        "C": "Grainline fabric ke lengthwise grain ke parallel ho.",
+        "D": "Seam allowances correct hon."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Grainline ko fabric ke lengthwise grain ke parallel align karna garment ke drape, fit aur stability ke liye sabse important hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "'Ease' ka kya matlab hai pattern making mein?",
+      "options": {
+        "A": "Fabric ki stretchability.",
+        "B": "Garment mein extra fabric jo movement aur comfort ke liye provide kiya jaata hai.",
+        "C": "Pattern mein design details add karna.",
+        "D": "Seam allowance ko smoothly curve karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ease woh extra fabric hota hai jo garment mein movement, comfort aur style ke liye add kiya jaata hai, body measurement se zyada."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Kaun sa tool curved lines jaise armhole ya neckline ko draft karne ke liye use hota hai?",
+      "options": {
+        "A": "Straight ruler",
+        "B": "Hip curve",
+        "C": "Tracing wheel",
+        "D": "Awl"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hip curve aur French curve jaise tools curved lines ko smoothly draft karne ke liye use hote hain, jaise armhole, neckline aur side seams."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Jab ek pattern 'on fold' cut kiya jaata hai, toh pattern par kaun sa symbol isse indicate karta hai?",
+      "options": {
+        "A": "Grainline arrow",
+        "B": "Notches",
+        "C": "A double-ended arrow with a folded edge symbol",
+        "D": "Drill hole"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Ek double-ended arrow jiske beech mein ek folded edge ka symbol hota hai, woh indicate karta hai ki pattern piece ko fabric fold par place karke cut karna hai, taaki symmetrically mirror image ban sake."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek 'tracing wheel' ka primary function kya hai?",
+      "options": {
+        "A": "Fabric ko cut karna",
+        "B": "Pattern markings ko fabric par transfer karna",
+        "C": "Seam allowance ko measure karna",
+        "D": "Curved lines draw karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tracing wheel ka use pattern markings (jaise darts, seam lines, pocket placements) ko pattern paper se fabric par ya ek pattern piece se doosre par transfer karne ke liye hota hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Pattern making mein 'notches' ka kya role hai?",
+      "options": {
+        "A": "Design details add karna",
+        "B": "Fabric ko cut karne ke liye guide karna",
+        "C": "Garment pieces ko accurately align aur join karne ke liye match points provide karna",
+        "D": "Seam allowance ko reduce karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Notches small cuts ya marks hote hain jo pattern pieces par banaye jaate hain taaki stitching ke dauraan corresponding pieces ko accurately match aur align kiya ja sake."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Kaun sa measurement 'chest/bust circumference' ke liye liya jaata hai?",
+      "options": {
+        "A": "Shoulder width",
+        "B": "Waist circumference",
+        "C": "Poore chest ke around, sabse fullest part par",
+        "D": "Underarm se underarm tak"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bust circumference poore chest ke around, sabse fullest part par, tape measure ko horizontal rakhte hue liya jaata hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Pattern making mein 'balance marks' ka kya significance hai, especially curved seams mein?",
+      "options": {
+        "A": "Yeh design aesthetics ko enhance karte hain.",
+        "B": "Yeh indicate karte hain ki kahan par fabric ko gather karna hai.",
+        "C": "Yeh ensure karte hain ki do corresponding curved seams ki length aur shape match karein, stitching ke dauraan stretching ko prevent karte hue.",
+        "D": "Yeh fabric ki right side ko mark karte hain."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Balance marks (ya notches) curved seams par evenly spaced points hote hain jo ensure karte hain ki do corresponding curved pieces ko accurately stitch kiya ja sake, uneven stretching ya gathering se bachne ke liye."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek 'production pattern' ek 'sample pattern' se kaise differ karta hai?",
+      "options": {
+        "A": "Production pattern mein koi seam allowance nahi hota.",
+        "B": "Production pattern mein detailed sewing instructions aur grading information hoti hai, jo mass production ke liye optimized hoti hai.",
+        "C": "Sample pattern zyada accurate hota hai.",
+        "D": "Production pattern sirf ek size mein banaya jaata hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Production pattern sample pattern se zyada detailed hota hai. Ismein complete seam allowances, notches, drill holes, grainlines, aur grading information shamil hoti hai, jo manufacturing efficiency aur consistency ke liye zaroori hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Pattern weights ka use kisliye kiya jaata hai?",
+      "options": {
+        "A": "Fabric ko cut karne ke liye",
+        "B": "Pattern ko fabric par hold karne ke liye without pinning",
+        "C": "Seam allowance ko press karne ke liye",
+        "D": "Measurements ko mark karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pattern weights pattern pieces ko fabric par hold karne ke liye use hote hain, especially delicate fabrics par, taaki pinning se hone wale holes se bacha ja sake aur fabric stable rahe."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "'Muslin' ya 'toile' ka kya purpose hai pattern development process mein?",
+      "options": {
+        "A": "Final garment banane ke liye",
+        "B": "Pattern ki fit aur style ko test karne ke liye ek prototype banane ke liye",
+        "C": "Fabric ki shrink test karne ke liye",
+        "D": "Embroidery ke liye base fabric provide karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Muslin ya toile ek inexpensive fabric se banaya gaya prototype hota hai, jise pattern ki fit, drape aur design ko test aur refine karne ke liye use kiya jaata hai final fabric cut karne se pehle."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Pattern making mein 'drafting' ka kya matlab hai?",
+      "options": {
+        "A": "Existing garment se pattern copy karna",
+        "B": "Measurements aur calculations ka use karke scratch se pattern create karna",
+        "C": "Computer software ka use karke pattern banana",
+        "D": "Pattern ko alter karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drafting ka matlab hai measurements aur established principles ka use karke scratch se pattern banana."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Basic bodice block mein 'bust dart' ka primary function kya hai?",
+      "options": {
+        "A": "Garment ko style dena",
+        "B": "Fabric ko bust contour par fit karna",
+        "C": "Seam allowance ko adjust karna",
+        "D": "Armhole ki shape banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bust dart bust ke roundness ko accommodate karke garment ko body contour par smoothly fit karne mein help karta hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Dart manipulation ke do main methods kaun se hain?",
+      "options": {
+        "A": "Cutting aur gluing",
+        "B": "Tracing aur copying",
+        "C": "Pivot method aur Slash-and-Spread method",
+        "D": "Drafting aur grading"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Dart manipulation ke do primary methods pivot method (ya swivel method) aur slash-and-spread method hain, jinka use darts ko relocate ya unko design features mein convert karne ke liye hota hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Ek basic skirt block mein 'waist dart' kisliye use hota hai?",
+      "options": {
+        "A": "Skirt ki length adjust karne ke liye",
+        "B": "Waistline ko hip contour par fit karne ke liye",
+        "C": "Pocket placement ke liye",
+        "D": "Hemline ko shape dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waist dart waistline ki circumference ko hip contour par smoothly fit karne ke liye excess fabric ko remove karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "'Slash-and-spread' method ka use karke dart ko gathers mein convert karte samay, aap kya karte hain?",
+      "options": {
+        "A": "Dart ko stitch karte hain.",
+        "B": "Dart legs ko cut karte hain aur spread karte hain, fir gathers create karte hain.",
+        "C": "Dart ko fold karte hain aur tape karte hain.",
+        "D": "Dart ko poori tarah se eliminate kar dete hain."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Slash-and-spread method mein dart legs ko cut kiya jaata hai aur unhein spread karke gathers ya pleats ke liye space create kiya jaata hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Agar aapko ek shoulder dart ko side seam mein relocate karna hai, toh aap kis method ka use karenge?",
+      "options": {
+        "A": "Sirf dart ko fold kar denge.",
+        "B": "Pivoting method ka use karke dart point ko pivot karenge.",
+        "C": "Dart ko cut karke naya dart draw karenge.",
+        "D": "Garment ko directly cut kar denge."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pivoting method mein pattern ko ek specific point (jaise bust point) par pivot kiya jaata hai, jisse dart ko smoothly relocate kiya ja sake without altering the fit."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Ek basic sleeve block mein 'ease' kahan provide kiya jaata hai aur kisliye?",
+      "options": {
+        "A": "Cuff par, styling ke liye.",
+        "B": "Underarm par, movement ke liye.",
+        "C": "Sleeve cap par, armhole mein smooth fit aur movement ke liye.",
+        "D": "Hem par, length adjustment ke liye."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Sleeve cap par ease provide kiya jaata hai taaki sleeve armhole mein smoothly fit ho sake aur arm movement ke liye sufficient space mile, bina pulling ya tightness ke."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Basic bodice block mein 'waist dart' kahan located hota hai?",
+      "options": {
+        "A": "Shoulder par",
+        "B": "Side seam par",
+        "C": "Front aur back bodice ke waistline par",
+        "D": "Armhole par"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Waist darts front aur back bodice pieces ke waistline par located hote hain, jo waist contour ko shape dene mein help karte hain."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Agar aapko ek dart ko 'style line' mein convert karna hai, toh aap kya karenge?",
+      "options": {
+        "A": "Dart ko simply stitch kar denge.",
+        "B": "Dart legs ko cut karke ek naya seam create karenge.",
+        "C": "Dart ko fold karke uspar design draw karenge.",
+        "D": "Dart ko poori tarah se ignore kar denge."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dart ko style line mein convert karne ke liye, dart legs ko cut kiya jaata hai aur naya seam allowance add karke ek decorative ya functional seam banaya jaata hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Basic skirt block drafting mein, 'waist circumference' ke saath kaun sa measurement aur use hota hai?",
+      "options": {
+        "A": "Bust circumference",
+        "B": "Hip circumference",
+        "C": "Sleeve length",
+        "D": "Shoulder width"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Basic skirt block drafting ke liye waist aur hip circumference measurements sabse important hain, kyunki skirt ko in do points ke beech fit karna hota hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Ek 'two-piece sleeve block' 'one-piece sleeve block' se kaise differ karta hai?",
+      "options": {
+        "A": "Two-piece sleeve zyada loose hota hai.",
+        "B": "Two-piece sleeve mein elbow area par zyada shaping aur better fit hota hai, jo tailored garments ke liye ideal hai.",
+        "C": "One-piece sleeve mein zyada ease hota hai.",
+        "D": "Two-piece sleeve sirf casual garments ke liye use hota hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Two-piece sleeve mein do separate pieces hote hain jo elbow aur arm ke natural curve ko better accommodate karte hain, resulting in a more tailored aur comfortable fit, especially for jackets aur coats."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Dart ke 'apex' ya 'bust point' ko mark karna kisliye important hai?",
+      "options": {
+        "A": "Garment ki length adjust karne ke liye.",
+        "B": "Dart ko accurately shape aur position karne ke liye, taaki garment body contour par smoothly fit ho.",
+        "C": "Pocket placement ke liye.",
+        "D": "Seam allowance ko add karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dart apex ya bust point dart ki location aur direction ko define karta hai. Isse garment body ke fullest point par accurately fit hota hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Agar aapko ek basic bodice block mein 'fullness' add karni hai, jaise ki gathers ya pleats, toh aap dart ko kaise manipulate karenge?",
+      "options": {
+        "A": "Dart ko fold karke tape kar denge.",
+        "B": "Dart ko stitch kar denge.",
+        "C": "Dart ko slash-and-spread method se open karenge aur uski fullness ko gathers ya pleats mein convert karenge.",
+        "D": "Dart ko eliminate kar denge."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Fullness add karne ke liye, dart ko slash-and-spread method se open kiya jaata hai. Jo space create hota hai, use gathers, pleats, ya ruffles mein convert kiya ja sakta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Basic block patterns ko 'slopers' bhi kehte hain. Inka kya advantage hai?",
+      "options": {
+        "A": "Yeh directly production ke liye use hote hain.",
+        "B": "Yeh designer ko consistent fit aur proportions ke saath naye designs develop karne ki flexibility dete hain.",
+        "C": "Yeh sirf casual wear ke liye use hote hain.",
+        "D": "Yeh fabric waste ko badhate hain."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slopers ek standardized fit provide karte hain, jisse designers naye styles develop karte samay fit ko baar-baar test karne ki zaroorat nahi padti aur woh design par focus kar sakte hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Sleeve block mein 'bicep line' kahan hoti hai?",
+      "options": {
+        "A": "Sleeve cap par",
+        "B": "Sleeve ke bottom hem par",
+        "C": "Sleeve ke widest point par, armpit ke neeche",
+        "D": "Elbow par"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bicep line sleeve block ke widest point par hoti hai, jo armpit ke neeche ke area ko represent karti hai, aur yeh sleeve ki circumference determine karti hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Dart manipulation ke through 'princess seam' kaise create ki jaati hai?",
+      "options": {
+        "A": "Dart ko stitch karke.",
+        "B": "Shoulder aur waist darts ko combine karke ek continuous curved seam banakar.",
+        "C": "Dart ko gathers mein convert karke.",
+        "D": "Dart ko ignore karke."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Princess seam shoulder dart aur waist dart ko combine karke ek single, continuous curved seam banati hai jo bust ke upar se waist tak jaati hai, providing a shapely fit."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Ek 'basic block' mein koi 'seam allowance' kyu nahi add kiya jaata?",
+      "options": {
+        "A": "Taki fabric waste kam ho.",
+        "B": "Kyunki yeh sirf fitting ke liye hota hai aur final garment nahi.",
+        "C": "Taki design alterations easily ki ja sakein aur seam allowance baad mein add kiya ja sake.",
+        "D": "Yeh ek old tradition hai."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Basic blocks mein seam allowance nahi hota taaki design alterations aur dart manipulations easily ki ja sakein without affecting the seam lines. Seam allowance final pattern par add kiya jaata hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "'Contour darts' kya hote hain aur unka kya use hai?",
+      "options": {
+        "A": "Yeh regular darts hain jo zyada fabric remove karte hain.",
+        "B": "Yeh small, shallow darts hote hain jo body ke subtle curves ko shape karne ke liye use hote hain, jaise underbust ya shoulder blade area.",
+        "C": "Yeh sirf decorative purposes ke liye hote hain.",
+        "D": "Yeh darts hain jo gathers mein convert ho jaate hain."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Contour darts small aur shallow darts hote hain jo body ke subtle curves ko accurately fit karne ke liye use hote hain, jaise underbust, shoulder blade, ya elbow area, jahan regular darts too prominent honge."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Ek 'Peter Pan collar' kis type ka collar hai?",
+      "options": {
+        "A": "Stand collar",
+        "B": "Rolled collar",
+        "C": "Flat collar",
+        "D": "Shirt collar"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Peter Pan collar ek flat collar hai jo neckline par flat rehta hai aur uski edges round hoti hain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Ek 'patch pocket' ka pattern develop karte samay kaun si cheez sabse important hai?",
+      "options": {
+        "A": "Pocket ko curved shape dena.",
+        "B": "Pocket opening par facing ya hem allowance add karna.",
+        "C": "Pocket ko garment ke inside attach karna.",
+        "D": "Pocket ko invisible banana."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Patch pocket ke pattern mein pocket opening par facing ya hem allowance add karna zaroori hai taaki opening clean aur finished lage, aur pocket durable ho."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Ek 'Mandarin collar' ki kya characteristic hai?",
+      "options": {
+        "A": "Yeh foldover collar hota hai.",
+        "B": "Yeh ek stand-up collar hai jismein koi fall nahi hota.",
+        "C": "Yeh bahut wide hota hai.",
+        "D": "Yeh ek flat collar hai."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mandarin collar ek stand-up collar hota hai jo neckline ke around khada rehta hai aur usmein koi fold-over (fall) nahi hota."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Ek 'welt pocket' pattern banane ke liye kis technique ka use kiya jaata hai, jismein pocket opening fabric ke andar chupi hoti hai?",
+      "options": {
+        "A": "Patch pocket technique",
+        "B": "In-seam pocket technique",
+        "C": "Flap pocket technique",
+        "D": "A detailed slashing aur manipulating technique jismein pocket bag aur welts ko carefully integrate kiya jaata hai."
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Welt pocket ek complex pocket type hai jismein pocket opening ek narrow strip (welt) se cover hoti hai aur pocket bag garment ke andar chupa hota hai. Iske pattern mein precise slashing aur welts aur pocket bag pieces ko integrate karna zaroori hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Ek 'shirt placket' ka pattern develop karte samay, button stand aur buttonhole stand ke beech kya difference hota hai?",
+      "options": {
+        "A": "Dono same hote hain.",
+        "B": "Button stand wider hota hai buttonhole stand se.",
+        "C": "Buttonhole stand mein extra fabric hota hai buttonholes ke liye, aur button stand ke paas buttons ke liye allowance hota hai.",
+        "D": "Button stand mein koi facing nahi hoti."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Buttonhole stand mein buttonholes ke liye proper width aur button stand mein buttons ko attach karne ke liye sufficient margin hona chahiye. Often, buttonhole stand thoda wider hota hai ya usmein extra facing hoti hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Ek 'cuff' ka pattern banate samay, kaun sa measurement sabse important hai?",
+      "options": {
+        "A": "Bicep circumference",
+        "B": "Wrist circumference",
+        "C": "Sleeve length",
+        "D": "Shoulder width"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cuff ka pattern wrist circumference ke hisaab se banaya jaata hai, usmein ease aur closure ke liye allowance add karke."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "'Gathers' create karne ke liye pattern par kya indication hota hai?",
+      "options": {
+        "A": "Darts",
+        "B": "Notches jo indicate karte hain ki fabric ko ek chote area mein compress karna hai.",
+        "C": "Buttonholes",
+        "D": "Grainline"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gathers create karne ke liye, pattern par notches ya lines indicate karte hain ki ek bade segment of fabric ko ek chote segment mein compress karna hai, jisse soft folds create hon."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Ek 'in-seam pocket' kahan attached hota hai?",
+      "options": {
+        "A": "Garment ke front par",
+        "B": "Garment ke back par",
+        "C": "Side seam ya kisi aur seam line mein",
+        "D": "Garment ke hem par"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In-seam pocket garment ke side seam ya kisi aur seam line mein integrate kiya jaata hai, jisse woh discreetly chupa rehta hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Jab ek 'convertible collar' ka pattern banate hain, toh uski specialty kya hoti hai?",
+      "options": {
+        "A": "Yeh sirf khada rehta hai.",
+        "B": "Yeh collar flat rehta hai.",
+        "C": "Yeh collar stand aur fall dono ke roop mein pehna ja sakta hai, ya toh khada ya fold kiya hua.",
+        "D": "Yeh sirf decorative hota hai."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Convertible collar ek versatile collar hota hai jise stand-up collar ki tarah bhi pehna ja sakta hai aur fold-down collar ki tarah bhi, depending on the styling."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Ek 'yoke' ka pattern develop karne ka primary reason kya hai?",
+      "options": {
+        "A": "Garment ki length badhana.",
+        "B": "Garment ko decorative detail dena aur fit improve karna, especially shoulder ya waist area mein.",
+        "C": "Seam allowance ko reduce karna.",
+        "D": "Fabric waste badhana."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yoke ek shaped panel hota hai jo garment ke upper part mein add kiya jaata hai, jaise shirt ya dress mein, jo fit ko improve karta hai aur design element bhi add karta hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Pleats aur gathers mein kya main difference hai?",
+      "options": {
+        "A": "Dono same hain.",
+        "B": "Pleats sharp, pressed folds hote hain, jabki gathers soft, unpressed folds hote hain.",
+        "C": "Gathers zyada fabric use karte hain.",
+        "D": "Pleats sirf decorative hote hain."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pleats fabric mein sharp, intentional folds hote hain jo pressed hote hain, jabki gathers fabric ko compress karke soft, rounded folds banate hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Ek 'faced placket' ka pattern banate samay, facing kisliye use hoti hai?",
+      "options": {
+        "A": "Placket ko zyada decorative banane ke liye.",
+        "B": "Placket ko clean aur finished edge dene ke liye aur fabric ko fray hone se bachane ke liye.",
+        "C": "Placket ko loose fit dene ke liye.",
+        "D": "Placket ko invisible banane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Facing placket ki raw edges ko cover karti hai, jisse ek clean aur finished interior aur exterior appearance milti hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Ek 'stand collar' kis tarah ka collar hota hai?",
+      "options": {
+        "A": "Flat collar",
+        "B": "Rolled collar",
+        "C": "Collar jo neckline par khada rehta hai aur usmein koi fall nahi hota",
+        "D": "Collar jo shoulder par girta hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Stand collar ek collar hota hai jo neckline par khada rehta hai aur usmein koi fold-over ya 'fall' nahi hota, jaise Mandarin collar."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar aapko ek 'bishop sleeve' ka pattern banana hai, toh aap basic sleeve block ko kaise manipulate karenge?",
+      "options": {
+        "A": "Sleeve ko narrow kar denge.",
+        "B": "Sleeve cap ko chota kar denge.",
+        "C": "Sleeve ke bottom half mein slashing aur spreading karke fullness add karenge, jise cuff par gather kiya ja sake.",
+        "D": "Sleeve ko poora straight cut kar denge."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Bishop sleeve mein sleeve ke bottom half mein considerable fullness hoti hai, jise slash-and-spread method se create kiya jaata hai aur fir cuff par gather kiya jaata hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Ek 'box pleat' ka pattern banate samay, fabric kaise fold hota hai?",
+      "options": {
+        "A": "Ek single direction mein.",
+        "B": "Do folds jo ek dusre se door face karte hain.",
+        "C": "Do folds jo ek dusre ki taraf face karte hain.",
+        "D": "Randomly fold hota hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Box pleat mein do folds hote hain jo ek dusre se door face karte hain, jisse center mein ek flat panel banta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Pockets ke liye 'pocket bag' ka pattern kisliye important hai?",
+      "options": {
+        "A": "Sirf decoration ke liye.",
+        "B": "Pocket ke andar items ko hold karne ke liye.",
+        "C": "Pocket opening ko shape dene ke liye.",
+        "D": "Pocket ko garment se attach karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pocket bag pocket ka functional part hota hai jo actual space provide karta hai jismein items rakhe jaate hain. Iska pattern pocket ke size aur shape ko define karta hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Ek 'ruffle' ka pattern develop karte samay, kya principle apply hota hai?",
+      "options": {
+        "A": "Fabric ko straight cut karna.",
+        "B": "Fabric strip ko uski final length se chota cut karna.",
+        "C": "Fabric strip ko uski final length se kaafi lamba cut karna aur use gather karke fullness create karna.",
+        "D": "Fabric ko bias grain par cut karna."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ruffles banane ke liye, fabric strip ko desired finished length se kaafi lamba cut kiya jaata hai, aur fir use gather karke frilly effect create kiya jaata hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Pattern grading kya hota hai?",
+      "options": {
+        "A": "Pattern ko kaatna.",
+        "B": "Ek hi style ke pattern ko different sizes mein systematically increase ya decrease karna.",
+        "C": "Pattern ko alter karna.",
+        "D": "Pattern ko fabric par place karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pattern grading ek systematic process hai jismein ek base size pattern ko different sizes mein scale kiya jaata hai, maintaining the original design proportions."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Jab aap ek garment mein 'full bust adjustment (FBA)' karte hain, toh aapka primary goal kya hota hai?",
+      "options": {
+        "A": "Shoulder width ko adjust karna.",
+        "B": "Bust area mein extra fullness add karna, taaki garment bust par tight na ho aur darts correct position par hon.",
+        "C": "Waistline ko adjust karna.",
+        "D": "Sleeve length ko adjust karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FBA bust area mein additional fullness provide karta hai, jisse garment bust par comfortably fit ho aur darts sahi jagah par align hon."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Grading ke liye 'grade rule' kya define karta hai?",
+      "options": {
+        "A": "Pattern cutting ka method.",
+        "B": "Har size increment ke liye pattern ke har point par kitna move karna hai.",
+        "C": "Fabric type.",
+        "D": "Seam allowance ki width."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grade rule specify karta hai ki pattern ke har point ko X aur Y direction mein kitna move karna hai ek size se doosre size mein jaane ke liye."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Ek 'swayback adjustment' kisliye ki jaati hai aur iska pattern par kya effect hota hai?",
+      "options": {
+        "A": "Shoulder ko adjust karne ke liye.",
+        "B": "Garment ke back mein excess fabric ko remove karne ke liye, jo lower back curve par bunch hota hai, aur length ko short karta hai.",
+        "C": "Bust area mein fullness add karne ke liye.",
+        "D": "Sleeve length ko badhane ke liye."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Swayback adjustment lower back curve mein excess fabric ko remove karne ke liye ki jaati hai, jisse back mein horizontal wrinkles ya bunching na ho, aur back length ko thoda short kiya jaata hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Agar ek garment ka 'shoulder slope' person ke shoulder slope se match nahi karta, toh aap pattern par kya adjustment karenge?",
+      "options": {
+        "A": "Sleeve length adjust karenge.",
+        "B": "Shoulder seam ki angle aur length adjust karenge.",
+        "C": "Waistline ko adjust karenge.",
+        "D": "Hemline ko adjust karenge."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Incorrect shoulder slope ke liye, shoulder seam ki angle aur length ko adjust kiya jaata hai taaki garment shoulder par smoothly fit ho aur pulling ya gapping na ho."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "'Manual grading' mein kya use hota hai?",
+      "options": {
+        "A": "Computer software",
+        "B": "Rulers, curves, aur grading charts",
+        "C": "Directly fabric par cut karna",
+        "D": "Only tracing wheel"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Manual grading mein physical tools jaise rulers, French curves, aur grading charts ka use karke pattern pieces ko manually scale kiya jaata hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Ek 'small bust adjustment (SBA)' kisliye ki jaati hai?",
+      "options": {
+        "A": "Bust area mein extra fabric remove karne ke liye, jab garment bust par loose ho.",
+        "B": "Shoulder ko narrow karne ke liye.",
+        "C": "Sleeve circumference adjust karne ke liye.",
+        "D": "Waistline ko tight karne ke liye."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "SBA bust area mein excess fabric ko remove karta hai, jisse garment bust par better fit ho, especially jab bust measurement pattern ke standard se kam ho."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Pattern grading mein 'nesting' ka kya matlab hai?",
+      "options": {
+        "A": "Pattern pieces ko ek dusre ke upar rakhna.",
+        "B": "Graded sizes ko ek hi pattern sheet par overlay karna, jisse grade rules ki visual representation milti hai.",
+        "C": "Pattern ko fold karna.",
+        "D": "Pattern ko cut karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nesting mein graded sizes ke pattern pieces ko ek dusre ke upar overlay kiya jaata hai, jisse har size ke beech ka difference aur grade rules clearly visible hote hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Agar ek person ki 'broad back' hai, toh pattern par kya specific adjustment ki jaati hai taaki garment back par tight na ho?",
+      "options": {
+        "A": "Front bodice ko widen karna.",
+        "B": "Back bodice ke armhole aur center back seam par additional width add karna.",
+        "C": "Sleeve length ko badhana.",
+        "D": "Shoulder seam ko narrow karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Broad back adjustment mein back bodice ke armhole aur center back seam par additional width add ki jaati hai taaki back par sufficient ease mile aur garment tight na ho ya pulling na ho."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Pattern alteration karte samay, 'pivot point' ka use kisliye hota hai?",
+      "options": {
+        "A": "Pattern ko fold karne ke liye.",
+        "B": "Alteration karte samay pattern ke ek point ko stable rakhne ke liye jab doosre parts ko move kiya jaata hai.",
+        "C": "Pattern ko cut karne ke liye.",
+        "D": "Seam allowance ko add karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pivot point ek fixed point hota hai jiske around pattern ko rotate ya pivot kiya jaata hai taaki alteration smoothly aur accurately ho."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Pattern grading mein 'length grading' kya hota hai?",
+      "options": {
+        "A": "Garment ki width ko adjust karna.",
+        "B": "Garment ki overall length ko adjust karna.",
+        "C": "Sleeve length ko adjust karna.",
+        "D": "Dart length ko adjust karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Length grading mein garment ki overall vertical dimensions ko adjust kiya jaata hai, jaise bodice length, skirt length, ya sleeve length."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar ek person ki 'narrow shoulder' hai, toh pattern par kya adjustment ki jaati hai?",
+      "options": {
+        "A": "Shoulder seam ko lengthen karna.",
+        "B": "Shoulder seam ko shorten karna aur armhole ko accordingly adjust karna.",
+        "C": "Bust circumference badhana.",
+        "D": "Waistline ko raise karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Narrow shoulder adjustment mein shoulder seam ko shorten kiya jaata hai aur armhole ko bhi adjust kiya jaata hai taaki garment shoulders par smoothly fit ho aur sleeve head sahi jagah par baithe."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "'Pattern alterations' aur 'pattern grading' mein kya main difference hai?",
+      "options": {
+        "A": "Dono same hain.",
+        "B": "Alterations ek specific body ke liye pattern ko modify karte hain, jabki grading ek base size ko multiple standard sizes mein scale karta hai.",
+        "C": "Grading sirf length adjust karta hai.",
+        "D": "Alterations sirf width adjust karte hain."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pattern alterations ek individual ke unique body measurements ya fit preferences ke liye pattern ko modify karte hain, jabki grading ek pattern ko standard size range mein scale karta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Ek 'forward shoulder' adjustment kisliye ki jaati hai aur iska pattern par kya impact hota hai?",
+      "options": {
+        "A": "Shoulder ko piche move karne ke liye.",
+        "B": "Jab body ka shoulder point aage ki taraf hota hai, toh shoulder seam ko aage move kiya jaata hai taaki garment smoothly fit ho aur back of the neck par pulling na ho.",
+        "C": "Bust area mein fullness add karne ke liye.",
+        "D": "Sleeve cap height adjust karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Forward shoulder adjustment mein shoulder seam ko front ki taraf move kiya jaata hai taaki garment person ke natural shoulder alignment ke saath match kare, jisse front aur back mein pulling ya wrinkles se bacha ja sake."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Agar aapko ek skirt ki 'hip circumference' badhani hai, toh aap pattern par kya adjustment karenge?",
+      "options": {
+        "A": "Waistline ko adjust karenge.",
+        "B": "Side seams par width add karenge hip area mein.",
+        "C": "Skirt ki length badhayenge.",
+        "D": "Darts ko chota kar denge."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hip circumference badhane ke liye, skirt ke side seams par hip area mein additional width add ki jaati hai, usually slash-and-spread method ka use karke."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Pattern alterations mein 'adding fullness' ka kya matlab hai?",
+      "options": {
+        "A": "Pattern ko tight karna.",
+        "B": "Pattern mein extra fabric add karna, jaise gathers, pleats ya extra width.",
+        "C": "Pattern ko trim karna.",
+        "D": "Pattern ko chota karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Adding fullness ka matlab hai pattern mein extra fabric introduce karna taaki garment mein zyada drape, comfort ya design feature ho, jaise ki FBA, gathers, ya pleats."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Ek garment ke 'vertical balance' ko adjust karne ke liye kaun si alteration ki jaati hai?",
+      "options": {
+        "A": "Width adjustments.",
+        "B": "Length adjustments (jaise bodice length, crotch length).",
+        "C": "Sleeve circumference adjustments.",
+        "D": "Neckline adjustments."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vertical balance ko adjust karne ke liye, garment ki vertical measurements jaise bodice length, crotch length, ya shoulder-to-waist length mein alterations ki jaati hain taaki garment body par evenly hang kare."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "CAD software ka full form kya hai pattern making mein?",
+      "options": {
+        "A": "Computer Aided Design",
+        "B": "Cloth Arrangement Drawing",
+        "C": "Cutting And Design",
+        "D": "Creative Art Development"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CAD stands for Computer Aided Design, jo design aur pattern making ke liye computer software ka use refer karta hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Digital pattern making mein 'digitizing' process ka kya purpose hai?",
+      "options": {
+        "A": "Naye patterns create karna.",
+        "B": "Physical (paper) patterns ko computer readable format mein convert karna.",
+        "C": "Patterns ko print karna.",
+        "D": "Fabric ko cut karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Digitizing ek process hai jismein ek special digitizing board aur stylus ka use karke physical paper patterns ki lines aur points ko computer mein input kiya jaata hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Kaun sa software apparel industry mein digital pattern making ke liye commonly use hota hai?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Adobe Photoshop",
+        "C": "Gerber AccuMark, Lectra Modaris, Optitex",
+        "D": "Google Chrome"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Gerber AccuMark, Lectra Modaris, aur Optitex jaise software apparel industry mein digital pattern making, grading aur marker making ke liye widely use hote hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Digital pattern making mein 'parameter-driven design' ka kya matlab hai?",
+      "options": {
+        "A": "Design ko random values se banana.",
+        "B": "Patterns ko mathematical formulas aur predefined measurements ke basis par create karna, jisse flexibility aur accuracy badhti hai.",
+        "C": "Patterns ko sirf visual input se banana.",
+        "D": "Patterns ko scan karke banana."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Parameter-driven design mein pattern elements ko numerical values aur mathematical relationships se define kiya jaata hai. Isse pattern ko easily modify kiya ja sakta hai sirf parameters change karke, grading aur alterations mein bahut useful hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Digital pattern making ka ek major advantage kya hai?",
+      "options": {
+        "A": "Manual errors badh jaate hain.",
+        "B": "Pattern development process faster aur accurate ho jaata hai.",
+        "C": "Zyada fabric waste hota hai.",
+        "D": "Patterns ko store karna mushkil ho jaata hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Digital pattern making se pattern development, grading aur marker making mein speed aur accuracy significantly improve hoti hai, aur manual errors kam hote hain."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Ek 'plotter' ka primary function kya hai CAD pattern making mein?",
+      "options": {
+        "A": "Fabric ko cut karna.",
+        "B": "Digital patterns ko large format paper par print karna.",
+        "C": "Patterns ko scan karna.",
+        "D": "Stitching karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plotter ek specialized printer hota hai jo large format pattern pieces aur markers ko paper par accurately print karta hai, jo fir cutting ke liye use hote hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Digital grading mein kya advantage hai manual grading par?",
+      "options": {
+        "A": "Zyada time lagta hai.",
+        "B": "Zyada manual errors hote hain.",
+        "C": "Zyada consistent aur accurate results milte hain, aur process faster hota hai.",
+        "D": "Sirf ek size mein grading kar sakte hain."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Digital grading software predefined grade rules ko automatically apply karta hai, jisse grading process fast, consistent aur highly accurate ho jaata hai across all sizes."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "CAD pattern making mein 'marker making' ka kya role hai?",
+      "options": {
+        "A": "Patterns ko design karna.",
+        "B": "Pattern pieces ko fabric par efficiently arrange karna taaki fabric waste kam ho.",
+        "C": "Patterns ko store karna.",
+        "D": "Garment ko stitch karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Marker making mein pattern pieces ko fabric width par optimize kiya jaata hai taaki cutting ke liye minimum fabric use ho aur waste kam se kam ho. CAD tools is process ko automate aur optimize karte hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "3D garment simulation software, jaise CLO3D ya Browzwear, ka pattern making process mein kya contribution hai?",
+      "options": {
+        "A": "Physical patterns ko replace karna.",
+        "B": "Virtual prototypes banane mein help karna, jisse designers digital patterns ko 3D avatar par test kar sakte hain, fit aur drape ko evaluate kar sakte hain physical samples banaye bina.",
+        "C": "Sirf fabric textures create karna.",
+        "D": "Patterns ko print karna."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "3D simulation software physical sampling ki zaroorat ko kam karta hai. Isse designers digital patterns ko 3D avatar par drape kar sakte hain, fit, drape, aur design details ko visualize kar sakte hain, time aur cost bacha kar."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Digital pattern making software mein 'line smoothing' feature kisliye use hota hai?",
+      "options": {
+        "A": "Lines ko straight karne ke liye.",
+        "B": "Irregular ya jagged lines ko smoother curves mein convert karne ke liye.",
+        "C": "Lines ko delete karne ke liye.",
+        "D": "Lines ko hide karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Line smoothing feature digitizing process ke dauraan ya manual drawing ke baad create hue irregular lines ko refine aur smooth karta hai, jisse pattern clean aur accurate dikhta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Digital pattern files ko kis format mein save kiya jaata hai taaki woh different CAD systems ke beech compatible hon?",
+      "options": {
+        "A": ".doc",
+        "B": ".pdf",
+        "C": ".dxf (Drawing Exchange Format)",
+        "D": ".jpg"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "DXF (Drawing Exchange Format) ek universally accepted file format hai jo different CAD software systems ke beech pattern data exchange karne ke liye use hota hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Digital pattern making mein 'automatic seam allowance' feature ka kya benefit hai?",
+      "options": {
+        "A": "Seam allowance manually add karna padta hai.",
+        "B": "Software automatically predefined seam allowance values ko pattern edges par add karta hai, saving time aur ensuring consistency.",
+        "C": "Seam allowance ko delete kar deta hai.",
+        "D": "Seam allowance ko hide kar deta hai."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Automatic seam allowance feature pattern edges par predefined seam allowance values ko automatically add karta hai, jisse manual calculation aur drawing ka time bachta hai aur accuracy badhti hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Digital pattern making mein 'pattern library' ka kya use hai?",
+      "options": {
+        "A": "Sirf finished garments store karna.",
+        "B": "Standard blocks, components (collars, cuffs), aur previously created patterns ko store aur reuse karna.",
+        "C": "Customer data store karna.",
+        "D": "Fabric samples store karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pattern library ek digital database hota hai jahan standard blocks, components, aur previously created patterns store kiye jaate hain. Inhein naye designs banane ke liye reuse kiya ja sakta hai, jisse development time kam hota hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Digital pattern making mein 'nesting' functionality ka kya role hai?",
+      "options": {
+        "A": "Sirf grading ke liye.",
+        "B": "Pattern pieces ko fabric lay-out par manually arrange karna.",
+        "C": "Pattern pieces ko fabric width par automatically aur optimally arrange karna taaki fabric utilization maximize ho aur waste minimize ho.",
+        "D": "Patterns ko fold karna."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Nesting functionality (marker making ka part) pattern pieces ko fabric width par automatically aur intelligently arrange karta hai, jisse cutting ke liye required fabric ki quantity kam hoti hai aur production cost control hoti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Digital pattern making mein 'validation' feature kisliye important hai?",
+      "options": {
+        "A": "Sirf design ko check karna.",
+        "B": "Pattern pieces mein errors (jaise open contours, missing notches, incorrect grainlines) ko identify karna, taaki production se pehle corrections ki ja sakein.",
+        "C": "Pattern ko print karna.",
+        "D": "Pattern ko save karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Validation feature pattern integrity ko check karta hai, jaise ki sabhi points connected hain, notches sahi hain, aur grainlines correct hain. Yeh production stage mein hone wali costly errors ko prevent karta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Digital pattern making mein 'pattern modification' kaise ki jaati hai?",
+      "options": {
+        "A": "Sirf naye patterns bana kar.",
+        "B": "Tools ka use karke existing lines, points aur curves ko edit karke.",
+        "C": "Patterns ko manually cut karke.",
+        "D": "Patterns ko delete karke."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Digital pattern making software mein, designers existing pattern lines, points, aur curves ko interactive tools ka use karke easily modify kar sakte hain, jaise drag-and-drop, curve editing, ya point manipulation."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Production pattern mein 'drill hole' ka kya purpose hai?",
+      "options": {
+        "A": "Fabric ko cut karna.",
+        "B": "Internal markings (jaise dart points, pocket placements, button placements) ko indicate karne ke liye.",
+        "C": "Pattern ko hold karna.",
+        "D": "Seam allowance ko adjust karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drill hole pattern par ek small circular mark hota hai jo fabric par transfer kiya jaata hai taaki internal markings jaise dart apex, pocket corners ya button positions ko accurately locate kiya ja sake."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Ek 'marker' kya hota hai production pattern making mein?",
+      "options": {
+        "A": "Ek tool jo pattern ko draw karta hai.",
+        "B": "Pattern pieces ka ek layout jo fabric par cutting ke liye arrange kiya jaata hai, taaki fabric utilization maximize ho.",
+        "C": "Ek type ka pen.",
+        "D": "Ek specific pattern piece."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Marker ek blueprint hota hai jismein garment ke saare pattern pieces ko fabric ki width par efficiently arrange kiya jaata hai, taaki cutting ke dauraan fabric waste kam se kam ho."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Production patterns par 'garment style number' aur 'size' mark karna kisliye important hai?",
+      "options": {
+        "A": "Sirf decoration ke liye.",
+        "B": "Identification aur organization ke liye, taaki confusion na ho aur sahi pattern sahi order ke liye use ho.",
+        "C": "Pattern ko chota karne ke liye.",
+        "D": "Seam allowance ko hide karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Style number aur size pattern par clear identification provide karte hain, jo production floor par sahi patterns ko track aur use karne ke liye essential hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "'Fabric utilization' ko maximize karna marker making ka ek primary objective kyu hai?",
+      "options": {
+        "A": "Kyunki isse garment ka design improve hota hai.",
+        "B": "Kyunki fabric cost garment ki total cost ka ek significant portion hota hai, aur better utilization se production cost kam hoti hai.",
+        "C": "Kyunki isse stitching process faster hota hai.",
+        "D": "Kyunki isse garment zyada durable banta hai."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Fabric ek costly raw material hai. Marker making ka primary goal fabric waste ko minimize karke fabric utilization ko maximize karna hai, jisse production cost significantly reduce hoti hai aur profitability badhti hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Ek 'pattern specification sheet' (ya 'tech pack' ka pattern section) mein kya information shamil hoti hai?",
+      "options": {
+        "A": "Sirf design sketches.",
+        "B": "Detailed information jaise pattern piece names, quantities, grainlines, seam allowances, and construction notes.",
+        "C": "Fabric supplier ki details.",
+        "D": "Marketing strategies."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pattern specification sheet pattern ke har aspect ki detailed technical information provide karta hai, jo production team ko garment ko accurately produce karne ke liye zaroori hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Production patterns mein 'notches' ka kya role hai?",
+      "options": {
+        "A": "Decoration ke liye.",
+        "B": "Garment pieces ko accurately align aur stitch karne ke liye match points provide karna.",
+        "C": "Fabric ko cut karne ke liye.",
+        "D": "Seam allowance ko adjust karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Notches production mein critical alignment guides hote hain, jo ensure karte hain ki corresponding pattern pieces ko sahi jagah par aur sahi orientation mein join kiya ja sake."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Marker making mein 'shading' ka kya matlab hai?",
+      "options": {
+        "A": "Fabric ko colour karna.",
+        "B": "Fabric ke roll mein color variation, jise marker placement ke dauraan consider karna padta hai.",
+        "C": "Marker ko dark karna.",
+        "D": "Pattern pieces ko overlap karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shading fabric rolls ke andar color variation ko refer karta hai. Marker making mein iska dhyan rakhna padta hai taaki ek hi garment ke different parts mein color difference na aaye, aur pieces ko same shade wale fabric se cut kiya ja sake."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Production pattern ke liye 'seam allowance' standard kyu hona chahiye?",
+      "options": {
+        "A": "Kyunki isse garment zyada durable banta hai.",
+        "B": "Consistent stitching aur finishing quality ensure karne ke liye, aur production efficiency badhane ke liye.",
+        "C": "Kyunki isse fabric waste kam hota hai.",
+        "D": "Kyunki isse pattern zyada attractive lagta hai."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Standardized seam allowances production floor par consistency maintain karte hain, jisse operators ko baar-baar measurements adjust nahi karne padte aur stitching process smooth hota hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Mass production mein 'pattern templates' ka kya role hai?",
+      "options": {
+        "A": "Sirf sample garments banane ke liye.",
+        "B": "Cutting process ko automate karne ke liye, jahan templates ko automatic cutters par load kiya jaata hai.",
+        "C": "Design ideas generate karne ke liye.",
+        "D": "Fabric ko hand-cut karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pattern templates durable materials (jaise thick paper ya plastic) se bane hote hain aur automatic cutting machines mein use hote hain. Yeh cutting process ko automate aur speed-up karte hain, ensuring precision aur consistency in mass production."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Production pattern making mein 'pattern storage aur maintenance' kisliye important hai?",
+      "options": {
+        "A": "Sirf aesthetics ke liye.",
+        "B": "Patterns ko damage aur loss se bachane ke liye, aur future use ke liye easily accessible rakhne ke liye.",
+        "C": "Fabric ko store karne ke liye.",
+        "D": "Cutting tools ko store karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper storage aur maintenance patterns ki lifespan ko badhata hai aur future production runs ke liye unhein ready rakhta hai, saving time aur resources."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Ek 'pattern master' ka primary responsibility kya hota hai garment factory mein?",
+      "options": {
+        "A": "Fabric purchase karna.",
+        "B": "Patterns ko develop, grade aur optimize karna production ke liye, aur fitting issues ko resolve karna.",
+        "C": "Garments ko stitch karna.",
+        "D": "Marketing campaigns manage karna."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pattern master garment factory mein pattern development, grading, fitting aur production optimization ke liye responsible hota hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "'Marker efficiency' ko kaise calculate kiya jaata hai?",
+      "options": {
+        "A": "Fabric cost se.",
+        "B": "(Area of pattern pieces in marker / Total area of marker) * 100%",
+        "C": "Number of patterns se.",
+        "D": "Stitching time se."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Marker efficiency fabric utilization ka measure hai. Isse calculate kiya jaata hai marker mein pattern pieces ke total area ko marker ke total area se divide karke aur 100 se multiply karke."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Production pattern mein 'grainline' ko accurately mark karna kisliye crucial hai?",
+      "options": {
+        "A": "Sirf decoration ke liye.",
+        "B": "Garment ke correct drape, fit aur stability ensure karne ke liye.",
+        "C": "Pattern ko chota karne ke liye.",
+        "D": "Seam allowance ko add karne ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grainline garment ke drape, fit aur stability ko significantly affect karta hai. Production mein iska correct alignment bahut zaroori hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Quality control ke perspective se, production patterns ki regular checking kisliye zaroori hai?",
+      "options": {
+        "A": "Kyunki isse pattern ka colour change hota hai.",
+        "B": "Patterns ki accuracy aur integrity maintain karne ke liye, aur wear-and-tear ya damage se hone wale errors ko prevent karne ke liye.",
+        "C": "Kyunki isse fabric cost badhti hai.",
+        "D": "Kyunki isse stitching time badhta hai."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Production patterns constant use ke karan damage ho sakte hain ya unki accuracy kam ho sakti hai. Regular checking ensure karti hai ki patterns hamesha correct aur functional rahen, jisse quality issues aur rejections se bacha ja sake."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Production pattern making mein 'costing' ka kya role hai?",
+      "options": {
+        "A": "Sirf fabric cost calculate karna.",
+        "B": "Pattern development aur marker making mein liye gaye decisions ka overall garment production cost par kya impact padega, iska assessment karna.",
+        "C": "Garment ki selling price fix karna.",
+        "D": "Marketing budget set karna."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Costing mein pattern efficiency (fabric utilization, cutting time) ka direct impact production cost par hota hai. Pattern makers ko apne decisions ke cost implications ko samajhna zaroori hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Final production pattern set mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf ek base size ka pattern.",
+        "B": "All graded sizes ke patterns, marker layouts, aur pattern specification sheet.",
+        "C": "Fabric samples.",
+        "D": "Stitching machines."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Final production pattern set mein saare graded sizes ke complete patterns, unke corresponding marker layouts, aur detailed pattern specification sheets shamil hote hain, jo mass production ke liye ready hote hain."
+    }
+  ]
+}

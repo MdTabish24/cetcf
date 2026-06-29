@@ -1,0 +1,1443 @@
+{
+  "course_name": "Access Control & Gate Management",
+  "sector": "Security & Facility Management",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Access Control & Security Basics",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Types of Access Control Systems & Components",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Gate Operations & Entry/Exit Procedures",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Visitor & Vehicle Management",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Emergency Response & Incident Handling",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Security Technology & Equipment Usage",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Security personnel ki primary duty kya hai gate par?",
+      "options": {
+        "A": "Guests ko welcome karna",
+        "B": "Unauthorized entry ko rokna",
+        "C": "Mail receive karna",
+        "D": "Gardening karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Security personnel ki primary duty unauthorized व्यक्तियों या वस्तुओं को premises में enter hone se rokna hai, thereby ensuring security."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Access control ka main purpose kya hai?",
+      "options": {
+        "A": "Electricity bill kam karna",
+        "B": "Security cameras install karna",
+        "C": "Kise, kab aur kahan enter hone ki permission hai, yeh regulate karna",
+        "D": "Office ka interior design karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Access control ka main purpose authorized individuals ko hi specific areas mein entry dena aur unauthorized individuals ko rokna hai, ensuring safety and security."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Restricted area ka kya matlab hai?",
+      "options": {
+        "A": "Jahan parking allowed nahi hai",
+        "B": "Jahan sirf authorized logon ko hi jaane ki permission hai",
+        "C": "Jahan smoking allowed nahi hai",
+        "D": "Jahan loud music allowed nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Restricted area woh jagah hoti hai jahan security reasons ki wajah se sirf authorized personnel ko hi entry di jaati hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Gate management ka key objective kya hai?",
+      "options": {
+        "A": "Visitors ko free snacks provide karna",
+        "B": "Smooth flow of entry/exit maintain karna aur security ensure karna",
+        "C": "Gate ko decorate karna",
+        "D": "Sabhi vehicles ko bina check kiye enter hone dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gate management ka mukhya uddeshya entry aur exit processes ko smoothly handle karna hai, saath hi security standards ko maintain karna."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "ID verification kyun important hai gate par?",
+      "options": {
+        "A": "Logon ke naam yaad rakhne ke liye",
+        "B": "Yeh confirm karne ke liye ki person authorized hai ya nahi",
+        "C": "Time pass karne ke liye",
+        "D": "Kisi ko bhi enter hone dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ID verification se yeh confirm hota hai ki enter karne wala vyakti authorized hai aur uske paas premises mein jaane ki permission hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Security logbook mein kya record karna chahiye?",
+      "options": {
+        "A": "Apni personal diary entries",
+        "B": "Sirf important phone numbers",
+        "C": "Visitor details, entry/exit times, vehicle numbers",
+        "D": "Company ke financial records"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Security logbook mein sabhi entry/exit details, visitors, vehicles aur koi bhi incident record karna zaroori hai for accountability and record-keeping."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Security breach kya hota hai?",
+      "options": {
+        "A": "Jab koi gate khula chhod deta hai",
+        "B": "Jab koi unauthorized person restricted area mein enter karta hai",
+        "C": "Jab light chali jaati hai",
+        "D": "Jab koi phone bhool jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Security breach tab hota hai jab koi unauthorized vyakti ya action security protocols ko bypass karke restricted area mein enter karta hai ya security ko compromise karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Physical security mein kya shamil hota hai?",
+      "options": {
+        "A": "Cybersecurity measures",
+        "B": "Firewalls aur antivirus software",
+        "C": "Gates, fences, security guards, CCTV cameras",
+        "D": "Data encryption methods"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Physical security mein woh sabhi measures shamil hote hain jo physical assets aur premises ko unauthorized access, damage ya theft se bachate hain, jaise gates, fences, guards aur surveillance systems."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Unauthorised entry ko rokne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Sabko bina check kiye andar aane dena",
+        "B": "Har person aur vehicle ki proper verification aur checking karna",
+        "C": "Gate par so jaana",
+        "D": "Kisi se baat na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Unauthorized entry ko rokne ke liye, har person aur vehicle ki proper identification aur verification karna zaroori hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Security guard ki responsibilities mein kya shamil nahi hai?",
+      "options": {
+        "A": "Patrolling karna",
+        "B": "Incident report likhna",
+        "C": "Company ke employees ko salary dena",
+        "D": "Access control manage karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Company ke employees ko salary dena security guard ki responsibility nahi hai; yeh HR ya Accounts department ka kaam hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Security policy ka palan karna kyun mahatvapurna hai?",
+      "options": {
+        "A": "Sirf rules banane ke liye",
+        "B": "Security risks ko minimize karne aur compliance ensure karne ke liye",
+        "C": "Apni marzi se kaam karne ke liye",
+        "D": "Extra kaam badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Security policy ka palan karna zaroori hai taaki sabhi security protocols follow ho, risks kam hon aur legal/regulatory requirements poore hon."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Ek effective access control system mein kya qualities honi chahiye?",
+      "options": {
+        "A": "Bahut complicated ho",
+        "B": "Reliable, efficient aur user-friendly ho",
+        "C": "Sirf mahange equipment use kare",
+        "D": "Frequent failures ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek effective access control system reliable hona chahiye taaki woh consistently kaam kare, efficient ho taaki processes smooth hon, aur user-friendly ho taaki use karna aasan ho."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "CCTV monitoring ka primary role kya hai security mein?",
+      "options": {
+        "A": "Entertainment provide karna",
+        "B": "Surveillance aur evidence collection",
+        "C": "Weather forecast karna",
+        "D": "Traffic control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV monitoring ka primary role areas ki surveillance karna, incidents record karna aur future investigation ke liye evidence provide karna hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Confidential information ko kaise protect karna chahiye?",
+      "options": {
+        "A": "Sabke saath share karke",
+        "B": "Secure location mein store karke aur limited access dekar",
+        "C": "Public notice board par laga kar",
+        "D": "Kisi ko bhi bata kar"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confidential information ko secure location mein store karna aur sirf authorized individuals ko hi access dena uski protection ke liye mahatvapurna hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Risk assessment ka kya matlab hai security ke context mein?",
+      "options": {
+        "A": "Sirf losses calculate karna",
+        "B": "Potential threats aur vulnerabilities ko identify aur evaluate karna",
+        "C": "Insurance policies kharidna",
+        "D": "Security equipment ki price check karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Risk assessment ka matlab hai potential security threats ko pehchanna, unki vulnerabilities ko evaluate karna aur unke impact ko analyse karna taaki unhe minimize kiya ja sake."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Security awareness training kyun di jaati hai?",
+      "options": {
+        "A": "Employees ko bore karne ke liye",
+        "B": "Employees ko security risks aur best practices ke baare mein educate karne ke liye",
+        "C": "Extra holidays dene ke liye",
+        "D": "Company ke rules bhulane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Security awareness training employees ko security threats ko pehchanne aur unse bachne ke tarike sikhane ke liye di jaati hai, jisse overall security improve hoti hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Security post par duty ke dauraan 'vigilance' ka kya mahatva hai?",
+      "options": {
+        "A": "Sirf sona",
+        "B": "Har samay alert aur attentive rehna, surroundings par nazar rakhna",
+        "C": "News channel dekhna",
+        "D": "Personal calls par busy rehna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Vigilance' ka matlab hai har samay alert aur attentive rehna, apne surroundings par nazar rakhna taaki kisi bhi suspicious activity ya incident ko turant identify aur address kiya ja sake."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Manual access control ka ek example kya hai?",
+      "options": {
+        "A": "Fingerprint scanner",
+        "B": "Boom barrier",
+        "C": "Guard dwara ID check aur register entry",
+        "D": "Face recognition system"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Manual access control mein human intervention shamil hota hai, jaise security guard ka ID check karna aur logbook mein entry karna."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Biometric access control kya hai?",
+      "options": {
+        "A": "Password-based system",
+        "B": "Physical key use karne wala system",
+        "C": "Individual ki unique physical characteristics (jaise fingerprint) se access control",
+        "D": "Card-based system"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Biometric access control mein fingerprint, retina scan ya face recognition jaise unique biological traits ka use hota hai authentication ke liye."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "RFID card ka full form kya hai?",
+      "options": {
+        "A": "Radio Frequency Identification",
+        "B": "Rapid File Identification",
+        "C": "Remote Feature Integration",
+        "D": "Real-time Financial Information"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "RFID ka full form Radio Frequency Identification hai, jo radio waves ka use karke information transmit karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Key card system kaise kaam karta hai?",
+      "options": {
+        "A": "Door ko remote se unlock karta hai",
+        "B": "Card ko reader par swipe ya tap karke access grant karta hai",
+        "C": "Voice commands se operate hota hai",
+        "D": "Fingerprint scan se unlock hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Key card system mein, ek encoded card ko card reader par present kiya jaata hai, jo authorized hone par door unlock karta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Turnstile gate kahan use hota hai?",
+      "options": {
+        "A": "Heavy vehicle entry ke liye",
+        "B": "Pedestrian (paidal chalne wale) entry/exit ko control karne ke liye",
+        "C": "Aircraft entry ke liye",
+        "D": "Goods delivery ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Turnstile gates pedestrians ki entry aur exit ko control karte hain, ek samay mein ek hi vyakti ko guzarne dete hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "CCTV ka full form kya hai?",
+      "options": {
+        "A": "Central Communication & Video",
+        "B": "Closed-Circuit Television",
+        "C": "Computerized Control Terminal",
+        "D": "Customer Care & Technical View"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV ka full form Closed-Circuit Television hai, jo surveillance ke liye video signals ko limited set of monitors tak transmit karta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Access control system mein 'credential' ka kya matlab hai?",
+      "options": {
+        "A": "Ek certificate",
+        "B": "Access grant karne ke liye use ki jaane wali cheez (jaise ID card, fingerprint)",
+        "C": "Office ka address",
+        "D": "Ek software program"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Credential woh item ya information hai jo kisi vyakti ko access control system mein authenticate karti hai, jaise ID card, fingerprint, ya PIN."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Biometric system mein kaun sa feature use hota hai?",
+      "options": {
+        "A": "Keypad for PIN",
+        "B": "Magnetic strip on card",
+        "C": "Fingerprint scan, facial recognition",
+        "D": "Barcode scanner"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Biometric systems unique physical characteristics jaise fingerprint, facial patterns, iris scans, ya voice prints ka use karte hain identification ke liye."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Proximity card reader ki range kitni hoti hai?",
+      "options": {
+        "A": "Several kilometers",
+        "B": "Long-range (5-10 meters)",
+        "C": "Short-range (few centimeters to inches)",
+        "D": "Infinite range"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Proximity card readers typically short-range hote hain, jahan card ko reader ke bahut paas laya jaata hai access ke liye."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Aadhar card-based access control ka fayda kya hai?",
+      "options": {
+        "A": "Duplicate IDs ban banana aasan hai",
+        "B": "Highly secure aur unique identification provide karta hai",
+        "C": "Sirf foreigners ke liye hai",
+        "D": "Bahut slow process hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aadhar card-based access control unique biometric identification provide karta hai, jisse security aur authenticity badhti hai aur duplication mushkil ho jaati hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Door sensor ka kya kaam hai access control mein?",
+      "options": {
+        "A": "Door ko paint karna",
+        "B": "Door ke open ya close hone ki status detect karna",
+        "C": "Door ko automatic kholna",
+        "D": "Door ko lock karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Door sensor security system ko yeh batata hai ki door khula hai ya band, jisse unauthorized entry attempts ko detect kiya ja sake."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Electric strike lock kaise operate hota hai?",
+      "options": {
+        "A": "Manual key se",
+        "B": "Electric current se latch ko release karke",
+        "C": "Solar power se",
+        "D": "Water pressure se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electric strike lock electrical current apply hone par door latch ko release karta hai, allowing entry. Power cut hone par yeh fail-safe ya fail-secure ho sakta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Magnetic lock (Maglock) ka principle kya hai?",
+      "options": {
+        "A": "Sound waves se lock hota hai",
+        "B": "Electromagnetism se door ko hold karta hai",
+        "C": "Mechanical gears se lock hota hai",
+        "D": "Pressure se lock hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Magnetic lock mein ek electromagnet aur armature plate hoti hai. Current flow hone par electromagnet door ko strongly hold karta hai, aur current cut hone par unlock ho jaata hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Networked access control system ke kya benefits hain?",
+      "options": {
+        "A": "Sirf ek door control karta hai",
+        "B": "Centralized management, real-time monitoring aur remote access provide karta hai",
+        "C": "Internet ki zaroorat nahi hoti",
+        "D": "Bahut slow hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Networked access control system multiple doors aur locations ko ek central software se manage karta hai, real-time status deta hai aur remote control ki facility deta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Standalone access control system ki limitations kya hain?",
+      "options": {
+        "A": "Bahut saare doors ko ek saath manage kar sakta hai",
+        "B": "Real-time monitoring aur centralized control provide karta hai",
+        "C": "Limited scalability, manual data management aur no remote control",
+        "D": "Highly expensive hota hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Standalone systems ek single door ko control karte hain, unhe manually program karna padta hai aur unme centralized monitoring ya remote access nahi hota."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Multi-factor authentication (MFA) kya hai aur kyun zaroori hai?",
+      "options": {
+        "A": "Sirf ek password use karna",
+        "B": "Access ke liye do ya do se zyada verification methods use karna, security badhane ke liye",
+        "C": "Sirf biometric use karna",
+        "D": "Kisi bhi factor ka use na karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "MFA mein multiple verification methods (jaise something you know - password, something you have - card, something you are - fingerprint) ka use hota hai, jisse unauthorized access ke chances bahut kam ho jaate hain."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Wiegand protocol kis liye use hota hai access control mein?",
+      "options": {
+        "A": "Video streaming ke liye",
+        "B": "Card readers aur access control panels ke beech data communication ke liye",
+        "C": "Wireless internet connection ke liye",
+        "D": "Power supply ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wiegand protocol ek standard communication method hai jo card readers se access control panels tak credential data transmit karta hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Gate par entry ke liye pehla step kya hai kisi unknown person ka?",
+      "options": {
+        "A": "Directly andar jaane dena",
+        "B": "Uski identity verify karna",
+        "C": "Usko pani pilana",
+        "D": "Uski car park karwa dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi unknown person ko premises mein enter hone se pehle uski identity verify karna sabse pehla aur mahatvapurna step hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Visitor ko kaun sa document dikhana chahiye entry ke liye?",
+      "options": {
+        "A": "Shopping bill",
+        "B": "Valid government ID (Aadhar, Driving License)",
+        "C": "Movie ticket",
+        "D": "Old newspaper"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Visitor ko apni identity prove karne ke liye ek valid government ID card dikhana chahiye."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Security logbook mein kya record karte hain visitor entry ke liye?",
+      "options": {
+        "A": "Visitor ka favourite colour",
+        "B": "Visitor ka naam, contact, purpose of visit, entry/exit time",
+        "C": "Security guard ka lunch time",
+        "D": "Company ke products ki list"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Logbook mein visitor ka complete record maintain karna zaroori hai for security aur accountability purposes."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Exit karte time kya check karna chahiye visitor ka?",
+      "options": {
+        "A": "Usne khana khaya ya nahi",
+        "B": "Uska visitor pass return hua hai ya nahi aur exit time record karna",
+        "C": "Uske kapde clean hain ya nahi",
+        "D": "Uska mood kaisa hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Exit ke time visitor pass collect karna aur exit time record karna zaroori hai taaki premises mein kaun kab tak raha, iska record rahe."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Delivery vehicles ko kaise manage karte hain gate par?",
+      "options": {
+        "A": "Bina check kiye andar aane dena",
+        "B": "Vehicle aur driver ke documents check karna, delivery details verify karna",
+        "C": "Unko parking mein wait karwana",
+        "D": "Unko wapas bhej dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Delivery vehicles ki proper checking aur delivery details verify karna zaroori hai taaki unauthorized goods ya persons ko entry na mile."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Staff entry procedure kya hai?",
+      "options": {
+        "A": "Bina kisi ID ke enter hona",
+        "B": "Valid employee ID card swipe/tap karke enter hona",
+        "C": "Gate par dance karna",
+        "D": "Doorbell bajana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Staff ko apni official ID card ka use karke access control system se authenticate ho kar enter hona chahiye."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Gate par suspicious activity dikhe toh kya karna chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Turant apne supervisor ko inform karna aur instructions follow karna",
+        "C": "Khud se action lena",
+        "D": "Social media par post karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Suspicious activity dikhne par turant supervisor ko inform karna aur unke instructions follow karna zaroori hai taaki proper response diya ja sake."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Vehicle inspection procedures mein kya shamil hai?",
+      "options": {
+        "A": "Vehicle ka colour check karna",
+        "B": "Vehicle ke interior ki checking, undercarriage mirror se check, boot/dicky check",
+        "C": "Vehicle ke tyres ki air pressure check karna",
+        "D": "Vehicle ka music system check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vehicle inspection mein vehicle ke har part ko check karna shamil hai taaki koi unauthorized item ya person hide na ho."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Material inward/outward gate pass ka kya purpose hai?",
+      "options": {
+        "A": "Material ko decorate karna",
+        "B": "Material ke movement ko authorize aur track karna",
+        "C": "Material ko dispose karna",
+        "D": "Material ki packing karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gate pass material ke official movement ko authorize karta hai aur iska record maintain karta hai, thereby preventing theft ya unauthorized movement."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Shift change ke time gate security guard ki kya responsibility hoti hai?",
+      "options": {
+        "A": "Apni shift khatam karke ghar chale jaana",
+        "B": "Duty charge ko proper handover dena, incidents aur pending tasks ki report karna",
+        "C": "Naye guard ko instruct na karna",
+        "D": "Apne personal belongings collect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper handover mein pending tasks, significant events, aur koi bhi critical information naye guard ko provide karna zaroori hai for continuity."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Visitor pass issue karte waqt kaun si information verify karte hain?",
+      "options": {
+        "A": "Visitor ka horoscope",
+        "B": "Visitor ka naam, company, contact person, ID proof details",
+        "C": "Visitor ka favourite food",
+        "D": "Visitor ka travel history"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Visitor pass issue karte waqt visitor ki basic personal details, kis se milne aaye hain, aur unka ID proof verify karna zaroori hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "VIP movement ke liye kya special procedures hote hain?",
+      "options": {
+        "A": "Unko line mein khada karna",
+        "B": "Pre-planned entry, dedicated escort, enhanced security checks",
+        "C": "Unko ignore karna",
+        "D": "Unko parking mein wait karwana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "VIP movement ke liye special protocols follow kiye jaate hain, jisme pre-planning, dedicated security aur smooth passage ensure karna shamil hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Gate par emergency vehicle (e.g., ambulance, fire truck) ko kaise handle karte hain?",
+      "options": {
+        "A": "Unko wait karwana",
+        "B": "Turant clear passage dena aur help karna",
+        "C": "Unse ID proof maangna",
+        "D": "Unko diversion dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency vehicles ko turant aur bina kisi rukawat ke passage dena chahiye, kyunki unki speed life-saving ho sakti hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Gate par traffic management kaise karte hain?",
+      "options": {
+        "A": "Vehicles ko randomly enter hone dena",
+        "B": "Signage, boom barriers, aur clear instructions se vehicles ko regulate karna",
+        "C": "Traffic jam hone dena",
+        "D": "Drivers ko jhagadne dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Effective traffic management ke liye clear signage, proper lane discipline, aur boom barriers ka use karna zaroori hai taaki smooth aur safe flow ensure ho."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Gate par conflict resolution kaise handle karte hain?",
+      "options": {
+        "A": "Jhagda badhane dena",
+        "B": "Calm rehkar situation ko de-escalate karna, rules explain karna aur supervisor ko inform karna",
+        "C": "Khud se physical fight karna",
+        "D": "Kisi ki baat na sunna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Conflict resolution mein calm rehna, active listening karna, rules ko clearly explain karna aur zaroorat padne par supervisor ki help lena shamil hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Kisi unauthorized person ko entry deny karne ke liye kya process follow karna chahiye?",
+      "options": {
+        "A": "Usko gaali dena",
+        "B": "Politely reason batana, entry deny karna aur supervisor ko inform karna",
+        "C": "Usko ignore karna",
+        "D": "Usko zabardasti bahar nikalna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Entry deny karte waqt polite rehna, reason batana aur supervisor ko inform karna zaroori hai taaki situation professionally handle ho aur koi escalation na ho."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Gate security par data privacy rules (e.g., GDPR) ka kya impact hai?",
+      "options": {
+        "A": "Koi impact nahi",
+        "B": "Visitor data ko collect, store aur process karte waqt strict privacy norms follow karna",
+        "C": "Sabka data public karna",
+        "D": "Data collect karna band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Data privacy rules ke तहत visitor data ko collect, store aur process karte waqt unki privacy ka dhyan rakhna, consent lena aur data security ensure karna zaroori hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Visitor management system ka primary goal kya hai?",
+      "options": {
+        "A": "Visitors ko gifts dena",
+        "B": "Visitors ko track karna, security badhana aur visitor experience improve karna",
+        "C": "Visitors ko bhaga dena",
+        "D": "Visitors se paise lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Visitor management system visitors ki details record karta hai, unki movement ko track karta hai aur overall security aur experience ko enhance karta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Temporary visitor pass kaun issue karta hai?",
+      "options": {
+        "A": "Visitor khud",
+        "B": "Security personnel at the gate",
+        "C": "Company CEO",
+        "D": "Delivery boy"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Security personnel authorized hote hain temporary visitor passes issue karne ke liye after proper verification."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Vehicle entry ke liye kya document required hai?",
+      "options": {
+        "A": "Bus ticket",
+        "B": "Vehicle registration (RC), Driving License",
+        "C": "Ration card",
+        "D": "Library card"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vehicle entry ke liye vehicle registration document aur driver ka valid driving license check karna zaroori hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Parking area mein vehicles ko kaise park karana chahiye?",
+      "options": {
+        "A": "Kahi bhi park kar dena",
+        "B": "Designated parking spots mein systematically park karana",
+        "C": "Emergency exit ke saamne park karna",
+        "D": "Dusre vehicles ko block karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vehicles ko designated spots par systematically park karana chahiye taaki traffic flow smooth rahe aur emergency access block na ho."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Contractor/Vendor ke employees ko kaise manage karte hain?",
+      "options": {
+        "A": "Unko bina permission kaam karne dena",
+        "B": "Unki company ID, work permit check karna aur temporary passes issue karna",
+        "C": "Unko ignore karna",
+        "D": "Unko company ke secret documents dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Contractor/Vendor employees ki proper identification aur work permit verification ke baad hi unhe entry deni chahiye."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Guest ko company premises mein kaun escort karta hai?",
+      "options": {
+        "A": "Koi bhi employee",
+        "B": "Jis employee se milne aaye hain, ya designated escort",
+        "C": "Security guard",
+        "D": "Delivery boy"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Visitors ko designated person ya jisse milne aaye hain, wahi escort karte hain taaki woh unauthorized areas mein na jaayen."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Parking lot mein unauthorized parking par kya action lenge?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Warning issue karna, vehicle tow karwana ya fine lagana as per policy",
+        "C": "Vehicle ko damage karna",
+        "D": "Driver ko dhundhna nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Unauthorized parking se traffic flow aur emergency access block ho sakta hai, isliye policy ke according action lena zaroori hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Visitor register mein kaun si details record karna mandatory hai?",
+      "options": {
+        "A": "Visitor ka favourite song",
+        "B": "Visitor ka full name, contact number, purpose of visit, entry/exit time, ID proof details",
+        "C": "Visitor ka shoe size",
+        "D": "Visitor ke pets ka naam"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Visitor register mein complete details record karna mandatory hai for security, record-keeping aur emergency situations."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Vehicle inspection mein kya-kya check karte hain?",
+      "options": {
+        "A": "Vehicle ka colour aur model",
+        "B": "Undercarriage, boot, glove compartment, passenger area for suspicious items",
+        "C": "Vehicle ka music system",
+        "D": "Vehicle ki fuel level"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vehicle inspection mein hidden compartments aur suspicious items ki talash karna shamil hai taaki koi unauthorized goods ya threats enter na ho sake."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Material movement ke liye gate pass mein kya details honi chahiye?",
+      "options": {
+        "A": "Material ka brand name",
+        "B": "Material description, quantity, sender/receiver details, authorization signature",
+        "C": "Material ka weight",
+        "D": "Material ki manufacturing date"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gate pass mein complete details honi chahiye taaki material ka movement authorized ho aur uski proper tracking ho sake."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Digital visitor management system ke kya fayde hain?",
+      "options": {
+        "A": "Paperwork badh jaata hai",
+        "B": "Faster check-in, automated record-keeping, enhanced security features",
+        "C": "System slow ho jaata hai",
+        "D": "Bahut complicated hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Digital systems efficiency badhate hain, manual errors kam karte hain aur better security features offer karte hain jaise instant visitor alerts."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Vehicle search karte waqt kin baaton ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Driver se dosti karna",
+        "B": "Politeness, thoroughness, driver ki presence mein search, privacy ka dhyan rakhna",
+        "C": "Driver ko intimidate karna",
+        "D": "Jaldi jaldi search karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vehicle search karte waqt professional conduct maintain karna, driver ki privacy ka dhyan rakhna aur thorough search karna zaroori hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Lost visitor pass ko kaise handle karte hain?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Visitor se report karwane ko kehna, record check karna aur new pass issue karna ya exit allow karna after verification",
+        "C": "Visitor ko wapas bhej dena",
+        "D": "Visitor ko bina pass ke ghumne dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lost pass ki situation mein proper procedure follow karna zaroori hai taaki unauthorized exit ya pass ka misuse na ho."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Large-scale event ke liye visitor management kaise plan karte hain?",
+      "options": {
+        "A": "Koi planning nahi karna",
+        "B": "Pre-registration, multiple entry points, dedicated staff, clear signage aur emergency plan",
+        "C": "Sirf ek guard rakhna",
+        "D": "Sabko ek hi gate se entry dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Large events ke liye comprehensive planning zaroori hai taaki crowd control ho, security maintain ho aur processes smooth hon."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Vehicle access control system ko kaise integrate kiya jaata hai?",
+      "options": {
+        "A": "Sirf manual gate use karke",
+        "B": "Boom barriers, RFID readers, CCTV aur software ko ek saath connect karke",
+        "C": "Sirf ek camera laga kar",
+        "D": "Koi integration nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Integrated systems mein various components (barriers, readers, cameras) ko ek central software se connect kiya jaata hai for seamless and efficient vehicle management."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Visitor data protection (GDPR/Data Privacy) norms ka kya impact hai?",
+      "options": {
+        "A": "Visitor data ko kaise bhi use kar sakte hain",
+        "B": "Visitor data ko collect, store aur process karne ke liye strict rules aur consent requirements follow karna",
+        "C": "Visitor data collect karna band kar dena",
+        "D": "Visitor data public domain mein release karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Data privacy norms ke तहत visitor data ko secure rakhna, unka consent lena aur unke rights ka dhyan rakhna zaroori hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Emergency mein vehicles ko evacuate karne ka procedure kya hai?",
+      "options": {
+        "A": "Vehicles ko parking mein chhod dena",
+        "B": "Pre-defined evacuation routes, clear instructions aur designated assembly points for vehicles",
+        "C": "Sab vehicles ko ek saath bahar nikalna",
+        "D": "Koi procedure nahi follow karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Emergency evacuation plan mein vehicles ke liye specific routes aur instructions hone chahiye taaki orderly aur safe evacuation ho sake."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Fire alarm bajne par pehla step kya hai?",
+      "options": {
+        "A": "Sona",
+        "B": "Nearest emergency exit se evacuate karna",
+        "C": "Khana khana",
+        "D": "Social media check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fire alarm bajne par sabse pehle safety ke liye building ko immediately evacuate karna chahiye using nearest emergency exits."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Emergency exit routes ki importance kya hai?",
+      "options": {
+        "A": "Sirf decoration ke liye",
+        "B": "Emergency mein safe aur quick evacuation provide karna",
+        "C": "Storage space ke liye",
+        "D": "Extra doors provide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency exit routes jaan bachane ke liye mahatvapurna hain, yeh safe aur fast evacuation ka rasta provide karte hain."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "First Aid box kahan milta hai?",
+      "options": {
+        "A": "Kitchen mein",
+        "B": "Designated easily accessible location (e.g., reception, security room)",
+        "C": "Toilet mein",
+        "D": "Parking lot mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "First Aid box hamesha ek easily accessible aur clearly marked location par hona chahiye for immediate medical assistance."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Bomb threat ki situation mein kya karna chahiye?",
+      "options": {
+        "A": "Loud music bajana",
+        "B": "Turant supervisor aur police ko inform karna, evacuation procedure follow karna",
+        "C": "Khud se bomb dhundhna",
+        "D": "Situation ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bomb threat ek highly critical situation hai, jisme turant authorities ko inform karna aur evacuation plan follow karna sabse zaroori hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Medical emergency mein kisko contact karna chahiye?",
+      "options": {
+        "A": "Dost ko",
+        "B": "Emergency medical services (ambulance), supervisor",
+        "C": "Pizza delivery ko",
+        "D": "Apne neighbour ko"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Medical emergency mein turant professional medical help (ambulance) aur apne supervisor ko inform karna chahiye."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Incident report kyun banaya jaata hai?",
+      "options": {
+        "A": "Sirf paperwork badhane ke liye",
+        "B": "Incident ko document karne, analysis aur future prevention ke liye",
+        "C": "Kisi ko blame karne ke liye",
+        "D": "Kisi ko punish karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Incident report detailed record provide karta hai, jisse incident ko analyze kiya ja sake aur future mein aise incidents ko rokne ke liye measures liye ja sake."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Power failure hone par gate security kaise maintain karte hain?",
+      "options": {
+        "A": "Gate ko khula chhod dena",
+        "B": "Manual operations, backup power (UPS/generator), aur increased vigilance",
+        "C": "Duty chhod ke chale jaana",
+        "D": "Mobile phone par game khelna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Power failure ke dauraan backup systems aur manual procedures ka use karke security maintain karna zaroori hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Suspicious package dikhe toh kya action lenge?",
+      "options": {
+        "A": "Usko khol kar check karna",
+        "B": "Usko touch na karna, area ko secure karna aur authorities ko inform karna",
+        "C": "Usko dustbin mein fenk dena",
+        "D": "Usko ghar le jaana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Suspicious package ko kabhi touch nahi karna chahiye, area ko secure karke turant authorities ko inform karna chahiye."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Evacuation procedure mein assembly point ka kya role hai?",
+      "options": {
+        "A": "Party karne ki jagah",
+        "B": "Evacuated logon ke liye safe gathering point, jahan count kiya ja sake",
+        "C": "Parking area",
+        "D": "Smoking zone"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Assembly point woh designated safe area hota hai jahan sabhi evacuated log gather hote hain aur unki counting ki jaati hai taaki koi missing na ho."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Aggressive visitor ko kaise handle karte hain?",
+      "options": {
+        "A": "Usko challenge karna",
+        "B": "Calmly baat karna, de-escalate karna, rules explain karna aur zaroorat padne par help call karna",
+        "C": "Usko ignore karna",
+        "D": "Usko threaten karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aggressive situations mein calm rehna, professional tarike se baat karna aur zaroorat padne par backup mangna mahatvapurna hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Incident report mein kaun si details record karte hain?",
+      "options": {
+        "A": "Apni personal opinions",
+        "B": "Date, time, location, type of incident, persons involved, actions taken, witnesses",
+        "C": "Future predictions",
+        "D": "Random stories"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Incident report mein factual aur detailed information honi chahiye taaki accurate record maintain ho sake."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Natural disaster (e.g., earthquake) ke case mein security guard ki responsibilities kya hain?",
+      "options": {
+        "A": "Apne ghar chale jaana",
+        "B": "Logon ko guide karna, evacuation mein help karna, property ko secure karna",
+        "C": "Video game khelna",
+        "D": "Sirf apni jaan bachana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Natural disaster mein security guards ki role critical hoti hai logon ki safety ensure karne aur property ko further damage se bachane mein."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Hostage situation ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Negotiate karna",
+        "B": "Situation ko contain karna, turant police aur command center ko inform karna, khud se action na lena",
+        "C": "Bhaag jaana",
+        "D": "Hostage taker se dosti karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hostage situation ek high-risk scenario hai, jisme primary action authorities ko inform karna aur unke instructions follow karna hota hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Active shooter scenario mein security personnel ki kya role hoti hai?",
+      "options": {
+        "A": "Shooter ko rokne ki koshish karna",
+        "B": "ALICE (Alert, Lockdown, Inform, Counter, Evacuate) principles follow karna, logon ko guide karna, police ko inform karna",
+        "C": "Chup chap chhup jaana",
+        "D": "Selfie lena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Active shooter situations mein security personnel ko ALICE protocol follow karna chahiye, logon ki safety ensure karna aur law enforcement ko support karna."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Incident response plan (IRP) ka kya purpose hai?",
+      "options": {
+        "A": "Incidents ko ignore karna",
+        "B": "Incidents ko effectively manage aur resolve karne ke liye detailed steps provide karna",
+        "C": "Incidents ko record na karna",
+        "D": "Sirf bade incidents ke liye plan banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "IRP ek structured approach provide karta hai incidents ko handle karne ke liye, jisse response time kam hota hai aur damage minimize hota hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Post-incident analysis (PIA) kyun kiya jaata hai?",
+      "options": {
+        "A": "Sirf galti dhundhne ke liye",
+        "B": "Incident ke causes, response aur outcomes ko evaluate karna, lessons learn karna aur improvements identify karna",
+        "C": "Kisi ko blame karne ke liye",
+        "D": "Incidents ko bhool jaane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "PIA se future incidents ko rokne ke liye valuable insights milte hain aur security protocols ko improve kiya ja sakta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Hand-held metal detector (HHMD) ka use kya hai?",
+      "options": {
+        "A": "Door ko unlock karna",
+        "B": "Persons ki body par hidden metal objects detect karna",
+        "C": "Temperature check karna",
+        "D": "Light source provide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "HHMD ka use logon ki body ya belongings par chhupi hui metal ki cheezein (jaise weapons) detect karne ke liye hota hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "CCTV monitor par kya dekhte hain?",
+      "options": {
+        "A": "Movies",
+        "B": "Live video feed of surveillance areas",
+        "C": "News channels",
+        "D": "Weather reports"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CCTV monitor par security personnel surveillance areas ki real-time video feed dekhte hain taaki koi suspicious activity detect ki ja sake."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Walk-through metal detector (WTMD) kahan use hota hai?",
+      "options": {
+        "A": "Grocery stores mein",
+        "B": "High-security entry points (e.g., airports, government buildings)",
+        "C": "Playgrounds mein",
+        "D": "Restaurants mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "WTMD ka use high-security locations par large number of people ki quick screening ke liye hota hai taaki hidden metal objects detect kiye ja sake."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Two-way radio communication ka fayda kya hai?",
+      "options": {
+        "A": "Sirf music sunna",
+        "B": "Security team ke members ke beech quick aur effective communication",
+        "C": "Internet access",
+        "D": "Personal calls karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Two-way radio security team ko real-time communication provide karta hai, jisse coordination aur response time improve hota hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Boom barrier ka kya kaam hai?",
+      "options": {
+        "A": "Decorate karna",
+        "B": "Vehicle entry aur exit ko control karna",
+        "C": "Loud noise create karna",
+        "D": "Birds ko bhagana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Boom barrier vehicles ki entry aur exit ko physically regulate karta hai, unauthorized vehicles ko rokta hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Access control software mein kya manage karte hain?",
+      "options": {
+        "A": "Company ki website",
+        "B": "User credentials, access levels, schedules aur event logs",
+        "C": "Personal photos",
+        "D": "Game scores"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Access control software system ke saare parameters ko centrally manage karta hai, jisse flexibility aur security badhti hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Intruder alarm system kaise kaam karta hai?",
+      "options": {
+        "A": "Music bajata hai",
+        "B": "Sensors se unauthorized entry detect karta hai aur alarm trigger karta hai",
+        "C": "Light on karta hai",
+        "D": "Coffee banata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Intruder alarm system motion sensors, door/window contacts ka use karke unauthorized entry detect karta hai aur ek alarm bajata hai ya alert bhejta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Biometric scanner ki maintenance kaise karte hain?",
+      "options": {
+        "A": "Usko pani se dhona",
+        "B": "Lens ko regularly clean karna, software updates aur calibration check karna",
+        "C": "Usko hamesha on rakhna",
+        "D": "Usko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Biometric scanners ki proper functioning ke liye regular cleaning, software updates aur calibration zaroori hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Under Vehicle Surveillance System (UVSS) ka purpose kya hai?",
+      "options": {
+        "A": "Vehicle ka colour change karna",
+        "B": "Vehicle ke undercarriage ki inspection karna for hidden objects",
+        "C": "Vehicle ki speed measure karna",
+        "D": "Vehicle ko wash karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "UVSS vehicles ke undercarriage ki high-resolution images capture karta hai taaki explosives, weapons ya contrabands ko detect kiya ja sake."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "X-ray baggage scanner ka primary function kya hai?",
+      "options": {
+        "A": "Baggage ko weigh karna",
+        "B": "Baggage ke andar ke contents ko detect karna without opening it",
+        "C": "Baggage ko move karna",
+        "D": "Baggage ko label karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "X-ray scanners baggage ke andar ke contents ki images generate karte hain, jisse suspicious items (jaise weapons, explosives) ko detect kiya ja sake."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Video analytics ka security mein kya use hai?",
+      "options": {
+        "A": "Videos ko edit karna",
+        "B": "CCTV footage mein specific patterns, movements ya anomalies ko automatically detect karna",
+        "C": "Videos ko delete karna",
+        "D": "Videos ko compress karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Video analytics software CCTV footage ko analyze karta hai aur pre-defined rules ke hisab se suspicious activities (jaise unattended baggage, loitering) ko automatically identify karta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Perimeter security systems mein kya shamil hota hai?",
+      "options": {
+        "A": "Indoor sensors",
+        "B": "Fences, walls, perimeter intrusion detection systems (PIDS), outdoor CCTV",
+        "C": "Door locks",
+        "D": "Fire alarms"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Perimeter security systems property ki outer boundary ko protect karte hain, jisse unauthorized entry ko bahar hi roka ja sake."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Integrated Security Management System (ISMS) ke kya benefits hain?",
+      "options": {
+        "A": "Sirf ek system control karna",
+        "B": "Multiple security systems (access control, CCTV, alarms) ko ek platform se manage karna, better coordination, faster response",
+        "C": "Bahut complicated hota hai",
+        "D": "Bahut zyada manual effort lagta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ISMS sabhi security components ko ek saath integrate karta hai, jisse unified view aur better control milta hai, aur response time significantly improve hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Drone surveillance ka security mein kya role ho sakta hai?",
+      "options": {
+        "A": "Sirf photography karna",
+        "B": "Large areas ki aerial monitoring, rapid response to incidents, border security",
+        "C": "Package delivery karna",
+        "D": "Traffic jam karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Drones large areas ki real-time aerial surveillance provide karte hain, jo difficult-to-reach areas ko monitor karne aur incidents par turant respond karne mein helpful hain."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "AI-based security solutions gate management mein kaise help karte hain?",
+      "options": {
+        "A": "Sirf alarm bajana",
+        "B": "Automated face recognition, vehicle plate recognition, anomaly detection aur predictive analysis",
+        "C": "Manual verification badhana",
+        "D": "Data entry karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "AI-based solutions gate management ko automate aur enhance karte hain, jisse identification, verification aur threat detection zyada efficient aur accurate ho jaati hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Cybersecurity risks access control systems ko kaise affect kar sakte hain?",
+      "options": {
+        "A": "System ko zyada secure banate hain",
+        "B": "Unauthorized access, data breach, system tampering aur operational disruption",
+        "C": "System ko faster banate hain",
+        "D": "Koi affect nahi karte"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cybersecurity risks networked access control systems ko hack hone, data chori hone ya system ko disable karne ka threat dete hain, jisse physical security bhi compromise ho sakti hai."
+    }
+  ]
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "Fire Extinguisher & Evacuation Basics",
+  "sector": "Security & Facility Management",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Module 1: Introduction to Fire Safety & Basics",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Module 2: Fire Extinguishers - Types and Usage",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Module 3: Fire Alarm Systems & Detection",
+      "question_range": "Q35-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Module 4: Emergency Evacuation Procedures",
+      "question_range": "Q51-Q67"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Module 5: First Aid & Post-Evacuation Actions",
+      "question_range": "Q68-Q83"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Module 6: Legal & Compliance & Drills",
+      "question_range": "Q84-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Aag lagne ke liye kin teen cheezon ki zarurat hoti hai?",
+      "options": {
+        "A": "Heat, Fuel, Oxygen",
+        "B": "Water, Wood, Air",
+        "C": "Electricity, Gas, Oil",
+        "D": "Smoke, Ash, Fire"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Aag lagne ke liye 'Fire Triangle' ke teen elements zaroori hote hain: Heat (garmi), Fuel (jalne wala padarth), aur Oxygen (hawa)."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Class A fire mein kaun se materials shamil hote hain?",
+      "options": {
+        "A": "Flammable liquids jaise petrol",
+        "B": "Electrical equipment",
+        "C": "Ordinary combustibles jaise wood, paper, cloth",
+        "D": "Flammable metals"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Class A fires mein aam jalne wale padarth jaise lakdi, kagaz, kapde aate hain."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Facility mein fire safety ki primary responsibility kiski hoti hai?",
+      "options": {
+        "A": "Sirf Fire Brigade ki",
+        "B": "Sirf employees ki",
+        "C": "Har ek individual, management aur facility staff ki",
+        "D": "Sirf security guard ki"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Fire safety sabhi ki collective responsibility hoti hai, jismein management, facility staff aur har employee shamil hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Electrical equipment mein lagi aag kis Class ki fire hoti hai?",
+      "options": {
+        "A": "Class A",
+        "B": "Class B",
+        "C": "Class C",
+        "D": "Class D"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Electrical equipment mein lagi aag ko Class C fire kehte hain."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Kisi bhi building mein fire hazard ko identify karna kiska kaam hai?",
+      "options": {
+        "A": "Sirf Fire Safety Officer ka",
+        "B": "Facility Management aur Security staff ka bhi",
+        "C": "Building owner ka",
+        "D": "Visitors ka"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Facility Management aur Security staff ki zimmedari hoti hai ki woh building mein fire hazards ko identify karein aur report karein."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Agar aapko kisi area mein fire hazard dikhta hai (jaise overloaded socket), toh aapko kya karna chahiye?",
+      "options": {
+        "A": "Ignore kar dena chahiye",
+        "B": "Khud hi theek karne ki koshish karni chahiye",
+        "C": "Turant apne supervisor ya concerned department ko report karna chahiye",
+        "D": "Uski photo le kar social media par post karna chahiye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Safety ke liye, kisi bhi fire hazard ko turant apne supervisor ya concerned department ko report karna chahiye."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Flammable liquids jaise petrol ya diesel mein lagi aag kis class ki fire hoti hai?",
+      "options": {
+        "A": "Class A",
+        "B": "Class B",
+        "C": "Class C",
+        "D": "Class K"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Flammable liquids mein lagi aag Class B fire kehlati hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Cooking oil aur fats mein lagi aag kis class mein aati hai?",
+      "options": {
+        "A": "Class A",
+        "B": "Class B",
+        "C": "Class C",
+        "D": "Class K"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Cooking oil aur fats mein lagi aag Class K (Kitchen) fire hoti hai, jo specifically kitchen environments ke liye define ki gayi hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Fire ke 'tetrahedron' mein kaun sa extra element add kiya gaya hai fire triangle se?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Fuel",
+        "C": "Chemical Chain Reaction",
+        "D": "Heat"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Fire tetrahedron mein fire triangle ke teen elements (Heat, Fuel, Oxygen) ke alawa 'Chemical Chain Reaction' bhi shamil hota hai, jo aag ko maintain rakhta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Kisi facility mein 'No Smoking' signs ka kya mahatva hai?",
+      "options": {
+        "A": "Yeh sirf decoration ke liye hote hain",
+        "B": "Yeh fire hazards ko kam karne mein madad karte hain",
+        "C": "Yeh sirf rules follow karne ke liye hote hain",
+        "D": "Inka fire safety se koi lena dena nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "'No Smoking' signs flammable materials ke paas smoking se hone wale aag ke khatre ko kam karte hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek security guard ki kya zimmedari hai fire safety mein?",
+      "options": {
+        "A": "Sirf gate par khade rehna",
+        "B": "Emergency exits ko clear rakhna aur fire hazards report karna",
+        "C": "Fire drills mein participate na karna",
+        "D": "Sirf visitor entry manage karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Security guards ki zimmedari hai ki woh emergency exits ko clear rakhein, fire hazards report karein aur emergency situations mein help karein."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Agar aapko kisi area mein bahut saara kabaad ya waste material ikattha dikhta hai, toh yeh kya ho sakta hai?",
+      "options": {
+        "A": "Ek achhi storage practice",
+        "B": "Potential fuel source (fire hazard)",
+        "C": "Normal office setup",
+        "D": "Sirf ek mess"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Excessive waste material ek potential fuel source ho sakta hai, jo aag lagne par use aur failane mein madad kar sakta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Fire safety ke context mein 'Hot Work' ka kya matlab hai?",
+      "options": {
+        "A": "Garmi mein kaam karna",
+        "B": "Welding, cutting, grinding jaise kaam jismein sparks ya heat generate hoti hai",
+        "C": "Emergency mein tezi se kaam karna",
+        "D": "Garmi mein AC theek karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "'Hot Work' aise kaam hote hain jismein sparks, flame ya heat produce hoti hai, aur inmein aag lagne ka khatra zyada hota hai, isliye special precautions ki zaroorat hoti hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Fire safety ke liye electrical wiring ki proper maintenance kyun zaroori hai?",
+      "options": {
+        "A": "Electricity bill kam karne ke liye",
+        "B": "Short circuit aur electrical fire se bachne ke liye",
+        "C": "Lights ko bright rakhne ke liye",
+        "D": "Machines ko naya dikhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper electrical maintenance short circuits, overheating aur electrical fires ko prevent karta hai, jo ki ek bada fire hazard hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Metals mein lagi aag (jaise Magnesium, Titanium) kis class ki fire hoti hai?",
+      "options": {
+        "A": "Class A",
+        "B": "Class B",
+        "C": "Class C",
+        "D": "Class D"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Flammable metals mein lagi aag Class D fire hoti hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Fire ke case mein 'containment' ka kya matlab hai?",
+      "options": {
+        "A": "Aag ko ek jagah tak seemit rakhne ki koshish karna",
+        "B": "Aag ko bujha dena",
+        "C": "Logo ko bahar nikalna",
+        "D": "Fire brigade ko call karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Containment ka matlab hai aag ko ek limited area mein failne se rokna, taaki uska spread kam ho aur evacuation ke liye time mil sake."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Agar kisi building mein fire doors hain, toh unka purpose kya hai?",
+      "options": {
+        "A": "Sirf decoration ke liye",
+        "B": "Noise control ke liye",
+        "C": "Aag aur dhuein ko ek area se dusre area mein failne se rokna",
+        "D": "Security purposes ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Fire doors aag aur dhuein ko ek area se dusre area mein failne se rokte hain, jisse evacuation ke liye zyada time milta hai aur damage kam hota hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Fire Extinguisher ka sahi istemal karne ke liye kaun sa acronym use kiya jata hai?",
+      "options": {
+        "A": "STOP",
+        "B": "P.A.S.S.",
+        "C": "R.A.C.E.",
+        "D": "ALERT"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "P.A.S.S. (Pull, Aim, Squeeze, Sweep) fire extinguisher use karne ka sahi tareeka hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Water type fire extinguisher kis class ki fire ke liye suitable hai?",
+      "options": {
+        "A": "Class B",
+        "B": "Class C",
+        "C": "Class A",
+        "D": "Class K"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Water type extinguisher Class A fires (wood, paper, cloth) ke liye sabse zyada effective hota hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Electrical fire ko bujhane ke liye kaun sa extinguisher use karna chahiye?",
+      "options": {
+        "A": "Water type",
+        "B": "Foam type",
+        "C": "CO2 (Carbon Dioxide) type",
+        "D": "Wet Chemical type"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "CO2 extinguisher electrical fires (Class C) ke liye safe aur effective hota hai kyunki yeh non-conductive hota hai aur koi residue nahi chhodta."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "P.A.S.S. method mein 'P' ka kya matlab hai?",
+      "options": {
+        "A": "Push",
+        "B": "Pull the pin",
+        "C": "Press",
+        "D": "Point"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "P.A.S.S. mein 'P' ka matlab hai 'Pull the pin' (pin ko kheenche)."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Dry Chemical Powder (DCP) extinguisher kis type ki fires ke liye effective hai?",
+      "options": {
+        "A": "Sirf Class A",
+        "B": "Sirf Class B",
+        "C": "Class A, B, aur C fires ke liye",
+        "D": "Sirf Class K"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "DCP extinguishers multi-purpose hote hain aur Class A, B, aur C fires ke liye effective hote hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Foam type extinguisher kis class ki fire ke liye use hota hai?",
+      "options": {
+        "A": "Class A aur Class B",
+        "B": "Class C aur Class D",
+        "C": "Class K",
+        "D": "Sirf Class A"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Foam extinguishers Class A (ordinary combustibles) aur Class B (flammable liquids) fires ke liye effective hote hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Fire Extinguisher ki regular inspection mein kya check karna chahiye?",
+      "options": {
+        "A": "Sirf uski location",
+        "B": "Pressure gauge, seal, nozzle, aur physical damage",
+        "C": "Uska color",
+        "D": "Expiry date, agar hai toh"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular inspection mein pressure gauge ka sahi level, safety pin aur seal intact hai ya nahi, nozzle clear hai ya nahi, aur koi physical damage toh nahi hai, yeh sab check karna chahiye."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Wet Chemical extinguisher kis class ki fire ke liye specifically designed hai?",
+      "options": {
+        "A": "Class A",
+        "B": "Class B",
+        "C": "Class C",
+        "D": "Class K"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Wet Chemical extinguishers Class K (cooking oils aur fats) fires ke liye specifically designed hote hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Agar aapko ek fire extinguisher ka pressure gauge 'red' zone mein dikhta hai, toh uska kya matlab hai?",
+      "options": {
+        "A": "Extinguisher ready to use hai",
+        "B": "Extinguisher ko recharge ya replace karna padega",
+        "C": "Extinguisher mein extra pressure hai",
+        "D": "Yeh normal hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Red zone mein pressure gauge ka matlab hai ki extinguisher mein pressure kam hai ya zyada hai aur use recharge ya replace karne ki zaroorat hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "P.A.S.S. method mein 'A' ka kya matlab hai?",
+      "options": {
+        "A": "Activate",
+        "B": "Aim at the base of the fire",
+        "C": "Alert",
+        "D": "Approach"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "P.A.S.S. mein 'A' ka matlab hai 'Aim at the base of the fire' (aag ki jad par nishana lagayein)."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "CO2 extinguisher se aag bujhane ke baad kya side effect ho sakta hai?",
+      "options": {
+        "A": "Pani reh jayega",
+        "B": "Powder ka residue reh jayega",
+        "C": "Thandak (coldness) aur oxygen displacement",
+        "D": "Oil spread ho jayega"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "CO2 gas fire ko oxygen displace karke bujhati hai aur bahut thandi hoti hai, jisse surrounding area mein thandak badh jati hai aur oxygen level kam ho sakta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Agar kisi fire extinguisher ka nozzle block ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Usko zor se patakna chahiye",
+        "B": "Use karne ki koshish karni chahiye",
+        "C": "Usko service ke liye bhej dena chahiye",
+        "D": "Khud hi theek karna chahiye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Blocked nozzle wale extinguisher ko use nahi karna chahiye aur use turant service ke liye bhejna chahiye."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Fire Extinguisher ko kitni doori se use karna shuru karna chahiye?",
+      "options": {
+        "A": "Bilkul paas se",
+        "B": "Kam se kam 6-8 feet ki doori se",
+        "C": "Jitna ho sake utni doori se",
+        "D": "Sirf 1 foot ki doori se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aam taur par, fire extinguisher ko aag se 6-8 feet ki doori se use karna shuru karna chahiye, taaki aap safe distance par rahein aur effective tareeke se bujha sakein."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Extinguisher ko use karte waqt hawa ki disha (wind direction) ka kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Hawa ke opposite disha mein khade ho kar use karna chahiye",
+        "B": "Hawa ke saath disha mein khade ho kar use karna chahiye",
+        "C": "Hawa ki disha matter nahi karti",
+        "D": "Hawa rukne ka intezar karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hawa ke saath disha mein khade ho kar use karne se extinguishing agent aag ki taraf jayega aur aap dhuein se bache rahenge."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Agar aapne ek choti si aag bujha di hai, toh uske baad kya karna zaroori hai?",
+      "options": {
+        "A": "Kuch nahi, bas chale jao",
+        "B": "Confirm karna ki aag poori tarah bujh gayi hai aur report karna",
+        "C": "Extinguisher ko wapas uski jagah rakh dena",
+        "D": "Sabko batao ki aapne aag bujhai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aag bujhane ke baad bhi confirm karna zaroori hai ki woh poori tarah bujh gayi hai aur uski report apne supervisor ko deni chahiye."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Extinguisher par jo color band hota hai, woh kya represent karta hai?",
+      "options": {
+        "A": "Manufacture date",
+        "B": "Extinguisher ka type aur uske andar ka agent",
+        "C": "Uski cost",
+        "D": "Uski size"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Extinguisher par color band (jaise red body par yellow band for foam, black for CO2) uske andar ke agent aur type ko indicate karta hai, jisse use identify karna aasan hota hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Agar aap ek bade area mein aag ko control nahi kar pa rahe hain, toh aapko kya karna chahiye?",
+      "options": {
+        "A": "Zor lagate rehna chahiye",
+        "B": "Turant area evacuate karke fire brigade ko inform karna chahiye",
+        "C": "Pani se bujhane ki koshish karni chahiye",
+        "D": "Dusre extinguisher ka intezar karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar aag control se bahar ho toh apni safety ko priority dein, turant area evacuate karein aur professional help (fire brigade) ko call karein."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Smoke detectors ka primary function kya hai?",
+      "options": {
+        "A": "Temperature detect karna",
+        "B": "Dhuaan detect karna",
+        "C": "Aag ki laptein detect karna",
+        "D": "Gas leaks detect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Smoke detectors dhuaan detect karte hain, jo aag ke pehle signs mein se ek hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Manual Call Point (MCP) ko activate karne ke liye kya karna hota hai?",
+      "options": {
+        "A": "Usko ignore karna chahiye",
+        "B": "Usko todna (break glass) ya button dabana hota hai",
+        "C": "Usko saaf karna chahiye",
+        "D": "Uske paas khade rehna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MCP ko activate karne ke liye uske glass ko todna ya button dabana hota hai, jisse fire alarm trigger ho jata hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Fire Alarm Control Panel (FACP) ka kya role hai?",
+      "options": {
+        "A": "Sirf music bajana",
+        "B": "Sabhi fire detection devices se signals receive karna aur alarm activate karna",
+        "C": "Security cameras control karna",
+        "D": "Lighting control karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FACP fire alarm system ka brain hota hai, jo detectors aur MCPs se input lekar alarm ko activate karta hai aur location ki information deta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Heat detectors kis cheez ko detect karte hain?",
+      "options": {
+        "A": "Dhuaan ko",
+        "B": "Temperature mein sudden rise ya ek fixed temperature ko",
+        "C": "Aag ki lapton ko",
+        "D": "Chemical fumes ko"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Heat detectors ya toh temperature mein tezi se badlav (Rate-of-Rise) ya ek certain temperature (Fixed Temperature) tak pahunchne par activate hote hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Agar fire alarm bajta hai, toh aapki pehli action kya honi chahiye?",
+      "options": {
+        "A": "Apna kaam karte rehna",
+        "B": "Alarm ko ignore karna",
+        "C": "Turant evacuation procedure follow karna",
+        "D": "Pehle confirm karna ki aag lagi hai ya nahi"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Fire alarm bajne par, hamesha assume karein ki aag lagi hai aur turant evacuation procedure follow karein."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Flame detectors kis cheez ko detect karte hain?",
+      "options": {
+        "A": "Dhuaan ko",
+        "B": "Heat ko",
+        "C": "Aag ki lapton se nikalne wali infrared ya ultraviolet radiation ko",
+        "D": "Carbon monoxide ko"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Flame detectors aag ki lapton se nikalne wali specific infrared ya ultraviolet radiation ko detect karte hain, aur yeh high-hazard areas mein use hote hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Fire alarm system ki regular testing kyun zaroori hai?",
+      "options": {
+        "A": "Sirf rules follow karne ke liye",
+        "B": "Yeh ensure karne ke liye ki system emergency mein sahi kaam karega",
+        "C": "Bijli bachane ke liye",
+        "D": "Noise pollution karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular testing yeh ensure karta hai ki fire alarm system emergency mein sahi tareeke se activate hoga aur sabko timely alert karega."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Agar aapko kisi area mein aag dikhti hai aur fire alarm nahi baja hai, toh aapko kya karna chahiye?",
+      "options": {
+        "A": "Intezar karna chahiye ki alarm kab bajega",
+        "B": "Khud aag bujhane ki koshish karni chahiye",
+        "C": "Turant nearest Manual Call Point ko activate karein aur report karein",
+        "D": "Apne ghar chale jana chahiye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Agar aag dikhti hai aur alarm nahi baja hai, toh turant MCP activate karein aur situation ko report karein taaki sabko alert kiya ja sake."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Annunciation panel kya hota hai fire alarm system mein?",
+      "options": {
+        "A": "Ek speaker system",
+        "B": "Ek display panel jo fire ki exact location batata hai",
+        "C": "Ek control panel",
+        "D": "Ek battery backup system"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Annunciation panel (ya repeater panel) FACP se information lekar, aag ki exact location ya zone ko display karta hai, jo emergency responders ke liye helpful hota hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Kisi bhi fire alarm system mein 'false alarm' ko kaise minimize kiya ja sakta hai?",
+      "options": {
+        "A": "Detectors ko band karke",
+        "B": "Proper maintenance, correct detector placement aur cleanliness se",
+        "C": "Alarm ki awaz kam karke",
+        "D": "Kisi ko bhi alarm dabane se rok kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "False alarms ko minimize karne ke liye detectors ki sahi placement, regular cleaning aur maintenance zaroori hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Fire alarm ke sirens ka kya uddeshya hai?",
+      "options": {
+        "A": "Logo ko darana",
+        "B": "Sabhi occupants ko emergency ki warning dena",
+        "C": "Sirf security staff ko alert karna",
+        "D": "Noise pollution karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sirens ka uddeshya sabhi occupants ko tezi se aur effectively emergency ki warning dena hai, taaki woh evacuate kar sakein."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Addressable fire alarm system aur Conventional fire alarm system mein kya difference hai?",
+      "options": {
+        "A": "Koi difference nahi hai",
+        "B": "Addressable system exact location batata hai, conventional system sirf zone batata hai",
+        "C": "Conventional system zyada mahanga hota hai",
+        "D": "Addressable system wireless hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Addressable fire alarm system har detector ki exact location pinpoint karta hai, jabki conventional system sirf us zone ko batata hai jismein fire lagi hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Fire alarm system ke battery backup ka kya mahatva hai?",
+      "options": {
+        "A": "Bijli ka bill bachane ke liye",
+        "B": "Power cut hone par bhi system ko functional rakhne ke liye",
+        "C": "System ko zyada bright dikhane ke liye",
+        "D": "Usko portable banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery backup yeh ensure karta hai ki power failure ke case mein bhi fire alarm system kaam karta rahega, jisse safety bani rahegi."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Voice Evacuation System (VES) ka kya role hota hai?",
+      "options": {
+        "A": "Sirf music play karna",
+        "B": "Pre-recorded messages ya live announcements ke through evacuation instructions dena",
+        "C": "Security announcements karna",
+        "D": "Fire fighters ko direct karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "VES emergency mein clear, pre-recorded ya live voice messages ke through occupants ko evacuation instructions deta hai, jisse panic kam hota hai aur orderly evacuation hota hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Fire alarm system ko silence karne ka option kiske paas hona chahiye?",
+      "options": {
+        "A": "Har employee ke paas",
+        "B": "Sirf authorized personnel (jaise facility manager, security head) ke paas",
+        "C": "Visitors ke paas",
+        "D": "Kisi ke paas nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fire alarm system ko silence karne ka option sirf authorized personnel ke paas hona chahiye, taaki false alarms ko manage kiya ja sake, lekin safety compromise na ho."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Agar fire alarm bajta hai, toh kya lift ka istemal karna chahiye?",
+      "options": {
+        "A": "Haan, jaldi bahar nikalne ke liye",
+        "B": "Nahi, kyunki lift kisi bhi waqt ruk sakti hai ya fire shaft mein dhuaan bhar sakta hai",
+        "C": "Sirf emergency staff ko karna chahiye",
+        "D": "Agar jaldi ho toh kar sakte hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fire alarm bajne par lifts ka istemal kabhi nahi karna chahiye. Hamesha stairs (seedhiyon) ka use karein, kyunki lifts power cut hone par ya fire shaft mein dhuaan bharne par dangerous ho sakti hain."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Evacuation plan ka primary goal kya hai?",
+      "options": {
+        "A": "Building ko khali dikhana",
+        "B": "Sabhi occupants ko safety se building se bahar nikalna",
+        "C": "Fire brigade ko entertain karna",
+        "D": "Sirf dikhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Evacuation plan ka primary goal hai ki fire ya kisi aur emergency mein sabhi log bina kisi nuksan ke building se surakshit bahar nikal sakein."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Assembly Point kya hota hai?",
+      "options": {
+        "A": "Ek jagah jahan log aag bujhate hain",
+        "B": "Emergency mein building se nikalne ke baad sabhi ka ikattha hone ka designated safe place",
+        "C": "Ek meeting room",
+        "D": "Ek parking area"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Assembly Point ek pre-determined safe jagah hoti hai jahan building se evacuate hone ke baad sabhi log ikattha hote hain, taaki headcount ho sake."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Emergency exits ko hamesha clear kyun rakhna chahiye?",
+      "options": {
+        "A": "Yeh building ko sundar dikhate hain",
+        "B": "Emergency mein logo ko tezi se aur bina rukawat bahar nikalne ke liye",
+        "C": "Extra storage space ke liye",
+        "D": "Security reasons ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency exits ko clear rakhna zaroori hai taaki emergency ke waqt log bina kisi rukawat ke building se bahar nikal sakein."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Fire Marshal ya Floor Warden ka kya role hota hai evacuation ke dauran?",
+      "options": {
+        "A": "Sabse pehle bahar nikal jana",
+        "B": "Logo ko guide karna, help karna aur headcount mein madad karna",
+        "C": "Aag bujhana",
+        "D": "Fire brigade ka intezar karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fire Marshals ya Floor Wardens trained hote hain jo evacuation ke dauran logo ko guide karte hain, help karte hain aur assembly point par headcount mein madad karte hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Agar aapko evacuation ke dauran kisi viklang (disabled) vyakti ko help karni pade, toh kya karna chahiye?",
+      "options": {
+        "A": "Usko chhod dena chahiye",
+        "B": "Uski madad karne ke liye train kiye gaye method ko follow karna chahiye aur help mangni chahiye",
+        "C": "Usko lift mein bitha dena chahiye",
+        "D": "Usko zor se kheench kar le jana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Viklang vyaktiyon ki madad karne ke liye specific training hoti hai. Hamesha unki permission lein aur train kiye gaye methods ko follow karein, aur zaroorat padne par dusron se help maangein."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Evacuation routes par 'Exit' signs ka kya mahatva hai?",
+      "options": {
+        "A": "Yeh sirf decoration ke liye hote hain",
+        "B": "Yeh emergency exits ki disha batate hain",
+        "C": "Yeh bathroom ki disha batate hain",
+        "D": "Yeh sirf naye logo ke liye hote hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "'Exit' signs emergency exits aur evacuation routes ki disha dikhate hain, jisse log tezi se bahar nikal sakein."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Evacuation ke dauran 'R.A.C.E.' acronym mein 'C' ka kya matlab hai?",
+      "options": {
+        "A": "Call the police",
+        "B": "Contain the fire",
+        "C": "Control the crowd",
+        "D": "Calm down"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "R.A.C.E. ka matlab hai Rescue, Alarm, Contain, Extinguish/Evacuate. 'C' ka matlab hai 'Contain the fire'."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Agar evacuation ke dauran dhuaan bhari jagah se guzarna pade, toh kya karna chahiye?",
+      "options": {
+        "A": "Tezi se daudna chahiye",
+        "B": "Zameen ke kareeb reh kar (crawling) aage badhna chahiye",
+        "C": "Apni saans rok leni chahiye",
+        "D": "Wapas mud jana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dhuein mein, zameen ke kareeb reh kar aage badhna chahiye kyunki dhuaan upar uthta hai aur zameen ke paas saaf hawa milne ke chances zyada hote hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Evacuation ke baad assembly point par kya karna zaroori hai?",
+      "options": {
+        "A": "Gappe marna",
+        "B": "Headcount karwana aur missing persons ko report karna",
+        "C": "Wapas building mein jane ki koshish karna",
+        "D": "Mobile par games khelna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Assembly point par headcount karwana aur missing persons ko report karna bahut zaroori hai, taaki sabhi ki safety confirm ho sake."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Evacuation ke dauran panic ko kaise control kiya ja sakta hai?",
+      "options": {
+        "A": "Chillakar",
+        "B": "Calm aur clear instructions dekar",
+        "C": "Logo ko dhakka dekar",
+        "D": "Dar kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Calm aur clear instructions dene se log zyada organized rehte hain aur panic kam hota hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Evacuation plan ko kitni baar review aur update karna chahiye?",
+      "options": {
+        "A": "Kabhi nahi",
+        "B": "Saal mein ek baar ya jab bhi building mein koi bada badlav ho",
+        "C": "Har 5 saal mein",
+        "D": "Sirf naye employees ke aane par"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Evacuation plan ko regularly (minimum saal mein ek baar) review aur update karna chahiye, khaaskar jab building layout, occupancy ya regulations mein koi change ho."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Agar aapko evacuation ke dauran koi anjaan vyakti building mein enter karne ki koshish karta dikhe, toh kya karna chahiye?",
+      "options": {
+        "A": "Usko jaane dena chahiye",
+        "B": "Usko rokna chahiye aur security ko inform karna chahiye",
+        "C": "Ignore karna chahiye",
+        "D": "Usko help karni chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency ke dauran building mein unauthorized entry dangerous ho sakti hai. Usko rokna chahiye aur turant security ko inform karna chahiye."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Evacuation ke dauran kya apna personal belongings (bag, laptop) lena chahiye?",
+      "options": {
+        "A": "Haan, sab kuch le lena chahiye",
+        "B": "Nahi, apni jaan aur dusron ki safety ko priority deni chahiye",
+        "C": "Sirf agar bag chota ho",
+        "D": "Agar time mile toh le sakte hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency evacuation ke dauran apni jaan aur dusron ki safety sabse pehle hai. Personal belongings ko chhod kar turant evacuate karna chahiye."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Floor plans par evacuation routes kis color se highlight kiye jaate hain?",
+      "options": {
+        "A": "Blue",
+        "B": "Red ya Green",
+        "C": "Yellow",
+        "D": "Black"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Evacuation routes aam taur par floor plans par red ya green arrows se highlight kiye jaate hain, jo exits aur assembly points tak ka rasta batate hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Evacuation drills ka kya uddeshya hai?",
+      "options": {
+        "A": "Employees ko darana",
+        "B": "Evacuation plan ki effectiveness check karna aur employees ko practice karwana",
+        "C": "Sirf ek formal procedure",
+        "D": "Kaam band karwana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Evacuation drills plan ki effectiveness ko test karte hain aur employees ko emergency mein sahi tareeke se react karne ki practice karwate hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Agar evacuation ke dauran koi vyakti gir jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Usko chhod kar aage badh jana chahiye",
+        "B": "Uski madad karni chahiye, agar safe ho, aur dusron ko alert karna chahiye",
+        "C": "Usko daantna chahiye",
+        "D": "Uski photo leni chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar safe ho, toh gire hue vyakti ki madad karni chahiye aur dusre logo ko bhi alert karna chahiye taaki woh bhi help kar sakein ya usko avoid kar sakein."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Evacuation ke dauran darwaze (doors) ko khula chhodna chahiye ya band karna chahiye?",
+      "options": {
+        "A": "Hamesha khula chhodna chahiye",
+        "B": "Jahan se dhuaan aa raha ho, un darwazon ko band kar dena chahiye (agar safe ho)",
+        "C": "Koi farak nahi padta",
+        "D": "Sirf fire doors ko band karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Aag aur dhuein ko failne se rokne ke liye, agar safe ho, toh aag wale area ke darwazon ko band kar dena chahiye. Isse aag ka containment hota hai aur evacuation ke liye zyada time milta hai."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Minor burn hone par sabse pehla first aid kya dena chahiye?",
+      "options": {
+        "A": "Upar tel lagana",
+        "B": "Cool running water se 10-20 minute tak thanda karna",
+        "C": "Ice lagana",
+        "D": "Usko chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Minor burn par sabse pehle 10-20 minute tak cool running water se thanda karna chahiye, isse dard kam hota hai aur damage badhne se rukta hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Agar kisi vyakti ke kapdon mein aag lag jaye, toh usko kya instruction deni chahiye?",
+      "options": {
+        "A": "Daudna chahiye",
+        "B": "Stop, Drop and Roll",
+        "C": "Pani se nahana chahiye",
+        "D": "Kapde utaar dene chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kapdon mein aag lagne par 'Stop, Drop and Roll' (ruk jao, zameen par let kar luto) method use karna chahiye, isse aag bujh jati hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Post-evacuation, assembly point par headcount kyun zaroori hai?",
+      "options": {
+        "A": "Time pass karne ke liye",
+        "B": "Yeh confirm karne ke liye ki sabhi log surakshit bahar aa gaye hain",
+        "C": "Attendance lene ke liye",
+        "D": "Sirf formal procedure ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Headcount se pata chalta hai ki kitne log bahar aa gaye hain aur kitne log abhi bhi building ke andar ho sakte hain, jisse search and rescue efforts ko direct kiya ja sake."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Agar koi vyakti burn area par blisters develop karta hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Blisters ko phod dena chahiye",
+        "B": "Blisters ko touch nahi karna chahiye aur medical help leni chahiye",
+        "C": "Unpar garam paani dalna chahiye",
+        "D": "Unhain cover nahi karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blisters ko phodna nahi chahiye kyunki isse infection ho sakta hai. Unko saaf kapde se lightly cover karke medical help leni chahiye."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Evacuate kiye gaye logo ko building mein wapas jane ki permission kab deni chahiye?",
+      "options": {
+        "A": "Jaise hi aag bujh jaye",
+        "B": "Jab Fire Brigade ya authorized personnel 'All Clear' ka signal de dein",
+        "C": "Jab aapko lage ki sab theek hai",
+        "D": "Jab aapka kaam pending ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Building mein wapas jane ki permission tabhi deni chahiye jab Fire Brigade ya authorized personnel ne poori tarah se check kar liya ho aur 'All Clear' ka signal de diya ho."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Emergency services (Fire Brigade, Ambulance) ke saath coordination kyun zaroori hai?",
+      "options": {
+        "A": "Unko time pass karwane ke liye",
+        "B": "Effective response aur situation ko manage karne ke liye",
+        "C": "Sirf formality ke liye",
+        "D": "Unko direction dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency services ke saath proper coordination se situation ko tezi se aur effectively manage kiya ja sakta hai, jisse jaan aur maal ka nuksan kam hota hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Agar kisi ko dhuein se saans lene mein takleef ho rahi ho (smoke inhalation), toh kya karna chahiye?",
+      "options": {
+        "A": "Usko pani pilana chahiye",
+        "B": "Usko turant fresh air mein le jana chahiye aur medical help leni chahiye",
+        "C": "Usko kapde se dhak dena chahiye",
+        "D": "Usko sula dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Smoke inhalation ek serious medical emergency hai. Vyaki ko turant fresh air mein le jayein aur bina deri kiye medical help (ambulance) bulayein."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Post-evacuation, agar koi employee missing hai, toh kya action leni chahiye?",
+      "options": {
+        "A": "Usko chhod dena chahiye",
+        "B": "Turant Fire Brigade ya incident commander ko inform karna chahiye",
+        "C": "Khud hi usko dhundhne jana chahiye",
+        "D": "Uski family ko call karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Missing person ki information turant Fire Brigade ya incident commander ko deni chahiye, taaki woh search and rescue operations shuru kar sakein."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Minor burns par ointment ya butter lagana sahi hai ya galat?",
+      "options": {
+        "A": "Sahi hai, isse dard kam hota hai",
+        "B": "Galat hai, isse infection ho sakta hai aur heat trap ho sakti hai",
+        "C": "Sirf agar bahut thodi si aag lagi ho",
+        "D": "Koi farak nahi padta"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ointment, butter ya koi bhi greasy substance lagana galat hai kyunki yeh heat ko trap kar sakte hain aur infection ka risk badha sakte hain. Hamesha cool running water use karein."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Emergency responders (Fire Brigade) ke aane par facility staff ka kya role hota hai?",
+      "options": {
+        "A": "Unko ignore karna",
+        "B": "Unko situation, building layout aur kisi bhi hazard ke baare mein information provide karna",
+        "C": "Unko order dena",
+        "D": "Unke kaam mein interfere karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Facility staff ko emergency responders ko situation ki accurate information, building layout maps aur kisi bhi potential hazard ke baare mein batana chahiye, taaki woh effectively kaam kar sakein."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Psychological support (logo ko shant karna) kyun zaroori hai emergency ke baad?",
+      "options": {
+        "A": "Yeh sirf formality hai",
+        "B": "Panic aur trauma ko kam karne ke liye",
+        "C": "Logo ko rokne ke liye",
+        "D": "Unko bore karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency ke baad log stress aur trauma mein ho sakte hain. Unko shant karna aur psychological support provide karna unki mental well-being ke liye zaroori hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Agar koi vyakti poori tarah se jal gaya ho (severe burn), toh kya karna chahiye?",
+      "options": {
+        "A": "Uske kapde utaarne chahiye",
+        "B": "Turant medical help bulani chahiye aur burn ko saaf, non-stick kapde se cover karna chahiye",
+        "C": "Usko chhod dena chahiye",
+        "D": "Uspe ice lagani chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Severe burns ek medical emergency hain. Turant medical help bulayein (ambulance) aur burn ko infection se bachane ke liye saaf, non-stick material se lightly cover karein. Kapde na utaarein jo chipak gaye hon."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Post-evacuation, agar koi area safe declare nahi kiya gaya hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Wahan enter kar jana chahiye",
+        "B": "Door rehna chahiye aur security instructions follow karni chahiye",
+        "C": "Khud check karna chahiye",
+        "D": "Dusre logo ko wahan jane ke liye kehna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jab tak area safe declare na ho, usse door rehna chahiye kyunki wahan abhi bhi dangers ho sakte hain. Hamesha security aur emergency personnel ki instructions follow karein."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Fire incident ke baad, media ya public se baat karne ki permission kisko hoti hai?",
+      "options": {
+        "A": "Har employee ko",
+        "B": "Sirf authorized spokesperson ya senior management ko",
+        "C": "Security guards ko",
+        "D": "Kisi ko nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Fire incident ke baad, media ya public se baat karne ki zimmedari sirf authorized spokesperson ya senior management ki hoti hai, taaki accurate aur consistent information di ja sake."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar kisi vyakti ke baalon mein aag lag jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Usko daudna chahiye",
+        "B": "Uske baalon par paani dalna chahiye ya use kisi kapde se dhak dena chahiye",
+        "C": "Usko chhod dena chahiye",
+        "D": "Uske baal kaat dene chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar baalon mein aag lag jaye toh turant paani dalna chahiye ya use kisi non-flammable kapde se dhak dena chahiye taaki oxygen supply cut ho jaye."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Fire incident ke baad building ki 'Re-entry' ki permission kaun deta hai?",
+      "options": {
+        "A": "Koi bhi employee",
+        "B": "Fire Brigade Chief ya designated Incident Commander",
+        "C": "Building owner",
+        "D": "Security guard"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Building ki safety confirm hone ke baad, Fire Brigade Chief ya designated Incident Commander hi re-entry ki permission dete hain."
+    },
+    {
+      "qno": 84,
+      "module": 6,
+      "question": "Fire Safety Audit kyun kiya jata hai?",
+      "options": {
+        "A": "Sirf building ki khubsurti dekhne ke liye",
+        "B": "Fire safety measures ki compliance aur effectiveness check karne ke liye",
+        "C": "Employees ko darane ke liye",
+        "D": "Bijli ka bill kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fire Safety Audit yeh ensure karta hai ki building mein sabhi fire safety measures sahi hain aur legal standards ko follow karte hain."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Fire drills kitni baar conduct kiye jane chahiye?",
+      "options": {
+        "A": "Kabhi nahi",
+        "B": "Saal mein kam se kam ek ya do baar",
+        "C": "Har 5 saal mein",
+        "D": "Jab naye employees aayein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fire drills regularly (aam taur par saal mein kam se kam ek ya do baar) conduct kiye jane chahiye taaki employees trained rahein."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Fire safety regulations ka palan karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf fine se bachne ke liye",
+        "B": "Jaan aur maal ki suraksha ke liye",
+        "C": "Business reputation ke liye",
+        "D": "Yeh sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Fire safety regulations ka palan jaan aur maal ki suraksha, legal compliance aur business reputation ke liye zaroori hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Fire Extinguisher inspection records ko kitne time tak maintain karna chahiye?",
+      "options": {
+        "A": "Ek mahine tak",
+        "B": "Kam se kam 3 saal tak ya local regulations ke hisaab se",
+        "C": "Jab tak naya extinguisher na kharida jaye",
+        "D": "Koi record maintain karne ki zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Fire extinguisher inspection records ko kam se kam 3 saal tak ya local fire safety regulations ke hisaab se maintain karna chahiye, taaki compliance dikhaya ja sake."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Fire safety training ka kya mahatva hai facility staff ke liye?",
+      "options": {
+        "A": "Yeh sirf ek formality hai",
+        "B": "Unko emergency mein sahi tareeke se react karne aur jaan bachane ke liye taiyar karna",
+        "C": "Unko busy rakhna",
+        "D": "Unko fire fighter banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fire safety training facility staff ko fire hazards ko pehchanne, extinguishers use karne aur evacuation procedures ko follow karne ke liye taiyar karta hai, jo emergency mein jaan bachane ke liye crucial hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Fire Safety Officer ka kya role hota hai?",
+      "options": {
+        "A": "Sirf paperwork karna",
+        "B": "Fire safety plans develop karna, implement karna aur monitor karna",
+        "C": "Aag bujhana",
+        "D": "Security staff ko supervise karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fire Safety Officer fire safety policies aur procedures ko develop, implement aur monitor karte hain, aur training provide karte hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Mock fire drill ke baad kya karna zaroori hai?",
+      "options": {
+        "A": "Sabko chutti de deni chahiye",
+        "B": "Drill ka evaluation karna aur improvements identify karna",
+        "C": "Sabko treat dena chahiye",
+        "D": "Bhool jana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mock drill ke baad uska evaluation karna zaroori hai, taaki pata chale ki kya sahi hua aur kahan improvements ki zaroorat hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Legal compliance ke liye fire safety equipment ko kis standard ke hisaab se install karna chahiye?",
+      "options": {
+        "A": "Apni marzi se",
+        "B": "Local fire safety codes aur national standards ke hisaab se",
+        "C": "Sabse saste option ke hisaab se",
+        "D": "Sirf dikhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Fire safety equipment ko hamesha local fire safety codes aur recognized national standards (jaise BIS in India) ke anusaar install karna chahiye."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Fire safety training mein kya shamil hona chahiye?",
+      "options": {
+        "A": "Sirf ek video dekhna",
+        "B": "Fire hazards, extinguisher usage, evacuation procedures aur first aid basics",
+        "C": "Sirf theoretical knowledge",
+        "D": "Sirf ek din ka session"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Comprehensive fire safety training mein fire hazards ki pehchan, extinguisher usage, evacuation procedures, first aid basics aur practical drills shamil hone chahiye."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Agar kisi facility mein fire safety non-compliance paya jata hai, toh kya ho sakta hai?",
+      "options": {
+        "A": "Kuch nahi hoga",
+        "B": "Heavy fines, legal action aur building closure tak ho sakti hai",
+        "C": "Sirf warning milegi",
+        "D": "Bonus milega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fire safety non-compliance ke serious consequences ho sakte hain, jaise heavy fines, legal action, insurance issues aur building ko band bhi kiya ja sakta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Visitor management mein fire safety ka kya role hai?",
+      "options": {
+        "A": "Visitors ko darana",
+        "B": "Visitors ko emergency procedures ki basic information dena aur unki tracking karna",
+        "C": "Visitors ko ignore karna",
+        "D": "Visitors ko building mein ghumne dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Visitors ko emergency procedures ki brief information dena aur unki tracking karna zaroori hai, taaki emergency mein unki safety ensure ki ja sake aur headcount mein madad mile."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Fire safety ke liye 'preventive maintenance' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf tab repair karna jab kuch toot jaye",
+        "B": "Equipment ki regular checking aur servicing taaki failures se bacha ja sake",
+        "C": "Naye equipment kharidna",
+        "D": "Equipment ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Preventive maintenance ka matlab hai fire safety equipment (detectors, extinguishers, alarms) ki regular checking aur servicing karna, taaki woh emergency mein sahi kaam karein aur failures ko roka ja sake."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Fire safety awareness posters aur signage ka kya fayda hai?",
+      "options": {
+        "A": "Yeh sirf jagah bharte hain",
+        "B": "Logo ko fire safety procedures aur equipment ke baare mein remind aur inform karte hain",
+        "C": "Yeh decoration ka hissa hain",
+        "D": "Inka koi fayda nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Awareness posters aur signage continuous reminder provide karte hain aur logo ko fire safety procedures, exit routes aur equipment ke baare mein inform karte hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Incident Reporting ka kya mahatva hai fire safety mein?",
+      "options": {
+        "A": "Sirf galti nikalne ke liye",
+        "B": "Incidents se seekhna, root cause analyze karna aur future mein repeat hone se rokna",
+        "C": "Kisi ko blame karne ke liye",
+        "D": "Koi mahatva nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Incident reporting se hum incidents ki wajah jaan pate hain, corrective actions le pate hain aur future mein similar incidents ko rokne ke liye strategies bana pate hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Fire safety ke liye 'Evacuation Chairs' ka kya use hai?",
+      "options": {
+        "A": "Aam baithne ke liye",
+        "B": "Viklang ya injured vyaktiyon ko seedhiyon se niche utarne mein madad karne ke liye",
+        "C": "Storage ke liye",
+        "D": "Decoration ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Evacuation chairs specially designed hoti hain jo viklang ya injured logo ko seedhiyon ke through safely evacuate karne mein madad karti hain."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Facility mein 'Fire Wardens' ki adequate संख्या (number) kyun zaroori hai?",
+      "options": {
+        "A": "Sirf formality ke liye",
+        "B": "Emergency mein har floor ya zone par effective guidance aur support provide karne ke liye",
+        "C": "Unko dikhane ke liye",
+        "D": "Unko extra kaam dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Adequate number of Fire Wardens ensure karta hai ki emergency mein har area mein trained personnel maujood ho jo logo ko guide kar sake aur smooth evacuation mein madad kar sake."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Fire safety ke liye 'Housekeeping' ka kya role hai?",
+      "options": {
+        "A": "Sirf safai rakhna",
+        "B": "Clutter aur flammable materials ko hatakar fire hazards ko kam karna",
+        "C": "Decoration karna",
+        "D": "Koi role nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Achhi housekeeping practices (jaise clutter hatana, flammable materials ko sahi jagah store karna) fire hazards ko significantly kam karti hain."
+    }
+  ]
+}

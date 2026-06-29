@@ -1,56 +1,137 @@
 import { Link } from 'react-router-dom';
-import { Star, BookOpen, Search, Landmark, Award, ClipboardCheck, Globe, GraduationCap, PlayCircle, Trophy, Smartphone, Wallet, RefreshCw, Handshake } from 'lucide-react';
+import { motion } from 'framer-motion';
+import { BookOpen, Landmark, Award, ClipboardCheck, Globe, GraduationCap, PlayCircle, Trophy, Handshake } from 'lucide-react';
 import { SECTORS } from '../data/courses';
+import { useLang } from '../context/LangContext';
+
+const fadeIn = {
+  hidden: { opacity: 0, y: 20 },
+  visible: { opacity: 1, y: 0, transition: { duration: 0.6 } }
+};
+
+const staggerContainer = {
+  hidden: { opacity: 0 },
+  visible: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.1
+    }
+  }
+};
 
 export default function HomePage() {
   const topSectors = SECTORS.slice(0, 12);
+  const { t } = useLang();
 
   return (
     <>
       {/* ══════════════════════════════════════════════════════
-          HERO SECTION
+          FUTURISTIC HERO SECTION
           ══════════════════════════════════════════════════════ */}
       <section className="hero" id="hero">
+        <div className="hero-orb hero-orb-1"></div>
+        <div className="hero-orb hero-orb-2"></div>
+        <div className="hero-orb hero-orb-3"></div>
         <div className="hero-inner">
-          <div className="hero-left">
+          <div className="reveal">
             <div className="hero-eyebrow">
-              <span style={{ display: 'inline-flex', alignItems: 'center' }}><Star size={14} style={{ marginRight: '4px' }}/></span> Government Recognized · ISO 9001:2015 Certified
+              <div className="dot"></div>
+              <span>{t('hero.badge') || 'Admissions Open 2026'}</span>
             </div>
             <h1>
-              Get <span className="gold">Certified.</span><br />
-              Get <span className="rose">Hired.</span>
+              <div className="line-normal">{t('hero.title1') || 'Empowering India'}</div>
+              <div className="line-gold typing-animation">{t('hero.title2') || 'Through Skills'}</div>
             </h1>
-            <p className="hero-sub">
-              CETCF offers 225+ government-recognized vocational certifications across 23 sectors.
-              Learn at your pace, pass the online exam, and receive your certificate — all from home.
-            </p>
+            <p className="hero-sub">{t('hero.sub') || 'Get a globally recognized, NITI Aayog & ISO 9001:2015 certified skill certificate. Online exams, instant results, and QR-verifiable credentials for your career growth.'}</p>
             <div className="hero-btns">
-              <Link to="/courses" className="btn btn-gold btn-lg" id="hero-cta-courses" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
-                <BookOpen size={18} /> Browse Courses
+              <Link to="/courses" className="btn-primary">
+                <span>{t('hero.browseCourses') || 'Start Your Journey'}</span> <span className="arrow">→</span>
               </Link>
-              <Link to="/verify" className="btn btn-outline btn-lg" id="hero-cta-verify" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
-                <Search size={18} /> Verify Certificate
+              <Link to="/verify" className="btn-ghost">
+                <span>{t('hero.verifyCert') || 'Verify Certificate'}</span>
               </Link>
             </div>
+            
+            <div className="hero-stats">
+              <div className="hero-stat stat-item">
+                <div className="stat-num">225+</div>
+                <div className="stat-label">{t('hero.stat.courses') || 'Courses'}</div>
+              </div>
+              <div className="hero-stat stat-item">
+                <div className="stat-num">23</div>
+                <div className="stat-label">{t('hero.stat.sectors') || 'Sectors'}</div>
+              </div>
+              <div className="hero-stat stat-item">
+                <div className="stat-num">100%</div>
+                <div className="stat-label">{t('hero.stat.online') || 'Online'}</div>
+              </div>
+              <div className="hero-stat stat-item">
+                <div className="stat-num">₹1K</div>
+                <div className="stat-label">{t('hero.stat.start') || 'Start'}</div>
+              </div>
+            </div>
           </div>
-
-          <div className="hero-right">
-            <div className="hero-stats-grid">
-              <div className="hero-stat">
-                <div className="hero-stat-value">225+</div>
-                <div className="hero-stat-label">Courses</div>
+          
+          <div className="hero-right reveal reveal-delay-2">
+            <div className="growth-chart-wrapper glass-panel" style={{ padding: '30px', width: '100%', maxWidth: '380px', position: 'relative', background: 'var(--bg-card)', border: '1px solid var(--border-gold)', borderRadius: 'var(--radius-md)' }}>
+              <div style={{ marginBottom: '30px', textAlign: 'center' }}>
+                 <h3 style={{ margin: 0, color: 'var(--gold2)', fontSize: '14px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '2px' }}>Career Growth</h3>
               </div>
-              <div className="hero-stat">
-                <div className="hero-stat-value">23</div>
-                <div className="hero-stat-label">Sectors</div>
-              </div>
-              <div className="hero-stat">
-                <div className="hero-stat-value">100%</div>
-                <div className="hero-stat-label">Online Exam</div>
-              </div>
-              <div className="hero-stat">
-                <div className="hero-stat-value">₹1K</div>
-                <div className="hero-stat-label">Starting Fee</div>
+              <div className="growth-chart" style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', height: '160px', position: 'relative' }}>
+                 <svg viewBox="0 0 100 100" style={{ position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, overflow: 'visible', zIndex: 2 }} preserveAspectRatio="none">
+                    <motion.polyline 
+                      initial={{ pathLength: 0 }}
+                      animate={{ pathLength: 1 }}
+                      transition={{ duration: 1.5, delay: 0.5, ease: 'easeOut' }}
+                      points="5,80 23,65 41,45 59,25 77,10 95,-10" 
+                      fill="none" 
+                      stroke="var(--gold)" 
+                      strokeWidth="2" 
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      style={{ filter: 'drop-shadow(0 0 6px rgba(200,150,12,0.8))' }}
+                    />
+                    <motion.polygon
+                      initial={{ opacity: 0 }}
+                      animate={{ opacity: 1 }}
+                      transition={{ delay: 2, duration: 0.3 }}
+                      points="92,-5 98,-14 88,-12"
+                      fill="var(--gold)"
+                      style={{ filter: 'drop-shadow(0 0 6px rgba(200,150,12,0.8))' }}
+                    />
+                    
+                    {/* Glowing dots at data points */}
+                    {[
+                      {cx: 5, cy: 80}, {cx: 23, cy: 65}, {cx: 41, cy: 45}, 
+                      {cx: 59, cy: 25}, {cx: 77, cy: 10}, {cx: 95, cy: -10}
+                    ].map((pt, i) => (
+                      <motion.circle 
+                        key={`pt-${i}`}
+                        initial={{ opacity: 0, scale: 0 }}
+                        animate={{ opacity: 1, scale: 1 }}
+                        transition={{ delay: 0.5 + (i * 0.3), duration: 0.3 }}
+                        cx={pt.cx} cy={pt.cy} r="2" fill="#fff"
+                        style={{ filter: 'drop-shadow(0 0 4px var(--gold))' }}
+                      />
+                    ))}
+                 </svg>
+                 
+                 {[20, 35, 55, 75, 90, 110].map((h, i) => (
+                   <motion.div 
+                     key={i}
+                     initial={{ height: 0, opacity: 0 }}
+                     animate={{ height: `${h}%`, opacity: 1 }}
+                     transition={{ duration: 0.6, delay: 0.2 + (i * 0.15) }}
+                     style={{ 
+                       width: '12%', 
+                       background: 'linear-gradient(to top, rgba(200,150,12,0.1), rgba(200,150,12,0.8))',
+                       borderRadius: '4px 4px 0 0',
+                       boxShadow: '0 0 15px rgba(200,150,12,0.2)',
+                       position: 'relative',
+                       zIndex: 1
+                     }}
+                   />
+                 ))}
               </div>
             </div>
           </div>
@@ -60,193 +141,179 @@ export default function HomePage() {
       {/* ══════════════════════════════════════════════════════
           TRUST BAR
           ══════════════════════════════════════════════════════ */}
-      <section className="trust-bar" id="trust-bar">
+      <section className="trust-bar" id="trust-bar" style={{ background: 'var(--surface)', borderTop: '1px solid var(--glass-border)', borderBottom: '1px solid var(--glass-border)', padding: '40px 0' }}>
         <div className="wrap-lg">
-          <div className="trust-items">
-            <div className="trust-item">
-              <span className="trust-icon"><Landmark size={24} color="var(--cetc-gold)" /></span>
-              Section 8 Company (Govt. of India)
-            </div>
-            <div className="trust-item">
-              <span className="trust-icon"><Award size={24} color="var(--cetc-gold)" /></span>
-              ISO 9001:2015 Certified
-            </div>
-            <div className="trust-item">
-              <span className="trust-icon"><ClipboardCheck size={24} color="var(--cetc-gold)" /></span>
-              Sec. 8 Lic. 181729
-            </div>
-            <div className="trust-item">
-              <span className="trust-icon"><Globe size={24} color="var(--cetc-gold)" /></span>
-              Pan-India Recognition
-            </div>
-            <div className="trust-item">
-              <span className="trust-icon"><GraduationCap size={24} color="var(--cetc-gold)" /></span>
-              RPL + Training Dual Pathway
+          <div style={{ overflow: 'hidden', whiteSpace: 'nowrap', width: '100%' }}>
+            <div style={{ display: 'inline-flex', animation: 'scrollMarquee 20s linear infinite', gap: '40px', paddingRight: '40px' }}>
+              {[
+                { icon: <Landmark size={24} color="var(--gold)" />, text: t('trust.section8') },
+                { icon: <Award size={24} color="var(--gold)" />, text: t('trust.iso') },
+                { icon: <ClipboardCheck size={24} color="var(--gold)" />, text: t('trust.govt') },
+                { icon: <Globe size={24} color="var(--gold)" />, text: t('trust.panIndia') },
+                { icon: <GraduationCap size={24} color="var(--gold)" />, text: t('trust.rpl') },
+                // Duplicate for seamless marquee loop
+                { icon: <Landmark size={24} color="var(--gold)" />, text: t('trust.section8') },
+                { icon: <Award size={24} color="var(--gold)" />, text: t('trust.iso') },
+                { icon: <ClipboardCheck size={24} color="var(--gold)" />, text: t('trust.govt') },
+                { icon: <Globe size={24} color="var(--gold)" />, text: t('trust.panIndia') },
+                { icon: <GraduationCap size={24} color="var(--gold)" />, text: t('trust.rpl') }
+              ].map((item, i) => (
+                <div key={i} className="trust-item" style={{ display: 'inline-flex', alignItems: 'center', gap: '12px', fontSize: '16px', fontWeight: 600, color: 'var(--text-main)' }}>
+                  <div style={{ padding: '12px', background: 'rgba(184, 134, 11, 0.1)', borderRadius: '12px', border: '1px solid rgba(184, 134, 11, 0.2)' }}>
+                    {item.icon}
+                  </div>
+                  {item.text}
+                </div>
+              ))}
             </div>
           </div>
         </div>
       </section>
 
       {/* ══════════════════════════════════════════════════════
-          TWO PATHWAYS (Revenue Streams)
+          PARTNERS
           ══════════════════════════════════════════════════════ */}
-      <section className="pathways" id="pathways">
+      <section style={{ padding: '40px 0', background: '#fff', borderTop: '1px solid #f1f5f9' }}>
+        <div className="wrap">
+          <p style={{ textAlign: 'center', fontSize: '14px', fontWeight: 600, color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '2px', marginBottom: '32px' }}>
+            Recognized By & Affiliated With
+          </p>
+          <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '40px', flexWrap: 'wrap' }}>
+            {[1, 2, 3, 4, 5].map((num) => (
+              <img 
+                key={num}
+                src={`/partners/partner-${num}.jpeg`} 
+                alt={`Partner ${num}`} 
+                style={{ height: '60px', objectFit: 'contain', filter: 'grayscale(100%) opacity(0.7)', transition: 'all 0.3s', cursor: 'pointer' }}
+                onMouseOver={(e) => { e.currentTarget.style.filter = 'grayscale(0%) opacity(1)'; e.currentTarget.style.transform = 'scale(1.05)'; }}
+                onMouseOut={(e) => { e.currentTarget.style.filter = 'grayscale(100%) opacity(0.7)'; e.currentTarget.style.transform = 'scale(1)'; }}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ══════════════════════════════════════════════════════
+          TWO PATHWAYS
+          ══════════════════════════════════════════════════════ */}
+      <section className="pathways section" id="pathways">
         <div className="wrap">
           <div style={{ textAlign: 'center', marginBottom: '8px' }}>
-            <span className="sec-eyebrow" style={{ color: 'var(--gold-light)' }}>How It Works</span>
+            <motion.span initial="hidden" whileInView="visible" viewport={{ once: true }} variants={fadeIn} className="sec-eyebrow" style={{ color: 'var(--gold-light)' }}>{t('path.eyebrow')}</motion.span>
           </div>
-          <h2 className="sec-title" style={{ textAlign: 'center', color: '#fff' }}>
-            Two Ways to Get <span>Certified</span>
-          </h2>
-          <p className="sec-subtitle" style={{ textAlign: 'center', color: 'rgba(255,255,255,0.5)', margin: '0 auto' }}>
-            Whether you're starting fresh or already have skills — there's a path for you.
-          </p>
-
-          <div className="pathways-grid">
-            {/* Path 1: Buy Course + Certify */}
-            <div className="pathway-card gold">
-              <div className="pathway-icon"><PlayCircle size={32} /></div>
-              <h3 className="pathway-title">Learn & Get Certified</h3>
-              <p className="pathway-desc">
-                Purchase our video course, study at your own pace, and when ready — take the online MCQ exam. Pass and receive your government-recognized certificate.
+          <motion.h2 initial="hidden" whileInView="visible" viewport={{ once: true }} variants={fadeIn} className="sec-title" style={{ textAlign: 'center', color: '#ffffff' }}>
+            {t('path.title1')} <span className="glow-text" style={{ color: 'var(--gold)' }}>{t('path.title2')}</span>
+          </motion.h2>
+          
+          <motion.div 
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true }}
+            variants={staggerContainer}
+            className="pathways-grid" 
+            style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '32px', marginTop: '60px' }}
+          >
+            {/* Path 1: Learn */}
+            <motion.div variants={fadeIn} className="glass-panel" style={{ padding: '40px', position: 'relative', overflow: 'hidden', background: 'var(--surface)' }}>
+              <div style={{ position: 'absolute', top: 0, right: 0, width: '150px', height: '150px', background: 'radial-gradient(circle, rgba(184, 134, 11, 0.1) 0%, transparent 70%)', filter: 'blur(30px)' }} />
+              <div style={{ width: '64px', height: '64px', borderRadius: '16px', background: 'rgba(184, 134, 11, 0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '24px', border: '1px solid rgba(184, 134, 11, 0.2)', color: 'var(--gold)' }}>
+                <PlayCircle size={32} />
+              </div>
+              <h3 style={{ fontSize: '28px', color: 'var(--text-main)', marginBottom: '16px' }}>{t('path.learn.title')}</h3>
+              <p style={{ color: 'var(--muted)', fontSize: '16px', marginBottom: '32px' }}>
+                {t('path.learn.desc')}
               </p>
-              <ul className="pathway-steps">
-                <li>
-                  <span className="step-num">1</span>
-                  Choose your course & pay the fee
-                </li>
-                <li>
-                  <span className="step-num">2</span>
-                  Watch video lessons & study material
-                </li>
-                <li>
-                  <span className="step-num">3</span>
-                  Take the online MCQ exam (from home)
-                </li>
-                <li>
-                  <span className="step-num">4</span>
-                  Pass with 50% & get your certificate instantly
-                </li>
-              </ul>
               <div style={{ marginTop: '24px' }}>
-                <Link to="/courses" className="btn btn-gold">
-                  Browse Courses →
+                <Link to="/courses" className="btn" style={{ background: 'var(--gold)', color: '#fff', fontWeight: 700 }}>
+                  {t('path.learn.btn')}
                 </Link>
               </div>
-            </div>
+            </motion.div>
 
-            {/* Path 2: Direct Certification (RPL) */}
-            <div className="pathway-card rose">
-              <div className="pathway-icon"><Trophy size={32} /></div>
-              <h3 className="pathway-title">Already Skilled? Get Certified Directly</h3>
-              <p className="pathway-desc">
-                If you already have the skills (learned from work, ITI, or other training) — skip the course. Pay the exam fee, pass the MCQ test, and get your government certificate.
+            {/* Path 2: RPL */}
+            <motion.div variants={fadeIn} className="glass-panel" style={{ padding: '40px', position: 'relative', overflow: 'hidden', background: 'var(--surface)' }}>
+              <div style={{ position: 'absolute', top: 0, right: 0, width: '150px', height: '150px', background: 'radial-gradient(circle, rgba(194, 24, 91, 0.1) 0%, transparent 70%)', filter: 'blur(30px)' }} />
+              <div style={{ width: '64px', height: '64px', borderRadius: '16px', background: 'rgba(194, 24, 91, 0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '24px', border: '1px solid rgba(194, 24, 91, 0.2)', color: 'var(--rose)' }}>
+                <Trophy size={32} />
+              </div>
+              <h3 style={{ fontSize: '28px', color: 'var(--text-main)', marginBottom: '16px' }}>{t('path.rpl.title')}</h3>
+              <p style={{ color: 'var(--muted)', fontSize: '16px', marginBottom: '32px' }}>
+                {t('path.rpl.desc')}
               </p>
-              <ul className="pathway-steps">
-                <li>
-                  <span className="step-num">1</span>
-                  Select your trade & pay exam fee
-                </li>
-                <li>
-                  <span className="step-num">2</span>
-                  Take the online MCQ exam (100 questions)
-                </li>
-                <li>
-                  <span className="step-num">3</span>
-                  Score 50% or above to pass
-                </li>
-                <li>
-                  <span className="step-num">4</span>
-                  Download your CETCF certificate with QR verification
-                </li>
-              </ul>
               <div style={{ marginTop: '24px' }}>
-                <Link to="/exam" className="btn btn-rose">
-                  Take Exam Now →
+                <Link to="/exam" className="btn btn-outline" style={{ borderColor: 'var(--rose)', color: 'var(--rose)' }}>
+                  {t('path.rpl.btn')}
                 </Link>
               </div>
-            </div>
-          </div>
+            </motion.div>
+          </motion.div>
         </div>
       </section>
 
       {/* ══════════════════════════════════════════════════════
           SECTORS GRID
           ══════════════════════════════════════════════════════ */}
-      <section className="section" id="sectors">
-        <div className="wrap">
-          <span className="sec-eyebrow">Explore Sectors</span>
-          <h2 className="sec-title">
-            23 Industry Sectors, <span>225+ Certifications</span>
-          </h2>
-          <p className="sec-subtitle">
-            From beauty to IT, healthcare to agriculture — we cover India's most in-demand vocational skills.
-          </p>
-
-          <div className="sectors-grid">
-            {topSectors.map((sector) => (
-              <Link
-                to={`/courses?sector=${encodeURIComponent(sector.name)}`}
-                key={sector.name}
-                className="sector-card"
-                id={`sector-${sector.name.replace(/[^a-zA-Z]/g, '-').toLowerCase()}`}
-              >
-                <div
-                  className="sector-icon"
-                  style={{ background: `${sector.color}15`, border: `1px solid ${sector.color}30` }}
-                >
-                  {sector.icon}
-                </div>
-                <div className="sector-info">
-                  <div className="sector-name">{sector.name}</div>
-                  <div className="sector-count">{sector.count} Courses</div>
-                </div>
-              </Link>
-            ))}
-          </div>
-
-          {SECTORS.length > 12 && (
-            <div style={{ textAlign: 'center', marginTop: '32px' }}>
-              <Link to="/courses" className="btn btn-outline-dark">
-                View All {SECTORS.length} Sectors →
-              </Link>
-            </div>
-          )}
-        </div>
-      </section>
-
-      {/* ══════════════════════════════════════════════════════
-          WHY CETCF
-          ══════════════════════════════════════════════════════ */}
-      <section className="section" style={{ background: 'var(--warm)' }} id="why-cetcf">
-        <div className="wrap">
+      <section className="section" id="sectors" style={{ position: 'relative' }}>
+        <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '80vw', height: '80vw', background: 'radial-gradient(circle, rgba(184, 134, 11, 0.03) 0%, transparent 70%)', filter: 'blur(100px)', zIndex: 0, pointerEvents: 'none' }} />
+        
+        <div className="wrap" style={{ position: 'relative', zIndex: 1 }}>
           <div style={{ textAlign: 'center' }}>
-            <span className="sec-eyebrow">Why Choose Us</span>
-            <h2 className="sec-title">India's Trusted Certification Body</h2>
-            <p className="sec-subtitle" style={{ margin: '0 auto' }}>
-              Government-registered, ISO-certified, and trusted by thousands of students and institutions across India.
-            </p>
+            <span className="sec-eyebrow" style={{ color: 'var(--gold)' }}>{t('sectors.eyebrow')}</span>
+            <h2 className="sec-title" style={{ color: 'var(--text-main)' }}>
+              {t('sectors.title1')} <span className="glow-text" style={{ color: 'var(--gold)' }}>{t('sectors.title2')}</span>
+            </h2>
           </div>
 
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '16px', marginTop: '40px' }}>
-            {[
-              { icon: <Landmark size={36} color="var(--cetc-gold)"/>, title: 'Government Recognized', desc: 'Section 8 Company registered under the Ministry of Corporate Affairs, Government of India.' },
-              { icon: <Globe size={36} color="var(--cetc-gold)"/>, title: '100% Online Exams', desc: 'Take your certification exam from anywhere. No travel needed. Results in real-time.' },
-              { icon: <Smartphone size={36} color="var(--cetc-gold)"/>, title: 'Digital Certificates', desc: 'QR-verified digital certificates issued instantly. Physical copy couriered within 10-15 days.' },
-              { icon: <Wallet size={36} color="var(--cetc-gold)"/>, title: 'Affordable Fees', desc: 'Starting at just ₹1,000. Quality certification shouldn\'t cost a fortune.' },
-              { icon: <RefreshCw size={36} color="var(--cetc-gold)"/>, title: 'RPL Pathway', desc: 'Already skilled? Skip the course — directly take the exam and get certified.' },
-              { icon: <Handshake size={36} color="var(--cetc-gold)"/>, title: 'Partner Network', desc: 'Join as an Authorized Assessment Center (AAC) and earn commissions per certified candidate.' },
-            ].map((item, i) => (
-              <div key={i} className="card" style={{ padding: '24px', textAlign: 'center' }}>
-                <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px' }}>{item.icon}</div>
-                <h3 style={{ fontSize: '16px', fontWeight: 700, color: 'var(--navy)', marginBottom: '8px', fontFamily: 'var(--font-display)' }}>
-                  {item.title}
-                </h3>
-                <p style={{ fontSize: '13px', color: 'var(--muted)', lineHeight: 1.6 }}>
-                  {item.desc}
-                </p>
-              </div>
+          <motion.div 
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true }}
+            variants={staggerContainer}
+            className="sectors-grid" 
+            style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '24px', marginTop: '60px' }}
+          >
+            {topSectors.map((sector) => (
+              <motion.div variants={fadeIn} key={sector.name}>
+                <Link
+                  to={`/courses?sector=${encodeURIComponent(sector.name)}`}
+                  className="glass-panel"
+                  style={{ 
+                    display: 'flex', 
+                    alignItems: 'center', 
+                    gap: '16px', 
+                    padding: '24px', 
+                    transition: 'all 0.3s ease',
+                    cursor: 'pointer',
+                    background: 'var(--surface)'
+                  }}
+                  onMouseOver={(e) => e.currentTarget.style.transform = 'translateY(-5px)'}
+                  onMouseOut={(e) => e.currentTarget.style.transform = 'translateY(0)'}
+                >
+                  <div style={{ 
+                    width: '48px', 
+                    height: '48px', 
+                    borderRadius: '12px', 
+                    background: 'rgba(184,134,11,0.05)', 
+                    display: 'flex', 
+                    alignItems: 'center', 
+                    justifyContent: 'center',
+                    border: '1px solid rgba(184,134,11,0.1)'
+                  }}>
+                    {sector.icon}
+                  </div>
+                  <div>
+                    <div style={{ fontWeight: 700, color: 'var(--text-main)', fontSize: '16px' }}>{sector.name}</div>
+                    <div style={{ color: 'var(--muted)', fontSize: '13px', fontWeight: 600 }}>{sector.count} {t('sectors.courses')}</div>
+                  </div>
+                </Link>
+              </motion.div>
             ))}
+          </motion.div>
+
+          <div style={{ textAlign: 'center', marginTop: '48px' }}>
+            <Link to="/courses" className="btn btn-outline" style={{ borderColor: 'var(--navy)', color: 'var(--text-main)' }}>
+              {t('sectors.viewAll')}
+            </Link>
           </div>
         </div>
       </section>
@@ -255,31 +322,32 @@ export default function HomePage() {
           CTA BANNER
           ══════════════════════════════════════════════════════ */}
       <section style={{
-        background: 'linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%)',
-        padding: '64px 0',
+        background: 'var(--navy)',
+        padding: '80px 0',
         textAlign: 'center',
         position: 'relative',
         overflow: 'hidden',
-      }} id="cta-banner">
+      }}>
+        <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '100%', height: '100%', background: 'radial-gradient(circle, rgba(184, 134, 11, 0.15) 0%, transparent 60%)', zIndex: 0 }} />
         <div className="wrap" style={{ position: 'relative', zIndex: 2 }}>
           <h2 style={{
             fontFamily: 'var(--font-display)',
-            fontSize: 'clamp(24px, 3.5vw, 40px)',
+            fontSize: 'clamp(32px, 4vw, 48px)',
             color: '#fff',
-            fontWeight: 700,
-            marginBottom: '12px',
+            fontWeight: 800,
+            marginBottom: '16px',
           }}>
-            Ready to Start Your <span style={{ color: 'var(--gold-light)' }}>Certification Journey</span>?
+            {t('cta.title1')} <span className="glow-text" style={{ color: 'var(--gold)' }}>{t('cta.title2')}</span>
           </h2>
-          <p style={{ fontSize: '15px', color: 'rgba(255,255,255,0.5)', maxWidth: '500px', margin: '0 auto 28px', lineHeight: 1.7 }}>
-            Join thousands of certified professionals. Your career upgrade is just one exam away.
+          <p style={{ fontSize: '18px', color: 'rgba(255,255,255,0.7)', maxWidth: '600px', margin: '0 auto 40px', lineHeight: 1.6 }}>
+            {t('cta.sub')}
           </p>
-          <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
-            <Link to="/courses" className="btn btn-gold btn-lg" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
-              <BookOpen size={18} /> Explore 225+ Courses
+          <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
+            <Link to="/courses" className="btn" style={{ background: 'var(--gold)', color: '#fff', fontWeight: 700, display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+              <BookOpen size={18} /> {t('cta.explore')}
             </Link>
-            <Link to="/partner" className="btn btn-outline btn-lg" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
-              <Handshake size={18} /> Become a Partner
+            <Link to="/partner" className="btn btn-outline" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', borderColor: 'var(--border)', color: '#fff' }}>
+              <Handshake size={18} /> {t('cta.partner')}
             </Link>
           </div>
         </div>

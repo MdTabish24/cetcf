@@ -1,0 +1,1443 @@
+{
+  "course_name": "Borewell & Submersible Pump Operator",
+  "sector": "Plumbing, Sanitation & Water",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Borewell & Pump Fundamentals",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Submersible Pump Components & Types",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Tools, Equipment & Basic Measurements",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Borewell Drilling & Casing Basics",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Pump Installation & Commissioning",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Troubleshooting, Maintenance & Safety",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "एक Borewell का मुख्य उद्देश्य क्या है?",
+      "options": {
+        "A": "पानी को स्टोर करना",
+        "B": "भूजल तक पहुंचना",
+        "C": "बिजली पैदा करना",
+        "D": "मिट्टी की उर्वरता बढ़ाना"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Borewell का मुख्य उद्देश्य जमीन के नीचे से भूजल (groundwater) को निकालना है।"
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Submersible pump को पानी में क्यों डुबोया जाता है?",
+      "options": {
+        "A": "ज्यादा ठंडा रखने के लिए",
+        "B": "ज्यादा pressure बनाने के लिए",
+        "C": "पानी खींचने की क्षमता बढ़ाने के लिए",
+        "D": "यह पानी में काम करने के लिए ही डिज़ाइन किया गया है"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Submersible pump को विशेष रूप से पानी में डूबे रहकर काम करने के लिए डिज़ाइन किया गया है।"
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "पानी का स्तर मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+      "options": {
+        "A": "Pressure gauge",
+        "B": "Water level indicator",
+        "C": "Multimeter",
+        "D": "Flow meter"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Water level indicator का उपयोग borewell या कुएं में पानी का स्तर (water level) मापने के लिए किया जाता है।"
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Borewell में casing pipe का क्या काम है?",
+      "options": {
+        "A": "पानी को filter करना",
+        "B": "Borewell को collapse होने से बचाना",
+        "C": "पानी का pressure बढ़ाना",
+        "D": "Pump को सहारा देना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Casing pipe borewell की दीवारों को गिरने (collapse) से बचाता है और पानी को साफ रखता है।"
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Static water level क्या होता है?",
+      "options": {
+        "A": "Pump चलने पर पानी का स्तर",
+        "B": "Pump बंद होने पर borewell में पानी का स्तर",
+        "C": "जमीन की सतह से पानी का स्तर",
+        "D": "पानी की अधिकतम गहराई"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Static water level वह स्तर है जब pump नहीं चल रहा होता है और पानी स्थिर होता है।"
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Drawdown किसे कहते हैं?",
+      "options": {
+        "A": "Pump installation की गहराई",
+        "B": "Static water level और Pumping water level के बीच का अंतर",
+        "C": "Borewell की कुल गहराई",
+        "D": "पानी का flow rate"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drawdown वह अंतर है जो pump चलने पर पानी के स्तर में गिरावट के कारण आता है।"
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Groundwater का मुख्य स्रोत क्या है?",
+      "options": {
+        "A": "नदियाँ और झीलें",
+        "B": "समुद्र",
+        "C": "बारिश का पानी जो ज़मीन में रिसता है",
+        "D": "पहाड़ों पर जमी बर्फ"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "बारिश का पानी ज़मीन में रिसकर groundwater का मुख्य स्रोत बनता है।"
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "एक borewell के लिए सही location चुनने में क्या महत्वपूर्ण है?",
+      "options": {
+        "A": "केवल घर के पास होना",
+        "B": "पानी की उपलब्धता और प्रदूषण से दूरी",
+        "C": "ज्यादा धूप वाला स्थान",
+        "D": "सड़क के किनारे होना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Borewell के लिए ऐसी जगह चुननी चाहिए जहाँ पानी की अच्छी उपलब्धता हो और वह प्रदूषण के स्रोतों से दूर हो।"
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Borewell drilling में 'mud rotary' method का उपयोग कब किया जाता है?",
+      "options": {
+        "A": "सिर्फ चट्टानी इलाकों में",
+        "B": "नरम मिट्टी और रेतीले इलाकों में",
+        "C": "बहुत कम गहराई के लिए",
+        "D": "सूखे इलाकों में"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Mud rotary method का उपयोग आमतौर पर नरम मिट्टी (soft soil) और रेतीले इलाकों (sandy areas) में drilling के लिए किया जाता है।"
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Aquifer क्या होता है?",
+      "options": {
+        "A": "पानी को स्टोर करने वाला एक बड़ा टैंक",
+        "B": "ज़मीन के नीचे पानी से भरा हुआ permeable rock या sediment layer",
+        "C": "एक प्रकार का water pump",
+        "D": "पानी की पाइपलाइन"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aquifer ज़मीन के नीचे की वह परत होती है जहाँ पानी जमा होता है और जिसे borewell के माध्यम से निकाला जा सकता है।"
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Borewell की depth किस बात पर निर्भर करती है?",
+      "options": {
+        "A": "Pump का आकार",
+        "B": "पानी की मांग और groundwater level",
+        "C": "बिजली की उपलब्धता",
+        "D": "Pump operator का अनुभव"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Borewell की गहराई पानी की मांग (water demand) और groundwater level पर निर्भर करती है।"
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Abstraction well किसे कहते हैं?",
+      "options": {
+        "A": "एक कुआँ जो सिर्फ बारिश का पानी इकट्ठा करता है",
+        "B": "एक कुआँ जिससे groundwater निकाला जाता है",
+        "C": "एक कुआँ जो पानी को recharge करता है",
+        "D": "एक कुआँ जो सिर्फ खेती के लिए उपयोग होता है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Abstraction well वह कुआँ होता है जिसका उपयोग groundwater को निकालने (abstract) के लिए किया जाता है।"
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Borewell के headworks में क्या शामिल होता है?",
+      "options": {
+        "A": "सिर्फ borewell pipe",
+        "B": "Pump, motor, control panel और delivery pipe",
+        "C": "सिर्फ filter",
+        "D": "Drilling rig"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Borewell के headworks में borewell के ऊपर स्थापित सभी उपकरण जैसे pump, motor, control panel और delivery pipe शामिल होते हैं।"
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "पानी के flow rate को मापने की इकाई क्या है?",
+      "options": {
+        "A": "Volts",
+        "B": "Amperes",
+        "C": "Liters per minute (LPM)",
+        "D": "Watts"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "पानी के flow rate को सामान्यतः Liters per minute (LPM) या Gallons per minute (GPM) में मापा जाता है।"
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Borewell में 'gravel pack' का क्या कार्य है?",
+      "options": {
+        "A": "पानी को गर्म रखना",
+        "B": "Pump को सहारा देना",
+        "C": "बारीक रेत को pump में जाने से रोकना और पानी के flow को बढ़ाना",
+        "D": "Borewell को सील करना"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Gravel pack बारीक रेत (fine sand) को pump में जाने से रोकता है और aquifer से पानी के flow को बढ़ाता है।"
+    },
+    {
+      "qno": 16,
+      "module": 2,
+      "question": "Submersible pump का मुख्य component क्या है जो पानी को ऊपर खींचता है?",
+      "options": {
+        "A": "Motor",
+        "B": "Impeller",
+        "C": "Cable",
+        "D": "Delivery pipe"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Impeller घूमकर पानी में centrifugal force पैदा करता है जिससे पानी ऊपर की ओर धकेला जाता है।"
+    },
+    {
+      "qno": 17,
+      "module": 2,
+      "question": "Submersible motor किस प्रकार के होते हैं?",
+      "options": {
+        "A": "Air-cooled",
+        "B": "Oil-filled या Water-filled",
+        "C": "Gas-powered",
+        "D": "Hand-operated"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Submersible motors आमतौर पर Oil-filled या Water-filled होते हैं ताकि वे पानी के भीतर ठंडे रहें और ठीक से काम कर सकें।"
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Single-phase submersible pump कितने volts पर काम करता है?",
+      "options": {
+        "A": "440 Volts",
+        "B": "220-240 Volts",
+        "C": "110 Volts",
+        "D": "12 Volts"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "भारत में Single-phase submersible pump आमतौर पर 220-240 Volts पर काम करते हैं।"
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Multi-stage submersible pump में क्या खास होता है?",
+      "options": {
+        "A": "यह सिर्फ ठंडा पानी खींचता है",
+        "B": "इसमें कई impellers होते हैं जो उच्च head के लिए होते हैं",
+        "C": "यह सिर्फ छोटे borewell के लिए होता है",
+        "D": "यह सिर्फ कम power लेता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Multi-stage pump में कई impellers होते हैं, जो पानी को अधिक ऊँचाई (higher head) तक पहुंचाने में मदद करते हैं।"
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Submersible pump के motor को power देने वाली cable कैसी होनी चाहिए?",
+      "options": {
+        "A": "कोई भी साधारण cable",
+        "B": "पानी प्रतिरोधी (waterproof) और अच्छी insulation वाली",
+        "C": "बहुत पतली cable",
+        "D": "सिर्फ aluminium cable"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Submersible pump की cable waterproof और अच्छी insulation वाली होनी चाहिए ताकि पानी में रहते हुए भी सुरक्षित और प्रभावी रहे।"
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Check valve का क्या काम होता है submersible pump system में?",
+      "options": {
+        "A": "पानी को filter करना",
+        "B": "पानी को एक ही दिशा में बहने देना और backflow को रोकना",
+        "C": "पानी के flow rate को नियंत्रित करना",
+        "D": "Pump को चालू/बंद करना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Check valve (या non-return valve) पानी को सिर्फ एक दिशा में बहने देता है और pump बंद होने पर पानी को वापस borewell में जाने से रोकता है।"
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Submersible pump के motor में कौन सा bearing system होता है?",
+      "options": {
+        "A": "Ball bearing",
+        "B": "Thrust bearing",
+        "C": "Roller bearing",
+        "D": "Sleeve bearing"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Submersible pump के motor में thrust bearing होता है जो pump के axial thrust को झेलता है, खासकर जब pump पानी खींच रहा होता है।"
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Pump की efficiency किस बात पर निर्भर करती है?",
+      "options": {
+        "A": "Pump का रंग",
+        "B": "Motor की quality, impeller design और maintenance",
+        "C": "Delivery pipe की लंबाई",
+        "D": "Borewell की गहराई"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pump की efficiency motor की गुणवत्ता, impeller के डिज़ाइन और नियमित रखरखाव (maintenance) पर निर्भर करती है।"
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Submersible pump में 'dry run' होने से क्या हो सकता है?",
+      "options": {
+        "A": "Pump की efficiency बढ़ जाती है",
+        "B": "Motor और pump parts ज़्यादा गरम होकर खराब हो सकते हैं",
+        "C": "पानी का flow rate बढ़ जाता है",
+        "D": "बिजली की खपत कम हो जाती है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dry run (पानी के बिना चलना) होने से pump और motor ज़्यादा गरम हो सकते हैं जिससे गंभीर क्षति हो सकती है।"
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Submersible pump के लिए control panel क्यों ज़रूरी है?",
+      "options": {
+        "A": "यह सिर्फ सजावट के लिए है",
+        "B": "यह pump को चालू/बंद करता है और उसे electrical faults से बचाता है",
+        "C": "यह पानी को filter करता है",
+        "D": "यह पानी का temperature नियंत्रित करता है"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Control panel pump को start/stop करता है और overload, short circuit जैसी electrical faults से protection प्रदान करता है।"
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Submersible pump की 'head' rating क्या बताती है?",
+      "options": {
+        "A": "Pump का वज़न",
+        "B": "Pump कितनी ऊँचाई तक पानी उठा सकता है",
+        "C": "Pump का diameter",
+        "D": "Pump की बिजली खपत"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Head rating बताती है कि pump कितनी अधिकतम ऊँचाई (vertical distance) तक पानी को धकेल सकता है।"
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "कौन सा material submersible pump के impellers के लिए अच्छा माना जाता है?",
+      "options": {
+        "A": "Wood",
+        "B": "Cast iron",
+        "C": "Stainless steel या Noryl",
+        "D": "Rubber"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Stainless steel या Noryl जैसे corrosion-resistant materials impellers के लिए अच्छे होते हैं क्योंकि वे पानी में जंग लगने से बचाते हैं।"
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Submersible pump motor का HP (Horsepower) क्या दर्शाता है?",
+      "options": {
+        "A": "Motor का आकार",
+        "B": "Motor की शक्ति (power)",
+        "C": "Motor का वज़न",
+        "D": "Motor का रंग"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "HP (Horsepower) motor की शक्ति या काम करने की क्षमता को दर्शाता है।"
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Submersible pump में 'thermal overload protector' का क्या काम है?",
+      "options": {
+        "A": "Pump को ठंडा करना",
+        "B": "Motor को ज़्यादा गरम होने से बचाना",
+        "C": "पानी का pressure बढ़ाना",
+        "D": "Pump की आवाज़ कम करना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Thermal overload protector motor को ज़्यादा गरम होने (overheating) से बचाता है और ज़रूरत पड़ने पर उसे बंद कर देता है।"
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Pressure switch का उपयोग कहाँ होता है submersible pump system में?",
+      "options": {
+        "A": "सिर्फ borewell के अंदर",
+        "B": "पानी की लाइन में, pump को pressure के आधार पर चालू/बंद करने के लिए",
+        "C": "Control panel में",
+        "D": "Tank के नीचे"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pressure switch पानी के pressure के आधार पर pump को automatically चालू या बंद करता है, खासकर pressure tank वाले systems में।"
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Submersible pump के motor में 'shaft seal' का क्या उद्देश्य है?",
+      "options": {
+        "A": "Motor को पानी से बचाना",
+        "B": "Motor को हवा से बचाना",
+        "C": "Motor के अंदर तेल को बाहर जाने से रोकना",
+        "D": "Pump के vibration को कम करना"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Shaft seal motor के अंदर पानी के प्रवेश को रोकता है, जो motor के लिए बहुत महत्वपूर्ण है।"
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Pump की 'flow rate' किसमें मापी जाती है?",
+      "options": {
+        "A": "Meters",
+        "B": "Kilograms",
+        "C": "Liters per hour (LPH)",
+        "D": "Watts"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Flow rate यह बताती है कि pump प्रति घंटे या प्रति मिनट कितना पानी डिलीवर कर सकता है।"
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "क्या submersible pump self-priming होता है?",
+      "options": {
+        "A": "हाँ, हमेशा",
+        "B": "नहीं, उसे priming की आवश्यकता होती है",
+        "C": "हाँ, क्योंकि यह पानी में डूबा रहता है",
+        "D": "सिर्फ कुछ खास मॉडल्स"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Submersible pump self-priming होता है क्योंकि वह हमेशा पानी में डूबा रहता है, इसलिए उसे हवा निकालने की ज़रूरत नहीं पड़ती।"
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Submersible pump के motor winding में कौन सा material उपयोग होता है?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Iron",
+        "C": "Copper",
+        "D": "Plastic"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Motor winding में आमतौर पर copper का उपयोग होता है क्योंकि इसकी electrical conductivity अच्छी होती है।"
+    },
+    {
+      "qno": 35,
+      "module": 2,
+      "question": "Submersible pump का 'diameter' किस बात से मेल खाना चाहिए?",
+      "options": {
+        "A": "Delivery pipe का diameter",
+        "B": "Borewell casing का diameter",
+        "C": "Motor का diameter",
+        "D": "Control panel का आकार"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Submersible pump का diameter borewell casing के diameter से छोटा होना चाहिए ताकि वह आसानी से casing के अंदर फिट हो सके।"
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Pipe wrench का उपयोग किस काम के लिए किया जाता है?",
+      "options": {
+        "A": "लकड़ी काटने के लिए",
+        "B": "नट और बोल्ट कसने या खोलने के लिए, खासकर pipes पर",
+        "C": "बिजली के तार जोड़ने के लिए",
+        "D": "दीवार में छेद करने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pipe wrench का उपयोग pipes, fittings और अन्य गोल वस्तुओं को कसने या खोलने के लिए किया जाता है।"
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Multimeter का उपयोग क्या मापने के लिए किया जाता है?",
+      "options": {
+        "A": "पानी का pressure",
+        "B": "Voltage, current और resistance",
+        "C": "पानी का flow rate",
+        "D": "Motor का temperature"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Multimeter एक electrical testing tool है जो voltage, current और resistance को मापने के लिए उपयोग होता है।"
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Safety harness का उपयोग कब आवश्यक है?",
+      "options": {
+        "A": "हल्के उपकरण उठाते समय",
+        "B": "ऊंचाई पर काम करते समय",
+        "C": "छोटे pipes जोड़ते समय",
+        "D": "सिर्फ office में"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety harness ऊंचाई पर काम करते समय गिरने से बचाने के लिए उपयोग किया जाता है।"
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Teflon tape (PTFE tape) का उपयोग कहाँ किया जाता है?",
+      "options": {
+        "A": "Electric wires को जोड़ने के लिए",
+        "B": "Pipe threads को leak-proof बनाने के लिए",
+        "C": "दीवारों को सील करने के लिए",
+        "D": "Pump के bearings को lubricate करने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Teflon tape का उपयोग pipe threads पर किया जाता है ताकि जोड़ों को leak-proof बनाया जा सके।"
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Insulated gloves का उपयोग क्यों किया जाता है?",
+      "options": {
+        "A": "हाथों को ठंडा रखने के लिए",
+        "B": "हाथों को चोट से बचाने के लिए",
+        "C": "बिजली के झटके से बचाने के लिए",
+        "D": "हाथों को गंदा होने से बचाने के लिए"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Insulated gloves बिजली के काम करते समय electrical shock से सुरक्षा प्रदान करते हैं।"
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Clamp meter का उपयोग क्या मापने के लिए किया जाता है?",
+      "options": {
+        "A": "Voltage",
+        "B": "Resistance",
+        "C": "Current (बिना circuit तोड़े)",
+        "D": "Temperature"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Clamp meter एक उपकरण है जो circuit को तोड़े बिना (non-invasively) electrical current को मापने के लिए उपयोग किया जाता है।"
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Pressure gauge का क्या काम है?",
+      "options": {
+        "A": "पानी का तापमान मापना",
+        "B": "पानी का दबाव (pressure) मापना",
+        "C": "पानी की गहराई मापना",
+        "D": "पानी की शुद्धता मापना"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pressure gauge पानी की लाइन में दबाव को मापने के लिए उपयोग किया जाता है।"
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Cable stripper का क्या उपयोग है?",
+      "options": {
+        "A": "Cable को काटने के लिए",
+        "B": "Cable के insulation को हटाने के लिए",
+        "C": "Cable को जोड़ने के लिए",
+        "D": "Cable को साफ करने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cable stripper का उपयोग electrical cables से insulation को सुरक्षित रूप से हटाने के लिए किया जाता है।"
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Megger (Megohmmeter) का उपयोग किस लिए किया जाता है?",
+      "options": {
+        "A": "कम resistance मापने के लिए",
+        "B": "उच्च insulation resistance मापने के लिए",
+        "C": "Voltage मापने के लिए",
+        "D": "Current मापने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Megger का उपयोग motor windings और cables के insulation resistance को मापने के लिए किया जाता है ताकि electrical leakage का पता लगाया जा सके।"
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Safety helmet का उपयोग कब ज़रूरी है?",
+      "options": {
+        "A": "धूप से बचने के लिए",
+        "B": "गिरने वाली वस्तुओं से सिर को बचाने के लिए",
+        "C": "ठंड से बचने के लिए",
+        "D": "शोर से बचने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety helmet का उपयोग सिर को गिरने वाली वस्तुओं या अन्य प्रभावों से बचाने के लिए किया जाता है।"
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Measuring tape का उपयोग किस लिए होता है?",
+      "options": {
+        "A": "वज़न मापने के लिए",
+        "B": "लंबाई और दूरी मापने के लिए",
+        "C": "बिजली मापने के लिए",
+        "D": "तापमान मापने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Measuring tape लंबाई और दूरी मापने के लिए एक मूलभूत उपकरण है।"
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Adjustable wrench का क्या फायदा है?",
+      "options": {
+        "A": "यह बहुत हल्का होता है",
+        "B": "यह विभिन्न आकार के नट और बोल्ट पर काम कर सकता है",
+        "C": "यह सिर्फ बिजली के काम के लिए है",
+        "D": "यह कभी खराब नहीं होता"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Adjustable wrench को अलग-अलग आकार के नट और बोल्ट के लिए एडजस्ट किया जा सकता है।"
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "क्या borewell operator को First Aid kit के बारे में पता होना चाहिए?",
+      "options": {
+        "A": "नहीं, इसकी ज़रूरत नहीं है",
+        "B": "हाँ, आपात स्थिति में प्राथमिक उपचार के लिए",
+        "C": "सिर्फ डॉक्टर को पता होना चाहिए",
+        "D": "सिर्फ बड़े projects पर"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "कार्यस्थल पर किसी भी चोट या आपात स्थिति में तुरंत प्राथमिक उपचार देने के लिए First Aid kit और उसके उपयोग की जानकारी होना ज़रूरी है।"
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Torque wrench का उपयोग किस लिए किया जाता है?",
+      "options": {
+        "A": "Pipe को मोड़ने के लिए",
+        "B": "नट या बोल्ट को एक विशिष्ट torque (कसने की शक्ति) पर कसने के लिए",
+        "C": "जंग लगे नट को खोलने के लिए",
+        "D": "तारों को जोड़ने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Torque wrench का उपयोग यह सुनिश्चित करने के लिए किया जाता है कि fasteners को सही और सुरक्षित torque पर कसा गया है।"
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Safety glasses या goggles का क्या महत्व है?",
+      "options": {
+        "A": "धूप से बचाने के लिए",
+        "B": "आँखों को धूल, कणों और रासायनिक छींटों से बचाने के लिए",
+        "C": "पढने में मदद करने के लिए",
+        "D": "सिर्फ फैशन के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety glasses या goggles आँखों को कार्यस्थल पर संभावित खतरों जैसे धूल, कणों, और रासायनिक छींटों से बचाते हैं।"
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Borewell drilling से पहले कौन सा survey किया जाता है?",
+      "options": {
+        "A": "Traffic survey",
+        "B": "Geological survey (भूवैज्ञानिक सर्वेक्षण)",
+        "C": "Market survey",
+        "D": "Population survey"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Geological survey से ज़मीन के नीचे पानी की उपलब्धता और मिट्टी/चट्टान की संरचना का पता चलता है।"
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Percussion drilling method का उपयोग आमतौर पर किस प्रकार की ज़मीन में होता है?",
+      "options": {
+        "A": "नरम मिट्टी में",
+        "B": "रेतीली ज़मीन में",
+        "C": "चट्टानी और कठोर ज़मीन में",
+        "D": "पानी के अंदर"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Percussion drilling (या cable tool drilling) method चट्टानी और कठोर ज़मीन में borewell खोदने के लिए प्रभावी है।"
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Borewell drilling में 'drill bit' का क्या काम है?",
+      "options": {
+        "A": "पानी को बाहर निकालना",
+        "B": "ज़मीन को खोदना और तोड़ना",
+        "C": "पाइप को जोड़ना",
+        "D": "पानी का स्तर मापना"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drill bit drilling rig का वह हिस्सा है जो ज़मीन को खोदता और तोड़ता है।"
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Borewell में 'screen' या 'filter pipe' का क्या उद्देश्य है?",
+      "options": {
+        "A": "Pump को सहारा देना",
+        "B": "पानी से बड़ी अशुद्धियों को रोकना और पानी को borewell में आने देना",
+        "C": "पानी का pressure बढ़ाना",
+        "D": "borewell को seal करना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Screen या filter pipe पानी से रेत और अन्य अशुद्धियों को रोकते हुए aquifer से पानी को borewell में आने देते हैं।"
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Casing pipe के लिए कौन सा material सबसे ज़्यादा उपयोग होता है?",
+      "options": {
+        "A": "PVC",
+        "B": "Wood",
+        "C": "Glass",
+        "D": "Aluminum"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "PVC casing pipe आमतौर पर उपयोग किए जाते हैं क्योंकि वे corrosion-resistant होते हैं और स्थापित करने में आसान होते हैं।"
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Borewell drilling के बाद 'well development' क्यों ज़रूरी है?",
+      "options": {
+        "A": "Pump को install करने के लिए",
+        "B": "Borewell से बारीक कणों को हटाने और पानी के flow को बढ़ाने के लिए",
+        "C": "Borewell को सजाने के लिए",
+        "D": "पानी का temperature कम करने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Well development borewell से बारीक रेत और मिट्टी के कणों को हटाकर पानी के flow को बेहतर बनाता है।"
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Drilling rig के लिए site selection में क्या ध्यान रखना चाहिए?",
+      "options": {
+        "A": "सिर्फ aesthetic appeal",
+        "B": "आसपास की सुविधा, ज़मीन की स्थिरता और पानी की उपलब्धता",
+        "C": "सिर्फ cost-effectiveness",
+        "D": "सिर्फ ड्रिलर की पसंद"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Site selection में आसपास की सुविधा, ज़मीन की स्थिरता, पानी की उपलब्धता और प्रदूषण स्रोतों से दूरी का ध्यान रखना चाहिए।"
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Borewell drilling के दौरान 'drilling fluid' का क्या काम है?",
+      "options": {
+        "A": "Drill bit को ठंडा करना और cuttings को बाहर निकालना",
+        "B": "Drilling speed बढ़ाना",
+        "C": "पानी का pressure कम करना",
+        "D": "पानी को साफ करना"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Drilling fluid (जैसे mud) drill bit को ठंडा करता है, cuttings को सतह पर लाता है और borewell की दीवारों को स्थिर रखता है।"
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "क्या borewell drilling के लिए सरकारी अनुमति (permission) की आवश्यकता होती है?",
+      "options": {
+        "A": "नहीं, कभी नहीं",
+        "B": "हाँ, अधिकांश क्षेत्रों में",
+        "C": "सिर्फ शहरी क्षेत्रों में",
+        "D": "सिर्फ खेती के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "हाँ, अधिकांश क्षेत्रों में borewell drilling के लिए सरकारी अनुमति या प्राधिकरण (authority) से NOC (No Objection Certificate) लेना ज़रूरी होता है।"
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Borewell installation में 'sanitary seal' का क्या उद्देश्य है?",
+      "options": {
+        "A": "पानी को गर्म रखना",
+        "B": "Borewell को ऊपर से surface contamination से बचाना",
+        "C": "Pump को सहारा देना",
+        "D": "पानी का flow rate बढ़ाना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sanitary seal borewell को surface contamination (जैसे बारिश का पानी, मिट्टी) से बचाता है।"
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Borewell drilling में 'rotary drilling' method का क्या फायदा है?",
+      "options": {
+        "A": "यह बहुत धीमी है",
+        "B": "यह तेज़ और विभिन्न प्रकार की ज़मीन के लिए उपयुक्त है",
+        "C": "यह सिर्फ हाथ से की जाती है",
+        "D": "यह सिर्फ कम गहराई के लिए है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rotary drilling method तेज़ होती है और चट्टानों और नरम मिट्टी दोनों में drilling के लिए उपयुक्त है।"
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Borewell की 'grouting' क्यों की जाती है?",
+      "options": {
+        "A": "पानी के flow को बढ़ाने के लिए",
+        "B": "Casing और borewell की दीवार के बीच के खाली स्थान को सील करने के लिए",
+        "C": "Pump को install करने के लिए",
+        "D": "पानी को filter करने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Grouting casing और borewell की दीवार के बीच के annular space को सील करती है, जिससे surface contamination aquifer तक नहीं पहुँच पाता।"
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "क्या borewell drilling के दौरान 'PPE' (Personal Protective Equipment) पहनना ज़रूरी है?",
+      "options": {
+        "A": "नहीं, इसकी कोई ज़रूरत नहीं है",
+        "B": "हाँ, सुरक्षा के लिए",
+        "C": "सिर्फ अगर मौसम खराब हो",
+        "D": "सिर्फ नए workers के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "हाँ, drilling के दौरान PPE जैसे safety helmet, gloves, safety shoes आदि पहनना सुरक्षा के लिए बहुत ज़रूरी है।"
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "एक borewell का lifespan किस बात पर निर्भर करता है?",
+      "options": {
+        "A": "उसका रंग",
+        "B": "Construction quality, aquifer की stability और रखरखाव",
+        "C": "Pump का brand",
+        "D": "सिर्फ पानी की मात्रा"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Borewell का lifespan उसकी निर्माण गुणवत्ता, aquifer की स्थिरता और नियमित रखरखाव पर निर्भर करता है।"
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Borewell 'logging' क्या होता है?",
+      "options": {
+        "A": "Borewell को बंद करना",
+        "B": "Borewell की जियोफिजिकल विशेषताओं को रिकॉर्ड करना",
+        "C": "Borewell से पानी निकालना",
+        "D": "Borewell में लकड़ी डालना"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Borewell logging borewell की दीवारों के साथ विभिन्न physical properties को मापने और रिकॉर्ड करने की प्रक्रिया है, जिससे भूवैज्ञानिक डेटा मिलता है।"
+    },
+    {
+      "qno": 66,
+      "module": 5,
+      "question": "Submersible pump को borewell में install करने से पहले क्या जांचना चाहिए?",
+      "options": {
+        "A": "Pump का रंग",
+        "B": "Borewell की गहराई, diameter और पानी का स्तर",
+        "C": "Pump का वज़न",
+        "D": "सिर्फ delivery pipe का आकार"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Installation से पहले borewell की गहराई, diameter और static water level की जानकारी होना ज़रूरी है।"
+    },
+    {
+      "qno": 67,
+      "module": 5,
+      "question": "Pump को borewell में किस प्रकार उतारा जाता है?",
+      "options": {
+        "A": "हाथ से फेंककर",
+        "B": "रस्सी से बांधकर",
+        "C": "सही lifting equipment (जैसे crane या tripod) और safety rope का उपयोग करके",
+        "D": "धक्का देकर"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pump को सुरक्षित रूप से और बिना क्षति के उतारने के लिए उचित lifting equipment और safety rope का उपयोग करना चाहिए।"
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Submersible pump motor की electrical cable को delivery pipe के साथ कैसे जोड़ा जाता है?",
+      "options": {
+        "A": "सिर्फ ढीला छोड़कर",
+        "B": "Electrical tape से",
+        "C": "Cable ties या clamps का उपयोग करके",
+        "D": "गोंद से"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cable ties या clamps का उपयोग करके electrical cable को delivery pipe के साथ सुरक्षित रूप से बांधा जाता है ताकि वह borewell में अटक न जाए।"
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Pump installation के दौरान 'safety rope' क्यों ज़रूरी है?",
+      "options": {
+        "A": "सिर्फ pump को सहारा देने के लिए",
+        "B": "Pump या pipes के टूटने पर उसे वापस खींचने के लिए",
+        "C": "Pump को ठंडा रखने के लिए",
+        "D": "सिर्फ decoration के लिए"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Safety rope एक backup के रूप में काम करती है, अगर delivery pipe या coupling फेल हो जाए तो pump को वापस खींचने में मदद करती है।"
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Control panel की wiring करते समय क्या सावधानी बरतनी चाहिए?",
+      "options": {
+        "A": "बिजली चालू रखनी चाहिए",
+        "B": "सभी electrical connections सही और सुरक्षित होने चाहिए, और बिजली बंद होनी चाहिए",
+        "C": "सिर्फ एक तार जोड़ना चाहिए",
+        "D": "Wiring को खुला छोड़ देना चाहिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wiring करते समय सुरक्षा के लिए बिजली बंद होनी चाहिए और सभी connections सही और सुरक्षित होने चाहिए ताकि short circuit या electrical shock से बचा जा सके।"
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Pump को borewell में कितनी गहराई पर install करना चाहिए?",
+      "options": {
+        "A": "जितना हो सके उतना ऊपर",
+        "B": "Static water level से नीचे और drawdown level से भी नीचे, लेकिन borewell के bottom से ऊपर",
+        "C": "सिर्फ 10 feet की गहराई पर",
+        "D": "जितना delivery pipe है उतनी गहराई पर"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pump को static water level से नीचे और संभावित drawdown level से भी नीचे install किया जाना चाहिए, लेकिन borewell के bottom से पर्याप्त दूरी पर ताकि रेत न खींचे।"
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Borewell में pump डालने के बाद 'commissioning' में क्या शामिल है?",
+      "options": {
+        "A": "सिर्फ pump को पेंट करना",
+        "B": "Pump को चालू करना, performance जांचना और कोई leak या समस्या देखना",
+        "C": "Pump को बंद करना",
+        "D": "सिर्फ बिल बनाना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Commissioning में pump को पहली बार चालू करना, उसके प्रदर्शन (performance) की जांच करना, और यह सुनिश्चित करना शामिल है कि सब कुछ ठीक से काम कर रहा है।"
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Submersible pump installation के लिए कौन सा pipe material सबसे अच्छा है?",
+      "options": {
+        "A": "Rubber",
+        "B": "GI (Galvanized Iron) या HDPE (High-Density Polyethylene)",
+        "C": "Clay",
+        "D": "Wood"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GI pipes मजबूत होते हैं जबकि HDPE pipes हल्के, corrosion-resistant और flexible होते हैं, दोनों ही submersible pump installations के लिए उपयुक्त हैं।"
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Pump installation के दौरान 'pipe couplings' का क्या महत्व है?",
+      "options": {
+        "A": "पानी को filter करना",
+        "B": "Pipes को मज़बूती से जोड़ना और leak-proof connection बनाना",
+        "C": "बिजली के तार जोड़ना",
+        "D": "Pump को ठंडा करना"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pipe couplings pipes को मज़बूती से जोड़ते हैं और सुनिश्चित करते हैं कि पानी का रिसाव न हो।"
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Control panel में 'capacitor' का क्या काम होता है (single-phase pump में)?",
+      "options": {
+        "A": "Pump को ठंडा करना",
+        "B": "Motor को start करने के लिए शुरुआती torque प्रदान करना",
+        "C": "पानी का pressure बढ़ाना",
+        "D": "बिजली की खपत कम करना"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Capacitor single-phase motor को start करने के लिए ज़रूरी शुरुआती torque प्रदान करता है।"
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Pump installation के बाद, delivery pipe में हवा (air) क्यों नहीं होनी चाहिए?",
+      "options": {
+        "A": "यह पानी को गर्म कर देती है",
+        "B": "यह pump की efficiency को कम कर सकती है और cavitation का कारण बन सकती है",
+        "C": "यह pipes को तोड़ सकती है",
+        "D": "यह पानी को गंदा कर देती है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Delivery pipe में हवा होने से pump की efficiency कम हो सकती है और cavitation जैसी समस्याएं हो सकती हैं जो pump को नुकसान पहुंचा सकती हैं।"
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Pump installation के लिए कौन से tools ज़रूरी हैं?",
+      "options": {
+        "A": "सिर्फ हथौड़ा",
+        "B": "Pipe wrench, multimeter, cable stripper, measuring tape",
+        "C": "सिर्फ पेचकस",
+        "D": "सिर्फ ड्रिल मशीन"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pipe wrench, multimeter, cable stripper, measuring tape जैसे उपकरण pump installation के लिए आवश्यक हैं।"
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Pump installation के दौरान 'torque arrestor' का क्या उपयोग है?",
+      "options": {
+        "A": "Pump को borewell में गिरने से रोकना",
+        "B": "Motor के start होने पर होने वाले torque rotation को नियंत्रित करना",
+        "C": "पानी का flow rate बढ़ाना",
+        "D": "बिजली के झटके से बचाना"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Torque arrestor pump के start होने पर motor के घूमने से होने वाले झटके (torque) को नियंत्रित करता है, जिससे pump और pipes को नुकसान से बचाया जा सके।"
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "क्या pump installation के बाद water quality test करवाना चाहिए?",
+      "options": {
+        "A": "नहीं, इसकी ज़रूरत नहीं है",
+        "B": "हाँ, यह सुनिश्चित करने के लिए कि पानी पीने योग्य है",
+        "C": "सिर्फ अगर पानी गंदा दिख रहा हो",
+        "D": "सिर्फ बड़े industrial projects में"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "हाँ, pump installation के बाद पानी की गुणवत्ता (water quality) की जांच करवाना ज़रूरी है ताकि यह सुनिश्चित हो सके कि पानी पीने या अन्य उपयोग के लिए सुरक्षित है।"
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Submersible pump को connect करते समय electrical connections कैसे होने चाहिए?",
+      "options": {
+        "A": "ढीले",
+        "B": "मज़बूत, waterproof और insulated",
+        "C": "खुले",
+        "D": "सिर्फ electrical tape से जुड़े"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical connections मज़बूत, waterproof और अच्छी तरह से insulated होने चाहिए ताकि कोई short circuit या electrical hazard न हो।"
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Borewell head को cover क्यों करना चाहिए?",
+      "options": {
+        "A": "सिर्फ aesthetics के लिए",
+        "B": "प्रदूषण और बाहरी वस्तुओं को borewell में गिरने से रोकने के लिए",
+        "C": "पानी को गर्म रखने के लिए",
+        "D": "Pump को सहारा देने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Borewell head को cover करने से धूल, गंदगी, कीट और अन्य बाहरी वस्तुएं borewell में नहीं गिर पातीं और पानी स्वच्छ रहता है।"
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Pump installation के दौरान 'earthling' का क्या महत्व है?",
+      "options": {
+        "A": "बिजली की खपत कम करना",
+        "B": "Electrical shock से सुरक्षा प्रदान करना",
+        "C": "Pump को तेज़ चलाना",
+        "D": "पानी को filter करना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Earthling (earthing) electrical systems में एक महत्वपूर्ण सुरक्षा उपाय है जो electrical shock से बचाता है।"
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Submersible pump installation में 'union' fitting का क्या काम है?",
+      "options": {
+        "A": "पानी को मोड़ना",
+        "B": "Pipes के दो हिस्सों को आसानी से जोड़ने और अलग करने के लिए",
+        "C": "पानी का flow नियंत्रित करना",
+        "D": "सिर्फ सजावट"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Union fitting pipes के दो हिस्सों को बिना पूरे pipe system को तोड़े जोड़ने और अलग करने की सुविधा प्रदान करती है, जो maintenance के लिए उपयोगी है।"
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Pump installation के बाद 'leak test' क्यों ज़रूरी है?",
+      "options": {
+        "A": "सिर्फ समय बर्बाद करने के लिए",
+        "B": "यह सुनिश्चित करने के लिए कि सभी connections leak-proof हैं",
+        "C": "Pump की speed जांचने के लिए",
+        "D": "पानी का pressure कम करने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Leak test यह सुनिश्चित करता है कि सभी pipe connections और fittings मज़बूत और leak-proof हैं।"
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Submersible pump के लिए 'overcurrent protection' कहाँ दिया जाता है?",
+      "options": {
+        "A": "Delivery pipe में",
+        "B": "Control panel में",
+        "C": "Borewell के अंदर",
+        "D": "पानी के टैंक में"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Overcurrent protection (जैसे MCB, overload relay) control panel में दिया जाता है ताकि motor को ज़्यादा current से होने वाले नुकसान से बचाया जा सके।"
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "अगर pump पानी नहीं दे रहा है, तो इसका एक सामान्य कारण क्या हो सकता है?",
+      "options": {
+        "A": "Pump का रंग खराब हो गया है",
+        "B": "बिजली नहीं आ रही है, पानी का स्तर बहुत नीचे है, या impeller जाम है",
+        "C": "Delivery pipe बहुत लंबा है",
+        "D": "पानी बहुत ठंडा है"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "बिजली की आपूर्ति न होना, borewell में पानी का स्तर गिर जाना, या impeller का जाम होना पानी न देने के सामान्य कारण हैं।"
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Submersible pump से कम पानी आने का क्या कारण हो सकता है?",
+      "options": {
+        "A": "पानी बहुत साफ है",
+        "B": "Impeller घिस गया है, voltage कम है, या pipe में blockage है",
+        "C": "Pump नया है",
+        "D": "Control panel नया है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Impeller का घिस जाना, कम voltage, या delivery pipe में कोई रुकावट (blockage) कम पानी आने के कारण हो सकते हैं।"
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "अगर pump बार-बार trip कर रहा है, तो क्या समस्या हो सकती है?",
+      "options": {
+        "A": "मौसम बहुत अच्छा है",
+        "B": "Overload, short circuit, या motor में खराबी",
+        "C": "पानी का flow बहुत तेज़ है",
+        "D": "Pump बहुत साफ है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pump का बार-बार trip होना overload, short circuit, या motor में किसी अंदरूनी खराबी का संकेत हो सकता है।"
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Preventive maintenance में क्या शामिल है?",
+      "options": {
+        "A": "सिर्फ pump को बदलना",
+        "B": "नियमित जांच, सफाई, और छोटे-मोटे repair ताकि बड़ी खराबी न हो",
+        "C": "सिर्फ pump को बंद रखना",
+        "D": "सिर्फ पानी का taste चेक करना"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Preventive maintenance का उद्देश्य नियमित जांच और रखरखाव करके उपकरणों की जीवनकाल बढ़ाना और अचानक होने वाली खराबी को रोकना है।"
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Electrical safety के लिए सबसे महत्वपूर्ण नियम क्या है?",
+      "options": {
+        "A": "हमेशा अकेले काम करना",
+        "B": "काम करते समय बिजली बंद करना और lockout/tagout प्रक्रिया का पालन करना",
+        "C": "गीले हाथों से काम करना",
+        "D": "खुले तार छोड़ना"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical work करते समय हमेशा बिजली बंद करना और lockout/tagout प्रक्रिया का पालन करना electrical shock से बचने के लिए सबसे महत्वपूर्ण है।"
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "अगर submersible pump से मटमैला पानी आ रहा है, तो क्या कारण हो सकता है?",
+      "options": {
+        "A": "Pump बहुत तेज़ चल रहा है",
+        "B": "Borewell में रेत या सिल्ट आ रही है, या screen damaged है",
+        "C": "पानी बहुत गहरा है",
+        "D": "Pump बहुत धीमा चल रहा है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "मटमैला पानी आने का मतलब है कि borewell में रेत या सिल्ट आ रही है, जो damaged screen या improper well development के कारण हो सकता है।"
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "PPE का पूरा नाम क्या है?",
+      "options": {
+        "A": "Personal Power Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Pump Protection Equipment",
+        "D": "Private Personal Equipment"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PPE का अर्थ Personal Protective Equipment है, जो कार्यस्थल पर सुरक्षा के लिए उपयोग होता है।"
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Submersible pump motor के 'insulation resistance' में गिरावट का क्या मतलब है?",
+      "options": {
+        "A": "Motor बहुत नया है",
+        "B": "Motor के winding में पानी घुस गया है या insulation खराब हो गया है",
+        "C": "Motor बहुत ठंडा है",
+        "D": "Motor की efficiency बढ़ गई है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Insulation resistance में गिरावट का मतलब है कि motor के अंदरूनी हिस्सों में पानी घुस गया है या insulation खराब हो गया है, जिससे short circuit का खतरा है।"
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "'Dry run protector' का क्या काम है?",
+      "options": {
+        "A": "Pump को ज़्यादा गरम होने से बचाना",
+        "B": "पानी खत्म होने पर pump को बंद करना",
+        "C": "Pump का pressure बढ़ाना",
+        "D": "Pump की आवाज़ कम करना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dry run protector borewell में पानी का स्तर बहुत कम होने पर pump को automatic बंद कर देता है, जिससे pump को नुकसान होने से बचता है।"
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "अगर pump असामान्य रूप से तेज़ आवाज़ कर रहा है, तो क्या समस्या हो सकती है?",
+      "options": {
+        "A": "यह सामान्य है",
+        "B": "Bearing खराब हो गए हैं, cavitation हो रहा है, या कोई बाहरी वस्तु फंस गई है",
+        "C": "Pump बहुत धीमा चल रहा है",
+        "D": "पानी का flow बहुत कम है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "असामान्य आवाज़ खराब bearings, cavitation (पानी में हवा के बुलबुले), या pump में किसी बाहरी वस्तु के फंसने के कारण हो सकती है।"
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Used lubricants और waste oil का निपटान (disposal) कैसे करना चाहिए?",
+      "options": {
+        "A": "नदी में फेंक देना चाहिए",
+        "B": "मिट्टी में दबा देना चाहिए",
+        "C": "पर्यावरण के अनुकूल तरीके से, authorized agencies के माध्यम से",
+        "D": "जला देना चाहिए"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Used lubricants और waste oil को पर्यावरण को नुकसान पहुँचाए बिना, authorized agencies के माध्यम से सुरक्षित रूप से निपटाना चाहिए।"
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Submersible pump की maintenance के लिए कौन सा record रखना ज़रूरी है?",
+      "options": {
+        "A": "सिर्फ pump का purchase bill",
+        "B": "Installation date, repair history, readings (voltage, current, flow rate)",
+        "C": "सिर्फ pump का रंग",
+        "D": "सिर्फ operator का नाम"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Installation date, repair history, और नियमित readings जैसे records pump के प्रदर्शन को ट्रैक करने और maintenance schedule बनाने में मदद करते हैं।"
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "क्या borewell operator को confined space entry procedures के बारे में पता होना चाहिए?",
+      "options": {
+        "A": "नहीं, यह उनके काम का हिस्सा नहीं है",
+        "B": "हाँ, अगर उन्हें कभी borewell या pit में उतरना पड़े",
+        "C": "सिर्फ अगर वे engineer हैं",
+        "D": "सिर्फ अगर वे बहुत अनुभवी हैं"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confined space entry procedures की जानकारी ज़रूरी है क्योंकि borewell या pits में ऑक्सीजन की कमी या जहरीली गैसें हो सकती हैं, जो जानलेवा हो सकती हैं।"
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Borewell के आसपास के क्षेत्र को साफ क्यों रखना चाहिए?",
+      "options": {
+        "A": "सिर्फ अच्छे दिखने के लिए",
+        "B": "प्रदूषण और गंदगी को borewell में जाने से रोकने के लिए",
+        "C": "पानी को गर्म रखने के लिए",
+        "D": "Pump को तेज़ चलाने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Borewell के आसपास के क्षेत्र को साफ रखने से surface contamination को borewell में घुसने से रोका जा सकता है, जिससे पानी साफ रहता है।"
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Pump failure की स्थिति में सबसे पहले क्या करना चाहिए?",
+      "options": {
+        "A": "तुरंत नया pump खरीद लेना",
+        "B": "बिजली की आपूर्ति बंद करें और समस्या का निदान (diagnose) करने का प्रयास करें",
+        "C": "पानी को filter करना शुरू कर दें",
+        "D": "दूसरों को काम करने दें"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "सुरक्षा के लिए सबसे पहले बिजली बंद करनी चाहिए और फिर समस्या का पता लगाने की कोशिश करनी चाहिए।"
+    }
+  ]
+}

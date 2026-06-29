@@ -1,0 +1,1343 @@
+{
+  "course_name": "Print & Flex Design (CorelDRAW/Canva)",
+  "sector": "Media, Photography & Content Creation",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basics of Print Media, Flex Design & Vector vs Raster Graphics",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "CorelDRAW Interface, Tools, Shortcuts & Layout Settings",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Typography, Fonts (Hindi/English) & Alignment in Print Design",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Color Spaces (CMYK vs RGB) & Color Matching for Flex Printing",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Canva for Flex Design, Templates, Mockups & Quick Editing",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Export Settings, File Formats (CDR, PDF, TIFF) & Printing Shop Handover",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "question": "Print Media me 'Flex' (flexible vinyl board) ka use kis purpose ke liye kiya jata hai?",
+      "options": {
+        "A": "Direct newspaper typing columns",
+        "B": "Large outdoor advertising banners, board hoardings aur shop signboards banane ke liye",
+        "C": "Computer operating system installation",
+        "D": "Digital animation web rendering"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Flex banners PVC plastic vinyl sheet material ke hote hain jo waterproof aur weather-resistant hote hain, isliye outdoor boards me use hote hain."
+    },
+    {
+      "qno": 2,
+      "question": "Flex designing me 'Vector Graphic' design software (jaise CorelDRAW) kyu prefer kiya jata hai?",
+      "options": {
+        "A": "Vector designs coordinates math formula base par infinite scale zoom ho sakte hain bina pixel phate (no quality loss)",
+        "B": "Vector graphics me file size hamesha 5GB hoti hai",
+        "C": "Vector designs me primary color red lock hota hai",
+        "D": "Dono specifications identical are same"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Massive sizes ke banner boards (jaise 20x10 feet hoardings) vector software me small scale me design hotey hain aur print ke samay full sharp expand ho jate hain."
+    },
+    {
+      "qno": 3,
+      "question": "Raster Graphic image (jaise JPEG, PNG) ka design print me kyu limitations hold karta hai?",
+      "options": {
+        "A": "Fixed pixel grid se bani image high scale enlarge zoom karne par blurry aur pixelated (fat jati) ho jati hai",
+        "B": "Raster images me single color screen hota hai",
+        "C": "Raster graphics cannot be printed on paper",
+        "D": "Dono formats are identical"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Raster graphics coordinates pixels finite count hold karti hain, isliye flex size expansion me blur artifacts generate karte hain."
+    },
+    {
+      "qno": 4,
+      "question": "Print and Flex designs check templates guidelines me 'Bleed Area' (suraksha margin) kya hota hai?",
+      "options": {
+        "A": "Design border lines ke beyond extra extend kiya gaya colored margin area, taaki machine cutting me edge margin safe rahe",
+        "B": "Direct background image delete area",
+        "C": "Only white margins on text boxes",
+        "D": "Government tax rate limits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bleed margin dene se printing cutting margins mismatch cases me paper corner white empty margins prevent ho jate hain."
+    },
+    {
+      "qno": 5,
+      "question": "Flex hoarding size systems me standard units measurements selection design software layout me kya set kiye jate hain?",
+      "options": {
+        "A": "Feet aur Inches (eg: 8x4 feet banners)",
+        "B": "Pixels only directly",
+        "C": "Centimeters only",
+        "D": "Kilometers index scale"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Physical billboard dimensions feet aur inches metrics specifications templates me plan kiye jate hain, which is standard client requirement."
+    },
+    {
+      "qno": 6,
+      "question": "CorelDRAW interface toolbox me arrow shape cursor select tool ko kya bolte hain?",
+      "options": {
+        "A": "Pick Tool (objects selection, resize, rotation and movement tool)",
+        "B": "Pen Tool directly",
+        "C": "Crop Tool icon",
+        "D": "Color Bucket Fill tool"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pick tool CorelDRAW me objects ko select, position, scaling aur basic layout coordinate moves support check tool hai."
+    },
+    {
+      "qno": 7,
+      "question": "CorelDRAW tools me vector shapes ke nodes aur paths curvature curve levels editing and modify karne wale cursor ko kya bolte hain?",
+      "options": {
+        "A": "Shape Tool (F10 shortcut key)",
+        "B": "Pick Tool cursor",
+        "C": "Gradient Mesh tool",
+        "D": "Zoom lens tool"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Shape tool nodes select points adjust coordinate controls deta hai, custom design outline vector curves modification me vital hai."
+    },
+    {
+      "qno": 8,
+      "question": "CorelDRAW interface me current selected tools ke options parameters (jaise page size, orientation, line thickness) badalne wali bar ko kya kehte hain?",
+      "options": {
+        "A": "Property Bar",
+        "B": "Status Bar directly",
+        "C": "Scroll bar vertical",
+        "D": "Menu bar options list"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Property bar context-sensitive hoti hai jo current select tool properties parameters modification interface details show karti hai."
+    },
+    {
+      "qno": 9,
+      "question": "CorelDRAW shortcuts guidelines keys checks me objects alignment group centering page coordinate center alignments quick key function kya hai?",
+      "options": {
+        "A": "P key (page center placement)",
+        "B": "C key only",
+        "C": "Ctrl + Shift + C keys",
+        "D": "Alt + P key combo"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Selecting objects and pressing 'P' keyboard key places objects exactly at center boundary coordinates of the design page canvas."
+    },
+    {
+      "qno": 10,
+      "question": "CorelDRAW vector operations me 'PowerClip' function kya work perform karta hai?",
+      "options": {
+        "A": "Bahar se import kiye gaye raster image / graphic design vector object path frame boundaries ke inside mask fit (clip inside) karna",
+        "B": "Direct text delete command",
+        "C": "Contrast brightness adjustment",
+        "D": "Delete files database server"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Powerclip mask layers masking technique are helpful to clip images into circles, polygons, or specific flex frame shapes."
+    },
+    {
+      "qno": 11,
+      "question": "CorelDRAW tools structures shapes custom intersections checks me 'Weld' command object overlays properties settings kya impact karti hai?",
+      "options": {
+        "A": "Multiple selected overlapping vector shapes ko merge karke single compound shape outline design create karna",
+        "B": "Shapes border lines erase directly",
+        "C": "Make transparency effect",
+        "D": "Divide shapes to separate groups"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Weld tool selected boundary coordinates combine shapes single solid geometry blocks check rules."
+    },
+    {
+      "qno": 12,
+      "question": "CorelDRAW outlines properties parameters line curves setups me 'Outline Pen Tool' shortcut key controls value kya hai?",
+      "options": {
+        "A": "F12 function key",
+        "B": "Ctrl + G group keys",
+        "C": "F5 key",
+        "D": "Alt + F4 combo"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "F12 key opens Outline Pen dialog box to configure vector stroke width styles, corner shapes, and line styles controls."
+    },
+    {
+      "qno": 13,
+      "question": "Print designs typography checks me 'Font Pairing' selection criteria design balance why important?",
+      "options": {
+        "A": "Clean hierarchy, contrast visual styling aur read readability indices balance maintain checks (eg: Serif headers with clean Sans-serif body)",
+        "B": "Ensure color match automatically",
+        "C": "Avoid spelling checks errors",
+        "D": "Delete spacing margins"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Cohesive font pairing designs readability indices improve checks visual structures maintain guidelines."
+    },
+    {
+      "qno": 14,
+      "question": "Hindi text typesetting print media flex board designs me Kruti Dev / Mangal fonts configurations keyboard script layout differences targets what is Mangal font?",
+      "options": {
+        "A": "Devanagari Unicode web standard font (easily copy-paste globally without characters formatting issues)",
+        "B": "Non-unicode legacy typewriter font layout",
+        "C": "Only English language font family",
+        "D": "Symbol mark layout"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Unicode standard fonts compatible database web systems data transfer checks. Legacy Kruti Dev requires conversions codes."
+    },
+    {
+      "qno": 15,
+      "question": "Flex boards designs typography rules checks me text character outline boundary borders (Stroke) 'Behind Fill' option setups kyu select karna recommended hai?",
+      "options": {
+        "A": "Taaki bold outline borders core characters letters inside fill design colors ko overlapping thickness me block ya thin na karein",
+        "B": "Change font styles automatically",
+        "C": "Save image data size",
+        "D": "No significance settings"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Behind fill outline options keeps vector stroke boundaries aligned behind core text fills, maintaining character design parameters."
+    },
+    {
+      "qno": 16,
+      "question": "Print and Flex output designs color matching parameters colors system spaces me 'RGB' and 'CMYK' color space primary choice difference kya represent karta hai?",
+      "options": {
+        "A": "RGB is optimized for digital screens display lights, CMYK is standardized color space for actual ink print machines (flex/press)",
+        "B": "RGB is high contrast print standard always",
+        "C": "CMYK is only for video editing files",
+        "D": "Dono models visual matching is identical"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "RGB color profiles screens lights additive models, CMYK subtractive inks models. RGB digital designs directly printed look dull due to print color bounds conversion loss."
+    },
+    {
+      "qno": 17,
+      "question": "RGB dynamic colors file flex printing press machines me output run karne se design colors output par kya difference dikhta hai?",
+      "options": {
+        "A": "Printed flex colors visual brightness drop (look dull, saturated colors mismatch, blue turns purple shifts)",
+        "B": "Image details delete completely",
+        "C": "Print speed becomes extremely fast",
+        "D": "Zero changes indicators"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Print inks cannot reproduce wide luminous spectrum of screen RGB lights. Designers convert layouts to CMYK workspace before print submissions to check correct colors."
+    },
+    {
+      "qno": 18,
+      "question": "Print designs elements borders checks typography text alignment formats me 'Justified Alignment' (dono taraf saman seema margin) block kyu use hota hai text paragraphs me?",
+      "options": {
+        "A": "Both left and right margins are aligned straight clean layout boxes looks (like columns in newspaper)",
+        "B": "Only for single word lines",
+        "C": "Requires color change settings",
+        "D": "No visual difference"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Justify block spaces words dynamically to make clean uniform margins on both sides of print boxes."
+    },
+    {
+      "qno": 19,
+      "question": "CorelDRAW file edits layout checks text modes 'Artistic Text' and 'Paragraph Text' difference definitions specs are what?",
+      "options": {
+        "A": "Artistic Text is for titles/headings (stretchable scaling), Paragraph Text is for blocks body copy (flow bounding box wraps)",
+        "B": "Artistic text only works with black color",
+        "C": "Dono are exact duplicates",
+        "D": "Paragraph text cannot have outlines"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Artistic texts scales directly with drag handles, paragraph text boxes wrap words to next lines dynamically."
+    },
+    {
+      "qno": 20,
+      "question": "Vector curves edits checks CorelDRAW 'Bezier Tool' primary usage checks pen cursor handles modify options checks kya hai?",
+      "options": {
+        "A": "Place nodes and coordinate curves step by step to draw custom vector shapes and outline trace details",
+        "B": "Delete objects directly tool",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bezier tools precise anchor paths placements curves drawing coordinates vectors standard."
+    },
+    {
+      "qno": 21,
+      "question": "Flex printing materials standard properties checks 'Frontlit Flex' and 'Backlit Flex' differences details me backlit flex ka primary installation area kya hai?",
+      "options": {
+        "A": "Light boards boxes (glow sign boards where light bulbs inside box shine through flex fabric sheet from behind)",
+        "B": "Only direct sunlight open garden boards",
+        "C": "Non-illuminated static billboards",
+        "D": "Zero light installations"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Backlit flex features high light transmission capacity translucent material composition to illuminate visual graphics uniformly."
+    },
+    {
+      "qno": 22,
+      "question": "Canva designing online workspace flex board design creations workflows checks standard templates adjustments does Canva support CMYK color space download?",
+      "options": {
+        "A": "Yes, PDF Print download options contains CMYK color profile selection check box (Canva Pro feature)",
+        "B": "No, Canva strictly downloads RGB formats only always",
+        "C": "Canva only works in black-white templates",
+        "D": "Dono formats are invalid"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Canva print export optimization supports CMYK profile outputs PDF Print options to match standard printing press inks profiles."
+    },
+    {
+      "qno": 23,
+      "question": "Printing shop handovers design package check lists checks 'Converting to Curves' (Ctrl + Q in CorelDRAW) text conversion process why critical before file transfer?",
+      "options": {
+        "A": "Convert text fonts to vector solid shapes paths so printing machine PC does not show 'Font Missing' errors or character blocks layout corruptions",
+        "B": "Make image file size compress fast",
+        "C": "Change language settings to English automatically",
+        "D": "Delete spacing margins"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "If printing press PC lacks design fonts, converting to curves (vector shapes paths) locks character typography outlines permanently, preventing missing font errors."
+    },
+    {
+      "qno": 24,
+      "question": "Large flex banner layout designs 10x10 feet setups file size and system crash prevent checks designs setups standard optimization techniques scale ratio calculations me standard kya use hota hai?",
+      "options": {
+        "A": "Design in 1:10 scale ratio (eg: design in 12x12 inches size at high 300/600 DPI resolution, and printing shop scales to feet)",
+        "B": "Always design full 10x10 feet canvas at 1200 DPI",
+        "C": "Only use low resolution 72 DPI raw images",
+        "D": "Zero scaling rules exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Scale ratios (1:10 or 1:12) design canvas light keep checks preventing high RAM memory requirements and software crashes. Vector coordinates scale up loss-free."
+    },
+    {
+      "qno": 25,
+      "question": "Flex printing machines printing quality resolution checks standard output scale metrics DPI stands for what?",
+      "options": {
+        "A": "Dots Per Inch (ink drops density per linear inch)",
+        "B": "Data Process Index",
+        "C": "Direct Photo Integration",
+        "D": "Detail Pixel Increment"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DPI metric controls print resolution sharpness. Flex print standard DPI is ~72-150 DPI due to viewing distance, fine print offsets require 300 DPI."
+    },
+    {
+      "qno": 26,
+      "question": "Large banner banners borders attachments grommets/eyelets (challe/metal rings) details margins guidelines checks design elements checks safety limits margins kya check coordinate details set honi chahiye?",
+      "options": {
+        "A": "Keep important text/graphics at least 2-3 inches inside from extreme border edges (safety margin bounds)",
+        "B": "Align text border lines touching edges",
+        "C": "No safety margin bounds required",
+        "D": "Only 0.1 mm borders"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Billboards borders require metal grommets (eyelets) installations folding flex borders edges. Text near boundaries can get punched."
+    },
+    {
+      "qno": 27,
+      "question": "Print designs handover packages file formats 'TIFF' image format kyu highly utilized check options printed files me?",
+      "options": {
+        "A": "Lossless raster data compression format preserving maximum print color details and transparency channel grids",
+        "B": "Very small compressed files format",
+        "C": "Only editable in notepad text",
+        "D": "Zero print utility"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "TIFF is high resolution lossless print industry file format exchange standard parameters checks."
+    },
+    {
+      "qno": 28,
+      "question": "Print and Flex shops handover formats 'CDR' file extension represent what?",
+      "options": {
+        "A": "CorelDRAW native vector source document file format",
+        "B": "Compressed Data Registry file",
+        "C": "Camera Digital Raw photo file",
+        "D": "Direct print instructions XML code"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CDR is native editable workspace format for CorelDRAW projects coordinates files."
+    },
+    {
+      "qno": 29,
+      "question": "Flex board designs mockup configurations 'Flex Mockup' kyu utilize hotey hain presentation layers checks me?",
+      "options": {
+        "A": "Aesthetic visual preview of shop signboard display with shadow lights projections simulating real look",
+        "B": "Only price invoice calculation list",
+        "C": "Subtitles file size format change",
+        "D": "Zero utility indicators"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mockups help client to visualize design alignment and appearance before spending on physical vinyl prints."
+    },
+    {
+      "qno": 30,
+      "question": "Print shop setups checks 'Grommets / Eyelets' (challe) metal buttons placement standard distance interval margins flex banners suspension margins borders checks standard guidelines ranges what are recommended?",
+      "options": {
+        "A": "Every 1.5 to 2 feet interval spacing along all edges borders to prevent flex tearing sagging winds pressure",
+        "B": "Only single ring at center",
+        "C": "No metal rings allowed in outdoor flex",
+        "D": "Zero grommet settings"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Grommet distribution balance wind drag pressure spreads, preventing flex tearing on mounting frame boards."
+    },
+    {
+      "qno": 31,
+      "question": "Typography settings checks 'Text Kerning' adjustments why critical in capital bold headlines of shop signboards?",
+      "options": {
+        "A": "Ensure balanced spacing visual gap between characters pairs (eg AV, WA) to prevent reading overlapping gaps",
+        "B": "Change font languages",
+        "C": "Saves file storage sizes",
+        "D": "Watermark overlay coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Kerning adjustments balance character spaces optical weight legibility standard check guidelines."
+    },
+    {
+      "qno": 32,
+      "question": "Color space structures CMYK coated vs uncoated palettes definitions what is coated palette standard print paper applications?",
+      "options": {
+        "A": "Optimized print inks outputs for glossy coated papers (magazines, glossy sheets catalogs)",
+        "B": "Direct screen display optimization only",
+        "C": "Grayscale monochrome printers settings",
+        "D": "Zero contrast variations exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Coated ink profile calculations targets non-absorbing glossy surfaces color pop consistency standard."
+    },
+    {
+      "qno": 33,
+      "question": "Canva layout setup flex board templates 'Dimension unit changes' where pixel is converted to feet options where it is configured in interface?",
+      "options": {
+        "A": "File -> Settings -> Resize options menu (configure custom units inches/cm/mm)",
+        "B": "Auto calculation button directly",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Resize option in Canva interface handles units transitions and canvas dimension scale setups."
+    },
+    {
+      "qno": 34,
+      "question": "CorelDRAW vector curves editing shape tool options 'Add Node' / 'Delete Node' coordinates curves control settings why critical?",
+      "options": {
+        "A": "Adjusting complex geometries path nodes counts (fewer nodes yields cleaner smoother curves output)",
+        "B": "Spelling checking parameters checks",
+        "C": "AdSense accounts data match check",
+        "D": "Subtitles file size format change"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Path nodes cleanups prevent jagged vectors coordinates, optimizing shape rendering speed and cutting plotter accuracy."
+    },
+    {
+      "qno": 35,
+      "question": "Flex printing machines printing quality resolution checks standard output scale metrics DPI stands for what in printing?",
+      "options": {
+        "A": "Dots Per Inch (ink drops density per linear inch)",
+        "B": "Data Process Index",
+        "C": "Direct Photo Integration",
+        "D": "Detail Pixel Increment"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DPI metric controls print resolution sharpness. Flex print standard DPI is ~72-150 DPI due to viewing distance, fine print offsets require 300 DPI."
+    },
+    {
+      "qno": 36,
+      "question": "Print and Flex output designs color matching parameters colors system spaces me 'RGB' and 'CMYK' color space primary choice difference?",
+      "options": {
+        "A": "RGB is optimized for digital screens display lights, CMYK is standardized color space for actual ink print machines (flex/press)",
+        "B": "RGB is high contrast print standard always",
+        "C": "CMYK is only for video editing files",
+        "D": "Dono models visual matching is identical"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "RGB color profiles screens lights additive models, CMYK subtractive inks models. RGB digital designs directly printed look dull due to print color bounds conversion loss."
+    },
+    {
+      "qno": 37,
+      "question": "RGB dynamic colors file flex printing press machines me output run karne se design colors output?",
+      "options": {
+        "A": "Printed flex colors visual brightness drop (look dull, saturated colors mismatch, blue turns purple shifts)",
+        "B": "Image details delete completely",
+        "C": "Print speed becomes extremely fast",
+        "D": "Zero changes indicators"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Print inks cannot reproduce wide luminous spectrum of screen RGB lights. Designers convert layouts to CMYK workspace before print submissions to check correct colors."
+    },
+    {
+      "qno": 38,
+      "question": "Print designs elements borders checks typography text alignment formats me 'Justified Alignment'?",
+      "options": {
+        "A": "Both left and right margins are aligned straight clean layout boxes looks (like columns in newspaper)",
+        "B": "Only for single word lines",
+        "C": "Requires color change settings",
+        "D": "No visual difference"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Justify block spaces words dynamically to make clean uniform margins on both sides of print boxes."
+    },
+    {
+      "qno": 39,
+      "question": "CorelDRAW file edits layout checks text modes 'Artistic Text' and 'Paragraph Text' difference?",
+      "options": {
+        "A": "Artistic Text is for titles/headings (stretchable scaling), Paragraph Text is for blocks body copy (flow bounding box wraps)",
+        "B": "Artistic text only works with black color",
+        "C": "Dono are exact duplicates",
+        "D": "Paragraph text cannot have outlines"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Artistic texts scales directly with drag handles, paragraph text boxes wrap words to next lines dynamically."
+    },
+    {
+      "qno": 40,
+      "question": "Vector curves edits checks CorelDRAW 'Bezier Tool' primary usage?",
+      "options": {
+        "A": "Place nodes and coordinate curves step by step to draw custom vector shapes and outline trace details",
+        "B": "Delete objects directly tool",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bezier tools precise anchor paths placements curves drawing coordinates vectors standard."
+    },
+    {
+      "qno": 41,
+      "question": "Flex printing materials standard properties checks 'Frontlit Flex' and 'Backlit Flex' differences?",
+      "options": {
+        "A": "Light boards boxes (glow sign boards where light bulbs inside box shine through flex fabric sheet from behind)",
+        "B": "Only direct sunlight open garden boards",
+        "C": "Non-illuminated static billboards",
+        "D": "Zero light installations"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Backlit flex features high light transmission capacity translucent material composition to illuminate visual graphics uniformly."
+    },
+    {
+      "qno": 42,
+      "question": "Canva designing online workspace flex board design creations workflows checks standard templates adjustments?",
+      "options": {
+        "A": "Yes, PDF Print download options contains CMYK color profile selection check box (Canva Pro feature)",
+        "B": "No, Canva strictly downloads RGB formats only always",
+        "C": "Canva only works in black-white templates",
+        "D": "Dono formats are invalid"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Canva print export optimization supports CMYK profile outputs PDF Print options to match standard printing press inks profiles."
+    },
+    {
+      "qno": 43,
+      "question": "Printing shop handovers design package check lists checks 'Converting to Curves'?",
+      "options": {
+        "A": "Convert text fonts to vector solid shapes paths so printing machine PC does not show 'Font Missing' errors or character blocks layout corruptions",
+        "B": "Make image file size compress fast",
+        "C": "Change language settings to English automatically",
+        "D": "Delete spacing margins"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "If printing press PC lacks design fonts, converting to curves (vector shapes paths) locks character typography outlines permanently, preventing missing font errors."
+    },
+    {
+      "qno": 44,
+      "question": "Large flex banner layout designs 10x10 feet setups file size?",
+      "options": {
+        "A": "Design in 1:10 scale ratio (eg: design in 12x12 inches size at high 300/600 DPI resolution, and printing shop scales to feet)",
+        "B": "Always design full 10x10 feet canvas at 1200 DPI",
+        "C": "Only use low resolution 72 DPI raw images",
+        "D": "Zero scaling rules exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Scale ratios (1:10 or 1:12) design canvas light keep checks preventing high RAM memory requirements and software crashes. Vector coordinates scale up loss-free."
+    },
+    {
+      "qno": 45,
+      "question": "Flex printing machines printing quality resolution checks standard output scale metrics DPI?",
+      "options": {
+        "A": "Dots Per Inch (ink drops density per linear inch)",
+        "B": "Data Process Index",
+        "C": "Direct Photo Integration",
+        "D": "Detail Pixel Increment"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DPI metric controls print resolution sharpness. Flex print standard DPI is ~72-150 DPI due to viewing distance, fine print offsets require 300 DPI."
+    },
+    {
+      "qno": 46,
+      "question": "Large banner banners borders attachments grommets/eyelets?",
+      "options": {
+        "A": "Keep important text/graphics at least 2-3 inches inside from extreme border edges (safety margin bounds)",
+        "B": "Align text border lines touching edges",
+        "C": "No safety margin bounds required",
+        "D": "Only 0.1 mm borders"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Billboards borders require metal grommets (eyelets) installations folding flex borders edges. Text near boundaries can get punched."
+    },
+    {
+      "qno": 47,
+      "question": "Print designs handover packages file formats 'TIFF'?",
+      "options": {
+        "A": "Lossless raster data compression format preserving maximum print color details and transparency channel grids",
+        "B": "Very small compressed files format",
+        "C": "Only editable in notepad text",
+        "D": "Zero print utility"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "TIFF is high resolution lossless print industry file format exchange standard parameters checks."
+    },
+    {
+      "qno": 48,
+      "question": "Print and Flex shops handover formats 'CDR'?",
+      "options": {
+        "A": "CorelDRAW native vector source document file format",
+        "B": "Compressed Data Registry file",
+        "C": "Camera Digital Raw photo file",
+        "D": "Direct print instructions XML code"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CDR is native editable workspace format for CorelDRAW projects coordinates files."
+    },
+    {
+      "qno": 49,
+      "question": "Flex board designs mockup configurations 'Flex Mockup'?",
+      "options": {
+        "A": "Aesthetic visual preview of shop signboard display with shadow lights projections simulating real look",
+        "B": "Only price invoice calculation list",
+        "C": "Subtitles file size format change",
+        "D": "Zero utility indicators"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mockups help client to visualize design alignment and appearance before spending on physical vinyl prints."
+    },
+    {
+      "qno": 50,
+      "question": "Print shop setups checks 'Grommets / Eyelets'?",
+      "options": {
+        "A": "Every 1.5 to 2 feet interval spacing along all edges borders to prevent flex tearing sagging winds pressure",
+        "B": "Only single ring at center",
+        "C": "No metal rings allowed in outdoor flex",
+        "D": "Zero grommet settings"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Grommet distribution balance wind drag pressure spreads, preventing flex tearing on mounting frame boards."
+    },
+    {
+      "qno": 51,
+      "question": "Print and Flex output designs color matching parameters colors system spaces me 'RGB' and 'CMYK' color space?",
+      "options": {
+        "A": "RGB is optimized for digital screens display lights, CMYK is standardized color space for actual ink print machines (flex/press)",
+        "B": "RGB is high contrast print standard always",
+        "C": "CMYK is only for video editing files",
+        "D": "Dono models visual matching is identical"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "RGB color profiles screens lights additive models, CMYK subtractive inks models. RGB digital designs directly printed look dull due to print color bounds conversion loss."
+    },
+    {
+      "qno": 52,
+      "question": "RGB dynamic colors file flex printing press machines me output run?",
+      "options": {
+        "A": "Printed flex colors visual brightness drop (look dull, saturated colors mismatch, blue turns purple shifts)",
+        "B": "Image details delete completely",
+        "C": "Print speed becomes extremely fast",
+        "D": "Zero changes indicators"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Print inks cannot reproduce wide luminous spectrum of screen RGB lights. Designers convert layouts to CMYK workspace before print submissions to check correct colors."
+    },
+    {
+      "qno": 53,
+      "question": "Print designs elements borders checks typography text alignment formats me 'Justified Alignment' details?",
+      "options": {
+        "A": "Both left and right margins are aligned straight clean layout boxes looks (like columns in newspaper)",
+        "B": "Only for single word lines",
+        "C": "Requires color change settings",
+        "D": "No visual difference"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Justify block spaces words dynamically to make clean uniform margins on both sides of print boxes."
+    },
+    {
+      "qno": 54,
+      "question": "CorelDRAW file edits layout checks text modes 'Artistic Text' and 'Paragraph Text' difference details?",
+      "options": {
+        "A": "Artistic Text is for titles/headings (stretchable scaling), Paragraph Text is for blocks body copy (flow bounding box wraps)",
+        "B": "Artistic text only works with black color",
+        "C": "Dono are exact duplicates",
+        "D": "Paragraph text cannot have outlines"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Artistic texts scales directly with drag handles, paragraph text boxes wrap words to next lines dynamically."
+    },
+    {
+      "qno": 55,
+      "question": "Vector curves edits checks CorelDRAW 'Bezier Tool'?",
+      "options": {
+        "A": "Place nodes and coordinate curves step by step to draw custom vector shapes and outline trace details",
+        "B": "Delete objects directly tool",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bezier tools precise anchor paths placements curves drawing coordinates vectors standard."
+    },
+    {
+      "qno": 56,
+      "question": "Flex printing materials standard properties checks 'Frontlit Flex' and 'Backlit Flex'?",
+      "options": {
+        "A": "Light boards boxes (glow sign boards where light bulbs inside box shine through flex fabric sheet from behind)",
+        "B": "Only direct sunlight open garden boards",
+        "C": "Non-illuminated static billboards",
+        "D": "Zero light installations"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Backlit flex features high light transmission capacity translucent material composition to illuminate visual graphics uniformly."
+    },
+    {
+      "qno": 57,
+      "question": "Canva designing online workspace flex board design creations workflows checks?",
+      "options": {
+        "A": "Yes, PDF Print download options contains CMYK color profile selection check box (Canva Pro feature)",
+        "B": "No, Canva strictly downloads RGB formats only always",
+        "C": "Canva only works in black-white templates",
+        "D": "Dono formats are invalid"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Canva print export optimization supports CMYK profile outputs PDF Print options to match standard printing press inks profiles."
+    },
+    {
+      "qno": 58,
+      "question": "Printing shop handovers design package check lists checks 'Converting to Curves' details?",
+      "options": {
+        "A": "Convert text fonts to vector solid shapes paths so printing machine PC does not show 'Font Missing' errors or character blocks layout corruptions",
+        "B": "Make image file size compress fast",
+        "C": "Change language settings to English automatically",
+        "D": "Delete spacing margins"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "If printing press PC lacks design fonts, converting to curves (vector shapes paths) locks character typography outlines permanently, preventing missing font errors."
+    },
+    {
+      "qno": 59,
+      "question": "Large flex banner layout designs 10x10 feet setups?",
+      "options": {
+        "A": "Design in 1:10 scale ratio (eg: design in 12x12 inches size at high 300/600 DPI resolution, and printing shop scales to feet)",
+        "B": "Always design full 10x10 feet canvas at 1200 DPI",
+        "C": "Only use low resolution 72 DPI raw images",
+        "D": "Zero scaling rules exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Scale ratios (1:10 or 1:12) design canvas light keep checks preventing high RAM memory requirements and software crashes. Vector coordinates scale up loss-free."
+    },
+    {
+      "qno": 60,
+      "question": "Flex printing machines printing quality resolution checks standard output scale metrics?",
+      "options": {
+        "A": "Dots Per Inch (ink drops density per linear inch)",
+        "B": "Data Process Index",
+        "C": "Direct Photo Integration",
+        "D": "Detail Pixel Increment"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DPI metric controls print resolution sharpness. Flex print standard DPI is ~72-150 DPI due to viewing distance, fine print offsets require 300 DPI."
+    },
+    {
+      "qno": 61,
+      "question": "Large banner banners borders attachments?",
+      "options": {
+        "A": "Keep important text/graphics at least 2-3 inches inside from extreme border edges (safety margin bounds)",
+        "B": "Align text border lines touching edges",
+        "C": "No safety margin bounds required",
+        "D": "Only 0.1 mm borders"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Billboards borders require metal grommets (eyelets) installations folding flex borders edges. Text near boundaries can get punched."
+    },
+    {
+      "qno": 62,
+      "question": "Print designs handover packages file?",
+      "options": {
+        "A": "Lossless raster data compression format preserving maximum print color details and transparency channel grids",
+        "B": "Very small compressed files format",
+        "C": "Only editable in notepad text",
+        "D": "Zero print utility"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "TIFF is high resolution lossless print industry file format exchange standard parameters checks."
+    },
+    {
+      "qno": 63,
+      "question": "Print and Flex shops handover formats?",
+      "options": {
+        "A": "CorelDRAW native vector source document file format",
+        "B": "Compressed Data Registry file",
+        "C": "Camera Digital Raw photo file",
+        "D": "Direct print instructions XML code"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CDR is native editable workspace format for CorelDRAW projects coordinates files."
+    },
+    {
+      "qno": 64,
+      "question": "Flex board designs mockup?",
+      "options": {
+        "A": "Aesthetic visual preview of shop signboard display with shadow lights projections simulating real look",
+        "B": "Only price invoice calculation list",
+        "C": "Subtitles file size format change",
+        "D": "Zero utility indicators"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mockups help client to visualize design alignment and appearance before spending on physical vinyl prints."
+    },
+    {
+      "qno": 65,
+      "question": "Print shop setups?",
+      "options": {
+        "A": "Every 1.5 to 2 feet interval spacing along all edges borders to prevent flex tearing sagging winds pressure",
+        "B": "Only single ring at center",
+        "C": "No metal rings allowed in outdoor flex",
+        "D": "Zero grommet settings"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Grommet distribution balance wind drag pressure spreads, preventing flex tearing on mounting frame boards."
+    },
+    {
+      "qno": 66,
+      "question": "Flex board designs mockup configurations?",
+      "options": {
+        "A": "Aesthetic visual preview of shop signboard display with shadow lights projections simulating real look",
+        "B": "Only price invoice calculation list",
+        "C": "Subtitles file size format change",
+        "D": "Zero utility indicators"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mockups help client to visualize design alignment and appearance before spending on physical vinyl prints."
+    },
+    {
+      "qno": 67,
+      "question": "Print shop setups checks?",
+      "options": {
+        "A": "Every 1.5 to 2 feet interval spacing along all edges borders to prevent flex tearing sagging winds pressure",
+        "B": "Only single ring at center",
+        "C": "No metal rings allowed in outdoor flex",
+        "D": "Zero grommet settings"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Grommet distribution balance wind drag pressure spreads, preventing flex tearing on mounting frame boards."
+    },
+    {
+      "qno": 68,
+      "question": "Print designs handover packages?",
+      "options": {
+        "A": "Source files (AI/CDR), Vector formats (SVG/EPS), high resolution print formats (PDF) and web transparency layouts (PNG)",
+        "B": "Only mobile screen screenshots standard jpg version directly",
+        "C": "Printed photocopy book only",
+        "D": "Zero delivery check list"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Reverse/Black-White logo versions print setups stamp layouts dark background visuals consistency help checks."
+    },
+    {
+      "qno": 69,
+      "question": "Color palette selection checks checks?",
+      "options": {
+        "A": "Color wheel equidistant three colors forming equilateral triangle coordinates pick (high vibrant contrast balances)",
+        "B": "Adjacent side by side colors only",
+        "C": "Dono complementary colors pairs mix",
+        "D": "Zero color combinations exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Triadic setups high visual vibrancy dynamic color balances checks design templates standard."
+    },
+    {
+      "qno": 70,
+      "question": "Logo design vector software tools checks?",
+      "options": {
+        "A": "Convert path outline strokes to solid shapes to prevent stroke weight distortions when scaling resizing logo vectors",
+        "B": "Change video files format conversions",
+        "C": "AdSense verification PIN releases",
+        "D": "Zero colors matching checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Outlining strokes vector lines scaling weight distortions (thin lines becomes thick blocks when zoomed out) prevent checks standard delivery quality codes."
+    },
+    {
+      "qno": 71,
+      "question": "Branding logo designs layouts checks 'Brand Typography Pairing' rules details specifications guidelines me heading?",
+      "options": {
+        "A": "Bold display/Serif font for headings paired with highly legible simple Sans-serif font for paragraph blocks (contrast pairings)",
+        "B": "Both header and body same style decorative script fonts",
+        "C": "Zero font pairings restriction",
+        "D": "Only capital letters in both standard"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Font pairing typography checks readability hierarchy visual structure ensure checks, standard guidelines."
+    },
+    {
+      "qno": 72,
+      "question": "Logo design deliverables checks files packages formats zip deliver?",
+      "options": {
+        "A": "Source files (AI/CDR), Vector formats (SVG/EPS), high resolution print formats (PDF) and web transparency layouts (PNG)",
+        "B": "Only mobile screen screenshots standard jpg version directly",
+        "C": "Printed photocopy book only",
+        "D": "Zero delivery check list"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Reverse/Black-White logo versions print setups stamp layouts dark background visuals consistency help checks."
+    },
+    {
+      "qno": 73,
+      "question": "Color palette selection checks?",
+      "options": {
+        "A": "Color wheel equidistant three colors forming equilateral triangle coordinates pick (high vibrant contrast balances)",
+        "B": "Adjacent side by side colors only",
+        "C": "Dono complementary colors pairs mix",
+        "D": "Zero color combinations exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Triadic setups high visual vibrancy dynamic color balances checks design templates standard."
+    },
+    {
+      "qno": 74,
+      "question": "Logo design vector software?",
+      "options": {
+        "A": "Convert path outline strokes to solid shapes to prevent stroke weight distortions when scaling resizing logo vectors",
+        "B": "Change video files format conversions",
+        "C": "AdSense verification PIN releases",
+        "D": "Zero colors matching checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Outlining strokes vector lines scaling weight distortions (thin lines becomes thick blocks when zoomed out) prevent checks standard delivery quality codes."
+    },
+    {
+      "qno": 75,
+      "question": "Branding logo designs layouts?",
+      "options": {
+        "A": "Bold display/Serif font for headings paired with highly legible simple Sans-serif font for paragraph blocks (contrast pairings)",
+        "B": "Both header and body same style decorative script fonts",
+        "C": "Zero font pairings restriction",
+        "D": "Only capital letters in both standard"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Font pairing typography checks readability hierarchy visual structure ensure checks, standard guidelines."
+    },
+    {
+      "qno": 76,
+      "question": "Logo design deliverables?",
+      "options": {
+        "A": "Source files (AI/CDR), Vector formats (SVG/EPS), high resolution print formats (PDF) and web transparency layouts (PNG)",
+        "B": "Only mobile screen screenshots standard jpg version directly",
+        "C": "Printed photocopy book only",
+        "D": "Zero delivery check list"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Reverse/Black-White logo versions print setups stamp layouts dark background visuals consistency help checks."
+    },
+    {
+      "qno": 77,
+      "question": "Color palette?",
+      "options": {
+        "A": "Color wheel equidistant three colors forming equilateral triangle coordinates pick (high vibrant contrast balances)",
+        "B": "Adjacent side by side colors only",
+        "C": "Dono complementary colors pairs mix",
+        "D": "Zero color combinations exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Triadic setups high visual vibrancy dynamic color balances checks design templates standard."
+    },
+    {
+      "qno": 78,
+      "question": "Logo design?",
+      "options": {
+        "A": "Convert path outline strokes to solid shapes to prevent stroke weight distortions when scaling resizing logo vectors",
+        "B": "Change video files format conversions",
+        "C": "AdSense verification PIN releases",
+        "D": "Zero colors matching checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Outlining strokes vector lines scaling weight distortions (thin lines becomes thick blocks when zoomed out) prevent checks standard delivery quality codes."
+    },
+    {
+      "qno": 79,
+      "question": "Branding logo?",
+      "options": {
+        "A": "Bold display/Serif font for headings paired with highly legible simple Sans-serif font for paragraph blocks (contrast pairings)",
+        "B": "Both header and body same style decorative script fonts",
+        "C": "Zero font pairings restriction",
+        "D": "Only capital letters in both standard"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Font pairing typography checks readability hierarchy visual structure ensure checks, standard guidelines."
+    },
+    {
+      "qno": 80,
+      "question": "Logo design deliverables checklist?",
+      "options": {
+        "A": "Source files (AI/CDR), Vector formats (SVG/EPS), high resolution print formats (PDF) and web transparency layouts (PNG)",
+        "B": "Only mobile screen screenshots standard jpg version directly",
+        "C": "Printed photocopy book only",
+        "D": "Zero delivery check list"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Reverse/Black-White logo versions print setups stamp layouts dark background visuals consistency help checks."
+    },
+    {
+      "qno": 81,
+      "question": "Color?",
+      "options": {
+        "A": "Color wheel equidistant three colors forming equilateral triangle coordinates pick (high vibrant contrast balances)",
+        "B": "Adjacent side by side colors only",
+        "C": "Dono complementary colors pairs mix",
+        "D": "Zero color combinations exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Triadic setups high visual vibrancy dynamic color balances checks design templates standard."
+    },
+    {
+      "qno": 82,
+      "question": "Logo?",
+      "options": {
+        "A": "Convert path outline strokes to solid shapes to prevent stroke weight distortions when scaling resizing logo vectors",
+        "B": "Change video files format conversions",
+        "C": "AdSense verification PIN releases",
+        "D": "Zero colors matching checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Outlining strokes vector lines scaling weight distortions (thin lines becomes thick blocks when zoomed out) prevent checks standard delivery quality codes."
+    },
+    {
+      "qno": 83,
+      "question": "Branding?",
+      "options": {
+        "A": "Bold display/Serif font for headings paired with highly legible simple Sans-serif font for paragraph blocks (contrast pairings)",
+        "B": "Both header and body same style decorative script fonts",
+        "C": "Zero font pairings restriction",
+        "D": "Only capital letters in both standard"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Font pairing typography checks readability hierarchy visual structure ensure checks, standard guidelines."
+    },
+    {
+      "qno": 84,
+      "question": "Logo design deliverables checklist details?",
+      "options": {
+        "A": "Source files (AI/CDR), Vector formats (SVG/EPS), high resolution print formats (PDF) and web transparency layouts (PNG)",
+        "B": "Only mobile screen screenshots standard jpg version directly",
+        "C": "Printed photocopy book only",
+        "D": "Zero delivery check list"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Reverse/Black-White logo versions print setups stamp layouts dark background visuals consistency help checks."
+    },
+    {
+      "qno": 85,
+      "question": "Color palette selection checks checks standard?",
+      "options": {
+        "A": "Color wheel equidistant three colors forming equilateral triangle coordinates pick (high vibrant contrast balances)",
+        "B": "Adjacent side by side colors only",
+        "C": "Dono complementary colors pairs mix",
+        "D": "Zero color combinations exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Triadic setups high visual vibrancy dynamic color balances checks design templates standard."
+    },
+    {
+      "qno": 86,
+      "question": "Print and Flex shop workflows handovers PDF export setups checks does 'PDF/X' standard ensure print consistency?",
+      "options": {
+        "A": "Yes, PDF/X is standard file format designed to prevent font, color space and layout configuration mismatch errors at print devices",
+        "B": "No, PDF/X deletes image data completely",
+        "C": "PDF/X only works in grayscale mode",
+        "D": "Zero advantages exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "PDF/X format packages embed fonts, target profiles (CMYK) and layout crops safely, ensuring printing machines execute exactly what is visible."
+    },
+    {
+      "qno": 87,
+      "question": "CorelDRAW designs exports options 'Export to TIFF' checks what is the recommended color mode for printing shop handovers?",
+      "options": {
+        "A": "CMYK Color (32-bit)",
+        "B": "RGB Color (24-bit) directly",
+        "C": "Grayscale (8-bit)",
+        "D": "Black and White (1-bit)"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "TIFF in CMYK color format ensures lossless pixel image details preservation for big format flex printing machines."
+    },
+    {
+      "qno": 88,
+      "question": "Print shop processes checks 'Lamination' (thin plastic film layer overlay) flex boards prints me kyu apply kiya jata hai?",
+      "options": {
+        "A": "Protect print surface from rainwater, sun fading scratch damages and add glossy/matte finish looks",
+        "B": "Bypass duplicate copyright checks directly",
+        "C": "Reduce image byte sizes",
+        "D": "Zero advantages exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Lamination plastic coating acts as weather shield, extending the durability of banners and boards."
+    },
+    {
+      "qno": 89,
+      "question": "Flex printing machines printing quality check standard sRGB profile convert checks does 'Gamut Warning' feature in graphic tools represent?",
+      "options": {
+        "A": "Highlighting colors in design that cannot be reproduced accurately by print inks (out of print gamut colors)",
+        "B": "Spelling check alerts",
+        "C": "Software crash indicators",
+        "D": "Zero functions exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Gamut warning highlights neon colors that print CMYK inks cannot replicate, allowing designer edits prior to print failures."
+    },
+    {
+      "qno": 90,
+      "question": "Flex banner installations checks 'Hems / Folding borders' margins why essential?",
+      "options": {
+        "A": "Folding edges and sealing with heat/glue to double flex thickness at borders for grommets mounting stability",
+        "B": "Increase server upload speed checks",
+        "C": "AdSense monetization approvals",
+        "D": "Zero alignment settings"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hemming reinforces borders, preventing grommets from tearing out due to high winds drag."
+    },
+    {
+      "qno": 91,
+      "question": "Flex designing typography rules checks checks does 'Convert to Curves' make text non-editable in CorelDRAW?",
+      "options": {
+        "A": "Yes, once text is converted to curves (vector paths), typist cannot edit text characters spelling using text tool",
+        "B": "No, it remains normal text typing active always",
+        "C": "Dono settings are duplicate",
+        "D": "Only if file saved as PDF"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Converting to curves is irreversible step for text properties, so designers hamesha backup CDR files edit settings keep."
+    },
+    {
+      "qno": 92,
+      "question": "CorelDRAW vector operations 'Envelope Tool' primary utility features checks me kya represents?",
+      "options": {
+        "A": "Distort text or vector objects shape boundaries dynamically to fit inside custom layout shapes",
+        "B": "Email design layouts creator",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Envelope tool stretches and morphs vector blocks along custom bounding frames, helpful for logo text distortions."
+    },
+    {
+      "qno": 93,
+      "question": "Print and Flex shop workflows handovers PDF export setups checks does 'PDF/X' standard?",
+      "options": {
+        "A": "Yes, PDF/X is standard file format designed to prevent font, color space and layout configuration mismatch errors at print devices",
+        "B": "No, PDF/X deletes image data completely",
+        "C": "PDF/X only works in grayscale mode",
+        "D": "Zero advantages exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "PDF/X format packages embed fonts, target profiles (CMYK) and layout crops safely, ensuring printing machines execute exactly what is visible."
+    },
+    {
+      "qno": 94,
+      "question": "CorelDRAW designs exports options 'Export to TIFF'?",
+      "options": {
+        "A": "CMYK Color (32-bit)",
+        "B": "RGB Color (24-bit) directly",
+        "C": "Grayscale (8-bit)",
+        "D": "Black and White (1-bit)"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "TIFF in CMYK color format ensures lossless pixel image details preservation for big format flex printing machines."
+    },
+    {
+      "qno": 95,
+      "question": "Print shop processes checks 'Lamination'?",
+      "options": {
+        "A": "Protect print surface from rainwater, sun fading scratch damages and add glossy/matte finish looks",
+        "B": "Bypass duplicate copyright checks directly",
+        "C": "Reduce image byte sizes",
+        "D": "Zero advantages exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Lamination plastic coating acts as weather shield, extending the durability of banners and boards."
+    },
+    {
+      "qno": 96,
+      "question": "Flex printing machines printing quality check standard sRGB profile convert?",
+      "options": {
+        "A": "Highlighting colors in design that cannot be reproduced accurately by print inks (out of print gamut colors)",
+        "B": "Spelling check alerts",
+        "C": "Software crash indicators",
+        "D": "Zero functions exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Gamut warning highlights neon colors that print CMYK inks cannot replicate, allowing designer edits prior to print failures."
+    },
+    {
+      "qno": 97,
+      "question": "Flex banner installations checks 'Hems / Folding borders'?",
+      "options": {
+        "A": "Folding edges and sealing with heat/glue to double flex thickness at borders for grommets mounting stability",
+        "B": "Increase server upload speed checks",
+        "C": "AdSense monetization approvals",
+        "D": "Zero alignment settings"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hemming reinforces borders, preventing grommets from tearing out due to high winds drag."
+    },
+    {
+      "qno": 98,
+      "question": "Flex designing typography rules checks checks does 'Convert to Curves'?",
+      "options": {
+        "A": "Yes, once text is converted to curves (vector paths), typist cannot edit text characters spelling using text tool",
+        "B": "No, it remains normal text typing active always",
+        "C": "Dono settings are duplicate",
+        "D": "Only if file saved as PDF"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Converting to curves is irreversible step for text properties, so designers hamesha backup CDR files edit settings keep."
+    },
+    {
+      "qno": 99,
+      "question": "CorelDRAW vector operations 'Envelope Tool'?",
+      "options": {
+        "A": "Distort text or vector objects shape boundaries dynamically to fit inside custom layout shapes",
+        "B": "Email design layouts creator",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Envelope tool stretches and morphs vector blocks along custom bounding frames, helpful for logo text distortions."
+    },
+    {
+      "qno": 100,
+      "question": "Print & Flex Design final handovers to printing presses why CMYK file validation is key final step?",
+      "options": {
+        "A": "Ensures printed flex colors exactly match design layout visuals without unexpected color shifts on press devices",
+        "B": "Video editing file sizes compression",
+        "C": "Subtitles translate tools automatic",
+        "D": "Zero utility coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "CMYK conversion validates the output colors profile alignment, avoiding printing errors and material waste."
+    }
+  ]
+}

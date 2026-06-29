@@ -1,0 +1,1443 @@
+{
+  "course_name": "Sanitation Worker Certification",
+  "sector": "Plumbing, Sanitation & Water",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Sanitation & Worker Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Tools & Equipment for Sanitation Work",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Waste Collection, Segregation & Disposal",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Drainage & Sewerage System Cleaning Techniques",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Public Health, Hygiene & Disease Prevention",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Environmental Impact & Legal Compliance",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Sanitation worker ka primary role kya hai?",
+      "options": {
+        "A": "Public places ko saaf aur hygienic rakhna",
+        "B": "Bijli ke poles theek karna",
+        "C": "Roads banana",
+        "D": "Traffic control karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sanitation worker ka mukhya kaam public areas aur infrastructure ko saaf suthra aur swasthya-friendly rakhna hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "PPE ka full form kya hai?",
+      "options": {
+        "A": "Personal Protection Equipment",
+        "B": "Public Property Entry",
+        "C": "Private Personnel Egress",
+        "D": "Professional Protective Efficacy"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "PPE ka matlab 'Personal Protection Equipment' hai, jo workers ko hazards se bachane ke liye use hota hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Sanitation work karte samay kaun sa PPE sabse zaroori hai?",
+      "options": {
+        "A": "Fashionable cap",
+        "B": "Safety gloves",
+        "C": "Sunglasses",
+        "D": "Stylish watch"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety gloves chemicals, sharp objects aur germs se haathon ki suraksha ke liye bahut zaroori hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Agar aapko kaam karte waqt koi sharp object mile, toh aap kya karenge?",
+      "options": {
+        "A": "Use haath se utha lenge",
+        "B": "Use jahan hai wahi chhod denge",
+        "C": "Proper tools (jaise tongs) se utha kar surakshit tareeke se dispose karenge",
+        "D": "Apne saath ghar le jayenge"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sharp objects ko bina proper tools ke uthana chot ka karan ban sakta hai. Unhe surakshit tareeke se handle aur dispose karna chahiye."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Confined space mein enter karne se pehle kya precaution lena chahiye?",
+      "options": {
+        "A": "Bas jaldi se enter kar lena chahiye",
+        "B": "Proper ventilation aur gas detection check karna chahiye",
+        "C": "Headphones pehen kar enter karna chahiye",
+        "D": "Andar jaakar sab check kar lenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Confined spaces mein toxic gases ya oxygen ki kami ho sakti hai, isliye proper ventilation aur gas detection bahut zaroori hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Sanitation workers ko kaun se health risks ho sakte hain?",
+      "options": {
+        "A": "Diabetes",
+        "B": "Heart disease",
+        "C": "Infections, respiratory problems aur skin irritations",
+        "D": "High blood pressure"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Waste aur sewage ke contact mein aane se workers ko infections, saans ki takleef aur skin problems ho sakte hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Workplace par first aid box ki kya importance hai?",
+      "options": {
+        "A": "Sirf decoration ke liye",
+        "B": "Emergency mein choti choton ka ilaaj karne ke liye",
+        "C": "Lunch rakhne ke liye",
+        "D": "Tools store karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "First aid box choti choton aur accidents ke turant ilaaj ke liye zaroori hai, taaki gambhir hone se roka ja sake."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Manual scavenging ko India mein kyun ban kiya gaya hai?",
+      "options": {
+        "A": "Yeh bahut mushkil kaam hai",
+        "B": "Yeh insaani garima ke khilaf hai aur health risks se bhara hai",
+        "C": "Isme zyada log lagte hain",
+        "D": "Isme machines ka use nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Manual scavenging insaani garima ka ullanghan karta hai aur workers ke liye jaanleva health hazards paida karta hai, isliye yeh ban hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Agar aapko kisi coworker ko chot lagte hue dikhe, toh pehla step kya hoga?",
+      "options": {
+        "A": "Video banana shuru kar denge",
+        "B": "Ignore kar denge",
+        "C": "Turant first aid denge aur senior ko inform karenge",
+        "D": "Bhaag jayenge"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Emergency mein turant help karna aur authorities ko inform karna zaroori hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Sanitation work mein chemical exposure se bachne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Bina kisi precaution ke chemicals handle karna",
+        "B": "Proper gloves, masks aur protective clothing pehenna",
+        "C": "Chemicals ko taste karna",
+        "D": "Sirf paani se chemicals dhona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemicals se skin, aankhon aur saans ki suraksha ke liye proper PPE ka use karna chahiye."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Workplace par 'Danger' sign ka kya matlab hai?",
+      "options": {
+        "A": "Yahan khana mana hai",
+        "B": "Yahan koi khatra nahi hai",
+        "C": "Yahan gambhir chot ya maut ka khatra hai",
+        "D": "Yahan parking mana hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "'Danger' sign sabse high level ke hazard ko indicate karta hai jahan serious injury ya death ka risk ho."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Safe lifting techniques mein kya shamil hai?",
+      "options": {
+        "A": "Apni peeth mod kar bhaari cheezein uthana",
+        "B": "Apne ghutne mod kar, peeth seedhi rakh kar uthana",
+        "C": "Bina kisi help ke bahut bhaari cheezein uthana",
+        "D": "Jhatke se uthana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi lifting technique mein ghutne modna, peeth seedhi rakhna aur legs ki strength ka use karna shamil hai taaki back injury se bacha ja sake."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Sanitation workers ke liye regular medical check-ups kyun important hain?",
+      "options": {
+        "A": "Sirf salary badhane ke liye",
+        "B": "Health risks ko pehchanne aur unka ilaaj karne ke liye",
+        "C": "Chutti lene ke liye",
+        "D": "Naye dost banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular medical check-ups workers ko hone wale health issues ko early detect karne mein help karte hain."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Kya sanitation workers ko traffic safety rules follow karne chahiye?",
+      "options": {
+        "A": "Nahi, unhe exemption hai",
+        "B": "Haan, apni aur doosron ki suraksha ke liye",
+        "C": "Sirf jab police ho",
+        "D": "Sirf raat mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Traffic safety rules follow karna sabke liye zaroori hai, especially jab road par kaam kar rahe hon."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Hazardous waste ko handle karte samay kya extra precaution lena chahiye?",
+      "options": {
+        "A": "Use normal dustbin mein fenk denge",
+        "B": "Special PPE aur designated containers use karna chahiye",
+        "C": "Use hath se touch karke check karenge",
+        "D": "Use paani se dho denge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hazardous waste ko handle karne ke liye vishesh training, PPE aur disposal methods ki zaroorat hoti hai taaki contamination aur injury se bacha ja sake."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Agar aapko lagta hai ki koi task unsafe hai, toh aapko kya karna chahiye?",
+      "options": {
+        "A": "Bina soche kar dena chahiye",
+        "B": "Apne supervisor ko inform karna chahiye",
+        "C": "Apne aap theek karne ki koshish karni chahiye",
+        "D": "Kaam chhod kar chale jana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Unsafe conditions ko turant supervisor ko report karna zaroori hai taaki sahi action liya ja sake aur accidents se bacha ja sake."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ergonomics ka sanitation work mein kya mahatva hai?",
+      "options": {
+        "A": "Yeh sirf office workers ke liye hai",
+        "B": "Yeh kaam ko zyada comfortable aur efficient banane mein help karta hai, choton ko kam karta hai",
+        "C": "Yeh tools ko sundar banata hai",
+        "D": "Iska sanitation work se koi lena dena nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ergonomics ka use karne se workers ko physical strain aur musculoskeletal injuries se bachaya ja sakta hai, jisse unki productivity aur safety badhti hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Waste collection ke liye commonly use hone wala tool kaun sa hai?",
+      "options": {
+        "A": "Hammer",
+        "B": "Shovel (belcha)",
+        "C": "Screwdriver",
+        "D": "Pliers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shovel ya belcha loose waste, mitti, aur kachra uthane ke liye ek basic aur zaroori tool hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Galiyon aur footpath se kachra saaf karne ke liye kaun sa tool best hai?",
+      "options": {
+        "A": "Wrench",
+        "B": "Broom (jhaadu)",
+        "C": "Drill machine",
+        "D": "Measuring tape"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Broom ya jhaadu chhote particles aur dust ko sweep karne ke liye sabse common aur effective tool hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Drainage pipes se blockage hatane ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Paintbrush",
+        "B": "Plunger (toilet cleaner)",
+        "C": "Scissors",
+        "D": "Stapler"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plunger ek suction device hai jo chhote blockages ko clear karne ke liye use hota hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Bade aur gehre drains se kachra nikalne ke liye kya use karte hain?",
+      "options": {
+        "A": "Chammach",
+        "B": "Long-handled scoop ya Tongs (chimta)",
+        "C": "Fork",
+        "D": "Knife"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Long-handled scoop ya tongs workers ko bina drain mein ghuse kachra nikalne mein help karte hain, jisse safety badhti hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Sewage lines mein hard blockages ko clear karne ke liye kaun si machine use hoti hai?",
+      "options": {
+        "A": "Washing machine",
+        "B": "High-pressure jetting machine",
+        "C": "Coffee maker",
+        "D": "Television"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High-pressure jetting machine paani ki tez dhaar se bade aur tough blockages ko tod kar saaf karti hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Solid waste ko collect karne ke liye kaun sa vehicle use hota hai?",
+      "options": {
+        "A": "Private car",
+        "B": "Garbage truck (kachra gaadi)",
+        "C": "Motorcycle",
+        "D": "Bicycle"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Garbage truck ya kachra gaadi large quantities mein solid waste collect aur transport karne ke liye designed hoti hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Manholes ke covers uthane ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Spoon",
+        "B": "Manhole hook/key",
+        "C": "Pencil",
+        "D": "Eraser"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Manhole hook ya key specifically heavy manhole covers ko safely uthane ke liye banaya gaya hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Drainage system ki inspection ke liye kaun sa modern equipment use ho sakta hai?",
+      "options": {
+        "A": "Telescope",
+        "B": "CCTV Drain Inspection Camera",
+        "C": "Binoculars",
+        "D": "Microscope"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CCTV Drain Inspection Camera pipes ke andar ki condition ko visually inspect karne aur blockages ya damage ko locate karne mein help karta hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Hazardous waste ko store karne ke liye kaise containers use karne chahiye?",
+      "options": {
+        "A": "Ordinary plastic bags",
+        "B": "Leak-proof, properly labeled aur sturdy containers",
+        "C": "Open buckets",
+        "D": "Cardboard boxes"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hazardous waste ko leak-proof, labeled aur sturdy containers mein store karna zaroori hai taaki spillage aur contamination se bacha ja sake."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Kya sanitation tools ko regular maintain karna zaroori hai?",
+      "options": {
+        "A": "Nahi, unhe aise hi use karna chahiye",
+        "B": "Haan, unki efficiency aur lifespan badhane ke liye",
+        "C": "Sirf jab naye hon",
+        "D": "Sirf jab toot jayen"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular maintenance tools ko achhi working condition mein rakhta hai, unki life badhata hai aur accidents ke chances kam karta hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Sewerage pumping station mein kaun sa equipment use hota hai?",
+      "options": {
+        "A": "Air conditioner",
+        "B": "Pumps",
+        "C": "Microwave",
+        "D": "Refrigerator"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pumps sewerage ko low elevation se high elevation tak move karne ke liye zaroori hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Street sweeping ke liye modern equipment kya hai?",
+      "options": {
+        "A": "Hand broom",
+        "B": "Mechanical street sweeper",
+        "C": "Vacuum cleaner for home",
+        "D": "Feather duster"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mechanical street sweeper bade areas ko efficiently aur jaldi saaf karne ke liye use hota hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Gutter cleaning ke liye kaun sa tool helpful hai?",
+      "options": {
+        "A": "Screwdriver set",
+        "B": "Gutter scoop",
+        "C": "Hammer drill",
+        "D": "Wire stripper"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gutter scoop specifically gutters se leaves aur debris nikalne ke liye designed hota hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Drain rods ka primary use kya hai?",
+      "options": {
+        "A": "Kapde sukhane ke liye",
+        "B": "Chhote aur medium blockages ko manual tarike se clear karne ke liye",
+        "C": "Khelne ke liye",
+        "D": "Pani rokne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drain rods flexible rods hote hain jinhe pipes mein push karke blockages ko todne ya move karne ke liye use kiya jata hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Kya safety harnesses confined space entry ke liye zaroori hain?",
+      "options": {
+        "A": "Nahi, unki zaroorat nahi hai",
+        "B": "Haan, worker ko rescue karne ke liye",
+        "C": "Sirf decoration ke liye",
+        "D": "Sirf jab light ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Safety harnesses worker ko confined space se safely nikalne mein help karte hain agar koi emergency ho."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Biohazard bags ka kya use hai?",
+      "options": {
+        "A": "General household waste rakhne ke liye",
+        "B": "Infectious ya medical waste ko safely dispose karne ke liye",
+        "C": "Recyclable items rakhne ke liye",
+        "D": "Lunch pack karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Biohazard bags specially designed hote hain infectious ya medical waste ko contain karne ke liye taaki contamination na phaile."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Sewer gas detector kis liye use hota hai?",
+      "options": {
+        "A": "Sewer mein paani ka level check karne ke liye",
+        "B": "Toxic aur flammable gases ko detect karne ke liye",
+        "C": "Sewer ki gehrai naapne ke liye",
+        "D": "Sewer ka temperature check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sewer gas detector workers ko potentially dangerous gases, jaise hydrogen sulfide ya methane, ki presence ke baare mein alert karta hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Waste segregation ka kya matlab hai?",
+      "options": {
+        "A": "Sab tarah ke kachre ko ek saath milana",
+        "B": "Kachre ko alag-alag categories mein baantna",
+        "C": "Kachre ko jala dena",
+        "D": "Kachre ko zameen mein gaad dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Waste segregation mein kachre ko uske type (jaise wet, dry, recyclable, hazardous) ke hisaab se alag karna shamil hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Wet waste mein kya shamil hota hai?",
+      "options": {
+        "A": "Plastic bottles",
+        "B": "Khana bachaa hua, sabzi ke chhilke",
+        "C": "Glass bottles",
+        "D": "Newspapers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wet waste mein organic matter hota hai jo decompose ho sakta hai, jaise food scraps aur garden waste."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Dry waste mein kya shamil hota hai?",
+      "options": {
+        "A": "Rotten fruits",
+        "B": "Used tea leaves",
+        "C": "Plastic, paper, metal, glass",
+        "D": "Animal waste"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Dry waste non-biodegradable hota hai aur isme recyclables shamil hote hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Recyclable waste ko alag karna kyun zaroori hai?",
+      "options": {
+        "A": "Isse landfills mein jagah kam ho jaati hai aur naye products banaye ja sakte hain",
+        "B": "Isse kachra zyada badhta hai",
+        "C": "Isse koi fayda nahi hota",
+        "D": "Sirf time pass ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Recycling se natural resources bachate hain, energy save hoti hai, aur pollution kam hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Hazardous waste ke examples kya hain?",
+      "options": {
+        "A": "Vegetable peels",
+        "B": "Newspapers",
+        "C": "Batteries, medical waste, chemicals",
+        "D": "Plastic bottles"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Hazardous waste mein aise substances hote hain jo environment ya human health ke liye harmful ho sakte hain."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Composting ke liye kaun sa waste best hai?",
+      "options": {
+        "A": "Plastic",
+        "B": "Electronic waste",
+        "C": "Organic waste (food scraps, garden waste)",
+        "D": "Glass"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Composting ek natural process hai jisme organic waste ko nutrient-rich soil mein convert kiya jata hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Door-to-door waste collection ka kya fayda hai?",
+      "options": {
+        "A": "Isse log kachra road par phenkte hain",
+        "B": "Isse public spaces saaf rehte hain aur illegal dumping kam hota hai",
+        "C": "Isse kachra collect nahi hota",
+        "D": "Isse gaadiyaan kharab hoti hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Door-to-door collection convenient hota hai aur cities ko cleaner rakhne mein help karta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Landfill kya hai?",
+      "options": {
+        "A": "Khelne ki jagah",
+        "B": "Kachre ko scientific tareeke se dispose karne ki jagah",
+        "C": "Pani ka talaab",
+        "D": "Jungle"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Landfill ek engineered site hai jahan waste ko zameen mein dafnaaya jata hai, jisme environmental impact ko kam karne ke liye liners aur monitoring systems hote hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Incineration kya hai?",
+      "options": {
+        "A": "Kachre ko recycle karna",
+        "B": "Kachre ko high temperature par jalana",
+        "C": "Kachre ko compost karna",
+        "D": "Kachre ko samundar mein fenkna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Incineration waste ko high temperatures par jalakar uski volume kam karta hai aur energy generate kar sakta hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "E-waste (electronic waste) ko kaise dispose karna chahiye?",
+      "options": {
+        "A": "Regular dustbin mein",
+        "B": "Special e-waste collection centers par",
+        "C": "Jala dena chahiye",
+        "D": "Nadi mein fenk dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "E-waste mein harmful chemicals hote hain, isliye use special collection centers par dispose karna chahiye jahan use properly recycle ya process kiya ja sake."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Waste management hierarchy mein sabse pehla step kya hai?",
+      "options": {
+        "A": "Disposal (landfill)",
+        "B": "Reduce (kam karna)",
+        "C": "Recycle (punarchakran)",
+        "D": "Recover (punar prapt karna)"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Waste management hierarchy 'Reduce, Reuse, Recycle' par based hai, jisme 'Reduce' sabse pehla aur sabse effective step hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Public dustbins ko regularly empty karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf jagah khali karne ke liye",
+        "B": "Badboo aur bimariyon ko phailne se rokne ke liye",
+        "C": "Isse kuch nahi hota",
+        "D": "Taki log zyada kachra phenke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overfilled dustbins se badboo, pests aur bimariyan phail sakti hain, isliye timely emptying zaroori hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Bio-medical waste ko handle karne ke liye kya precautions leni chahiye?",
+      "options": {
+        "A": "Bina gloves ke haath se uthana",
+        "B": "Proper PPE, biohazard bags aur special disposal methods use karna",
+        "C": "Normal dustbin mein fenk dena",
+        "D": "Use re-use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bio-medical waste mein infectious material ho sakta hai, isliye ise handle karte samay extreme care aur specific protocols follow karne chahiye."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Construction and Demolition (C&D) waste ke examples kya hain?",
+      "options": {
+        "A": "Food scraps",
+        "B": "Plastic bottles",
+        "C": "Concrete, bricks, wood, metal",
+        "D": "Newspapers"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "C&D waste building construction, renovation aur demolition activities se generate hota hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Kachre ke improper disposal se kya environmental problem ho sakti hai?",
+      "options": {
+        "A": "Ped zyada ugte hain",
+        "B": "Zameen, paani aur hawa ka pradushan (pollution)",
+        "C": "Barish zyada hoti hai",
+        "D": "Dhoop zyada nikalti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Improper waste disposal se zameen, paani aur hawa mein harmful substances release hote hain jo environment ko nuksan pahunchate hain."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Waste collection routes ko optimize karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf time pass ke liye",
+        "B": "Fuel save karne, efficiency badhane aur collection cost kam karne ke liye",
+        "C": "Zyada kachra collect karne ke liye",
+        "D": "Workers ko thakana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Efficient routes se collection time, fuel consumption aur operational costs kam hote hain, aur services better hoti hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Source segregation ka kya matlab hai?",
+      "options": {
+        "A": "Kachre ko collection point par alag karna",
+        "B": "Kachre ko uske paida hone ki jagah par hi alag karna",
+        "C": "Kachre ko landfill mein alag karna",
+        "D": "Kachre ko jalane se pehle alag karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Source segregation ka matlab hai kachre ko gharon ya businesses mein hi alag-alag bins mein dalna, jisse recycling aur disposal easy ho jata hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Choked drain ko clear karne ka pehla step kya hona chahiye?",
+      "options": {
+        "A": "Turant chemicals daal dena",
+        "B": "Blockage ka cause aur location pata karna",
+        "C": "Use ignore kar dena",
+        "D": "Drain ko tod dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blockage ka cause aur location janne se sahi method aur tools choose karne mein help milti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Drain cleaning mein plunger ka kya use hai?",
+      "options": {
+        "A": "Paani peene ke liye",
+        "B": "Suction create karke chhote blockages ko dislodge karna",
+        "C": "Drain ko measure karna",
+        "D": "Drain ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plunger ek simple mechanical tool hai jo suction aur pressure se blockages ko move karta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Drain rods (saaf karne wali rod) kis tarah ke blockages ke liye effective hain?",
+      "options": {
+        "A": "Liquid blockages",
+        "B": "Soft blockages jaise hair, grease, leaves",
+        "C": "Solid concrete blockages",
+        "D": "Gas blockages"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drain rods flexible hote hain aur soft blockages ko physically push ya break karne ke liye use hote hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "High-pressure water jetting machine ka main fayda kya hai?",
+      "options": {
+        "A": "Kam paani use karti hai",
+        "B": "Bade aur tough blockages ko efficiently clear karti hai",
+        "C": "Bahut sasti hoti hai",
+        "D": "Manual labor ki zaroorat hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High-pressure jetting machine tezi se aur poori tarah se pipes ko saaf karti hai, jisme roots aur grease buildup bhi shamil hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Sewer lines mein gas detection kyun zaroori hai?",
+      "options": {
+        "A": "Sirf time waste karne ke liye",
+        "B": "Toxic aur flammable gases ke presence ko check karne ke liye",
+        "C": "Paani ka flow check karne ke liye",
+        "D": "Sewer ki gehrai naapne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sewer lines mein hydrogen sulfide, methane jaise dangerous gases ho sakti hain jo workers ke liye jaanleva ho sakti hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Agar drain cleaning chemicals use kar rahe hain, toh kya precaution lenge?",
+      "options": {
+        "A": "Bina gloves ke haath se use karenge",
+        "B": "Proper ventilation aur PPE ka use karenge",
+        "C": "Use khaane ke paas rakhenge",
+        "D": "Zyada quantity mein use karenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drain cleaning chemicals corrosive ho sakte hain aur fumes chhod sakte hain, isliye proper safety measures zaroori hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Fat, Oil, and Grease (FOG) blockages ko kaise prevent kar sakte hain?",
+      "options": {
+        "A": "FOG ko sink mein daalte rahenge",
+        "B": "FOG ko drain mein na daal kar alag se dispose karenge",
+        "C": "Hot water se drain flush karenge",
+        "D": "Zyada chemicals use karenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FOG pipes mein jam kar blockages create karta hai, isliye ise separate containers mein collect karke dispose karna chahiye."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "CCTV drain inspection camera ka kya fayda hai?",
+      "options": {
+        "A": "Drain mein chhipi hui cheezein dekhne ke liye",
+        "B": "Blockages, cracks aur damage ko accurately locate karne ke liye",
+        "C": "Drain ka temperature naapne ke liye",
+        "D": "Drain ke andar ki awaaz sunne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CCTV camera bina khode pipes ke andar ki detailed visual inspection provide karta hai, jisse repair work precise ho jata hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Sewerage system mein maintenance holes (manholes) ka kya purpose hai?",
+      "options": {
+        "A": "Kachra fenkne ke liye",
+        "B": "Sewer lines ki inspection, cleaning aur maintenance ke liye access provide karna",
+        "C": "Paani collect karne ke liye",
+        "D": "Road par light lagane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Manholes workers ko underground sewer lines tak pahunchne mein help karte hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Hydro-jetting ke baad pipes ko flush karna kyun zaroori hai?",
+      "options": {
+        "A": "Paani waste karne ke liye",
+        "B": "Bache hue debris ko bahar nikalne aur pipes ko poori tarah saaf karne ke liye",
+        "C": "Sirf time pass ke liye",
+        "D": "Pipes ko chamkane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flushing se ensure hota hai ki pipe mein koi remaining debris na ho aur flow smooth ho."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Root intrusion ko sewer lines se kaise remove karte hain?",
+      "options": {
+        "A": "Roots ko paani pilate hain",
+        "B": "Mechanical root cutters ya high-pressure jetting se remove karte hain",
+        "C": "Roots ko khaad dete hain",
+        "D": "Roots ko aise hi chhod dete hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tree roots pipes mein ghus kar blockages create karte hain, jinhe special cutting tools ya powerful water jets se hi remove kiya ja sakta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Gutter cleaning ka kya mahatva hai?",
+      "options": {
+        "A": "Sirf aesthetics ke liye",
+        "B": "Pani ke proper flow ko maintain rakhne aur water logging se bachane ke liye",
+        "C": "Birds ko aakarshit karne ke liye",
+        "D": "Gutter mein kachra jama karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clogged gutters se water logging, building damage aur hygiene issues ho sakte hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Sewerage system mein foul smell (badboo) ka kya karan ho sakta hai?",
+      "options": {
+        "A": "Phoolon ki khushboo",
+        "B": "Decomposing organic matter aur sewer gases",
+        "C": "Fresh air",
+        "D": "Perfume"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sewerage mein maujood organic waste ke decomposition se hydrogen sulfide jaise gases bante hain jo badboo ka karan hote hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Agar kisi drain mein baar-baar blockage ho, toh kya action lena chahiye?",
+      "options": {
+        "A": "Har baar plunger use karna",
+        "B": "Root cause ka pata lagana (jaise structural damage ya improper usage) aur use theek karna",
+        "C": "Us drain ko use karna chhod dena",
+        "D": "Zyada paani bahana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Recurring blockages aksar ek underlying problem ka sign hote hain, jaise pipe damage ya improper disposal habits, jinhe identify aur rectify karna zaroori hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Stormwater drains aur sewage drains mein kya antar hai?",
+      "options": {
+        "A": "Dono ek hi hain",
+        "B": "Stormwater drains barish ka paani handle karte hain, jabki sewage drains gharon se nikalne wala waste water handle karte hain",
+        "C": "Stormwater drains sirf garmiyon mein kaam karte hain",
+        "D": "Sewage drains saaf paani handle karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dono systems alag-alag tarah ke paani ko manage karte hain aur unka treatment bhi alag hota hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Catch basins ka kya role hai stormwater drainage system mein?",
+      "options": {
+        "A": "Logo ko baithne ke liye",
+        "B": "Rainwater ko collect karna aur debris ko sewer system mein jaane se rokna",
+        "C": "Kachra jama karne ke liye",
+        "D": "Fish breeding ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Catch basins filtration ka kaam karte hain, jisse bade solids storm sewers mein nahi ghuste aur blockages prevent hote hain."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Drainage system mein 'grease trap' ka kya function hai?",
+      "options": {
+        "A": "Paani ko garam karna",
+        "B": "Kitchen waste water se grease aur solids ko separate karna",
+        "C": "Paani ko thanda karna",
+        "D": "Paani ko filter karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Grease traps commercial kitchens mein use hote hain taaki grease aur oil drainage pipes mein jam kar blockages na karein."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Personal hygiene maintain karna sanitation worker ke liye kyun important hai?",
+      "options": {
+        "A": "Sirf achha dikhne ke liye",
+        "B": "Bimariyon aur infections se bachne ke liye",
+        "C": "Zyada mehnat karne ke liye",
+        "D": "Apne dosto ko impress karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sanitation workers hazardous materials ke contact mein aate hain, isliye personal hygiene unhe infections se bachati hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Haath dhone ka sahi tarika kya hai?",
+      "options": {
+        "A": "Sirf paani se dho lena",
+        "B": "Sabun aur paani se kam se kam 20 seconds tak ragad kar dhona",
+        "C": "Sirf haath ko jhatak dena",
+        "D": "Kapde se poonch lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper handwashing germs ko effectively remove karta hai aur infections phailne se rokta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Diseases kaise phailti hain sanitation work environment mein?",
+      "options": {
+        "A": "Achhe khane se",
+        "B": "Bacteria, viruses aur parasites ke contact se",
+        "C": "Hawa mein udne wale patton se",
+        "D": "Music sunne se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Waste aur sewage mein kai pathogens hote hain jo infections ka karan ban sakte hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Vaccination sanitation workers ke liye kyun important hai?",
+      "options": {
+        "A": "Sirf compulsory hai",
+        "B": "Certain infectious diseases se suraksha provide karne ke liye",
+        "C": "Zyada energy milne ke liye",
+        "D": "Garmi se bachne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vaccinations jaise Tetanus, Hepatitis A aur B, sanitation workers ko work-related infections se bachate hain."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Contaminated surfaces ko saaf karne ke liye kya use karna chahiye?",
+      "options": {
+        "A": "Dry cloth",
+        "B": "Paani aur sabun ya disinfectant",
+        "C": "Sirf haath",
+        "D": "Old newspaper"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Disinfectants germs ko marte hain aur surfaces ko safe banate hain."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Food and waterborne diseases kaise phailti hain?",
+      "options": {
+        "A": "Saaf khana khane se",
+        "B": "Contaminated food aur water consume karne se",
+        "C": "Exercise karne se",
+        "D": "So jaane se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Food and waterborne diseases tab hoti hain jab hum contaminated food ya paani ka sevan karte hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Mosquito-borne diseases (jaise Dengue, Malaria) ko kaise control kar sakte hain?",
+      "options": {
+        "A": "Mosquitoes ko paani pilakar",
+        "B": "Stagnant water (ruka hua paani) ko eliminate karke",
+        "C": "Mosquitoes ko khana khilakar",
+        "D": "Mosquitoes ke saath khelkar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mosquitoes rukey hue paani mein breed karte hain, isliye unke breeding grounds ko hatana zaroori hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Sanitation ka public health par kya impact hai?",
+      "options": {
+        "A": "Koi impact nahi",
+        "B": "Achha sanitation bimariyon ko kam karta hai aur public health ko improve karta hai",
+        "C": "Bimariyan badhata hai",
+        "D": "Sirf environmental impact hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper sanitation bimariyon ke phailne ko rokta hai aur community ke overall well-being ko badhata hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Rodent control sanitation work mein kyun zaroori hai?",
+      "options": {
+        "A": "Rodents ko ghar mein rakhne ke liye",
+        "B": "Rodents bimariyan phailate hain aur infrastructure ko damage karte hain",
+        "C": "Rodents ko khana dene ke liye",
+        "D": "Rodents ko dekhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rats aur mice leptospirosis jaise bimariyan phailate hain aur wires aur pipes ko damage kar sakte hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Community engagement sanitation initiatives mein kyun important hai?",
+      "options": {
+        "A": "Sirf publicity ke liye",
+        "B": "Community members ko sanitation practices mein involve karne aur ownership develop karne ke liye",
+        "C": "Community ko ignore karne ke liye",
+        "D": "Community ko paise dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jab log sanitation efforts mein participate karte hain, toh programs zyada successful aur sustainable hote hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Leptospirosis kis se phailti hai?",
+      "options": {
+        "A": "Saaf paani se",
+        "B": "Contaminated paani ya mitti ke contact se jo infected animal urine se contaminated ho",
+        "C": "Hawa se",
+        "D": "Dhoop se"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Leptospirosis ek bacterial infection hai jo aksar rodents ke urine se contaminated paani ya mitti ke contact se phailta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Diarrheal diseases ko rokne mein sanitation ka kya role hai?",
+      "options": {
+        "A": "Koi role nahi",
+        "B": "Proper sanitation aur hygiene practices se water aur food contamination kam hota hai, jisse diarrheal diseases rukti hain",
+        "C": "Diarrheal diseases badhata hai",
+        "D": "Sirf antibiotics se rukti hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Achha sanitation open defecation ko rokta hai aur safe disposal of human waste ensure karta hai, jisse diarrheal diseases ka spread kam hota hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Kya sanitation workers ko apni wounds ko turant saaf aur cover karna chahiye?",
+      "options": {
+        "A": "Nahi, aise hi chhod dena chahiye",
+        "B": "Haan, infection se bachne ke liye",
+        "C": "Sirf bade wounds ko",
+        "D": "Sirf jab time mile"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Open wounds infections ke liye entry point hote hain, isliye unhe turant saaf aur cover karna zaroori hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Vector-borne diseases kya hoti hain?",
+      "options": {
+        "A": "Sirf genetic diseases",
+        "B": "Bimariyan jo insects ya animals (vectors) dwara phailai jaati hain",
+        "C": "Bimariyan jo sirf plants mein hoti hain",
+        "D": "Bimariyan jo direct contact se phailti hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mosquitoes, ticks, aur fleas jaise vectors bimariyan phaila sakte hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Wastewater treatment ka primary goal kya hai?",
+      "options": {
+        "A": "Wastewater ko recycle karna",
+        "B": "Wastewater se harmful contaminants remove karna taaki use safely environment mein release kiya ja sake",
+        "C": "Wastewater ko store karna",
+        "D": "Wastewater ko peene layak banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wastewater treatment se water bodies ka pollution kam hota hai aur public health protect hoti hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Hygiene ke context mein 'F-Diagram' kya represent karta hai?",
+      "options": {
+        "A": "Fishes ka cycle",
+        "B": "Faeces se phailne wali bimariyon ka transmission route",
+        "C": "Food chain",
+        "D": "Family tree"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "F-Diagram (F for Faeces) batata hai ki kaise faecal-oral route se diseases phailti hain, aur sanitation barriers ki importance ko highlight karta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Swachh Bharat Abhiyan ka main objective kya hai?",
+      "options": {
+        "A": "India ko ganda banana",
+        "B": "India ko open defecation-free (ODF) banana aur solid waste management improve karna",
+        "C": "Sirf cities ko saaf karna",
+        "D": "Sirf villages ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Swachh Bharat Abhiyan ka lakshya nationwide cleanliness aur sanitation ko improve karna hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Waste Management Rules 2016 ka kya mahatva hai?",
+      "options": {
+        "A": "Yeh kachra badhate hain",
+        "B": "Yeh solid waste ke scientific management aur disposal ke liye guidelines provide karte hain",
+        "C": "Yeh sirf paper waste ke liye hain",
+        "D": "Yeh sirf industrial waste ke liye hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh rules waste generation, segregation, collection, storage, transport, processing aur disposal ko regulate karte hain."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Environmental pollution mein sanitation ka kya role hai?",
+      "options": {
+        "A": "Sanitation pollution badhata hai",
+        "B": "Proper sanitation pollution ko kam karta hai",
+        "C": "Sanitation ka pollution se koi lena dena nahi",
+        "D": "Sanitation sirf air pollution karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Achha sanitation waste ke proper disposal aur treatment se zameen, paani aur hawa ke pollution ko rokta hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "National Green Tribunal (NGT) ka kya role hai sanitation se related issues mein?",
+      "options": {
+        "A": "Sirf ped lagana",
+        "B": "Environmental protection aur conservation se related cases ko decide karna",
+        "C": "Traffic control karna",
+        "D": "Naye building banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "NGT environmental laws ko enforce karta hai aur pollution, waste management jaise issues par rulings deta hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Kya sanitation workers ko environmental regulations ki jaankari honi chahiye?",
+      "options": {
+        "A": "Nahi, yeh unka kaam nahi hai",
+        "B": "Haan, taaki woh apne kaam ko legal aur eco-friendly tareeke se kar sakein",
+        "C": "Sirf jab unhe pucha jaye",
+        "D": "Sirf bade officers ko"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Environmental regulations ki knowledge workers ko safe aur compliant operations ensure karne mein help karti hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Biodegradable waste ka environmental impact kya hai?",
+      "options": {
+        "A": "Yeh kabhi decompose nahi hota",
+        "B": "Yeh naturally decompose ho kar soil ko enrich karta hai, agar sahi tareeke se manage kiya jaye",
+        "C": "Yeh sirf air pollution karta hai",
+        "D": "Yeh paani ko zaharila banata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Biodegradable waste composting ke through soil fertility badha sakta hai, agar use landfills mein na fenka jaye jahan anaerobic decomposition se methane gas banti hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Non-biodegradable waste (jaise plastic) ka environmental impact kya hai?",
+      "options": {
+        "A": "Yeh jaldi decompose ho jata hai",
+        "B": "Yeh hazaron saalon tak environment mein rehta hai, soil aur water pollution karta hai",
+        "C": "Yeh environment ke liye achha hai",
+        "D": "Yeh pedon ko badhata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Non-biodegradable waste environment mein jama hota rehta hai, wildlife ko nuksan pahunchata hai aur ecosystems ko disturb karta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "India mein manual scavenging ko rokne ke liye kaun sa Act hai?",
+      "options": {
+        "A": "The Water Act",
+        "B": "The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013",
+        "C": "The Air Act",
+        "D": "The Forest Act"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yeh Act manual scavenging ko ban karta hai aur manual scavengers ke rehabilitation ka provision deta hai, unki dignity aur safety ensure karta hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Zero Waste concept ka kya matlab hai?",
+      "options": {
+        "A": "Bilkul kachra paida na karna",
+        "B": "Kachre ko kam karna, reuse karna aur recycle karna taaki landfills mein kuch bhi na jaye",
+        "C": "Sab kachra jala dena",
+        "D": "Sirf liquid waste handle karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Zero Waste ek philosophy hai jiska aim hai waste ko minimize karna, resources ko conserve karna aur environmental impact ko kam karna."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Sanitation work mein noise pollution ko kaise control kar sakte hain?",
+      "options": {
+        "A": "High-noise machines ko zyada use karna",
+        "B": "Ear protection use karna, equipment maintenance aur noise barriers ka use karna",
+        "C": "Raat mein zyada kaam karna",
+        "D": "Speaker lagana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Noise pollution workers aur nearby communities ke liye harmful ho sakta hai, isliye control measures zaroori hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Corporate Social Responsibility (CSR) ka sanitation projects mein kya role hai?",
+      "options": {
+        "A": "Sirf profit kamana",
+        "B": "Companies ka social aur environmental well-being mein contribute karna",
+        "C": "Sirf marketing karna",
+        "D": "Government ka kaam karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CSR ke तहत companies sanitation projects, infrastructure aur awareness programs mein invest karti hain."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Plastic Waste Management Rules 2016 ka kya aim hai?",
+      "options": {
+        "A": "Plastic use ko badhana",
+        "B": "Plastic waste generation ko control karna aur uske proper collection, segregation aur processing ko ensure karna",
+        "C": "Sirf plastic ko recycle karna",
+        "D": "Plastic ko roads par fenkna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh rules plastic pollution ko tackle karne aur sustainable plastic management practices ko promote karne ke liye banaye gaye hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Wetland ecosystems ki suraksha sanitation se kaise related hai?",
+      "options": {
+        "A": "Wetlands ka sanitation se koi connection nahi",
+        "B": "Proper wastewater treatment aur disposal wetlands ko sewage pollution se bachata hai",
+        "C": "Wetlands sirf kachra jama karte hain",
+        "D": "Wetlands ko saaf rakhne ki zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wetlands biodiversity ke liye important hain aur natural water filtration mein help karte hain, isliye unhe pollution se bachana zaroori hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Sanitation workers ke liye grievance redressal mechanism (shikayat nivaran pranali) kyun zaroori hai?",
+      "options": {
+        "A": "Sirf shikayat karne ke liye",
+        "B": "Unki working conditions, safety aur rights se related issues ko address karne ke liye",
+        "C": "Unhe kaam se hatane ke liye",
+        "D": "Unhe chup karane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek effective grievance mechanism workers ko apni problems ko raise karne aur unka solution paane ka mauka deta hai, jisse workplace environment behtar hota hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Solid Waste Management (SWM) mein '3R' principle ka kya matlab hai?",
+      "options": {
+        "A": "Rethink, React, Resolve",
+        "B": "Reduce, Reuse, Recycle",
+        "C": "Remove, Recreate, Rebuild",
+        "D": "Read, Write, Rithmetic"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "3R principle waste generation ko kam karne aur resource efficiency badhane ka ek fundamental approach hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Sustainable Sanitation ka kya matlab hai?",
+      "options": {
+        "A": "Sirf aaj ke liye sanitation",
+        "B": "Aise sanitation systems jo environmental, social aur economic roop se long-term tak viable hon",
+        "C": "Sirf expensive sanitation systems",
+        "D": "Sirf temporary sanitation solutions"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sustainable sanitation ka matlab hai aise systems jo na sirf present needs ko poora karein, balki future generations ke liye bhi environment ko protect karein aur resources ko conserve karein."
+    }
+  ]
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "Microdermabrasion & Skin Polishing",
+  "sector": "Advanced Beauty, Cosmetology & Aesthetics",
+  "level": "Intermediate",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Skin Anatomy & Physiology, Skin Types & Conditions",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Basics of Microdermabrasion (MD) - Principles, Benefits, Types of MD",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Client Consultation, Contraindications & Pre-treatment Protocols",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Microdermabrasion Procedures - Techniques, Equipment Handling, Safety",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Skin Polishing Techniques & Post-treatment Care",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Advanced Applications, Troubleshooting & Professional Ethics",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Skin ki sabse upari layer ko kya kehte hain?",
+      "options": {
+        "A": "Dermis",
+        "B": "Epidermis",
+        "C": "Hypodermis",
+        "D": "Subcutis"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Epidermis skin ki sabse upari layer hai jo hamari body ko protect karti hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Collagen aur elastin fibres skin ki kis layer mein paaye jaate hain?",
+      "options": {
+        "A": "Epidermis",
+        "B": "Dermis",
+        "C": "Hypodermis",
+        "D": "Stratum Corneum"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dermis skin ki woh layer hai jahan collagen aur elastin fibres hote hain, jo skin ko elasticity aur firmness dete hain."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Microdermabrasion kis skin layer ko target karta hai primarily?",
+      "options": {
+        "A": "Dermis",
+        "B": "Subcutis",
+        "C": "Stratum Corneum",
+        "D": "Hypodermis"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Microdermabrasion primarily skin ki sabse upari dead skin cell layer, Stratum Corneum, ko exfoliate karta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Oily skin type ki pehchan kya hai?",
+      "options": {
+        "A": "Tight aur flaky feel",
+        "B": "Large pores aur shiny appearance",
+        "C": "Redness aur irritation",
+        "D": "Balanced oil production"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oily skin mein sebaceous glands overactive hote hain, jisse large pores aur shiny appearance hota hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Hyperpigmentation ka matlab kya hai?",
+      "options": {
+        "A": "Skin ka excessive dryness",
+        "B": "Skin par dark patches ya spots ka banna",
+        "C": "Skin ka excessive oiliness",
+        "D": "Skin par redness aur inflammation"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hyperpigmentation mein skin par melanin production badh jaati hai, jisse dark spots ya patches bante hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Sensitive skin wale clients ke liye MD karte waqt kis baat ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "High suction level use karna",
+        "B": "Aggressive passes karna",
+        "C": "Gentle approach aur lower settings use karna",
+        "D": "Treatment time badha dena"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sensitive skin par irritation se bachne ke liye gentle approach aur lower settings use karna important hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Sun-damaged skin ke common signs kya hain?",
+      "options": {
+        "A": "Excessive hydration",
+        "B": "Fine lines, wrinkles, uneven skin tone, sunspots",
+        "C": "Increased elasticity",
+        "D": "Reduced pore size"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sun exposure se skin mein premature aging signs jaise fine lines, wrinkles, uneven tone aur sunspots dikhte hain."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Keratinocytes skin ki kis layer mein paye jaate hain?",
+      "options": {
+        "A": "Dermis",
+        "B": "Hypodermis",
+        "C": "Epidermis",
+        "D": "Subcutis"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Keratinocytes epidermis ke main cells hain jo skin ko structure aur protection provide karte hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Skin ka pH level generally kitna hota hai?",
+      "options": {
+        "A": "Alkaline (8-9)",
+        "B": "Neutral (7)",
+        "C": "Acidic (4.5-5.5)",
+        "D": "Highly acidic (2-3)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Healthy skin ka natural pH slightly acidic hota hai (approx 4.5-5.5) jo 'acid mantle' banata hai aur skin ko bacteria se protect karta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Melanin ka main function kya hai?",
+      "options": {
+        "A": "Skin ko hydrate karna",
+        "B": "Skin ko UV radiation se protect karna",
+        "C": "Skin ko oil provide karna",
+        "D": "Skin ko elasticity dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Melanin ek pigment hai jo skin, hair aur eyes ko color deta hai aur UV radiation se protection provide karta hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Dry skin type ke liye kaun sa ingredient beneficial hoga?",
+      "options": {
+        "A": "Salicylic Acid",
+        "B": "Hyaluronic Acid",
+        "C": "Benzoyl Peroxide",
+        "D": "Alcohol-based toners"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hyaluronic Acid ek powerful humectant hai jo skin mein moisture retain karne mein help karta hai, dry skin ke liye bahut beneficial hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Acne-prone skin mein kis type ke pores common hote hain?",
+      "options": {
+        "A": "Very small, almost invisible pores",
+        "B": "Enlarged aur clogged pores",
+        "C": "Evenly distributed, balanced pores",
+        "D": "Flaky pores"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Acne-prone skin mein sebaceous glands overactive hote hain, jisse pores enlarge aur clog ho jaate hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Skin ki healing process mein kaun sa vitamin important role play karta hai?",
+      "options": {
+        "A": "Vitamin B",
+        "B": "Vitamin C",
+        "C": "Vitamin D",
+        "D": "Vitamin K"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Vitamin C collagen synthesis aur wound healing ke liye essential hai, aur ek powerful antioxidant bhi hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Rosacea se affected skin ki pehchan kya hai?",
+      "options": {
+        "A": "Excessive dryness aur flakiness",
+        "B": "Persistent redness, visible blood vessels, bumps",
+        "C": "Dark spots aur uneven tone",
+        "D": "Large, oily pores"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rosacea ek chronic inflammatory skin condition hai jismein chehre par redness, visible blood vessels aur bumps dikhte hain."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Mature skin mein commonly kya changes dikhai dete hain?",
+      "options": {
+        "A": "Increased collagen production",
+        "B": "Reduced elasticity, fine lines, wrinkles, dryness",
+        "C": "Excessive oiliness",
+        "D": "Smaller pore size"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aging ke saath skin mein collagen aur elastin production kam hoti hai, jisse elasticity kam hoti hai aur fine lines, wrinkles, dryness badhte hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Sebum ka function kya hai?",
+      "options": {
+        "A": "Skin ko UV rays se bachana",
+        "B": "Skin ko hydrate aur protect karna",
+        "C": "Skin cells ko regenerate karna",
+        "D": "Skin ko cooling effect dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sebum ek oily substance hai jo sebaceous glands produce karte hain, yeh skin aur hair ko lubricate aur waterproof karta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Which of these is NOT a primary function of the skin?",
+      "options": {
+        "A": "Protection",
+        "B": "Sensation",
+        "C": "Vitamin D synthesis",
+        "D": "Blood purification"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Skin ke primary functions mein protection, sensation, temperature regulation, aur Vitamin D synthesis shamil hain. Blood purification kidneys aur liver ka kaam hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Microdermabrasion kya hai?",
+      "options": {
+        "A": "A chemical peel treatment",
+        "B": "A surgical procedure",
+        "C": "A non-invasive mechanical exfoliation technique",
+        "D": "A laser treatment"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Microdermabrasion ek non-invasive procedure hai jo skin ki upari layer ko gently exfoliate karta hai mechanical means se."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Microdermabrasion ka main benefit kya hai?",
+      "options": {
+        "A": "Deep muscle relaxation",
+        "B": "Improved skin texture aur tone",
+        "C": "Permanent hair removal",
+        "D": "Weight loss"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MD dead skin cells ko remove karke skin texture, tone aur overall appearance ko improve karta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Microdermabrasion ke through kaun si skin condition treat ki ja sakti hai?",
+      "options": {
+        "A": "Active cystic acne",
+        "B": "Deep surgical scars",
+        "C": "Fine lines, mild sun damage, superficial acne scars",
+        "D": "Severe eczema"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "MD fine lines, mild sun damage, superficial acne scars aur uneven skin tone jaise issues ko improve karne mein effective hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Crystal Microdermabrasion mein kaun se particles use kiye jaate hain?",
+      "options": {
+        "A": "Aluminium Oxide crystals",
+        "B": "Diamond-tipped wands",
+        "C": "Salicylic acid",
+        "D": "Sodium bicarbonate"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Crystal MD mein fine aluminium oxide crystals skin par spray kiye jaate hain aur suction ke through dead skin cells ke saath remove kiye jaate hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Diamond Microdermabrasion mein kya use hota hai?",
+      "options": {
+        "A": "Abrasive crystals",
+        "B": "A diamond-tipped handpiece",
+        "C": "Chemical solutions",
+        "D": "High-frequency currents"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Diamond MD mein ek diamond-tipped wand ka use hota hai jo skin ko gently abrade karta hai aur dead cells ko suction ke through remove karta hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Microdermabrasion treatment kitni der tak chal sakta hai generally?",
+      "options": {
+        "A": "5-10 minutes",
+        "B": "20-30 minutes",
+        "C": "1-2 hours",
+        "D": "3-4 hours"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek typical MD session face ke liye generally 20-30 minutes tak chalta hai, depending on the area being treated."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "MD ke baad skin par kya effect dikhai de sakta hai immediate?",
+      "options": {
+        "A": "Severe swelling",
+        "B": "Mild redness aur sensitivity",
+        "C": "Blue discoloration",
+        "D": "Deep bruising"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MD ke baad skin par mild redness aur sensitivity common hai, jo kuch ghanto mein ya ek din mein subside ho jaati hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "MD treatment ke liye kitne sessions ki zaroorat pad sakti hai for optimal results?",
+      "options": {
+        "A": "Only 1 session",
+        "B": "10-15 sessions",
+        "C": "A series of 5-10 sessions",
+        "D": "20+ sessions"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Optimal results ke liye generally 5-10 sessions ki series recommend ki jaati hai, depending on the client's skin concerns."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "MD treatment ke sessions ke beech kitna gap hona chahiye?",
+      "options": {
+        "A": "Daily",
+        "B": "Every 2-4 weeks",
+        "C": "Once every 6 months",
+        "D": "Once a year"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Skin ko recover hone aur regenerate hone ka time dene ke liye sessions ke beech 2-4 weeks ka gap maintain karna chahiye."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "MD treatment ke baad skin products ka absorption kyun badh jaata hai?",
+      "options": {
+        "A": "Skin pores tight ho jaate hain",
+        "B": "Dead skin cells remove ho jaate hain",
+        "C": "Blood circulation kam ho jaati hai",
+        "D": "Skin thick ho jaati hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dead skin cells remove hone se skin ki upari barrier hat jaati hai, jisse products skin mein deep penetrate kar paate hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Microdermabrasion se kis type ke scars improve ho sakte hain?",
+      "options": {
+        "A": "Deep surgical scars",
+        "B": "Keloid scars",
+        "C": "Superficial acne scars (post-inflammatory hyperpigmentation)",
+        "D": "Burn scars"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "MD superficial acne scars aur post-inflammatory hyperpigmentation ko fade karne mein help karta hai, deep scars ke liye yeh effective nahi hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "MD treatment ke liye kaun sa season best mana jaata hai?",
+      "options": {
+        "A": "Summer",
+        "B": "Winter",
+        "C": "Monsoon",
+        "D": "All seasons are suitable"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Winter season MD ke liye ideal mana jaata hai kyunki ismein sun exposure kam hota hai, jisse post-treatment hyperpigmentation ka risk kam hota hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "MD ke baad skin par sunscreen lagana kyun zaroori hai?",
+      "options": {
+        "A": "Skin ko hydrate rakhne ke liye",
+        "B": "Skin ko UV damage aur hyperpigmentation se bachane ke liye",
+        "C": "Pores ko unclog karne ke liye",
+        "D": "Skin ko tight karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MD ke baad skin sensitive ho jaati hai, isliye UV damage aur hyperpigmentation se bachne ke liye sunscreen application critical hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Microdermabrasion skin mein kis process ko stimulate karta hai?",
+      "options": {
+        "A": "Melanin production",
+        "B": "Oil production",
+        "C": "Cell turnover aur collagen production",
+        "D": "Hair growth"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "MD dead cells ko remove karke skin ko naye cells produce karne ke liye stimulate karta hai, jisse cell turnover aur collagen production badhta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "What is a common misconception about Microdermabrasion?",
+      "options": {
+        "A": "It's a painful procedure.",
+        "B": "It helps in improving skin texture.",
+        "C": "It requires multiple sessions.",
+        "D": "It's suitable for all skin types."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "MD generally painless hota hai, kuch clients ko mild scratching ya suction feel ho sakti hai. Yeh ek common misconception hai ki yeh painful hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "MD treatment mein suction ka kya role hai?",
+      "options": {
+        "A": "Blood circulation badhana",
+        "B": "Dead skin cells aur debris ko remove karna",
+        "C": "Skin ko tight karna",
+        "D": "Skin ko hydrate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Suction dead skin cells, crystals (agar crystal MD ho toh) aur debris ko skin surface se remove karta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "MD ke through skin tone mein kya improvement expected hai?",
+      "options": {
+        "A": "Permanent whitening",
+        "B": "More even aur radiant skin tone",
+        "C": "Darker skin tone",
+        "D": "No change in skin tone"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MD dead cells aur superficial pigmentation ko remove karke skin tone ko more even aur radiant banata hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Client consultation mein sabse pehla step kya hona chahiye?",
+      "options": {
+        "A": "Directly treatment start karna",
+        "B": "Client ki medical history aur skin concerns discuss karna",
+        "C": "Treatment cost batana",
+        "D": "Client ko products recommend karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ki medical history aur skin concerns samajhna sabse important hai safety aur effective treatment plan ke liye."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Microdermabrasion ke liye kaun si condition ek absolute contraindication hai?",
+      "options": {
+        "A": "Dry skin",
+        "B": "Mild hyperpigmentation",
+        "C": "Active herpes breakout",
+        "D": "Fine lines"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Active infections jaise herpes breakout MD ke liye absolute contraindication hain kyunki yeh infection ko spread kar sakte hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Agar client ne recent past mein accutane use kiya ho, toh MD kitne time tak avoid karna chahiye?",
+      "options": {
+        "A": "1 week",
+        "B": "1 month",
+        "C": "6-12 months",
+        "D": "No need to avoid"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Accutane skin ko extremely sensitive aur thin bana deta hai, isliye MD ko 6-12 months tak avoid karna chahiye severe complications se bachne ke liye."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Client ki skin par patch test karna kyun zaroori hai?",
+      "options": {
+        "A": "Treatment ki effectiveness check karne ke liye",
+        "B": "Product ya treatment se hone wali allergic reaction ya sensitivity check karne ke liye",
+        "C": "Client ko uncomfortable feel karane ke liye",
+        "D": "Treatment time badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Patch test se hum client ki skin ki sensitivity aur possible allergic reactions ko identify kar sakte hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Sunburn wali skin par MD karna chahiye ya nahi?",
+      "options": {
+        "A": "Ha, immediately karna chahiye",
+        "B": "Nahi, jab tak sunburn heal na ho jaaye",
+        "C": "Sirf mild sunburn par kar sakte hain",
+        "D": "Sunburn ko treat karne ke liye MD best hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sunburned skin already damaged aur sensitive hoti hai, us par MD karne se further irritation aur damage ho sakta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Client ko MD se pehle kis type ke products avoid karne ki salah denge?",
+      "options": {
+        "A": "Gentle cleansers",
+        "B": "Heavy moisturizers",
+        "C": "Retinoids, AHAs/BHAs jaise strong exfoliants",
+        "D": "Sunscreen"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Retinoids aur strong exfoliants skin ko sensitive bana dete hain, isliye MD se kuch din pehle unhe avoid karna chahiye."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Pregnant clients ke liye Microdermabrasion safe hai ya nahi?",
+      "options": {
+        "A": "Always safe",
+        "B": "Avoid karna chahiye ya doctor se consult karna chahiye",
+        "C": "Sirf first trimester mein safe hai",
+        "D": "Only if they have oily skin"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pregnancy mein hormonal changes ki wajah se skin sensitive ho sakti hai, aur treatment ke chemicals ya stress ka effect ho sakta hai, isliye doctor consultation zaroori hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Client ko MD treatment ke kya realistic expectations batane chahiye?",
+      "options": {
+        "A": "Single session mein perfect skin",
+        "B": "Dramatic results for deep wrinkles and scars",
+        "C": "Gradual improvement in skin texture, tone, and fine lines over multiple sessions",
+        "D": "Permanent skin lightening"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Clients ko realistic expectations dena zaroori hai, ki results gradual honge aur multiple sessions lagenge."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Agar client ko active acne ho toh MD karna chahiye?",
+      "options": {
+        "A": "Ha, active acne ko cure karta hai",
+        "B": "Nahi, active acne par MD infection spread kar sakta hai",
+        "C": "Sirf mild active acne par kar sakte hain",
+        "D": "Only if the client insists"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Active acne lesions par MD karne se bacteria spread ho sakte hain aur condition bigad sakti hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Client consultation form mein kaun si information collect karna zaroori hai?",
+      "options": {
+        "A": "Client ka favorite color",
+        "B": "Medical conditions, allergies, medications, past skin treatments, current skincare routine",
+        "C": "Client ka horoscope",
+        "D": "Client ke pets ke naam"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Medical history aur skincare routine ki information treatment safety aur effectiveness ke liye essential hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Pre-treatment instruction mein client ko kya advise denge regarding makeup?",
+      "options": {
+        "A": "Heavy makeup laga kar aane ko kahenge",
+        "B": "Makeup laga kar aane ki koi restriction nahi hai",
+        "C": "Treatment se pehle makeup remove karke aane ko kahenge ya clinic mein remove karwayenge",
+        "D": "Sirf eyes par makeup allowed hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Clean skin treatment ke liye essential hai, isliye makeup remove karna zaroori hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Client ko MD se pehle excessive sun exposure avoid karne ki salah kyun deni chahiye?",
+      "options": {
+        "A": "Tanning ko kharab karne ke liye",
+        "B": "Sunburn aur skin sensitivity se bachne ke liye",
+        "C": "Vitamin D deficiency se bachne ke liye",
+        "D": "Skin ko dry rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sun exposure skin ko sensitive bana deta hai aur sunburn ka risk badha deta hai, jo MD ke liye contraindication hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Agar client ko keloid scars ki history ho, toh MD karna chahiye?",
+      "options": {
+        "A": "Ha, keloids MD se theek hote hain",
+        "B": "Nahi, keloid formation ka risk badh sakta hai",
+        "C": "Sirf chote keloids par kar sakte hain",
+        "D": "Consult a dermatologist first, but generally avoid"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Keloid-prone skin par abrasive treatments se naye keloids banne ka risk hota hai, isliye MD avoid karna ya dermatologist se consult karna best hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Client ko MD treatment ke baad kaun se products use karne ki salah denge?",
+      "options": {
+        "A": "Harsh exfoliants aur strong acids",
+        "B": "Gentle cleanser, hydrating moisturizer, aur broad-spectrum sunscreen",
+        "C": "Alcohol-based toners",
+        "D": "Heavy, pore-clogging creams"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MD ke baad skin sensitive hoti hai, isliye gentle, hydrating aur protective products use karna chahiye."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Consent form sign karwana kyun zaroori hai?",
+      "options": {
+        "A": "Client ki personal details collect karne ke liye",
+        "B": "Client ko treatment ke risks, benefits aur alternatives ke baare mein inform karne aur unki agreement lene ke liye",
+        "C": "Treatment ki payment lene ke liye",
+        "D": "Clinic ke marketing ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Consent form legally binding hai aur ensure karta hai ki client ko treatment ke baare mein poori jaankari hai aur woh apni marzi se treatment le rahe hain."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Agar client ko bleeding disorder ho, toh MD karna chahiye?",
+      "options": {
+        "A": "Ha, MD safe hai",
+        "B": "Nahi, bleeding aur bruising ka risk badh jaata hai",
+        "C": "Sirf light settings par kar sakte hain",
+        "D": "Only if a doctor approves"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bleeding disorders wale clients mein MD se excessive bleeding aur bruising ka risk badh jaata hai, isliye avoid karna chahiye."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Pre-treatment skin preparation mein kya shamil hota hai?",
+      "options": {
+        "A": "Deep tissue massage",
+        "B": "Cleansing, toning, aur degreasing the skin",
+        "C": "Hair removal",
+        "D": "Full body scrub"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skin ko MD ke liye prepare karne ke liye cleansing, toning aur degreasing important hai taaki treatment effective ho aur infection ka risk kam ho."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Microdermabrasion machine ko operate karte waqt kaun sa PPE (Personal Protective Equipment) pehenna zaroori hai?",
+      "options": {
+        "A": "Swimsuit",
+        "B": "Gloves aur safety glasses",
+        "C": "Heavy winter jacket",
+        "D": "High heels"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Technician ki safety ke liye gloves aur safety glasses pehenna zaroori hai, taaki crystals ya skin debris se bachav ho."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "MD handpiece ko skin par kis angle par rakhna chahiye?",
+      "options": {
+        "A": "90-degree angle",
+        "B": "45-degree angle",
+        "C": "Flat against the skin",
+        "D": "Any angle is fine"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Handpiece ko skin par flat rakhna chahiye taaki even exfoliation ho aur skin ko damage na ho."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "MD treatment ke dauran skin ko stretch karna kyun zaroori hai?",
+      "options": {
+        "A": "Client ko uncomfortable banane ke liye",
+        "B": "Treatment area ko smooth aur flat banane ke liye, for even exfoliation",
+        "C": "Blood circulation badhane ke liye",
+        "D": "Skin ko tight karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skin ko stretch karne se uneven areas aur wrinkles smooth ho jaate hain, jisse handpiece evenly move karta hai aur better results milte hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Normal skin type ke liye MD machine ki suction setting kya honi chahiye?",
+      "options": {
+        "A": "Very low",
+        "B": "Medium",
+        "C": "Very high",
+        "D": "No suction required"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Normal skin ke liye medium suction setting appropriate hoti hai, jo effective exfoliation provide karti hai without causing excessive irritation."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "MD treatment ke dauran kitne 'passes' kiye jaate hain generally?",
+      "options": {
+        "A": "Only 1 pass",
+        "B": "1-3 passes per area",
+        "C": "5-10 passes per area",
+        "D": "As many as possible"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Generally, 1-3 passes per area kiye jaate hain, depending on client ki skin sensitivity aur desired results."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "MD karte waqt kis area ko avoid karna chahiye?",
+      "options": {
+        "A": "Forehead",
+        "B": "Cheeks",
+        "C": "Eyes ke bohot kareeb aur lips par",
+        "D": "Chin"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Eyes ke bohot kareeb aur lips par skin bahut thin aur sensitive hoti hai, isliye in areas ko avoid karna chahiye."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "MD machine ke filters ko regularly clean karna ya change karna kyun zaroori hai?",
+      "options": {
+        "A": "Machine ko zyada noise karne se bachane ke liye",
+        "B": "Hygiene maintain karne aur machine ki performance ke liye",
+        "C": "Electricity save karne ke liye",
+        "D": "Aesthetic purposes ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Filters clogged hone se machine ki suction power kam ho jaati hai aur cross-contamination ka risk badh jaata hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Diamond-tipped handpiece ko kaise sterilize karna chahiye after each use?",
+      "options": {
+        "A": "Simply wipe with a dry cloth",
+        "B": "Wash with soap and water only",
+        "C": "Clean with a disinfectant solution and then sterilize as per manufacturer guidelines",
+        "D": "Leave it as is"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cross-contamination se bachne ke liye handpiece ko thoroughly clean aur sterilize karna critical hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Agar client ko treatment ke dauran discomfort ya pain feel ho toh kya karna chahiye?",
+      "options": {
+        "A": "Ignore karna aur continue karna",
+        "B": "Treatment rok kar settings adjust karna ya stop karna",
+        "C": "Suction badha dena",
+        "D": "Jaldi se treatment finish karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ki comfort aur safety paramount hai, discomfort hone par settings adjust karna ya treatment stop karna chahiye."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Crystal Microdermabrasion mein crystals ko kaise dispose karna chahiye?",
+      "options": {
+        "A": "Normal dustbin mein",
+        "B": "Sink mein flush kar dena",
+        "C": "Bio-hazardous waste ke roop mein dispose karna",
+        "D": "Reuse karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Used crystals mein dead skin cells aur debris hote hain, isliye unhe bio-hazardous waste ke roop mein dispose karna chahiye to prevent contamination."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "MD treatment ke baad skin ko soothe karne ke liye kya apply karna chahiye?",
+      "options": {
+        "A": "Harsh astringent",
+        "B": "Cool, hydrating mask ya serum",
+        "C": "Heavy oil",
+        "D": "Alcohol-based lotion"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MD ke baad skin sensitive hoti hai, isliye cool aur hydrating products use karne se redness aur irritation kam hoti hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "MD machine ko store karte waqt kin baaton ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Direct sunlight mein rakhna",
+        "B": "Dry aur clean jagah par store karna",
+        "C": "Wet area mein rakhna",
+        "D": "Disassembled karke rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Machine ko dry aur clean jagah par store karne se uski longevity aur hygiene maintain rehti hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "MD ke dauran improper technique se kya ho sakta hai?",
+      "options": {
+        "A": "Better results",
+        "B": "Skin irritation, redness, ya bruising",
+        "C": "Faster healing",
+        "D": "Increased collagen production"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Improper technique jaise excessive pressure ya multiple passes se skin irritation, redness, aur bruising ho sakti hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "MD treatment ke liye client ko kis position mein litana chahiye?",
+      "options": {
+        "A": "Sitting upright",
+        "B": "Lying flat on their back, comfortable",
+        "C": "Lying on their stomach",
+        "D": "Standing"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ko comfortable, supine position mein litana chahiye taaki technician easily access kar sake aur client relax rahe."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "MD treatment ke baad skin ko warm water se wash karna chahiye ya cool water se?",
+      "options": {
+        "A": "Warm water",
+        "B": "Cool water",
+        "C": "Hot water",
+        "D": "Any temperature is fine"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cool water skin ko soothe karta hai aur redness ko kam karne mein help karta hai, jabki warm water irritation badha sakta hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "MD machine ke vacuum pressure ko adjust karna kyun important hai?",
+      "options": {
+        "A": "Machine ki speed control karne ke liye",
+        "B": "Client ki skin type aur sensitivity ke according treatment adjust karne ke liye",
+        "C": "Electricity consumption control karne ke liye",
+        "D": "Crystals ki quantity control karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vacuum pressure ko adjust karne se treatment ki intensity control hoti hai, jo different skin types aur areas ke liye essential hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "During the MD procedure, it's crucial to maintain a consistent speed of the handpiece to avoid:",
+      "options": {
+        "A": "Client boredom",
+        "B": "Uneven exfoliation or stripes on the skin",
+        "C": "Machine overheating",
+        "D": "Excessive product absorption"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Consistent speed maintain karna zaroori hai taaki exfoliation evenly ho aur skin par streaks ya patches na bane."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Skin polishing ka primary goal kya hai?",
+      "options": {
+        "A": "Skin ko permanent white karna",
+        "B": "Skin ko smooth, radiant aur even-toned banana",
+        "C": "Deep wrinkles ko completely remove karna",
+        "D": "Hair growth ko stop karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skin polishing dead cells ko remove karke skin ko smooth, radiant aur even-toned banata hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Microdermabrasion ke baad immediate post-care mein kya karna chahiye?",
+      "options": {
+        "A": "Steam facial dena",
+        "B": "SPF ke saath moisturizer apply karna",
+        "C": "Heavy makeup lagana",
+        "D": "Harsh scrub use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MD ke baad skin sensitive hoti hai, isliye hydration aur sun protection bahut zaroori hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "MD ke baad kitne time tak direct sun exposure avoid karna chahiye?",
+      "options": {
+        "A": "1 hour",
+        "B": "24-48 hours",
+        "C": "1 week",
+        "D": "1 month"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "MD ke baad skin photosensitive ho jaati hai, isliye kam se kam 1 week tak direct sun exposure avoid karna chahiye to prevent hyperpigmentation."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "MD ke baad skin par scrubbing ya harsh exfoliants ka use kitne time tak avoid karna chahiye?",
+      "options": {
+        "A": "Immediately use kar sakte hain",
+        "B": "Kam se kam 1 week tak",
+        "C": "Sirf 1 din",
+        "D": "Koi zarurat nahi avoid karne ki"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skin already exfoliated aur sensitive hoti hai, isliye us par aur scrubbing ya harsh exfoliants use karne se irritation aur damage ho sakta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Skin polishing mein kaun se methods shamil ho sakte hain, apart from MD?",
+      "options": {
+        "A": "Surgical facelift",
+        "B": "Gentle chemical peels, enzyme peels, fine grain scrubs",
+        "C": "Botox injections",
+        "D": "Laser hair removal"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Skin polishing mein MD ke alawa light chemical peels, enzyme peels aur fine grain scrubs bhi shamil ho sakte hain, jo skin ko smooth karte hain."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "MD ke baad client ko kis type ke cleansers recommend karne chahiye?",
+      "options": {
+        "A": "Strong foaming cleansers",
+        "B": "Alcohol-based cleansers",
+        "C": "Gentle, hydrating, soap-free cleansers",
+        "D": "Abrasive scrubs"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Gentle, hydrating cleansers skin ki natural barrier ko maintain karte hain aur irritation se bachate hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "MD ke baad waxing ya threading kitne time tak avoid karna chahiye?",
+      "options": {
+        "A": "Immediately kar sakte hain",
+        "B": "Kam se kam 5-7 din tak",
+        "C": "Sirf 1 din",
+        "D": "Koi restriction nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waxing aur threading skin ko pull karte hain, aur MD ke baad skin sensitive hoti hai, isliye irritation aur damage se bachne ke liye avoid karna chahiye."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Post-treatment care mein client ko hydration ke liye kya advise denge?",
+      "options": {
+        "A": "Kam pani peena",
+        "B": "Zyada pani peena aur hydrating serums use karna",
+        "C": "Coffee zyada peena",
+        "D": "Heavy makeup lagana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Internal aur external hydration dono skin healing aur healthy glow ke liye essential hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "MD ke baad swimming pool mein kitne time tak avoid karna chahiye?",
+      "options": {
+        "A": "Immediately ja sakte hain",
+        "B": "24-48 hours",
+        "C": "1 week",
+        "D": "No restriction"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Swimming pool ke chlorine aur chemicals skin ko irritated kar sakte hain jab skin sensitive ho, isliye 24-48 hours tak avoid karna chahiye."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Skin polishing ke liye enzyme peels ka kya fayda hai?",
+      "options": {
+        "A": "Highly abrasive hote hain",
+        "B": "Dead cells ko gently dissolve karte hain without harsh scrubbing",
+        "C": "Skin ko dry karte hain",
+        "D": "Sirf deep wrinkles ke liye hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Enzyme peels fruit enzymes use karte hain jo dead skin cells ke protein bonds ko gently break karte hain, making them suitable for sensitive skin."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "MD ke baad skin par itching ya redness hone par kya karna chahiye?",
+      "options": {
+        "A": "Skin ko vigorously rub karna",
+        "B": "Cool compress apply karna aur hydrating serum lagana",
+        "C": "Hot shower lena",
+        "D": "Alcohol-based products use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cool compress aur hydrating products skin ko soothe karte hain aur irritation ko kam karte hain."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Client ko MD ke baad makeup kab tak avoid karne ki salah denge?",
+      "options": {
+        "A": "Immediately laga sakte hain",
+        "B": "Kam se kam 24 hours",
+        "C": "1 week",
+        "D": "Koi restriction nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Makeup pores ko clog kar sakta hai aur sensitive skin ko irritate kar sakta hai, isliye 24 hours tak avoid karna best hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Skin polishing mein physical scrubs ka use kaise karna chahiye?",
+      "options": {
+        "A": "Daily aur aggressively",
+        "B": "Weekly ya bi-weekly, gently aur circular motions mein",
+        "C": "Hard brush se",
+        "D": "Kabhi nahi karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Physical scrubs ko gently aur moderate frequency par use karna chahiye taaki skin ko over-exfoliate na kare."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "MD treatment ke baad skin ko touch karne se kyun bachna chahiye?",
+      "options": {
+        "A": "Skin ko dry rakhne ke liye",
+        "B": "Bacteria transfer aur irritation se bachne ke liye",
+        "C": "Pores ko open rakhne ke liye",
+        "D": "Treatment ke results ko kharab karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hands par bacteria ho sakte hain jo sensitive skin par transfer hokar infection ya irritation cause kar sakte hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "What is the primary difference between Microdermabrasion and a superficial chemical peel?",
+      "options": {
+        "A": "MD is more invasive.",
+        "B": "MD uses mechanical exfoliation, while chemical peels use chemical solutions.",
+        "C": "Chemical peels are less effective.",
+        "D": "They are exactly the same."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "MD ek mechanical exfoliation method hai jismein physical abrasion use hota hai, jabki chemical peels skin ko exfoliate karne ke liye acids use karte hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Post-treatment instructions mein client ko kaun se activities avoid karne ki salah denge?",
+      "options": {
+        "A": "Light exercise",
+        "B": "Strenuous exercise aur excessive sweating",
+        "C": "Eating healthy food",
+        "D": "Sleeping"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Strenuous exercise aur sweating se skin pores clog ho sakte hain aur irritation badh sakti hai, isliye kuch din tak avoid karna chahiye."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Microdermabrasion ko kis other treatment ke saath combine kiya ja sakta hai for enhanced results?",
+      "options": {
+        "A": "Deep surgical procedures",
+        "B": "Hydrating facials, light chemical peels, LED light therapy",
+        "C": "Hair transplant",
+        "D": "Liposuction"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MD ke baad skin products ko better absorb karti hai, isliye hydrating facials, light peels ya LED therapy ke saath combine karne se results enhance hote hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Agar client ko MD ke baad excessive redness aur swelling ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Immediate medical attention recommend karna",
+        "C": "Zyada pressure apply karna",
+        "D": "Client ko ghar bhej dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Excessive redness aur swelling complications ke signs ho sakte hain, isliye immediate medical attention ki zaroorat ho sakti hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "MD machine ke regular maintenance mein kya shamil hai?",
+      "options": {
+        "A": "Sirf filters change karna",
+        "B": "Machine ko saaf rakhna, filters change karna, aur manufacturer ke guidelines follow karna",
+        "C": "Machine ko kabhi saaf nahi karna",
+        "D": "Har saal nayi machine kharidna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular maintenance machine ki performance, longevity aur hygiene ke liye essential hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Client ko MD treatment ke baare mein galat information dena kis category mein aata hai?",
+      "options": {
+        "A": "Good marketing",
+        "B": "Professional ethics ka violation",
+        "C": "Standard practice",
+        "D": "Harmless"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ko accurate aur truthful information dena professional ethics ka hissa hai. Misleading information dena unethical hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Aesthetician ko client ke records ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Openly discuss with other clients",
+        "B": "Confidential aur secure tarike se maintain karna",
+        "C": "Publicly display karna",
+        "D": "Discard immediately after treatment"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client privacy aur data security professional practice ka important aspect hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Agar MD ke baad client ki skin par bruising dikhe toh kya karna chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Next session mein suction badha dena",
+        "C": "Client ko reassure karna, cool compress suggest karna aur next time settings adjust karna",
+        "D": "Client ko blame karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Mild bruising ho sakti hai, client ko reassure karna aur future sessions mein suction ya passes adjust karna important hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "MD ke baad hyperpigmentation ka risk kin clients mein zyada hota hai?",
+      "options": {
+        "A": "Fair skin tone wale clients",
+        "B": "Darker skin tone wale clients aur jinhe sun exposure zyada ho",
+        "C": "Dry skin wale clients",
+        "D": "Oily skin wale clients"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Darker skin tones mein post-inflammatory hyperpigmentation ka risk zyada hota hai, especially with sun exposure."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Professional development ke liye aesthetician ko kya karna chahiye?",
+      "options": {
+        "A": "Ek baar training lekar ruk jaana",
+        "B": "Regularly naye courses, workshops aur certifications lena",
+        "C": "Sirf practical work karna",
+        "D": "Industry trends ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Beauty aur aesthetics industry constantly evolve karti hai, isliye continuous learning aur skill enhancement zaroori hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "MD ke baad client ko pimples ya breakouts ho toh kya karna chahiye?",
+      "options": {
+        "A": "Zabardasti squeeze karna",
+        "B": "Gentle cleansing aur non-comedogenic products suggest karna, aur agar persist kare toh dermatologist ko consult karne ki salah dena",
+        "C": "Heavy makeup lagane ko kehna",
+        "D": "High-frequency treatment turant dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MD ke baad skin detoxify ho sakti hai, jisse temporary breakouts ho sakte hain. Gentle care aur professional advice lena important hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Client ko MD treatment ke liye kya price point batana chahiye?",
+      "options": {
+        "A": "Lowest possible price",
+        "B": "Market rate se bohot zyada",
+        "C": "Fair aur transparent pricing, considering expenses aur expertise",
+        "D": "Client ki look ke hisaab se price decide karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Fair aur transparent pricing professional integrity ka hissa hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Effective client retention ke liye kya zaroori hai?",
+      "options": {
+        "A": "Sirf ek baar achha service dena",
+        "B": "Consistent quality service, good communication aur follow-ups",
+        "C": "Client ko discount dena",
+        "D": "Only focus on new clients"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client retention ke liye trust, satisfaction aur consistent relationship building important hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Agar client treatment ke results se dissatisfied ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Client ko ignore karna",
+        "B": "Unki concerns ko sunna aur possible solutions ya follow-up sessions discuss karna",
+        "C": "Unhe dusre clinic jaane ko kehna",
+        "D": "Unhe blame karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client satisfaction important hai, unki concerns ko address karna aur solutions offer karna professional approach hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "MD treatment mein hygiene maintain karne ka kya importance hai?",
+      "options": {
+        "A": "Sirf client ko impress karne ke liye",
+        "B": "Infection aur cross-contamination se bachne ke liye",
+        "C": "Treatment ko zyada expensive banane ke liye",
+        "D": "Machine ki life badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hygiene infection control aur client safety ke liye paramount hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "MD machine ki calibration aur servicing kitne time mein karwani chahiye?",
+      "options": {
+        "A": "Kabhi nahi",
+        "B": "Jab machine kharab ho jaaye",
+        "C": "Manufacturer ke recommendations ke according (usually annually)",
+        "D": "Har mahine"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Regular calibration aur servicing machine ki optimal performance aur safety ensure karti hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Client ko MD ke benefits over home exfoliation kaise samjhaoge?",
+      "options": {
+        "A": "Home exfoliation is better",
+        "B": "MD provides deeper, more controlled exfoliation with professional-grade equipment and expertise, leading to more significant and consistent results.",
+        "C": "MD is just a more expensive version of home exfoliation.",
+        "D": "Don't explain, just perform the service."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Professional MD controlled aur deeper exfoliation provide karta hai jo home treatments se possible nahi hai, resulting in better and safer outcomes."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Professional aesthetician ko apne skills ko update rakhne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Purane methods ko stick karna",
+        "B": "Industry magazines padhna, workshops attend karna, aur naye techniques seekhna",
+        "C": "Sirf apne experience par rely karna",
+        "D": "Dusre professionals se compete karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Continuous learning aur skill development professional growth aur better client service ke liye essential hai."
+    }
+  ]
+}

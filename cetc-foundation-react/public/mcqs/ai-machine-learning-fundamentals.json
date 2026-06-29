@@ -1,0 +1,1443 @@
+{
+  "course_name": "AI & Machine Learning Fundamentals",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Advanced",
+  "duration": "4 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to AI & Machine Learning",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Data Preprocessing & Feature Engineering",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Supervised Learning Algorithms",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Unsupervised Learning & Recommender Systems",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Neural Networks & Deep Learning",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Model Evaluation, Deployment & Ethics",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which of the following best describes Artificial Intelligence (AI)?",
+      "options": {
+        "A": "A field of study that enables computers to learn from data without being explicitly programmed.",
+        "B": "The simulation of human intelligence processes by machines, especially computer systems.",
+        "C": "A subset of machine learning that uses neural networks with many layers.",
+        "D": "The process of optimizing computer hardware for complex calculations."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Artificial Intelligence is a broader concept that focuses on simulating human intelligence processes in machines, allowing them to perform tasks that typically require human intelligence."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "A data scientist is building a system to predict house prices based on features like size, location, and number of bedrooms. What type of machine learning problem is this?",
+      "options": {
+        "A": "Classification",
+        "B": "Clustering",
+        "C": "Regression",
+        "D": "Reinforcement Learning"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Predicting a continuous numerical value (house price) falls under regression, a type of supervised learning."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "What is the primary goal of Machine Learning?",
+      "options": {
+        "A": "To create machines that can think and feel like humans.",
+        "B": "To enable systems to learn from data and make predictions or decisions without explicit programming.",
+        "C": "To develop faster computer processors for data processing.",
+        "D": "To automate repetitive tasks using rule-based systems."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The core objective of Machine Learning is to build systems that can improve their performance on a specific task by learning patterns from data, rather than being explicitly programmed for every possible scenario."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Which of the following Python libraries is primarily used for numerical operations and array manipulation in machine learning?",
+      "options": {
+        "A": "Pandas",
+        "B": "Matplotlib",
+        "C": "NumPy",
+        "D": "Scikit-learn"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "NumPy (Numerical Python) is fundamental for scientific computing in Python, providing support for large, multi-dimensional arrays and matrices, along with a collection of high-level mathematical functions to operate on these arrays."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "A model is trained to identify spam emails. This task involves categorizing emails into 'spam' or 'not spam'. Which machine learning paradigm does this fall under?",
+      "options": {
+        "A": "Unsupervised Learning",
+        "B": "Reinforcement Learning",
+        "C": "Supervised Learning",
+        "D": "Semi-supervised Learning"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Identifying spam emails is a classification problem where the model learns from labeled data (emails marked as spam or not spam). This is a characteristic of supervised learning."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Deep Learning is a specialized subset of Machine Learning. What is its defining characteristic?",
+      "options": {
+        "A": "It exclusively uses Bayesian inference.",
+        "B": "It uses neural networks with multiple hidden layers.",
+        "C": "It relies solely on linear regression models.",
+        "D": "It requires manual feature engineering for optimal performance."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Deep Learning is characterized by the use of deep neural networks, which are artificial neural networks with multiple hidden layers, allowing them to learn complex patterns and representations from data."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "What is the main difference between 'Strong AI' (or AGI) and 'Weak AI' (or Narrow AI)?",
+      "options": {
+        "A": "Strong AI uses deep learning, while Weak AI uses traditional ML.",
+        "B": "Strong AI can perform any intellectual task a human can, while Weak AI is designed for a specific task.",
+        "C": "Strong AI is theoretical, while Weak AI is already implemented in real-world applications.",
+        "D": "Strong AI requires more data than Weak AI."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Weak AI (Narrow AI) is designed and trained for a particular task, like facial recognition or voice assistants. Strong AI (Artificial General Intelligence - AGI) aims to replicate human cognitive abilities across a wide range of tasks, something not yet achieved."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Which of the following is NOT a common application area of AI and ML?",
+      "options": {
+        "A": "Autonomous vehicles",
+        "B": "Medical diagnosis",
+        "C": "Predictive maintenance in manufacturing",
+        "D": "Manual data entry and transcription"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "While AI can assist with automation of data entry (e.g., OCR), manual data entry itself is a human task, not an application of AI. The other options are well-established AI/ML application areas."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "A system learns to play chess by playing against itself many times and receiving rewards for winning moves and penalties for losing moves. What type of machine learning is this?",
+      "options": {
+        "A": "Supervised Learning",
+        "B": "Unsupervised Learning",
+        "C": "Reinforcement Learning",
+        "D": "Active Learning"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Reinforcement learning involves an agent learning to make decisions by performing actions in an environment and receiving rewards or penalties based on the outcomes of those actions, optimizing for long-term rewards."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "What role does 'data' play in a typical machine learning workflow?",
+      "options": {
+        "A": "It is the output generated by the machine learning model.",
+        "B": "It serves as the input from which the model learns patterns and relationships.",
+        "C": "It is used solely for visualizing the model's performance.",
+        "D": "It defines the algorithms used for training the model."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data is the fundamental input for machine learning models. Models are trained on data to identify patterns, make predictions, or discover insights."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Which of the following ethical concerns is most relevant when deploying an AI system for credit scoring?",
+      "options": {
+        "A": "The system's energy consumption.",
+        "B": "Potential for algorithmic bias and discrimination.",
+        "C": "The speed of model inference.",
+        "D": "Compatibility with legacy IT systems."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI systems used in sensitive areas like credit scoring can perpetuate or amplify existing societal biases present in the training data, leading to unfair or discriminatory outcomes for certain demographic groups. This is a major ethical concern."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "A company wants to group its customers into different segments based on their purchasing behavior without any predefined labels. Which ML approach should they use?",
+      "options": {
+        "A": "Regression",
+        "B": "Classification",
+        "C": "Clustering",
+        "D": "Reinforcement Learning"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Clustering is an unsupervised learning technique used to group similar data points together based on their inherent characteristics, without prior knowledge of group labels."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "What is the primary function of the 'Pandas' library in Python for machine learning?",
+      "options": {
+        "A": "Performing complex mathematical operations on arrays.",
+        "B": "Data manipulation and analysis, especially with DataFrames.",
+        "C": "Creating static, interactive, and animated visualizations.",
+        "D": "Implementing various machine learning algorithms."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pandas is a powerful library for data manipulation and analysis, offering data structures like DataFrames that are ideal for handling tabular data commonly used in machine learning."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Which term describes an AI system that is trained on a massive dataset and can perform a wide range of tasks, often demonstrating emergent abilities beyond its initial training objectives?",
+      "options": {
+        "A": "Expert System",
+        "B": "Generative AI",
+        "C": "Foundation Model",
+        "D": "Rule-based System"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Foundation Models (like large language models) are trained on broad data at scale and can be adapted to a wide range of downstream tasks. They often exhibit emergent capabilities not explicitly programmed."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "When considering the 'AI effect' or 'AI paradox', what does it imply about the definition of AI?",
+      "options": {
+        "A": "That true AI is impossible to achieve.",
+        "B": "That once a problem is solved by AI, it is no longer considered AI.",
+        "C": "That AI systems are inherently biased.",
+        "D": "That AI only refers to sentient machines."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The 'AI effect' or 'AI paradox' states that as soon as an AI successfully solves a problem, the problem is no longer considered to be AI, leading to a constantly moving definition of what constitutes 'AI'."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "What distinguishes 'Machine Learning Operations' (MLOps) from traditional DevOps?",
+      "options": {
+        "A": "MLOps focuses solely on hardware infrastructure.",
+        "B": "MLOps includes model versioning, data validation, and continuous retraining, which are specific to ML lifecycle.",
+        "C": "MLOps is only concerned with the deployment phase of a project.",
+        "D": "MLOps uses different programming languages than DevOps."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MLOps extends DevOps principles to the machine learning lifecycle, addressing unique challenges such as data validation, model drift, continuous retraining, and managing model versions in addition to code and infrastructure."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Which of the following best describes 'Transfer Learning' in the context of Deep Learning?",
+      "options": {
+        "A": "Training a model from scratch on a very large dataset.",
+        "B": "Applying a model trained for one task to a different but related task.",
+        "C": "Manually transferring data between different servers.",
+        "D": "Using multiple models simultaneously for a single prediction."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Transfer learning involves taking a pre-trained model (e.g., trained on a massive image dataset) and fine-tuning it for a new, related task. This is particularly useful when you have limited data for the new task."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Before training a machine learning model, a data scientist often needs to handle missing values. Which of the following is a common strategy for imputation?",
+      "options": {
+        "A": "Deleting all rows with any missing values.",
+        "B": "Replacing missing values with the mode for numerical features.",
+        "C": "Replacing missing values with the mean or median for numerical features.",
+        "D": "Converting missing values to a new categorical label 'unknown'."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "For numerical features, replacing missing values with the mean (for normally distributed data) or median (for skewed data) is a common and effective imputation strategy to preserve data points."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "What is the primary purpose of 'Feature Scaling' (e.g., Standardization or Normalization) in machine learning?",
+      "options": {
+        "A": "To reduce the number of features in the dataset.",
+        "B": "To convert categorical features into numerical ones.",
+        "C": "To ensure that all features contribute equally to the distance calculations in algorithms.",
+        "D": "To handle missing values in the dataset."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Feature scaling methods like standardization (Z-score normalization) or min-max normalization ensure that features with larger numerical ranges do not dominate the learning process, which is crucial for distance-based algorithms like K-Nearest Neighbors or SVMs."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "When dealing with categorical features, which encoding technique creates new binary features for each unique category?",
+      "options": {
+        "A": "Label Encoding",
+        "B": "Ordinal Encoding",
+        "C": "One-Hot Encoding",
+        "D": "Target Encoding"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "One-Hot Encoding transforms each categorical value into a new column, assigning a 1 to that column and 0 to all others. This prevents the model from assuming an arbitrary ordinal relationship between categories."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "A dataset contains an 'Age' column with values ranging from 18 to 90 and a 'Salary' column with values from 20,000 to 200,000. Which scaling method would transform 'Age' to a range of 0 to 1?",
+      "options": {
+        "A": "Standardization (Z-score scaling)",
+        "B": "Min-Max Scaling",
+        "C": "Robust Scaling",
+        "D": "Log Transformation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Min-Max Scaling (Normalization) transforms features to a specified range, typically [0, 1], by subtracting the minimum value and dividing by the range (max - min)."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Outliers can significantly impact model training. Which of the following is a robust method to detect outliers in a numerical feature?",
+      "options": {
+        "A": "Calculating the mean and standard deviation.",
+        "B": "Using the Interquartile Range (IQR) method.",
+        "C": "Plotting a histogram of the data.",
+        "D": "Applying One-Hot Encoding."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The IQR method is robust to outliers because it relies on quartiles rather than the mean and standard deviation, which are sensitive to extreme values. Outliers are often defined as values falling outside 1.5 times the IQR from the first or third quartile."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "What is the main disadvantage of deleting rows with missing values (listwise deletion) from a dataset?",
+      "options": {
+        "A": "It can introduce bias if missingness is not completely random.",
+        "B": "It always improves model performance.",
+        "C": "It is computationally expensive.",
+        "D": "It requires complex statistical methods."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Deleting rows with missing values can lead to a significant loss of data, especially if many rows have missing entries. More critically, if the missingness is related to the outcome or other features (Missing Not At Random - MNAR), it can introduce bias into the remaining dataset and the trained model."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Which dimensionality reduction technique is commonly used to project high-dimensional data into a lower-dimensional space while preserving as much variance as possible?",
+      "options": {
+        "A": "Principal Component Analysis (PCA)",
+        "B": "Linear Discriminant Analysis (LDA)",
+        "C": "One-Hot Encoding",
+        "D": "Feature Hashing"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "PCA is a popular unsupervised dimensionality reduction technique that transforms data into a new coordinate system where the greatest variance by any projection lies on the first principal component, the second greatest on the second, and so on."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "A feature 'Zip Code' has many unique values. If you apply One-Hot Encoding directly, what potential problem might arise?",
+      "options": {
+        "A": "Loss of information.",
+        "B": "Reduced model complexity.",
+        "C": "Increased dimensionality and sparsity (curse of dimensionality).",
+        "D": "Introduction of ordinal relationships."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "If a categorical feature has a high cardinality (many unique values), One-Hot Encoding will create a large number of new features, leading to increased dimensionality, sparse data, and potentially a 'curse of dimensionality' issue, making models harder to train and interpret."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "What is 'Feature Engineering' in the context of machine learning?",
+      "options": {
+        "A": "The process of selecting the best machine learning algorithm.",
+        "B": "The process of creating new features from existing ones to improve model performance.",
+        "C": "The process of deploying a machine learning model into production.",
+        "D": "The process of evaluating the model's performance on unseen data."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Feature engineering is the art of creating new input features from raw data that are more informative and useful for the machine learning model, often leading to significant improvements in model performance."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Why is it important to apply feature scaling *after* splitting the data into training and testing sets?",
+      "options": {
+        "A": "To prevent data leakage from the test set into the training process.",
+        "B": "To ensure the test set has a wider range of values.",
+        "C": "To make the scaling process computationally faster.",
+        "D": "To avoid overfitting the scaling parameters to the training data."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Applying feature scaling (fitting the scaler) to the entire dataset before splitting can lead to data leakage, where information from the test set influences the scaling parameters learned from the training set. The scaler should be fitted only on the training data and then used to transform both training and test sets."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "A data scientist observes that a numerical feature has a highly skewed distribution. Which transformation might help make it more Gaussian-like for certain models?",
+      "options": {
+        "A": "One-Hot Encoding",
+        "B": "Log Transformation",
+        "C": "Min-Max Scaling",
+        "D": "Standardization"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Log transformation (e.g., natural log or log base 10) is often effective in reducing the skewness of a distribution, making it more symmetric and Gaussian-like, which can benefit models that assume normally distributed features."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Which of the following feature selection methods evaluates features independently of the model, often based on statistical measures like correlation or chi-squared test?",
+      "options": {
+        "A": "Wrapper methods (e.g., Recursive Feature Elimination)",
+        "B": "Embedded methods (e.g., Lasso Regression)",
+        "C": "Filter methods",
+        "D": "Dimensionality Reduction"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Filter methods select features based on their intrinsic properties, using statistical measures like correlation coefficients, chi-squared tests, or information gain, without involving any specific machine learning model."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "What is the primary benefit of using 'Robust Scaling' over Min-Max Scaling or Standardization when dealing with features containing outliers?",
+      "options": {
+        "A": "It transforms data to a specific [0, 1] range.",
+        "B": "It is less susceptible to the influence of outliers.",
+        "C": "It always results in a normal distribution.",
+        "D": "It requires less computational power."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Robust Scaling (e.g., `RobustScaler` in scikit-learn) scales features using the median and the interquartile range (IQR). Since the median and IQR are less affected by outliers than the mean and standard deviation, Robust Scaling is more robust to extreme values."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "When is 'Label Encoding' an appropriate choice for categorical features?",
+      "options": {
+        "A": "When the categories have no inherent order.",
+        "B": "When the number of unique categories is very large.",
+        "C": "When the categories have a clear ordinal relationship (e.g., 'low', 'medium', 'high').",
+        "D": "When you want to reduce the dimensionality of the dataset."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Label encoding assigns a unique integer to each category. This is suitable when the categories have a natural ordinal relationship, as the model can interpret the numerical order as a meaningful ranking. Using it for nominal (unordered) categories can introduce false ordinality."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "What is a 'feature interaction' in feature engineering?",
+      "options": {
+        "A": "When two features are perfectly correlated.",
+        "B": "When the effect of one feature on the target variable depends on the value of another feature.",
+        "C": "When features are combined using a linear transformation.",
+        "D": "When features are selected based on their individual importance."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A feature interaction occurs when the relationship between a feature and the target variable is not constant but changes depending on the value of another feature. Creating new features by combining existing ones (e.g., multiplying them) can capture these interactions."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Consider a dataset for predicting customer churn. If the 'customer ID' column is included in the features, what common data preparation step should be applied?",
+      "options": {
+        "A": "One-Hot Encode it.",
+        "B": "Standardize it.",
+        "C": "Treat it as an ordinal feature.",
+        "D": "Remove it, as it's typically a unique identifier with no predictive power."
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Customer IDs are unique identifiers and typically have no inherent predictive power for the target variable. Including them can lead to overfitting or make the model learn spurious patterns. They should generally be removed from the feature set before training."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Which of the following is a potential drawback of using Principal Component Analysis (PCA) for dimensionality reduction?",
+      "options": {
+        "A": "It can only be applied to categorical data.",
+        "B": "The resulting principal components are often less interpretable than the original features.",
+        "C": "It requires labeled data for optimal performance.",
+        "D": "It always increases the computational cost of training."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "While PCA effectively reduces dimensionality and preserves variance, the new principal components are linear combinations of the original features, making them abstract and often difficult to interpret in terms of real-world meaning."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "In a linear regression model, what does the coefficient of a feature represent?",
+      "options": {
+        "A": "The probability of the feature occurring.",
+        "B": "The change in the target variable for a one-unit increase in that feature, holding other features constant.",
+        "C": "The overall importance of the feature in the model.",
+        "D": "The standard deviation of the feature's values."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "In linear regression, the coefficient (or weight) associated with a feature indicates the magnitude and direction of the impact that feature has on the dependent variable, assuming all other features remain constant."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Which of the following metrics is most appropriate for evaluating a regression model?",
+      "options": {
+        "A": "Accuracy",
+        "B": "Precision",
+        "C": "Recall",
+        "D": "Mean Squared Error (MSE)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "MSE measures the average of the squares of the errors, i.e., the average squared difference between the estimated values and the actual value. It is a common metric for evaluating regression models."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "What is 'overfitting' in machine learning?",
+      "options": {
+        "A": "When a model is too simple to capture the underlying patterns in the data.",
+        "B": "When a model performs well on training data but poorly on unseen data.",
+        "C": "When a model has too few features for the task.",
+        "D": "When the training data is too small to train an effective model."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overfitting occurs when a model learns the training data too well, including its noise and specific patterns, leading to poor generalization performance on new, unseen data."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Which algorithm is a linear model used for binary classification, outputting a probability score?",
+      "options": {
+        "A": "Linear Regression",
+        "B": "K-Means Clustering",
+        "C": "Logistic Regression",
+        "D": "Principal Component Analysis"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Logistic Regression is a classification algorithm that uses a sigmoid function to output a probability between 0 and 1, which is then mapped to a binary class label. Despite its name, it's a classification algorithm."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "What is the primary purpose of 'Cross-Validation' in machine learning?",
+      "options": {
+        "A": "To increase the size of the training dataset.",
+        "B": "To prevent data leakage during preprocessing.",
+        "C": "To obtain a more reliable estimate of model performance on unseen data.",
+        "D": "To select the most important features for the model."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cross-validation is a technique to assess how the results of a statistical analysis will generalize to an independent dataset. It helps in getting a more robust estimate of the model's performance and detecting overfitting."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "A data scientist is training a Decision Tree and notices it's overfitting. Which hyperparameter can be adjusted to reduce overfitting?",
+      "options": {
+        "A": "criterion",
+        "B": "max_depth",
+        "C": "min_samples_leaf",
+        "D": "Both B and C"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Both `max_depth` (limiting how deep the tree can grow) and `min_samples_leaf` (setting the minimum number of samples required to be at a leaf node) are common hyperparameters used to prune a Decision Tree and prevent overfitting."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "What is the 'Bias-Variance Tradeoff' in machine learning?",
+      "options": {
+        "A": "A tradeoff between model complexity and training time.",
+        "B": "A tradeoff between the model's ability to fit the training data and its ability to generalize to new data.",
+        "C": "A tradeoff between using more features and fewer features.",
+        "D": "A tradeoff between supervised and unsupervised learning approaches."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Bias-Variance Tradeoff describes the conflict in trying to simultaneously minimize two sources of error that prevent supervised learning algorithms from generalizing beyond their training data: bias (error from erroneous assumptions in the learning algorithm) and variance (error from sensitivity to small fluctuations in the training set)."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Which of the following algorithms is an ensemble method that builds multiple decision trees and merges their predictions to improve accuracy and control overfitting?",
+      "options": {
+        "A": "Support Vector Machine (SVM)",
+        "B": "K-Nearest Neighbors (KNN)",
+        "C": "Random Forest",
+        "D": "Naive Bayes"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Random Forest is an ensemble learning method that constructs a multitude of decision trees at training time and outputs the class that is the mode of the classes (for classification) or mean prediction (for regression) of the individual trees."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "In the context of Support Vector Machines (SVMs), what is the role of the 'kernel trick'?",
+      "options": {
+        "A": "To reduce the dimensionality of the input data.",
+        "B": "To efficiently find a linear decision boundary in a high-dimensional feature space without explicitly transforming the data.",
+        "C": "To handle missing values in the dataset.",
+        "D": "To prevent the model from overfitting."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The kernel trick allows SVMs to implicitly map data into a higher-dimensional space where it might be linearly separable, without actually performing the expensive explicit transformation. This is done by computing the dot product in the higher-dimensional space using a kernel function."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "A company wants to predict whether a customer will click on an advertisement (binary outcome). Which model is typically a good starting point for this type of problem?",
+      "options": {
+        "A": "Linear Regression",
+        "B": "K-Means Clustering",
+        "C": "Logistic Regression",
+        "D": "Principal Component Analysis"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Predicting a binary outcome (click/no click) is a classic binary classification problem, for which Logistic Regression is a simple yet powerful and interpretable model."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "What is the key difference between 'Bagging' (e.g., Random Forest) and 'Boosting' (e.g., Gradient Boosting) ensemble methods?",
+      "options": {
+        "A": "Bagging builds models sequentially, while Boosting builds them in parallel.",
+        "B": "Bagging aims to reduce variance, while Boosting aims to reduce bias.",
+        "C": "Bagging uses only decision trees, while Boosting uses any base learner.",
+        "D": "Bagging assigns weights to samples, while Boosting assigns weights to models."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bagging (Bootstrap Aggregating) trains multiple models independently and averages their predictions, primarily reducing variance. Boosting trains models sequentially, where each new model tries to correct the errors of the previous ones, primarily reducing bias."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Which regularization technique adds a penalty equal to the absolute value of the magnitude of coefficients, often leading to sparse models by setting some coefficients to zero?",
+      "options": {
+        "A": "L1 Regularization (Lasso)",
+        "B": "L2 Regularization (Ridge)",
+        "C": "Elastic Net Regularization",
+        "D": "Dropout"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "L1 regularization, or Lasso Regression, adds a penalty proportional to the absolute value of the coefficients. This property promotes sparsity, meaning it can drive some coefficients exactly to zero, effectively performing feature selection."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "When training a K-Nearest Neighbors (KNN) classifier, what does the parameter 'K' represent?",
+      "options": {
+        "A": "The number of features to consider.",
+        "B": "The number of clusters to form.",
+        "C": "The number of nearest data points to consider for classification.",
+        "D": "The number of iterations for the algorithm to converge."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In KNN, 'K' is the number of nearest neighbors from the training data that are considered to classify a new data point. The new point is assigned the class that is most common among its K nearest neighbors."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "A data scientist is performing hyperparameter tuning for a Gradient Boosting model. Which technique systematically builds and evaluates models for every combination of specified hyperparameter values?",
+      "options": {
+        "A": "Randomized Search Cross-Validation",
+        "B": "Grid Search Cross-Validation",
+        "C": "Bayesian Optimization",
+        "D": "Manual Tuning"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grid Search Cross-Validation exhaustively searches through a specified subset of hyperparameters by creating a 'grid' of all possible combinations and evaluating each combination using cross-validation to find the best performing one."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Which supervised learning algorithm is known for its ability to handle both linear and non-linear classification tasks effectively, especially with the use of different kernels?",
+      "options": {
+        "A": "Linear Regression",
+        "B": "Naive Bayes",
+        "C": "Support Vector Machine (SVM)",
+        "D": "K-Means"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Support Vector Machines (SVMs) are versatile and can perform linear or non-linear classification, regression, and even outlier detection. They are particularly powerful with the use of kernel functions to map data into higher dimensions for non-linear separation."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "A model has high bias and low variance. What does this typically suggest about the model?",
+      "options": {
+        "A": "It is overfitting the training data.",
+        "B": "It is underfitting the training data.",
+        "C": "It has found the optimal balance between bias and variance.",
+        "D": "It is extremely complex."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High bias (underfitting) means the model makes strong assumptions about the data and fails to capture the underlying patterns, leading to consistently poor performance on both training and test data. Low variance suggests it's not very sensitive to changes in the training data, often a characteristic of simpler models."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "What is the primary advantage of using ensemble methods like Random Forest or Gradient Boosting over a single Decision Tree?",
+      "options": {
+        "A": "They are faster to train.",
+        "B": "They are less prone to overfitting and generally achieve higher accuracy.",
+        "C": "They require less data for training.",
+        "D": "They provide more interpretable results."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ensemble methods combine the predictions of multiple base models (often decision trees) to reduce variance (Bagging) or bias (Boosting), leading to more robust models that generalize better and achieve higher predictive accuracy than individual trees, which are prone to overfitting."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which of the following is an unsupervised learning algorithm primarily used for grouping similar data points into clusters?",
+      "options": {
+        "A": "Logistic Regression",
+        "B": "K-Means",
+        "C": "Decision Tree",
+        "D": "Linear Regression"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "K-Means is a popular unsupervised clustering algorithm that partitions data points into K distinct clusters, where each data point belongs to the cluster with the nearest mean (centroid)."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "In K-Means clustering, what does the 'K' represent?",
+      "options": {
+        "A": "The number of features in the dataset.",
+        "B": "The number of iterations the algorithm runs.",
+        "C": "The number of clusters to form.",
+        "D": "The number of data points in each cluster."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "'K' in K-Means clustering is a hyperparameter that specifies the desired number of clusters that the algorithm should identify in the data."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Which metric is commonly used to determine the optimal number of clusters (K) in K-Means clustering by measuring the compactness of clusters and separation between them?",
+      "options": {
+        "A": "Accuracy",
+        "B": "F1-Score",
+        "C": "Silhouette Score",
+        "D": "Mean Squared Error"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Silhouette Score is a metric used to evaluate the quality of clusters created by clustering algorithms like K-Means. It measures how similar an object is to its own cluster compared to other clusters, with higher values indicating better-defined clusters."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "A retail company wants to find groups of items that are frequently purchased together to optimize store layout and promotions. Which unsupervised learning technique is suitable for this task?",
+      "options": {
+        "A": "Regression",
+        "B": "Classification",
+        "C": "Association Rule Mining",
+        "D": "Reinforcement Learning"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Association Rule Mining (e.g., using the Apriori algorithm) is specifically designed to discover interesting relationships or associations among items in large datasets, often used for market basket analysis."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "What is the 'Cold Start Problem' in recommender systems?",
+      "options": {
+        "A": "The system recommends items that are too similar to previously liked items.",
+        "B": "The system struggles to make recommendations for new users or new items due to lack of data.",
+        "C": "The system takes too long to generate recommendations.",
+        "D": "The system recommends only popular items, ignoring niche preferences."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The cold start problem refers to the challenge faced by recommender systems when they cannot make meaningful recommendations for new users (who haven't rated many items) or new items (which haven't been rated by many users) due to insufficient data."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Which type of recommender system suggests items to a user based on the similarity between that user and other users?",
+      "options": {
+        "A": "Content-Based Filtering",
+        "B": "Collaborative Filtering (User-Based)",
+        "C": "Hybrid Recommender",
+        "D": "Knowledge-Based Recommender"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "User-based collaborative filtering recommends items by finding users similar to the target user and then suggesting items that those similar users have liked but the target user has not yet seen."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a clustering algorithm. What is its key advantage over K-Means?",
+      "options": {
+        "A": "It always produces perfectly spherical clusters.",
+        "B": "It does not require the number of clusters (K) to be specified beforehand.",
+        "C": "It is faster for very large datasets.",
+        "D": "It can only handle numerical data."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A significant advantage of DBSCAN is that it can discover clusters of arbitrary shape and does not require the user to specify the number of clusters (K) in advance. It also identifies outliers as noise."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "What is the 'Elbow Method' used for in K-Means clustering?",
+      "options": {
+        "A": "To visualize the clusters in 2D space.",
+        "B": "To determine the optimal number of clusters (K).",
+        "C": "To initialize the cluster centroids.",
+        "D": "To evaluate the purity of the clusters."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Elbow Method plots the within-cluster sum of squares (WCSS) against the number of clusters (K). The 'elbow' point on the graph, where the rate of decrease in WCSS sharply changes, is often chosen as the optimal K."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Which type of recommender system relies on analyzing a user's past preferences and item characteristics to suggest similar items?",
+      "options": {
+        "A": "Collaborative Filtering",
+        "B": "Content-Based Filtering",
+        "C": "Hybrid Recommender",
+        "D": "Matrix Factorization"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Content-based filtering recommends items that are similar to items the user has liked in the past, based on the attributes or features of those items (e.g., genre, actors, keywords)."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "In Hierarchical Clustering, what is the difference between 'Agglomerative' and 'Divisive' approaches?",
+      "options": {
+        "A": "Agglomerative starts with all data points in one cluster, Divisive starts with each point as a cluster.",
+        "B": "Agglomerative is a top-down approach, Divisive is bottom-up.",
+        "C": "Agglomerative merges clusters, Divisive splits clusters.",
+        "D": "Agglomerative uses Euclidean distance, Divisive uses Manhattan distance."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Agglomerative (bottom-up) hierarchical clustering starts with each data point as its own cluster and then successively merges clusters. Divisive (top-down) hierarchical clustering starts with all data points in one large cluster and recursively splits them."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "What is the primary role of 'Singular Value Decomposition (SVD)' in recommender systems?",
+      "options": {
+        "A": "To perform content-based filtering.",
+        "B": "To reduce the dimensionality of the user-item interaction matrix for collaborative filtering.",
+        "C": "To handle the cold start problem for new users.",
+        "D": "To classify users into different segments."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "SVD is a matrix factorization technique commonly used in collaborative filtering. It decomposes the sparse user-item interaction matrix into lower-dimensional matrices, capturing latent factors that represent user preferences and item characteristics, thereby enabling predictions for unrated items."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Which of the following is a drawback of traditional K-Means clustering?",
+      "options": {
+        "A": "It can discover clusters of arbitrary shapes.",
+        "B": "It is robust to noise and outliers.",
+        "C": "It requires the number of clusters (K) to be specified beforehand.",
+        "D": "It scales well to very large datasets."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A major limitation of K-Means is that the user must pre-specify the number of clusters (K), which is often unknown in real-world scenarios. It also tends to form spherical clusters and is sensitive to outliers."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "What does 'Support' refer to in Association Rule Mining (e.g., Apriori algorithm)?",
+      "options": {
+        "A": "The confidence of a rule.",
+        "B": "The total number of items in the dataset.",
+        "C": "The frequency of an itemset in the dataset.",
+        "D": "The number of rules generated."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "In association rule mining, 'Support' for an itemset is the proportion of transactions in the dataset that contain that itemset. It indicates how frequently an itemset appears in the dataset."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "A data scientist combines a content-based recommender with a collaborative filtering recommender to leverage both item features and user interactions. What is this approach called?",
+      "options": {
+        "A": "Ensemble Recommender",
+        "B": "Hybrid Recommender",
+        "C": "Stacked Recommender",
+        "D": "Context-Aware Recommender"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hybrid recommender systems combine multiple recommendation approaches (e.g., content-based and collaborative filtering) to overcome the limitations of individual methods and improve overall recommendation quality."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Which clustering algorithm is particularly effective at identifying noise points and forming clusters of arbitrary shapes, unlike K-Means?",
+      "options": {
+        "A": "Agglomerative Hierarchical Clustering",
+        "B": "K-Means Clustering",
+        "C": "Gaussian Mixture Models (GMM)",
+        "D": "DBSCAN"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is designed to find arbitrarily shaped clusters and can explicitly identify noise points as data points that do not belong to any cluster."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "When building a movie recommender system, a user's historical ratings are available. However, a new movie has just been released with no ratings yet. How would a pure collaborative filtering system typically handle this new movie?",
+      "options": {
+        "A": "It would immediately recommend it to users who liked similar genres.",
+        "B": "It would use its features (e.g., genre, actors) to find similar movies.",
+        "C": "It would struggle to recommend it until it accumulates some ratings.",
+        "D": "It would recommend it to all users to gather initial ratings."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A pure collaborative filtering system relies on user-item interaction data (ratings). For a new item with no ratings (item cold start), it has no basis to calculate similarity with other items or users, thus struggling to recommend it until some interaction data is gathered."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "What is the primary concern when evaluating clustering results, given that there are no ground-truth labels?",
+      "options": {
+        "A": "Accuracy of individual data point classification.",
+        "B": "Interpretability and meaningfulness of the clusters.",
+        "C": "Computational speed of the clustering algorithm.",
+        "D": "The number of features used for clustering."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Since unsupervised learning like clustering doesn't have ground-truth labels, evaluating results often focuses on internal metrics (like Silhouette Score, Davies-Bouldin index) and, crucially, the practical interpretability and business meaningfulness of the discovered clusters for the domain experts."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "What is a 'neuron' (or perceptron) in an Artificial Neural Network?",
+      "options": {
+        "A": "A unit that stores the entire dataset.",
+        "B": "A mathematical function that transforms input signals into an output signal.",
+        "C": "A database for storing model parameters.",
+        "D": "A type of regularization technique."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A neuron in an ANN is a fundamental processing unit that receives inputs, applies weights to them, sums them up, adds a bias, and then passes the result through an activation function to produce an output."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Which activation function is commonly used in the output layer of a neural network for binary classification tasks, outputting a probability between 0 and 1?",
+      "options": {
+        "A": "ReLU (Rectified Linear Unit)",
+        "B": "Softmax",
+        "C": "Sigmoid",
+        "D": "Tanh (Hyperbolic Tangent)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Sigmoid function (also known as logistic function) squashes its input to a range between 0 and 1, making it ideal for output layers in binary classification problems where the output can be interpreted as a probability."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "What is the primary purpose of the 'Backpropagation' algorithm in neural networks?",
+      "options": {
+        "A": "To initialize the weights of the network randomly.",
+        "B": "To calculate the error and update the weights and biases of the network.",
+        "C": "To choose the optimal activation function for hidden layers.",
+        "D": "To perform feature selection for the input layer."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Backpropagation is the core algorithm used to train neural networks. It calculates the gradient of the loss function with respect to the weights and biases, then uses this gradient to update the network's parameters via an optimization algorithm like gradient descent."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Which type of neural network is best suited for tasks involving sequential data, such as natural language processing or time series prediction?",
+      "options": {
+        "A": "Feedforward Neural Network (FNN)",
+        "B": "Convolutional Neural Network (CNN)",
+        "C": "Recurrent Neural Network (RNN)",
+        "D": "Autoencoder"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Recurrent Neural Networks (RNNs) are specifically designed to process sequential data by maintaining an internal state (memory) that allows them to use information from previous steps in the sequence."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "In a Convolutional Neural Network (CNN), what is the function of a 'pooling layer'?",
+      "options": {
+        "A": "To apply non-linear activation to the feature maps.",
+        "B": "To extract features from the input image using filters.",
+        "C": "To reduce the spatial dimensions of the feature maps, thereby reducing computation and preventing overfitting.",
+        "D": "To combine information from multiple feature maps."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pooling layers (e.g., Max Pooling, Average Pooling) downsample the feature maps, reducing their spatial size. This helps in reducing the number of parameters and computations in the network, making it more robust to small shifts/distortions and preventing overfitting."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "What is the 'vanishing gradient problem' in deep neural networks?",
+      "options": {
+        "A": "When the learning rate is too high, causing the model to diverge.",
+        "B": "When gradients become extremely small during backpropagation, making it difficult for earlier layers to learn.",
+        "C": "When gradients become extremely large, leading to unstable training.",
+        "D": "When the model's loss function reaches zero."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The vanishing gradient problem occurs in deep neural networks (especially RNNs) when the gradients become infinitesimally small as they are backpropagated through many layers. This makes the weights of earlier layers update very slowly, effectively preventing them from learning."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Which component of a CNN is responsible for learning spatial hierarchies of features from the input image?",
+      "options": {
+        "A": "Fully Connected Layer",
+        "B": "Pooling Layer",
+        "C": "Convolutional Layer",
+        "D": "Softmax Layer"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Convolutional Layer is the core building block of a CNN. It applies learnable filters (kernels) to the input image, detecting various features like edges, textures, and ultimately more complex patterns."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "What is a common technique used to combat overfitting in deep neural networks by randomly deactivating a fraction of neurons during training?",
+      "options": {
+        "A": "Batch Normalization",
+        "B": "Dropout",
+        "C": "L1 Regularization",
+        "D": "Early Stopping"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dropout is a regularization technique where, during training, a randomly selected fraction of neurons are 'dropped out' (set to zero) along with their connections. This forces the network to learn more robust features and prevents over-reliance on any single neuron."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Which type of Recurrent Neural Network (RNN) architecture is designed to address the vanishing gradient problem and better capture long-range dependencies in sequential data?",
+      "options": {
+        "A": "Simple RNN",
+        "B": "Feedforward Neural Network",
+        "C": "Long Short-Term Memory (LSTM)",
+        "D": "Convolutional Neural Network"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "LSTMs (Long Short-Term Memory networks) are a special kind of RNN that are capable of learning long-term dependencies. They achieve this through a 'gate' mechanism that regulates the flow of information through the cell state, effectively mitigating the vanishing gradient problem."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "When training a neural network, what does a 'loss function' (or cost function) measure?",
+      "options": {
+        "A": "The complexity of the model architecture.",
+        "B": "The accuracy of the model's predictions on the training data.",
+        "C": "The discrepancy between the predicted output and the actual target output.",
+        "D": "The computational resources consumed during training."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A loss function quantifies how 'bad' a model's prediction is, given the true label. The goal of training a neural network is to minimize this loss function."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Which popular deep learning framework is developed by Google and widely used for building and training neural networks?",
+      "options": {
+        "A": "Scikit-learn",
+        "B": "PyTorch",
+        "C": "TensorFlow",
+        "D": "Keras (as a standalone framework)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "TensorFlow is an open-source machine learning framework developed by Google, primarily for deep learning, offering tools for building, training, and deploying neural networks."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "What is the main benefit of using 'Batch Normalization' in deep neural networks?",
+      "options": {
+        "A": "It speeds up the training process and helps stabilize the network.",
+        "B": "It reduces the number of parameters in the network.",
+        "C": "It replaces the need for activation functions.",
+        "D": "It automatically selects the optimal learning rate."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Batch Normalization normalizes the inputs to a layer for each mini-batch. This helps in stabilizing the learning process, allowing for higher learning rates, and acts as a mild regularizer, often leading to faster convergence and improved performance."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "When is a 'Softmax' activation function typically used in a neural network?",
+      "options": {
+        "A": "In the hidden layers of a regression model.",
+        "B": "In the output layer of a binary classification model.",
+        "C": "In the output layer of a multi-class classification model.",
+        "D": "In the input layer for feature scaling."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Softmax is used in the output layer of a neural network for multi-class classification problems. It converts a vector of arbitrary real numbers into a probability distribution, where each value is between 0 and 1, and all values sum to 1."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "What is 'Transfer Learning' in the context of deep learning, and why is it beneficial?",
+      "options": {
+        "A": "Training a model on a different type of hardware.",
+        "B": "Using a pre-trained model on a large dataset as a starting point for a new, related task, saving training time and data.",
+        "C": "Converting a shallow neural network into a deep one.",
+        "D": "Transferring data between different cloud platforms."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Transfer learning involves taking a model pre-trained on a very large and general dataset (e.g., ImageNet for image classification) and fine-tuning it for a specific, often smaller, target dataset. This is beneficial as it requires less data and computational resources for the new task and often leads to better performance."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "What is the primary difference between a Simple RNN and a Gated Recurrent Unit (GRU)?",
+      "options": {
+        "A": "GRUs have more hidden layers than Simple RNNs.",
+        "B": "GRUs use a more complex gating mechanism to control information flow, offering better memory and mitigating vanishing gradients.",
+        "C": "Simple RNNs are primarily for image data, while GRUs are for text.",
+        "D": "GRUs do not have an activation function."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "GRUs are a simpler variant of LSTMs, also designed to address the vanishing gradient problem in RNNs. They use update and reset gates to regulate the flow of information, allowing them to capture long-term dependencies more effectively than simple RNNs, but with fewer parameters than LSTMs."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "When would you typically use a 'Dense' (or Fully Connected) layer in a deep learning model?",
+      "options": {
+        "A": "Only in the input layer to receive raw data.",
+        "B": "At the end of a network (e.g., after convolutional or recurrent layers) for classification or regression.",
+        "C": "For downsampling feature maps in CNNs.",
+        "D": "To handle sequential dependencies in data."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dense layers are typically used towards the end of a neural network architecture. After features have been extracted by convolutional or recurrent layers, dense layers take these high-level features and map them to the final output (e.g., class probabilities in classification or a continuous value in regression)."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "For a binary classification model, which metric measures the proportion of correctly predicted positive instances out of all actual positive instances?",
+      "options": {
+        "A": "Precision",
+        "B": "Accuracy",
+        "C": "Recall (Sensitivity)",
+        "D": "F1-Score"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Recall (also known as Sensitivity or True Positive Rate) is calculated as True Positives / (True Positives + False Negatives). It quantifies the model's ability to find all the positive samples."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "A medical diagnosis model has high recall but low precision. What does this imply?",
+      "options": {
+        "A": "It correctly identifies most healthy patients but also misdiagnoses many healthy patients as sick.",
+        "B": "It correctly identifies most sick patients but also misdiagnoses many healthy patients as sick.",
+        "C": "It correctly identifies most sick patients but misses many sick patients.",
+        "D": "It misdiagnoses both sick and healthy patients frequently."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High recall means the model finds most of the actual positive cases (sick patients). Low precision means that among the cases it predicts as positive, many are actually negative (misdiagnoses many healthy patients as sick). This might be acceptable if missing a sick patient (False Negative) is much worse than a false alarm (False Positive)."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "What is the purpose of a 'Confusion Matrix' in classification tasks?",
+      "options": {
+        "A": "To visualize the correlation between features.",
+        "B": "To summarize the performance of a classification algorithm.",
+        "C": "To identify outliers in the dataset.",
+        "D": "To determine the optimal learning rate for a model."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A Confusion Matrix is a table that is often used to describe the performance of a classification model on a set of test data for which the true values are known. It shows the counts of true positives, true negatives, false positives, and false negatives."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Which evaluation metric is the harmonic mean of precision and recall and is particularly useful when dealing with imbalanced datasets?",
+      "options": {
+        "A": "Accuracy",
+        "B": "ROC-AUC",
+        "C": "F1-Score",
+        "D": "Mean Absolute Error (MAE)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The F1-Score balances precision and recall, providing a single metric that is useful when there is an uneven class distribution, as it gives equal weight to both false positives and false negatives."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "What is 'Model Drift' in the context of deploying machine learning models?",
+      "options": {
+        "A": "When the model's predictions become inconsistent due to hardware failures.",
+        "B": "When the relationship between the input data and the target variable changes over time, causing the model's performance to degrade.",
+        "C": "When the model's code base is updated frequently.",
+        "D": "When the model becomes too large to fit in memory."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Model drift (or concept drift) occurs when the statistical properties of the target variable, which the model is trying to predict, change over time in unforeseen ways. This leads to the model's predictions becoming less accurate over time and necessitates retraining."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Which of the following describes an 'ethical dilemma' in AI development?",
+      "options": {
+        "A": "Choosing between two equally good performing models.",
+        "B": "Deciding whether to use a proprietary or open-source library.",
+        "C": "Balancing model accuracy with fairness and privacy concerns.",
+        "D": "Optimizing model training speed vs. model size."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ethical dilemmas in AI often involve situations where maximizing one desirable outcome (e.g., accuracy) might conflict with other ethical principles like fairness, transparency, or privacy. For example, a highly accurate model might inadvertently discriminate against certain groups."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "An AI system used in hiring decisions shows a statistically significant bias against certain demographic groups. What is the primary ethical concern here?",
+      "options": {
+        "A": "Lack of explainability.",
+        "B": "Algorithmic bias and discrimination.",
+        "C": "Data privacy.",
+        "D": "Computational cost."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Algorithmic bias and discrimination are critical ethical concerns when AI systems make decisions that affect people's lives, especially if these systems perpetuate or amplify existing societal inequalities based on protected characteristics."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "What is 'Explainable AI' (XAI) primarily concerned with?",
+      "options": {
+        "A": "Making AI models run faster.",
+        "B": "Making AI models more accurate.",
+        "C": "Helping humans understand why an AI model made a specific decision or prediction.",
+        "D": "Reducing the size of AI models for deployment."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Explainable AI (XAI) is a set of tools and techniques that allows users to understand the output of AI models. It addresses the 'black box' problem by making AI decisions more transparent, interpretable, and trustworthy."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "When evaluating a regression model, which metric is most sensitive to large errors (outliers)?",
+      "options": {
+        "A": "Mean Absolute Error (MAE)",
+        "B": "Root Mean Squared Error (RMSE)",
+        "C": "R-squared",
+        "D": "Mean Absolute Percentage Error (MAPE)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RMSE squares the errors before averaging them, which gives disproportionately higher weight to larger errors. This makes RMSE more sensitive to outliers compared to MAE, which averages the absolute differences."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "A machine learning model is ready for deployment. Which MLOps practice ensures that the model's performance is continuously monitored in a production environment?",
+      "options": {
+        "A": "Feature Engineering",
+        "B": "Model Versioning",
+        "C": "Continuous Monitoring",
+        "D": "Data Augmentation"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Continuous monitoring is a crucial MLOps practice that involves tracking the performance of deployed models (e.g., accuracy, latency, drift) to ensure they continue to meet business objectives and identify when retraining or updates are needed."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "What does the 'ROC-AUC' (Receiver Operating Characteristic - Area Under the Curve) score represent for a binary classification model?",
+      "options": {
+        "A": "The proportion of correct predictions at a single threshold.",
+        "B": "The model's ability to distinguish between positive and negative classes across all possible classification thresholds.",
+        "C": "The average squared difference between predictions and actual values.",
+        "D": "The ratio of true positives to true positives plus false positives."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "ROC-AUC measures the area under the Receiver Operating Characteristic curve, which plots the True Positive Rate (Recall) against the False Positive Rate at various threshold settings. A higher AUC indicates a better ability of the model to distinguish between classes."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "In the context of 'Fairness' in AI, what does 'Disparate Impact' refer to?",
+      "options": {
+        "A": "When an AI model is too complex to understand.",
+        "B": "When an AI model, despite being designed without explicit bias, leads to significantly different outcomes for different demographic groups.",
+        "C": "When the training data is too small to build a fair model.",
+        "D": "When an AI model makes random predictions."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Disparate impact occurs when a seemingly neutral AI policy or system, though not intentionally discriminatory, has a disproportionately negative effect on members of a protected class. It's about the outcome, not necessarily the intent."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Which tool or technique is commonly used to interpret the local predictions of any machine learning model by explaining individual predictions?",
+      "options": {
+        "A": "PCA (Principal Component Analysis)",
+        "B": "SHAP (SHapley Additive exPlanations)",
+        "C": "Grid Search",
+        "D": "K-Means Clustering"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "SHAP (SHapley Additive exPlanations) is a game-theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations by computing Shapley values, which represent the contribution of each feature to a particular prediction."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "A company is deploying a fraud detection model. What is a critical consideration for 'model versioning' in this MLOps pipeline?",
+      "options": {
+        "A": "Ensuring the model is always trained on the latest data.",
+        "B": "Tracking different iterations of the model and associated data, code, and hyperparameters for reproducibility and rollback.",
+        "C": "Minimizing the model's memory footprint.",
+        "D": "Automating the visualization of model predictions."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Model versioning is essential for tracking and managing different versions of a model, its training data, code, and hyperparameters. This ensures reproducibility, allows for easy rollback to previous versions if issues arise, and facilitates auditing."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "What is the primary risk of 'data leakage' during model evaluation?",
+      "options": {
+        "A": "The model will be too slow to make predictions.",
+        "B": "The model will perform poorly on the training data.",
+        "C": "The model's reported performance will be optimistically biased and not reflect true generalization ability.",
+        "D": "The model will be unable to handle missing values."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Data leakage occurs when information from the test set (or future data) inadvertently 'leaks' into the training process. This leads to an overly optimistic evaluation of the model's performance, as it has effectively seen some of the test data during training."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Which ethical principle emphasizes the need for AI systems to be transparent in their decision-making processes and to provide justifications for their outputs?",
+      "options": {
+        "A": "Autonomy",
+        "B": "Justice",
+        "C": "Explicability (Transparency/Explainability)",
+        "D": "Non-maleficence"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The principle of explicability (often referred to as transparency or explainability) in AI ethics calls for AI systems to be understandable, allowing users and stakeholders to comprehend how and why a system arrived at a particular decision or outcome."
+    }
+  ]
+}

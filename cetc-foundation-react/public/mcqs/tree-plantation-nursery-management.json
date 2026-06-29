@@ -1,0 +1,1443 @@
+{
+  "course_name": "Tree Plantation & Nursery Management",
+  "sector": "Environmental & Green Skills",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Tree Plantation & Its Importance",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Nursery Establishment & Management",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Seed Collection & Propagation Techniques",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Sapling Care & Maintenance",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Tree Planting Techniques & Post-Plantation Care",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Sustainable Practices & Project Management",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ped lagane ka primary reason kya hai?",
+      "options": {
+        "A": "Hawa ko saaf karna",
+        "B": "Lakdi bechna",
+        "C": "Sirf shadow provide karna",
+        "D": "Jaldi fruit lena"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ped lagane ka sabse mahatvapurna uddeshya paryavaran ko sudharna hai, jisme hawa ko saaf karna shamil hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Bharat mein Van Mahotsav kab manaya jata hai?",
+      "options": {
+        "A": "July ke pehle hafte mein",
+        "B": "October ke pehle hafte mein",
+        "C": "January ke pehle hafte mein",
+        "D": "April ke pehle hafte mein"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Van Mahotsav har saal July ke pehle hafte mein ped lagane ke mahatva ko badhane ke liye manaya jata hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Kaun sa ped oxygen production mein sabse zyada yogdan deta hai?",
+      "options": {
+        "A": "Banyan (Bargad)",
+        "B": "Mango (Aam)",
+        "C": "Eucalyptus (Safeda)",
+        "D": "Palm (Khajoor)"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Banyan jaise bade aur ghane ped zyada surface area aur lambi lifespan ke karan zyada oxygen produce karte hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Soil erosion ko rokne mein trees kaise help karte hain?",
+      "options": {
+        "A": "Apni jadon se mitti ko pakad kar",
+        "B": "Pani ko zyada absorb karke",
+        "C": "Pattiyon ko gira kar",
+        "D": "Sunshine ko block karke"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pedon ki jadein mitti ko pakad kar rakhti hain, jisse baarish aur hawa se hone wale mitti ke kataav (soil erosion) ko roka ja sakta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Arid regions mein kaun se type ke trees lagana preferable hota hai?",
+      "options": {
+        "A": "Kam pani mein jeene wale (drought-resistant)",
+        "B": "Zyada pani wale (water-loving)",
+        "C": "Bade patte wale (large-leaved)",
+        "D": "Tezi se badhne wale (fast-growing)"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Arid regions mein pani ki kami hoti hai, isliye wahan aise ped lagaye jate hain jo kam pani mein survive kar sakein."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Agroforestry ka kya matlab hai?",
+      "options": {
+        "A": "Kheti ke saath ped lagana",
+        "B": "Sirf ped lagana",
+        "C": "Sirf fasal ugna",
+        "D": "Jungle mein kheti karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Agroforestry ek land use management system hai jahan kheti aur pedon ko ek saath ugnaya jata hai, jisse dono ke fayde milte hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Greenhouse gas emissions ko kam karne mein trees ka kya role hai?",
+      "options": {
+        "A": "Carbon dioxide ko absorb karna",
+        "B": "Nitrogen ko release karna",
+        "C": "Oxygen ko consume karna",
+        "D": "Water vapor ko badhana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Trees photosynthesis ke process mein atmosphere se carbon dioxide ko absorb karte hain, jo ek pramukh greenhouse gas hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Biodiversity ko promote karne mein trees kaise help karte hain?",
+      "options": {
+        "A": "Animals aur birds ke liye habitat provide karke",
+        "B": "Sirf humans ko shelter dekar",
+        "C": "Soil ki fertility kam karke",
+        "D": "Ek hi type ke ped lagakar"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ped animals, birds aur insects ke liye shelter aur food provide karte hain, jisse biodiversity badhti hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Kaun sa tree 'sacred tree' mana jata hai Hindu mythology mein?",
+      "options": {
+        "A": "Peepal",
+        "B": "Neem",
+        "C": "Babul",
+        "D": "Sheesham"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Peepal ka ped Hindu dharm mein bahut pavitra mana jata hai aur iski pooja ki jaati hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Urban areas mein trees lagane ka ek disadvantage kya ho sakta hai?",
+      "options": {
+        "A": "Underground utility lines ko damage karna",
+        "B": "Hawa ko saaf karna",
+        "C": "Garmi kam karna",
+        "D": "Sound pollution kam karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Kuch bade pedon ki jadein underground pipes aur cables ko damage kar sakti hain, jo urban areas mein ek concern hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Kis type ki plantation se windbreak banaya ja sakta hai?",
+      "options": {
+        "A": "Rows mein ghane ped lagana",
+        "B": "Ek single ped lagana",
+        "C": "Shrubs lagana",
+        "D": "Grass lagana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Windbreak banane ke liye pedon ko ghani rows mein lagaya jata hai, jisse tez hawaon ko roka ja sake."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Trees ka medical importance kya hai?",
+      "options": {
+        "A": "Kai dawaiyon ka source hote hain",
+        "B": "Sirf oxygen dete hain",
+        "C": "Furniture banate hain",
+        "D": "Food provide karte hain"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Kai pedon ki pattiyan, chhal aur jaden traditional aur modern medicine mein upyog ki jaati hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Kaun sa tree apni anti-bacterial properties ke liye jana jata hai?",
+      "options": {
+        "A": "Neem",
+        "B": "Babul",
+        "C": "Peepal",
+        "D": "Mango"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Neem ka ped apni anti-bacterial, anti-fungal aur medicinal properties ke liye widely recognized hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Carbon sequestration kya hai?",
+      "options": {
+        "A": "Atmosphere se carbon dioxide ko absorb karna aur store karna",
+        "B": "Carbon dioxide ko release karna",
+        "C": "Carbon ko jalana",
+        "D": "Carbon se electricity banana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Carbon sequestration woh process hai jahan carbon dioxide ko atmosphere se remove karke long-term storage ke liye rakha jata hai, aur ped ismein mahatvapurna bhoomika nibhate hain."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Forests se milne wala non-timber forest product (NTFP) ka ek example kya hai?",
+      "options": {
+        "A": "Honey (Shahad)",
+        "B": "Timber (Lakdi)",
+        "C": "Plywood",
+        "D": "Firewood (Jalane wali lakdi)"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "NTFP mein woh products aate hain jo forests se milte hain lekin lakdi nahi hote, jaise honey, medicinal plants, fruits, gums, etc."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Ped lagane se local temperature par kya asar padta hai?",
+      "options": {
+        "A": "Temperature kam hota hai",
+        "B": "Temperature badhta hai",
+        "C": "Koi asar nahi hota",
+        "D": "Sirf raat mein badhta hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ped shade provide karte hain aur transpiration ke through surrounding air ko cool karte hain, jisse local temperature kam hota hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Monoculture plantation ka ek major disadvantage kya hai?",
+      "options": {
+        "A": "Pest aur disease ka zyada risk",
+        "B": "High yield",
+        "C": "Easy management",
+        "D": "Kam maintenance"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Monoculture mein ek hi type ke ped hone se, agar koi pest ya disease aata hai, toh woh poori plantation ko nuksan pahuncha sakta hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Nursery ke liye site selection karte samay sabse important factor kya hai?",
+      "options": {
+        "A": "Pani ki upalabdhta (Water availability)",
+        "B": "Road se door hona",
+        "C": "Bada area hona",
+        "D": "Sundar dikhna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Plants ko regular pani ki zaroorat hoti hai, isliye nursery ke liye pani ki achhi upalabdhta hona sabse mahatvapurna hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Nursery mein seedlings ko ugane ke liye kis type ki soil prefer ki jaati hai?",
+      "options": {
+        "A": "Loamy soil",
+        "B": "Clayey soil",
+        "C": "Sandy soil",
+        "D": "Rocky soil"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Loamy soil mein pani aur hawa ka santulan achha hota hai, jo seedlings ki growth ke liye ideal hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Seedlings ko transplant karne se pehle kis process se guzara jata hai?",
+      "options": {
+        "A": "Hardening off",
+        "B": "Softening up",
+        "C": "Washing",
+        "D": "Painting"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hardening off process mein seedlings ko gradually outdoor conditions ke liye prepare kiya jata hai, jisse transplant shock kam ho."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Nursery beds ki standard चौड़ाई (width) kitni honi chahiye?",
+      "options": {
+        "A": "1-1.2 meter",
+        "B": "2-3 meter",
+        "C": "0.5 meter",
+        "D": "4-5 meter"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Nursery beds ki standard चौड़ाई itni honi chahiye ki unke dono taraf se aasani se kaam kiya ja sake, jo आमतौर पर 1 se 1.2 meter hoti hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Nursery mein over-watering se kya ho sakta hai?",
+      "options": {
+        "A": "Root rot",
+        "B": "Tez growth",
+        "C": "Pattiyon ka bada hona",
+        "D": "Zyada phool aana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Over-watering se mitti mein oxygen ki kami ho jaati hai, jisse jadoon mein sadan (root rot) shuru ho jaati hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Shade net ka use nursery mein kyon kiya jata hai?",
+      "options": {
+        "A": "Tez dhoop se bachane ke liye",
+        "B": "Thandak badhane ke liye",
+        "C": "Pani rokne ke liye",
+        "D": "Pest control ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Shade net seedlings ko tez dhoop aur high temperature se bachane ke liye upyog kiya jata hai, especially summer mein."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Nursery mein soil sterilization ka kya matlab hai?",
+      "options": {
+        "A": "Mitti ko germs, pests aur weeds se mukt karna",
+        "B": "Mitti ko pani dena",
+        "C": "Mitti mein khaad dalna",
+        "D": "Mitti ko mix karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Soil sterilization woh process hai jismein mitti ko heat ya chemicals se treat karke usmein maujood harmful pathogens, pests aur weed seeds ko hataya jata hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Polybag mein plants ugane ka kya fayda hai?",
+      "options": {
+        "A": "Transplanting mein aasani",
+        "B": "Kam pani ki zaroorat",
+        "C": "Zyada growth",
+        "D": "Kam kharch"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Polybag mein ugaye gaye plants ko unki roots disturb kiye bina aasani se ek jagah se doosri jagah transplant kiya ja sakta hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Nursery mein tools ko clean aur maintain karna kyon important hai?",
+      "options": {
+        "A": "Diseases failane se rokne ke liye",
+        "B": "Unko naya dikhane ke liye",
+        "C": "Unki keemat badhane ke liye",
+        "D": "Sirf aesthetic purpose ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Clean tools diseases ko ek plant se doosre plant tak failne se rokte hain aur tools ki lifespan bhi badhate hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Seedlings ko nursery bed se nikalte samay kin baton ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Roots ko kam se kam disturb karna",
+        "B": "Jaldi se jaldi nikalna",
+        "C": "Sukhi mitti mein nikalna",
+        "D": "Pattiyon ko tod dena"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Seedlings ko nikalte samay roots ko damage hone se bachana chahiye, taki transplant shock kam ho aur survival rate badhe."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Nursery mein potting mixture mein sand kyon use karte hain?",
+      "options": {
+        "A": "Drainage improve karne ke liye",
+        "B": "Nutrients badhane ke liye",
+        "C": "Mitti ko bhari banane ke liye",
+        "D": "Pani rokne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Sand potting mixture mein drainage ko behtar banata hai, jisse pani jama nahi hota aur root rot ka khatra kam hota hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Vermi-compost ka use nursery mein kya fayda deta hai?",
+      "options": {
+        "A": "Soil ki fertility badhata hai",
+        "B": "Pest control karta hai",
+        "C": "Weed growth rokta hai",
+        "D": "Water absorption kam karta hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Vermi-compost ek organic fertilizer hai jo mitti ki quality, structure aur nutrient content ko sudharta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Nursery mein 'pricking out' kya hai?",
+      "options": {
+        "A": "Small seedlings ko ek jagah se doosri jagah transplant karna",
+        "B": "Bade pedon ko kaatna",
+        "C": "Weeds ko nikalna",
+        "D": "Seeds ko boona"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Pricking out woh process hai jismein thickly sown seeds se nikle chhote seedlings ko individually transplant kiya jata hai, jisse unhein zyada space aur nutrients mil sakein."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Nursery mein watering ke liye kaun sa method sabse efficient hai?",
+      "options": {
+        "A": "Drip irrigation",
+        "B": "Hose pipe se seedha pani dena",
+        "C": "Baalti se pani dena",
+        "D": "Sprinkler se tez pani dena"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Drip irrigation pani ko seedhe plant ki roots tak pahunchata hai, jisse pani ki bachat hoti hai aur evaporation kam hota hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Nursery mein soil pH level maintain karna kyon zaroori hai?",
+      "options": {
+        "A": "Nutrient availability ko control karne ke liye",
+        "B": "Mitti ko hard banane ke liye",
+        "C": "Pani ki matra badhane ke liye",
+        "D": "Sunshine ko block karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Soil pH level nutrients ki availability ko directly affect karta hai. Har plant type ke liye ek optimum pH range hoti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Nursery mein 'root pruning' ka kya uddeshya hai?",
+      "options": {
+        "A": "Roots ko compact aur fibrous banana",
+        "B": "Roots ko lamba karna",
+        "C": "Roots ko sikhana",
+        "D": "Roots ko remove karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Root pruning se roots ko trim kiya jata hai, jisse plant ke andar ek compact aur fibrous root system develop hota hai, jo transplanting ke liye behtar hota hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Nursery mein plant tags ka kya use hai?",
+      "options": {
+        "A": "Plant ki jaati, variety aur sowing date record karne ke liye",
+        "B": "Plants ko sundar dikhane ke liye",
+        "C": "Pest control ke liye",
+        "D": "Watering schedule batane ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Plant tags se har plant ki specific information (jaise species, variety, planting date) ko track karna आसान ho jata hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Seed collection ke liye sabse achha time kab hota hai?",
+      "options": {
+        "A": "Jab fruits aur seeds fully mature ho jayein",
+        "B": "Jab fruits kachhe hon",
+        "C": "Jab flowers khile hon",
+        "D": "Jab patte jhad rahe hon"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Seeds ko tabhi collect karna chahiye jab woh fully mature aur ripe ho jayein, tab unki germination capacity sabse achhi hoti hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Seed viability kya hai?",
+      "options": {
+        "A": "Seed ki germinate hone ki kshamta",
+        "B": "Seed ka weight",
+        "C": "Seed ka color",
+        "D": "Seed ka size"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Seed viability seed ki zinda rehne aur germinate hokar ek healthy plant banane ki kshamta ko darshati hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Seed dormancy ko break karne ke liye kaun sa method use kiya jata hai?",
+      "options": {
+        "A": "Scarification",
+        "B": "Fertilization",
+        "C": "Watering",
+        "D": "Weeding"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Scarification ek process hai jismein seed coat ko mechanically ya chemically scratch ya soft kiya jata hai, taki pani andar ja sake aur germination ho."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Vegetative propagation ka ek example kya hai?",
+      "options": {
+        "A": "Cuttings lagana",
+        "B": "Seeds boona",
+        "C": "Pollen transfer karna",
+        "D": "Fruits collect karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Vegetative propagation mein plant ke vegetative parts (jaise stem, leaf, root) se naye plants ugaye jate hain, cuttings uska ek common method hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Grafting mein do parts hote hain, ek stock aur doosra kya?",
+      "options": {
+        "A": "Scion",
+        "B": "Root",
+        "C": "Leaf",
+        "D": "Flower"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Grafting mein, stock root system provide karta hai aur scion desired shoot system (jisse fruits ya flowers aate hain) provide karta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Layering method mein naye plant ko kaise banaya jata hai?",
+      "options": {
+        "A": "Parent plant se attached rehte hue root develop karake",
+        "B": "Seed bo kar",
+        "C": "Stem ko kaat kar",
+        "D": "Leaf ko pani mein rakh kar"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Layering mein, plant ka ek branch parent plant se attached rehte hue mitti mein dabaya jata hai, jahan woh roots develop karta hai aur phir use alag kar diya jata hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Seeds ko store karte samay kis factor ka dhyan rakhna sabse zaroori hai?",
+      "options": {
+        "A": "Low moisture aur low temperature",
+        "B": "High moisture aur high temperature",
+        "C": "High light intensity",
+        "D": "Frequent watering"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Seeds ko low moisture aur low temperature par store karne se unki viability lambe samay tak bani rehti hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Seed germination ke liye kaun se conditions essential hain?",
+      "options": {
+        "A": "Pani, oxygen aur sahi temperature",
+        "B": "Sirf dhoop",
+        "C": "Sirf khaad",
+        "D": "Sirf tez hawa"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Seeds ko germinate hone ke liye pani (hydration), oxygen (respiration ke liye) aur ek optimum temperature range ki zaroorat hoti hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Tissue culture kis type ki propagation technique hai?",
+      "options": {
+        "A": "In-vitro vegetative propagation",
+        "B": "Seed propagation",
+        "C": "Natural vegetative propagation",
+        "D": "Sexual propagation"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Tissue culture ek advanced method hai jahan plant cells, tissues ya organs ko sterile conditions mein ek nutrient medium par grow kiya jata hai, jisse bade paimane par plants banaye ja sakein."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Hardwood cuttings kis season mein li jaati hain?",
+      "options": {
+        "A": "Dormant season (winter)",
+        "B": "Growing season (summer)",
+        "C": "Spring",
+        "D": "Monsoon"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hardwood cuttings usually dormant season mein li jaati hain jab plant par koi patte nahi hote, aur unhein root develop karne ke liye time milta hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Seed treatment ka kya fayda hai?",
+      "options": {
+        "A": "Pests aur diseases se bachana",
+        "B": "Seed ka size badhana",
+        "C": "Seed ka color change karna",
+        "D": "Seed ko meetha banana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Seed treatment mein fungicides ya insecticides se seeds ko treat kiya jata hai, jisse woh sowing ke baad pests aur diseases se surakshit rahein."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Apomixis kya hai?",
+      "options": {
+        "A": "Sexual reproduction ke bina seed formation",
+        "B": "Cross-pollination",
+        "C": "Self-pollination",
+        "D": "Vegetative propagation ka ek type"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Apomixis ek prakriya hai jismein bina fertilization ke seeds ban jate hain, jisse parent plant ke exact clones produce hote hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Rooting hormone ka use cuttings mein kyon karte hain?",
+      "options": {
+        "A": "Roots ki formation ko stimulate karne ke liye",
+        "B": "Pattiyon ko bada karne ke liye",
+        "C": "Flowers ko badhane ke liye",
+        "D": "Pest control ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Rooting hormone cuttings mein jadon ke vikas ko badhawa deta hai, jisse success rate badhta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Budding kis type ki propagation technique hai?",
+      "options": {
+        "A": "Grafting ka ek prakar",
+        "B": "Seed propagation",
+        "C": "Layering",
+        "D": "Cuttings"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Budding ek grafting technique hai jismein ek single bud ko ek stock par attach kiya jata hai, bajaye ki poore scion ke."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Seed drill ka kya fayda hai?",
+      "options": {
+        "A": "Seeds ko uniform depth aur spacing par boona",
+        "B": "Hath se seeds boona",
+        "C": "Seeds ko store karna",
+        "D": "Seeds ko saaf karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Seed drill ek agricultural implement hai jo seeds ko mitti mein ek uniform depth aur spacing par boone mein help karta hai, jisse achhi germination hoti hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Stratification kya hai?",
+      "options": {
+        "A": "Seeds ko cold aur moist conditions mein rakhna",
+        "B": "Seeds ko garam pani mein bhigona",
+        "C": "Seeds ko dhoop mein sukhana",
+        "D": "Seeds ko chemicals se treat karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Stratification ek process hai jismein seeds ko cold aur moist conditions mein rakha jata hai, taaki unki dormancy break ho aur woh germinate ho sakein."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Air layering ke liye kis cheez ka use kiya jata hai?",
+      "options": {
+        "A": "Moist sphagnum moss aur plastic wrap",
+        "B": "Dry sand",
+        "C": "Pani ka container",
+        "D": "Sirf mitti"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Air layering mein, ek branch par cut lagakar use moist sphagnum moss se cover kiya jata hai aur plastic wrap se bandh diya jata hai, jisse roots develop ho sakein."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Saplings ko watering karte samay kis baat ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Mitti ko moist rakhna, zyada gila nahi",
+        "B": "Mitti ko poori tarah se sukha dena",
+        "C": "Har din ek hi matra mein pani dena",
+        "D": "Sirf pattiyon par pani dalna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Saplings ko over-watering aur under-watering dono se bachana chahiye. Mitti ko consistently moist rakhna ideal hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Weeding ka kya fayda hai saplings ke liye?",
+      "options": {
+        "A": "Nutrients aur pani ke liye competition kam karna",
+        "B": "Saplings ko support dena",
+        "C": "Soil erosion badhana",
+        "D": "Pest attract karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Weeds saplings ke saath nutrients, pani aur light ke liye compete karte hain, unhein hatane se saplings ko behtar growth milti hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Saplings mein fertilizers kab apply karne chahiye?",
+      "options": {
+        "A": "Jab plant active growth stage mein ho",
+        "B": "Jab plant dormant ho",
+        "C": "Jab plant mein phool aa rahe hon",
+        "D": "Jab plant fruit de raha ho"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Fertilizers ko tabhi apply karna chahiye jab plant active growth mein ho, taki woh nutrients ko effectively use kar sake."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Damping-off disease kisko affect karti hai?",
+      "options": {
+        "A": "Young seedlings ko, unke stem base par",
+        "B": "Mature pedon ki pattiyon ko",
+        "C": "Pedon ke phoolon ko",
+        "D": "Pedon ke fruits ko"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Damping-off ek fungal disease hai jo young seedlings ko unke stem base par attack karti hai, jisse woh gir jate hain aur mar jate hain."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Mulching ka kya benefit hai saplings ke liye?",
+      "options": {
+        "A": "Soil moisture maintain karna aur weeds ko suppress karna",
+        "B": "Pest attract karna",
+        "C": "Temperature badhana",
+        "D": "Roots ko expose karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mulch mitti ki nami ko banaye rakhta hai, soil temperature ko regulate karta hai aur weeds ko control karta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Saplings ko over-fertilize karne se kya nuksan ho sakta hai?",
+      "options": {
+        "A": "Root burn aur plant death",
+        "B": "Tez growth",
+        "C": "Zyada phool",
+        "D": "Pattiyon ka bada hona"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Excessive fertilizers mitti mein salt build-up karte hain, jisse roots jal sakti hain aur plant mar sakta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Integrated Pest Management (IPM) ka kya principle hai?",
+      "options": {
+        "A": "Pests ko control karne ke liye multiple methods ka use karna",
+        "B": "Sirf chemical pesticides use karna",
+        "C": "Sirf biological control use karna",
+        "D": "Pests ko ignore karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "IPM mein pests ko control karne ke liye biological, cultural, physical aur chemical methods ka combination use kiya jata hai, jisse environmental impact kam ho."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Saplings ko sunlight ki kitni zaroorat hoti hai?",
+      "options": {
+        "A": "Zyadatar saplings ko full sun ya partial shade",
+        "B": "Sirf shade",
+        "C": "Sirf andhera",
+        "D": "Direct sunlight bilkul nahi"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Zyadatar saplings ko healthy growth ke liye पर्याप्त sunlight ki zaroorat hoti hai, ya toh full sun ya partial shade, depending on species."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Aphids jaise pests ko control karne ke liye kya natural method use kar sakte hain?",
+      "options": {
+        "A": "Ladybugs ka use karna (biological control)",
+        "B": "Tez chemical spray karna",
+        "C": "Plants ko pani mein dubo dena",
+        "D": "Plants ko kaat dena"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ladybugs aphids ke natural predators hote hain, unka use biological pest control ka ek effective tarika hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Saplings mein micronutrient deficiency ke kya symptoms ho sakte hain?",
+      "options": {
+        "A": "Pattiyon ka peela padna (chlorosis) ya stunted growth",
+        "B": "Roots ka lamba hona",
+        "C": "Zyada phool aana",
+        "D": "Tez growth"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Micronutrient deficiencies se plants mein chlorosis (iron, manganese deficiency), stunted growth aur anya vikas sambandhi samasyayein ho sakti hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Saplings ko protect karne ke liye fencing kyon zaroori hai?",
+      "options": {
+        "A": "Animals se bachane ke liye",
+        "B": "Zyada dhoop se bachane ke liye",
+        "C": "Zyada baarish se bachane ke liye",
+        "D": "Unko sundar dikhane ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Fencing saplings ko grazing animals aur anya wildlife se hone wale nuksan se bachati hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Pruning ka kya uddeshya hai saplings mein?",
+      "options": {
+        "A": "Plant ki shape ko maintain karna aur unhealthy parts ko remove karna",
+        "B": "Plant ko chhota karna",
+        "C": "Pattiyon ko hatana",
+        "D": "Roots ko kaatna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Pruning se plant ki shape maintain hoti hai, dead ya diseased branches ko remove kiya jata hai, aur overall plant health aur growth ko promote kiya jata hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Nursery mein diseases failane ka ek common source kya hai?",
+      "options": {
+        "A": "Unsterilized tools",
+        "B": "Clean water",
+        "C": "Fresh air",
+        "D": "Healthy soil"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Unsterilized tools se diseases ek plant se doosre plant tak aasani se fail sakte hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Saplings mein 'etiolation' kis karan hota hai?",
+      "options": {
+        "A": "Light ki kami ke karan lamba aur kamzor growth",
+        "B": "Zyada pani ke karan",
+        "C": "Zyada khaad ke karan",
+        "D": "Thandak ke karan"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Etiolation ek phenomenon hai jismein plants light ki kami ke karan lambe, patle aur peele ho jate hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Bio-pesticides ka kya fayda hai?",
+      "options": {
+        "A": "Environmentally friendly aur target-specific",
+        "B": "Tez asar karte hain",
+        "C": "Saste hote hain",
+        "D": "Lambe samay tak rehte hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bio-pesticides natural substances se bane hote hain, jo environment ke liye kam harmful hote hain aur aksar specific pests ko target karte hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Saplings ko transport karte samay kin baton ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Roots ko moist aur protected rakhna",
+        "B": "Roots ko sukhana",
+        "C": "Pattiyon ko tod dena",
+        "D": "Direct sunlight mein rakhna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Transport ke dauran roots ko damage aur sukhne se bachana zaroori hai, isliye unhein moist aur protected rakhna chahiye."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Nursery mein pest aur disease monitoring kyon important hai?",
+      "options": {
+        "A": "Early detection aur timely action ke liye",
+        "B": "Sirf record rakhne ke liye",
+        "C": "Plants ko stress dene ke liye",
+        "D": "Management cost badhane ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Regular monitoring se pests aur diseases ko shuruwat mein hi detect kiya ja sakta hai, jisse unhein control karna aasan ho jata hai aur bade nuksan se bacha ja sakta hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Tree plantation ke liye pit digging ka kya purpose hai?",
+      "options": {
+        "A": "Roots ko expand hone ke liye space dena",
+        "B": "Sirf plant ko khada karna",
+        "C": "Pani ko jama karna",
+        "D": "Mitti ko compact karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pit digging se roots ko mitti mein aasani se failne aur establish hone ke liye sufficient space milta hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Ped lagate samay, root collar (jahan stem roots se milta hai) ko kahan hona chahiye?",
+      "options": {
+        "A": "Ground level par",
+        "B": "Ground level se neeche",
+        "C": "Ground level se upar",
+        "D": "Kisi bhi level par"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Root collar ko ground level par rakhna chahiye. Zyada gehra lagane se stem rot ho sakta hai, aur zyada upar lagane se roots expose ho sakti hain."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Tree guard ka kya use hai naye lagaye hue pedon ke liye?",
+      "options": {
+        "A": "Animals aur physical damage se bachane ke liye",
+        "B": "Zyada dhoop se bachane ke liye",
+        "C": "Pani rokne ke liye",
+        "D": "Ped ko lamba karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Tree guards young trees ko grazing animals, mechanical damage aur vandalism se protect karte hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Staking (ped ko sahara dena) kyon zaroori hai?",
+      "options": {
+        "A": "Young pedon ko tez hawa se bachane aur seedha rakhne ke liye",
+        "B": "Roots ko failane ke liye",
+        "C": "Pattiyon ko support dene ke liye",
+        "D": "Ped ko chhota rakhne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Staking young pedon ko tez hawaon aur physical disturbances se bachata hai, jisse unki roots mitti mein achhe se establish ho sakein."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Plantation ke baad initial watering kitni honi chahiye?",
+      "options": {
+        "A": "Achhe se gila karna, taki air pockets na rahein",
+        "B": "Thoda sa pani dena",
+        "C": "Bilkul pani nahi dena",
+        "D": "Sirf pattiyon par pani dalna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Plantation ke turant baad achhe se pani dena zaroori hai, jisse mitti roots ke around settle ho jaye aur koi air pockets na rahein."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Container-grown trees ko lagate samay kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Roots ko gently loosen karna",
+        "B": "Roots ko compact rakhna",
+        "C": "Container ke saath lagana",
+        "D": "Roots ko kaat dena"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Container-grown trees mein aksar roots pot-bound ho jaati hain. Unhein lagane se pehle gently loosen karna chahiye, taki woh mitti mein fail sakein."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Bare-root trees ko lagane ka sabse achha time kab hai?",
+      "options": {
+        "A": "Dormant season mein",
+        "B": "Summer mein",
+        "C": "Jab phool khile hon",
+        "D": "Jab fruit aa rahe hon"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Bare-root trees ko dormant season mein lagana chahiye, jab unke paas energy store ho aur unhein transplant shock se recover hone ka time mile."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Tree planting ke baad 'saucer' kyon banaya jata hai?",
+      "options": {
+        "A": "Pani ko roots tak pahunchane ke liye",
+        "B": "Ped ko seedha rakhne ke liye",
+        "C": "Pest control ke liye",
+        "D": "Soil erosion badhane ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ped ke charon taraf ek chhota sa 'saucer' banaya jata hai, jisse pani jama ho aur dheere-dheere roots tak absorb ho."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Tree plantation mein spacing kyon important hai?",
+      "options": {
+        "A": "Har ped ko proper light, water aur nutrients mil sakein",
+        "B": "Sirf zyada ped lagane ke liye",
+        "C": "Maintenance kam karne ke liye",
+        "D": "Road banane ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Proper spacing se har ped ko apni growth ke liye zaroori resources milte hain aur competition kam hota hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Kis type ke ped roadsides par lagane ke liye suitable nahi hote?",
+      "options": {
+        "A": "Badi aur shallow roots wale ped",
+        "B": "Deep roots wale ped",
+        "C": "Chhote ped",
+        "D": "Fruit-bearing ped"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Badi aur shallow roots wale ped roads aur pavements ko damage kar sakte hain, isliye unhein roadsides par lagana avoid kiya jata hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Tree planting ke baad dead branches ko remove karna kyon important hai?",
+      "options": {
+        "A": "Disease spread rokne aur plant health improve karne ke liye",
+        "B": "Ped ko chhota karne ke liye",
+        "C": "Pattiyon ko badhane ke liye",
+        "D": "Sirf aesthetic purpose ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Dead branches diseases ko attract kar sakti hain aur healthy growth ko rok sakti hain, isliye unhein remove karna chahiye."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Plantation site preparation mein soil testing kyon important hai?",
+      "options": {
+        "A": "Soil pH aur nutrient content janne ke liye",
+        "B": "Mitti ko gila karne ke liye",
+        "C": "Pest control ke liye",
+        "D": "Sirf records ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Soil testing se mitti ki composition, pH aur nutrient deficiencies ka pata chalta hai, jisse sahi ped ka selection aur amendments kiye ja sakte hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Transplant shock ke symptoms kya hain?",
+      "options": {
+        "A": "Pattiyon ka murjhana, girna aur growth slow hona",
+        "B": "Tez growth",
+        "C": "Zyada phool aana",
+        "D": "Pattiyon ka hara hona"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Transplant shock tab hota hai jab plant ko ek jagah se doosri jagah move kiya jata hai, jisse uski roots disturb hoti hain aur woh temporarily stress mein aa jata hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Pits mein organic matter (jaise compost) kyon add karte hain?",
+      "options": {
+        "A": "Soil structure, fertility aur water retention improve karne ke liye",
+        "B": "Mitti ko hard banane ke liye",
+        "C": "Pest attract karne ke liye",
+        "D": "Pani ka drainage kam karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Organic matter mitti ki quality ko kai tarah se sudharta hai, jisse roots ko achhi growth milti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Plantation ke baad roots ko drying se bachane ke liye kya karna chahiye?",
+      "options": {
+        "A": "Mulching karna",
+        "B": "Unhein expose karna",
+        "C": "Unpar chemical spray karna",
+        "D": "Unhein kaat dena"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mulching mitti ki nami ko banaye rakhta hai aur roots ko sukhne se bachata hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Ek achhe tree planting project mein survival rate kitna target kiya jata hai?",
+      "options": {
+        "A": "Minimum 70-80%",
+        "B": "20-30%",
+        "C": "40-50%",
+        "D": "100%"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Ek successful tree planting project mein, proper care aur management ke saath, 70-80% ya usse zyada survival rate target kiya jata hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Sustainable tree plantation ka kya matlab hai?",
+      "options": {
+        "A": "Paryavaran ko nuksan pahunchaye bina ped lagana aur manage karna",
+        "B": "Sirf tezi se badhne wale ped lagana",
+        "C": "Zyada chemicals use karna",
+        "D": "Sirf profit ke liye ped lagana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sustainable plantation mein long-term ecological balance aur resource conservation ka dhyan rakha jata hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Tree plantation projects mein community participation kyon important hai?",
+      "options": {
+        "A": "Project ki success aur longevity ke liye",
+        "B": "Sirf labor cost kam karne ke liye",
+        "C": "Government funds attract karne ke liye",
+        "D": "Sirf social activity ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Community participation se logon mein ownership ki feeling aati hai aur woh pedon ki dekhbhal mein active role nibhate hain, jisse project ki success rate badhti hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Record keeping ka kya fayda hai nursery aur plantation management mein?",
+      "options": {
+        "A": "Decision making aur future planning ke liye data provide karna",
+        "B": "Sirf tax purposes ke liye",
+        "C": "Kaam ko mushkil banana",
+        "D": "Sirf time waste karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Accurate records se yeh pata chalta hai ki kaun se methods effective hain, kya problems aayi hain, aur kaise future projects ko improve kiya ja sakta hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Safety equipment jaise gloves aur safety shoes kyon zaroori hain?",
+      "options": {
+        "A": "Choton se bachne ke liye",
+        "B": "Fashion ke liye",
+        "C": "Kaam ko slow karne ke liye",
+        "D": "Zyada garmi se bachne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Safety equipment workers ko cuts, punctures aur anya physical injuries se bachate hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Government schemes jaise 'Green India Mission' ka kya uddeshya hai?",
+      "options": {
+        "A": "India ke forest cover ko badhana aur climate change se ladna",
+        "B": "Sirf cities ko sundar banana",
+        "C": "Sirf lakdi produce karna",
+        "D": "Sirf wildlife protect karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Green India Mission India ke climate change action plan ka ek hissa hai, jiska aim forest cover ko badhana aur ecosystem services ko restore karna hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Environmental Impact Assessment (EIA) ka kya matlab hai?",
+      "options": {
+        "A": "Kisi project ke environment par hone wale asar ka evaluation",
+        "B": "Sirf project ki cost estimate karna",
+        "C": "Sirf social impact dekhna",
+        "D": "Sirf economic benefits dekhna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "EIA ek process hai jo proposed project ke environmental consequences ko identify, predict, evaluate aur mitigate karta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Water conservation practices mein se kaun sa method nursery mein use kiya ja sakta hai?",
+      "options": {
+        "A": "Rainwater harvesting",
+        "B": "Din mein tez dhoop mein pani dena",
+        "C": "Pani ko waste karna",
+        "D": "Sirf fresh water use karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Rainwater harvesting se baarish ke pani ko collect aur store kiya jata hai, jise baad mein plants ko pani dene ke liye use kiya ja sakta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Hazardous waste ko kaise dispose karna chahiye nursery mein?",
+      "options": {
+        "A": "Properly label karke aur authorized disposal sites par",
+        "B": "Normal dustbin mein fenk dena",
+        "C": "Mitti mein daba dena",
+        "D": "Nadi mein baha dena"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hazardous waste (jaise chemical containers) ko sahi tarike se dispose karna zaroori hai, taki environment aur health ko nuksan na ho."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Nursery mein waste management ka kya principle hai?",
+      "options": {
+        "A": "Reduce, Reuse, Recycle",
+        "B": "Collect, Burn, Bury",
+        "C": "Ignore, Dump, Forget",
+        "D": "Produce, Store, Dispose"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Reduce (waste kam karna), Reuse (cheezon ko dobara use karna) aur Recycle (waste ko naye products mein convert karna) waste management ke core principles hain."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Job-oriented skills mein 'teamwork' kyon important hai plantation projects mein?",
+      "options": {
+        "A": "Bade projects ko efficiently complete karne ke liye",
+        "B": "Sirf social interaction ke liye",
+        "C": "Individual recognition ke liye",
+        "D": "Kaam ko dheere karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Bade plantation projects mein kai log ek saath kaam karte hain, jahan teamwork se goals ko achieve karna aasan ho jata hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Kaun sa act India mein forest conservation se related hai?",
+      "options": {
+        "A": "Forest (Conservation) Act, 1980",
+        "B": "Water (Prevention and Control of Pollution) Act, 1974",
+        "C": "Air (Prevention and Control of Pollution) Act, 1981",
+        "D": "Environment (Protection) Act, 1986"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Forest (Conservation) Act, 1980 India mein forests ke preservation aur diversion ko regulate karta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Nursery mein chemical fertilizers ka over-reliance kyon avoid karna chahiye?",
+      "options": {
+        "A": "Soil health ko nuksan pahuncha sakte hain aur water pollution kar sakte hain",
+        "B": "Saste hote hain",
+        "C": "Tez asar karte hain",
+        "D": "Plants ko zyada healthy banate hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Chemical fertilizers ka zyada use mitti ki natural fertility ko kam kar sakta hai aur groundwater mein leech hokar water pollution bhi kar sakta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Organic farming practices mein soil fertility kaise maintain ki jaati hai?",
+      "options": {
+        "A": "Compost, green manure aur crop rotation se",
+        "B": "Chemical fertilizers se",
+        "C": "Pesticides se",
+        "D": "Sirf pani se"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Organic farming mein soil health aur fertility ko natural methods jaise compost, green manure aur crop rotation se maintain kiya jata hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Carbon footprint kam karne mein tree plantation ka kya role hai?",
+      "options": {
+        "A": "Atmospheric carbon dioxide ko absorb karke",
+        "B": "Zyada energy consume karke",
+        "C": "Greenhouse gases release karke",
+        "D": "Sirf aesthetic value badhakar"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ped carbon dioxide ko absorb karke carbon sequestration karte hain, jisse hamara carbon footprint kam hota hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Certification for sustainable forestry (jaise FSC) ka kya matlab hai?",
+      "options": {
+        "A": "Forest products ko responsibly managed sources se certify karna",
+        "B": "Sirf illegal logging ko promote karna",
+        "C": "Forests ko destroy karna",
+        "D": "Sirf profit ke liye forests use karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "FSC (Forest Stewardship Council) jaise certifications yeh ensure karte hain ki forest products aise forests se aate hain jinka management environmental, social aur economic roop se responsible hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek successful tree plantation project mein post-plantation care kitne samay tak zaroori hai?",
+      "options": {
+        "A": "Kam se kam 3-5 saal tak",
+        "B": "Sirf pehla saal",
+        "C": "Sirf jab tak ped chhota ho",
+        "D": "Bilkul zaroori nahi"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ped lagane ke baad kam se kam 3-5 saal tak regular care (watering, weeding, protection) zaroori hai, taki woh achhe se establish ho sakein."
+    }
+  ]
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "Accounting & Bookkeeping Basics",
+  "sector": "Business, Retail & Finance",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Accounting",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Journal & Ledger",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Subsidiary Books & Cash Book",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Trial Balance & Rectification of Errors",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Final Accounts",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "GST & Basic Taxation",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Accounting ka sabse important objective kya hai?",
+      "options": {
+        "A": "Business transactions ko systematically record karna",
+        "B": "Sirf tax calculate karna",
+        "C": "Employees ki salary manage karna",
+        "D": "Marketing strategy banana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Accounting ka primary function business ke sabhi financial transactions ko ek systematic tareeke se record karna, classify karna aur summarize karna hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Assets = Liabilities + ________. Accounting equation ko pura karen.",
+      "options": {
+        "A": "Expenses",
+        "B": "Capital",
+        "C": "Revenue",
+        "D": "Drawings"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fundamental accounting equation hai: Assets = Liabilities + Capital (or Equity). Iska matlab hai ki ek business ke saare assets ya to liabilities (bahari logon ka paisa) ya capital (owner ka paisa) se finance hote hain."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Business ke owner dwara personal use ke liye nikale gaye paise ya saaman ko kya kehte hain?",
+      "options": {
+        "A": "Capital",
+        "B": "Asset",
+        "C": "Drawings",
+        "D": "Liability"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Jab owner business se cash ya goods apne personal istemal ke liye nikalta hai, to use 'Drawings' kehte hain. Yeh capital ko kam karta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Real Accounts ka rule kya hai?",
+      "options": {
+        "A": "Debit the receiver, Credit the giver",
+        "B": "Debit what comes in, Credit what goes out",
+        "C": "Debit all expenses and losses, Credit all incomes and gains",
+        "D": "Upar diye gaye sabhi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Real Accounts (jaise Cash, Machinery, Building) assets se related hote hain. Inka rule hai: Jo asset business mein aaye use Debit karo, aur jo jaaye use Credit karo."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "'Going Concern Concept' ka kya matlab hai?",
+      "options": {
+        "A": "Business jald hi band ho jayega",
+        "B": "Business anishchit kaal tak chalta rahega",
+        "C": "Business sirf ek saal ke liye hai",
+        "D": "Business hamesha profit kamayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Going Concern Concept yeh maanta hai ki business future mein bhi chalta rahega aur use band karne ka koi irada nahi hai. Isi concept ke आधार par fixed assets ko unki cost par dikhaya jaata hai, market value par nahi."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Cash, Bank Balance, aur Furniture, ye sab kiske examples hain?",
+      "options": {
+        "A": "Liabilities",
+        "B": "Capital",
+        "C": "Assets",
+        "D": "Expenses"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Assets woh economic resources hain jo business own karta hai aur jisse future mein economic benefit milne ki ummeed hoti hai. Cash, Bank Balance, aur Furniture sabhi assets hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Accounting cycle ka pehla step kya hota hai?",
+      "options": {
+        "A": "Trial Balance banana",
+        "B": "Ledger mein posting karna",
+        "C": "Transactions ko pehchanna aur Journal mein record karna",
+        "D": "Final Accounts banana"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Accounting cycle ki shuruaat financial transactions ko pehchanne aur unhe source documents (jaise bills, receipts) ke आधार par Journal mein record karne se hoti hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Creditors (jinko paisa dena hai) business ke liye kya hote hain?",
+      "options": {
+        "A": "Asset",
+        "B": "Liability",
+        "C": "Expense",
+        "D": "Income"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Creditors woh log ya businesses hain jinse humne udhaar par saaman ya service li hai aur unhe paisa chukana hai. Yeh business ke liye ek 'Liability' (dayitva) hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "'Accrual Basis of Accounting' mein, revenue ko kab record kiya jaata hai?",
+      "options": {
+        "A": "Jab cash receive ho",
+        "B": "Jab revenue earn ho jaaye, bhale hi cash na mila ho",
+        "C": "Jab customer order place kare",
+        "D": "Jab financial year khatam ho"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Accrual basis ke anusaar, revenue ko tabhi record kar liya jaata hai jab woh earn ho jaati hai (yaani jab goods deliver ho jaate hain ya service de di jaati hai), isse fark nahi padta ki cash kab mila."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Capital account kis type ka account hai?",
+      "options": {
+        "A": "Personal Account",
+        "B": "Real Account",
+        "C": "Nominal Account",
+        "D": "Asset Account"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Capital account business ke owner ko represent karta hai. Kyunki yeh ek person (owner) se related hai, isliye ise Personal Account mana jaata hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek company ki financial health aur performance ko janne ke liye kya taiyar kiya jaata hai?",
+      "options": {
+        "A": "Employee attendance sheet",
+        "B": "Financial Statements (Balance Sheet and P&L Account)",
+        "C": "Marketing reports",
+        "D": "Stock register"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Financial Statements, jismein Profit & Loss Account aur Balance Sheet shamil hain, ek company ki ek particular period ki financial performance aur ek particular date par financial position ko darshate hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Bookkeeping ka mool uddeshya kya hai?",
+      "options": {
+        "A": "Financial decisions lena",
+        "B": "Sabhi financial transactions ko sahi dhang se record karna",
+        "C": "Company ki policy banana",
+        "D": "Tax planning karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bookkeeping accounting ka woh hissa hai jismein rozmarra ke financial transactions ko systematically record kiya jaata hai. Yeh accounting process ka foundation hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "'Materiality Concept' ke anusaar, ek accountant ko kya karna chahiye?",
+      "options": {
+        "A": "Har choti se choti cheez ko alag se record karna chahiye",
+        "B": "Sirf unhi items par focus karna chahiye jo financial decisions ko prabhavit kar sakti hain",
+        "C": "Sabhi items ko ek jaisa maanna chahiye",
+        "D": "Sirf cash transactions ko record karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Materiality concept kehta hai ki accountants ko sirf unhi information aur items ko alag se disclose karna chahiye jo significant (material) hain aur users ke decisions ko influence kar sakti hain. Chote-mote an insignificant items ko ignore ya merge kiya jaa sakta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Nominal Accounts ka rule kya hai?",
+      "options": {
+        "A": "Debit the receiver, Credit the giver",
+        "B": "Debit what comes in, Credit what goes out",
+        "C": "Debit all expenses and losses, Credit all incomes and gains",
+        "D": "Inme se koi nahi"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Nominal Accounts (jaise Salary, Rent, Commission, Sales) sabhi expenses, losses, incomes aur gains se related hote hain. Inka rule hai: Sabhi kharchon aur nuksan ko Debit karo, aur sabhi aay aur faydon ko Credit karo."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Bank se liya gaya loan, business ke liye kya hai?",
+      "options": {
+        "A": "Current Asset",
+        "B": "Fixed Asset",
+        "C": "Liability",
+        "D": "Revenue"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bank loan ek karz hai jo business ko chukana hota hai. Isliye yeh ek liability (dayitva) hai."
+    },
+    {
+      "qno": 16,
+      "module": 2,
+      "question": "Journal ko 'Book of ________' bhi kaha jaata hai.",
+      "options": {
+        "A": "Final Entry",
+        "B": "Original Entry",
+        "C": "Secondary Entry",
+        "D": "Summary"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Journal mein transactions ko pehli baar record kiya jaata hai, isliye ise 'Book of Original Entry' ya 'Prime Entry' kehte hain."
+    },
+    {
+      "qno": 17,
+      "module": 2,
+      "question": "'Debit the receiver, Credit the giver' - yeh rule kis type ke account par lagu hota hai?",
+      "options": {
+        "A": "Real Account",
+        "B": "Nominal Account",
+        "C": "Personal Account",
+        "D": "Sabhi par"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Yeh Personal Accounts ka golden rule hai. Personal accounts individuals, firms, ya companies se related hote hain. Jo paane wala (receiver) hai use Debit aur jo dene wala (giver) hai use Credit karte hain."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Aapne office ke liye Rs. 20,000 ka furniture kharida aur cash mein payment ki. Sahi journal entry kya hogi?",
+      "options": {
+        "A": "Purchases A/c Dr. To Cash A/c",
+        "B": "Furniture A/c Dr. To Cash A/c",
+        "C": "Cash A/c Dr. To Furniture A/c",
+        "D": "Office Expenses A/c Dr. To Cash A/c"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Furniture ek asset hai. Rule ke anusaar 'Debit what comes in', isliye Furniture A/c debit hoga. Cash bhi ek asset hai jo jaa raha hai, 'Credit what goes out', isliye Cash A/c credit hoga."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Journal se entries ko Ledger mein transfer karne ki process ko kya kehte hain?",
+      "options": {
+        "A": "Journalizing",
+        "B": "Balancing",
+        "C": "Posting",
+        "D": "Summarizing"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Journal mein record ki gayi entries ko unke respective accounts mein Ledger mein transfer karne ki kriya ko 'Ledger Posting' kehte hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Ram ko Rs. 5,000 cash pay kiya. Is transaction mein kaun sa account credit hoga?",
+      "options": {
+        "A": "Ram's A/c",
+        "B": "Cash A/c",
+        "C": "Purchases A/c",
+        "D": "Sales A/c"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Is transaction mein Ram receiver hai, isliye Ram's A/c (Personal Account) Debit hoga. Cash business se jaa raha hai, isliye Cash A/c (Real Account) Credit hoga."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Journal entry ke neeche di gayi short explanation ko kya kehte hain?",
+      "options": {
+        "A": "Heading",
+        "B": "Summary",
+        "C": "Narration",
+        "D": "Folio"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Har journal entry ke baad, bracket mein ek chota sa description likha jaata hai jo transaction ko explain karta hai. Ise 'Narration' kehte hain aur yeh 'Being...' ya 'For...' se shuru hota hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Compound Journal Entry kya hoti hai?",
+      "options": {
+        "A": "Ek entry jismein sirf ek debit aur ek credit ho",
+        "B": "Ek entry jo saal ke ant mein ki jaati hai",
+        "C": "Ek entry jismein ek se zyada debit ya/aur ek se zyada credit ho",
+        "D": "Ek entry jise aam taur par use nahi kiya jaata"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Jab ek hi transaction mein do se zyada accounts affect hote hain, to use ek single entry mein record kiya jaata hai jise Compound Journal Entry kehte hain. Ismein multiple debits aur/ya multiple credits ho sakte hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Ledger ko 'Principal Book of Accounts' kyu kaha jaata hai?",
+      "options": {
+        "A": "Kyunki yeh sabse pehle banayi jaati hai",
+        "B": "Kyunki ismein sabhi accounts ka classified summary hota hai",
+        "C": "Kyunki yeh journal se badi hoti hai",
+        "D": "Kyunki isko banana optional hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ledger mein sabhi transactions ko unke respective accounts (jaise Cash, Sales, Ram's A/c) mein classify karke rakha jaata hai. Isse kisi bhi account ka final balance aasani se pata chal jaata hai, isliye ise Principal Book kehte hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Bank mein Rs. 10,000 cash jama karwaya. Sahi journal entry kya hai?",
+      "options": {
+        "A": "Cash A/c Dr. To Bank A/c",
+        "B": "Drawings A/c Dr. To Cash A/c",
+        "C": "Bank A/c Dr. To Cash A/c",
+        "D": "Bank A/c Dr. To Capital A/c"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bank (receiver) ek personal account hai, isliye Bank A/c debit hoga. Cash (asset) business se jaa raha hai, isliye Cash A/c credit hoga."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Ledger account ke 'Balancing' ka kya matlab hai?",
+      "options": {
+        "A": "Dono sides par entries likhna",
+        "B": "Debit aur Credit side ke total ka difference nikalna",
+        "C": "Account ko close karna",
+        "D": "Journal se posting karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Balancing ka matlab hai ek particular period ke end mein ledger account ke debit aur credit side ke totals ka antar (difference) nikalna. Yeh difference us account ka closing balance hota hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Mohan ko 10,000 ka saaman udhaar par becha. Ismein kaun sa account debit hoga?",
+      "options": {
+        "A": "Sales A/c",
+        "B": "Cash A/c",
+        "C": "Mohan's A/c",
+        "D": "Purchases A/c"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Mohan saaman paane wala (receiver) hai, isliye uska Personal Account (Mohan's A/c) debit hoga. Sales business ke liye income hai, isliye Sales A/c (Nominal Account) credit hoga."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Machine ki installation par diye gaye Rs. 2,000 wages ko kis account mein debit karna chahiye?",
+      "options": {
+        "A": "Wages A/c",
+        "B": "Miscellaneous Expenses A/c",
+        "C": "Machinery A/c",
+        "D": "Cash A/c"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Kisi bhi fixed asset ko kharidne aur use kaam karne layak banane tak ke saare kharche (jaise installation, freight) us asset ki cost mein hi jode jaate hain. Isliye, yeh wages Machinery A/c mein debit honge."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Journal mein L.F. (Ledger Folio) column ka kya kaam hota hai?",
+      "options": {
+        "A": "Transaction ka amount likhna",
+        "B": "Ledger ka page number likhna jahan entry post hui hai",
+        "C": "Transaction ki date likhna",
+        "D": "Transaction ka serial number likhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "L.F. column mein us ledger ka page number likha jaata hai jahan par journal entry ko post kiya gaya hai. Isse cross-referencing mein aasani hoti hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Rent receive hua Rs. 5,000. Kaun sa account credit hoga?",
+      "options": {
+        "A": "Cash A/c",
+        "B": "Rent A/c",
+        "C": "Capital A/c",
+        "D": "Bank A/c"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cash business mein aa raha hai, isliye Cash A/c (Real Account) debit hoga. Rent received ek income hai, aur Nominal Account ke rule ke anusaar sabhi incomes ko credit kiya jaata hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Agar ek transaction ko journal mein record karna bhool jaayen, to use kya kehte hain?",
+      "options": {
+        "A": "Error of Commission",
+        "B": "Error of Principle",
+        "C": "Error of Omission",
+        "D": "Compensating Error"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Jab koi transaction poori tarah se ya adhoora books of accounts mein record hone se reh jaata hai, to use Error of Omission (bhool ki galti) kehte hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Ledger mein har account ka 'T-shape' format hota hai. Uske left side ko kya kehte hain?",
+      "options": {
+        "A": "Credit side",
+        "B": "Debit side",
+        "C": "Balance side",
+        "D": "Folio side"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ledger account ke T-shape format mein left-hand side ko Debit (Dr.) side aur right-hand side ko Credit (Cr.) side kehte hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Trade Discount ki accounting treatment kya hai?",
+      "options": {
+        "A": "Ise books of accounts mein alag se dikhaya jaata hai",
+        "B": "Ise invoice price se ghata kar net amount record kiya jaata hai",
+        "C": "Yeh sirf cash payment par milta hai",
+        "D": "Ise P&L account mein debit kiya jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Trade Discount ko books of accounts mein record nahi kiya jaata. Ise seedhe list price (invoice price) se minus kar diya jaata hai aur transaction net amount par record hota hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Goodwill Account kis type ka account hai?",
+      "options": {
+        "A": "Personal Account",
+        "B": "Nominal Account",
+        "C": "Real Account",
+        "D": "Inme se koi nahi"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Goodwill ek Intangible Asset hai. Sabhi assets (tangible ya intangible) Real Accounts ki category mein aate hain. Isliye Goodwill ek Real Account hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Cash discount receive hone par, Discount Received A/c ko ______ kiya jaata hai.",
+      "options": {
+        "A": "Debit",
+        "B": "Credit",
+        "C": "Koi entry nahi hoti",
+        "D": "Balance Sheet mein add"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Discount received business ke liye ek income ya gain hai. Nominal account ke rule (Credit all incomes and gains) ke anusaar, Discount Received A/c ko credit kiya jaayega."
+    },
+    {
+      "qno": 35,
+      "module": 2,
+      "question": "Salary pay ki Rs. 15,000. Isme kaun sa account debit hoga?",
+      "options": {
+        "A": "Cash A/c",
+        "B": "Employee A/c",
+        "C": "Salary A/c",
+        "D": "Capital A/c"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Salary business ke liye ek expense hai. Nominal account ke rule (Debit all expenses and losses) ke anusaar, Salary A/c debit hoga. Cash jaa raha hai, isliye Cash A/c credit hoga."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Udhaar par kharide gaye saaman (goods) ko record karne ke liye kaun si book use hoti hai?",
+      "options": {
+        "A": "Sales Book",
+        "B": "Cash Book",
+        "C": "Purchases Book",
+        "D": "Journal Proper"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Purchases Book (ya Purchases Day Book) ek subsidiary book hai jismein sirf udhaar par kharide gaye goods ki entry ki jaati hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Cash Book kya record karti hai?",
+      "options": {
+        "A": "Sirf cash receipts",
+        "B": "Sirf cash payments",
+        "C": "Sabhi cash aur bank transactions",
+        "D": "Sirf udhaar transactions"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cash Book ek special journal hai jo sabhi cash receipts aur cash payments ko record karti hai. Double aur Triple column cash book mein bank transactions bhi record hote hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Double column cash book mein aam taur par kaun se do amount columns hote hain?",
+      "options": {
+        "A": "Discount and Cash",
+        "B": "Cash and Bank",
+        "C": "Purchase and Sales",
+        "D": "Capital and Drawings"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek standard double column cash book mein Cash aur Bank ke liye alag-alag amount columns hote hain, jisse cash-in-hand aur cash-at-bank ka hisaab ek saath rakha jaa sakta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Udhaar par beche gaye furniture ko kahan record kiya jaayega?",
+      "options": {
+        "A": "Sales Book",
+        "B": "Cash Book",
+        "C": "Journal Proper",
+        "D": "Purchases Book"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Sales book mein sirf udhaar par 'goods' (jis cheez ka business hai) ki sale record hoti hai. Furniture ek asset hai. Isliye udhaar par asset ki sale ko Journal Proper mein record kiya jaayega."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Contra Entry kaun si transaction se related hai?",
+      "options": {
+        "A": "Cash sales",
+        "B": "Credit purchases",
+        "C": "Cash deposited into bank ya cash withdrawn from bank",
+        "D": "Salary paid by cheque"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Contra entry woh entry hai jismein Cash aur Bank dono accounts ek saath affect hote hain, jaise bank mein cash jama karna ya bank se cash nikalna. Yeh entry Cash Book ke dono sides par aati hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Petty Cash Book kyu banayi jaati hai?",
+      "options": {
+        "A": "Bade kharchon ko record karne ke liye",
+        "B": "Chote-mote rozmarra ke kharchon (jaise postage, stationery) ko record karne ke liye",
+        "C": "Sirf salary ka hisaab rakhne ke liye",
+        "D": "Capital transactions ko record karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Petty Cash Book chhote-chhote daily expenses (petty expenses) ko record karne ke liye banayi jaati hai, taaki main cashier ka kaam ka bojh kam ho sake."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Customer dwara lautaye gaye saaman (goods) ko kis book mein record kiya jaata hai?",
+      "options": {
+        "A": "Sales Book",
+        "B": "Purchases Return Book",
+        "C": "Sales Return Book",
+        "D": "Journal Proper"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Jab customer udhaar par beche gaye goods ko wapas karta hai, to use Sales Return Book ya Return Inward Book mein record kiya jaata hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "'Imprest System' kis book se related hai?",
+      "options": {
+        "A": "Cash Book",
+        "B": "Petty Cash Book",
+        "C": "Sales Book",
+        "D": "Ledger"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Imprest System, Petty Cash Book maintain karne ka ek tareeka hai. Ismein, petty cashier ko mahine ki shuruaat mein ek fixed amount (imprest) de diya jaata hai. Mahine ke ant mein, usne jitna kharch kiya, utna paisa use wapas de diya jaata hai, taaki agle mahine ki shuruaat mein uske paas phir se original amount ho."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Bank charges ki entry Cash Book mein kis side par ki jaayegi?",
+      "options": {
+        "A": "Receipt side (Debit)",
+        "B": "Payment side (Credit)",
+        "C": "Dono side",
+        "D": "Kahin nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bank charges ek tarah ka payment ya expense hai jo business ke bank account se katta hai. Isliye, ise Cash Book ke payment (credit) side par Bank column mein likha jaayega."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Agar ek cheque bank mein jama kiya par woh dishonour ho gaya, to double column cash book mein kya entry hogi?",
+      "options": {
+        "A": "Bank column mein Debit side par",
+        "B": "Bank column mein Credit side par",
+        "C": "Cash column mein Debit side par",
+        "D": "Koi entry nahi hogi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jab cheque jama kiya tha, to bank balance badhane ke liye Bank column mein debit kiya gaya tha. Dishonour hone par, us entry ko reverse karna padega, yaani Bank column mein credit side par entry ki jaayegi taaki bank balance kam ho jaaye."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Opening entry ko record karne ke liye kaun si book use hoti hai?",
+      "options": {
+        "A": "Cash Book",
+        "B": "Journal Proper",
+        "C": "Ledger",
+        "D": "Purchases Book"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Saal ki shuruaat mein pichle saal ke assets aur liabilities ke closing balances ko naye saal ki books mein laane ke liye jo entry ki jaati hai, use Opening Entry kehte hain. Yeh Journal Proper mein record hoti hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Cash book ka balance kya represent karta hai?",
+      "options": {
+        "A": "Business ka profit",
+        "B": "Business ki total sales",
+        "C": "Cash in hand aur cash at bank",
+        "D": "Business ki total assets"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cash book ka final balance business ke paas available cash (cash in hand) aur bank mein jama cash (cash at bank) ko darshata hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Triple column cash book mein teesra column kiska hota hai?",
+      "options": {
+        "A": "Sales",
+        "B": "Purchases",
+        "C": "Discount",
+        "D": "Capital"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Triple column cash book mein Cash, Bank aur Discount ke liye alag alag columns hote hain. Isse cash discount allowed aur received ka hisaab bhi saath mein rehta hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Humne supplier ko udhaar par kharida saaman wapas kiya. Ise kahan record karenge?",
+      "options": {
+        "A": "Sales Return Book",
+        "B": "Purchases Return Book",
+        "C": "Cash Book",
+        "D": "Journal Proper"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Supplier se udhaar par kharide gaye goods ko wapas karne par, uski entry Purchases Return Book ya Return Outward Book mein ki jaati hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Subsidiary books ka istemal karne ka mukhya fayda kya hai?",
+      "options": {
+        "A": "Profit badh jaata hai",
+        "B": "Kaam ka bantwara (division of labour) ho jaata hai aur journal chota rehta hai",
+        "C": "Tax kam ho jaata hai",
+        "D": "Errors khatam ho jaate hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Subsidiary books use karne se ek hi type ke transactions (jaise credit sales, credit purchases) ek jagah record ho jaate hain. Isse alag-alag log alag-alag books maintain kar sakte hain (division of labour) aur main journal ka size manageable rehta hai."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Trial Balance kyu banaya jaata hai?",
+      "options": {
+        "A": "Profit ya Loss nikalne ke liye",
+        "B": "Ledger accounts ki arithmetical accuracy check karne ke liye",
+        "C": "Financial position janne ke liye",
+        "D": "Tax pay karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Trial Balance ka mukhya uddeshya yeh check karna hai ki ledger mein ki gayi posting arithmetically (gannitiya roop se) sahi hai ya nahi. Yeh is siddhant par aadharit hai ki har debit ke liye ek corresponding credit hota hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Agar Trial Balance ka Debit aur Credit total match nahi hota, to difference ko temporarily kis account mein daala jaata hai?",
+      "options": {
+        "A": "Capital A/c",
+        "B": "Suspense A/c",
+        "C": "Profit & Loss A/c",
+        "D": "Drawings A/c"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jab Trial Balance match nahi hota, to Final Accounts banane ke liye, difference amount ko ek temporary account, 'Suspense Account', mein daal diya jaata hai. Baad mein errors dhoond kar is account ko close kar dete hain."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Inme se kaun sa error Trial Balance dwara nahi pakda ja sakta?",
+      "options": {
+        "A": "Ek side ki posting galat amount se karna",
+        "B": "Ek transaction ko record karna hi bhool jaana (Error of Omission)",
+        "C": "Ek account ka galat balance nikalna",
+        "D": "Ek account ki posting galat side par karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Error of complete omission (jab entry journal mein hi nahi hui) Trial Balance ko affect nahi karta, kyunki na debit hua na credit. Isliye, Trial Balance match ho jaayega aur error pakad mein nahi aayega."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Machine ki repair par hue kharche ko Machinery Account mein debit kar dena, yeh kis type ka error hai?",
+      "options": {
+        "A": "Error of Omission",
+        "B": "Error of Commission",
+        "C": "Error of Principle",
+        "D": "Compensating Error"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Yeh Error of Principle (siddhantik galti) hai. Repair ek revenue expenditure hai jise Repairs A/c mein jaana chahiye tha, lekin use capital expenditure maan kar Machinery A/c mein daal diya gaya. Isse accounting principles ka violation hua hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Rectification Entry ka kya uddeshya hota hai?",
+      "options": {
+        "A": "Naya account kholna",
+        "B": "Accounts mein hui galatiyon ko sudharna",
+        "C": "Profit ko kam karna",
+        "D": "Trial Balance ko match karwana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rectification entries woh journal entries hoti hain jo accounting records mein hui galatiyon (errors) ke prabhav ko nullify (khatam) karne ke liye ki jaati hain."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Trial Balance mein aam taur par Closing Stock ko kyu nahi dikhaya jaata hai?",
+      "options": {
+        "A": "Kyunki yeh ek expense hai",
+        "B": "Kyunki yeh already Purchases account ka hissa hota hai",
+        "C": "Kyunki iski value pata nahi hoti",
+        "D": "Kyunki yeh ek liability hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Closing Stock saal ke dauran ki gayi purchases ka hi ansh hai jo bika nahi. Kyunki poora Purchases account already Trial Balance mein debit side par hota hai, Closing Stock ko dobara dikhane se double counting ho jaayegi."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Ram ko pay kiye Rs. 500, lekin uske account mein Rs. 50 se debit kar diye. Yeh kaun sa error hai?",
+      "options": {
+        "A": "Error of Omission",
+        "B": "Error of Commission",
+        "C": "Error of Principle",
+        "D": "Compensating Error"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh Error of Commission hai. Ismein posting, casting, ya carrying forward mein clerical mistake hoti hai, jaise galat amount record karna, galat account mein (same class ke) post karna, ya galat side par post karna."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Sales book ka total Rs. 1,000 kam lagaya gaya (undercasting). Isko theek karne ke liye Suspense account ______ hoga.",
+      "options": {
+        "A": "Debit",
+        "B": "Credit",
+        "C": "Koi fark nahi padega",
+        "D": "P&L A/c mein jayega"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Sales book ka total kam lagane se Sales A/c mein Rs. 1000 kam credit hue. Ise theek karne ke liye Sales A/c ko Rs. 1000 se credit karenge. Is one-sided error ko rectify karne ke liye Suspense A/c ko Rs. 1000 se debit karna padega."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Trial Balance kab banaya jaata hai?",
+      "options": {
+        "A": "Har din",
+        "B": "Har hafte",
+        "C": "Ek particular date par, aam taur par financial year ke end mein",
+        "D": "Jab bhi galti ho"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Trial Balance ek statement hai, account nahi. Yeh ek specific date par banaya jaata hai, aam taur par saal ke ant mein, Final Accounts banane se theek pehle."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Trial Balance ka match ho jaana is baat ka 100% proof hai ki accounts mein koi galti nahi hai.",
+      "options": {
+        "A": "Sahi (True)",
+        "B": "Galat (False)",
+        "C": "Keh nahi sakte",
+        "D": "Kabhi Sahi, Kabhi Galat"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh galat hai. Trial Balance ka match hona sirf arithmetical accuracy ko confirm karta hai. Kuch errors jaise Error of Principle, Error of complete omission, ya Compensating errors, Trial Balance ko affect nahi karte aur iske match hone ke bavjood bhi books mein maujood rehte hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Compensating Errors kya hote hain?",
+      "options": {
+        "A": "Woh errors jo ek doosre ke prabhav ko khatam kar dete hain",
+        "B": "Woh errors jo owner karta hai",
+        "C": "Woh errors jo sudhare nahi ja sakte",
+        "D": "Woh errors jo journal mein hote hain"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Compensating errors do ya do se zyada galatiyon ka group hota hai, jahan ek galti ka debit/credit effect doosri galti ke credit/debit effect se cancel out ho jaata hai. Isliye Trial Balance match ho jaata hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Trial Balance mein kaun se accounts ke balances likhe jaate hain?",
+      "options": {
+        "A": "Sirf Personal accounts",
+        "B": "Sirf Real accounts",
+        "C": "Sirf Nominal accounts",
+        "D": "Sabhi accounts (Personal, Real, Nominal)"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Trial Balance ledger mein maujood sabhi accounts—chahe woh Personal, Real, ya Nominal hon—ke closing balances ki ek list hoti hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Ek accountant ne Rs. 2,000 cash sales ko record hi nahi kiya. Trial Balance par iska kya asar hoga?",
+      "options": {
+        "A": "Debit side Rs. 2,000 se kam ho jayegi",
+        "B": "Credit side Rs. 2,000 se kam ho jayegi",
+        "C": "Trial Balance match nahi hoga",
+        "D": "Trial Balance par koi asar nahi hoga"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Yeh ek 'Error of complete omission' hai. Kyunki transaction record hi nahi hua, isliye na Cash A/c mein debit hua aur na hi Sales A/c mein credit hua. Dono sides par koi asar na hone ke karan Trial Balance match ho jaayega."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Suspense account ka balance aakhir mein kahan transfer hota hai?",
+      "options": {
+        "A": "Hamesha khula rehta hai",
+        "B": "Trading Account",
+        "C": "Balance Sheet",
+        "D": "Pichle saal ke Capital Account mein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Agar saari koshishon ke baad bhi Suspense Account mein balance reh jaata hai, to use Balance Sheet mein dikhaya jaata hai. Debit balance ko Assets side aur credit balance ko Liabilities side par."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Trial Balance ke Debit column mein inme se kya aayega?",
+      "options": {
+        "A": "Sales",
+        "B": "Capital",
+        "C": "Creditors",
+        "D": "Drawings"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Assets aur Expenses ke hamesha debit balance hote hain. Drawings capital ko kam karti hai, isliye iska debit balance hota hai. Sales, Capital, aur Creditors ke credit balances hote hain."
+    },
+    {
+      "qno": 66,
+      "module": 5,
+      "question": "Gross Profit ya Gross Loss calculate karne ke liye kaun sa account banaya jaata hai?",
+      "options": {
+        "A": "Profit & Loss Account",
+        "B": "Balance Sheet",
+        "C": "Trading Account",
+        "D": "Cash Flow Statement"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Trading Account business ki trading activities (khareed-bech) ka result dikhata hai. Isse saal bhar ka Gross Profit (Sales > Direct Expenses) ya Gross Loss (Direct Expenses > Sales) pata chalta hai."
+    },
+    {
+      "qno": 67,
+      "module": 5,
+      "question": "Balance Sheet kya darshati hai?",
+      "options": {
+        "A": "Ek saal ka profit ya loss",
+        "B": "Ek particular date par business ki financial position (Assets & Liabilities)",
+        "C": "Sirf cash transactions",
+        "D": "Total sales in a year"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Balance Sheet ek statement hai jo ek specific date par ek company ke assets, liabilities, aur owner's equity ko show karti hai. Yeh company ki financial health ka snapshot deti hai."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "Office staff ki salary ko Final Accounts mein kahan dikhaya jaata hai?",
+      "options": {
+        "A": "Trading Account ke Debit side",
+        "B": "Profit & Loss Account ke Debit side",
+        "C": "Balance Sheet ke Assets side",
+        "D": "Capital se minus karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Salary ek indirect expense hai. Sabhi indirect expenses ko Net Profit ya Net Loss nikalne ke liye Profit & Loss Account ke debit side mein dikhaya jaata hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "'Carriage Inwards' (maal laane ka bhada) ko kahan debit kiya jaata hai?",
+      "options": {
+        "A": "Trading Account",
+        "B": "Profit & Loss Account",
+        "C": "Balance Sheet",
+        "D": "Cash Account"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Carriage Inwards goods ko khareed kar factory/godown tak laane ka kharcha hai. Yeh ek direct expense hai, isliye ise Trading Account mein debit kiya jaata hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Closing Stock ko Final Accounts mein kahan-kahan dikhaya jaata hai (jab yeh Trial Balance ke bahar diya ho)?",
+      "options": {
+        "A": "Sirf Trading Account mein",
+        "B": "Sirf Balance Sheet mein",
+        "C": "Trading Account ke Credit side aur Balance Sheet ke Assets side",
+        "D": "P&L Account ke Debit side aur Balance Sheet ke Liabilities side"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Closing stock (adjustment) ke do effects hote hain: 1) Ise Trading Account ke credit side par dikhaya jaata hai taaki Cost of Goods Sold sahi nikle. 2) Yeh business ka ek asset hai, isliye ise Balance Sheet mein Current Assets ke under dikhaya jaata hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Net Profit ya Net Loss kaun sa account batata hai?",
+      "options": {
+        "A": "Trading Account",
+        "B": "Profit & Loss Account",
+        "C": "Balance Sheet",
+        "D": "Trial Balance"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Profit & Loss Account Gross Profit/Loss ke baad sabhi indirect incomes aur indirect expenses ko consider karke business ka Net Profit ya Net Loss calculate karta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Outstanding Salary (aisi salary jo deni baaki hai) Balance Sheet mein kahan aati hai?",
+      "options": {
+        "A": "Current Assets",
+        "B": "Fixed Assets",
+        "C": "Current Liabilities",
+        "D": "Capital"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Outstanding expenses woh kharche hain jo ho chuke hain par abhi tak pay nahi kiye gaye. Yeh business ke liye ek short-term liability hai, isliye ise Balance Sheet mein Current Liabilities ke under dikhaya jaata hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Capital mein Net Profit ko ______ jaata hai.",
+      "options": {
+        "A": "Add (Joda)",
+        "B": "Subtract (Ghataya)",
+        "C": "Multiply (Guna)",
+        "D": "Divide (Bhag)"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Net Profit owner ki equity ko badhata hai. Isliye, Balance Sheet mein ise Capital mein add kiya jaata hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Depreciation on Machinery ko kahan dikhaya jaata hai?",
+      "options": {
+        "A": "Trading A/c mein Debit",
+        "B": "P&L A/c mein Debit",
+        "C": "Balance Sheet mein Asset side par Add",
+        "D": "P&L A/c mein Credit"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Depreciation ek non-cash, indirect expense hai. Ise Profit & Loss Account mein debit kiya jaata hai. Saath hi, Balance Sheet mein ise respective asset (Machinery) ki value se minus kiya jaata hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Marshalling of Assets and Liabilities ka kya matlab hai?",
+      "options": {
+        "A": "Assets aur Liabilities ko jodna",
+        "B": "Assets aur Liabilities ko ek particular order mein arrange karna",
+        "C": "Assets aur Liabilities ko bechna",
+        "D": "Assets aur Liabilities ki ginti karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Marshalling ka matlab hai Balance Sheet mein assets aur liabilities ko ek specific kram (order) mein dikhana, jaise 'Order of Liquidity' (jo jaldi cash mein convert ho) ya 'Order of Permanence' (jo business mein lambe samay tak rahe)."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Prepaid Insurance (agle saal ka insurance abhi pay kar diya) Balance Sheet mein kahan show hota hai?",
+      "options": {
+        "A": "Current Assets",
+        "B": "Current Liabilities",
+        "C": "Fixed Assets",
+        "D": "Capital"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Prepaid expenses woh kharche hain jinka payment advance mein kar diya gaya hai, lekin unka benefit future mein milega. Yeh business ke liye ek asset hai, isliye ise Current Assets ke under dikhaya jaata hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Factory workers ki 'Wages' ko aam taur par kahan dikhaya jaata hai?",
+      "options": {
+        "A": "Trading Account",
+        "B": "Profit & Loss Account",
+        "C": "Balance Sheet",
+        "D": "Suspense Account"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Wages (mazdoori) jo seedhe production se judi hoti hai, use direct expense maana jaata hai aur Trading Account mein debit kiya jaata hai. Office staff ki 'Salary' indirect expense hai aur P&L A/c mein jaati hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Bad Debts (dooba hua paisa) ko P&L account mein debit kyu karte hain?",
+      "options": {
+        "A": "Kyunki yeh ek income hai",
+        "B": "Kyunki yeh ek asset hai",
+        "C": "Kyunki yeh business ke liye ek loss hai",
+        "D": "Kyunki yeh ek liability hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bad debts woh paisa hai jo debtors se vasool nahi ho paya. Yeh business ke liye ek nuksan (loss) hai. Sabhi losses ko P&L account mein debit kiya jaata hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Inme se kaun sa ek Fixed Asset (Non-Current Asset) hai?",
+      "options": {
+        "A": "Cash in hand",
+        "B": "Stock (Inventory)",
+        "C": "Debtors",
+        "D": "Land and Building"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Fixed Assets woh assets hain jo business mein lambe samay tak (ek saal se zyada) use hone ke liye kharide jaate hain, na ki bechne ke liye. Land and Building iska ek classic example hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Drawings ko Balance Sheet mein kahan adjust kiya jaata hai?",
+      "options": {
+        "A": "Assets side mein add kiya jaata hai",
+        "B": "Liabilities side mein Creditors se minus kiya jaata hai",
+        "C": "Liabilities side mein Capital se minus kiya jaata hai",
+        "D": "P&L Account mein debit kiya jaata hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Drawings owner dwara nikala gaya paisa hai, jo uski poonji (capital) ko kam karta hai. Isliye, Balance Sheet mein ise Capital mein se ghataya (minus) jaata hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Final Accounts banane ka sahi sequence kya hai?",
+      "options": {
+        "A": "Balance Sheet -> Trading A/c -> P&L A/c",
+        "B": "P&L A/c -> Trading A/c -> Balance Sheet",
+        "C": "Trading A/c -> P&L A/c -> Balance Sheet",
+        "D": "Balance Sheet -> P&L A/c -> Trading A/c"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sabse pehle Trading Account banakar Gross Profit nikala jaata hai. Phir us Gross Profit ko P&L Account mein transfer karke Net Profit nikala jaata hai. Aakhir mein, Net Profit ko Capital mein adjust karke Balance Sheet banayi jaati hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Goodwill ko Balance Sheet mein kis heading ke under dikhaya jaata hai?",
+      "options": {
+        "A": "Current Assets",
+        "B": "Current Liabilities",
+        "C": "Fixed Assets - Intangible",
+        "D": "Investments"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Goodwill (khyati) ek amूर्त sampatti (Intangible Asset) hai. Isliye ise Balance Sheet mein Non-Current Assets ke andar 'Fixed Assets - Intangible' heading mein dikhaya jaata hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Ek company ka 'Operating Profit' kya hota hai?",
+      "options": {
+        "A": "Gross Profit - Operating Expenses",
+        "B": "Net Profit + Non-operating income",
+        "C": "Total Sales - Total Expenses",
+        "D": "Sales - Cost of Goods Sold"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Operating Profit woh profit hai jo company apne main business operations se kamati hai. Ise nikalne ke liye Gross Profit mein se operating indirect expenses (jaise salary, rent, advertising) ko minus kiya jaata hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Income received in advance (agle saal ki income abhi mil gayi) Balance Sheet mein kya hai?",
+      "options": {
+        "A": "Current Asset",
+        "B": "Current Liability",
+        "C": "Capital",
+        "D": "Revenue"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Advance mein mili income ek liability hai kyunki iske badle mein service dena abhi baaki hai. Jab tak service nahi di jaati, tab tak yeh company par ek bojh (liability) hai. Ise Current Liability ke taur par dikhaya jaata hai."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Financial statements mein 'Contingent Liability' ko kahan dikhaya jaata hai?",
+      "options": {
+        "A": "Balance Sheet ke Liability side par",
+        "B": "Balance Sheet ke Asset side par",
+        "C": "Balance Sheet ke neeche ek note (footnote) ke roop mein",
+        "D": "P&L Account mein"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Contingent Liability ek potential liability hai jo future mein kisi event ke hone ya na hone par depend karti hai. Kyunki yeh abhi actual liability nahi hai, ise Balance Sheet ke total mein shamil nahi karte, balki neeche footnote mein disclose karte hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "GST ka poora naam kya hai?",
+      "options": {
+        "A": "Goods and Service Tax",
+        "B": "General Sales Tax",
+        "C": "Goods and Sales Tax",
+        "D": "Government Service Tax"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "GST ka full form 'Goods and Service Tax' hai. Yeh ek indirect tax hai jo India mein goods aur services ki supply par lagta hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Jab ek hi state ke andar saaman becha jaata hai (Intra-state supply), to kaun sa GST lagta hai?",
+      "options": {
+        "A": "Sirf IGST",
+        "B": "Sirf CGST",
+        "C": "CGST + SGST",
+        "D": "Sirf SGST"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Intra-state supply par do tax lagte hain - CGST (Central Goods and Service Tax) jo Central Government ko jaata hai, aur SGST (State Goods and Service Tax) jo State Government ko jaata hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "TDS ka poora naam kya hai?",
+      "options": {
+        "A": "Tax Deducted at Source",
+        "B": "Total Deducted Salary",
+        "C": "Tax Deposited at Source",
+        "D": "Time Deposit Scheme"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "TDS ka full form 'Tax Deducted at Source' hai. Ismein, payment karne wala व्यक्ति/company payment dene se pehle hi ek certain percentage tax kaat leta hai aur government ko jama kar deta hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "IGST kab lagaya jaata hai?",
+      "options": {
+        "A": "Jab ek hi sheher mein sale ho",
+        "B": "Jab ek state se doosre state mein sale ho (Inter-state supply)",
+        "C": "Jab goods export kiye jaayen",
+        "D": "Jab cash mein sale ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IGST (Integrated Goods and Service Tax) tab lagta hai jab goods ya services ki supply ek state se doosre state mein hoti hai. Yeh Central Government dwara collect kiya jaata hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "GST mein 'Input Tax Credit' (ITC) ka kya matlab hai?",
+      "options": {
+        "A": "Output tax par milne wala discount",
+        "B": "Purchases par diye gaye GST ko sales par lagne wale GST se adjust karna",
+        "C": "Government se milne wala tax refund",
+        "D": "Tax na pay karne ki scheme"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ITC ek mechanism hai jiske tehat ek businessman apne purchases (inputs) par jo GST pay kar chuka hai, use apni sales (output) par collect kiye gaye GST ke against set-off (adjust) kar sakta hai. Isse tax par tax nahi lagta."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "GSTIN (GST Identification Number) mein kitne alphanumeric characters hote hain?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "8"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "GSTIN ek 15-digit ka unique identification number hota hai jo har GST-registered taxpayer ko diya jaata hai. Ismein state code, PAN number, aur kuch anya characters hote hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "GST Council ka Chairman kaun hota hai?",
+      "options": {
+        "A": "Prime Minister of India",
+        "B": "President of India",
+        "C": "Union Finance Minister of India",
+        "D": "Governor of RBI"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "GST Council, jo GST se jude sabhi important decisions leti hai, uske adhyaksh (Chairman) Bharat ke Kendriya Vitt Mantri (Union Finance Minister) hote hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "TDS kaun deduct karta hai?",
+      "options": {
+        "A": "Payment paane wala (Payee)",
+        "B": "Payment karne wala (Payer)",
+        "C": "Government",
+        "D": "Bank"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "TDS kaatne ki zimmedari payment karne wale (Payer/Deductor) ki hoti hai. Woh specific payments (jaise salary, commission, rent) par tax kaat kar payee ko net amount pay karta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "GST mein 'Reverse Charge Mechanism' (RCM) kya hai?",
+      "options": {
+        "A": "GST return file karne ka tareeka",
+        "B": "Ek aisi situation jahan GST pay karne ki zimmedari supplier ki jagah recipient (kharidar) ki hoti hai",
+        "C": "Tax refund lene ka process",
+        "D": "Export par lagne wala tax"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Normally, GST collect aur pay karne ki liability supplier ki hoti hai. Lekin RCM ke under, kuch specific cases mein, yeh liability goods/service ke recipient (kharidar) par shift ho jaati hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "PAN ka poora naam kya hai?",
+      "options": {
+        "A": "Personal Account Number",
+        "B": "Permanent Account Number",
+        "C": "Public Account Number",
+        "D": "Primary Account Number"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PAN ka full form 'Permanent Account Number' hai. Yeh Income Tax Department dwara issue kiya gaya ek 10-digit alphanumeric number hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "GST returns file karne ke liye sarkari portal kaun sa hai?",
+      "options": {
+        "A": "incometaxindia.gov.in",
+        "B": "gst.gov.in",
+        "C": "mca.gov.in",
+        "D": "rbi.org.in"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GST se judi sabhi services jaise registration, return filing, tax payment, etc. ke liye official government portal www.gst.gov.in hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "E-way bill kab generate karna zaroori hota hai?",
+      "options": {
+        "A": "Har sale par",
+        "B": "Jab Rs. 50,000 se zyada value ke goods ko ek jagah se doosri jagah transport kiya jaata hai",
+        "C": "Sirf import-export ke liye",
+        "D": "Jab service provide ki jaati hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GST ke antargat, jab bhi Rs. 50,000 se adhik moolya ke saaman ka movement hota hai, to supplier ya transporter ko GST portal se ek electronic way bill (E-way bill) generate karna anivarya hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Salary par TDS, Income Tax Act ke kis section ke tehat kaata jaata hai?",
+      "options": {
+        "A": "Section 192",
+        "B": "Section 194C",
+        "C": "Section 194J",
+        "D": "Section 80C"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Section 192 of the Income Tax Act, 1961, employers ko yeh nirdesh deta hai ki woh employees ko salary pay karte samay uspar bante tax ko TDS ke roop mein kaat lein."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "GST mein HSN code ka kya upyog hai?",
+      "options": {
+        "A": "Taxpayer ki pehchan ke liye",
+        "B": "Goods ko systematically classify karne ke liye",
+        "C": "Bank account number ke liye",
+        "D": "Invoice number ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HSN (Harmonized System of Nomenclature) ek internationally accepted system hai jiska upyog goods ko unki category ke anusaar classify karne ke liye kiya jaata hai. Isse GST rates aasaani se determine kiye ja sakte hain."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "CGST ka revenue kis sarkar ko milta hai?",
+      "options": {
+        "A": "State Government",
+        "B": "Central Government",
+        "C": "Dono ko barabar",
+        "D": "Municipal Corporation"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CGST ka poora naam Central Goods and Service Tax hai. Isse collect hone wala saara tax revenue Kendriya Sarkar (Central Government) ke khaate mein jaata hai."
+    }
+  ]
+}

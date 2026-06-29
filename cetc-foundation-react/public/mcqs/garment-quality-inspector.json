@@ -1,0 +1,1443 @@
+{
+  "course_name": "Garment Quality Inspector",
+  "sector": "Fashion, Tailoring & Textiles",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Garment Quality & Inspection",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Fabric Inspection and Material Quality",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Garment Construction & Stitching Quality",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Garment Dimensions, Fit & Measurement",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Garment Finishing, Packaging & Final Inspection",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Quality Management Systems & Documentation",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek Garment Quality Inspector ka main role kya hota hai?",
+      "options": {
+        "A": "Garment design karna",
+        "B": "Garment ki quality check karna",
+        "C": "Garment marketing karna",
+        "D": "Garment sell karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Garment Quality Inspector ka primary kaam hota hai production ke alag-alag stages par garment ki quality ko ensure karna aur defects ko identify karna."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Quality control (QC) ka kya matlab hai garment industry mein?",
+      "options": {
+        "A": "Product ko design karna",
+        "B": "Defects ko manufacturing process mein detect aur correct karna",
+        "C": "Sales target achieve karna",
+        "D": "New fabrics develop karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Quality control ka uddeshya hai manufacturing process ke dauraan defects ko pehchan'na aur unhe theek karna, taaki final product specified standards ke anusaar ho."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Agar ek garment mein koi defect milta hai, toh Quality Inspector ka pehla step kya hona chahiye?",
+      "options": {
+        "A": "Garment ko discard kar dena",
+        "B": "Defect ko identify aur report karna",
+        "C": "Customer ko complain karna",
+        "D": "Production line rok dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Defect ko identify karna aur uski proper report banana Quality Inspector ka pehla aur sabse zaroori step hota hai taaki corrective actions liye ja sakein."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "In-process inspection kab ki jaati hai?",
+      "options": {
+        "A": "Fabric receive hone se pehle",
+        "B": "Garment complete hone ke baad",
+        "C": "Manufacturing process ke dauraan",
+        "D": "Packaging ke baad"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In-process inspection, jaisa ki naam se pata chalta hai, manufacturing process ke beech mein ki jaati hai taaki early stages par defects ko pakda ja sake."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Quality assurance (QA) ka primary focus kis par hota hai?",
+      "options": {
+        "A": "Defects ko theek karna",
+        "B": "Manufacturing process ko prevent karna",
+        "C": "Defects ko prevent karna",
+        "D": "Sales badhana"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Quality assurance ka focus defects ko hone se rokne par hota hai, processes ko improve karke, jabki quality control defects ko detect aur correct karta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Ek 'specification sheet' mein kya information hoti hai?",
+      "options": {
+        "A": "Customer ka address",
+        "B": "Garment ke design, material aur measurement details",
+        "C": "Factory ka production schedule",
+        "D": "Shipping cost"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Specification sheet (ya tech pack) mein garment se related saari technical details hoti hain, jaise material, construction, measurements, aur quality standards."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Agar ek garment standard se thoda sa alag hai, lekin acceptable range mein hai, toh usse kya kehte hain?",
+      "options": {
+        "A": "Major defect",
+        "B": "Minor defect",
+        "C": "Critical defect",
+        "D": "Non-conformance"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Minor defect woh hota hai jo product ke functionality ya marketability ko zyada affect nahi karta aur acceptable tolerance limit ke andar ho sakta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "'Sampling plan' ka kya use hai quality inspection mein?",
+      "options": {
+        "A": "Saare garments ko inspect karna",
+        "B": "Sirf defected garments ko inspect karna",
+        "C": "Ek specific number of garments ko randomly inspect karna",
+        "D": "Customer ke ghar garments deliver karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sampling plan yeh define karta hai ki ek lot mein se kitne units ko randomly inspect kiya jayega taaki poore lot ki quality ka idea lagaya ja sake. AQL (Acceptable Quality Limit) ek common sampling method hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Garment industry mein 'tolerance' ka kya matlab hai?",
+      "options": {
+        "A": "Defects ki sankhya",
+        "B": "Acceptable deviation from a specified measurement",
+        "C": "Fabric ki stretchability",
+        "D": "Garment ka weight"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tolerance woh acceptable range hoti hai jiske andar ek measurement ya quality parameter vary kar sakta hai, bina product ko defected maane."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek Quality Inspector ke liye sabse important quality kya hai?",
+      "options": {
+        "A": "Fast typing speed",
+        "B": "Attention to detail",
+        "C": "Marketing skills",
+        "D": "Cooking skills"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek Quality Inspector ko choti se choti detail par dhyaan dena hota hai taaki koi bhi defect miss na ho. Attention to detail is critical."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Pre-production inspection kab ki jaati hai?",
+      "options": {
+        "A": "Jab garments pack ho jaate hain",
+        "B": "Fabric cutting se pehle aur production start hone se pehle",
+        "C": "Customer ko delivery ke baad",
+        "D": "Jab garments export ho jaate hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pre-production inspection mein fabric, accessories, patterns aur sample garments ko check kiya jaata hai taaki bulk production start hone se pehle sab kuch theek ho."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Agar ek garment mein 'critical defect' milta hai, toh uska kya impact ho sakta hai?",
+      "options": {
+        "A": "Minor aesthetic issue",
+        "B": "Garment ki functionality par koi asar nahi",
+        "C": "User safety ko endanger kar sakta hai ya government regulations violate kar sakta hai",
+        "D": "Sirf colour change ho sakta hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Critical defect woh hota hai jo product ko unsafe bana sakta hai, user ko harm pahuncha sakta hai, ya legal/regulatory requirements ko poora nahi karta. Aise defects ke liye poora lot reject ho sakta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Kaunsa tool ek Quality Inspector common measurements check karne ke liye use karta hai?",
+      "options": {
+        "A": "Hammer",
+        "B": "Measuring tape",
+        "C": "Wrench",
+        "D": "Screwdriver"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Measuring tape garments ke alag-alag parts ki lambai, चौड़ाई aur circumference ko measure karne ke liye sabse basic aur zaroori tool hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek Quality Inspector ko kis cheez ki knowledge honi chahiye?",
+      "options": {
+        "A": "Cooking recipes",
+        "B": "Garment construction aur fabric types",
+        "C": "Car mechanics",
+        "D": "Astronomy"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Garment construction techniques, different fabric types aur unki properties ki knowledge ek Quality Inspector ke liye essential hai taaki woh defects ko sahi se pehchan sake."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Visual inspection mein kya check kiya jaata hai?",
+      "options": {
+        "A": "Garment ka weight",
+        "B": "Garment ke appearance mein defects (jaise stains, holes)",
+        "C": "Garment ki chemical composition",
+        "D": "Garment ki strength"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Visual inspection mein garment ko aankhon se dekhkar surface defects, colour variations, stitching irregularities aur any visible flaws ko detect kiya jaata hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "AQL ka full form kya hai?",
+      "options": {
+        "A": "Accepted Quality Logic",
+        "B": "Actual Quality Level",
+        "C": "Acceptable Quality Limit",
+        "D": "Approved Quality Label"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "AQL ka matlab hai Acceptable Quality Limit, jo ek statistical sampling method hai jisse yeh determine kiya jaata hai ki kitne defects acceptable hain ek lot mein."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Agar ek garment mein ek defect hai jo uski intended use ko poori tarah se rok deta hai, toh woh kaunsa defect hai?",
+      "options": {
+        "A": "Minor defect",
+        "B": "Major defect",
+        "C": "Critical defect",
+        "D": "Aesthetic defect"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Major defect woh hota hai jo product ki functionality, performance ya marketability ko significantly affect karta hai, lekin safety issue nahi hota."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Fabric inspection kis stage par ki jaati hai?",
+      "options": {
+        "A": "Garment stitch hone ke baad",
+        "B": "Fabric cutting se pehle",
+        "C": "Packaging ke baad",
+        "D": "Customer ko deliver karte waqt"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fabric inspection raw material (fabric) receive hone par ya cutting se pehle ki jaati hai taaki defects ko early stage par hi detect kiya ja sake."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Ek 'slub' fabric defect kis type ka hota hai?",
+      "options": {
+        "A": "Hole",
+        "B": "Thick area in yarn",
+        "C": "Colour stain",
+        "D": "Missing stitch"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slub yarn mein ek irregular, thick area hota hai jo fabric ki surface par dikhta hai, aur yeh ek common fabric defect hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Fabric ke 'shade variation' ko check karna kyun important hai?",
+      "options": {
+        "A": "Fabric ka weight check karne ke liye",
+        "B": "Yeh ensure karne ke liye ki saare panels ka colour match ho",
+        "C": "Fabric ki strength check karne ke liye",
+        "D": "Fabric ki width measure karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shade variation ka matlab hai ek hi fabric ke alag-alag rolls ya parts mein colour ka difference hona. Isse garment ke alag-alag panels ka colour mismatch ho sakta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Fabric inspection ke liye kaunsa system commonly use hota hai?",
+      "options": {
+        "A": "100-point system",
+        "B": "4-point system",
+        "C": "2-point system",
+        "D": "8-point system"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "4-point system fabric inspection ke liye widely accepted method hai, jismein fabric defects ko unke size aur severity ke hisaab se points diye jaate hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Agar fabric mein 'bowing' defect hai, toh uska kya matlab hai?",
+      "options": {
+        "A": "Fabric mein hole hai",
+        "B": "Fabric ki width kam hai",
+        "C": "Weft (crosswise) yarns straight ki bajaye curved ho gaye hain",
+        "D": "Fabric ka colour fade ho gaya hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Bowing ek fabric defect hai jismein weft yarns fabric ki width mein straight na hokar curve ho jaate hain, jisse garment cutting mein problem aati hai aur pattern distort ho jaata hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Fabric ki 'width' measure karna kyun zaroori hai?",
+      "options": {
+        "A": "Fabric ka weight janne ke liye",
+        "B": "Yeh calculate karne ke liye ki kitne garments cut ho sakte hain",
+        "C": "Fabric ki strength check karne ke liye",
+        "D": "Fabric ki softness check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fabric ki correct width jaan'na cutting department ke liye crucial hai taaki fabric consumption aur cutting layout ko efficiently plan kiya ja sake."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "'Broken picks' kis type ka fabric defect hai?",
+      "options": {
+        "A": "Dyeing defect",
+        "B": "Weaving defect jismein weft yarn toot jaata hai",
+        "C": "Printing defect",
+        "D": "Knitting defect"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Broken picks weaving defect hai jismein weft yarn (pick) beech mein hi toot jaata hai, jisse fabric ki surface par ek line dikhti hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Fabric roll ke end mein 'creases' milna kya indicate karta hai?",
+      "options": {
+        "A": "Fabric ki quality acchi hai",
+        "B": "Fabric ko galat tareeke se store ya handle kiya gaya hai",
+        "C": "Fabric ka colour accha hai",
+        "D": "Fabric naya hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Creases usually improper handling, folding ya storage ke kaaran hote hain, jo garment appearance ko affect kar sakte hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Agar fabric mein 'oil stain' milta hai, toh yeh kaunsa defect hai?",
+      "options": {
+        "A": "Weaving defect",
+        "B": "Knitting defect",
+        "C": "Processing/handling defect",
+        "D": "Yarn defect"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Oil stains usually machinery ya handling ke dauraan lagte hain aur yeh ek common processing/handling defect hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Fabric ke 'shrinkage' ko check karna kyun important hai?",
+      "options": {
+        "A": "Fabric ka colour determine karne ke liye",
+        "B": "Yeh ensure karne ke liye ki garment wash ke baad size change na kare",
+        "C": "Fabric ki softness check karne ke liye",
+        "D": "Fabric ki thickness measure karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shrinkage test yeh determine karta hai ki fabric wash hone ke baad kitna sikudega ya failayega, jisse final garment ka size accurate rahe."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Kaunsa fabric 'knit fabric' ka example hai?",
+      "options": {
+        "A": "Denim",
+        "B": "Poplin",
+        "C": "Jersey",
+        "D": "Satin"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Jersey ek common knit fabric hai jo loops se banta hai aur stretchable hota hai, jabki denim, poplin aur satin woven fabrics hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Fabric inspection ke liye 'light box' ka kya use hai?",
+      "options": {
+        "A": "Fabric ka weight measure karne ke liye",
+        "B": "Fabric ke colour aur shade variation ko check karne ke liye",
+        "C": "Fabric ko cut karne ke liye",
+        "D": "Fabric ko press karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Light box mein controlled lighting conditions hoti hain jo fabric ke colour aur shade variation ko accurate tareeke se evaluate karne mein help karti hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Agar fabric mein 'misprint' defect hai, toh woh kis type ke fabric mein zyada common hai?",
+      "options": {
+        "A": "Plain woven fabric",
+        "B": "Dyed fabric",
+        "C": "Printed fabric",
+        "D": "Knitted fabric"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Misprint defect printed fabrics mein hota hai jismein design sahi tareeke se print nahi hota ya alag-alag jagah par print ho jaata hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "'Yarn count' kya represent karta hai?",
+      "options": {
+        "A": "Fabric ka colour",
+        "B": "Yarn ki fineness ya thickness",
+        "C": "Fabric ki width",
+        "D": "Fabric ka weight"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yarn count ek numerical expression hai jo yarn ki fineness ya thickness ko batata hai. Higher count matlab finer yarn."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Fabric inspection ke dauraan 'holes' milna kis type ka defect hai?",
+      "options": {
+        "A": "Colour defect",
+        "B": "Structural defect",
+        "C": "Shade defect",
+        "D": "Printing defect"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Holes fabric ki physical structure mein damage ko darshate hain, isliye yeh ek structural defect hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Fabric ka 'GSM' kya indicate karta hai?",
+      "options": {
+        "A": "Garment Style Measurement",
+        "B": "Grams per Square Meter (fabric ka weight)",
+        "C": "General Stitching Method",
+        "D": "Global Standard Measurement"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GSM ka matlab hai Grams per Square Meter, jo fabric ke weight ko describe karta hai. Yeh fabric ki density aur thickness ka indication deta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Agar fabric mein 'barre' defect hai, toh woh kya hai?",
+      "options": {
+        "A": "Fabric mein ek horizontal line ya band jo colour ya texture mein alag hai",
+        "B": "Fabric mein ek hole",
+        "C": "Fabric ki width mein kami",
+        "D": "Fabric ka edge uneven hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Barre ek fabric defect hai jo dyeing ya knitting/weaving process mein irregular tension ya yarn variation ke kaaran hota hai, jismein fabric par ek horizontal band dikhta hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Garment mein sabse common stitch type kaunsa hai?",
+      "options": {
+        "A": "Chain stitch",
+        "B": "Lockstitch",
+        "C": "Overlock stitch",
+        "D": "Blind stitch"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lockstitch (stitch type 301) sabse widely used stitch hai garment construction mein, jo do threads ko interlock karke banta hai aur strong hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Agar ek garment mein 'skipped stitch' hai, toh yeh kya indicate karta hai?",
+      "options": {
+        "A": "Stitching quality acchi hai",
+        "B": "Machine mein problem hai ya needle/thread setting galat hai",
+        "C": "Fabric ka colour galat hai",
+        "D": "Garment ka size sahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skipped stitch tab hota hai jab needle fabric mein se thread loop ko pick nahi kar paati, jisse stitching line mein gaps aa jaate hain. Yeh machine setting ya maintenance issue ho sakta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "'Stitches Per Inch' (SPI) ka kya matlab hai?",
+      "options": {
+        "A": "Ek inch mein kitne garments ban sakte hain",
+        "B": "Ek inch mein kitne stitches hain",
+        "C": "Ek inch mein kitne threads hain",
+        "D": "Ek inch mein kitne buttons hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SPI stitching density ko describe karta hai. Higher SPI generally stronger seam aur finer finish deta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Kaunsa seam type fabric edges ko fray hone se bachane ke liye use hota hai aur strong finish deta hai?",
+      "options": {
+        "A": "Plain seam",
+        "B": "French seam",
+        "C": "Lapped seam",
+        "D": "Bound seam"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "French seam ek enclosed seam hai jo raw edges ko poori tarah se chhupa deta hai, jisse yeh clean aur durable finish deta hai, khaaskar delicate fabrics mein."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Agar garment mein 'puckering' hai, toh uska kya matlab hai?",
+      "options": {
+        "A": "Stitching line ke paas fabric gather ho gaya hai",
+        "B": "Garment ka colour fade ho gaya hai",
+        "C": "Garment bahut loose hai",
+        "D": "Stitching bahut strong hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Puckering stitching line ke paas fabric ka unevenly gather hona hai, jo galat thread tension, differential fabric feed ya galat stitch type ke kaaran ho sakta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Button attachment ki quality check karte waqt kya dekha jaata hai?",
+      "options": {
+        "A": "Button ka size hi sirf",
+        "B": "Button ki position, security aur thread ka colour",
+        "C": "Button ka price",
+        "D": "Button kitna chamakdaar hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Buttons ko sahi jagah par securely attach kiya gaya hai ya nahi, aur thread colour garment se match karta hai ya nahi, yeh sab check karna zaroori hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "'Run-off stitch' defect kya hota hai?",
+      "options": {
+        "A": "Stitching line fabric edge se bahar nikal jaati hai",
+        "B": "Stitching line bahut straight hai",
+        "C": "Stitching line bahut tight hai",
+        "D": "Stitching line mein bahut zyada stitches hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Run-off stitch tab hota hai jab sewing machine operator stitch line ko fabric ke edge par control nahi kar paata, aur stitch fabric se bahar nikal jaata hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Overlock stitch ka main use kya hai?",
+      "options": {
+        "A": "Decorative stitching ke liye",
+        "B": "Fabric edges ko finish aur fraying se rokne ke liye",
+        "C": "Heavy duty seams ke liye",
+        "D": "Buttonholes banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overlock stitch (ya serging) fabric edges ko trim aur finish karne ke liye use hota hai, jisse edges fray nahi hote aur seam strong banta hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Agar zipper garment mein 'wavy' dikh raha hai, toh yeh kis type ka defect hai?",
+      "options": {
+        "A": "Zipper ki quality acchi hai",
+        "B": "Improper attachment ya fabric tension ka issue hai",
+        "C": "Zipper ka colour galat hai",
+        "D": "Zipper bahut chota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wavy zipper usually improper attachment technique, differential fabric feed ya galat tension ke kaaran hota hai, jisse zipper tape straight nahi rehta."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Garment mein 'uneven hem' kis defect ki category mein aata hai?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "Stitching/construction defect",
+        "C": "Dyeing defect",
+        "D": "Button defect"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Uneven hem ka matlab hai garment ka bottom edge (hem) level na hona, jo cutting ya stitching mein galti ke kaaran hota hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Kaunsa stitch type 'decorative stitching' ke liye zyada use hota hai?",
+      "options": {
+        "A": "Lockstitch",
+        "B": "Chain stitch (single thread)",
+        "C": "Flatlock stitch",
+        "D": "Embroidery stitch"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Embroidery stitches garments par designs aur patterns banane ke liye use hote hain, jo unhe decorative value dete hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar pocket garment par 'misaligned' hai, toh yeh kya indicate karta hai?",
+      "options": {
+        "A": "Pocket ka colour galat hai",
+        "B": "Pocket ko galat position par attach kiya gaya hai",
+        "C": "Pocket bahut bada hai",
+        "D": "Pocket bahut chota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Misaligned pocket ka matlab hai ki pocket ko garment par specified position par attach nahi kiya gaya hai, jisse garment ka appearance kharab hota hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Buttonhole ki quality check karte waqt kya important hai?",
+      "options": {
+        "A": "Buttonhole ka colour",
+        "B": "Buttonhole ki length, neatness aur position",
+        "C": "Buttonhole ka material",
+        "D": "Buttonhole ka price"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Buttonhole ki length button ke size ke according honi chahiye, woh neat aur clean hona chahiye, aur uski position garment par correct honi chahiye."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Ek garment mein 'loose thread' milna kis type ka defect hai?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "Finishing defect",
+        "C": "Stitching defect",
+        "D": "Measurement defect"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Loose threads stitching process ke dauraan ya trimming ke baad reh jaate hain aur yeh stitching quality ka indication hote hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Agar collar garment par 'unevenly attached' hai, toh yeh kya hai?",
+      "options": {
+        "A": "Minor defect",
+        "B": "Major defect",
+        "C": "Critical defect",
+        "D": "Acceptable variation"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Unevenly attached collar garment ke appearance aur fit ko significantly affect karta hai, isliye yeh ek major defect hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "'Broken stitches' ka kya matlab hai?",
+      "options": {
+        "A": "Stitching line mein colour change",
+        "B": "Stitching line mein threads ka toot jaana",
+        "C": "Stitching line ka bahut loose hona",
+        "D": "Stitching line ka bahut tight hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Broken stitches tab hote hain jab sewing machine ka thread stitching ke dauraan toot jaata hai, jisse seam ki strength aur durability kam ho jaati hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Kaunsa seam 'flat-felled seam' ka best example hai?",
+      "options": {
+        "A": "Shirt ke side seams jeans mein",
+        "B": "Jeans ke inseams",
+        "C": "T-shirt ke shoulder seams",
+        "D": "Dress ke invisible seams"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flat-felled seam ek bahut strong aur durable seam hai jismein raw edges poori tarah se enclose hote hain. Yeh jeans jaise heavy-duty garments mein commonly use hota hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Garment measurements check karne ke liye sabse basic tool kya hai?",
+      "options": {
+        "A": "Weighting scale",
+        "B": "Measuring tape",
+        "C": "Microscope",
+        "D": "Calculator"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Measuring tape garment ke alag-alag parts ki lambai aur चौड़ाई measure karne ke liye sabse essential tool hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Garment ki 'chest measurement' kaise li jaati hai?",
+      "options": {
+        "A": "Shoulder se waist tak",
+        "B": "Armpit ke theek neeche garment ki चौड़ाई mein",
+        "C": "Neckline se bottom hem tak",
+        "D": "Sleeve ke end tak"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chest measurement garment ke armpit seams ke neeche se horizontally li jaati hai, front panel par."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Agar ek measurement specified 'tolerance' se bahar hai, toh usse kya mana jaayega?",
+      "options": {
+        "A": "Perfect measurement",
+        "B": "Acceptable variation",
+        "C": "Defect",
+        "D": "Designer's choice"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Tolerance woh acceptable range hoti hai. Agar measurement is range se bahar hai, toh woh defect mana jaata hai aur garment reject ho sakta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "'Garment length' kaise measure karte hain?",
+      "options": {
+        "A": "Shoulder seam se bottom hem tak",
+        "B": "Armpit se cuff tak",
+        "C": "Waist se hip tak",
+        "D": "Collar se collar tak"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Garment length usually shoulder seam ke highest point se front ya back bottom hem tak measure ki jaati hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Ek Quality Inspector ke liye 'tech pack' kyun important hai?",
+      "options": {
+        "A": "Usmein customer ka contact number hota hai",
+        "B": "Usmein saare measurement points aur tolerance limits mention hote hain",
+        "C": "Usmein factory ka lunch menu hota hai",
+        "D": "Usmein shipping details hoti hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tech pack mein detailed specifications hoti hain, including all measurement points, tolerance limits, construction details, aur material information, jo inspection ke liye reference point hoti hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Sleeve length kaise measure ki jaati hai?",
+      "options": {
+        "A": "Neckline se cuff tak",
+        "B": "Shoulder seam se cuff ke end tak",
+        "C": "Armpit se cuff ke end tak",
+        "D": "Back neck se cuff tak"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sleeve length usually shoulder seam ke top se cuff ke end tak measure ki jaati hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Agar ek garment ka 'fit' customer ki expectation se alag hai, toh yeh kis type ka issue hai?",
+      "options": {
+        "A": "Colour issue",
+        "B": "Measurement ya design issue",
+        "C": "Fabric strength issue",
+        "D": "Packaging issue"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fit issue galat measurements, incorrect pattern ya design flaws ke kaaran hota hai, jo garment ke overall drape aur comfort ko affect karta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Garment ka 'waist measurement' kaise liya jaata hai?",
+      "options": {
+        "A": "Bottom hem par",
+        "B": "Waistline par horizontally",
+        "C": "Chest par",
+        "D": "Shoulder par"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Waist measurement garment ke waistline par horizontally li jaati hai, specified point par."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "'Garment balance' check karna kyun important hai?",
+      "options": {
+        "A": "Garment ka colour match karne ke liye",
+        "B": "Yeh ensure karne ke liye ki garment evenly hang kare aur twist na ho",
+        "C": "Garment ka weight check karne ke liye",
+        "D": "Garment ki softness check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Garment balance check karna zaroori hai taaki yeh ensure kiya ja sake ki garment body par evenly drape ho, seams straight hon, aur koi twisting ya pulling na ho."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Agar ek garment mein 'size label' galat laga hua hai, toh yeh kaunsa defect hai?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "Finishing defect",
+        "C": "Structural defect",
+        "D": "Measurement defect"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Size label galat hona finishing stage ka defect hai, jo customer ko galat size ka garment milne ka risk badha deta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Measuring tape ko use karte waqt kya precautions leni chahiye?",
+      "options": {
+        "A": "Tape ko tight khinch kar measure karein",
+        "B": "Tape ko loose chhod kar measure karein",
+        "C": "Tape ko flat aur tension-free rakhein",
+        "D": "Tape ko zigzag tareeke se use karein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Accurate measurements ke liye measuring tape ko flat aur tension-free rakhna zaroori hai, taaki fabric stretch na ho aur readings sahi aayein."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Garment ki 'neck opening' kaise measure ki jaati hai?",
+      "options": {
+        "A": "Shoulder seam se shoulder seam tak",
+        "B": "Neckline ke circumference mein",
+        "C": "Armpit se armpit tak",
+        "D": "Sleeve ke end se sleeve ke end tak"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Neck opening ko neckline ke circumference mein measure kiya jaata hai, ya sometimes flat garment par edge-to-edge."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Agar garment ki 'sleeve opening' bahut tight hai, toh yeh kya indicate karta hai?",
+      "options": {
+        "A": "Design feature hai",
+        "B": "Measurement specified tolerance se bahar hai",
+        "C": "Fabric ka colour galat hai",
+        "D": "Stitching bahut loose hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sleeve opening ka tight hona ek measurement defect hai, jo customer ke liye discomfort create kar sakta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "'Grading' ka kya matlab hai garment industry mein?",
+      "options": {
+        "A": "Garment ko colour ke hisaab se separate karna",
+        "B": "Ek base size pattern se alag-alag sizes ke patterns banana",
+        "C": "Garment ko wash karna",
+        "D": "Garment ko pack karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Grading woh process hai jismein ek approved base size pattern se systematically larger aur smaller sizes ke patterns banaye jaate hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Measurement inspection ke dauraan 'templates' ka kya use hai?",
+      "options": {
+        "A": "Garment ko press karne ke liye",
+        "B": "Consistent aur accurate measurement ke liye",
+        "C": "Fabric ko cut karne ke liye",
+        "D": "Stitching karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Templates standardized shapes ya cut-outs hote hain jo specific garment parts (jaise collar, cuff) ke measurements ko quickly aur consistently verify karne mein help karte hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar garment ka 'front panel' 'back panel' se lamba hai, toh yeh kya hai?",
+      "options": {
+        "A": "Design element",
+        "B": "Cutting ya stitching mein defect",
+        "C": "Fabric ka natural property",
+        "D": "Washing effect"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar yeh design element nahi hai, toh front aur back panel ki length mein difference cutting ya stitching mein galti ke kaaran hota hai, jo garment ke balance aur fit ko kharab karta hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Measurement inspection ke results ko properly record karna kyun important hai?",
+      "options": {
+        "A": "Time waste karne ke liye",
+        "B": "Future reference aur analysis ke liye",
+        "C": "Secrets maintain karne ke liye",
+        "D": "Sirf paper work badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper documentation future reference, trend analysis, root cause identification aur continuous improvement ke liye essential hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Garment finishing mein 'pressing' ka kya uddeshya hai?",
+      "options": {
+        "A": "Garment ko chota karna",
+        "B": "Creases aur wrinkles hatana, aur seams ko flat karna",
+        "C": "Garment ko ganda karna",
+        "D": "Garment ko colour karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pressing (ya ironing) garments ko smooth aur presentable banata hai, creases hatata hai aur seams ko flat karta hai, jisse unka appearance improve hota hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Agar garment par 'scorch mark' milta hai, toh yeh kis type ka defect hai?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "Stitching defect",
+        "C": "Finishing defect",
+        "D": "Packaging defect"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Scorch mark overheating ke kaaran hota hai, usually pressing ke dauraan, aur yeh ek finishing defect hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Final inspection kab ki jaati hai?",
+      "options": {
+        "A": "Fabric cutting se pehle",
+        "B": "Garment stitch hone se pehle",
+        "C": "Garment poori tarah se ready aur pack hone se pehle",
+        "D": "Raw material receive hone par"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Final inspection (ya final audit) poore production process ke baad, garment ke packaging se pehle ki jaati hai taaki final product ki quality ko approve kiya ja sake."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Garment mein 'loose threads trimming' kyun zaroori hai?",
+      "options": {
+        "A": "Garment ka weight badhane ke liye",
+        "B": "Garment ko clean aur neat dikhane ke liye",
+        "C": "Garment ko chota karne ke liye",
+        "D": "Garment ko colour karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Loose threads trimming garment ko neat aur professional finish deta hai, jo uski aesthetic appeal ke liye important hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Agar garment par 'wrong label' laga hua hai, toh yeh kaunsa defect hai?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "Stitching defect",
+        "C": "Finishing/packaging defect",
+        "D": "Measurement defect"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Wrong label (jaise galat size, composition, ya care instruction) ek finishing/packaging defect hai jo customer ko galat information de sakta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "'Metal detection' kis stage par zaroori hai?",
+      "options": {
+        "A": "Fabric inspection",
+        "B": "Cutting",
+        "C": "Final inspection se pehle ya packaging ke dauraan",
+        "D": "Sewing"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Metal detection garments mein broken needles ya any metal contaminants ko detect karne ke liye zaroori hai, khaaskar children's wear mein, customer safety ke liye."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Polybag packaging mein 'suffocation warning' kyun important hai?",
+      "options": {
+        "A": "Yeh design ka hissa hai",
+        "B": "Customer ko garment ki quality batane ke liye",
+        "C": "Chhote bachchon ko suffocation ke khatre se bachane ke liye",
+        "D": "Polybag ko strong banane ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Suffocation warning labels safety requirement hain, khaaskar children's wear ke polybags par, taaki chhote bachchon ko plastic bags se hone wale khatre se bachaya ja sake."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "AQL ke according, agar ek lot mein 'major defects' ki sankhya specified limit se zyada hai, toh kya hoga?",
+      "options": {
+        "A": "Lot ko accept kar liya jayega",
+        "B": "Lot ko reject kar diya jayega",
+        "C": "Lot ko customer ko bhej diya jayega bina kisi action ke",
+        "D": "Sirf minor defects count kiye jayenge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "AQL sampling plan mein, agar major ya critical defects ki sankhya acceptable limit se zyada ho jaati hai, toh poore lot ko reject kar diya jaata hai aur usse rework ya 100% inspection ke liye bheja jaata hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Garment washing ka kya purpose ho sakta hai?",
+      "options": {
+        "A": "Garment ko chota karna",
+        "B": "Fabric ko soft karna, shrinkage control karna ya special aesthetic effect dena",
+        "C": "Garment ko kharab karna",
+        "D": "Garment ka colour change karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Washing garments ko soft kar sakti hai, pre-shrinkage de sakti hai, ya special finishes (jaise stone wash) de sakti hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Agar carton mein 'wrong assortment' hai, toh yeh kaunsa defect hai?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "Stitching defect",
+        "C": "Packaging defect",
+        "D": "Measurement defect"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Wrong assortment ka matlab hai carton mein galat size, colour ya style ke garments ka hona, jo packaging stage par hua ek defect hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Garment ko 'hangers' par pack karna kyun preferable ho sakta hai?",
+      "options": {
+        "A": "Kam space lagti hai",
+        "B": "Creases se bachata hai aur retail ready presentation deta hai",
+        "C": "Zyada saste hote hain",
+        "D": "Washing ke liye easy hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hanger packing garments ko transport ke dauraan creases se bachati hai aur unhe retail store shelves par direct display ke liye ready rakhti hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "'Care label' mein kya information hoti hai?",
+      "options": {
+        "A": "Garment ka price",
+        "B": "Garment ko kaise wash, dry aur iron karna hai",
+        "C": "Garment ka design process",
+        "D": "Garment ka selling store"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Care label mein instructions hote hain ki garment ko kaise maintain kiya jaana chahiye (washing temperature, drying method, ironing instructions, etc.) taaki uski life badhe."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Agar garments 'damp' condition mein pack ho jaate hain, toh kya ho sakta hai?",
+      "options": {
+        "A": "Garments aur fresh lagenge",
+        "B": "Mold ya mildew develop ho sakta hai",
+        "C": "Unka colour aur accha ho jayega",
+        "D": "Unka size badh jayega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Damp garments ko pack karne se mold, mildew aur foul smell develop ho sakti hai, jo garment ko permanently damage kar sakti hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Kaunsa factor 'final inspection' ke dauraan check nahi kiya jaata?",
+      "options": {
+        "A": "Garment dimensions",
+        "B": "Stitching quality",
+        "C": "Fabric weaving process",
+        "D": "Labeling aur packaging"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Fabric weaving process initial fabric inspection ka part hai, final inspection mein finished garment ki quality check ki jaati hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Agar ek garment mein 'permanent press mark' hai, toh yeh kis type ka defect hai?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "Stitching defect",
+        "C": "Finishing defect",
+        "D": "Packaging defect"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Permanent press mark galat pressing temperature ya technique ke kaaran hota hai, jise hataya nahi ja sakta aur yeh ek finishing defect hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Packaging material ki quality check karna kyun important hai?",
+      "options": {
+        "A": "Sirf cost reduce karne ke liye",
+        "B": "Garment ko transport ke dauraan damage se bachane ke liye",
+        "C": "Packaging ko colourful banane ke liye",
+        "D": "Customer ko confuse karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "High-quality packaging material garments ko transport aur storage ke dauraan dhool, moisture aur physical damage se protect karta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Quality Management System (QMS) ka primary goal kya hai?",
+      "options": {
+        "A": "Production speed badhana",
+        "B": "Customer satisfaction aur continuous improvement ensure karna",
+        "C": "Sirf profit kamana",
+        "D": "New products launch karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "QMS ka uddeshya hai processes ko standardize karna, defects ko kam karna aur customer ki expectations ko consistently meet karna, jisse overall satisfaction aur improvement ho."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "'Defect report' mein kya information honi chahiye?",
+      "options": {
+        "A": "Factory ke employees ke naam",
+        "B": "Defect type, location, quantity aur severity",
+        "C": "Customer ka phone number",
+        "D": "Shipping date"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek comprehensive defect report mein defect ki saari relevant details honi chahiye taaki uski root cause analysis ki ja sake aur corrective actions liye ja sakein."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "'Root Cause Analysis' (RCA) ka kya matlab hai?",
+      "options": {
+        "A": "Sirf defects ko count karna",
+        "B": "Defects ke underlying reasons ko identify karna",
+        "C": "Defects ko ignore karna",
+        "D": "Defects ko hide karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RCA ek systematic process hai jismein defects ke actual, underlying reasons ko find kiya jaata hai, taaki unhe permanently resolve kiya ja sake."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Corrective Action aur Preventive Action (CAPA) ka kya purpose hai?",
+      "options": {
+        "A": "Sirf defects ko report karna",
+        "B": "Existing defects ko theek karna aur future defects ko rokna",
+        "C": "Production cost badhana",
+        "D": "Market share kam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CAPA system ka use karke, jo defects ho chuke hain unhe theek kiya jaata hai (corrective action) aur aise steps liye jaate hain taaki woh defects future mein na hon (preventive action)."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Ek Quality Inspector ke liye 'communication skills' kyun important hain?",
+      "options": {
+        "A": "Sirf orders dene ke liye",
+        "B": "Defects ko clearly convey karne aur team ke saath collaborate karne ke liye",
+        "C": "Chup rehne ke liye",
+        "D": "News padhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Effective communication Quality Inspector ke liye bahut zaroori hai taaki woh defects ko production team, management aur other stakeholders ko clearly explain kar sake aur solutions par kaam kar sake."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "ISO 9001 standard kis cheez se related hai?",
+      "options": {
+        "A": "Environmental management",
+        "B": "Quality management systems",
+        "C": "Food safety",
+        "D": "Occupational health and safety"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ISO 9001 ek internationally recognized standard hai jo quality management systems ke liye requirements specify karta hai, jiska aim customer requirements ko consistently meet karna hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "'Checklist' ka kya use hai quality inspection mein?",
+      "options": {
+        "A": "Inspection process ko slow karna",
+        "B": "Consistency ensure karna aur koi item miss na ho",
+        "C": "Sirf paper waste karna",
+        "D": "Defects ko hide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Checklist ek structured tool hai jo inspector ko required inspection points ko systematically cover karne mein help karti hai, jisse consistency aur thoroughness ensure hoti hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar ek Quality Inspector ko koi safety hazard dikhta hai factory mein, toh uska kya action hona chahiye?",
+      "options": {
+        "A": "Ignore kar dena",
+        "B": "Turant report karna aur zaroorat padne par production rokna",
+        "C": "Khud se theek karne ki koshish karna",
+        "D": "Customer ko inform karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Workplace safety har employee ki responsibility hai. Safety hazards ko turant report karna aur required action lena Quality Inspector ka farz hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "'Standard Operating Procedure' (SOP) ka kya fayda hai?",
+      "options": {
+        "A": "Har baar naye tareeke se kaam karna",
+        "B": "Consistency aur efficiency maintain karna",
+        "C": "Employees ko confuse karna",
+        "D": "Production cost badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SOPs detailed instructions hote hain jo tasks ko consistently, safely aur efficiently perform karne ke liye banaye jaate hain. Yeh quality aur uniformity ensure karte hain."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Quality team mein 'teamwork' kyun important hai?",
+      "options": {
+        "A": "Sirf ek person ko kaam karna chahiye",
+        "B": "Problems ko effectively solve karne aur knowledge share karne ke liye",
+        "C": "Competition badhane ke liye",
+        "D": "Kaam ko slow karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Teamwork se alag-alag perspectives milte hain, problems ko jaldi solve kiya ja sakta hai aur knowledge & best practices share ki ja sakti hain, jisse overall quality improve hoti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Kaunsa document Quality Inspector dwara fill kiya jaata hai after inspection?",
+      "options": {
+        "A": "Sales report",
+        "B": "Inspection report",
+        "C": "Marketing plan",
+        "D": "Financial statement"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inspection report mein inspection ke findings, defects, measurements aur final decision (pass/fail) record kiye jaate hain."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Continuous improvement ka kya matlab hai?",
+      "options": {
+        "A": "Sirf ek baar quality check karna",
+        "B": "Processes aur products ko consistently better banana",
+        "C": "Purane methods ko follow karna",
+        "D": "Koi change na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Continuous improvement ek philosophy hai jismein processes, products aur services ko consistently analyze aur optimize kiya jaata hai taaki efficiency aur quality badhe."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar ek Quality Inspector ko koi 'ethical dilemma' face karna padta hai (jaise defect ko chhupane ka pressure), toh usse kya karna chahiye?",
+      "options": {
+        "A": "Defect ko chhupa dena",
+        "B": "Apne supervisor ya quality manager ko report karna",
+        "C": "Job chhod dena",
+        "D": "Customer ko galat information dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ethical dilemmas mein, integrity maintain karna sabse important hai. Aise situations ko apne immediate supervisor ya higher management ko report karna chahiye."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "'Calibration' ka kya matlab hai inspection tools ke context mein?",
+      "options": {
+        "A": "Tools ko saaf karna",
+        "B": "Tools ko repair karna",
+        "C": "Tools ki accuracy ko standard se compare aur adjust karna",
+        "D": "Tools ko naya kharidna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Calibration ek process hai jismein measuring tools (jaise measuring tape, scales) ki accuracy ko ek known standard se compare kiya jaata hai aur zaroorat padne par adjust kiya jaata hai taaki accurate readings milen."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Quality Inspector ko 'customer feedback' par kyun dhyaan dena chahiye?",
+      "options": {
+        "A": "Customer ko khush karne ke liye",
+        "B": "Products aur processes ko improve karne ke liye valuable insights milte hain",
+        "C": "Sirf complain sunne ke liye",
+        "D": "Customers ko galat sabit karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer feedback direct information provide karta hai ki product kaisa perform kar raha hai aur kis area mein improvement ki zaroorat hai, jo quality control aur assurance ke liye critical hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek Quality Inspector ke liye 'personal hygiene' kyun important hai?",
+      "options": {
+        "A": "Sirf accha dikhne ke liye",
+        "B": "Garments ko contamination (jaise stains, smell) se bachane ke liye",
+        "C": "Zyada fast kaam karne ke liye",
+        "D": "Customer ko impress karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Personal hygiene maintain karna zaroori hai taaki garments par koi undesirable marks, stains ya smells na lagein, khaaskar jab light-coloured garments inspect kar rahe hon."
+    }
+  ]
+}

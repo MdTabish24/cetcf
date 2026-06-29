@@ -1,0 +1,1443 @@
+{
+  "course_name": "HR Assistant & Payroll Basics",
+  "sector": "Business, Retail & Finance",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Human Resources (HR)",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Recruitment & Onboarding",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Employee Records & Documentation",
+      "question_range": "Q35-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Introduction to Payroll Processing",
+      "question_range": "Q51-Q67"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Statutory Compliance (PF, ESI, TDS)",
+      "question_range": "Q68-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Employee Relations & Exit Formalities",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "HR ka full form kya hai?",
+      "options": {
+        "A": "Human Relations",
+        "B": "Human Resources",
+        "C": "Hiring Resources",
+        "D": "Human Recruitment"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "HR ka full form Human Resources hota hai, jiska matlab 'Manav Sansadhan' hai. Yeh department company ke employees se judi sabhi activities ko manage karta hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ek company mein HR department ka mukhya kaam kya hota hai?",
+      "options": {
+        "A": "Sirf employees ko hire karna",
+        "B": "Sirf salary banana",
+        "C": "Recruitment se lekar exit tak employee life cycle ko manage karna",
+        "D": "Company ki marketing karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "HR department ka mukhya kaam ek employee ke company join karne se lekar chhodne tak (employee life cycle) ki sabhi prakriyaon ko manage karna hota hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "HR Assistant ka role inmein se kya hai?",
+      "options": {
+        "A": "HR Manager ko administrative tasks mein support karna",
+        "B": "Company ke liye naye clients laana",
+        "C": "Company ke accounts manage karna",
+        "D": "Sirf office ki safai ka dhyan rakhna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "HR Assistant ka primary role HR Manager aur department ko unke daily administrative aur HR-related tasks mein sahayata pradan karna hota hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Company ki 'HR Policies' kyu banayi jaati hain?",
+      "options": {
+        "A": "Sirf ek formality ke liye",
+        "B": "Employees ko control karne ke liye",
+        "C": "Company mein discipline aur consistent work environment banaye rakhne ke liye",
+        "D": "Government ko dikhane ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "HR Policies isliye banayi jaati hain taaki sabhi employees ke liye niyam saaf ho, aur company mein ek anushasit (disciplined) aur sthir (consistent) mahaul bana rahe."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Inmein se kaun sa HR ka core function NAHI hai?",
+      "options": {
+        "A": "Recruitment and Selection",
+        "B": "Payroll Management",
+        "C": "Product Sales and Marketing",
+        "D": "Performance Management"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Product Sales and Marketing company ke sales department ka kaam hai, na ki HR department ka. Baaki sabhi HR ke core functions hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "'Employee Engagement' se aap kya samajhte hain?",
+      "options": {
+        "A": "Employee ki shaadi karana",
+        "B": "Employee ko company ke goals ke prati committed aur motivated rakhna",
+        "C": "Employee ko hamesha kaam mein lagaye rakhna",
+        "D": "Employee ki personal life mein dakhal dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Employee Engagement ka matlab hai ki employee apne kaam aur company ke lakshyon (goals) ke prati kitna samarpit (committed) aur utsaahit (motivated) hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Ek 'Organizational Chart' kya darshata hai?",
+      "options": {
+        "A": "Company ki chuttiyon ki list",
+        "B": "Company ke alag-alag departments aur unmein kaam karne wale logon ki reporting structure",
+        "C": "Company ka saal bhar ka calendar",
+        "D": "Company ke products ki list"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Organizational Chart ek diagram hota hai jo company ke structure, departments, aur kaun kise report karta hai, iski jaankari deta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "HR department ko 'Strategic Partner' kab maana jaata hai?",
+      "options": {
+        "A": "Jab woh sirf administrative kaam karta hai",
+        "B": "Jab woh company ke business goals ko achieve karne mein madad karta hai",
+        "C": "Jab woh office parties organize karta hai",
+        "D": "Jab woh sirf niyam aur kanoon par dhyan deta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jab HR department sirf administrative kaam se aage badhkar company ke long-term business goals ko poora karne ke liye planning aur strategy banata hai, tab use 'Strategic Partner' kaha jaata hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Kise 'Father of Human Resource Management' kaha jaata hai?",
+      "options": {
+        "A": "Peter Drucker",
+        "B": "George Elton Mayo",
+        "C": "Henry Fayol",
+        "D": "F.W. Taylor"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "George Elton Mayo ko unke Hawthorne Studies ke liye 'Father of Human Resource Management' maana jaata hai, jinhone human relations aur employee motivation ke mahatva ko samjha."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "'Employee Life Cycle' ka pehla step kya hota hai?",
+      "options": {
+        "A": "Onboarding",
+        "B": "Recruitment",
+        "C": "Performance Management",
+        "D": "Exit"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Employee Life Cycle ki shuruaat Recruitment (bharti) se hoti hai, jismein company naye talent ko attract karti hai aur select karti hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Kisi bhi company mein ek achha 'Work Culture' banane ki jimmedari kiski hoti hai?",
+      "options": {
+        "A": "Sirf CEO ki",
+        "B": "Sirf HR Department ki",
+        "C": "Management aur sabhi employees ki",
+        "D": "Sirf employees ki"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek positive work culture banane mein management ki leadership aur sabhi employees ka sahyog zaroori hota hai, HR department ismein ek facilitator ka kaam karta hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "HRIS ka kya matlab hai?",
+      "options": {
+        "A": "Human Resource Information System",
+        "B": "Human Recruitment Information System",
+        "C": "Human Resource Instruction Set",
+        "D": "Hiring and Recruitment Information System"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "HRIS ka full form Human Resource Information System hai. Yeh ek software hota hai jo HR se judi jaankari jaise employee data, payroll, attendance etc. ko manage karne mein madad karta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Kisi employee ke 'confidential information' mein kya shamil hota hai?",
+      "options": {
+        "A": "Employee ka naam",
+        "B": "Employee ki salary, bank details aur medical records",
+        "C": "Employee ka department",
+        "D": "Employee ki joining date"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Employee ki salary, bank details, aadhar/PAN number, aur medical records jaise personal data ko confidential maana jaata hai aur HR ko iski privacy banaye rakhni hoti hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Inmein se kaun sa 'soft skill' ek HR professional ke liye sabse zaroori hai?",
+      "options": {
+        "A": "Programming",
+        "B": "Accounting",
+        "C": "Communication and Interpersonal skills",
+        "D": "Graphic Designing"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "HR professional ko employees aur management ke saath lagatar interact karna padta hai, isliye achhi communication (baatcheet) aur interpersonal skills (aapsi sambandh) sabse zaroori hain."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek 'Grievance Handling' procedure ka kya uddeshya hota hai?",
+      "options": {
+        "A": "Employees ko dandit karna",
+        "B": "Employees ki shikayaton ko systematic tarike se sunna aur unka samadhan karna",
+        "C": "Management ki taraf se hamesha sahi saabit karna",
+        "D": "Shikayaton ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grievance Handling ek formal process hai jiske through employees apni kaam se judi shikayaton ko management tak pahuncha sakte hain aur unka nishpaksh samadhan pa sakte hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "HR audit ka mukhya uddeshya kya hota hai?",
+      "options": {
+        "A": "Employees par nazar rakhna",
+        "B": "HR department mein galtiyan dhundhna",
+        "C": "Yeh check karna ki HR policies aur procedures company aur law ke hisab se sahi hain ya nahi",
+        "D": "HR department ka budget kam karna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "HR audit ek review process hai jismein HR department ke functions, policies aur procedures ko check kiya jaata hai taaki yeh sunishchit ho sake ki woh prabhavi (effective) hain aur legal compliance ko follow kar rahe hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "'Diversity and Inclusion' (D&I) ka HR mein kya matlab hai?",
+      "options": {
+        "A": "Sirf alag-alag shehron se logon ko hire karna",
+        "B": "Ek aisa workplace banana jahan alag-alag background ke log samman aur baraabari ke saath kaam kar sakein",
+        "C": "Sirf mahilaon ko hire karna",
+        "D": "Office mein alag-alag bhashaon ka istemal karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Diversity and Inclusion ka matlab hai ek aisa mahaul banana jahan har employee, chahe unka background, gender, age, ya dharm kuch bhi ho, unhe samman, avsar aur baraabari ka ehsaas ho."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Recruitment process ka pehla kadam kya hota hai?",
+      "options": {
+        "A": "Interview lena",
+        "B": "Offer letter dena",
+        "C": "Job vacancy ki pehchan karna (Identifying the need)",
+        "D": "Resume shortlist karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Recruitment shuru karne se pehle, sabse zaroori hai yeh pehchanna ki company mein kis position ke liye aur kyu ek naye employee ki zaroorat hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Ek 'Job Description' (JD) mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf job ka title",
+        "B": "Job ki roles, responsibilities, aur required skills",
+        "C": "Sirf company ka naam",
+        "D": "Sirf salary ki jaankari"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Job Description ek document hota hai jismein uss job se judi sabhi jaankariyan jaise ki kaam ki zimmedariyan, kartavya, aur uske liye zaroori skills aur qualifications likhi hoti hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "'Internal Recruitment' ka ek fayda kya hai?",
+      "options": {
+        "A": "Company mein naye ideas aate hain",
+        "B": "Yeh sasta aur tez hota hai",
+        "C": "Bahut saare options milte hain",
+        "D": "Ismein partiality nahi hoti"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Internal recruitment mein company ke andar se hi kisi employee ko promote ya transfer kiya jaata hai. Ismein bahar se hiring ka kharcha aur samay bach jaata hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Job portals jaise Naukri.com ya LinkedIn kiske udaharan hain?",
+      "options": {
+        "A": "Internal sources of recruitment",
+        "B": "External sources of recruitment",
+        "C": "Employee referral programs",
+        "D": "Campus placements"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Job portals company ke bahar se candidates ko aakarshit karne ka zariya hain, isliye inhe external sources of recruitment kaha jaata hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "'Screening' of resumes ka kya matlab hai?",
+      "options": {
+        "A": "Sabhi resumes ko print karna",
+        "B": "Aaye hue resumes mein se job requirements ke hisab se best candidates ko shortlist karna",
+        "C": "Sabhi candidates ko interview ke liye bulana",
+        "D": "Resumes ko computer par scan karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Screening ka matlab hai Job Description ke aadhar par aaye hue saikdon resumes ko jaanch kar unmein se sabse upyukt (suitable) candidates ko aage ke process ke liye chunna."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Ek HR Assistant ka interview scheduling mein kya kaam hota hai?",
+      "options": {
+        "A": "Candidate ka interview lena",
+        "B": "Candidate aur interviewer ke beech time coordinate karke interview fix karna",
+        "C": "Salary negotiate karna",
+        "D": "Final selection ka decision lena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HR Assistant aam taur par shortlisted candidate aur interview panel ke beech samay aur jagah (ya online link) coordinate karke interview schedule karta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "'Offer Letter' aur 'Appointment Letter' mein kya fark hai?",
+      "options": {
+        "A": "Dono ek hi cheez hain",
+        "B": "Offer letter job offer karta hai, jabki appointment letter offer accept hone ke baad joining confirm karta hai",
+        "C": "Appointment letter pehle diya jaata hai",
+        "D": "Offer letter mein salary nahi likhi hoti"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Offer Letter ek prastav hota hai. Jab candidate use accept kar leta hai, tab company ek formal Appointment Letter jaari karti hai jismein joining date aur employment ki terms and conditions detail mein hoti hain."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "'Onboarding' process ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Naye employee se sirf paperwork karana",
+        "B": "Naye employee ko company ke culture, policies aur uske role mein aasaani se settle hone mein madad karna",
+        "C": "Naye employee ko pehle din hi kaam par laga dena",
+        "D": "Naye employee ko purane employees se milwana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Onboarding ek comprehensive process hai jiska maksad naye employee ko company mein swagat karna aur unhe company ke kaamkaaj aur mahaul mein aasaani se dhalne mein madad karna hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Onboarding ke dauran naye employee se kaun se documents aam taur par maange jaate hain?",
+      "options": {
+        "A": "School ki report card",
+        "B": "Educational certificates, ID proof, address proof, aur previous employment documents",
+        "C": "Parivar ke sabhi sadasyon ke Aadhar card",
+        "D": "Character certificate from police"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Joining ke samay, HR department employee ki identity, qualification aur pichhle anubhav ko verify karne ke liye zaroori dastavez jaise degree, ID proof (Aadhar/PAN), address proof, aur relieving letter maangta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "'Background Verification Check' (BGC) kyu kiya jaata hai?",
+      "options": {
+        "A": "Candidate par jaasoosi karne ke liye",
+        "B": "Yeh sunishchit karne ke liye ki candidate ne apne resume mein di gayi jaankari (education, experience) sahi di hai",
+        "C": "Candidate ko pareshan karne ke liye",
+        "D": "Sirf ek formality hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "BGC isliye kiya jaata hai taaki company yeh verify kar sake ki candidate dwara di gayi jaankari, jaise ki uski degree, pichhli naukri, aur criminal record, sach hai ya nahi. Yeh company ko galat hiring se bachata hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Ek 'Employee Referral Program' kya hota hai?",
+      "options": {
+        "A": "Newspaper mein ad dena",
+        "B": "Job portal par post karna",
+        "C": "Jab company ke maujooda employees naye candidates ko recommend karte hain",
+        "D": "College se direct hiring karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Yeh ek recruitment method hai jismein company apne hi employees ko protsahit karti hai ki woh apne network se achhe candidates ko job ke liye refer karein, jiske badle mein unhe bonus mil sakta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Interview ke dauran 'Behavioral questions' poochne ka kya maksad hota hai?",
+      "options": {
+        "A": "Candidate ki general knowledge check karna",
+        "B": "Candidate ke past experiences ke baare mein jaankar uske future performance ka anuman lagana",
+        "C": "Candidate ko confuse karna",
+        "D": "Candidate ki English speaking skills check karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Behavioral questions jaise 'Tell me about a time when you handled a difficult situation' pooch kar interviewer yeh samajhne ki koshish karta hai ki candidate ne अतीत (past) mein situations ko kaise handle kiya tha, jisse uske bhavishya (future) ke behavior ka andaza lagaya ja sake."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Selection ke baad, agar candidate offer accept kar leta hai, to agla immediate step kya hota hai?",
+      "options": {
+        "A": "Use training par bhej dena",
+        "B": "Use joining formalities poori karne ke liye bulana aur onboarding shuru karna",
+        "C": "Uska performance review karna",
+        "D": "Usse exit interview lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Offer acceptance ke baad, agla kadam candidate ko company join karana hota hai. Ismein zaroori documents collect karna, bank account khulwana, aur use company se introduce karana (onboarding) shamil hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Agar kisi job ke liye 500 applications aayi hain aur HR ko sirf 10 logon ko interview ke liye bulana hai, to is process ko kya kahenge?",
+      "options": {
+        "A": "Onboarding",
+        "B": "Shortlisting/Screening",
+        "C": "Induction",
+        "D": "Negotiation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Badi sankhya mein aaye applications mein se job requirements ke aadhar par kam candidates ko chunne ki prakriya ko Shortlisting ya Screening kehte hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "'Probation Period' kya hota hai?",
+      "options": {
+        "A": "Employee ki training ka samay",
+        "B": "Joining ke shuruaati kuch mahine jismein company employee ke performance ko evaluate karti hai",
+        "C": "Ek saal ki chutti",
+        "D": "Notice period ka dusra naam"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Probation period ek shuruaati avadhi (usually 3-6 months) hoti hai jismein naye employee ke kaam aur behavior ko dekha jaata hai. Iske baad performance ke aadhar par uski job confirm ki jaati hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "ATS ka recruitment mein kya upyog hai?",
+      "options": {
+        "A": "Automatic Tea Server",
+        "B": "Applicant Tracking System - resumes ko scan aur manage karne wala software",
+        "C": "Attendance Tracking System",
+        "D": "Automated Test Software"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ATS ya Applicant Tracking System ek software hai jo HR ko aayi hui job applications ko manage, scan aur filter karne mein madad karta hai. Yeh keywords ke aadhar par resumes ko shortlist karta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Company 'Induction Program' kyu organize karti hai?",
+      "options": {
+        "A": "Naye employees ko darane ke liye",
+        "B": "Naye employees ko company ke vision, mission, policies aur departments se parichit karane ke liye",
+        "C": "Sirf lunch organize karne ke liye",
+        "D": "Yeh dekhne ke liye ki kaun sabse pehle aata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Induction program onboarding ka hissa hai, jiska uddeshya naye employees ko company ki jaankari dena, unhe unke colleagues se milwana aur unhe unke kaam ke liye taiyar karna hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Ek 'Employee Personal File' mein kya rakha jaata hai?",
+      "options": {
+        "A": "Employee ke kaam ka daily report",
+        "B": "Employee ke personal aur professional documents jaise resume, offer letter, ID proofs etc.",
+        "C": "Company ke financial records",
+        "D": "Employee ke social media passwords"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Employee personal file ek physical ya digital folder hota hai jismein uss employee se sambandhit sabhi zaroori dastavez jaise ki uski application, educational documents, ID proofs, appointment letter, performance reviews etc. rakhe jaate hain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Attendance record maintain karna kyu zaroori hai?",
+      "options": {
+        "A": "Sirf yeh dekhne ke liye ki employee kab aata hai",
+        "B": "Salary calculation, leave management, aur discipline banaye rakhne ke liye",
+        "C": "Employees par shaq karne ke liye",
+        "D": "Iska koi khaas fayda nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Attendance records se hi pata chalta hai ki employee kitne din kaam par aaya. Yeh salary (Loss of Pay), leave balance aur overall anushasan ke liye bahut mahatvapurna hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "HRMS software ka upyog inmein se kiske liye kiya jaata hai?",
+      "options": {
+        "A": "Sirf email bhejne ke liye",
+        "B": "Employee data, attendance, leave, aur payroll ko ek hi jagah manage karne ke liye",
+        "C": "Presentations banane ke liye",
+        "D": "Company ki website banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HRMS (Human Resource Management System) ek software hai jo HR ke bahut saare kaamo ko automate aur centralize kar deta hai, jaise employee ki jaankari rakhna, chuttiyan manage karna, aur salary process karna."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Agar ek employee ko chutti leni hai, to use aam taur par pehle kya karna chahiye?",
+      "options": {
+        "A": "Bina bataye chutti le leni chahiye",
+        "B": "Apne manager se approve karana chahiye aur HR ko inform karna chahiye",
+        "C": "Sidhe HR ko phone karna chahiye",
+        "D": "Chutti ke baad aakar batana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professional tarika yeh hai ki chutti lene se pehle apne reporting manager se anumati li jaaye aur company ke leave policy ke anusar HR system mein apply kiya jaaye."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Aam taur par companies mein kaun-kaun si leaves hoti hain?",
+      "options": {
+        "A": "Sirf Sunday ki chutti",
+        "B": "Shopping leave, Movie leave",
+        "C": "Casual Leave (CL), Sick Leave (SL), Earned Leave (EL)",
+        "D": "Koi leave nahi hoti"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Lagbhag sabhi companies mein mukhya roop se 3 tarah ki leaves hoti hain: CL (aakasmik chutti), SL (beemari ke liye), aur EL/PL (kamayi hui chutti jo lambe samay ke liye li jaa sakti hai)."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Ek 'Employee Database' ko update rakhna kyu zaroori hai?",
+      "options": {
+        "A": "Kyunki HR ke paas koi aur kaam nahi hota",
+        "B": "Taaki zaroorat padne par sahi aur current information (jaise address, contact number) mil sake",
+        "C": "Sirf saal mein ek baar update karna kaafi hai",
+        "D": "Yeh zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Employee database mein hamesha latest information honi chahiye. Emergency contact, address change, ya salary-related communication ke liye updated data hona bahut zaroori hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Legal taur par ek company ko apne employees ke records kitne saal tak sambhal kar rakhne chahiye?",
+      "options": {
+        "A": "Sirf jab tak employee kaam kar raha hai",
+        "B": "Employee ke chhodne ke baad kam se kam kuch saalon tak (law ke anusaar)",
+        "C": "Ek saal tak",
+        "D": "Hamesha ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Alag-alag kanoon (jaise PF Act, Factories Act) ke tehat, company ko apne purane employees ke bhi records (jaise attendance, salary) ek nirdharit samay tak (kai mamlon mein 7 saal tak) sambhal kar rakhne hote hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "'Data Confidentiality' ka employee records ke sandarbh mein kya matlab hai?",
+      "options": {
+        "A": "Employee ka data kisi se bhi share karna",
+        "B": "Employee ki personal aur sensitive jaankari ko anadhikrit (unauthorized) logon se surakshit rakhna",
+        "C": "Employee ka data internet par daal dena",
+        "D": "Data ko lock karke bhool jaana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HR ki yeh ek badi zimmedari hai ki woh employee ki personal jaankari jaise salary, bank account, address aadi ko poori tarah se gopniya (confidential) rakhe aur use sirf authorized logon ke saath hi share kare."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Agar ek employee apna residential address badalta hai, to HR Assistant ko kya karna chahiye?",
+      "options": {
+        "A": "Is baat par dhyan nahi dena chahiye",
+        "B": "Employee se 'Address Proof' lekar company ke records mein update karna chahiye",
+        "C": "Manager ko employee ko daantne ke liye kehna chahiye",
+        "D": "Employee se party maangni chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jab bhi koi employee apni personal details jaise address ya phone number badalta hai, to HR Assistant ko usse supporting document lekar company ke HRMS aur personal file mein turant update karna chahiye."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "'Leave Encashment' ka kya matlab hota hai?",
+      "options": {
+        "A": "Chutti ke din bhi kaam karna",
+        "B": "Bachi hui Earned Leaves (EL) ke badle mein paise milna",
+        "C": "Chutti ke liye advance paise lena",
+        "D": "Apni leave kisi aur ko de dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Leave Encashment ka matlab hai jab koi employee apni bachi hui ELs ko leta nahi hai, to company policy ke anusar, woh un chuttiyon ke badle mein salary (aamtaur par Basic salary ke aadhar par) le sakta hai. Yeh aksar job chhodte samay ya saal ke ant mein hota hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Ek naye employee ka Bank Account open karwane mein HR Assistant kaise madad karta hai?",
+      "options": {
+        "A": "HR ka ismein koi role nahi hota",
+        "B": "Bank ko zaroori documents (jaise company letter) dekar aur process mein employee ki help karke",
+        "C": "Employee ke badle khud bank jaakar",
+        "D": "Bank manager se jhagda karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aksar companies ka salary account ke liye kisi bank se tie-up hota hai. HR Assistant naye employee ko account opening form aur company ki taraf se zaroori letter provide karke is process ko aasan banata hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Biometric attendance system ka kya fayda hai?",
+      "options": {
+        "A": "Yeh bahut mehanga hota hai",
+        "B": "Ise koi bhi use kar sakta hai",
+        "C": "Yeh 'buddy punching' (ek doosre ki attendance lagana) ko rokta hai aur sahi time record karta hai",
+        "D": "Yeh aasaani se kharab ho jaata hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Biometric system (jaise fingerprint ya face recognition) yeh sunishchit karta hai ki sahi employee hi apni attendance laga raha hai. Isse galat attendance lagane ki sambhavna khatm ho jaati hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "KYC documents mein aam taur par kya shamil hota hai?",
+      "options": {
+        "A": "Resume aur Offer letter",
+        "B": "Photo, ID Proof (jaise Aadhar/PAN Card) aur Address Proof",
+        "C": "Birth certificate aur Marksheets",
+        "D": "Company ka ID card"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "KYC ka matlab hai 'Know Your Customer/Employee'. Ismein employee ki pehchan aur pate ko verify karne ke liye uske Photo, ID proof aur Address proof jaise documents liye jaate hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar koi employee lagatar bina bataye absent rehta hai, to HR ko company policy ke anusar kya karna chahiye?",
+      "options": {
+        "A": "Uski salary rok deni chahiye",
+        "B": "Use turant naukri se nikal dena chahiye",
+        "C": "Use show-cause notice bhejna chahiye aur usse sampark karne ki koshish karni chahiye",
+        "D": "Kuch nahi karna chahiye, woh khud aa jayega"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Aise mamle mein, seedhe action lene se pehle ek professional tarika hai ki employee ko 'show-cause notice' (kaaran batao notice) bheja jaaye aur usse uski anupasthiti ka kaaran poochha jaaye."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Documentation ke hisab se, ek employee ka status 'Confirmed' kab hota hai?",
+      "options": {
+        "A": "Joining ke din hi",
+        "B": "Probation period safaltapoorvak poora karne ke baad, jab use 'Confirmation Letter' milta hai",
+        "C": "Ek saal kaam karne ke baad",
+        "D": "Jab uski salary badhti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab employee apna probation period achhe performance ke saath poora kar leta hai, to company use ek official 'Confirmation Letter' deti hai, jiske baad woh company ka permanent employee maana jaata hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Employee Master Data kya hota hai?",
+      "options": {
+        "A": "Sirf active employees ki list",
+        "B": "Ek central repository jahan har employee ki saari zaroori jaankari (personal, job-related, salary) store ki jaati hai",
+        "C": "Sirf senior employees ka data",
+        "D": "Ek file jismein employee ki galtiyan likhi jaati hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Employee Master Data ek kendriya database (central repository) hota hai, jo aamtaur par HRMS mein hota hai, jismein har employee ki sabhi mahatvapurna jaankari ek jagah par systematic tarike se rakhi jaati hai."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Salary mein 'Basic Pay' ka kya matlab hota hai?",
+      "options": {
+        "A": "Yeh poori salary hoti hai",
+        "B": "Yeh salary ka mool hissa hota hai jispar dusre allowances calculate kiye jaate hain",
+        "C": "Yeh overtime ka paisa hota hai",
+        "D": "Yeh bonus hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Basic Pay salary structure ka sabse mukhya aur nishchit (fixed) hissa hota hai. Kai saare dusre components jaise HRA, PF aadi isi Basic Pay ke percentage ke aadhar par calculate kiye jaate hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "'Gross Salary' aur 'Net Salary' mein kya antar hai?",
+      "options": {
+        "A": "Koi antar nahi hai",
+        "B": "Gross Salary sabhi deductions se pehle ki total salary hai, Net Salary deductions ke baad haath mein aane wali salary hai",
+        "C": "Net Salary hamesha Gross Salary se zyada hoti hai",
+        "D": "Gross Salary sirf Basic Pay hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gross Salary = Basic + HRA + Other Allowances. Net Salary (In-hand/Take-home Salary) = Gross Salary - Deductions (PF, ESI, TDS etc.)."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Ek 'Payslip' mein kya jaankari hoti hai?",
+      "options": {
+        "A": "Sirf employee ka naam",
+        "B": "Sirf company ka naam",
+        "C": "Salary ke sabhi components (earnings aur deductions) ka poora vivaran",
+        "D": "Sirf chuttiyon ki jaankari"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Payslip ek document hai jo employee ko har mahine milta hai, jismein uski salary ka poora breakdown hota hai - kitni earnings hui (Basic, HRA) aur kitni deductions hui (PF, Tax)."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "HRA ka full form kya hai aur yeh kyu diya jaata hai?",
+      "options": {
+        "A": "House Rent Allowance - kiraye ke ghar mein rehne ke kharch ke liye",
+        "B": "Human Resource Allowance - HR department ke liye",
+        "C": "High Rate Allowance - mehangai ke liye",
+        "D": "Holiday and Recreation Allowance - ghoomne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "HRA ka full form House Rent Allowance hai. Yeh employee ko uske kiraye ke ghar ke kharch mein sahayata ke liye diya jaata hai aur ispar tax mein chhoot bhi milti hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Payroll process ka sahi sequence kya hai?",
+      "options": {
+        "A": "Salary distribution -> Data Collection -> Validation",
+        "B": "Data Collection -> Validation -> Salary Calculation -> Distribution",
+        "C": "Salary Calculation -> Data Collection -> Distribution",
+        "D": "Distribution -> Validation -> Data Collection"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sabse pehle attendance aur new joiners ka data collect kiya jaata hai. Phir us data ko check (validate) kiya jaata hai. Uske baad salary calculate hoti hai aur ant mein employees ke account mein distribute ki jaati hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Agar ek employee mahine ke beech mein join karta hai, to uski salary kaise calculate ki jaayegi?",
+      "options": {
+        "A": "Use poore mahine ki salary milegi",
+        "B": "Use koi salary nahi milegi",
+        "C": "Uski salary pro-rata basis par (jitne din kaam kiya us hisab se) calculate hogi",
+        "D": "Uski salary agle mahine di jaayegi"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pro-rata basis ka matlab hai ki employee ko sirf unhi dino ki salary milegi jitne din usne uss mahine mein kaam kiya hai. (Monthly Salary / Total days in month) * Days worked."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "CTC ka full form kya hai?",
+      "options": {
+        "A": "Cost To Company",
+        "B": "Company To Cost",
+        "C": "Current Total Compensation",
+        "D": "Company's Total Capital"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CTC ka matlab Cost To Company hai. Yeh woh poora kharch hai jo ek company ek saal mein ek employee par karti hai. Ismein salary ke alawa company ka PF contribution, Gratuity, Insurance premium bhi shamil hota hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Inmein se kaun sa 'Deduction' ka hissa hai?",
+      "options": {
+        "A": "Basic Salary",
+        "B": "House Rent Allowance (HRA)",
+        "C": "Provident Fund (PF)",
+        "D": "Medical Allowance"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Provident Fund (PF) employee ki gross salary se katne wala ek anivarya (mandatory) deduction hai. Basic aur HRA earnings ke hisse hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Agar ek employee ki Basic Salary 20,000 hai aur HRA, Basic ka 40% hai, to HRA kitna hoga?",
+      "options": {
+        "A": "Rs. 4,000",
+        "B": "Rs. 8,000",
+        "C": "Rs. 2,000",
+        "D": "Rs. 6,000"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "HRA = 40% of Basic Salary. Calculation: 20,000 * (40/100) = Rs. 8,000."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "'Loss of Pay' (LOP) ya 'Leave without Pay' (LWP) kab apply hota hai?",
+      "options": {
+        "A": "Jab employee chutti par hota hai",
+        "B": "Jab employee bina approved leave ke absent rehta hai ya uske paas leave balance nahi hota",
+        "C": "Jab employee office mein late aata hai",
+        "D": "Jab employee target poora nahi karta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab koi employee bina manjoori ke chutti leta hai ya uske saare paid leaves khatm ho chuke hote hain, to company un dino ki salary kaat leti hai. Ise LOP kehte hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "'Reimbursement' kya hota hai?",
+      "options": {
+        "A": "Salary ka hissa",
+        "B": "Employee dwara company ke kaam ke liye kiye gaye kharch ka waapis milna",
+        "C": "Ek tarah ka tax",
+        "D": "Bonus"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab ek employee company ke kaam se apne paise kharch karta hai (jaise travel, phone bill), to baad mein bills dikha kar woh paise company se waapis le leta hai. Is process ko reimbursement kehte hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Payroll ke liye sabse zaroori input data kya hai?",
+      "options": {
+        "A": "Employee ka performance score",
+        "B": "Employee ki educational qualification",
+        "C": "Sahi attendance aur leave data",
+        "D": "Employee ki hobbies"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Sahi salary calculate karne ke liye, sabse pehle yeh jaanna zaroori hai ki employee kitne din kaam par aaya aur kitne din chutti par tha. Isliye attendance data sabse critical input hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar ek employee ki Gross Salary Rs. 30,000 hai aur uske total deductions Rs. 4,000 hain, to uski Net Salary kitni hogi?",
+      "options": {
+        "A": "Rs. 34,000",
+        "B": "Rs. 30,000",
+        "C": "Rs. 26,000",
+        "D": "Rs. 4,000"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Net Salary = Gross Salary - Total Deductions. Calculation: 30,000 - 4,000 = Rs. 26,000."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "'Statutory Bonus' aam taur par kab diya jaata hai?",
+      "options": {
+        "A": "Har mahine",
+        "B": "Employee ke birthday par",
+        "C": "Saal mein ek baar, aksar tyohaaron ke aas-paas (jaise Diwali)",
+        "D": "Jab company ko loss hota hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Payment of Bonus Act ke tehat, eligible employees ko company ke profit ke aadhar par saal mein ek baar bonus milta hai, jo aksar Diwali jaise bade tyohaaron par diya jaata hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Payroll mein 'arrears' ka kya matlab hota hai?",
+      "options": {
+        "A": "Advance salary",
+        "B": "Pichhle mahino ka bakaaya paisa jo ab mil raha hai",
+        "C": "Salary se kata gaya paisa",
+        "D": "Overtime ka paisa"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Arrears woh bakaaya (due) amount hota hai jo employee ko milna chahiye tha lekin kisi kaaran se pichhle payroll mein nahi mila. Jaise, agar salary increase July se lagu hui lekin process September mein hua, to July aur August ka badha hua paisa September ki salary mein arrears ke roop mein milega."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Bank Transfer Statement (BTS) ka payroll mein kya upyog hai?",
+      "options": {
+        "A": "Yeh employee ko di jaati hai",
+        "B": "Yeh ek report hai jo bank ko bheji jaati hai taaki sabhi employees ki salary unke account mein transfer ho sake",
+        "C": "Yeh attendance report ka doosra naam hai",
+        "D": "Yeh ek tax form hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Payroll process ke ant mein, HR/Accounts department ek Bank Transfer Statement taiyar karta hai jismein sabhi employees ke naam, account number, aur unki net salary likhi hoti hai. Isi statement ke aadhar par bank salary transfer karta hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Overtime (OT) ka paisa kaise calculate kiya jaata hai?",
+      "options": {
+        "A": "Normal salary rate par",
+        "B": "Normal salary rate se kam par",
+        "C": "Kanoon ke anusaar, aam taur par normal hourly rate ke dugne (double) par",
+        "D": "Yeh company par nirbhar karta hai, koi niyam nahi hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Factories Act aur anya kanoonon ke anusaar, agar kisi employee se uske nirdharit kaam ke ghanton se zyada kaam karaya jaata hai, to use overtime ke liye uske normal vetan dar se dugni dar par bhugtan kiya jaana chahiye."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "PF ka full form kya hai?",
+      "options": {
+        "A": "Personal Fund",
+        "B": "Provident Fund",
+        "C": "Pension Fund",
+        "D": "Private Fund"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PF ka full form Provident Fund hai. Yeh ek retirement savings scheme hai jismein employee aur employer dono har mahine contribute karte hain."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Employees' Provident Fund (EPF) scheme mein, employee apni Basic Salary ka kitna percent contribute karta hai?",
+      "options": {
+        "A": "8.33%",
+        "B": "10%",
+        "C": "12%",
+        "D": "15%"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "EPF scheme ke tehat, employee apni Basic Salary + Dearness Allowance ka 12% contribute karta hai. Utna hi (12%) contribution employer bhi karta hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "UAN ka kya arth hai?",
+      "options": {
+        "A": "Unique Account Number",
+        "B": "Universal Account Number",
+        "C": "Uniform Account Number",
+        "D": "Unique Aadhar Number"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "UAN ka matlab Universal Account Number hai. Yeh 12-digit ka ek permanent number hota hai jo har PF member ko milta hai. Naukri badalne par bhi UAN same rehta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "ESI scheme ka fayda kise milta hai?",
+      "options": {
+        "A": "Sabhi employees ko, chahe unki salary kitni bhi ho",
+        "B": "Un employees ko jinki monthly salary ek nirdharit seema (currently Rs. 21,000) se kam hai",
+        "C": "Sirf sarkaari naukri walon ko",
+        "D": "Sirf managers ko"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "ESI (Employee's State Insurance) scheme un employees ke liye hai jinki gross salary Rs. 21,000 prati maah se kam hai. Yeh unhe medical, sickness aur anya labh pradan karti hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "TDS on Salary ka kya matlab hai?",
+      "options": {
+        "A": "Total Deducted Salary",
+        "B": "Tax Deducted at Source - Employer dwara employee ki salary se Income Tax kaatna",
+        "C": "Time Delay Service",
+        "D": "Tax Deposited by Self"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "TDS ka matlab Tax Deducted at Source hai. Agar kisi employee ki saalana aay (income) taxable limit se zyada hai, to employer ki zimmedari hai ki woh uski salary se har mahine thoda-thoda tax kaat kar sarkaar ke paas jama karaye."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Gratuity ke liye ek employee ko ek hi company mein kam se kam kitne saal lagatar kaam karna zaroori hai?",
+      "options": {
+        "A": "1 saal",
+        "B": "3 saal",
+        "C": "5 saal",
+        "D": "10 saal"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Payment of Gratuity Act, 1972 ke anusaar, ek employee gratuity paane ka hakdaar tab hota hai jab woh ek hi employer ke saath lagatar 5 saal ki service poori kar leta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "PAN card ki zaroorat salary ke liye kyu hoti hai?",
+      "options": {
+        "A": "Address proof ke liye",
+        "B": "TDS (Income Tax) ki sahi calculation aur deposit ke liye",
+        "C": "Company mein entry ke liye",
+        "D": "Bank account kholne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PAN (Permanent Account Number) Income Tax department dwara jaari kiya jaata hai. Salary se tax kaatne (TDS) aur use sarkaar ke paas jama karne ke liye PAN anivarya hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Employer ke 12% PF contribution ka paisa kahan jaata hai?",
+      "options": {
+        "A": "Poora paisa employee ke PF account mein",
+        "B": "8.33% EPS (Pension Scheme) mein aur baaki 3.67% EPF mein",
+        "C": "Poora paisa Pension Scheme (EPS) mein",
+        "D": "Poora paisa employer ke paas rehta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Employer ke 12% contribution mein se, 8.33% employee ki pension scheme (EPS) mein jaata hai (ek certain limit tak) aur bacha hua 3.67% employee ke provident fund (EPF) account mein jama hota hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Professional Tax kaun vasoolta hai?",
+      "options": {
+        "A": "Central Government",
+        "B": "State Government",
+        "C": "Municipal Corporation",
+        "D": "Employer khud rakhta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Professional Tax ek tax hai jo salaried individuals aur professionals par lagta hai. Ise vasoolne ka adhikar Rajya Sarkaar (State Government) ke paas hota hai aur iski dar alag-alag rajyon mein alag-alag hoti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Form 16 kya hai?",
+      "options": {
+        "A": "Job application form",
+        "B": "PF withdrawal form",
+        "C": "Ek certificate jo employer deta hai, jismein employee ki salary aur us par kaate gaye TDS ki detail hoti hai",
+        "D": "Leave application form"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Form 16 ek TDS certificate hai. Yeh employer dwara har saal jaari kiya jaata hai, jo yeh pramanit karta hai ki usne employee ki salary se itna tax kaat kar sarkaar ko jama kar diya hai. Yeh Income Tax Return (ITR) bharne mein kaam aata hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Minimum Wages Act ka kya uddeshya hai?",
+      "options": {
+        "A": "Sabhi ko ek jaisi salary dena",
+        "B": "Yeh sunishchit karna ki workers ko ek nirdharit nyuntam (minimum) vetan se kam na mile",
+        "C": "Sirf managers ki salary fix karna",
+        "D": "Salary se zyada se zyada tax kaatna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Minimum Wages Act isliye banaya gaya hai taaki shramikon (workers) ka shoshan na ho aur unhe jeevan-yapan ke liye ek nyuntam (minimum) mazdoori avashya mile. Yeh alag-alag rajyon aur industry ke liye alag-alag ho sakti hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Ek HR Assistant ko statutory compliance ka dhyan kyu rakhna chahiye?",
+      "options": {
+        "A": "Yeh unka kaam nahi hai",
+        "B": "Taaki company par koi legal penalty ya jurmana na lage",
+        "C": "Sirf employees ko khush rakhne ke liye",
+        "D": "Kyunki yeh achha lagta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Statutory compliance (jaise PF, ESI, Tax samay par jama karna) ka paalan karna anivarya hai. Aisa na karne par company par bhaari jurmana aur kanooni karavayi ho sakti hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Agar kisi company mein 15 employees hain, to kya us par EPF Act lagu hoga?",
+      "options": {
+        "A": "Haan",
+        "B": "Nahi, kyunki iske liye kam se kam 20 employees hone chahiye",
+        "C": "Sirf agar company chahe to",
+        "D": "Sirf manufacturing companies par lagu hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Employees' Provident Fund and Miscellaneous Provisions Act, 1952 aam taur par un establishments par lagu hota hai jahan 20 ya usse adhik log kaam karte hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "ESI ke antargat milne wala ek mukhya laabh kya hai?",
+      "options": {
+        "A": "Free ghar",
+        "B": "Medical treatment (ilaaj) ka kharch",
+        "C": "Free car",
+        "D": "Har saal foreign trip"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ESI scheme ka sabse bada laabh yeh hai ki iske antargat aane wale employee aur uske parivar ko ESI hospitals aur dispensaries mein medical suvidha milti hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Income Tax Return (ITR) file karne ki jimmedari kiski hai?",
+      "options": {
+        "A": "Employer ki",
+        "B": "Har ek tax-paying individual (employee) ki",
+        "C": "Sarkaar ki",
+        "D": "HR department ki"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Employer ka kaam salary se TDS kaatna aur Form 16 dena hai. Lekin apni saari income ko declare karke ITR file karna har ek vyakti (individual) ki apni zimmedari hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Gratuity calculation ka formula kya hai?",
+      "options": {
+        "A": "(15 * Last Drawn Salary * Years of Service) / 30",
+        "B": "(15 * Last Drawn Salary * Years of Service) / 26",
+        "C": "(30 * Last Drawn Salary * Years of Service) / 26",
+        "D": "(26 * Last Drawn Salary * Years of Service) / 15"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Gratuity calculate karne ka standard formula hai: (Last Drawn Salary (Basic+DA) / 26) * 15 * Number of completed years of service. Yahan 26 ko mahine mein working days maana jaata hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "'Challan' ka statutory payments ke sandarbh mein kya matlab hai?",
+      "options": {
+        "A": "Traffic police ka challan",
+        "B": "Ek form ya receipt jo PF, ESI, TDS jaise payments ko bank ya sarkari portal par jama karne ke liye istemal hota hai",
+        "C": "Salary slip",
+        "D": "Warning letter"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab company PF, ESI, ya TDS ka paisa sarkaar ke paas jama karti hai, to woh ek nirdharit form ka upyog karti hai jise 'Challan' kehte hain. Yeh payment ka pramaan (proof) hota hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Ek employee jab naukri chhodta hai, to use kya dena hota hai?",
+      "options": {
+        "A": "Party",
+        "B": "Ek formal Resignation Letter (istifa patra)",
+        "C": "Gift",
+        "D": "Medical certificate"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jab koi employee naukri chhodne ka faisla karta hai, to use company ki policy ke anusaar apne manager ya HR ko ek likhit istifa (Resignation Letter) dena hota hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "'Notice Period' ka kya matlab hota hai?",
+      "options": {
+        "A": "Chutti ka samay",
+        "B": "Istifa dene ke baad aur company chhodne se pehle ka woh samay jab employee ko kaam karna hota hai",
+        "C": "Lunch break ka samay",
+        "D": "Probation period ka samay"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Notice Period woh avadhi hai jo employee ko istifa dene ke baad company mein kaam karna anivarya hota hai, taaki company uski jagah naya replacement dhoondh sake aur handover process poora ho sake."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "'Exit Interview' kyu liya jaata hai?",
+      "options": {
+        "A": "Jaane wale employee ko rokne ke liye",
+        "B": "Jaane wale employee se company ke work environment, culture aur policies ke baare mein feedback lene ke liye",
+        "C": "Employee ko daantne ke liye",
+        "D": "Sirf ek formality poori karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Exit interview ka mukhya uddeshya yeh samajhna hota hai ki employee naukri kyu chhod raha hai aur company apne mahaul aur policies ko behtar banane ke liye kya kar sakti hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "'Full and Final (F&F) Settlement' mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf aakhri mahine ki salary",
+        "B": "Aakhri mahine ki salary, bachi hui chuttiyon ke paise (leave encashment), gratuity (yadi lagu ho), aur anya dues",
+        "C": "Sirf gratuity ka paisa",
+        "D": "Sirf bonus"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "F&F settlement ek employee ke company chhodne par hone wala अंतिम hisaab-kitaab hai. Ismein uski bakaaya salary, leave encashment, bonus, gratuity aadi ko jodkar, agar koi recovery (jaise notice period buyout) hai to use ghatakar final payment kiya jaata hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Ek 'Relieving Letter' kya pramanit karta hai?",
+      "options": {
+        "A": "Ki employee abhi bhi company mein kaam kar raha hai",
+        "B": "Ki employee ne company se istifa de diya hai aur uski sabhi zimmedariyan poori ho gayi hain",
+        "C": "Ki employee ko promote kiya gaya hai",
+        "D": "Ki employee chutti par hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Relieving Letter (ya Experience Certificate) ek official document hai jo company employee ko uske last working day par deti hai. Yeh is baat ka saboot hai ki employee ne company ko vidhivat chhod diya hai aur uske saare dues clear hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "'Performance Appraisal' ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Employee ki salary kaatna",
+        "B": "Employee ki kamiyan nikalna",
+        "C": "Employee ke kaam ka systematic mulyankan karna aur use feedback dena",
+        "D": "Sirf formality ke liye form bharna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Performance Appraisal (ya Performance Review) ek prakriya hai jismein ek nirdharit samay (aamtaur par saalana) par employee ke kaam ka mulyankan kiya jaata hai, uski taakat aur kamzoriyon par charcha ki jaati hai, aur aage ke liye goals set kiye jaate hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Employee Relations ka kya matlab hai?",
+      "options": {
+        "A": "Employees ke beech dosti karana",
+        "B": "Company mein management aur employees ke beech ek positive aur swasth sambandh banaye rakhna",
+        "C": "Employees par control rakhna",
+        "D": "Employees ke personal mamlon mein dakhal dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Employee Relations ka focus company mein ek aisa mahaul banane par hota hai jahan karmachari aur prabandhan (management) ke beech vishwas aur sahyog ka rishta ho, jisse productivity badhe aur vivad kam ho."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar ek employee notice period serve nahi karna chahta, to use aam taur par kya karna padta hai?",
+      "options": {
+        "A": "Woh bina bataye jaa sakta hai",
+        "B": "Use notice period ke badle mein salary deni padti hai (buyout)",
+        "C": "Use extra kaam karna padta hai",
+        "D": "Aisa karna sambhav nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar company ki policy mein 'buyout' ka option hai, to employee notice period ke dino ki salary (aamtaur par Basic salary) company ko dekar jaldi relieve ho sakta hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "'Absconding' employee kise kehte hain?",
+      "options": {
+        "A": "Jo chutti par hai",
+        "B": "Jo employee bina istifa diye ya bina kisi सूचना ke kaam par aana band kar de",
+        "C": "Jo notice period serve kar raha hai",
+        "D": "Jo work from home kar रहा है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab koi employee bina kisi jaankari ya istifa ke achanak kaam par aana band kar deta hai aur company usse sampark nahi kar paati, to use 'absconding' (bhagoda) maana jaata hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Employee grievance ko handle karne ka pehla step kya hona chahiye?",
+      "options": {
+        "A": "Employee ko ignore karna",
+        "B": "Employee ki baat ko dhyaan se sunna aur uski samasya ko samajhna",
+        "C": "Turant employee ko doshi thehra dena",
+        "D": "Management se uski shikayat karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi shikayat (grievance) ko suljhane ka sabse pehla aur zaroori kadam hai ki employee ko bina toke uski poori baat kehne ka mauka diya jaaye aur uski samasya ko aaram se samjha jaaye."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "'Termination' aur 'Resignation' mein kya fark hai?",
+      "options": {
+        "A": "Dono ka matlab ek hi hai",
+        "B": "Resignation mein employee khud naukri chhodta hai, jabki termination mein company employee ko nikalti hai",
+        "C": "Termination mein notice period nahi hota",
+        "D": "Resignation mein F&F nahi milta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Resignation (istifa) ek swaichhik (voluntary) kriya hai jismein employee apni marzi se naukri chhodta hai. Termination (barkhastagi) ek anichchhuk (involuntary) kriya hai jismein company, aamtaur par performance ya anushasanheenata ke kaaran, employee ko naukri se nikalti hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "F&F settlement process mein HR Assistant ki kya bhoomika ho sakti hai?",
+      "options": {
+        "A": "Final payment approve karna",
+        "B": "Zaroori clearance (jaise IT, Admin se No Dues) lena aur paperwork taiyar karna",
+        "C": "Exit interview lena",
+        "D": "Uski koi bhoomika nahi hoti"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "HR Assistant F&F process mein ek mahatvapurna bhoomika nibhata hai. Woh yeh sunishchit karta hai ki jaane wale employee ne company ki saari sampatti (laptop, ID card) wapas kar di hai aur alag-alag departments se 'No Dues Certificate' le liya hai, jiske baad hi final settlement calculate hota hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Ek 'Warning Letter' kab issue kiya jaata hai?",
+      "options": {
+        "A": "Achha kaam karne par",
+        "B": "Jab koi employee anushasanheenata (indiscipline) ya kharab performance dikhata hai",
+        "C": "Joining ke samay",
+        "D": "Chutti approve karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Warning Letter ek formal document hai jo employee ko tab diya jaata hai jab woh company ke niyamon ka ulanghan karta hai ya uska kaam santoshjanak nahi hota. Yeh use sudharne ka ek mauka deta hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Agar F&F settlement mein employee ki salary se paisa kaatna hai (recovery), to uska sabse aam kaaran kya ho sakta hai?",
+      "options": {
+        "A": "Employee ne achha kaam nahi kiya",
+        "B": "Notice period serve na karna ya company ki kisi property ko nuksaan pahunchana",
+        "C": "Employee ne zyada chuttiyan le li",
+        "D": "Company ko loss ho raha hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "F&F mein recovery ke mukhya kaaran ho sakte hain - notice period ka buyout, company ke laptop/phone ko nuksaan pahunchana, ya koi advance/loan jo chukaya na gaya ho."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Performance Improvement Plan (PIP) kya hota hai?",
+      "options": {
+        "A": "Sabhi employees ke liye ek training program",
+        "B": "Ek structured plan jo un employees ke liye banaya jaata hai jinka performance achha nahi hai, unhe sudharne ka mauka dene ke liye",
+        "C": "Naukri se nikalne ka notice",
+        "D": "Salary badhane ka plan"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jab kisi employee ka performance lagatar kharab rehta hai, to use terminate karne se pehle company use PIP par rakhti hai. Ismein uske liye sudhar ke specific goals aur ek timeline di jaati hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Exit formalities poori hone ke baad, HR ko employee ke records ka kya karna chahiye?",
+      "options": {
+        "A": "Turant delete kar dena chahiye",
+        "B": "Unhe 'Ex-employee' ya 'Inactive' mark karke file karna chahiye aur kanoon ke anusar nirdharit samay tak surakshit rakhna chahiye",
+        "C": "Public kar dena chahiye",
+        "D": "Employee ko waapis de dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Employee ke jaane ke baad bhi uske records ko nasht nahi kiya jaata. Unhe 'Inactive' status mein daal kar company ko kanooni roop se nirdharit avadhi tak surakshit rakhna hota hai."
+    }
+  ]
+}

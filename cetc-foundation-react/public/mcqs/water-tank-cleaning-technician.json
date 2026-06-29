@@ -1,0 +1,1443 @@
+{
+  "course_name": "Water Tank Cleaning Technician",
+  "sector": "Plumbing, Sanitation & Water",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Water Tank Cleaning & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Types of Water Tanks & Contamination",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Tools, Equipment & Chemicals",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Cleaning Procedures & Techniques",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Waste Management & Environmental Compliance",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Maintenance, Documentation & Customer Service",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Water tank cleaning ka primary reason kya hai?",
+      "options": {
+        "A": "Tank ki lifespan badhane ke liye",
+        "B": "Waterborne diseases se bachne ke liye",
+        "C": "Tank ko aesthetic look dene ke liye",
+        "D": "Water pressure maintain karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Water tanks ki regular cleaning waterborne diseases jaise typhoid, cholera se bachne ke liye bahut zaroori hai, kyunki gande pani mein bacteria aur viruses panapte hain."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Water tank cleaning shuru karne se pehle sabse pehla safety step kya hai?",
+      "options": {
+        "A": "Tank ka pani drain karna",
+        "B": "PPE (Personal Protective Equipment) pehenna",
+        "C": "Tank ke andar jana",
+        "D": "Chemicals ready karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi hazardous activity, jaise water tank cleaning, shuru karne se pehle safety ke liye PPE (gloves, mask, safety glasses, boots) pehenna anivarya hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Confined space entry ke dauran kis gas monitor ka upyog kiya jata hai?",
+      "options": {
+        "A": "Temperature monitor",
+        "B": "Humidity monitor",
+        "C": "Multi-gas detector",
+        "D": "Pressure gauge"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Confined spaces mein oxygen level, flammable gases, aur toxic gases (jaise H2S, CO) ko detect karne ke liye multi-gas detector ka upyog kiya jata hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Water tank cleaning karte samay electrical safety ke liye kya karna chahiye?",
+      "options": {
+        "A": "Electrical equipment ko pani se door rakhna",
+        "B": "Wet hands se switches operate karna",
+        "C": "Loose wires use karna",
+        "D": "Generator ko tank ke andar rakhna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Electrical shock se bachne ke liye electrical equipment ko pani se door rakhna chahiye aur unhe proper insulation ke saath use karna chahiye."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Tank cleaning ke dauran 'lockout/tagout' procedure kis liye use hota hai?",
+      "options": {
+        "A": "Tank ko lock karne ke liye",
+        "B": "Unexpected energy release ko prevent karne ke liye",
+        "C": "Tools ko secure karne ke liye",
+        "D": "Chemicals ko store karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lockout/tagout procedure machines ya equipment ko accidental start-up ya unexpected energy release se bachane ke liye use hota hai, ensuring worker safety."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Water tank cleaning ke baad water quality ko ensure karne ke liye kya check karna zaroori hai?",
+      "options": {
+        "A": "Pani ka temperature",
+        "B": "Pani ka color aur smell",
+        "C": "Pani ka level",
+        "D": "Pani ka flow rate"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safai ke baad pani ka color aur smell visually check karna zaroori hai, taaki yeh pata chal sake ki pani saaf aur peene yogya hai ya nahi."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Confined space entry ke liye permit-to-work system kyon zaroori hai?",
+      "options": {
+        "A": "Taki workers ko tank mein jaane ki permission mile",
+        "B": "Taki safety measures aur risks ko properly assess kiya ja sake",
+        "C": "Taki cleaning schedule record kiya ja sake",
+        "D": "Taki customer se payment collect ki ja sake"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Permit-to-work system confined space entry ke risks ko identify, assess aur control karne ke liye ek formal procedure hai, jo worker safety ensure karta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Agar kisi worker ko tank ke andar dizzy feel ho, toh use kya karna chahiye?",
+      "options": {
+        "A": "Kaam jari rakhna chahiye",
+        "B": "Turant bahar aana chahiye aur fresh air leni chahiye",
+        "C": "Aur tez kaam karna chahiye",
+        "D": "Thoda rest karke phir se andar jana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dizziness ya kisi bhi physical discomfort ke case mein worker ko turant confined space se bahar aakar fresh air leni chahiye aur medical assistance leni chahiye agar zaroori ho."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Water tank cleaning technician ko kaun se basic first aid knowledge honi chahiye?",
+      "options": {
+        "A": "CPR aur cuts/burns ki treatment",
+        "B": "Surgery karna",
+        "C": "Dental emergencies handle karna",
+        "D": "Complex medical diagnosis"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Tank cleaning ke dauran chot lagne ya gas exposure jaise emergencies ho sakti hain, isliye CPR aur basic cuts/burns ki treatment jaisi first aid knowledge zaroori hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Tank cleaning ke liye chemical handling karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Chemicals ko direct skin par apply karna",
+        "B": "Proper ventilation aur PPE ka use karna",
+        "C": "Chemicals ko khane ke paas rakhna",
+        "D": "Chemicals ko dusre chemicals ke saath mix karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chemical handling ke dauran fumes se bachne ke liye proper ventilation aur skin contact se bachne ke liye PPE (gloves, mask, goggles) ka upyog karna chahiye."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Water tank cleaning ka ideal frequency kya hai residential buildings ke liye?",
+      "options": {
+        "A": "Har 2 saal mein ek baar",
+        "B": "Har 6 mahine mein ek baar",
+        "C": "Har mahine ek baar",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Residential buildings mein water tanks ko har 6 mahine mein ek baar saaf karna recommend kiya jata hai, taaki pani ki quality maintain rahe."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Tank cleaning se pehle customer ko kya inform karna chahiye?",
+      "options": {
+        "A": "Sirf cost ke baare mein",
+        "B": "Pani ki supply band hone ke baare mein aur cleaning process ke baare mein",
+        "C": "Apne personal details ke baare mein",
+        "D": "Dusre customers ke baare mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ko pehle se inform karna zaroori hai ki pani ki supply kuch der ke liye band rahegi aur cleaning process mein kya steps involved hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Hazard Communication Standard (HCS) ka primary goal kya hai?",
+      "options": {
+        "A": "Workers ko chemicals ke hazards ke baare mein inform karna",
+        "B": "Chemicals ko dispose karna",
+        "C": "Chemicals ko manufacture karna",
+        "D": "Chemicals ko store karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "HCS ka goal hai ki workers ko un chemicals ke hazards ke baare mein pata ho jinhe woh handle karte hain, taaki woh proper precautions le sakein."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Tank cleaning ke dauran emergency contact numbers kahan display hone chahiye?",
+      "options": {
+        "A": "Worker ki pocket mein",
+        "B": "Worksite par visible jagah par",
+        "C": "Company ke office mein",
+        "D": "Customer ke fridge par"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency contact numbers, jaise ambulance, fire brigade, supervisor, worksite par visible jagah par display hone chahiye for quick access in emergencies."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Water tank cleaning mein 'Risk Assessment' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf tank ke size ka estimate lagana",
+        "B": "Cleaning process ke potential hazards ko identify aur evaluate karna",
+        "C": "Chemicals ki cost calculate karna",
+        "D": "Kitne workers chahiye, yeh decide karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Risk assessment ka matlab hai cleaning process se jude sabhi sambhavit khatron ko pehchanana aur unhe kitna khatarnak hai, yeh evaluate karna, taaki unhe control kiya ja sake."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Tank cleaning ke baad tank ko refill karne se pehle kya karna chahiye?",
+      "options": {
+        "A": "Turant pani bhar dena chahiye",
+        "B": "Tank ko achhe se dry karna chahiye",
+        "C": "Tank ko disinfect karna chahiye",
+        "D": "Tank ko paint karna chahiye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Tank ko saaf karne ke baad, use disinfectant se treat karna zaroori hai taaki bache hue germs eliminate ho sakein aur pani peene yogya ban sake."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Water tank cleaning technician ko kis height par kaam karte samay fall protection use karna chahiye?",
+      "options": {
+        "A": "Jab tank ki height 1 meter se zyada ho",
+        "B": "Jab tank ki height 1.8 meters (6 feet) ya usse zyada ho",
+        "C": "Sirf tab jab tank bahut uncha ho",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "OSHA guidelines ke according, 6 feet (approx 1.8 meters) ya usse zyada height par kaam karte samay fall protection (harness, lifeline) use karna mandatory hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Overhead water tanks usually kis material ke bane hote hain?",
+      "options": {
+        "A": "Wood",
+        "B": "Plastic (HDPE/LLDPE) ya RCC (Reinforced Cement Concrete)",
+        "C": "Glass",
+        "D": "Paper"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overhead water tanks aam taur par plastic (HDPE/LLDPE) ya RCC ke bane hote hain unki durability, strength aur cost-effectiveness ke karan."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Underground water tank ko saaf karte samay sabse badi chunauti kya hoti hai?",
+      "options": {
+        "A": "Tank ka chota size",
+        "B": "Sunlight ki kami aur ventilation ki problem",
+        "C": "Tank ka bahut uncha hona",
+        "D": "Pani ka bahut garam hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Underground tanks mein sunlight aur proper ventilation ki kami hoti hai, jisse confined space hazards (toxic gases, oxygen depletion) ka khatra badh jata hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Fiber Reinforced Plastic (FRP) tanks ki kya khaas baat hai?",
+      "options": {
+        "A": "Yeh bahut bhaari hote hain",
+        "B": "Yeh corrosion resistant aur lightweight hote hain",
+        "C": "Yeh sirf garam pani store karte hain",
+        "D": "Yeh transparency ke liye jaane jaate hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FRP tanks lightweight hone ke saath-saath corrosion resistant hote hain, jisse woh lambe samay tak chalte hain aur maintenance kam hoti hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Sedimentation kya hai jo water tanks mein common hai?",
+      "options": {
+        "A": "Pani ka evaporation",
+        "B": "Solid particles ka tank ke bottom par settle hona",
+        "C": "Pani ka color change hona",
+        "D": "Pani ka freezing point change hona"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sedimentation mein pani mein maujood mitti, dhool aur doosre solid particles gravity ke karan tank ke bottom par jama ho jaate hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Algae growth kis tarah ke tanks mein zyada hoti hai?",
+      "options": {
+        "A": "Underground tanks",
+        "B": "Dark aur sealed tanks",
+        "C": "Tanks jo direct sunlight ke contact mein aate hain",
+        "D": "Stainless steel tanks"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Algae growth ke liye sunlight zaroori hai, isliye jo tanks direct sunlight ke contact mein aate hain, unmein algae zyada panapti hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Rusting (jung lagna) kis tarah ke water tanks mein ek common problem hai?",
+      "options": {
+        "A": "Plastic tanks",
+        "B": "FRP tanks",
+        "C": "Metal (iron/steel) tanks",
+        "D": "RCC tanks"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Rusting metal tanks, especially iron ya steel ke tanks mein, pani aur oxygen ke contact mein aane se hoti hai, jisse tank ki structure ko nuksan pahunchta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Water tank mein sludge kya hota hai?",
+      "options": {
+        "A": "Tank ki inner lining",
+        "B": "Pani ke upar tairne wale leaves",
+        "C": "Mitti, dhool, algae aur organic matter ka jama hua mixture",
+        "D": "Pani mein ghule hue minerals"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sludge tank ke bottom par jama hua ek viscous mixture hai jo mitti, dhool, algae, dead insects aur organic matter se banta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Bacteria aur viruses water tanks mein kaise enter karte hain?",
+      "options": {
+        "A": "Hawa se naturally",
+        "B": "Openings, cracks, contaminated water source ya inadequate filtration se",
+        "C": "Tank ke material se",
+        "D": "Pani ke pressure se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bacteria aur viruses tank mein open access points, cracks, contaminated water supply ya insufficient filtration ke through enter karte hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Water tank ke interior mein biofilm kya hai?",
+      "options": {
+        "A": "Tank ki protective coating",
+        "B": "Pani ke surface par oil ki layer",
+        "C": "Microorganisms ki ek thin sticky layer jo tank ki walls par banti hai",
+        "D": "Tank ke andar ki reflection"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Biofilm microorganisms ka ek protective layer hai jo tank ki walls aur surfaces par banta hai, aur yeh bacteria ko chemicals se bachne mein madad karta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Kis type ke tanks mein 'panel' construction common hai?",
+      "options": {
+        "A": "Small plastic tanks",
+        "B": "Modular GRP (Glass Reinforced Plastic) tanks",
+        "C": "Underground concrete tanks",
+        "D": "Stainless steel cylindrical tanks"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Modular GRP tanks ko pre-fabricated panels se assemble kiya jata hai, jisse unhe site par easily install aur customize kiya ja sakta hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Agar tank mein dead birds ya animals milen, toh kya karna chahiye?",
+      "options": {
+        "A": "Unhe chhod dena chahiye",
+        "B": "Unhe carefully remove karke proper dispose karna chahiye",
+        "C": "Unhe pani ke saath flush kar dena chahiye",
+        "D": "Unhe tank mein hi rehne dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dead animals pani ko contaminate kar sakte hain, isliye unhe carefully remove karke proper biological waste disposal protocols ke according dispose karna chahiye."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Water tank mein mineral deposits (hard water stains) kis wajah se hote hain?",
+      "options": {
+        "A": "Chemical cleaning se",
+        "B": "Pani mein calcium aur magnesium jaise minerals ki high concentration se",
+        "C": "Algae growth se",
+        "D": "Tank ki lid khuli rehne se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hard water mein maujood calcium aur magnesium minerals tank ki walls par jama ho jaate hain, jisse white ya off-white deposits ban jaate hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Residential water tanks mein generally kaun si entry/access points hoti hain?",
+      "options": {
+        "A": "Large industrial hatches",
+        "B": "Ek chota manhole ya top cover",
+        "C": "Underground tunnels",
+        "D": "Side doors"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Residential water tanks mein aam taur par ek chota manhole ya removable top cover hota hai, jisse cleaning aur maintenance ke liye access milta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Agar water tank mein cracks ya leaks hon, toh cleaning se pehle kya action lena chahiye?",
+      "options": {
+        "A": "Cleaning continue karni chahiye",
+        "B": "Leaks ko repair karwana chahiye",
+        "C": "Crack ko ignore karna chahiye",
+        "D": "Tank ko replace kar dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cracks ya leaks se contaminated water tank mein enter kar sakta hai aur saaf pani bahar nikal sakta hai, isliye cleaning se pehle unhe repair karwana zaroori hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Water tank mein 'cross-contamination' kya hai?",
+      "options": {
+        "A": "Do alag-alag tanks ka pani mix hona",
+        "B": "Clean water supply ka non-potable source se contaminate hona",
+        "C": "Tank ke andar do alag chemicals ka mix hona",
+        "D": "Pani ka temperature change hona"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cross-contamination tab hoti hai jab peene yogya pani ki supply kisi non-potable source (jaise sewage, industrial waste) se mix ho jati hai, jisse severe health risks ho sakte hain."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Stainless steel water tanks ke kya fayde hain?",
+      "options": {
+        "A": "Rust lagna aasan hai",
+        "B": "Yeh corrosion resistant, hygienic aur durable hote hain",
+        "C": "Yeh bahut saste hote hain",
+        "D": "Yeh sirf garam pani ke liye use hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stainless steel tanks corrosion resistant hote hain, saaf karne mein aasan hote hain, hygienic hote hain aur lambe samay tak chalte hain, isliye yeh high-quality applications ke liye best hain."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Water tank ke inlet aur outlet pipes ko cleaning se pehle kyon band karna zaroori hai?",
+      "options": {
+        "A": "Taki pani waste na ho",
+        "B": "Taki fresh pani tank mein na aaye aur contaminated pani bahar na jaye",
+        "C": "Taki pipes saaf ho sakein",
+        "D": "Taki tank ka pressure maintain rahe"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inlet ko band karne se fresh pani tank mein aana ruk jata hai aur outlet ko band karne se contaminated pani distribution system mein jaane se ruk jata hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Water tank se sludge aur sediments remove karne ke liye kaun sa tool sabse effective hai?",
+      "options": {
+        "A": "Chota brush",
+        "B": "High-pressure washer",
+        "C": "Sponge",
+        "D": "Normal bucket"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "High-pressure washer tank ki walls aur floor se tightly jama hue sludge, sediments aur algae ko remove karne mein bahut effective hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Confined space mein kaam karte samay proper lighting ke liye kya use karna chahiye?",
+      "options": {
+        "A": "Matchstick",
+        "B": "Explosion-proof torch ya headlamp",
+        "C": "Normal household bulb",
+        "D": "Mobile phone ki flashlight"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Confined spaces mein flammable gases ho sakte hain, isliye spark ya explosion se bachne ke liye explosion-proof lighting equipment ka use karna zaroori hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Water tank cleaning mein kaun sa disinfectant commonly use hota hai?",
+      "options": {
+        "A": "Petrol",
+        "B": "Bleaching powder (Chlorine)",
+        "C": "Cooking oil",
+        "D": "Paint thinner"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bleaching powder ya chlorine-based solutions pani ke tanks ko disinfect karne ke liye sabse commonly use hote hain kyunki yeh bacteria aur viruses ko effectively kill karte hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Tank ke andar se pani aur sludge bahar nikalne ke liye kis equipment ka upyog kiya jata hai?",
+      "options": {
+        "A": "Air conditioner",
+        "B": "Submersible pump ya wet-dry vacuum cleaner",
+        "C": "Washing machine",
+        "D": "Microwave oven"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Submersible pumps ya powerful wet-dry vacuum cleaners tank ke andar se pani, sludge aur debris ko efficiently remove karne ke liye use hote hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "PPE mein kaun si cheez shamil nahi hai?",
+      "options": {
+        "A": "Safety goggles",
+        "B": "Gloves",
+        "C": "Trendy clothes",
+        "D": "Respirator mask"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "PPE (Personal Protective Equipment) mein safety goggles, gloves, respirator mask, safety boots, aur helmet shamil hote hain, jo workers ko hazards se bachate hain. Trendy clothes safety equipment nahi hain."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Tank ke corners aur crevices ko saaf karne ke liye kaun sa tool best hai?",
+      "options": {
+        "A": "Large broom",
+        "B": "Hard-bristle brush with long handle",
+        "C": "Soft cloth",
+        "D": "Pressure washer nozzle"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hard-bristle brush with a long handle tank ke corners, crevices aur tough spots tak pahunchne aur scrub karne mein madad karta hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Chemical disinfectants ko use karte samay kya check karna zaroori hai?",
+      "options": {
+        "A": "Expiration date aur dilution ratio",
+        "B": "Brand name",
+        "C": "Packaging ka color",
+        "D": "Price"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Chemicals ki effectiveness unki expiration date aur sahi dilution ratio par depend karti hai. Galat dilution se woh ya toh ineffective honge ya dangerous."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Confined space entry ke liye rescue equipment mein kya shamil hona chahiye?",
+      "options": {
+        "A": "Ladder",
+        "B": "Tripod aur retrieval system",
+        "C": "Rope",
+        "D": "Bucket"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tripod aur retrieval system confined space se kisi injured ya unconscious worker ko safely bahar nikalne ke liye use hota hai, jo manual rescue se mushkil hota hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Water tank cleaning mein pani ka waste minimize karne ke liye kya use karna chahiye?",
+      "options": {
+        "A": "High-flow hose",
+        "B": "Nozzle jo pani ke flow ko control kar sake",
+        "C": "Bucket se pani fekna",
+        "D": "Constant flow mein pani chalana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Adjustable nozzle ya flow control valve wala hose use karne se pani ka waste kam hota hai aur pani ka use efficient ho jata hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Tank ke andar ki air quality ko improve karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Dehumidifier",
+        "B": "Ventilation fan ya blower",
+        "C": "Air freshener",
+        "D": "Heater"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ventilation fan ya blower confined spaces mein fresh air circulate karta hai, toxic gases ko bahar nikalta hai aur oxygen level maintain karta hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Water tank cleaning ke liye kis tarah ke brushes use karne chahiye?",
+      "options": {
+        "A": "Wire brushes",
+        "B": "Metal brushes",
+        "C": "Non-metallic, stiff-bristle brushes",
+        "D": "Soft paint brushes"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Non-metallic, stiff-bristle brushes tank ki surfaces ko scratch kiye bina algae, sludge aur dirt ko effectively scrub karne mein help karte hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar tank mein bahut zyada hard water deposits hon, toh kaun sa chemical use kar sakte hain?",
+      "options": {
+        "A": "Strong acid (with extreme caution)",
+        "B": "Bleach",
+        "C": "Soap water",
+        "D": "Salt water"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Hard water deposits (calcium/magnesium carbonate) ko dissolve karne ke liye mild acidic cleaners use kiye ja sakte hain, lekin bahut zyada caution aur proper PPE ke saath, kyunki yeh corrosive ho sakte hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Water tank cleaning mein safety harness ka kya role hai?",
+      "options": {
+        "A": "Tools ko attach karna",
+        "B": "Worker ko confined space mein girne se bachana",
+        "C": "Worker ko garam rakhna",
+        "D": "Worker ko stylish dikhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety harness worker ko lifeline se connect karta hai aur confined space ya height par kaam karte samay girne se bachata hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Cleaning chemicals ko kahan store karna chahiye?",
+      "options": {
+        "A": "Food items ke paas",
+        "B": "Bachchon ki pahunch se door, cool aur dry place par",
+        "C": "Direct sunlight mein",
+        "D": "Open containers mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chemicals ko bachchon aur pets ki pahunch se door, cool, dry aur well-ventilated area mein, unke original labeled containers mein store karna chahiye."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Water tank cleaning ke baad tools ko kaise maintain karna chahiye?",
+      "options": {
+        "A": "Unhe ganda chhod dena chahiye",
+        "B": "Unhe saaf karke dry karna chahiye aur properly store karna chahiye",
+        "C": "Unhe pani mein bhigo kar rakhna chahiye",
+        "D": "Unhe phenk dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools ki lifespan badhane aur unki functionality maintain karne ke liye, unhe har use ke baad saaf, dry aur properly store karna zaroori hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Bleaching powder ka disinfectant action kis chemical component ke karan hota hai?",
+      "options": {
+        "A": "Calcium carbonate",
+        "B": "Sodium chloride",
+        "C": "Hypochlorite ions (active chlorine)",
+        "D": "Sulphuric acid"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Bleaching powder (Calcium hypochlorite) pani mein dissolve hokar hypochlorite ions release karta hai, jo powerful oxidizing agents hote hain aur microorganisms ko destroy karte hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "High-pressure washer use karte samay kaun sa PPE zaroori hai?",
+      "options": {
+        "A": "Only gloves",
+        "B": "Safety goggles, ear protection aur waterproof footwear",
+        "C": "Normal shoes",
+        "D": "Sun hat"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High-pressure washer se flying debris, chemical splashes aur loud noise ho sakti hai, isliye safety goggles, ear protection aur waterproof footwear zaroori hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Water tank cleaning ka pehla step kya hai?",
+      "options": {
+        "A": "Tank ke andar jaana",
+        "B": "Pani ki supply band karna aur tank ko drain karna",
+        "C": "Chemicals apply karna",
+        "D": "Tank ko inspect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sabse pehle, tank mein fresh pani aane se rokne ke liye supply band ki jati hai, aur phir tank ka pani drain kiya jata hai taaki cleaning shuru ho sake."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Tank drain karne ke baad, agla step kya hona chahiye?",
+      "options": {
+        "A": "Tank ko turant refill karna",
+        "B": "Tank ke andar se sludge aur debris remove karna",
+        "C": "Tank ko khula chhod dena",
+        "D": "Tank ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pani drain hone ke baad, tank ke bottom par jama hue sludge, mitti aur debris ko manually ya vacuum cleaner se remove karna chahiye."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Tank ki interior walls ko kaise saaf karna chahiye?",
+      "options": {
+        "A": "Sirf pani se dhona",
+        "B": "High-pressure washer aur stiff-bristle brushes se scrub karna",
+        "C": "Kapde se pochna",
+        "D": "Hawa se saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High-pressure washer aur stiff-bristle brushes ka use karke tank ki walls se algae, biofilm aur anya deposits ko thoroughly scrub kiya jata hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Disinfectant solution ko tank mein kitni der tak rehne dena chahiye (contact time)?",
+      "options": {
+        "A": "1-2 minute",
+        "B": "Aam taur par 30 minutes se 2 ghante tak, product instructions par depend karta hai",
+        "C": "Pura din",
+        "D": "Sirf 5 second"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Disinfectant ko effective hone ke liye ek specific 'contact time' chahiye hota hai, jo aam taur par 30 minutes se 2 ghante tak hota hai, chemical ke type aur concentration par nirbhar karta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Disinfection ke baad tank ko kya karna chahiye?",
+      "options": {
+        "A": "Turant refill karna",
+        "B": "Achhe se rinse karna taaki chemical residue nikal jaye",
+        "C": "Dry hone ke liye chhod dena",
+        "D": "Dubara scrub karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Disinfection ke baad tank ko clean pani se achhe se rinse karna zaroori hai, taaki koi bhi chemical residue pani mein na bache."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Confined space entry ke dauran ek 'attendant' ka kya role hota hai?",
+      "options": {
+        "A": "Tank ke andar kaam karna",
+        "B": "Bahar se worker ko monitor karna aur emergency mein help bulana",
+        "C": "Tools andar le jana",
+        "D": "Customer se baat karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Attendant confined space ke bahar rehta hai, worker ko monitor karta hai, communication maintain karta hai aur emergency hone par rescue team ko alert karta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Agar tank mein bahut zyada algae growth ho, toh usse remove karne ka best method kya hai?",
+      "options": {
+        "A": "Sirf pani se dhona",
+        "B": "Hard scrubbing, high-pressure washing aur phir disinfectant use karna",
+        "C": "Algae ko sukhne dena",
+        "D": "Chhod dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dense algae growth ko physical scrubbing aur high-pressure washing se remove kiya jata hai, aur phir disinfectant se treat kiya jata hai taaki regrowth na ho."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Tank cleaning ke dauran pani ki supply kitne samay ke liye band rakhi jati hai?",
+      "options": {
+        "A": "10-15 minute",
+        "B": "Jab tak cleaning process complete na ho jaye (usually a few hours)",
+        "C": "Pura din",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pani ki supply tab tak band rakhi jati hai jab tak tank drain na ho jaye, saaf na ho jaye, disinfect na ho jaye aur refill na ho jaye. Yeh process kuch ghante le sakta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Water tank cleaning mein 'chlorination' ka kya purpose hai?",
+      "options": {
+        "A": "Pani ka color change karna",
+        "B": "Pani ko bacteria aur viruses se disinfect karna",
+        "C": "Pani ko garam karna",
+        "D": "Pani ko thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chlorination pani ko disinfect karne ka ek tarika hai, jismein chlorine-based chemicals use kiye jaate hain taaki pani mein maujood harmful microorganisms ko destroy kiya ja sake."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Agar tank mein bahut zyada hard-to-reach areas hon, toh kya technique use karni chahiye?",
+      "options": {
+        "A": "Unhe ignore karna chahiye",
+        "B": "Flexible brushes, extended tools aur specialized nozzles ka use karna chahiye",
+        "C": "Sirf hath se saaf karna chahiye",
+        "D": "Tank ko tod dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flexible brushes, extended tools, aur specialized high-pressure nozzles hard-to-reach areas jaise corners, pipes ke andar aur fittings ko saaf karne mein madad karte hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Tank cleaning ke baad customer ko kya instructions deni chahiye?",
+      "options": {
+        "A": "Pani turant peena shuru kar dein",
+        "B": "Pehle thoda pani drain karein aur phir pani use karein",
+        "C": "Tank ko dobara saaf karein",
+        "D": "Chemicals ko tank mein chhod dein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer ko advise karna chahiye ki tank refill hone ke baad, pehle kuch pani ko faucets se drain karein taaki pipes mein se bhi koi residual disinfectant nikal jaye."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Tank cleaning process mein 'de-watering' ka kya matlab hai?",
+      "options": {
+        "A": "Tank mein pani bharna",
+        "B": "Tank se pani aur sludge nikalna",
+        "C": "Tank ko dry karna",
+        "D": "Tank ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "De-watering ka matlab hai tank ke andar se pani aur usmein maujood sludge ko pumps ya vacuum cleaners ki help se bahar nikalna."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Agar tank ke andar ventilation inadequate ho, toh kya precaution leni chahiye?",
+      "options": {
+        "A": "Kaam fast karna chahiye",
+        "B": "Forced ventilation (blowers) aur gas monitors ka use karna chahiye",
+        "C": "Mask utar dena chahiye",
+        "D": "Zyada der andar rehna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Inadequate ventilation oxygen depletion aur toxic gas accumulation ka karan ban sakti hai. Isliye forced ventilation aur continuous gas monitoring zaroori hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Tank cleaning ke dauran kitne technicians ki team ideal hoti hai?",
+      "options": {
+        "A": "Akela technician",
+        "B": "Minimum 2 technicians (ek andar aur ek attendant bahar)",
+        "C": "5-6 technicians",
+        "D": "Koi bhi number chalega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Confined space entry ke liye minimum 2 logon ki team zaroori hai: ek entry worker aur ek attendant jo bahar se monitor kare aur emergency mein help bulaye."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Tank cleaning ke baad tank ko refill karne se pehle kya check karna chahiye?",
+      "options": {
+        "A": "Tank ki height",
+        "B": "Tank completely clean aur chemical-free hai ya nahi",
+        "C": "Tank ka color",
+        "D": "Tank ki umar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Refill karne se pehle yeh confirm karna zaroori hai ki tank thoroughly clean ho, koi sludge ya debris na ho, aur disinfectant ka koi residue na bacha ho."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar tank mein bahut zyada hard-to-remove stains hon, toh kya karna chahiye?",
+      "options": {
+        "A": "Unhe chhod dena chahiye",
+        "B": "Specialized stain removers ya light abrasive methods ka use karna chahiye (tank material ko damage na ho)",
+        "C": "Tank ko paint kar dena chahiye",
+        "D": "Zyada bleach use karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Difficult stains ke liye specialized, tank-safe stain removers ya light abrasive pads ka use kiya ja sakta hai, lekin yeh ensure karna chahiye ki tank surface ko damage na ho."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Water tank cleaning process mein 'pre-inspection' ka kya importance hai?",
+      "options": {
+        "A": "Sirf customer se milna",
+        "B": "Tank ke type, condition, contamination level aur entry hazards ko assess karna",
+        "C": "Tools count karna",
+        "D": "Pani ka taste check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pre-inspection se cleaning plan banane, sahi tools aur chemicals select karne, aur potential hazards ko pehle se identify karne mein madad milti hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Water tank se nikle hue sludge aur contaminated pani ko kahan dispose karna chahiye?",
+      "options": {
+        "A": "Open field mein",
+        "B": "Public drainage system mein bina treatment ke",
+        "C": "Designated disposal sites par ya proper treatment ke baad sewage system mein",
+        "D": "Nadi mein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sludge aur contaminated water mein harmful bacteria aur chemicals ho sakte hain, isliye unhe environmental regulations ke according treat karke ya designated sites par dispose karna chahiye."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Chemical waste dispose karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Unhe kisi bhi drain mein fek dena chahiye",
+        "B": "Unhe original containers mein properly seal karke hazardous waste disposal facility mein bhejna chahiye",
+        "C": "Unhe jalana chahiye",
+        "D": "Unhe mitti mein daba dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemical waste ko proper hazardous waste disposal protocols ke according handle karna chahiye, taaki environment aur public health ko nuksan na ho."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Environmental compliance ka kya matlab hai water tank cleaning ke context mein?",
+      "options": {
+        "A": "Sirf tank ko saaf karna",
+        "B": "Cleaning process ke dauran environmental laws aur regulations ko follow karna",
+        "C": "Zyada chemicals use karna",
+        "D": "Pani ko waste karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Environmental compliance ka matlab hai ki cleaning operations se environment ko koi nuksan na ho, jaise proper waste disposal, chemical handling aur water conservation."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Used PPE ko kaise dispose karna chahiye?",
+      "options": {
+        "A": "Normal dustbin mein",
+        "B": "Properly sealed bags mein aur general waste ke saath (agar heavily contaminated na ho)",
+        "C": "Jala dena chahiye",
+        "D": "Reuse karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar PPE heavily contaminated na ho, toh unhe sealed bags mein general waste ke saath dispose kiya ja sakta hai. Agar biohazard ho, toh special disposal ki zaroorat hoti hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Water conservation ke liye tank cleaning mein kya step le sakte hain?",
+      "options": {
+        "A": "Zyada pani use karna",
+        "B": "Pani ke flow ko control karna aur leakage repair karna",
+        "C": "Pani ko drain na karna",
+        "D": "Pani ko waste karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pani ke flow ko control karne wale nozzles ka use karna aur tank/pipes mein leakage ko repair karna pani bachane mein madad karta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Agar cleaning ke dauran koi chemical spill ho jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Use ignore karna chahiye",
+        "B": "Turant spill ko contain aur clean karna chahiye with appropriate PPE",
+        "C": "Pani se dho dena chahiye",
+        "D": "Customers ko blame karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemical spills ko turant contain aur clean karna zaroori hai taaki yeh environment mein na faile aur logon ko nuksan na pahunchaye. Spill kit ka use karein."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Biohazard waste (jaise dead animals) ko kaise dispose karna chahiye?",
+      "options": {
+        "A": "Normal dustbin mein",
+        "B": "Special biohazard bags mein pack karke authorized agency ko dena chahiye",
+        "C": "Garden mein dafan karna chahiye",
+        "D": "Pani mein baha dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Biohazard waste mein pathogens ho sakte hain, isliye unhe special biohazard bags mein seal karke authorized biohazard waste disposal agency ke through dispose karna chahiye."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Noise pollution ko kam karne ke liye kya steps le sakte hain?",
+      "options": {
+        "A": "Loud music chalana",
+        "B": "Noise-reducing equipment use karna aur kaam ko din ke samay karna",
+        "C": "Raat mein kaam karna",
+        "D": "Zor-zor se bolna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Noise-reducing equipment ka use karna aur residential areas mein kaam ko din ke samay karna, noise pollution ko minimize karta hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Water tank cleaning ke baad generated waste water ko reuse kar sakte hain kya?",
+      "options": {
+        "A": "Hamesha",
+        "B": "Agar proper treatment kiya gaya ho toh non-potable uses ke liye",
+        "C": "Kabhi nahi",
+        "D": "Directly peene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar waste water ko proper treatment (filtration, disinfection) ke through saaf kiya jaye, toh use gardening ya toilet flushing jaise non-potable uses ke liye reuse kiya ja sakta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Hazardous waste management ke liye kis government body ke guidelines follow karne chahiye?",
+      "options": {
+        "A": "Local municipality aur Pollution Control Board",
+        "B": "Sports authority",
+        "C": "Tourism department",
+        "D": "Education department"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hazardous waste management ke liye local municipality aur State/Central Pollution Control Board ke guidelines aur regulations ko follow karna zaroori hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Agar cleaning ke dauran koi pipe leak ho jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Leak ko ignore karna chahiye",
+        "B": "Turant leak ko band karna aur repair karna chahiye",
+        "C": "Leak ko bucket se collect karna chahiye",
+        "D": "Pani ka pressure badha dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Leakages se pani waste hota hai aur contamination ka khatra badhta hai, isliye unhe turant band karke repair karna chahiye."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Plastic waste (jaise empty chemical bottles) ko kaise dispose karna chahiye?",
+      "options": {
+        "A": "Jala dena chahiye",
+        "B": "Recycle karna chahiye ya general waste mein dispose karna chahiye (agar chemicals se achhe se rinse kiya gaya ho)",
+        "C": "Nadi mein fek dena chahiye",
+        "D": "Road par chhod dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Empty plastic chemical bottles ko achhe se rinse karke recycle kiya ja sakta hai ya general waste mein dispose kiya ja sakta hai, jisse environmental pollution kam ho."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Water tank cleaning mein 'sustainability' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf saste chemicals use karna",
+        "B": "Environmentally friendly methods, products aur waste management practices use karna",
+        "C": "Zyada energy consume karna",
+        "D": "Pani ko bina soche samjhe use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sustainability ka matlab hai ki cleaning practices environment ko nuksan na pahunchaye, resources ko conserve karein, aur long-term environmental health ko promote karein."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar cleaning ke dauran pani ki supply band karne se logon ko inconvenience ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Kaam rok dena chahiye",
+        "B": "Customer ko pehle se inform karna aur minimum disruption ke saath kaam karna",
+        "C": "Customer se jhagda karna chahiye",
+        "D": "Pani ki supply band hi nahi karni chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ko advance mein inform karna aur kaam ko efficiently complete karna, inconvenience ko kam karta hai aur customer satisfaction badhata hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Water pollution control ke liye kaun se laws relevant hain?",
+      "options": {
+        "A": "Air (Prevention and Control of Pollution) Act",
+        "B": "Water (Prevention and Control of Pollution) Act",
+        "C": "Forest Conservation Act",
+        "D": "Wildlife Protection Act"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The Water (Prevention and Control of Pollution) Act, 1974, India mein water pollution control aur prevention ke liye primary legislation hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Water tank cleaning ke baad area ko kaise saaf karna chahiye?",
+      "options": {
+        "A": "Ganda chhod dena chahiye",
+        "B": "Spills, debris aur equipment ko hata kar area ko saaf aur व्यवस्थित chhodna chahiye",
+        "C": "Customer se saaf karwane ko kehna chahiye",
+        "D": "Sirf apne tools utha lene chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professionalism maintain karne aur customer satisfaction ke liye, worksite ko cleaning ke baad saaf aur व्यवस्थित chhodna zaroori hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Tank cleaning ke baad service report mein kya details honi chahiye?",
+      "options": {
+        "A": "Sirf bill amount",
+        "B": "Date, time, tank type, cleaning method, chemicals used, observations aur recommendations",
+        "C": "Personal opinions",
+        "D": "Customer ki personal details"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek comprehensive service report mein sabhi relevant details honi chahiye jo future reference, maintenance planning aur quality assurance ke liye helpful ho."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Customer ko future maintenance ke liye kya advise deni chahiye?",
+      "options": {
+        "A": "Kabhi saaf na karein",
+        "B": "Regular cleaning schedule follow karein aur tank ko cover rakhein",
+        "C": "Har mahine cleaning karwayein",
+        "D": "Sirf garmiyon mein saaf karwayein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular cleaning schedule (har 6 mahine) aur tank ko cover rakhne se contamination kam hota hai aur pani ki quality maintain rehti hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Agar customer cleaning process se satisfied na ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Customer se jhagda karna chahiye",
+        "B": "Unki complaints ko sunna chahiye aur solution provide karne ki koshish karni chahiye",
+        "C": "Unhe ignore karna chahiye",
+        "D": "Company ko chhod dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer complaints ko professionally handle karna aur unhe address karna good customer service ka part hai, jo business reputation ke liye important hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Water tank ki lifespan badhane ke liye kya maintenance tips deni chahiye?",
+      "options": {
+        "A": "Tank ko khula chhod dena",
+        "B": "Regular inspection for cracks/leaks, proper lid aur timely cleaning",
+        "C": "Tank ko neglect karna",
+        "D": "Tank ko paint na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular inspection se problems ko jaldi identify kiya ja sakta hai, proper lid contamination rokti hai, aur timely cleaning damage ko prevent karti hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Documentation mein 'Before & After' photos kyon zaroori hain?",
+      "options": {
+        "A": "Sirf social media par post karne ke liye",
+        "B": "Customer ko cleaning ki effectiveness dikhane aur record maintain karne ke liye",
+        "C": "Photos click karna ek hobby hai",
+        "D": "Time pass ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Before & After photos cleaning ki quality aur effectiveness ka visual proof provide karte hain, jo customer satisfaction aur professional record-keeping ke liye useful hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Customer feedback lena kyon important hai?",
+      "options": {
+        "A": "Sirf time waste karne ke liye",
+        "B": "Service quality improve karne aur technician ki performance assess karne ke liye",
+        "C": "Customer ko irritate karne ke liye",
+        "D": "Koi reason nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer feedback valuable insights provide karta hai jisse service quality ko continuously improve kiya ja sakta hai aur technician ki performance ko monitor kiya ja sakta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Agar tank mein minor cracks hon, toh kya recommendation deni chahiye?",
+      "options": {
+        "A": "Tank ko replace kar dena",
+        "B": "Minor cracks ko seal ya repair karwana chahiye",
+        "C": "Unhe ignore karna chahiye",
+        "D": "Tank mein cement bhar dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Minor cracks ko timely seal ya repair karwane se bade damage aur contamination ko roka ja sakta hai, jisse tank ki lifespan badhti hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Service technician ko customer se kaise baat karni chahiye?",
+      "options": {
+        "A": "Roughly aur rudely",
+        "B": "Politely, professionally aur clear communication ke saath",
+        "C": "Sirf kaam se kaam rakhna chahiye",
+        "D": "Customer ko lecture dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Polite aur professional communication customer satisfaction aur company ki reputation ke liye essential hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Maintenance logbook mein kya record karna chahiye?",
+      "options": {
+        "A": "Sirf technician ka naam",
+        "B": "Cleaning dates, methods, problems encountered aur next cleaning due date",
+        "C": "Customer ke family details",
+        "D": "Weather conditions"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Maintenance logbook future planning, compliance aur tank ki history track karne ke liye ek valuable record hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar customer ko waterborne illness ke symptoms hon cleaning ke baad, toh kya karna chahiye?",
+      "options": {
+        "A": "Unhe ignore karna chahiye",
+        "B": "Turant company ko inform karna chahiye aur medical help lene ki advise deni chahiye",
+        "C": "Customer ko blame karna chahiye",
+        "D": "Bolna chahiye ki yeh cleaning ki wajah se nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yeh ek serious situation hai. Company ko turant inform karna chahiye aur customer ko medical attention lene ki salah deni chahiye, aur further investigation initiate karni chahiye."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Water tank cleaning technician ke liye 'up-selling' ka kya matlab hai?",
+      "options": {
+        "A": "Customer ko sirf cleaning service provide karna",
+        "B": "Customer ko additional relevant services (jaise tank repair, water testing) offer karna",
+        "C": "Customer ko mehngi services bechna jo unhe nahi chahiye",
+        "D": "Customer ko dusri companies ke baare mein batana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Up-selling ka matlab hai customer ki needs ko samajhkar unhe additional, beneficial services offer karna jo unke water system ki overall health ko improve karein."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Service quality ko kaise measure kiya ja sakta hai?",
+      "options": {
+        "A": "Sirf kitna paisa kamaya",
+        "B": "Customer satisfaction surveys, repeat business aur complaints ki sankhya",
+        "C": "Kitne ghante kaam kiya",
+        "D": "Kitne tools use kiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer satisfaction, repeat customers aur low complaint rates high service quality ke indicators hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Water tank cleaning technician ko apni skills kaise update karte rehna chahiye?",
+      "options": {
+        "A": "Kabhi nahi",
+        "B": "Training programs, workshops aur industry publications ke through",
+        "C": "Sirf experience se",
+        "D": "Purane methods hi use karte rehna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Industry mein naye techniques, equipment aur safety standards aate rehte hain, isliye continuous learning aur skill development zaroori hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Customer ko invoice kab dena chahiye?",
+      "options": {
+        "A": "Kaam shuru karne se pehle",
+        "B": "Service complete hone ke baad",
+        "C": "Kabhi nahi",
+        "D": "Ek mahine baad"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Invoice service complete hone ke baad provide kiya jata hai, jismein services rendered, charges aur payment terms mention hote hain."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Professional ethics mein kya shamil hai?",
+      "options": {
+        "A": "Sirf paisa kamana",
+        "B": "Honesty, integrity, reliability aur customer confidentiality",
+        "C": "Dusre technicians ki burai karna",
+        "D": "Customer ko bewakoof banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Professional ethics mein honesty, integrity, reliability, aur customer ki privacy ka samman karna shamil hai, jo trust aur long-term relationships build karta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Water tank cleaning technician ko apni company ki policies aur procedures ke baare mein kitni knowledge honi chahiye?",
+      "options": {
+        "A": "Thodi bahut",
+        "B": "Complete knowledge, taaki woh unhe properly follow kar sake",
+        "C": "Koi knowledge nahi",
+        "D": "Sirf jo use pasand ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Company policies aur procedures ki complete knowledge technician ko sahi tarike se kaam karne, safety standards maintain karne aur company ke objectives achieve karne mein madad karti hai."
+    }
+  ]
+}

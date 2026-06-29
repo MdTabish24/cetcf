@@ -1,0 +1,1443 @@
+{
+  "course_name": "Pipe Fitting & Valve Maintenance",
+  "sector": "Plumbing, Sanitation & Water",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Pipe Fitting Basics & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Pipe Materials & Specifications",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Pipe Joining Techniques & Fittings",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Valve Types & Functions",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Valve Maintenance & Troubleshooting",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Tools, Testing & Advanced Safety",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Pipe fitting ka primary purpose kya hai?",
+      "options": {
+        "A": "Pipes ko support dena",
+        "B": "Fluids ko ek jagah se dusri jagah transport karna",
+        "C": "Pipes ko paint karna",
+        "D": "Pipes ko decorate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pipe fitting ka mukhya uddeshya fluids (jaise paani, gas) ko ek location se dusri location tak safely aur efficiently transport karna hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Kisi bhi pipe fitting job shuru karne se pehle sabse pehla safety step kya hona chahiye?",
+      "options": {
+        "A": "Tools check karna",
+        "B": "PPE (Personal Protective Equipment) pehenna",
+        "C": "Work area clean karna",
+        "D": "Supervisor se permission lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety ke liye, koi bhi kaam shuru karne se pehle PPE (jaise safety glasses, gloves, helmet, safety shoes) pehenna bahut zaroori hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Confined space mein kaam karte waqt kis cheez ka special dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Lighting ka",
+        "B": "Ventilation ka",
+        "C": "Noise level ka",
+        "D": "Temperature ka"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Confined spaces mein oxygen ki kami ya toxic gases ka khatra hota hai, isliye proper ventilation ensure karna bahut important hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Lockout/Tagout (LOTO) procedure ka kya maqsad hai?",
+      "options": {
+        "A": "Equipment ko lock karna taaki koi chori na kar sake",
+        "B": "Machine ko accidentally start hone se rokna maintenance ke dauraan",
+        "C": "Tools ko secure karna",
+        "D": "Work area ko mark karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LOTO ka maqsad hai energy sources ko isolate aur lock karna taaki maintenance ya repairs ke waqt machine accidentally start na ho, जिससे serious injuries se bacha ja sake."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Hot work permit kab zaroori hota hai?",
+      "options": {
+        "A": "Jab bhi welding ya cutting involve ho",
+        "B": "Jab bhi high temperature mein kaam karna ho",
+        "C": "Jab bhi chemical use karna ho",
+        "D": "Jab bhi heavy lifting karna ho"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hot work permit tab zaroori hota hai jab bhi welding, cutting, grinding jaise kaam ho jismein heat ya sparks generate hote hain, fire hazard ko manage karne ke liye."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Ek pipe fitter ke liye good housekeeping ka kya matlab hai?",
+      "options": {
+        "A": "Apne ghar ki safai karna",
+        "B": "Workplace ko clean aur organized rakhna",
+        "C": "Sirf tools ko saaf rakhna",
+        "D": "Personal hygiene maintain karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Good housekeeping ka matlab hai workplace ko saaf, tidy aur organized rakhna taaki accidents aur hazards ko minimize kiya ja sake."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Ergonomics ka pipe fitting mein kya importance hai?",
+      "options": {
+        "A": "Tools ko aesthetically pleasing banana",
+        "B": "Workplace ko comfortable aur efficient banana, injuries se bachne ke liye",
+        "C": "Pipe materials ko select karna",
+        "D": "Pipe ke diameter ko calculate karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ergonomics ka maqsad hai workplace design aur tools ko is tarah optimize karna ki workers comfortable hon, unki productivity badhe aur repetitive strain injuries jaise musculoskeletal disorders se bacha ja sake."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Hazardous materials ke saath kaam karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Sirf gloves pehenna",
+        "B": "MSDS (Material Safety Data Sheet) padhna aur proper PPE use karna",
+        "C": "Jaldi se kaam khatam karna",
+        "D": "Kisi aur ko kaam karne dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hazardous materials ke saath kaam karte waqt, MSDS padhkar uski properties aur safety measures ko samajhna aur appropriate PPE (jaise respirator, chemical-resistant gloves) use karna bahut zaroori hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Ek pipe fitter ko kis type ke fire extinguisher ki basic knowledge honi chahiye?",
+      "options": {
+        "A": "Sirf water-based",
+        "B": "Sirf CO2",
+        "C": "Different classes (A, B, C, D, K) aur unka use",
+        "D": "Sirf foam-based"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ek pipe fitter ko alag-alag fire classes (jaise A for ordinary combustibles, B for flammable liquids, C for electrical) aur unke liye suitable extinguisher ke baare mein pata hona chahiye."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Working at height par safety ke liye kya use karna mandatory hai?",
+      "options": {
+        "A": "Safety glasses",
+        "B": "Safety harness",
+        "C": "Safety shoes",
+        "D": "Safety vest"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Heights par kaam karte waqt girne se bachne ke liye safety harness ka use karna mandatory hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Kis type ki injury pipe fitting mein sabse common hai?",
+      "options": {
+        "A": "Electric shock",
+        "B": "Cuts aur abrasions",
+        "C": "Burns",
+        "D": "Hearing loss"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools aur sharp edges ke karan cuts aur abrasions pipe fitting mein common injuries hain, isliye gloves pehenna zaroori hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Manual handling operations mein injuries se bachne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Hamesha akele lift karna",
+        "B": "Sahi lifting techniques ka use karna ya mechanical aids lena",
+        "C": "Jaldi se lift karna",
+        "D": "Heavy objects ko avoid karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Heavy objects ko lift karte waqt back injuries se bachne ke liye sahi lifting techniques (jaise ghutne mod kar lift karna) ka use karna ya cranes/trolleys jaise mechanical aids lena chahiye."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Ek pipe fitter ke liye 'Tagout' ka kya matlab hai LOTO procedure mein?",
+      "options": {
+        "A": "Ek warning tag lagana ki equipment under maintenance hai",
+        "B": "Equipment ko permanently disable karna",
+        "C": "Equipment ko inventory ke liye tag karna",
+        "D": "Equipment ko paint karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Tagout mein ek tag lagaya jaata hai jo clearly batata hai ki equipment ko operate nahi karna hai kyunki us par kaam chal raha hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Electrical hazards se bachne ke liye kya precaution leni chahiye?",
+      "options": {
+        "A": "Wet gloves pehenna",
+        "B": "Insulated tools use karna aur power off karna",
+        "C": "Nange haathon se wire pakadna",
+        "D": "Power sources ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical hazards se bachne ke liye hamesha insulated tools ka use karein aur kisi bhi electrical kaam se pehle power source ko disconnect (off) karein."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Noise pollution se hearing loss se bachne ke liye kya use karna chahiye?",
+      "options": {
+        "A": "Safety glasses",
+        "B": "Earplugs ya earmuffs",
+        "C": "Safety helmet",
+        "D": "Dust mask"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "High noise levels wale areas mein kaam karte waqt hearing loss se bachne ke liye earplugs ya earmuffs ka use karna chahiye."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Work permit system ka kya fayda hai?",
+      "options": {
+        "A": "Kaam ko slow karna",
+        "B": "Kaam ki safety ko ensure karna aur hazards ko identify karna",
+        "C": "Sirf paperwork badhana",
+        "D": "Kaam ko record karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Work permit system ek formal system hai jo high-risk activities ko control karta hai. Ye ensure karta hai ki kaam shuru hone se pehle sabhi hazards ko identify kiya gaya hai aur necessary safety precautions li gayi hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Emergency exit routes ko hamesha clear kyun rakhna chahiye?",
+      "options": {
+        "A": "Taaki log aasani se aaja sakein",
+        "B": "Taaki emergency mein log safely bahar nikal sakein",
+        "C": "Taaki saman aasani se move ho sake",
+        "D": "Taaki work area bada lage"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency exit routes ko hamesha clear rakhna chahiye taaki aag ya kisi aur emergency ki sthiti mein log bina rukawat ke bahar nikal sakein."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Domestic plumbing mein commonly use hone wala plastic pipe material kaun sa hai?",
+      "options": {
+        "A": "GI (Galvanized Iron)",
+        "B": "MS (Mild Steel)",
+        "C": "PVC (Polyvinyl Chloride)",
+        "D": "Copper"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "PVC pipes domestic plumbing mein water supply aur drainage ke liye bahut commonly use hote hain kyunki ye lightweight, corrosion-resistant aur affordable hote hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "High-pressure aur high-temperature applications ke liye kaun sa pipe material prefer kiya jaata hai?",
+      "options": {
+        "A": "PVC",
+        "B": "CPVC",
+        "C": "PPR",
+        "D": "Steel (MS/GI)"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Steel pipes (Mild Steel ya Galvanized Iron) apni high strength aur pressure-bearing capacity ke karan high-pressure aur high-temperature industrial applications mein prefer kiye jaate hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "CPVC pipes ka full form kya hai?",
+      "options": {
+        "A": "Chlorinated Polyvinyl Chloride",
+        "B": "Copper Polyvinyl Chloride",
+        "C": "Compressed Polyvinyl Chloride",
+        "D": "Chemical Polyvinyl Chloride"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CPVC ka full form Chlorinated Polyvinyl Chloride hai, jo PVC se zyada temperature resist kar sakta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "PPR pipes kis application ke liye best suited hain?",
+      "options": {
+        "A": "Drainage systems",
+        "B": "Cold water supply only",
+        "C": "Hot and cold water supply",
+        "D": "Underground gas lines"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "PPR (Polypropylene Random Copolymer) pipes hot aur cold water supply ke liye ideal hain kyunki ye high temperatures ko handle kar sakte hain aur chemical resistant bhi hote hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "GI pipes ki coating kis metal ki hoti hai?",
+      "options": {
+        "A": "Copper",
+        "B": "Aluminium",
+        "C": "Zinc",
+        "D": "Lead"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "GI (Galvanized Iron) pipes ko corrosion se bachane ke liye zinc ki layer se coat kiya jaata hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Copper pipes ka main fayda kya hai plumbing mein?",
+      "options": {
+        "A": "Sabse saste hote hain",
+        "B": "Excellent corrosion resistance aur heat transfer properties",
+        "C": "Install karna bahut aasan hota hai",
+        "D": "Bahut flexible hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Copper pipes apni excellent corrosion resistance aur high thermal conductivity ke liye jaane jaate hain, jo unhe hot water systems aur HVAC applications ke liye ideal banata hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Pipe ke 'Nominal Bore' (NB) ka kya matlab hai?",
+      "options": {
+        "A": "Pipe ka actual outer diameter",
+        "B": "Pipe ka actual inner diameter",
+        "C": "Pipe ka approximate inner diameter, jo ki ek reference size hai",
+        "D": "Pipe ki length"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Nominal Bore (NB) ya Nominal Pipe Size (NPS) ek standard reference size hai jo pipe ke approximate inner diameter ko darshata hai, actual physical dimensions se thoda alag ho sakta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Schedule number pipe ki kis property ko define karta hai?",
+      "options": {
+        "A": "Length",
+        "B": "Outer Diameter",
+        "C": "Wall Thickness",
+        "D": "Material type"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pipe Schedule number (jaise Sch 40, Sch 80) pipe ki wall thickness ko specify karta hai, jo uski pressure bearing capacity ko determine karta hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Kis pipe material par UV radiation ka sabse zyada bura asar padta hai?",
+      "options": {
+        "A": "Steel",
+        "B": "Copper",
+        "C": "PVC",
+        "D": "PPR"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "PVC pipes direct sunlight (UV radiation) ke contact mein aane par brittle ho jaate hain aur degrade hone lagte hain, isliye unhe exposed areas mein use karne se pehle protect karna chahiye."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Ductile Iron pipes kahan use hote hain?",
+      "options": {
+        "A": "Domestic hot water",
+        "B": "High-pressure water distribution mains",
+        "C": "Small drainage lines",
+        "D": "Gas appliances"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ductile Iron pipes apni high strength, durability aur corrosion resistance ke karan large-scale municipal water distribution mains aur sewage systems mein use hote hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Insulation pipe ke liye kyun zaroori hai?",
+      "options": {
+        "A": "Pipe ko decorate karne ke liye",
+        "B": "Heat loss ya heat gain ko minimize karne ke liye",
+        "C": "Pipe ko strong banane ke liye",
+        "D": "Pipe ko clean rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Insulation pipe mein se heat ke flow (loss ya gain) ko reduce karta hai, जिससे energy efficiency improve hoti hai aur condensation bhi control hota hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Ek pipe ki 'working pressure' kya hoti hai?",
+      "options": {
+        "A": "Maximum pressure jo pipe kabhi bhi jhel sakta hai",
+        "B": "Pipe ki design life mein safely handle kar sakne wali maximum continuous pressure",
+        "C": "Testing pressure",
+        "D": "Atmospheric pressure"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Working pressure woh maximum pressure hai jis par pipe ko uski design life ke dauraan continuously safely operate kiya ja sakta hai. Ye burst pressure se kam hoti hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Polyethylene (PE) pipes ka ek common use kya hai?",
+      "options": {
+        "A": "Hot water plumbing",
+        "B": "Natural gas distribution aur irrigation systems",
+        "C": "High-pressure steam lines",
+        "D": "Chemical drainage"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PE pipes apni flexibility, corrosion resistance aur leak-free joints ke karan natural gas distribution aur agricultural irrigation systems mein widely use hote hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Stainless steel pipes kis liye use kiye jaate hain?",
+      "options": {
+        "A": "Saste domestic plumbing ke liye",
+        "B": "High corrosion resistance aur hygienic applications ke liye",
+        "C": "Low-pressure drainage ke liye",
+        "D": "Temporary installations ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stainless steel pipes apni superior corrosion resistance aur hygienic properties ke karan food processing, pharmaceutical aur chemical industries mein use hote hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Pipe bending se kya achieve kiya jaata hai?",
+      "options": {
+        "A": "Pipes ko straight karna",
+        "B": "Pipes mein joints ki sankhya kam karna",
+        "C": "Pipes ko weld karna",
+        "D": "Pipes ko cut karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pipe bending se pipe system mein elbows aur fittings ki zaroorat kam ho jaati hai, jisse leak points kam hote hain aur flow efficiency badhti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Pipe supports ka kya role hai?",
+      "options": {
+        "A": "Pipes ko decorate karna",
+        "B": "Pipes ko vibration aur thermal expansion se hone wale stress se bachana",
+        "C": "Pipes ko leak-proof banana",
+        "D": "Pipes ko insulate karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pipe supports pipe ke weight ko bear karte hain aur thermal expansion, vibration aur seismic loads ke karan hone wale stress ko distribute karte hain, jisse pipe ki integrity bani rehti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Pipe identification codes ya color coding kyun use hota hai?",
+      "options": {
+        "A": "Pipes ko sundar banane ke liye",
+        "B": "Pipe ke andar flow ho rahe fluid ko identify karne ke liye",
+        "C": "Pipe ke material ko identify karne ke liye",
+        "D": "Pipe ke manufacturer ko identify karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Color coding ya identification codes pipes ke andar flow ho rahe fluid (jaise paani, steam, gas, chemical) ko quickly identify karne mein help karte hain, jo safety aur maintenance ke liye important hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Solvent cement welding kis type ke pipes ke liye use hota hai?",
+      "options": {
+        "A": "Metal pipes (steel, copper)",
+        "B": "PVC aur CPVC pipes",
+        "C": "Ductile iron pipes",
+        "D": "Glass pipes"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Solvent cementing ek chemical process hai jo PVC aur CPVC pipes ko permanently join karne ke liye use hota hai, jismein pipe aur fitting ki surfaces ko chemically fuse kiya jaata hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Threaded joint banate waqt leak-proof seal ke liye kya use kiya jaata hai?",
+      "options": {
+        "A": "Grease",
+        "B": "Teflon tape (PTFE tape) ya pipe sealant",
+        "C": "Super glue",
+        "D": "Paint"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Teflon tape (PTFE tape) ya pipe joint compound threaded connections mein gaps ko fill karke leak-proof seal provide karte hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Flange joint ka main component kya hai?",
+      "options": {
+        "A": "Solvent cement",
+        "B": "Gasket",
+        "C": "Solder",
+        "D": "Threading"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flange joint mein do flanges ko bolting ke through connect kiya jaata hai, aur unke beech mein ek gasket rakha jaata hai jo leak-proof seal provide karta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Pipe ko 90 degree par bend karne ke liye kaun si fitting use hoti hai?",
+      "options": {
+        "A": "Coupling",
+        "B": "Tee",
+        "C": "Elbow",
+        "D": "Reducer"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Elbow fitting pipe direction ko change karne ke liye use hoti hai, commonly 90 degree ya 45 degree par."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Do alag-alag diameter ke pipes ko connect karne ke liye kaun si fitting use hoti hai?",
+      "options": {
+        "A": "Union",
+        "B": "Cross",
+        "C": "Reducer",
+        "D": "Cap"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Reducer fitting do alag-alag size ke pipes ko connect karti hai, ek bade diameter se chhote diameter tak ya vice versa."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Solder joint banane ke liye kis metal ki alloy use hoti hai?",
+      "options": {
+        "A": "Steel",
+        "B": "Lead (ab kam use hota hai) aur Tin",
+        "C": "Aluminium",
+        "D": "Zinc"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Soldering mein ek filler metal (solder, usually tin-lead alloy ya lead-free tin alloy) ko melt karke do metal parts ko join kiya jaata hai, jaise copper pipes."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Welding pipe joining method ka kya fayda hai?",
+      "options": {
+        "A": "Sabse sasta method hai",
+        "B": "Bahut strong aur leak-proof joint banta hai",
+        "C": "Koi special skill nahi chahiye",
+        "D": "Bahut jaldi ho jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Welding se banaye gaye joints bahut strong aur leak-proof hote hain, aur ye high-pressure aur high-temperature applications ke liye ideal hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Compression fitting kaise kaam karti hai?",
+      "options": {
+        "A": "Heat use karke",
+        "B": "Solvent use karke",
+        "C": "Nut ko tighten karke ek ferrule ko pipe par compress karke",
+        "D": "Threads ko cut karke"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Compression fitting mein ek nut ko tighten kiya jaata hai, jo ek ferrule (compression ring) ko pipe par compress karta hai, jisse ek watertight seal banta hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Pipe system mein maintenance ya future expansion ke liye temporary disconnection ki zaroorat ho to kaun si fitting best hai?",
+      "options": {
+        "A": "Welded joint",
+        "B": "Solvent cement joint",
+        "C": "Union",
+        "D": "Coupling"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Union fitting ek mechanical joint hai jo pipes ko easily connect aur disconnect karne ki facility provide karti hai, bina poori piping system ko disturb kiye."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Branch line banane ke liye kaun si fitting use hoti hai?",
+      "options": {
+        "A": "Elbow",
+        "B": "Reducer",
+        "C": "Tee",
+        "D": "Cap"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tee fitting ek pipe line se 90 degree par ek branch line nikalne ke liye use hoti hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Pipes ke end ko seal karne ke liye kaun si fitting use hoti hai?",
+      "options": {
+        "A": "Plug",
+        "B": "Nipple",
+        "C": "Bushing",
+        "D": "Coupling"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Plug ya cap fitting pipe ke open end ko permanently ya temporarily seal karne ke liye use hoti hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "PPR pipes ko join karne ka sabse common method kya hai?",
+      "options": {
+        "A": "Threading",
+        "B": "Soldering",
+        "C": "Heat fusion (butt welding ya socket welding)",
+        "D": "Solvent cementing"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "PPR pipes ko heat fusion method se join kiya jaata hai, jismein pipe aur fitting ko heat karke fuse kiya jaata hai, jisse ek homogeneous aur leak-proof joint banta hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Grooved coupling ka kya fayda hai?",
+      "options": {
+        "A": "Welding ki zaroorat nahi hoti",
+        "B": "Bahut flexible hota hai",
+        "C": "Fast installation aur vibration absorption",
+        "D": "Sabhi metal pipes ke liye use hota hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Grooved couplings fast installation provide karte hain, allow for some pipe movement (thermal expansion/contraction) aur vibration ko absorb karte hain, jo fire protection aur HVAC systems mein common hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Flange joint mein bolts ko tighten karte waqt kis pattern ka use karna chahiye?",
+      "options": {
+        "A": "Clockwise pattern",
+        "B": "Anticlockwise pattern",
+        "C": "Star (cross) pattern",
+        "D": "Kisi bhi order mein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Flange bolts ko star (cross) pattern mein tighten karna chahiye, taaki gasket par even pressure apply ho aur leak-proof seal bane."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Gasket ka material kis factor par depend karta hai?",
+      "options": {
+        "A": "Pipe ka color",
+        "B": "Fluid ka temperature, pressure aur chemical compatibility",
+        "C": "Installation time",
+        "D": "Fitter ki preference"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Gasket material ka selection pipe system mein flow ho rahe fluid ke temperature, pressure, aur chemical properties par depend karta hai taaki proper sealing aur longevity ensure ho sake."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Ek 'Nipple' fitting kya hoti hai?",
+      "options": {
+        "A": "Ek chhota pipe piece jiske dono ends par threads hote hain",
+        "B": "Ek fitting jo pipe ka size reduce karti hai",
+        "C": "Ek fitting jo pipe direction change karti hai",
+        "D": "Ek fitting jo pipe ko seal karti hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Nipple ek chhota threaded pipe piece hota hai jo do fittings ya pipes ko connect karne ke liye use hota hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Die stock aur dies ka kya use hai?",
+      "options": {
+        "A": "Pipes ko cut karne ke liye",
+        "B": "Pipes par external threads banane ke liye",
+        "C": "Pipes ko bend karne ke liye",
+        "D": "Pipes ko clean karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Die stock aur dies ka use metal pipes ke external surface par threads banane ke liye kiya jaata hai taaki unhe threaded fittings se connect kiya ja sake."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Fluid flow ko completely isolate (band) karne ke liye kaun sa valve use hota hai?",
+      "options": {
+        "A": "Globe valve",
+        "B": "Gate valve",
+        "C": "Butterfly valve",
+        "D": "Check valve"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gate valve ko primarily flow ko ON/OFF karne ke liye use kiya jaata hai. Ye ya to fully open hota hai ya fully closed, throttling ke liye accha nahi hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Fluid flow ko regulate (throttle) karne ke liye kaun sa valve best hai?",
+      "options": {
+        "A": "Gate valve",
+        "B": "Ball valve",
+        "C": "Globe valve",
+        "D": "Check valve"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Globe valve ko flow regulation ya throttling ke liye design kiya gaya hai, kyunki iska disc flow path ko gradually control karta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Backflow ko rokne ke liye kaun sa valve use hota hai?",
+      "options": {
+        "A": "Gate valve",
+        "B": "Ball valve",
+        "C": "Check valve",
+        "D": "Plug valve"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Check valve automatic hota hai aur fluid ko sirf ek direction mein flow hone deta hai, dusri direction mein backflow ko rokta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Quarter-turn valve kaun sa hai?",
+      "options": {
+        "A": "Gate valve",
+        "B": "Globe valve",
+        "C": "Ball valve",
+        "D": "Needle valve"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ball valve aur Butterfly valve quarter-turn valves hain, matlab unhe fully open ya closed karne ke liye handle ko sirf 90 degree ghumana padta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Valve ke kis part se fluid flow control hota hai?",
+      "options": {
+        "A": "Handwheel",
+        "B": "Stem",
+        "C": "Disc/Ball/Plug",
+        "D": "Bonnet"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Disc, ball, ya plug valve ka closing element hota hai jo flow path ko obstruct ya open karta hai, jisse fluid flow control hota hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Pressure Relief Valve (PRV) ka kya function hai?",
+      "options": {
+        "A": "Flow ko band karna",
+        "B": "System mein excessive pressure release karna",
+        "C": "Flow direction change karna",
+        "D": "Fluid ko mix karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PRV system ko over-pressurization se bachata hai. Jab system pressure ek set limit se zyada ho jaata hai, to PRV automatically open hokar pressure release karta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Butterfly valve ka main fayda kya hai?",
+      "options": {
+        "A": "Bahut acchi throttling capability",
+        "B": "Lightweight, compact design aur fast operation",
+        "C": "High-pressure applications ke liye best",
+        "D": "Bahut sasta hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Butterfly valves lightweight, compact hote hain aur quarter-turn operation ke karan fast acting hote hain, jo unhe large diameter pipes aur low-pressure applications ke liye suitable banata hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Valve ka 'bonnet' section kya provide karta hai?",
+      "options": {
+        "A": "Flow control",
+        "B": "Pressure relief",
+        "C": "Valve internals (stem, disc) ke liye sealing aur housing",
+        "D": "Actuator attachment"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Bonnet valve body ka ek component hai jo stem assembly ko cover karta hai aur internal parts ko contain karta hai, saath hi pressure boundary bhi provide karta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Needle valve kis liye use hota hai?",
+      "options": {
+        "A": "Large volume flow control",
+        "B": "Precise flow regulation for small flows",
+        "C": "Quick ON/OFF operation",
+        "D": "Backflow prevention"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Needle valve apni pointed disc aur fine threads ke karan bahut precise flow regulation (throttling) ke liye use hota hai, khaaskar instrumentation aur sampling lines mein."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Foot valve kahan install kiya jaata hai?",
+      "options": {
+        "A": "Pump ke discharge par",
+        "B": "Pump ke suction line ke end par, paani ke neeche",
+        "C": "High-pressure lines mein",
+        "D": "Steam lines mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Foot valve ek type ka check valve hota hai jo pump ke suction line ke end par install kiya jaata hai, usually paani ke andar, taaki pump priming maintain rahe aur debris pump mein na ja sake."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Diaphragm valve ka kya fayda hai corrosive fluids ke liye?",
+      "options": {
+        "A": "Ismein koi moving parts nahi hote",
+        "B": "Process fluid valve operating mechanism se isolate rehta hai",
+        "C": "Bahut high temperature handle kar sakta hai",
+        "D": "Bahut sasta hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Diaphragm valve mein process fluid ek flexible diaphragm dwara operating mechanism se separate rehta hai, jisse corrosive fluids ke liye contamination aur leakage ka risk kam hota hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Valve ka 'seat' kya hota hai?",
+      "options": {
+        "A": "Jahan operator baithta hai",
+        "B": "Woh surface jahan disc ya closing element rest karta hai leak-proof seal banane ke liye",
+        "C": "Valve body ka bottom part",
+        "D": "Valve ka identification tag"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Valve seat woh sealing surface hai jis par disc ya closing element baithta hai jab valve band hota hai, taaki fluid flow completely stop ho sake."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Actuator ka kya kaam hai valve mein?",
+      "options": {
+        "A": "Valve ko support dena",
+        "B": "Valve ko manually operate karna",
+        "C": "Valve ko automatically open ya close karna",
+        "D": "Valve ke andar pressure ko measure karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Actuator ek device hai jo valve ko automatically operate karta hai, jaise pneumatic, hydraulic ya electric power ka use karke."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Plug valve ka working principle kya hai?",
+      "options": {
+        "A": "Rotating disc",
+        "B": "Linear motion of a wedge",
+        "C": "Rotating cylindrical ya tapered plug with a port",
+        "D": "Flexible diaphragm"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Plug valve mein ek cylindrical ya tapered plug hota hai jiske through ek port hota hai. Plug ko 90 degree rotate karne se flow path open ya close hota hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Globe valve mein fluid flow direction ka kya effect hota hai?",
+      "options": {
+        "A": "Koi effect nahi hota",
+        "B": "Flow direction change karne se valve damage ho sakta hai",
+        "C": "Proper flow direction pressure drop ko minimize karta hai",
+        "D": "Flow direction se koi farak nahi padta"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Globe valve mein fluid ko seat ke neeche se flow hona chahiye (under the seat) taaki disc ko open karne ke liye kam force lage aur pressure drop kam ho."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Pressure Reducing Valve (PRV) ka kya function hai?",
+      "options": {
+        "A": "Pressure badhana",
+        "B": "High inlet pressure ko lower, constant outlet pressure mein reduce karna",
+        "C": "Flow ko band karna",
+        "D": "System ko over-pressurization se bachana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pressure Reducing Valve (PRV) ka kaam hai incoming high pressure ko ek desired lower, stable outlet pressure tak kam karna, taaki downstream equipment protect ho sake."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Gate valve mein 'rising stem' ka kya fayda hai?",
+      "options": {
+        "A": "Valve sasta hota hai",
+        "B": "Valve open ya close hai, ye visually pata chal jaata hai",
+        "C": "Valve leak-proof hota hai",
+        "D": "Valve ki life badhti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rising stem gate valve mein stem upar ki taraf move karta hai jab valve open hota hai, jisse operator ko visually pata chal jaata hai ki valve kis position mein hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Valve gland packing mein leakage hone ka kya main reason ho sakta hai?",
+      "options": {
+        "A": "Valve ka color kharab ho gaya hai",
+        "B": "Packing material purana ya worn out ho gaya hai",
+        "C": "Handwheel loose hai",
+        "D": "Valve body damaged hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gland packing purani hone ya ghis jaane par apni sealing capability kho deti hai, jisse stem ke paas se leakage hone lagti hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Leaking gland packing ko theek karne ka pehla step kya hai?",
+      "options": {
+        "A": "Naya valve replace karna",
+        "B": "Gland nuts ko evenly tighten karna",
+        "C": "Packing ko poora nikal dena",
+        "D": "Valve ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Halke leakage ke liye, gland nuts ko evenly aur thoda-thoda tighten karke packing ko compress kiya ja sakta hai, jisse leakage ruk jaati hai. Zyada tighten nahi karna chahiye."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Agar gland nuts tighten karne ke baad bhi leakage band na ho, to kya karna chahiye?",
+      "options": {
+        "A": "Valve ko chhod dena",
+        "B": "Packing material ko replace karna",
+        "C": "Valve body ko weld karna",
+        "D": "Valve ko ulta kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar tightening se leakage band na ho, to iska matlab hai ki packing material completely worn out ho gaya hai aur usse naye packing se replace karna padega."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Valve maintenance se pehle sabse zaroori safety step kya hai?",
+      "options": {
+        "A": "Valve ko paint karna",
+        "B": "Line pressure ko relieve karna aur valve ko isolate karna (LOTO)",
+        "C": "Tools ko saaf karna",
+        "D": "Supervisor ko inform karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kisi bhi valve par maintenance shuru karne se pehle, line pressure ko relieve karna aur valve ko isolate karna (yaani flow ko band karna aur LOTO lagana) bahut zaroori hai taaki safety ensure ho."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Ek valve 'passing' kar raha hai, iska kya matlab hai?",
+      "options": {
+        "A": "Valve ka color utar raha hai",
+        "B": "Valve fully closed hone ke baad bhi fluid leak kar raha hai",
+        "C": "Valve bahut tight hai",
+        "D": "Valve bahut loose hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Valve passing ka matlab hai ki valve fully closed hone ke baad bhi uske seat se fluid leak kar raha hai, jo worn out seat ya disc ke karan ho sakta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Valve seat leakage ko theek karne ke liye kya karna pad sakta hai?",
+      "options": {
+        "A": "Naya handwheel lagana",
+        "B": "Seat ko lap ya grind karna ya disc ko replace karna",
+        "C": "Valve ko zyada lubricate karna",
+        "D": "Valve ko thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Seat leakage ko theek karne ke liye, valve ke seat aur disc surfaces ko grind ya lap karke smooth kiya jaata hai, ya phir disc ko replace kiya jaata hai taaki proper sealing ho sake."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Valve stem ko lubricate kyun karna chahiye?",
+      "options": {
+        "A": "Taaki valve sundar lage",
+        "B": "Friction ko kam karne aur smooth operation ke liye",
+        "C": "Leakage rokne ke liye",
+        "D": "Valve ko tight karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Valve stem ko lubricate karne se friction kam hota hai, jisse valve ko operate karna aasan hota hai aur stem ki life bhi badhti hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Agar valve operate karte waqt bahut zyada force lagana pade, to kya problem ho sakti hai?",
+      "options": {
+        "A": "Valve bahut naya hai",
+        "B": "Stem bent ho sakta hai ya packing bahut tight ho sakti hai",
+        "C": "Valve ka color kharab hai",
+        "D": "Valve ki position galat hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Zyada operating force ka matlab ho sakta hai ki stem bent hai, packing bahut zyada tight hai, ya valve ke internal parts mein corrosion ya deposits hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Check valve ke stuck hone ka kya asar hoga?",
+      "options": {
+        "A": "Flow sirf ek direction mein hoga",
+        "B": "Fluid dono directions mein flow ho sakta hai ya flow completely ruk sakta hai",
+        "C": "Valve leak karega",
+        "D": "Valve noise karega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar check valve stuck open ho jaaye, to backflow ho sakta hai. Agar stuck closed ho jaaye, to forward flow bhi ruk jaayega, jisse system malfunction ho sakta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Valve 'chattering' ka kya matlab hai?",
+      "options": {
+        "A": "Valve ka color vibrate kar raha hai",
+        "B": "Valve ka disc ya closing element rapid, uncontrolled movement kar raha hai",
+        "C": "Valve se gas leak ho rahi hai",
+        "D": "Valve bahut purana hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Chattering ek rapid, uncontrolled movement hai valve ke internal parts ka, jo usually high velocity flow, vibration ya improper sizing ke karan hota hai, jisse valve damage ho sakta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Valve repair ke baad kya karna mandatory hai?",
+      "options": {
+        "A": "Valve ko paint karna",
+        "B": "Pressure testing aur functionality check karna",
+        "C": "Valve ko nikal dena",
+        "D": "Sirf visual inspection karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Valve repair ke baad, uski integrity aur functionality ko verify karne ke liye pressure testing (jaise hydrostatic test) aur operational check karna bahut zaroori hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Agar valve handle ghumane par bhi valve open ya close na ho, to kya problem ho sakti hai?",
+      "options": {
+        "A": "Valve body damage ho gaya hai",
+        "B": "Stem ya disc disconnected ya damaged hai",
+        "C": "Packing bahut loose hai",
+        "D": "Valve mein pani nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar handle ghumane par valve response na kare, to ho sakta hai ki stem disc se disconnect ho gaya hai, ya stem threads worn out ho gaye hain, ya koi internal part टूट gaya hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Valve ka 'blowdown' process kya hota hai?",
+      "options": {
+        "A": "Valve ko paint karna",
+        "B": "Accumulated impurities ko valve ya system se flush out karna",
+        "C": "Valve ko disassemble karna",
+        "D": "Valve ko tight karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Blowdown process mein high-pressure fluid ko valve ya system se release kiya jaata hai taaki accumulated sediments, sludge ya impurities ko bahar nikala ja sake, jisse performance maintain rahe."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Valve 'packing gland' ka kya role hai?",
+      "options": {
+        "A": "Valve ko open karna",
+        "B": "Packing ko compress karke stem ke around seal maintain karna",
+        "C": "Valve ko close karna",
+        "D": "Valve ko support dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Packing gland ek component hai jo packing material ko stem ke around compress karta hai, jisse stem aur bonnet ke beech leak-proof seal banta hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Valve ke identification tag par kya information honi chahiye?",
+      "options": {
+        "A": "Manufacturer ka naam",
+        "B": "Valve type, size, material, pressure rating, aur service fluid",
+        "C": "Installation date",
+        "D": "Maintenance history"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Identification tag par valve ki critical details honi chahiye jaise uska type (gate, globe), size, material (body, trim), pressure aur temperature rating, aur kis fluid ke liye hai, taaki proper selection aur maintenance ho sake."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Agar valve bahut zyada noisy ho, to kya indication ho sakta hai?",
+      "options": {
+        "A": "Valve naya hai",
+        "B": "Cavitation, flashing ya vibration ho sakti hai",
+        "C": "Valve ka color kharab hai",
+        "D": "Valve ki installation galat hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Excessive noise valve mein cavitation (liquid ka vaporize hona aur collapse hona), flashing (liquid ka vapor mein convert hona) ya mechanical vibration ka indication ho sakta hai, jo valve damage kar sakta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Pipe cutter ka kya use hai?",
+      "options": {
+        "A": "Pipes ko bend karna",
+        "B": "Pipes ko clean cut karna",
+        "C": "Pipes ko weld karna",
+        "D": "Pipes ko thread karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pipe cutter specially design kiya gaya tool hai jo pipes ko clean, straight aur burr-free cut karne ke liye use hota hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Pipe wrench ka kya kaam hai?",
+      "options": {
+        "A": "Pipes ko measure karna",
+        "B": "Pipes aur fittings ko tighten ya loosen karna",
+        "C": "Pipes ko paint karna",
+        "D": "Pipes ko cut karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pipe wrench ek adjustable wrench hai jiska use pipes aur fittings ko pakadne, ghumane aur tighten/loosen karne ke liye hota hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Hydrostatic testing kyun ki jaati hai?",
+      "options": {
+        "A": "Pipes ko clean karne ke liye",
+        "B": "Pipe system ki strength aur leak integrity check karne ke liye",
+        "C": "Pipes ko insulate karne ke liye",
+        "D": "Pipes ko paint karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hydrostatic testing mein pipe system ko paani se bharkar design pressure se zyada pressure par test kiya jaata hai, taaki uski strength aur leak-proofness ko verify kiya ja sake."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Pneumatic testing mein kis fluid ka use hota hai?",
+      "options": {
+        "A": "Paani",
+        "B": "Oil",
+        "C": "Air ya inert gas",
+        "D": "Chemicals"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pneumatic testing mein compressed air ya inert gas (jaise nitrogen) ka use kiya jaata hai leak detection ke liye, khaaskar un systems mein jahan paani ka use allowed nahi hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Pipe reamer ka kya use hai?",
+      "options": {
+        "A": "Pipe ke andar se burrs remove karna",
+        "B": "Pipe ko cut karna",
+        "C": "Pipe ko bend karna",
+        "D": "Pipe par threads banana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pipe cut karne ke baad uske inner edge par burrs ban jaate hain. Reamer un burrs ko remove karta hai taaki smooth flow ho aur clog na ho."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Measuring tape ka kya importance hai pipe fitting mein?",
+      "options": {
+        "A": "Pipe ko decorate karna",
+        "B": "Precise measurements ke liye, sahi cut aur fit ke liye",
+        "C": "Tools ko organize karna",
+        "D": "Safety check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sahi measurements pipe fitting mein bahut zaroori hain taaki pipes ko accurate length mein cut kiya ja sake aur fittings properly fit ho sakein."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Welding karte waqt kis type ke PPE ki zaroorat hoti hai?",
+      "options": {
+        "A": "Sirf safety glasses",
+        "B": "Welding helmet, gloves, fire-resistant clothing",
+        "C": "Dust mask",
+        "D": "Earplugs"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Welding mein intense UV light, sparks aur heat generate hoti hai, isliye special PPE jaise welding helmet (aankhon aur chehre ki protection ke liye), heat-resistant gloves aur fire-resistant clothing mandatory hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Leak detection ke liye soap solution ka use kis method mein kiya jaata hai?",
+      "options": {
+        "A": "Hydrostatic testing",
+        "B": "Pneumatic testing",
+        "C": "Radiographic testing",
+        "D": "Ultrasonic testing"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pneumatic testing ke dauraan, pressurized system ke joints par soap solution lagakar leaks ko bubbles ke form mein identify kiya jaata hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Pipe system ko flush karne ka kya maqsad hai?",
+      "options": {
+        "A": "Pipes ko tight karna",
+        "B": "System se debris, dirt aur contaminants ko remove karna",
+        "C": "Pipes ko insulate karna",
+        "D": "Pipes ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flushing mein high velocity fluid (usually paani) ko system se pass kiya jaata hai taaki construction debris, weld slag, rust aur anya contaminants ko bahar nikala ja sake, jisse system ki performance aur longevity maintain rahe."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Flange spreader ka kya use hai?",
+      "options": {
+        "A": "Flanges ko tight karna",
+        "B": "Flanges ko thoda separate karna gasket replacement ke liye",
+        "C": "Flanges ko weld karna",
+        "D": "Flanges ko clean karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flange spreader ek tool hai jo do flanges ke beech ek chhota gap banane ke liye use hota hai, jisse gasket ko safely replace ya inspect kiya ja sake."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Torque wrench ka kya use hai?",
+      "options": {
+        "A": "Kisi bhi bolt ko tight karna",
+        "B": "Bolts ko ek specific torque value par tight karna",
+        "C": "Bolts ko loose karna",
+        "D": "Bolts ko cut karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Torque wrench ka use bolts aur nuts ko ek precise, pre-defined torque value par tighten karne ke liye hota hai, jo joint integrity aur leak-proofness ke liye critical hai, khaaskar flange joints mein."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Pipe system drawing (P&ID) ka kya importance hai?",
+      "options": {
+        "A": "Pipes ko decorate karna",
+        "B": "System components, instruments aur piping ka detailed diagram samajhna",
+        "C": "Sirf engineers ke liye hai",
+        "D": "Pipe ke color codes dekhna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "P&ID (Piping and Instrumentation Diagram) ek detailed schematic drawing hai jo process flow, major equipment, piping, valves aur instrumentation ko dikhata hai, jo installation, operation aur maintenance ke liye critical hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar kisi pipe system mein acid ya chemical leak ho raha ho, to pehla action kya hona chahiye?",
+      "options": {
+        "A": "Leak ko ignore karna",
+        "B": "Turant safety area mein jaana aur emergency procedure follow karna",
+        "C": "Nange haathon se leak band karna",
+        "D": "Paani daal kar leak theek karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chemical leaks bahut dangerous ho sakte hain. Turant safety area mein jaana, emergency services ko inform karna aur proper PPE pehenkar hi action lena chahiye, agar trained ho."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Scaffolding par kaam karte waqt kya safety precaution leni chahiye?",
+      "options": {
+        "A": "Scaffolding ko hamesha move karte rehna",
+        "B": "Scaffolding ki stability check karna aur fall protection use karna",
+        "C": "Scaffolding par tools chhod dena",
+        "D": "Scaffolding ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scaffolding par kaam karte waqt uski stability, proper erection aur guardrails ko check karna chahiye. Saath hi, fall arrest system (safety harness) ka use karna bhi zaroori hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Pipe fitting mein 'As-built' drawing ka kya importance hai?",
+      "options": {
+        "A": "Original design drawing",
+        "B": "Woh drawing jo actual installation ke baad changes ko reflect karti hai",
+        "C": "Future projects ke liye drawing",
+        "D": "Temporary drawing"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "As-built drawing woh drawing hai jo project complete hone ke baad actual installation mein kiye gaye sabhi changes, modifications aur exact dimensions ko record karti hai. Ye future maintenance aur modifications ke liye critical hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Permit-to-work system ka primary goal kya hai?",
+      "options": {
+        "A": "Kaam ko jaldi khatam karna",
+        "B": "High-risk activities ko safely manage aur authorize karna",
+        "C": "Sirf paperwork badhana",
+        "D": "Kaam ko delay karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Permit-to-work system ek formal procedure hai jo high-risk activities ko control karta hai, jisse yeh ensure hota hai ki kaam shuru karne se pehle sabhi potential hazards ko identify kiya gaya hai aur necessary safety measures implement kiye gaye hain."
+    }
+  ]
+}

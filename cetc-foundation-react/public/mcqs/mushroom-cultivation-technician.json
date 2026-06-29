@@ -1,0 +1,1443 @@
+{
+  "course_name": "Mushroom Cultivation Technician",
+  "sector": "Agriculture & Rural Livelihood",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Mushroom Cultivation & Species Identification",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Spawn Production & Quality Control",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Substrate Preparation & Sterilization",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Cropping Room Management & Cultivation Process",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Pest & Disease Management",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Harvesting, Post-Harvest Management & Marketing",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Mushroom asal mein kya hai?",
+      "options": {
+        "A": "Ek paudha (Plant)",
+        "B": "Ek janwar (Animal)",
+        "C": "Ek fungus (Kavak)",
+        "D": "Ek bacteria"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mushroom ek prakaar ka fungus (kavak) hai, jisme chlorophyll nahi hota aur woh apna bhojan saday-galay organic matter se prapt karta hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Bharat mein sabse zyada commercial level par kaun sa mushroom ugaya jaata hai?",
+      "options": {
+        "A": "Oyster Mushroom (Dhingri)",
+        "B": "Button Mushroom (Buton)",
+        "C": "Paddy Straw Mushroom (Parali)",
+        "D": "Shiitake Mushroom"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Button mushroom (Agaricus bisporus) Bharat mein sabse lokpriya aur bade paimane par ugaya jaane wala mushroom hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Mushroom ka 'beej' (seed) kya kehlata hai?",
+      "options": {
+        "A": "Spore",
+        "B": "Spawn",
+        "C": "Mycelium",
+        "D": "Hyphae"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mushroom ki kheti mein istemaal hone wale beej ko 'Spawn' kehte hain, jo ki grains par mushroom mycelium ko grow karke taiyar kiya jaata hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Oyster mushroom ugane ke liye sabse accha mausam kaun sa hai?",
+      "options": {
+        "A": "Garam aur nam (Hot and Humid)",
+        "B": "Thanda aur sookha (Cool and Dry)",
+        "C": "Madhyam तापमान (Moderate Temperature)",
+        "D": "Bahut zyada sardi (Extreme Cold)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Oyster mushroom (Dhingri) ke liye 20-30°C ka तापमान aadarsh maana jaata hai, isliye yeh madhyam तापमान mein acchi tarah ugta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Kaun sa mushroom 'Doodhiya Mushroom' ke naam se bhi jaana jaata hai?",
+      "options": {
+        "A": "Agaricus bisporus",
+        "B": "Pleurotus spp.",
+        "C": "Calocybe indica",
+        "D": "Volvariella volvacea"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Calocybe indica ko aam taur par Milky Mushroom ya Doodhiya Mushroom kaha jaata hai, kyunki iska rang safed doodh jaisa hota hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Mushroom mein kaun sa vitamin bharpoor matra mein paya jaata hai?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin A",
+        "C": "Vitamin D",
+        "D": "Vitamin K"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mushroom Vitamin D ka ek accha natural source hai, khaas kar jab unhe UV light mein expose kiya jaata hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Zahreele (poisonous) mushroom ko pehchanne ka sabse surakshit tareeka kya hai?",
+      "options": {
+        "A": "Unka rang dekh kar",
+        "B": "Unhe paka kar test karna",
+        "C": "Kisi expert se pehchan karwana",
+        "D": "Janwaron ko khilakar dekhna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Zahreele aur khane layak mushroom mein antar karna mushkil ho sakta hai. Isliye, sabse surakshit tareeka hai ki kisi anubhavi visheshagya (expert) se unki pehchan karwayi jaaye."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Mushroom ki kheti ke liye farm design karte samay sabse zaroori cheez kya hai?",
+      "options": {
+        "A": "Farm ka rang",
+        "B": "Ventilation aur Temperature control",
+        "C": "Farm ki unchai",
+        "D": "Paas mein nadi ka hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mushroom farm mein hawa ka sahi sanchar (ventilation) aur तापमान (temperature) control karna fasal ki safalta ke liye atyant mahatvapurna hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Paddy Straw Mushroom (Parali Mushroom) ko ugane ke liye kaun sa substrate mukhya roop se istemal hota hai?",
+      "options": {
+        "A": "Gehun ka bhoosa (Wheat Straw)",
+        "B": "Dhaan ki parali (Paddy Straw)",
+        "C": "Lakdi ka burada (Sawdust)",
+        "D": "Gobar ki khaad (Cow dung manure)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Iske naam se hi spasht hai, Paddy Straw Mushroom ko ugane ke liye mukhya roop se dhaan ki parali ka istemal kiya jaata hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Mycology kya hai?",
+      "options": {
+        "A": "Paudhon ka adhyayan",
+        "B": "Fungus (kavak) ka adhyayan",
+        "C": "Keet-patangon ka adhyayan",
+        "D": "Mitti ka adhyayan"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mycology vigyan ki woh shaakha hai jisme fungus (jaise ki mushroom, yeast, mold) ka adhyayan kiya jaata hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Mushroom ke neeche jo jaal jaisi sanrachna (root-like structure) hoti hai, use kya kehte hain?",
+      "options": {
+        "A": "Stem (Tana)",
+        "B": "Gills",
+        "C": "Mycelium",
+        "D": "Cap (Topi)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Mycelium mushroom ka vegetative part hai jo jaal ki tarah faila hota hai aur substrate se poshan leta hai. Mushroom ka phal (fruiting body) isi se nikalta hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Button mushroom ki kheti ke liye compost ka istemal kyon zaroori hai?",
+      "options": {
+        "A": "Rang accha karne ke liye",
+        "B": "Selective substrate pradan karne ke liye",
+        "C": "Paani bachane ke liye",
+        "D": "Sirf garmi dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Composting ek aisi prakriya hai jo substrate ko 'selective' banati hai. Iska matlab hai ki isse anya pratiyogi fungus khatm ho jaate hain aur sirf button mushroom ka mycelium hi us par aasaani se grow kar paata hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Shiitake mushroom mool roop se kis par ugaya jaata hai?",
+      "options": {
+        "A": "Gehun ke bhoose par",
+        "B": "Parali par",
+        "C": "Lakdi ke latthon (Hardwood logs) par",
+        "D": "Gobar par"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Shiitake ek wood-decomposing mushroom hai aur ise paramparik roop se kathor lakdi (hardwood) ke latthon ya lakdi ke burade par ugaya jaata hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek mushroom technician ka mukhya kaam kya hai?",
+      "options": {
+        "A": "Sirf mushroom bechna",
+        "B": "Kheti ki daily activities ko manage karna",
+        "C": "Sirf research karna",
+        "D": "Sirf farm ki safai karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mushroom technician ka kaam spawn se lekar fasal ki katai tak ki sabhi dainik gatividhiyon, jaise substrate taiyar karna, तापमान control karna aur bimariyon ki nigrani karna, ko manage karna hota hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Mushroom ko 'Vegetarian's meat' kyon kaha jaata hai?",
+      "options": {
+        "A": "Uske rang ke kaaran",
+        "B": "Uske high protein content aur texture ke kaaran",
+        "C": "Kyonki woh mahenga hai",
+        "D": "Kyonki woh sirf jungle mein milta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mushroom mein protein ki matra acchi hoti hai aur uska texture (banavat) meat jaisa hota hai, isliye ise 'shakahariyon ka maans' (Vegetarian's meat) bhi kehte hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Mushroom cultivation ke liye zaroori Personal Protective Equipment (PPE) mein kya shamil NAHI hai?",
+      "options": {
+        "A": "Gloves (Dastane)",
+        "B": "Face Mask",
+        "C": "Helmet",
+        "D": "Apron"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Mushroom farm mein aam taur par gloves, mask aur apron ki zaroorat hoti hai taaki saaf-safai bani rahe aur spores se allergy na ho. Helmet ki aavashyakta aam taur par nahi hoti."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Mushrooms ke life cycle mein, 'fruiting body' kise kehte hain?",
+      "options": {
+        "A": "Mycelium ke jaal ko",
+        "B": "Mushroom ke beej (spores) ko",
+        "C": "Mushroom ka woh hissa jo hum khate hain",
+        "D": "Substrate ko"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "'Fruiting body' mushroom ka reproductive structure hai jo substrate se bahar nikalta hai. Yahi woh hissa hai jise hum aam taur par 'mushroom' ke roop mein jaante aur khate hain."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Spawn taiyar karne ke liye sabse aam taur par kaun sa anaaj (grain) istemal hota hai?",
+      "options": {
+        "A": "Chawal (Rice)",
+        "B": "Makka (Maize)",
+        "C": "Gehun (Wheat)",
+        "D": "Bajra (Millet)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Gehun ke daane (wheat grains) spawn banane ke liye sabse zyada istemal kiye jaate hain kyunki unka aakar aur poshan mycelium ki growth ke liye anukool hota hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Spawn lab mein 'Laminar Air Flow' cabinet ka kya kaam hai?",
+      "options": {
+        "A": "Hawa ko garam karna",
+        "B": "Ek sterile (kitanu-rahit) working area banana",
+        "C": "Hawa mein nami badhana",
+        "D": "Anaaj ko sukhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Laminar Air Flow (LAF) HEPA filter ke zariye hawa ko saaf karke ek kitanu-mukt (sterile) jagah banata hai, jisse spawn transfer karte samay contamination ka khatra kam ho jaata hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Spawn banane se pehle anaaj ko ubalne (boil) ka kya uddeshya hai?",
+      "options": {
+        "A": "Anaaj ka rang badalna",
+        "B": "Anaaj ko sahi nami dena aur saaf karna",
+        "C": "Anaaj ko meetha banana",
+        "D": "Anaaj ka vajan kam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Anaaj ko ubalne se woh naram ho jaate hain, unme zaroori nami aa jaati hai aur unki satah par maujood kuch ashuddhiyan bhi saaf ho jaati hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "'Mother Spawn' kya hota hai?",
+      "options": {
+        "A": "Bikne ke liye taiyar spawn",
+        "B": "Pure culture se seedha taiyar kiya gaya pehla spawn",
+        "C": "Kharab ho chuka spawn",
+        "D": "Liquid spawn"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mother Spawn, jise G1 spawn bhi kehte hain, test tube mein rakhe pure mushroom culture se pehli baar taiyar kiya jaata hai. Iska istemal aage commercial spawn (G2) banane ke liye hota hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Spawn bottles/bags ko sterilize karne ke liye 'Autoclave' mein kitna pressure aur temperature rakha jaata hai?",
+      "options": {
+        "A": "5 PSI pressure, 100°C temperature",
+        "B": "10 PSI pressure, 110°C temperature",
+        "C": "15-20 PSI pressure, 121°C temperature",
+        "D": "25 PSI pressure, 130°C temperature"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Standard autoclaving ke liye 15-20 PSI (Pounds per Square Inch) pressure par 121°C तापमान rakha jaata hai. Isse sabhi prakaar ke bacteria, fungus aur unke spores nasht ho jaate hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Ek acche quality ke spawn ki kya pehchan hai?",
+      "options": {
+        "A": "Usme hare ya kaale dhabbe hon",
+        "B": "Usme se khatti smell aaye",
+        "C": "Mycelium poore daano par ek samaan roop se faila ho",
+        "D": "Bag ke neeche paani jama ho"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Acche spawn mein mycelium (safed jaal) sabhi daano par aapas mein chipka hua aur ek samaan roop se faila hota hai. Kisi bhi prakaar ka rangin dhabba ya durgandh contamination ka sanket hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Spawn mein 'Inoculation' prakriya kya hai?",
+      "options": {
+        "A": "Spawn ko bechna",
+        "B": "Sterilized grains mein mushroom culture ko milana",
+        "C": "Spawn ki jaanch karna",
+        "D": "Spawn ko store karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Inoculation woh prakriya hai jismein sterilized (kitanu-rahit) kiye gaye anaaj ke madhyam mein pure mushroom culture (mycelium) ko transfer kiya jaata hai taaki woh grow kar sake."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Agar spawn bag mein hara rang (green mold) dikhe to kya karna chahiye?",
+      "options": {
+        "A": "Use dhoop mein rakh dena chahiye",
+        "B": "Use turant farm se alag karke nasht kar dena chahiye",
+        "C": "Us par paani daal dena chahiye",
+        "D": "Use cropping ke liye istemal kar lena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hara mold (Trichoderma) ek bahut tezi se failne wala contamination hai. Aise bag ko turant alag karke nasht kar dena chahiye taaki yeh doosre bags ko sankramit na kare."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Spawn ko store karne ke liye sabse aadarsh तापमान (ideal temperature) kya hai?",
+      "options": {
+        "A": "0°C se neeche",
+        "B": "2-4°C (Refrigerator mein)",
+        "C": "25-30°C (Room temperature)",
+        "D": "40°C se upar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Spawn ko lamba samay tak surakshit rakhne ke liye use 2-4°C par refrigerator mein store karna chahiye. Isse mycelium ki growth ruk jaati hai aur woh kharab nahi hota."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Spawn banane mein Calcium Carbonate (Chalk powder) aur Gypsum kyon milaya jaata hai?",
+      "options": {
+        "A": "Rang safed karne ke liye",
+        "B": "Vajan badhane ke liye",
+        "C": "pH level maintain karne aur daano ko chipakne se rokne ke liye",
+        "D": "Khushboo ke liye"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Calcium Carbonate (CaCO3) anaaj ka pH level maintain karta hai, jabki Gypsum (CaSO4) daano ko aapas mein chipakne se rokta hai aur mycelium ko zaroori calcium aur sulfur pradan karta hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Spawn lab mein haathon ko saaf karne ke liye aamtaur par kya istemal hota hai?",
+      "options": {
+        "A": "Saada paani",
+        "B": "Mitti",
+        "C": "70% Isopropyl Alcohol / Spirit",
+        "D": "Tel (Oil)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Spawn lab mein kaam karne se pehle haathon aur upkaranon ko 70% alcohol ya spirit se disinfect karna zaroori hai taaki contamination na ho."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Pure culture ko preserve karne ke liye istemal hone wale medium ko kya kehte hain?",
+      "options": {
+        "A": "Compost",
+        "B": "PDA (Potato Dextrose Agar) Slant",
+        "C": "Casing soil",
+        "D": "Plain water"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Mushroom ke pure culture ko lambe samay tak surakshit rakhne ke liye test tubes mein PDA (Potato Dextrose Agar) medium ka istemal kiya jaata hai, jise 'slant' kehte hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Commercial spawn banane ke liye mother spawn ka istemal kyon kiya jaata hai?",
+      "options": {
+        "A": "Kyonki yeh sasta hota hai",
+        "B": "Tezi se aur adhik matra mein spawn banane ke liye",
+        "C": "Kyonki iska rang accha hota hai",
+        "D": "Iska koi khaas kaaran nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mother spawn (G1) se commercial spawn (G2) banana ek multiplication process hai. Isse kam samay mein, kam pure culture ka istemal karke, bahut saara spawn taiyar kiya jaa sakta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Spawn bag mein cotton plug ya filter kyon lagaya jaata hai?",
+      "options": {
+        "A": "Bag ko sundar banane ke liye",
+        "B": "Gaseous exchange (hawa ke aane-jaane) ke liye aur contamination rokne ke liye",
+        "C": "Bag ka vajan badhane ke liye",
+        "D": "Nami ko bahar nikalne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cotton plug ya microporous filter mycelium ko saans lene ke liye zaroori hawa (oxygen) andar aane deta hai aur carbon dioxide bahar jaane deta hai, lekin bahar ke bacteria aur spores ko andar aane se rokta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Agar autoclave na ho to spawn grains ko sterilize karne ka desi tareeka kya ho sakta hai?",
+      "options": {
+        "A": "Dhoop mein sukhana",
+        "B": "Pressure cooker mein 1.5-2 ghante tak steam karna",
+        "C": "Garam paani se dhona",
+        "D": "Aag par seedha sekhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chhote paimane par, ek pressure cooker autoclave ki tarah kaam kar sakta hai. Usme grains ko 1.5 se 2 ghante tak steam karne se sterilization ho jaata hai, halanki yeh autoclave jitna prabhavi nahi hota."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Spawn ki 'viability' ka kya matlab hai?",
+      "options": {
+        "A": "Spawn ka rang",
+        "B": "Spawn ki keemat",
+        "C": "Spawn ke mycelium ki jeevit rehne aur grow karne ki kshamta",
+        "D": "Spawn ka vajan"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Spawn viability ka matlab hai ki spawn mein maujood mycelium zinda hai aur usme substrate par failne aur mushroom paida karne ki shakti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Tissue culture se spawn banane mein mushroom ka kaun sa hissa istemal kiya jaata hai?",
+      "options": {
+        "A": "Mushroom ki jad (root)",
+        "B": "Mushroom ka tana (stem)",
+        "C": "Mushroom ke andar ka saaf, internal tissue",
+        "D": "Mushroom ki upari satah (surface)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Tissue culture mein, ek swasth mushroom ko todkar uske andar se, jahan contamination nahi hota, ek chhota sa tissue ka tukda nikala jaata hai aur use sterile agar medium par grow kiya jaata hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Oyster mushroom ke liye substrate ke taur par sabse accha vikalp kya hai?",
+      "options": {
+        "A": "Gobar (Cow dung)",
+        "B": "Dhaan ki parali / Gehun ka bhoosa (Paddy/Wheat straw)",
+        "C": "Mitti (Soil)",
+        "D": "Ret (Sand)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oyster mushroom dhaan ki parali ya gehun ke bhoose jaise cellulose-rich materials par bahut acchi tarah ugta hai. Yeh aasaani se uplabdh aur sasta hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Substrate ko pasteurize karne ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Substrate ka rang badalna",
+        "B": "Nuksaandayak bacteria aur fungus ko maarna, lekin faydemand microbes ko bachana",
+        "C": "Substrate ko poori tarah se kitanu-rahit karna",
+        "D": "Substrate ko thanda karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pasteurization (60-80°C par) mein nuksaandayak jeevanuon ko nasht kiya jaata hai, lekin kuch faydemand microbes bach jaate hain jo mushroom mycelium ko grow karne mein madad karte hain. Yeh sterilization se alag hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Button mushroom ke liye compost banane ki 'Long Method' mein kitna samay lagta hai?",
+      "options": {
+        "A": "7-10 din",
+        "B": "12-15 din",
+        "C": "25-28 din",
+        "D": "2-3 din"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Button mushroom ke liye compost banane ki lambi vidhi (Long Method of Composting) mein lagbhag 25 se 28 din ka samay lagta hai, jismein kai baar paltai (turning) ki jaati hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Substrate (bhoose) ko bags mein bharne se pehle usmein kitni nami (moisture) honi chahiye?",
+      "options": {
+        "A": "20-30%",
+        "B": "40-50%",
+        "C": "65-70%",
+        "D": "90-100%"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Substrate mein lagbhag 65-70% nami honi chahiye. Isko check karne ka aasan tareeka hai ki bhoose ko mutthi mein dabane par paani ki boondein na tapkein, lekin hatheli geeli ho jaaye."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Substrate sterilization ke liye chemical method mein aam taur par kya istemal hota hai?",
+      "options": {
+        "A": "Namak (Salt)",
+        "B": "Formalin aur Bavistin",
+        "C": "Shakkar (Sugar)",
+        "D": "Detergent powder"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bhoose ko rasayanik roop se upcharit karne ke liye formalin (jo ek fumigant hai) aur Bavistin (jo ek fungicide hai) ke ghol ka istemal kiya jaata hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Compost mein 'Nitrogen source' ke roop mein kya milaya jaata hai?",
+      "options": {
+        "A": "Gypsum",
+        "B": "Wheat Bran (Gehun ka chokar) ya Chicken Manure",
+        "C": "Ret (Sand)",
+        "D": "Chalk Powder"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Compost banane ki prakriya mein aavashyak nitrogen pradan karne ke liye gehun ka chokar, chicken manure, ya urea jaise padarth milaye jaate hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Agar substrate bahut zyada geela (over-wet) ho, to kya samasya ho sakti hai?",
+      "options": {
+        "A": "Mushroom jaldi ug jayenge",
+        "B": "Anaerobic conditions (oxygen ki kami) ban jayegi aur mycelium nahi failega",
+        "C": "Mushroom ka swaad meetha ho jayega",
+        "D": "Koi samasya nahi hogi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bahut zyada paani hone se substrate ke andar hawa ke liye jagah nahi bachti, jisse oxygen ki kami ho jaati hai. Aise mein mycelium grow nahi kar paata aur bag kharab ho sakta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Phase II of composting (Pasteurization) kahan kiya jaata hai?",
+      "options": {
+        "A": "Khule maidan mein",
+        "B": "Ek band Tunnel ya Cropping Room mein",
+        "C": "Nadi ke kinare",
+        "D": "Cold storage mein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Composting ka Phase II, jismein pasteurization aur conditioning shamil hai, ek band chamber jaise ki tunnel ya cropping room mein kiya jaata hai, jahan steam dekar तापमान ko niyantrit kiya jaa sake."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Dhingri (Oyster) mushroom ke liye 10 kg sookhe bhoose se lagbhag kitne bags taiyar ho jaate hain?",
+      "options": {
+        "A": "1-2 bags",
+        "B": "3-4 bags",
+        "C": "8-10 bags",
+        "D": "20-25 bags"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bhigone ke baad 10 kg sookha bhoosa lagbhag 30-35 kg geela bhoosa ban jaata hai. Aam taur par ek bag mein 3-4 kg geela bhoosa bhara jaata hai, isliye 8-10 bags ban sakte hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Compost mein Ammonia ki smell aane ka kya matlab hai?",
+      "options": {
+        "A": "Compost taiyar hai",
+        "B": "Compost mein Nitrogen ki kami hai",
+        "C": "Compost abhi spawning ke liye taiyar nahi hai",
+        "D": "Compost bahut accha bana hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Compost se ammonia ki teekhi gandh aana is baat ka sanket hai ki compost abhi poori tarah se mature nahi hua hai. Ammonia mycelium ki growth ke liye hanikarak hoti hai. Isliye, spawning se pehle is gandh ka poori tarah khatm hona zaroori hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Substrate ko kitanu-rahit karne ke liye 'Hot Water Treatment' mein paani ka तापमान kitna hona chahiye?",
+      "options": {
+        "A": "40-50 °C",
+        "B": "60-80 °C",
+        "C": "100 °C (Boiling)",
+        "D": "20-30 °C"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hot water treatment (pasteurization) mein, bhoose ko 60-80°C garam paani mein lagbhag 1-2 ghante ke liye duboya jaata hai taaki pratiyogi sookshmajeev nasht ho jayein."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Bhoose ko kaatne (chopping) se kya fayda hota hai?",
+      "options": {
+        "A": "Bhoose ka vajan badh jaata hai",
+        "B": "Paani sokhne ki kshamta badhti hai aur bag mein compact bharaai hoti hai",
+        "C": "Bhoose ka rang badal jaata hai",
+        "D": "Isse koi fayda nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bhoose ko chhote tukdon mein kaatne se uski satah ka kshetrafal (surface area) badh jaata hai, jisse woh zyada paani sokhta hai aur bag mein use aasaani se aur thos tarike se bhara jaa sakta hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Compost ki paltai (turning) kyon ki jaati hai?",
+      "options": {
+        "A": "Sirf compost ko mix karne ke liye",
+        "B": "Compost ko thanda karne ke liye",
+        "C": "Ek samaan decomposition aur hawa ka sanchar sunishchit karne ke liye",
+        "D": "Compost ka dher chhota karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Paltai karne se compost ke dher ke har hisse mein hawa (oxygen) pahunchti hai, nami ek samaan hoti hai aur तापमान niyantrit rehta hai, jisse decomposition ki prakriya sahi tarike se hoti hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Milky Mushroom (Calocybe indica) ke liye substrate mein kiska istemal behtar parinaam deta hai?",
+      "options": {
+        "A": "Sirf gehun ka bhoosa",
+        "B": "Sirf parali",
+        "C": "Parali aur anya daalon ke chhilke ka mishran",
+        "D": "Lakdi ka burada"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Milky mushroom parali par accha ugta hai, lekin anubhav batata hai ki usme anya daalon ke chhilke ya anya nitrogen-rich supplement milane se utpaadan aur गुणवत्ता dono behtar hote hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Chemical sterilization ke baad substrate ko kitni der tak hawa mein chhodna chahiye?",
+      "options": {
+        "A": "Turant istemal kar lena chahiye",
+        "B": "Kam se kam 1-2 ghante",
+        "C": "Kam se kam 12-24 ghante",
+        "D": "2-3 din"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Formalin jaise rasayanon se upcharit karne ke baad, substrate ko 12-24 ghante tak khuli (lekin saaf) jagah par faila dena chahiye taaki chemical ki teekhi gandh (fumes) poori tarah se nikal jaaye, kyonki yeh mycelium ke liye hanikarak ho sakti hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Taiyar compost ka pH level kitna hona chahiye?",
+      "options": {
+        "A": "5.0 - 6.0 (Acidic)",
+        "B": "7.0 - 7.8 (Slightly Alkaline)",
+        "C": "9.0 - 10.0 (Highly Alkaline)",
+        "D": "pH se koi fark nahi padta"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Button mushroom ki kheti ke liye taiyar compost ka pH lagbhag neutral ya halka alkaline (7.0 se 7.8 ke beech) hona chahiye, jo mycelium ki badhvaar ke liye sarvottam hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Substrate preparation area aur cropping room ke beech kya saavdhani baratni chahiye?",
+      "options": {
+        "A": "Dono ko ek saath jod dena chahiye",
+        "B": "Dono ke beech koi darwaza nahi hona chahiye",
+        "C": "Dono ko alag-alag rakhna chahiye taaki contamination na faile",
+        "D": "Koi khaas saavdhani zaroori nahi hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Substrate taiyar karne wali jagah par bahut saare doosre microbes ho sakte hain. Isliye, use cropping room se door aur alag rakhna chahiye taaki cropping room mein saaf-safai bani rahe aur contamination ka khatra kam ho."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "'Spawning' kise kehte hain?",
+      "options": {
+        "A": "Mushroom todne ko",
+        "B": "Taiyar substrate mein spawn (beej) milane ki prakriya ko",
+        "C": "Substrate ko geela karne ko",
+        "D": "Mushroom bechne ko"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spawning woh prakriya hai jismein pasteurized substrate ke thanda ho jaane ke baad usmein mushroom ka spawn (beej) milaya jaata hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Spawn milane ki aadarsh dar (rate) kya hai?",
+      "options": {
+        "A": "Geelay substrate ke vajan ka 2-3%",
+        "B": "Geelay substrate ke vajan ka 10-15%",
+        "C": "Geelay substrate ke vajan ka 20-25%",
+        "D": "Geelay substrate ke vajan ka 50%"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Aam taur par, geelay substrate ke kul vajan ka 2 se 3% spawn milana paryapt hota hai. Jaise 100 kg geelay substrate ke liye 2 se 3 kg spawn."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "'Spawn Run' ke samay kamre mein kya sthiti honi chahiye?",
+      "options": {
+        "A": "Poora andhera, kam ventilation aur 22-25°C तापमान",
+        "B": "Tez roshni, zyada ventilation aur 30°C तापमान",
+        "C": "Poora andhera, zyada ventilation aur 15°C तापमान",
+        "D": "Tez roshni, kam ventilation aur 20°C तापमान"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Spawn run (jab mycelium substrate mein failta hai) ke dauran, kamre mein andhera, hawa ka kam sanchar (taaki CO2 badhe) aur 22-25°C ka sthir तापमान aadarsh maana jaata hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Button mushroom mein 'Casing' ka kya matlab hai?",
+      "options": {
+        "A": "Bags ko cover karna",
+        "B": "Mycelium se poori tarah faile hue compost ke upar mitti ki ek parat lagana",
+        "C": "Mushroom ko pack karna",
+        "D": "Compost mein paani dalna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Casing ek aisi prakriya hai jismein poori tarah se faile hue mycelium (spawn run ke baad) ke upar pasteurized mitti, gobar ki khaad aur ret ke mishran ki ek parat bichhai jaati hai. Yeh mushroom nikalne (pinning) ko prerit karti hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Mushroom ke 'pinheads' kab dikhna shuru hote hain?",
+      "options": {
+        "A": "Spawning ke turant baad",
+        "B": "Spawn run ke dauran",
+        "C": "Casing ke baad jab तापमान, nami aur CO2 level ko badla jaata hai",
+        "D": "Harvesting ke baad"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Pinheads (chhote mushroom) tab banna shuru hote hain jab casing ke baad 'fruiting' ke liye anukool vatavaran banaya jaata hai. Ismein तापमान kam karna, nami badhana, taza hawa dena (CO2 kam karna) aur halki roshni dena shamil hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Oyster mushroom ke cropping room mein aadarsh nami (humidity) kitni honi chahiye?",
+      "options": {
+        "A": "40-50%",
+        "B": "60-70%",
+        "C": "80-90%",
+        "D": "100%"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Mushroom ke vikas ke samay, khaas kar fruiting stage mein, 80-90% relative humidity banaye rakhna zaroori hai taaki mushroom sookhe nahi aur acche se grow karein."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Cropping room mein CO2 (Carbon Dioxide) ka level badhne se mushroom par kya asar padta hai?",
+      "options": {
+        "A": "Mushroom ka rang gehra ho jaata hai",
+        "B": "Mushroom ka tana (stem) lamba aur topi (cap) chhoti reh jaati hai",
+        "C": "Mushroom bahut tezi se grow karte hain",
+        "D": "Mushroom ka swaad behtar ho jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Fruiting ke samay yadi CO2 ka level 1000 ppm se zyada ho jaata hai, to mushroom ko paryapt oxygen nahi milti. Iske kaaran unka tana lamba ho jaata hai aur cap avikisit ya chhoti reh jaati hai, jisse unki quality kharab ho jaati hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Oyster mushroom bags mein ched (holes) kyon kiye jaate hain?",
+      "options": {
+        "A": "Bag ko halka karne ke liye",
+        "B": "Design ke liye",
+        "C": "Mushroom ko bahar nikalne ke liye jagah dene ke liye",
+        "D": "Paani bharne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bags mein ched karne se un jagahon se mushroom ke 'pinheads' bahar nikalte hain aur grow karte hain. Yeh unhe vikas ke liye jagah pradan karta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Mushroom ki 'Flush' ya 'Break' ka kya matlab hai?",
+      "options": {
+        "A": "Bimari ka aana",
+        "B": "Ek hi samay par bahut saare mushroom ka nikalna aur unki katai",
+        "C": "Bag ka phat jaana",
+        "D": "Paani ka chhidkaav karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mushroom ek saath ek lehar (wave) mein ugte hain. Ek lehar mein uge hue mushrooms ko todne ko ek 'flush' ya 'break' kaha jaata hai. Ek bag se aam taur par 2-3 flush milte hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Cropping room mein taazi hawa (Fresh Air) dena kyon zaroori hai?",
+      "options": {
+        "A": "Kamre ko thanda karne ke liye",
+        "B": "CO2 level ko kam karne aur O2 level ko badhane ke liye",
+        "C": "Nami kam karne ke liye",
+        "D": "Khushboo failane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mushroom, insaano ki tarah, saans lene mein oxygen lete hain aur carbon dioxide chhodte hain. Fruiting ke samay, badhte hue CO2 level ko kam karne aur oxygen ki apoorti ke liye taazi hawa dena bahut zaroori hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Casing soil ko istemal se pehle pasteurize kyon kiya jaata hai?",
+      "options": {
+        "A": "Uska rang gehra karne ke liye",
+        "B": "Usme maujood bimari paida karne wale jeevanuon aur keedon ke andon ko nasht karne ke liye",
+        "C": "Uska vajan badhane ke liye",
+        "D": "Use geela karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Casing soil mein kai prakaar ke rogjanak (pathogens) aur keedon ke ande ho sakte hain. Pasteurization se inko nasht kiya jaata hai taaki fasal surakshit rahe."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar mushroom ke cap par paani ki boondein ruki rahein, to kya ho sakta hai?",
+      "options": {
+        "A": "Mushroom ka size bada ho jayega",
+        "B": "Mushroom par Bacterial Blotch jaisi bimari lag sakti hai",
+        "C": "Mushroom ka rang safed ho jayega",
+        "D": "Koi nuksaan nahi hoga"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mushroom ke cap par 4-6 ghante se zyada paani ruke rehne se bacterial blotch (peele-bhoore dhabbe) jaisi bimariyan ho sakti hain, jo mushroom ki quality ko kharab kar deti hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Oyster mushroom ke liye 'spawn run' mein kitna samay lagta hai?",
+      "options": {
+        "A": "5-7 din",
+        "B": "15-20 din",
+        "C": "30-40 din",
+        "D": "2-3 din"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi तापमान aur shart par, oyster mushroom ka mycelium substrate mein poori tarah se failne mein (spawn run complete hone mein) aam taur par 15 se 20 din ka samay leta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "'Shocking' ya 'Cold Shock' treatment kis mushroom mein pinning laane ke liye kiya jaata hai?",
+      "options": {
+        "A": "Oyster Mushroom",
+        "B": "Button Mushroom",
+        "C": "Shiitake Mushroom",
+        "D": "Paddy Straw Mushroom"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Shiitake mushroom ke substrate blocks (logs) jab mycelium se poori tarah bhar jaate hain, to unhe thande paani mein dubokar 'cold shock' diya jaata hai. Yeh achanak तापमान parivartan unhe fruiting (mushroom nikalne) ke liye prerit karta hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Cropping room ki safai ke liye sabse prabhavi disinfectant kaun sa hai?",
+      "options": {
+        "A": "Sirf paani",
+        "B": "2% Formalin solution",
+        "C": "Detergent",
+        "D": "Neem ka tel"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek fasal ke baad doosri fasal lene se pehle, cropping room ko acchi tarah se saaf karne aur disinfect karne ke liye 2% formalin ka ghol ek prabhavi vikalp hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Mushroom beds/bags par paani dene ka sabse accha samay kaun sa hai?",
+      "options": {
+        "A": "Din mein tez dhoop ke samay",
+        "B": "Raat mein",
+        "C": "Subah ya shaam, jab तापमान kam ho",
+        "D": "Kabhi bhi de sakte hain"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Paani ka chhidkaav subah ya shaam ke samay karna chahiye. Isse paani ko sookhne ke liye paryapt samay milta hai aur bimariyon ka khatra kam hota hai. Paani hamesha fine mist (phuhar) ke roop mein dena chahiye."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Biological Efficiency (BE) ka formula kya hai?",
+      "options": {
+        "A": "(Sookhe substrate ka vajan / Taaza mushroom ka vajan) x 100",
+        "B": "(Taaza mushroom ka vajan / Geelay substrate ka vajan) x 100",
+        "C": "(Taaza mushroom ka vajan / Sookhe substrate ka vajan) x 100",
+        "D": "(Geelay substrate ka vajan / Taaza mushroom ka vajan) x 100"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Biological Efficiency (Jaivik Dakshata) yeh maapti hai ki substrate kitni acchi tarah se mushroom mein parivartit hua. Iska formula hai: (Kul taaze mushroom ka vajan ÷ istemal kiye gaye sookhe substrate ka vajan) × 100."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Mushroom farm mein sabse aam pareshani paida karne wala keet (pest) kaun sa hai?",
+      "options": {
+        "A": "Tidda (Grasshopper)",
+        "B": "Mushroom Fly (Sciarid/Phorid flies)",
+        "C": "Machhar (Mosquito)",
+        "D": "Cheenti (Ant)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mushroom flies (Sciarid aur Phorid makkhiyan) mushroom farm mein sabse aam aur nuksaandayak keet hain. Inke larvae mycelium aur mushroom ko khaakar nuksaan pahunchate hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Spawn bag mein hara mold (Green Mold) kis fungus ke kaaran hota hai?",
+      "options": {
+        "A": "Aspergillus",
+        "B": "Penicillium",
+        "C": "Trichoderma",
+        "D": "Verticillium"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Trichoderma species, jise aam taur par Green Mold kaha jaata hai, mushroom ki kheti mein ek bahut aam aur tezi se failne wala pratiyogi fungus hai, jo poori fasal ko barbad kar sakta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "'Wet Bubble' bimari ka kya lakshan hai?",
+      "options": {
+        "A": "Mushroom sookh jaate hain",
+        "B": "Mushroom par hare dhabbe pad jaate hain",
+        "C": "Mushroom ek ajeeb, amorphic (bina aakar ke) mass mein badal jaate hain aur unse paani rishta hai",
+        "D": "Mushroom ka tana lamba ho jaata hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Wet Bubble (Mycogone perniciosa) bimari mein, mushroom aakarheen (shapeless) ho jaate hain, unka aakar phool jaisa ho jaata hai aur baad mein unse ek bhoora, badboodaar dravya risne lagta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Keeton (pests) ko farm mein ghusne se rokne ke liye darwazon aur khidkiyon par kya lagana chahiye?",
+      "options": {
+        "A": "Parda",
+        "B": "Kaanch (Glass)",
+        "C": "Nylon ki jaali (Insect-proof net)",
+        "D": "Plastic sheet"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Farm ke sabhi pravesh dwaaron par 30-40 mesh ki nylon jaali lagane se mushroom flies jaise udne wale keeton ko andar aane se roka ja sakta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "IPM ka poora naam kya hai?",
+      "options": {
+        "A": "Instant Pest Management",
+        "B": "Integrated Pest Management",
+        "C": "Indian Pest Management",
+        "D": "Internal Pest Management"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IPM ka matlab hai Integrated Pest Management (Samanvit Keet Prabandhan). Yeh ek aisi pranali hai jismein keeton aur bimariyon ko niyantrit karne ke liye kai tareekon (jaivik, yaantrik, saanskritic aur rasayanik) ka ek saath istemal kiya jaata hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "'Cobweb Mold' ki pehchan kaise hoti hai?",
+      "options": {
+        "A": "Hare rang ka powder",
+        "B": "Mushroom ka lamba hona",
+        "C": "Casing soil ya mushroom ke upar makdi ke jaale jaisi safed-grey rui ka failna",
+        "D": "Peele dhabbe"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cobweb Mold (Dactylium) bahut tezi se failne wala ek fungus hai jo casing soil aur mushroom ke upar ek patli, jaale jaisi parat bana leta hai. Yeh nami wale vatavaran mein tezi se badhta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Bimariyon se bachne ka sabse accha tareeka kya hai?",
+      "options": {
+        "A": "Rozana dher saare chemical chhidakna",
+        "B": "Farm mein saaf-safai (hygiene) aur swachhta banaye rakhna",
+        "C": "Farm ko hamesha geela rakhna",
+        "D": "Farm ko poori tarah band rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bimariyon aur keeton ki roktham ka sabse prabhavi aur pehla kadam farm mein, upkaranon mein aur kaam karne walon mein uchit saaf-safai aur swachhta (sanitation) banaye rakhna hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Nematodes kya hain jo mushroom ki fasal ko nuksaan pahunchate hain?",
+      "options": {
+        "A": "Ek prakaar ki makkhi",
+        "B": "Ek prakaar ka fungus",
+        "C": "Bahut chhote, dhaage jaise keede (microscopic worms)",
+        "D": "Ek prakaar ka bacteria"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Nematodes sookshmadarshi (microscopic) keede hote hain jo compost ya casing soil mein rehkar seedhe mycelium ko khaate hain, jisse fasal ke utpaadan mein bhaari kami aati hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar cropping room mein bimari fail jaaye to 'spot treatment' ke liye kya istemal kiya jaata hai?",
+      "options": {
+        "A": "Doodh",
+        "B": "Namak (Salt)",
+        "C": "Shakkar",
+        "D": "Rakh (Ash)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar kisi choti jagah par bimari (jaise bubble ya mold) dikhti hai, to use khurach kar nikalne ke baad us jagah par namak ya चूना (lime) daal diya jaata hai taaki woh aage na faile. Yeh ek aam gharelu upchar hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "False Truffle bimari mein kya hota hai?",
+      "options": {
+        "A": "Mushroom meetha ho jaata hai",
+        "B": "Compost ke andar sakht, gaanthein jaisi sanrachnayein ban jaati hain",
+        "C": "Mushroom ka rang badal jaata hai",
+        "D": "Mushroom ugte hi nahi hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "False Truffle (Diehliomyces microsporus) ek fungus hai jo compost mein ugta hai aur aalu jaisi sakht, gaanthein bana leta hai. Yeh compost ka तापमान badha deta hai aur mushroom ke utpaadan ko rok deta hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Mushroom Mites (makdi jaise chhote jeev) kya nuksaan karte hain?",
+      "options": {
+        "A": "Woh sirf farm mein ghoomte hain",
+        "B": "Woh mycelium aur mushroom ko khaate hain aur un par surang banate hain",
+        "C": "Woh paudhon ko khaate hain",
+        "D": "Woh faydemand hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mites bahut chhote jeev hote hain jo mushroom ke tano mein chhed karke unhe khokla kar dete hain aur mycelium ko bhi khaate hain, jisse mushroom ki quality aur utpaadan dono par bura asar padta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Bacterial Blotch ko rokne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Nami ko 100% kar dena chahiye",
+        "B": "Mushroom ko hamesha geela rakhna chahiye",
+        "C": "Accha ventilation dena chahiye taaki mushroom ki satah jaldi sookh jaaye",
+        "D": "Paani dena band kar dena chahiye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bacterial Blotch (Pseudomonas tolaasii) geeli satah par panapta hai. Isse bachne ke liye paani dene ke baad paryapt ventilation dena zaroori hai taaki mushroom ke caps par paani zyada der tak na ruke."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Fungicide ka istemal kab karna chahiye?",
+      "options": {
+        "A": "Har din, bina kisi kaaran ke",
+        "B": "Jab bimari ke lakshan dikhein aur zaroorat ho, nirdeshon ke anusaar",
+        "C": "Sirf fasal ke ant mein",
+        "D": "Fungicide ka istemal nahi karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rasayanik fungicide ka istemal tabhi karna chahiye jab zaroorat ho aur bimari niyantran se bahar ho. Hamesha surakshit aur anushansit (recommended) fungicide ka hi nirdharit matra mein istemal karna chahiye."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Istemaal ho chuke substrate (Spent Mushroom Substrate - SMS) ka kya karna chahiye?",
+      "options": {
+        "A": "Use cropping room mein hi rakha rehne de",
+        "B": "Use farm ke paas hi dher laga de",
+        "C": "Use farm se door le jaakar compost ya khet ki khaad ke roop mein istemal karein",
+        "D": "Use nadi mein baha de"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Spent substrate mein bimariyan aur keet ho sakte hain. Isliye, use turant farm se door le jaana chahiye. Yeh kheti ke liye ek bahut acchi khaad (manure) ke roop mein kaam aa sakta hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Kaun si bimari button mushroom ke 'stipe' (tane) ko lamba aur 'cap' (topi) ko chhota kar deti hai?",
+      "options": {
+        "A": "Wet Bubble",
+        "B": "Dry Bubble (Verticillium disease)",
+        "C": "Green Mold",
+        "D": "Bacterial Blotch"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dry Bubble, jo Verticillium fungicola ke kaaran hoti hai, mushroom ke aakar ko vikrit kar deti hai. Isse mushroom ka tana mota aur tedha-medha ho jaata hai aur cap chhota reh jaata hai, jise 'dry bubble' kehte hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Farm mein hygiene banaye rakhne ke liye pravesh dwar par kya hona chahiye?",
+      "options": {
+        "A": "Ek sundar carpet",
+        "B": "Ek 'Foot Bath' jismein disinfectant bhara ho",
+        "C": "Paani se bhara ek tub",
+        "D": "Kuch bhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Farm ke pravesh dwar par ek foot bath (jismein formalin ya koi anya disinfectant ho) rakhna chahiye taaki jooton ke saath aane wale bimari ke jeevanu bahar hi nasht ho jayein."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Button mushroom ko todne ka sahi samay kab hota hai?",
+      "options": {
+        "A": "Jab woh poori tarah se khul jaaye",
+        "B": "Jab uski cap (topi) band ho aur neeche ki jhillli (veil) tooti na ho",
+        "C": "Jab woh bahut chhota ho",
+        "D": "Jab uska rang bhoora ho jaaye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Button mushroom ki sabse acchi quality tab hoti hai jab uski cap tight aur band ho aur uske neeche ki veil (parda) stem se judi ho. Veil tootne ke baad uski quality kam ho jaati hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Mushroom ko todne ka sahi tareeka kya hai?",
+      "options": {
+        "A": "Upar se kaat lena",
+        "B": "Kheenchna",
+        "C": "Halke se pakad kar ghuma kar todna (gentle twisting motion)",
+        "D": "Patthar se todna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mushroom ko uske base se halke haath se pakad kar, thoda sa ghumaane se woh aasaani se bed se alag ho jaata hai. Isse aas-paas ke chhote pinheads ko nuksaan nahi pahunchta."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Harvesting ke baad mushroom ke neeche ka mitti wala hissa kyon kaat diya jaata hai?",
+      "options": {
+        "A": "Vajan kam karne ke liye",
+        "B": "Saaf-suthra product dene aur shelf life badhane ke liye",
+        "C": "Swaad badhane ke liye",
+        "D": "Aisa karna zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mushroom ke neeche ke hisse mein casing soil lagi hoti hai. Ise kaatne se mushroom saaf dikhta hai, packaging aasan hoti hai aur mitti mein maujood microbes se mushroom jaldi kharab nahi hota."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Taaze mushroom ko store karne ke liye sabse accha तापमान kya hai?",
+      "options": {
+        "A": "0°C se neeche (Freezer)",
+        "B": "2-5°C (Refrigerator)",
+        "C": "15-20°C",
+        "D": "25-30°C (Room Temperature)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Taaze mushroom ko 2 se 5 degree Celsius ke तापमान par refrigerator mein rakhne se unki shelf life badh jaati hai aur woh 5-7 din tak taaze bane rehte hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Mushroom ki packing ke liye aam taur par kaun se container istemal hote hain?",
+      "options": {
+        "A": "Jute ke bag",
+        "B": "Kaanch ke jar",
+        "C": "Punnet (plastic ke dibbe) jinke upar cling film lagi ho",
+        "D": "Kapde ki thaili"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Retail marketing ke liye, mushroom ko aam taur par 200-250 gram ke plastic punnets mein pack kiya jaata hai aur upar se saans lene wali (perforated) cling film se cover kiya jaata hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Mushroom ko lamba samay tak surakshit rakhne ke liye 'Value Addition' ka kaun sa tareeka hai?",
+      "options": {
+        "A": "Unhe dhoop mein rakhna",
+        "B": "Unhe sukhaana (Drying) ya achar banana (Pickling)",
+        "C": "Unhe paani mein dubo kar rakhna",
+        "D": "Unhe mitti mein daba dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Value addition ka matlab hai product ka roop badalkar uski keemat aur shelf life badhana. Mushroom ko sukha kar (drying), achar banakar (pickling), ya powder banakar lamba samay tak store kiya jaa sakta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Mushroom ki 'Grading' kis aadhar par ki jaati hai?",
+      "options": {
+        "A": "Uske vajan ke aadhar par",
+        "B": "Uske size, rang aur quality (band ya khula) ke aadhar par",
+        "C": "Uske swaad ke aadhar par",
+        "D": "Grading nahi ki jaati"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grading mein mushroom ko unke aakar (size), rang (safedi), aur sthiti (cap band hai ya khuli) ke aadhar par alag-alag grades (A, B, C) mein baanta jaata hai. Acchi grade ke mushroom ki keemat zyada milti hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Local market mein mushroom bechne ka sabse seedha tareeka kya hai?",
+      "options": {
+        "A": "Export karna",
+        "B": "Online bechna",
+        "C": "Seedhe sabji mandi, restaurants ya local vendors ko bechna",
+        "D": "Sirf processing companies ko bechna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Chhote kisanon ke liye, apni उपज ko sthaniya sabji mandi, hotels, restaurants ya aas-paas ke dukaandaron ko seedhe bechna sabse aasan aur prachalit tareeka hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Pre-cooling ka kya mahatva hai?",
+      "options": {
+        "A": "Mushroom ko garam karna",
+        "B": "Harvesting ke turant baad mushroom se 'field heat' nikalna taaki shelf life badhe",
+        "C": "Mushroom ko dhona",
+        "D": "Mushroom ka vajan badhana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pre-cooling ek aisi prakriya hai jismein todne ke turant baad mushroom ko tezi se thanda kiya jaata hai. Isse unki saans lene ki dar (respiration rate) kam ho jaati hai aur woh jaldi kharab nahi hote, jisse unki shelf life badh jaati hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Mushroom ko transport karte samay kya saavdhani baratni chahiye?",
+      "options": {
+        "A": "Khuli gaadi mein le jaana chahiye",
+        "B": "Dhoop mein le jaana chahiye",
+        "C": "Refrigerated van ya thandi gaadi mein, jhatkon se bachakar le jaana chahiye",
+        "D": "Transport mein koi saavdhani zaroori nahi"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Mushroom bahut nazuk hote hain. Unhe door tak le jaane ke liye refrigerated gaadi ka istemal karna chahiye aur packing aisi honi chahiye ki jhatkon se woh dabkar kharab na hon."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Oyster mushroom ko todne ka sahi stage kya hai?",
+      "options": {
+        "A": "Jab woh bahut chhote hon",
+        "B": "Jab unke kinare andar ki taraf mude hon aur woh poori tarah se flat na hue hon",
+        "C": "Jab unke kinare upar ki taraf mud jaayein aur woh poore phail jaayein",
+        "D": "Jab unka rang peela pad jaaye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Oyster mushroom ko tabhi tod lena chahiye jab unka aakar poora ho jaaye lekin unke kinare (edges) abhi bhi thode andar ki taraf mude hue hon. Kinare poori tarah se seedhe ya upar mudne par unki quality aur shelf life kam ho jaati hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Canning (dibba-bandi) mein mushroom ko preserve karne ke liye kiska istemal hota hai?",
+      "options": {
+        "A": "Tel (Oil)",
+        "B": "Namak ke paani (Brine solution)",
+        "C": "Sirka (Vinegar)",
+        "D": "Shakkar ki chaashni (Sugar syrup)"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Mushroom ki canning mein unhe pehle blanch kiya jaata hai aur phir namak ke paani (brine solution) ke saath can mein bhar kar high temperature par sterilize kiya jaata hai, jisse woh saal bhar tak surakshit rehte hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Ek mushroom technician ko apni fasal ka record (jaise kab spawn dala, kab harvesting hui) kyon rakhna chahiye?",
+      "options": {
+        "A": "Sirf samay paas karne ke liye",
+        "B": "Apne farm ki performance ka aakalan karne, samasyaon ko pehchanne aur bhavishya ki planning ke liye",
+        "C": "Sarkar ko dikhane ke liye",
+        "D": "Record rakhna zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Record keeping ek bahut zaroori aadat hai. Isse pata chalta hai ki kis batch mein kitna utpaadan hua, kya samasya aayi, kitni laagat aayi, aur is data ke aadhar par aage ke liye behtar nirnay liye jaa sakte hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Blanching kya hai aur yeh kyon ki jaati hai?",
+      "options": {
+        "A": "Mushroom ko rangna",
+        "B": "Mushroom ko ubalte paani mein thodi der daal kar turant thande paani mein daalna, taaki enzymes nishkriya ho jayein",
+        "C": "Mushroom ko fry karna",
+        "D": "Mushroom ko namak lagana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Blanching ek prakriya hai jismein mushroom ko 2-3 minute ke liye ubalte paani mein daala jaata hai aur phir turant baraf ke thande paani mein. Isse woh enzymes deactivate ho jaate hain jo mushroom ke rang, texture aur swaad ko kharab karte hain. Yeh freezing ya drying se pehle ki jaati hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Marketing ke liye apne mushroom brand ki pehchan banane ke liye kya zaroori hai?",
+      "options": {
+        "A": "Koi label na lagana",
+        "B": "Acchi packaging, ek brand naam aur logo",
+        "C": "Har baar alag-alag naam se bechna",
+        "D": "Keemat sabse zyada rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek alag brand naam, logo aur aakarshak packaging se aapke product ko market mein ek pehchan milti hai. Grahak quality ke saath-saath brand ko bhi pehchante hain aur us par vishwas karte hain."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Mushroom ki shelf life kam hone ka mukhya kaaran kya hai?",
+      "options": {
+        "A": "Unka rang safed hona",
+        "B": "Unme protein hona",
+        "C": "Unki high respiration rate aur high moisture content",
+        "D": "Unka swaad"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Mushroom todne ke baad bhi jeevit rehte hain aur tezi se saans (respiration) lete hain. Unki uchh shvasan dar aur 90% tak paani ki matra hone ke kaaran, woh bahut jaldi apni nami khokar aur urja kharch karke kharab ho jaate hain."
+    }
+  ]
+}

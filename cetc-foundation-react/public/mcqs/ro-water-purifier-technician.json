@@ -1,0 +1,1443 @@
+{
+  "course_name": "RO Water Purifier Technician",
+  "sector": "Plumbing, Sanitation & Water",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Water Science & RO Principles",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "RO Purifier Components & Functions",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Installation & Commissioning",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Troubleshooting & Maintenance",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Safety & Best Practices",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Customer Service & Business Skills",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "RO system mein TDS ka full form kya hai?",
+      "options": {
+        "A": "Total Dissolved Solids",
+        "B": "Total Drainage System",
+        "C": "Technical Data Sheet",
+        "D": "Treated Drinking Water Supply"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "TDS ka matlab 'Total Dissolved Solids' hota hai, jo paani mein ghule hue impurities ko darshata hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Pani mein hardness kis cheez ki wajah se hoti hai?",
+      "options": {
+        "A": "Calcium aur Magnesium salts",
+        "B": "Sodium aur Potassium salts",
+        "C": "Iron aur Manganese",
+        "D": "Chloride aur Sulfate"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pani mein hardness mainly Calcium aur Magnesium ke salts ki wajah se hoti hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "RO process mein paani kis pressure par membrane se guzarta hai?",
+      "options": {
+        "A": "Atmospheric pressure",
+        "B": "High pressure",
+        "C": "Low pressure",
+        "D": "Zero pressure"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RO process mein paani ko high pressure par RO membrane se pass kiya jata hai taaki impurities filter ho sakein."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "RO ka primary function kya hai?",
+      "options": {
+        "A": "Paani ko garam karna",
+        "B": "Paani mein se dissolved impurities ko nikalna",
+        "C": "Paani ko thanda karna",
+        "D": "Paani ko store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RO ka mukhya kaam paani mein ghule hue solids aur impurities ko membrane ke through remove karna hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Agar paani mein TDS bahut high ho, toh kya hoga?",
+      "options": {
+        "A": "Paani ka taste meetha hoga",
+        "B": "Paani mein se impurities remove karna mushkil hoga",
+        "C": "RO membrane ki life kam ho jayegi",
+        "D": "Paani aur zyada clean ho jayega"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "High TDS hone par RO membrane par load badhta hai, jisse uski life kam ho sakti hai aur filtration efficiency bhi affect ho sakti hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Osmosis kya hai?",
+      "options": {
+        "A": "Solvent ka high concentration se low concentration ki taraf movement",
+        "B": "Solvent ka low concentration se high concentration ki taraf movement through a semi-permeable membrane",
+        "C": "Solute ka high concentration se low concentration ki taraf movement",
+        "D": "Solute ka low concentration se high concentration ki taraf movement"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Osmosis mein solvent (paani) apni low solute concentration area se high solute concentration area ki taraf semi-permeable membrane ke through move karta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Reverse Osmosis (RO) mein kya hota hai?",
+      "options": {
+        "A": "Natural osmosis process ko accelerate kiya jata hai",
+        "B": "External pressure apply karke osmosis process ko reverse kiya jata hai",
+        "C": "Chemicals use karke impurities remove ki jati hain",
+        "D": "Filter media se paani ko pass kiya jata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RO mein, external pressure apply karke osmosis ki natural direction ko reverse kiya jata hai, jisse paani semi-permeable membrane se pass hokar impurities ko chhod deta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Paani mein chlorine ki presence ko kaun sa filter remove karta hai?",
+      "options": {
+        "A": "Sediment filter",
+        "B": "RO membrane",
+        "C": "Activated Carbon filter",
+        "D": "UV filter"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Activated Carbon filter paani mein se chlorine, organic compounds aur badbu ko remove karta hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Micron rating kya indicate karta hai?",
+      "options": {
+        "A": "Filter ki thickness",
+        "B": "Filter kitne chote particles ko rok sakta hai",
+        "C": "Filter ka weight",
+        "D": "Filter ki life"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Micron rating batata hai ki filter kitne chote size ke particles (in microns) ko apne through pass hone se rok sakta hai. Jitna kam micron rating, utna finer filtration."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Pre-filters ka kya role hota hai RO system mein?",
+      "options": {
+        "A": "Bacteria ko marna",
+        "B": "RO membrane ko bade particles se protect karna",
+        "C": "Paani ko thanda karna",
+        "D": "Paani ka pH level adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pre-filters (sediment, carbon) RO membrane ko bade particles, sand, silt, aur chlorine se protect karte hain, uski life badhate hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Agar RO system mein UV lamp laga hai, toh uska kya function hai?",
+      "options": {
+        "A": "Paani ko garam karna",
+        "B": "Paani mein se chemicals nikalna",
+        "C": "Bacteria aur viruses ko deactivate karna",
+        "D": "Paani ka taste badhana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "UV lamp ultraviolet rays ka use karke paani mein maujood bacteria, viruses aur anya microorganisms ko deactivate karta hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "RO waste water (reject water) mein kya hota hai?",
+      "options": {
+        "A": "Pure water",
+        "B": "Concentrated impurities aur salts",
+        "C": "Chlorine-free water",
+        "D": "UV treated water"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RO process mein, membrane impurities ko reject karta hai, jo waste water ke roop mein bahar nikalta hai. Ismein concentrated impurities aur salts hote hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Kis type ka filter paani mein se fine particles, rust aur sand ko remove karta hai?",
+      "options": {
+        "A": "Activated Carbon filter",
+        "B": "Sediment filter",
+        "C": "UV filter",
+        "D": "Post Carbon filter"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sediment filter ka kaam paani mein se bade aur fine suspended particles jaise sand, silt, rust ko remove karna hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "RO membrane ka pore size kitna hota hai approximately?",
+      "options": {
+        "A": "10 microns",
+        "B": "0.1 microns",
+        "C": "0.0001 microns",
+        "D": "1 micron"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "RO membrane ka pore size extremely small hota hai, typically 0.0001 microns, jo dissolved salts aur smallest impurities ko bhi rok deta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Agar feed water ka pressure bahut kam ho, toh RO system mein kya problem aa sakti hai?",
+      "options": {
+        "A": "Paani bahut zyada filter hoga",
+        "B": "RO membrane damage ho jayegi",
+        "C": "Pure water production kam ho jayega ya ruk jayega",
+        "D": "Waste water production ruk jayega"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "RO ko function karne ke liye ek minimum pressure ki zaroorat hoti hai. Agar feed water pressure kam hoga, toh RO pump ko adequate pressure create karne mein dikkat hogi, jisse pure water production kam ho jayega."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "TDS controller ka kya kaam hai RO system mein?",
+      "options": {
+        "A": "Paani ke flow ko control karna",
+        "B": "Pure water ka TDS level adjust karna",
+        "C": "Waste water ko control karna",
+        "D": "Pump ko on/off karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "TDS controller RO system mein purified water ke TDS level ko adjust karne mein help karta hai, by allowing a small portion of untreated water to mix with purified water."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Alkaline filter ka kya benefit hai RO system mein?",
+      "options": {
+        "A": "Paani ko acidic banata hai",
+        "B": "Paani ka pH level badhata hai aur minerals add karta hai",
+        "C": "Bacteria ko marta hai",
+        "D": "Paani mein se chlorine nikalta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Alkaline filter RO purified water ke low pH ko neutralize karke usko alkaline banata hai aur essential minerals add karta hai, jisse paani healthy aur tasty banta hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "RO Booster Pump ka kya role hai?",
+      "options": {
+        "A": "Paani ko thanda karna",
+        "B": "RO membrane tak high pressure paani bhejna",
+        "C": "Waste water ko bahar nikalna",
+        "D": "Pure water ko store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RO Booster Pump feed water pressure ko badhata hai taaki paani RO membrane se effectively filter ho sake."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Solenoid Valve (SV) ka kya function hai RO system mein?",
+      "options": {
+        "A": "Paani ko garam karna",
+        "B": "Water flow ko automatically control karna (on/off)",
+        "C": "Air pressure regulate karna",
+        "D": "Filters ko clean karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Solenoid Valve ek automatic electrical valve hai jo RO system mein water flow ko start ya stop karta hai, typically jab system on ya off hota hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Float Switch kahan use hota hai RO system mein?",
+      "options": {
+        "A": "Booster pump ke andar",
+        "B": "Waste water line mein",
+        "C": "Storage tank mein water level control karne ke liye",
+        "D": "Pre-filter housing mein"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Float switch storage tank mein paani ka level detect karta hai aur jab tank full ho jata hai toh RO system ko automatically band kar deta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "RO system mein UV lamp ko kab activate hona chahiye?",
+      "options": {
+        "A": "Jab paani storage tank mein enter kare",
+        "B": "Jab paani RO membrane se guzar raha ho",
+        "C": "Jab paani purified hone ke baad dispense ho raha ho",
+        "D": "Jab paani pre-filters se guzar raha ho"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "UV lamp ko last stage mein (storage tank se dispense hone se pehle) activate hona chahiye, taaki purified paani mein maujood kisi bhi bacteria ya virus ko destroy kiya ja sake."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "RO system mein flow restrictor ka kya kaam hai?",
+      "options": {
+        "A": "Pure water flow ko badhana",
+        "B": "Waste water flow ko control karna aur membrane par pressure maintain karna",
+        "C": "Feed water pressure ko badhana",
+        "D": "Pre-filters ki life badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flow restrictor waste water ke flow ko regulate karta hai, jisse RO membrane par adequate back pressure maintain hota hai, jo filtration efficiency ke liye zaroori hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "SMPS ka kya matlab hai RO electrical circuit mein?",
+      "options": {
+        "A": "Simple Motor Power Supply",
+        "B": "Switched-Mode Power Supply",
+        "C": "Static Magnetic Power System",
+        "D": "Standard Main Power Switch"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SMPS (Switched-Mode Power Supply) AC power ko DC power mein convert karta hai aur RO pump, SV, UV lamp jaise components ko power supply karta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Agar RO system mein High Pressure Switch (HPS) kharab ho jaye, toh kya hoga?",
+      "options": {
+        "A": "Booster pump kabhi chalega hi nahi",
+        "B": "Booster pump kabhi band nahi hoga, even if tank is full",
+        "C": "UV lamp on nahi hoga",
+        "D": "Waste water flow ruk jayega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "HPS jab storage tank full ho jata hai aur line pressure badh jata hai, toh pump ko band kar deta hai. Agar ye kharab ho jaye, toh pump continuously chalta rahega, jisse tank overflow ho sakta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Low Pressure Switch (LPS) ka kya function hai?",
+      "options": {
+        "A": "Tank full hone par pump ko off karna",
+        "B": "Feed water pressure kam hone par pump ko off karna",
+        "C": "RO membrane ko flush karna",
+        "D": "UV lamp ko control karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LPS feed water supply pressure kam hone par (ya na hone par) booster pump ko automatically band kar deta hai, taaki pump dry run na kare aur damage na ho."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Post Carbon filter ka kya kaam hai?",
+      "options": {
+        "A": "Bade particles remove karna",
+        "B": "Bacteria marna",
+        "C": "Purified paani ka taste aur smell improve karna",
+        "D": "RO membrane ko protect karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Post Carbon filter RO process ke baad lagaya jata hai, jo storage tank mein store hue paani ki residual smell ya taste ko remove karke usko fresh banata hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "UF membrane (Ultra Filtration) ka pore size RO membrane se ______ hota hai.",
+      "options": {
+        "A": "Same",
+        "B": "Chota",
+        "C": "Bada",
+        "D": "Irrelevant"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "UF membrane ka pore size RO membrane se bada hota hai (typically 0.01 to 0.1 microns), jo bacteria, viruses aur colloids ko remove karta hai, lekin dissolved salts ko nahi."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Agar RO system mein non-return valve (NRV) na ho ya kharab ho, toh kya hoga?",
+      "options": {
+        "A": "Pure water tank se waste water line mein reverse flow karega",
+        "B": "Feed water pressure badh jayega",
+        "C": "UV lamp continuously on rahega",
+        "D": "Booster pump ki efficiency badh jayegi"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "NRV (Check Valve) purified water ko storage tank se RO membrane ya waste water line mein reverse flow karne se rokta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "RO membrane housing ka kya purpose hai?",
+      "options": {
+        "A": "Paani ko garam karna",
+        "B": "RO membrane ko protect karna aur usmein se paani ko pass karana",
+        "C": "Filters ko store karna",
+        "D": "Electrical components ko cover karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RO membrane housing ek cylindrical casing hoti hai jo RO membrane ko rakhti hai aur usmein se high pressure par paani ko guzarne ka pathway provide karti hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "AC to DC converter ko RO system mein kya kehte hain?",
+      "options": {
+        "A": "Inverter",
+        "B": "Rectifier",
+        "C": "SMPS (Switch Mode Power Supply)",
+        "D": "Capacitor"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "RO system mein, AC (alternating current) ko DC (direct current) mein convert karne ke liye SMPS (Switch Mode Power Supply) ka use hota hai, jo pump aur valves ko power deta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Agar RO system mein drain line bahut zyada choked ho, toh kya hoga?",
+      "options": {
+        "A": "Pure water production badh jayega",
+        "B": "Booster pump par load kam ho jayega",
+        "C": "RO membrane damage ho sakti hai due to excessive back pressure",
+        "D": "UV lamp kaam karna band kar dega"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Agar drain line choked hogi, toh waste water bahar nahi nikal payega, jisse RO membrane par bahut zyada back pressure build hoga aur membrane damage ho sakti hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "RO system mein electrical connections ke liye kis type ki wiring use hoti hai?",
+      "options": {
+        "A": "High voltage industrial wiring",
+        "B": "Low voltage DC wiring",
+        "C": "Coaxial cable",
+        "D": "Optical fiber cable"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RO system ke internal components (pump, SV, UV) typically low voltage DC (24V or 36V) par operate karte hain, isliye low voltage DC wiring use hoti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "TDS meter ka kya use hai RO technician ke liye?",
+      "options": {
+        "A": "Paani ka temperature check karna",
+        "B": "Feed water aur purified water ka TDS level measure karna",
+        "C": "Paani mein bacteria count check karna",
+        "D": "Paani ka flow rate measure karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "TDS meter RO technician ke liye ek essential tool hai jo feed water ka TDS aur purified water ka TDS check karke RO system ki performance assess karta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "RO system mein mineral cartridge (or Alkaline filter) kaha lagaya jata hai?",
+      "options": {
+        "A": "Pre-filters se pehle",
+        "B": "RO membrane ke baad aur storage tank se pehle",
+        "C": "Storage tank ke baad aur tap se pehle",
+        "D": "Booster pump ke baad"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Mineral cartridge (ya Alkaline filter) purified water mein minerals add karne aur pH balance karne ke liye storage tank ke baad aur dispensing tap se pehle lagaya jata hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "RO purifier install karne se pehle sabse pehla step kya hona chahiye?",
+      "options": {
+        "A": "Electrical connection karna",
+        "B": "Site survey aur water pressure check karna",
+        "C": "Filters ko assemble karna",
+        "D": "Storage tank ko fill karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Installation se pehle, site ka survey karna, feed water pressure, aur TDS level check karna bahut zaroori hai taaki sahi system selection aur proper functioning ensure ho sake."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "RO purifier ko install karne ke liye kis type ke tools ki zaroorat hoti hai?",
+      "options": {
+        "A": "Welding machine",
+        "B": "Drill machine, spanner, cutter, screwdriver",
+        "C": "Heavy machinery",
+        "D": "Only bare hands"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RO installation ke liye basic tools jaise drill machine (wall mounting ke liye), spanner (fittings tight karne ke liye), cutter (pipes cut karne ke liye), aur screwdriver (screws ke liye) chahiye hote hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Feed water supply ke liye RO system ko kahan se connect karte hain?",
+      "options": {
+        "A": "Drain line se",
+        "B": "Fridge ke water line se",
+        "C": "Kitchen sink ke cold water supply line se",
+        "D": "Hot water supply line se"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "RO purifiers ko typically kitchen sink ke cold water supply line se connect kiya jata hai, using a diverter valve ya T-connector."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "RO system install karte samay drain line ko kahan connect karna chahiye?",
+      "options": {
+        "A": "Directly garden mein",
+        "B": "Kitchen sink ke drainage pipe mein",
+        "C": "Pure water tank mein",
+        "D": "Floor par khula chhod dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drain line ko kitchen sink ke drainage pipe ya kisi anya suitable waste water outlet se connect karna chahiye."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Naye RO system ko install karne ke baad pehla step kya hona chahiye usko use karne se pehle?",
+      "options": {
+        "A": "Directly paani peena shuru kar dena",
+        "B": "System ko flush karna aur initial fills ko drain karna",
+        "C": "Filters ko change karna",
+        "D": "UV lamp ko test karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Naye RO system ko install karne ke baad, filters se carbon dust aur manufacturing residues ko nikalne ke liye system ko achhe se flush karna aur pehle 2-3 tank fills ko drain karna zaroori hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Agar feed water pressure bahut kam ho, toh installation ke samay kya karna chahiye?",
+      "options": {
+        "A": "Ek high-pressure pump lagana chahiye",
+        "B": "RO system install nahi karna chahiye",
+        "C": "System ko gravity feed par chalana chahiye",
+        "D": "Waste water line ko block kar dena chahiye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Agar feed water pressure low hai, toh RO system mein ek external booster pump lagana zaroori hai taaki system theek se kaam kar sake."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "RO system mein leakage check karne ka best tareeka kya hai installation ke baad?",
+      "options": {
+        "A": "System ko overnight chhod dena",
+        "B": "System ko on karke har fitting aur joint ko carefully observe karna",
+        "C": "Paani mein color milana",
+        "D": "Sirf drain line check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Installation ke baad, system ko on karke har fitting, joint aur connection ko dhyan se observe karna chahiye leakage ke liye. Small leaks ko bhi ignor nahi karna chahiye."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Electrical connections karte samay sabse pehle kya ensure karna chahiye?",
+      "options": {
+        "A": "Power supply on ho",
+        "B": "Main switch off ho aur safety precautions liye gaye hon",
+        "C": "Saare wires same color ke hon",
+        "D": "Booster pump pehle connect ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical work karte samay hamesha main power supply ko off karna aur safety precautions jaise insulated tools aur gloves ka use karna bahut zaroori hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "RO system ki wall mounting height kitni honi chahiye approximately?",
+      "options": {
+        "A": "Floor level par",
+        "B": "Ceiling ke paas",
+        "C": "Kitchen counter level se thoda upar, easy access ke liye",
+        "D": "Drain line se neeche"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "RO system ko counter level se thoda upar install karna chahiye, jisse user ko paani nikalne mein aasani ho aur maintenance ke liye bhi convenient ho."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Agar RO system install karte samay paani ka TDS bahut high ho (e.g., >1000 ppm), toh kya advice denge customer ko?",
+      "options": {
+        "A": "Normal RO system theek hai",
+        "B": "Dual membrane RO system ya higher capacity system recommend karna chahiye",
+        "C": "Customer ko RO system use na karne ki salah denge",
+        "D": "Waste water ko recycle karne ki salah denge"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Extremely high TDS wale paani ke liye, ek standard RO system ki life kam ho sakti hai aur efficiency bhi affect ho sakti hai. Aisi situation mein dual membrane ya higher capacity RO system recommend karna chahiye."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "RO system mein tubing connections ko secure karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Glue",
+        "B": "Teflon tape",
+        "C": "Push-fit connectors ya threaded fittings",
+        "D": "Rubber bands"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "RO systems mein water tubing connections ko secure karne ke liye push-fit connectors (quick connect fittings) ya threaded fittings ka use hota hai, jo leak-proof connections provide karte hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Initial flushing process mein kitne tanks paani drain karna chahiye?",
+      "options": {
+        "A": "Half tank",
+        "B": "1 tank",
+        "C": "2-3 tanks",
+        "D": "5 tanks"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Naye RO system ko install karne ke baad, manufacturing dust aur carbon fines ko completely remove karne ke liye initial 2-3 tanks of purified water ko drain karna advisable hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "RO system ke liye proper ventilation kyu zaroori hai?",
+      "options": {
+        "A": "Taki system garam na ho",
+        "B": "Taki UV lamp acche se kaam kare",
+        "C": "Taki pump ko cooling mile aur condensation na ho",
+        "D": "Taki paani ka taste theek rahe"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Proper ventilation important hai taaki electrical components ko adequate cooling mile aur enclosure ke andar condensation build-up na ho, jo electrical faults ka karan ban sakta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Installation ke baad customer ko kya instructions deni chahiye?",
+      "options": {
+        "A": "Sirf bill dena chahiye",
+        "B": "System kaise operate karna hai, filters kab change karne hain, aur common issues par brief karna chahiye",
+        "C": "Sirf warning deni chahiye",
+        "D": "Koi instruction nahi deni chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ko system ke operation, maintenance schedule (filter change), aur basic troubleshooting tips ke baare mein inform karna ek professional technician ki responsibility hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Agar customer ke ghar mein paani ka pressure bahut high ho (e.g., >60 PSI), toh kya lagana zaroori hai?",
+      "options": {
+        "A": "Extra booster pump",
+        "B": "Pressure reducing valve (PRV)",
+        "C": "Flow restrictor",
+        "D": "TDS controller"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar feed water pressure bahut high hai, toh RO system components (filters, membrane, fittings) par strain pad sakta hai. Isse bachne ke liye Pressure Reducing Valve (PRV) lagana zaroori hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "RO system install karte samay kya cheez avoid karni chahiye?",
+      "options": {
+        "A": "Drain line ko block karna",
+        "B": "Loose electrical connections chhodna",
+        "C": "Pipes ko kink karna",
+        "D": "Ye sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Drain line ko block karna, loose electrical connections chhodna, aur pipes ko kink karna - ye sabhi installation errors hain jo system ke malfunction ya damage ka karan ban sakte hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "RO system ko install karte samay, agar wahan electrical socket available na ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Extension cord use karna chahiye permanently",
+        "B": "Customer ko ek proper electrical socket install karwane ki salah deni chahiye",
+        "C": "Battery se chalana chahiye",
+        "D": "System install nahi karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Permanently extension cord use karna unsafe ho sakta hai. Customer ko proper electrical socket install karwane ki salah deni chahiye, jisse system safely operate ho sake."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Agar RO system se paani nahi aa raha hai, toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "UV lamp kaam kar raha hai ya nahi",
+        "B": "Water supply aur electrical supply",
+        "C": "Drain line blocked hai ya nahi",
+        "D": "Storage tank full hai ya nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paani na aane ki sabse common wajah water supply ka band hona ya electrical power na milna ho sakti hai. Pehle ye check karna chahiye."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Agar RO system se paani ka taste kharab aa raha hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Booster pump kharab hai",
+        "B": "UV lamp kaam nahi kar raha",
+        "C": "Carbon filters ya RO membrane replace karne ki zaroorat hai",
+        "D": "Float switch kharab hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Kharab taste ya smell usually exhausted carbon filters (jo chlorine aur organic impurities remove karte hain) ya degraded RO membrane (jo dissolved solids ko remove karti hai) ki wajah se hota hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "RO system mein leakage dikhne par sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "System ko pura disassemble kar dena chahiye",
+        "B": "Main water supply aur power supply ko band karna chahiye",
+        "C": "Leakage spot par tape laga dena chahiye",
+        "D": "Customer ko naya system kharidne ki salah deni chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Leakage dikhne par sabse pehle safety ke liye main water supply aur electrical power supply ko band karna chahiye."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Agar RO system bahut dheere paani purify kar raha hai (slow flow), toh kya possible reasons ho sakte hain?",
+      "options": {
+        "A": "Filters choked hain ya RO membrane clogged hai",
+        "B": "UV lamp kharab hai",
+        "C": "TDS level bahut kam hai",
+        "D": "Drain line blockage"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Slow flow rate ki sabse common wajah choked pre-filters (sediment, carbon) ya clogged RO membrane hoti hai, jo paani ke flow ko restrict karte hain."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Booster pump continuously chal raha hai aur tank full nahi ho raha, toh kya check karna chahiye?",
+      "options": {
+        "A": "UV lamp ka connection",
+        "B": "RO membrane ki condition aur water pressure",
+        "C": "Post carbon filter",
+        "D": "Drain line ka flow restrictor"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Booster pump ke continuously chalne aur tank full na hone ka matlab ho sakta hai ki RO membrane clogged hai, ya feed water pressure insufficient hai, ya phir float switch kharab hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Agar purified water ka TDS high aa raha hai (after RO), toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Sediment filter kharab hai",
+        "B": "RO membrane damaged hai ya uski efficiency kam ho gayi hai",
+        "C": "UV lamp kaam nahi kar raha",
+        "D": "Booster pump bahut tez chal raha hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Purified water ka high TDS level directly RO membrane ki inefficiency ya damage ko indicate karta hai, kyunki membrane hi dissolved solids ko remove karti hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Pre-filters ko kitne samay baad replace karna chahiye (approximate)?",
+      "options": {
+        "A": "Har 2-3 saal mein",
+        "B": "Har 6-12 mahine mein (water quality par depend karta hai)",
+        "C": "Kabhi nahi",
+        "D": "Har 3 mahine mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pre-filters ki life feed water quality aur usage par depend karti hai, lekin typically har 6-12 mahine mein unhe replace karna advisable hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "RO membrane ko kitne samay baad replace karna chahiye (approximate)?",
+      "options": {
+        "A": "Har 1-2 saal mein",
+        "B": "Har 5 saal mein",
+        "C": "Har 6 mahine mein",
+        "D": "Kabhi nahi"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "RO membrane ki life feed water quality, usage aur pre-filter maintenance par depend karti hai, lekin generally har 1-2 saal mein use replace karna padta hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Agar RO system se bahut zyada waste water nikal raha hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "TDS controller ki setting",
+        "B": "Flow restrictor ki condition",
+        "C": "RO membrane ki efficiency",
+        "D": "Ye sabhi"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Excessive waste water production ke kai karan ho sakte hain, jaise ki flow restrictor ka kharab hona, RO membrane ki efficiency kam hona, ya TDS controller ki galat setting."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "UV lamp ko kab replace karna chahiye?",
+      "options": {
+        "A": "Jab paani ka taste kharab ho",
+        "B": "Jab UV light dim ho jaye ya jalna band kar de (typically every 1 year)",
+        "C": "Jab leakage ho",
+        "D": "Jab pump kaam na kare"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "UV lamp ki effectiveness over time kam ho jati hai, even if it's still glowing. Generally, ise har 1 saal mein replace karna advisable hai, ya jab ye jalna band kar de."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Agar RO system se motor ki awaaz aa rahi hai lekin paani nahi ban raha, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Solenoid valve stuck hai ya booster pump mein issue hai",
+        "B": "UV lamp kharab hai",
+        "C": "Storage tank full hai",
+        "D": "Filters bahut naye hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Motor chal rahi hai lekin paani nahi ban raha, iska matlab ho sakta hai ki water flow blocked hai (Solenoid Valve stuck) ya booster pump pressure generate nahi kar pa raha hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "RO system mein electrical fault trace karne ke liye kis tool ka use karte hain?",
+      "options": {
+        "A": "TDS meter",
+        "B": "Pressure gauge",
+        "C": "Multimeter",
+        "D": "Spanner"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Multimeter electrical faults jaise voltage, current, aur continuity check karne ke liye use hota hai, jo RO system ke electrical components ko diagnose karne mein helpful hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Agar RO system mein paani ka pressure bahut kam hai (input), toh kya karna chahiye?",
+      "options": {
+        "A": "Booster pump check karna ya extra pressure pump lagana",
+        "B": "RO membrane change karna",
+        "C": "Filters ko flush karna",
+        "D": "UV lamp ko replace karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Agar input water pressure kam hai, toh booster pump ko check karna chahiye. Agar wo theek hai, toh external pressure pump lagana ek solution ho sakta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Storage tank se paani dispense nahi ho raha, lekin system paani bana raha hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Booster pump kharab hai",
+        "B": "Storage tank ka air pressure kam hai ya dispensing tap clogged hai",
+        "C": "RO membrane clogged hai",
+        "D": "UV lamp kharab hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Storage tank se paani dispense na hone ka matlab ho sakta hai ki tank ka internal air pressure kam hai (jisse paani push nahi ho raha) ya dispensing tap clogged hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "RO system se vibration ya abnormal noise aa rahi hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "UV lamp",
+        "B": "Booster pump ke mounts aur connections",
+        "C": "TDS controller",
+        "D": "Drain line"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Abnormal noise ya vibration usually booster pump se aati hai. Iske mounts loose ho sakte hain ya pump mein koi internal mechanical fault ho sakta hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar RO system mein filter housing se leakage ho rahi hai, toh kya solution hai?",
+      "options": {
+        "A": "Naya system kharidna",
+        "B": "O-rings ko check karna aur replace karna ya housing ko tight karna",
+        "C": "UV lamp ko replace karna",
+        "D": "Booster pump change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Filter housing se leakage aksar loose housing, damaged O-rings, ya crack housing ki wajah se hoti hai. O-rings ko check karke replace karna ya housing ko properly tight karna solution hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Maintenance ke dauraan RO system ke parts ko clean karne ke liye kya use karna chahiye?",
+      "options": {
+        "A": "Strong chemical cleaners",
+        "B": "Mild soap solution aur soft cloth",
+        "C": "Wire brush",
+        "D": "Petrol"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RO system ke parts ko clean karne ke liye hamesha mild soap solution aur soft cloth ka use karna chahiye, taaki plastic parts damage na hon."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Electrical connections karte samay sabse important safety precaution kya hai?",
+      "options": {
+        "A": "Gloves pehenna",
+        "B": "Power supply ko off karna",
+        "C": "Booster pump ko hatana",
+        "D": "TDS meter use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical shock se bachne ke liye, kisi bhi electrical work se pehle main power supply ko off karna sabse zaroori hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "RO system install karte samay paani ke leakage se bachne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Saare connections ko acche se tight karna",
+        "B": "Pura system glue se seal kar dena",
+        "C": "Water supply ko hamesha on rakhna",
+        "D": "Sirf plastic pipes use karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Leakage se bachne ke liye, plumbing connections ko acche se tight karna aur Teflon tape ka sahi use karna bahut zaroori hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Chemicals jaise membrane cleaner ko handle karte samay kya precaution lena chahiye?",
+      "options": {
+        "A": "Khule haath se kaam karna",
+        "B": "Gloves aur eye protection pehenna",
+        "C": "Chemical ko taste karna",
+        "D": "Achhe ventilation ke bina kaam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Membrane cleaners jaise chemicals ko handle karte samay hamesha protective gloves aur eye protection pehenna chahiye taaki skin aur aankhon ko nuksan na ho."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Used filters aur RO membrane ko kahan dispose karna chahiye?",
+      "options": {
+        "A": "Khule mein fenk dena chahiye",
+        "B": "Normal household waste mein",
+        "C": "Proper waste disposal guidelines ke according, ya recycling centers mein",
+        "D": "Toilet mein flush kar dena chahiye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Used filters aur membranes mein accumulated impurities ho sakti hain. Inhe environmental guidelines ke according dispose karna chahiye, ideally recycling centers mein."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "RO system ke maintenance ke dauraan hygiene maintain karna kyu zaroori hai?",
+      "options": {
+        "A": "Taki system naya dikhe",
+        "B": "Taki paani mein bacteria contamination na ho",
+        "C": "Taki customer impress ho",
+        "D": "Taki tools saaf rahen"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hygiene maintain karna bahut zaroori hai, especially jab filters aur membrane change kar rahe hon, taaki purified paani mein koi bacterial contamination na ho."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Agar RO system ko lambe samay tak use na karna ho, toh kya karna chahiye?",
+      "options": {
+        "A": "System ko on chhod dena chahiye",
+        "B": "Water supply band karke tank ko drain karna chahiye",
+        "C": "Filters ko nikal dena chahiye",
+        "D": "UV lamp ko continuously on rakhna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar RO system ko lambe samay tak use na karna ho, toh water supply band karke storage tank ko drain kar dena chahiye taaki paani stale na ho aur bacterial growth na ho."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Tools ko properly organize aur maintain karna kyu important hai?",
+      "options": {
+        "A": "Taki kaam jaldi ho",
+        "B": "Taki safety bani rahe aur tools ki life badhe",
+        "C": "Taki customer ko lage ki aap professional ho",
+        "D": "Ye sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Proper tool organization aur maintenance se safety badhti hai (damaged tools risky hote hain), kaam efficiency se hota hai, tools ki life badhti hai, aur professional image bhi banti hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "RO system install karte samay kya environmental consideration rakhna chahiye?",
+      "options": {
+        "A": "Waste water ko minimize karna",
+        "B": "Energy efficient models recommend karna",
+        "C": "Proper waste disposal",
+        "D": "Ye sabhi"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Environmental considerations mein waste water ko minimize karna, energy efficient systems choose karna, aur proper waste disposal (filters, membranes) shamil hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar customer ke ghar mein wiring purani ho, toh RO installation se pehle kya advice denge?",
+      "options": {
+        "A": "Installation cancel kar denge",
+        "B": "Customer ko wiring check karwane aur upgrade karwane ki salah denge",
+        "C": "Apni taraf se wiring theek kar denge",
+        "D": "Low power RO system recommend karenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Purani ya faulty wiring electrical hazards create kar sakti hai. Technician ko customer ko wiring check karwane aur zaroorat padne par upgrade karwane ki salah deni chahiye."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Leakage hone par floors par paani na phailne ke liye kya precaution lena chahiye?",
+      "options": {
+        "A": "Badi bucket rakhna",
+        "B": "Towels ya absorbent pads use karna",
+        "C": "Customer ko bolna ki khud saaf kar len",
+        "D": "Paani ko rokne ki koshish na karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Installation ya maintenance ke dauraan paani ke spill ya leakage se bachne ke liye towels ya absorbent pads ka use karna chahiye taaki floor ganda na ho aur slip hazard na ho."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "RO technician ko personal protective equipment (PPE) ka use kab karna chahiye?",
+      "options": {
+        "A": "Sirf jab customer kahe",
+        "B": "Har electrical aur chemical related task mein",
+        "C": "Sirf jab heavy lifting ho",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PPE jaise gloves aur safety glasses ka use har electrical aur chemical related task mein karna chahiye taaki technician apni safety ensure kar sake."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "RO system ke components ko disinfect karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Strong acids",
+        "B": "Chlorine-based sanitizers (diluted)",
+        "C": "Petrol",
+        "D": "Sandpaper"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RO system ke components ko disinfect karne ke liye food-grade, diluted chlorine-based sanitizers ka use kiya jata hai, jisse bacterial growth ko roka ja sake."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Working area ko clean aur organized rakhna kyu zaroori hai?",
+      "options": {
+        "A": "Accidents se bachne ke liye",
+        "B": "Tools ko aasani se dhundhne ke liye",
+        "C": "Professional image banane ke liye",
+        "D": "Ye sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Clean aur organized working area accidents ko rokta hai, tools ko dhundhne mein aasani hoti hai, aur customer par ek professional impression bhi chhodta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar RO system mein koi major electrical fault ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Khud theek karne ki koshish karna chahiye, even if unsafe",
+        "B": "Qualified electrician ko consult karna chahiye",
+        "C": "Customer ko naya system kharidne ki salah deni chahiye",
+        "D": "System ko ignore kar dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Major electrical faults ko qualified electrician hi handle kar sakta hai. Ek RO technician ko apni limit pata honi chahiye aur safety ke liye expert ko bulana chahiye."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "RO system ke parts ko tight karne ke liye over-tightening kyu nahi karni chahiye?",
+      "options": {
+        "A": "Taki parts dheele na paden",
+        "B": "Taki plastic fittings crack na hon ya threads damage na hon",
+        "C": "Taki leakage na ho",
+        "D": "Taki system jaldi open ho sake"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Over-tightening se plastic fittings crack ho sakte hain, threads damage ho sakte hain, jisse leakage ya future maintenance mein problems aa sakti hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "RO system ke waste water ko reuse karne ke kya tareeke ho sakte hain?",
+      "options": {
+        "A": "Plants ko paani dena",
+        "B": "Floor clean karna",
+        "C": "Gaadi dhona",
+        "D": "Ye sabhi"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "RO waste water mein high TDS hota hai lekin wo non-potable uses ke liye theek ho sakta hai, jaise ki plants ko paani dena, floor cleaning, gaadi dhona, ya toilet flush karna."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Customer se baat karte samay kis cheez ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Sirf technical terms use karna",
+        "B": "Polite, clear aur respectful communication rakhna",
+        "C": "Jaldi se kaam khatam karna",
+        "D": "Sirf problem sunna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Achhi customer service ke liye polite, clear aur respectful communication bahut zaroori hai, taaki customer ko sab samajh aaye aur wo satisfied ho."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Agar customer kisi problem ko explain kar raha hai, toh technician ko kya karna chahiye?",
+      "options": {
+        "A": "Usko beech mein rok dena",
+        "B": "Dhyan se sunna aur questions puchna",
+        "C": "Usko ignore karna",
+        "D": "Apni baat pehle batana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ki baat ko dhyan se sunna (active listening) aur relevant questions puchna problem ko sahi se samajhne aur solve karne ke liye zaroori hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Service visit ke baad customer ko kya provide karna chahiye?",
+      "options": {
+        "A": "Sirf verbal explanation",
+        "B": "Service report ya bill, jismein kiye gaye kaam aur replaced parts mention hon",
+        "C": "Sirf naye parts",
+        "D": "Koi documentation nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek detailed service report ya bill, jismein kiye gaye kaam, replaced parts, aur charges mention hon, customer trust build karta hai aur future reference ke liye useful hota hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Agar customer RO system ki warranty ke baare mein puchhe, toh kya karna chahiye?",
+      "options": {
+        "A": "Galat jaankari dena",
+        "B": "Sahi warranty terms aur conditions batana",
+        "C": "Usko ignore karna",
+        "D": "Bolna ki warranty nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ko product aur service ki sahi warranty terms aur conditions ke baare mein inform karna ek professional technician ki responsibility hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Customer feedback lena kyu important hai?",
+      "options": {
+        "A": "Sirf complain sunne ke liye",
+        "B": "Service quality improve karne aur customer satisfaction badhane ke liye",
+        "C": "Time pass karne ke liye",
+        "D": "Koi importance nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer feedback service quality ko samajhne, areas of improvement identify karne aur overall customer satisfaction ko badhane mein madad karta hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Agar customer service charges ko lekar dispute kare, toh kya karna chahiye?",
+      "options": {
+        "A": "Customer se argue karna",
+        "B": "Charges ko clearly explain karna aur company policy batana",
+        "C": "Charges kam kar dena",
+        "D": "Service provide karne se mana kar dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Charges ko clearly aur calmly explain karna, aur company ki pricing policy batana dispute ko resolve karne mein helpful hota hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Ek professional RO technician ke liye time management kyu zaroori hai?",
+      "options": {
+        "A": "Taki zyada breaks le sake",
+        "B": "Taki appointments time par complete hon aur zyada customers serve ho saken",
+        "C": "Taki jaldi ghar ja sake",
+        "D": "Koi zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Effective time management se technician appointments time par complete kar pata hai, jisse customer satisfaction badhti hai aur wo zyada jobs handle kar pata hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Inventory management ka kya matlab hai ek technician ke liye?",
+      "options": {
+        "A": "Sirf naye tools kharidna",
+        "B": "Required spare parts ko stock mein rakhna aur track karna",
+        "C": "Office ka record rakhna",
+        "D": "Customer ka data manage karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Inventory management ka matlab hai ki technician ke paas hamesha zaroori spare parts (filters, membranes, fittings) ka adequate stock ho aur unka record rakhe, taaki service calls par delay na ho."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Customer ke ghar mein kaam karte samay personal belongings ka dhyan rakhna kyu zaroori hai?",
+      "options": {
+        "A": "Taki koi chori na kar le",
+        "B": "Professionalism maintain karne aur customer trust build karne ke liye",
+        "C": "Taki customer ko lage ki aap gareeb ho",
+        "D": "Koi zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ke ghar mein kaam karte samay personal belongings ko dhyan se rakhna professionalism ko darshata hai aur customer ka trust banta hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar customer ko RO system ki maintenance ke baare mein samajh nahi aa raha, toh kya karna chahiye?",
+      "options": {
+        "A": "Usko ignore karna",
+        "B": "Simple bhasha mein dobara samjhana aur practical demo dena",
+        "C": "Usko Google karne ko bolna",
+        "D": "Customer ko bolna ki wo galat hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clear aur patient explanation, aur agar zaroori ho toh practical demonstration, customer ko maintenance procedures samajhne mein madad karega."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Ek RO technician ko apni skills ko update karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Naye products aur technologies ke baare mein seekhna",
+        "B": "Sirf purane methods follow karna",
+        "C": "Dusre technicians se competition karna",
+        "D": "Kabhi kuch naya na seekhna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Market mein naye RO products aur technologies aate rehte hain. Apni skills ko update rakhne ke liye naye developments ke baare mein seekhna zaroori hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Customer ko service ke baad thank you bolna kyu important hai?",
+      "options": {
+        "A": "Sirf formality ke liye",
+        "B": "Customer relations ko strong karne aur repeat business ke liye",
+        "C": "Apna kaam jaldi khatam karne ke liye",
+        "D": "Koi zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Thank you bolna ek simple gesture hai jo customer ko valued feel karata hai, jisse customer relations strong hote hain aur repeat business milne ki sambhavna badhti hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar customer ko emergency service chahiye, toh technician ka kya response hona chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Priority par respond karna aur possible solution provide karna",
+        "C": "Next week ka appointment dena",
+        "D": "Sirf normal working hours mein service dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Emergency situations mein quick response aur possible solutions provide karna customer trust aur loyalty build karta hai, even if immediate visit possible na ho."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Professional appearance maintain karna kyu zaroori hai?",
+      "options": {
+        "A": "Taki customer ko lage ki aap gareeb nahi ho",
+        "B": "Company ki image aur customer trust ko reflect karta hai",
+        "C": "Personal preference hai",
+        "D": "Koi zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clean uniform aur professional appearance company ki image ko reflect karta hai aur customer mein trust build karta hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Agar customer ek naye RO system ke liye recommendation mange, toh kya karna chahiye?",
+      "options": {
+        "A": "Sabse mehnga system recommend karna",
+        "B": "Customer ki zaroorat, budget aur water quality ke hisaab se best option recommend karna",
+        "C": "Koi bhi system recommend kar dena",
+        "D": "Bolna ki aapko nahi pata"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer ki zaroorat (family size, daily usage), budget aur feed water quality (TDS) ko samajhkar hi sahi RO system recommend karna chahiye."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Customer ki privacy ka dhyan rakhna kyu important hai?",
+      "options": {
+        "A": "Legal requirement hai",
+        "B": "Professional ethics aur trust ke liye zaroori hai",
+        "C": "Customer ke belongings ko protect karne ke liye",
+        "D": "Ye sabhi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ki privacy ka samman karna professional ethics ka hissa hai aur customer-technician relationship mein trust build karta hai."
+    }
+  ]
+}

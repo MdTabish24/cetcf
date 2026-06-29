@@ -1,0 +1,1443 @@
+{
+  "course_name": "Garment Construction & Stitching Techniques",
+  "sector": "Apparel Design, Pattern Making & Fashion Technology",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "परिचय और सिलाई के औजार (Introduction & Sewing Tools)",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "कपड़े का ज्ञान और तैयारी (Fabric Knowledge & Preparation)",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "हाथ की सिलाई और मू�� सीम्स (Hand Stitches & Basic Seams)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "मशीन सिलाई और सीम फिनिश (Machine Stitching & Seam Finishes)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "पैटर्न बनाना और गारमेंट असेंबली (Pattern Making & Garment Assembly)",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "फिनिशिंग, प्रेसिंग और गुणवत्ता नियंत्रण (Finishing, Pressing & Quality Control)",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "कपड़े को सीधा काटने के लिए कौन सा उपकरण सबसे अच्छा है?",
+      "options": {
+        "A": "Measuring Tape",
+        "B": "Dressmaking Shears",
+        "C": "Seam Ripper",
+        "D": "Thimble"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dressmaking Shears (यानी कैंची) कपड़े को सीधा और स���फ काटने के लिए डिज़ाइन की जाती हैं।"
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "सिलाई करते समय उंगलियों को सुई से बचाने के लिए क्या इस्तेमाल होता है?",
+      "options": {
+        "A": "Pin Cushion",
+        "B": "Needle Threader",
+        "C": "Thimble",
+        "D": "Bobbin"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Thimble (अंगुश्ताना) उंगली पर पहना जाता है ताकि सुई चुभने से बचा जा सके।"
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Garment की माप लेने के लिए आप किस उपकरण का उपयोग करेंगे?",
+      "options": {
+        "A": "Ruler",
+        "B": "Yardstick",
+        "C": "Measuring Tape",
+        "D": "Set Square"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Measuring Tape (मापने वाला फीता) flexible होता है और body measurements या garment measurements लेने के लिए सबसे उपयुक्त है।"
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "सिलाई के दौरान कपड़े को अस्थायी रूप से एक साथ पकड़ने के लिए क्या इस्तेमाल किया जाता है?",
+      "options": {
+        "A": "Chalk",
+        "B": "Pins",
+        "C": "Iron",
+        "D": "Awl"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pins (पिन) कपड़े के टुकड़ों को सिलाई से पहले अस्थायी रूप से पकड़ने में मदद करते हैं।"
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "एक Seam Ripper का मुख्य कार्य क्या है?",
+      "options": {
+        "A": "कपड़ा काटना",
+        "B": "सिलाई खोलना",
+        "C": "नाप लेना",
+        "D": "बटन लगाना"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Seam Ripper (सीम रीपर) का उपयोग गलती से की गई सिलाई या अनावश्यक सिलाई को आसानी से खोलने के लिए किया जाता है।"
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "कपड़े पर निशान लगाने के लिए किस उपकरण का उपयोग किया जाता है जो आसानी से मिट जाए?",
+      "options": {
+        "A": "Ballpoint Pen",
+        "B": "Permanent Marker",
+        "C": "Tailor's Chalk",
+        "D": "Pencil"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tailor's Chalk (टेलर चौक) कपड़े पर निशान लगाने के लिए उपयोग किया जाता है जो बाद में आसानी से मिटाया जा सके।"
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "सेफ्टी के लिए, सिलाई मशीन चलाते समय बालों को कैसे रखना चाहिए?",
+      "options": {
+        "A": "खुले छोड़ देना चाहिए",
+        "B": "पीछे बांध लेना चाहिए",
+        "C": "कंधों पर बिखेर देन�� चाहिए",
+        "D": "आगे की ओर रखना चाहिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "सिलाई मशीन चलाते समय बालों को पीछे बांध लेना चाहिए ताकि वे मशीन के moving parts में न फंसे।"
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "सिलाई करते समय सही posture क्यों ज़रूरी है?",
+      "options": {
+        "A": "ताकि काम तेज़ हो",
+        "B": "थकान और दर्द से बचने के लिए",
+        "C": "कपड़े को बेहतर देखने के लिए",
+        "D": "मशीन को बेहतर चलाने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "सही posture से लंबे समय तक सिलाई करने पर होने वाली थकान, पीठ दर्द और गर्दन के दर्द से बचा जा सकता है।"
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Dressmaking Shears और Paper Scissors में क्या अंतर है?",
+      "options": {
+        "A": "कोई अंतर नहीं है",
+        "B": "Dressmaking Shears केवल कपड़े के लिए होती हैं और उन्हें पेपर काटने के लिए इस्तेमाल नहीं करना चाहिए",
+        "C": "Paper Scissors बहुत तेज़ होती हैं",
+        "D": "Dressmaking Shears सस्ती होती हैं"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dressmaking Shears को केवल कपड़ा काटने के लिए इस्तेमाल करना चाहिए क्योंकि पेपर काटने से उनकी धार ख़राब हो जाती है।"
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "एक Pin Cushion का सबसे महत्वपूर्ण कार्य क्या है?",
+      "options": {
+        "A": "सिलाई मशीन को सजाना",
+        "B": "पिन को सुरक्षित और organised रखना",
+        "C": "कपड़े को पकड़ने में मदद करना",
+        "D": "सुई को तेज़ करना"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pin Cushion (पिन कुशन) पिन को सुरक्षित रूप से एक जगह पर रखने और उन्हें आसानी से सुलभ बनाने में मदद करता है।"
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "सिलाई मशीन की सुई को कब बदलना चाहिए?",
+      "options": {
+        "A": "हर बार जब आप सिलाई करते हैं",
+        "B": "जब वह मुड़ जाए, टूट जाए या blunt हो जाए",
+        "C": "हर महीने",
+        "D": "जब धागा टूट जाए"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "सुई को तब बदलना चाहिए जब वह मुड़ जाए, टूट जाए या blunt हो जाए, क्योंकि इससे stitching quality ख़राब हो सकती है या fabric damage हो सकता है।"
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "सिलाई म���ीन के लिए कौन सा तेल इस्तेमाल करना चाहिए?",
+      "options": {
+        "A": "Cooking oil",
+        "B": "Motor oil",
+        "C": "Specialised sewing machine oil",
+        "D": "Any household oil"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "सिलाई मशीन के लिए specialised sewing machine oil (सिलाई मशीन का तेल) का ही उपयोग करना चाहिए क्योंकि यह मशीन के delicate parts को नुकसान नहीं पहुँचाता।"
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "सिलाई मशीन को साफ करने के लिए किस उपकरण का उपयोग किया जाता है?",
+      "options": {
+        "A": "Wet cloth",
+        "B": "Vacuum cleaner",
+        "C": "Small brush and lint remover",
+        "D": "Soap and water"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "मशीन को साफ करने के लिए एक छोटे ब्रश और lint remover का उपयोग करना चाहिए ताकि धूल और धागे के छोटे टुकड़े हटाए जा सकें।"
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "एक अच्छी सिलाई वर्कशॉप में lighting कैसी होनी चाहिए?",
+      "options": {
+        "A": "बहुत डिम",
+        "B": "केवल एक स्पॉटलाइट",
+        "C": "पर्याप्त और समान रूप से वितरित",
+        "D": "सिर्फ प्राकृतिक प्रकाश"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "पर्याप्त और समान रूप से वितरित lighting आंखों पर जोर कम करती है और महीन काम को आसान बनाती है।"
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "फैब्रिक के edges को trimmings के लिए कौन सा उपकरण उपयोग किया जाता है?",
+      "options": {
+        "A": "Pinking Shears",
+        "B": "Regular Scissors",
+        "C": "Rotary Cutter",
+        "D": "Craft Knife"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Pinking Shears (पिंकिंग कैंची) fabric edges को zigzag pattern में काटती हैं, जो fraying (धागे निकलने) को कम करने में मदद करता है।"
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "सिलाई शुरू करने से पहले मशीन की जांच क्यों करनी चाहिए?",
+      "options": {
+        "A": "समय बर्बाद करने के लिए",
+        "B": "यह सुनिश्चित करने के लिए कि वह ठीक से काम कर रही है और कोई समस्या नहीं है",
+        "C": "मशीन को गर्म करने के लिए",
+        "D": "केवल नई मशीनों के लिए"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "सिलाई शुरू करने से पहले मशीन की जांच करना ज़रूरी है ताकि यह सुनिश्चित हो सके कि वह ठीक से काम कर रही है और कोई संभावित समस्या नहीं है।"
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "कपड़े में छोटे छेद या marks बनाने के लिए किस उपकरण का उपयोग किया जाता है, जैसे eyelets के लिए?",
+      "options": {
+        "A": "Stiletto",
+        "B": "Awl",
+        "C": "Tweezers",
+        "D": "Loop Turner"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "एक Awl (आउल) का उपयोग कपड़े में छोटे, साफ छेद बनाने के लिए किया जाता है, खासकर eyelets या बटन लगाने से पहले।"
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "कपड़े की 'grainline' क्या दर्शाती है?",
+      "options": {
+        "A": "कपड़े का रंग",
+        "B": "कपड़े की बुनाई की दिशा",
+        "C": "कपड़े की चौड़ाई",
+        "D": "कपड़े की मोटाई"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grainline (ग्रेनलाइन) कपड़े की बुनाई की दिशा को दर्शाती है और garment fit और drape के लिए महत्वपूर्ण है।"
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "किस प्रकार के कपड़े को सिलाई से पहले shrinkage से बचने के लिए धोना चाहिए?",
+      "options": {
+        "A": "Polyester",
+        "B": "Nylon",
+        "C": "Cotton",
+        "D": "Acrylic"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cotton (कॉटन) जैसे प्राकृतिक फाइबर में shrinkage की संभावना होती है, इसलिए उन्हें सिलाई से पहले धोना (pre-wash) चाहिए।"
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "'Selvage' क्या है?",
+      "options": {
+        "A": "कपड़े के बीच का हिस्सा",
+        "B": "कपड़े के कटे हुए किनारे",
+        "C": "कपड़े का बुना हुआ किनारा जो fray नहीं होता",
+        "D": "कपड़े ���ा पैटर्न"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Selvage (सेल्वेज) कपड़े का बुना हुआ किनारा होता है जो fraying (धागे निकलने) से बचाता है।"
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "कपड़े को 'on-grain' काटने का क्या महत्व है?",
+      "options": {
+        "A": "इससे कपड़ा अधिक महंगा हो जाता है",
+        "B": "इससे garment का drape और fit सही रहता है",
+        "C": "इससे सिलाई आसान हो जाती है",
+        "D": "इससे कपड़ा कम shrink होता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "कपड़े को on-grain काटने से garment का drape (लटकना) और fit (फिटिंग) सही रहता है, और कपड़ा टेढ़ा नहीं होता।"
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Warp और Weft threads में क्या अंतर है?",
+      "options": {
+        "A": "Warp लंबाई के धागे हैं और Weft चौड़ाई के धागे हैं",
+        "B": "Warp चौड़ाई के धागे हैं और Weft लंबाई के धागे हैं",
+        "C": "दोनों एक ही हैं",
+        "D": "Warp रंगीन होते हैं, Weft सादे"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Warp threads (ताना) कपड़े की लंबाई में चलते हैं, जबकि Weft threads (बाना) चौड़ाई में बुने जाते हैं।"
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "कपड़े को cutting table पर बिछाते समय किन बातों का ध्यान रखना चाहिए?",
+      "options": {
+        "A": "कपड़ा मुड़ा हुआ हो",
+        "B": "कपड़ा पूरी तरह से समतल और wrinkle-free हो",
+        "C": "कपड़े का pattern उल्टा हो",
+        "D": "कपड़े का selvage कटा हुआ हो"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "कपड़े को cutting table पर बिछाते समय यह सुनिश्चित करना चाहिए कि वह पूरी तरह से समतल (flat) और wrinkle-free (सिलवटों के बिना) हो, ताकि सटीक कटिंग हो सके।"
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "किस प्रकार के कपड़े को 'Knitted Fabric' कहा जाता है?",
+      "options": {
+        "A": "जो धागों को बुनकर बनाया जाता है",
+        "B": "जो धागों को एक साथ लूप करके बनाया जाता है",
+        "C": "जो गैर-बुना होता है",
+        "D": "जो बहुत भारी होता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Knitted Fabric (बुना हुआ कपड़ा) धागों को एक साथ लूप (looping) करके बनाया जाता है, जिससे यह stretchy होता है।"
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Woven fabric की तुलना में Knitted fabric का मुख्य फाय��ा क्या है?",
+      "options": {
+        "A": "यह कम महंगा होता है",
+        "B": "यह अधिक durable होता है",
+        "C": "यह अधिक stretchy और comfortable होता है",
+        "D": "यह shrink नहीं होता"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Knitted fabric अपनी लूपिंग संरचना के कारण Woven fabric की तुलना में अधिक stretchy और comfortable होता है।"
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "कपड़े को 'pre-shrinking' करने का क्या उद्देश्य है?",
+      "options": {
+        "A": "कपड़े को नरम बनाना",
+        "B": "गारमेंट बनने के बाद होने वाले shrinkage को रोकना",
+        "C": "कपड़े को मजबूत बनाना",
+        "D": "कपड़े को रंगीन बनाना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pre-shrinking (प्री-श्रिंकिंग) का उद्देश्य garment बन��े के बाद होने वाले shrinkage को रोकना है, ताकि garment का आकार न बदले।"
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Fraying (धागे निकलने) को कम करने के लिए कपड़े के कटे हुए किनारों पर क्या किया जा सकता है?",
+      "options": {
+        "A": "उन्हें खुला छोड़ दें",
+        "B": "उन्हें गोंद से चिपका दें",
+        "C": "Zigzag stitch या Overlock stitch करें",
+        "D": "उन्हें जला दें"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Fraying को कम करने के लिए कपड़े के कटे हुए किनारों पर zigzag stitch या Overlock stitch (ओवरलॉक सिलाई) की जाती है।"
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "सही pattern layout सुनिश्चित करने के लिए, fabric को cutting surface पर कैसे रखना चाहिए?",
+      "options": {
+        "A": "किसी भी तरह से",
+        "B": "Selvage edges को align करके और fabric को smooth out करके",
+        "C": "Fabric को crumple करके",
+        "D": "Fabric को टेढ़ा करके"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "सही pattern layout के लिए, fabric को cutting surface पर selvage edges को align करके और सभी wrinkles को smooth out करके रखना चाहिए।"
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "एक 'bias cut' क्या होता है और इसका उपयोग क्यों किया जाता है?",
+      "options": {
+        "A": "यह fabric को grainline के साथ काटता है, जिससे स्थिरता मिलती है",
+        "B": "यह fabric को 45-degree angle पर काटता है, जिससे drape और stretch बढ़ता है",
+        "C": "यह fabric को cross-grain पर काटता है, जिससे मजबूती मिलती है",
+        "D": "यह fabric को बिना किसी विशेष दिशा के काटता है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bias cut (बायस कट) fabric को 45-degree angle पर काटता है, जिससे fabric में अधिक drape, stretch और softness आती है, खासकर collars या skirts के लिए।"
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Synthetic fabrics (जैसे polyester) का प्राकृतिक fabrics (जैसे cotton) पर क्या लाभ होता है?",
+      "options": {
+        "A": "वे अधिक breathable होते हैं",
+        "B": "वे अधिक shrinkage करते हैं",
+        "C": "वे wrinkle-resistant होते हैं और कम रखरखाव की आवश्यकता होती है",
+        "D": "वे रंग जल्दी छोड़ देते हैं"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Synthetic fabrics आमतौर पर wrinkle-resistant होते हैं, जल्दी सूखते हैं और प्राकृतिक fabrics की तुलना में कम रखरखाव की आवश्यकता होती है।"
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "अगर fabric का pattern एक 'one-way design' है, तो cutting करते समय क्या ध्यान रखना चाहिए?",
+      "options": {
+        "A": "सभी pattern pieces को एक ही दिशा में रखें",
+        "B": "pattern pieces को किसी भी दिशा में रखें",
+        "C": "pattern pieces को आधे में फोल्ड करें",
+        "D": "pattern pieces को तिरछा काटें"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "One-way design वाले fabric में, सभी pattern pieces को एक ही दिशा में रखना महत्वपूर्ण है ताकि garment में pattern सही दिखे।"
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Fabric को 'laying out' करते समय, pattern pieces को Pins से क्यों secure किया जाता है?",
+      "options": {
+        "A": "पैटर्न को सुंदर दिखाने के लिए",
+        "B": "पैटर्न को काटने से पहले हिलने से रोकने क�� लिए",
+        "C": "पैटर्न को छोटा करने के लिए",
+        "D": "पैटर्न को बड़ा करने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pattern pieces को Pins से secure किया जाता है ताकि cutting के दौरान वे fabric पर स्थिर रहें और सटीक कटिंग हो सके।"
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Fabric के 'wrong side' और 'right side' को कैसे पहचानते हैं?",
+      "options": {
+        "A": "Wrong side हमेशा चमकदार होता है",
+        "B": "Right side आमतौर पर अधिक finished और vibrant होता है",
+        "C": "Wrong side हमेशा गहरा रंग का होता है",
+        "D": "कोई अंतर नहीं होता"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Right side (सही तरफ) garment का वह हिस्सा होता है जो बाहर की ओर दिखता है, और यह आमतौर पर अधिक finished, vibrant और आकर्षक होता है।"
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "कपड़े के धागे (threads) कैसे पहचानें कि वे warp हैं या weft?",
+      "options": {
+        "A": "Warp threads आमतौर पर Selvage के समानांतर होते हैं और कम stretch करते हैं",
+        "B": "Weft threads हमेशा Selvage के समानांतर होते हैं",
+        "C": "दोनों तरफ से समान stretch होता है",
+        "D": "Warp threads हमेशा अधिक stretch करते हैं"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Warp threads (ताना) आमतौर पर Selvage (किनारे) के समानांतर चलते हैं और fabric की लंबाई में कम stretch करते हैं, जबकि Weft threads (बाना) चौड़ाई में होते हैं और थोड़ा अधिक stretch करते हैं।"
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "कपड़े के दो टुकड़ों को अस्थायी रूप से एक साथ पकड़ने के लिए कौन सी हाथ की सिलाई इस्तेमाल की जाती है?",
+      "options": {
+        "A": "Backstitch",
+        "B": "Running Stitch",
+        "C": "Basting Stitch",
+        "D": "Slip Stitch"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Basting Stitch (कच्ची सिलाई) कपड़े के टुकड़ों को अस्थायी रूप से एक साथ पकड़ने के लिए इस्तेमाल की जाती है और बाद में हटा दी जाती है।"
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "सबसे मज़बूत हाथ की सिलाई कौन सी है जो मशीन सिलाई के समान दिखती है?",
+      "options": {
+        "A": "Running Stitch",
+        "B": "Whipstitch",
+        "C": "Backstitch",
+        "D": "Hemming Stitch"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Backstitch (बैकस���टिच) एक मज़बूत हाथ की सिलाई है जो मशीन सिलाई जैसी दिखती है और इसका उपयोग स्थायी सिलाई के लिए किया जाता है।"
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Hemming के लिए कौन सी हाथ की सिलाई अदृश्य (invisible) होती है?",
+      "options": {
+        "A": "Running Stitch",
+        "B": "Whipstitch",
+        "C": "Slip Stitch",
+        "D": "Basting Stitch"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Slip Stitch (स्लिप स्टिच) एक अदृश्य सिलाई है जिसका उपयोग hems (घेरों) को सुरक्षित करने के लिए किया जाता है ताकि सिलाई बाहर से दिखाई न दे।"
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "एक Plain Seam क्या है?",
+      "options": {
+        "A": "एक seam जिसमें fabric edges को अंदर की ओर मोड़ा जाता है",
+        "B": "दो fabric pieces को right sides एक साथ रखकर सिलाई करना",
+        "C": "एक seam जिसमें fabric edges को zigzag किया जाता है",
+        "D": "एक seam जिसमें कोई सिलाई नहीं होती"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plain Seam (प्लेन सीम) सबसे बुनियादी seam है, जिसमें दो fabric pieces को right sides एक साथ रखकर सिलाई की जाती है।"
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Running Stitch का उपयोग आमतौर पर किस लिए किया जाता है?",
+      "options": {
+        "A": "मज़बूत स्थायी सिलाई के लिए",
+        "B": "अस्थायी सिलाई या gathers बनाने के लिए",
+        "C": "बटन लगाने के लिए",
+        "D": "Hemming के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Running Stitch (रनिंग स्टिच) का उपयोग अस्थायी सिलाई, gathers (सिकुड़न) बनान��� या हल्की सिलाई के लिए किया जाता है।"
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "French Seam का मुख्य उद्देश्य क्या है?",
+      "options": {
+        "A": "Seam को मोटा बनाना",
+        "B": "Raw edges को enclose करना ताकि वे fray न करें और एक साफ फिनिश मिले",
+        "C": "Seam को कमज़ोर बनाना",
+        "D": "Seam को अदृश्य बनाना"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "French Seam (फ्रेंच सीम) raw edges (कच्चे किनारों) को enclose (बंद) करने के लिए इस्तेमाल की जाती है, जिससे वे fray न करें और garment के अंदर एक साफ और टिकाऊ फिनिश मिले, खासकर शीयर fabrics के लिए।"
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Hemming Stitch किस प्रकार की सिलाई है?",
+      "options": {
+        "A": "एक सिलाई जो fabric के दो ��ुकड़ों को जोड़ती है",
+        "B": "एक सिलाई जो fabric के किनारे को सुरक्षित करती है",
+        "C": "एक सजावटी सिलाई",
+        "D": "एक सिलाई जो gathers बनाती है"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hemming Stitch (हेमिंग स्टिच) fabric के किनारे को मोड़कर सुरक्षित करने के लिए इस्तेमाल की जाती है, जिससे garment का निचला किनारा साफ और finished दिखे।"
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "यदि आप एक बटन को हाथ से सिल रहे हैं, तो कौन सी सिलाई सबसे उपयुक्त होगी?",
+      "options": {
+        "A": "Running Stitch",
+        "B": "Whipstitch",
+        "C": "Backstitch",
+        "D": "Buttonhole Stitch"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Buttonhole Stitch (बटनहोल स्टिच) बटनहोल को मजबूत और टिकाऊ बनाने के लिए इस्तेमाल की जाती है, लेकिन बटन लगाने के लिए आमतौर पर कई बार Running Stitch या Backstitch का उपयोग किया जाता है और फिर धागे को लपेट कर shank बनाया जाता है। दिए गए विकल्पों में, सीधे बटन लगाने के लिए कोई विशिष्ट stitch नहीं है, लेकिन अगर बटनहोल को मजबूत करना है तो Buttonhole Stitch।"
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Overcast Stitch का मुख्य कार्य क्या है?",
+      "options": {
+        "A": "दो fabric pieces को जोड़ना",
+        "B": "Raw edges को fraying से बचाना",
+        "C": "Gathers बनाना",
+        "D": "कपड़े पर सजावट करना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Overcast Stitch (ओवरकास्ट स्टिच) का उपयोग fabric के raw edges को fraying (धागे निकलने) से बचाने के लिए क���या जाता है।"
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "एक 'Closed Seam' क्या है?",
+      "options": {
+        "A": "एक seam जिसमें seam allowances को एक साथ press किया जाता है",
+        "B": "एक seam जिसमें seam allowances को अलग-अलग press किया जाता है",
+        "C": "एक seam जिसमें raw edges को काट दिया जाता है",
+        "D": "एक seam जिसमें seam allowances को trim नहीं किया जाता"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Closed Seam (क्लोज्ड सीम) में seam allowances को एक साथ press करके एक तरफ मोड़ दिया जाता है, जिससे यह एक साफ फिनिश देती है।"
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Seam allowances को 'trim' करने का क्या उद्देश्य है?",
+      "options": {
+        "A": "Seam को मोटा बनाना",
+        "B": "Seam को कम bulky बनाना और drape को बेहतर ���नाना",
+        "C": "Seam को अदृश्य बनाना",
+        "D": "Seam को कमज़ोर बनाना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Seam allowances को trim (छोटा) करने से seam कम bulky लगती है और garment का drape (लटकना) बेहतर होता है।"
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "यदि आपको एक curved seam को flat बिछाना है, तो आपको seam allowance पर क्या करना चाहिए?",
+      "options": {
+        "A": "उसे वैसे ही छोड़ दें",
+        "B": "उसे trim कर दें",
+        "C": "उसे notch या clip करें",
+        "D": "उसे fold कर दें"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Curved seam (घुमावदार सीम) को flat बिछाने के लिए, seam allowance को notch (बाहर की ओर घुमाव के लिए) या clip (अंदर की ओर घुमाव के लिए) करना चाहिए ताकि fabric फैल सके या सिक��ड़ सके।"
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "एक 'Open Seam' क्या है?",
+      "options": {
+        "A": "एक seam जिसमें seam allowances को एक साथ press किया जाता है",
+        "B": "एक seam जिसमें seam allowances को अलग-अलग press किया जाता है",
+        "C": "एक seam जिसमें raw edges को खुला छोड़ दिया जाता है",
+        "D": "एक seam जिसमें कोई सिलाई नहीं होती"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Open Seam (ओपन सीम) में seam allowances को अलग-अलग press करके दोनों तरफ फैला दिया जाता है, जिससे seam flat और कम bulky लगती है।"
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "कौन सी हाथ की सिलाई एक Hem को सुरक्षित करने के लिए सबसे कम visible होती है, खासकर lightweight fabrics पर?",
+      "options": {
+        "A": "Whipstitch",
+        "B": "Catch Stitch",
+        "C": "Fell Stitch",
+        "D": "Blind Hem Stitch"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Blind Hem Stitch (ब्लाइंड हेम स्टिच) एक प्रकार की Hemming Stitch है जो लगभग अदृश्य होती है, खासकर lightweight fabrics पर, क्योंकि यह fabric के कुछ धागों को ही पकड़ती है।"
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Seam allowance क्या होता है?",
+      "options": {
+        "A": "Garment की लंबाई",
+        "B": "Pattern edge और stitching line के बीच की दूरी",
+        "C": "Fabric का प्रकार",
+        "D": "सिलाई की चौड़ाई"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Seam allowance (सीम अलाउंस) pattern edge और stitching line के बीच की दूरी होती है, जो garment के fit और finish के लिए महत्वपूर्ण है।"
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "सिलाई शुरू करने से पह���े fabric pieces को हाथ से Basting क्यों किया जाता है?",
+      "options": {
+        "A": "यह समय बचाता है",
+        "B": "यह सुनिश्चित करता है कि सिलाई मशीन पर fabric हिले नहीं और सही ढंग से align रहे",
+        "C": "यह fabric को मजबूत बनाता है",
+        "D": "यह सिलाई को अदृश्य बनाता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Basting (कच्ची सिलाई) सिलाई मशीन पर fabric pieces को हिलने से रोकती है और उन्हें सही ढंग से align रखने में मदद करती है, जिससे सटीक सिलाई होती है।"
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "यदि एक seam allowance को 'graded' किया जाता है, तो इसका क्या मतलब है?",
+      "options": {
+        "A": "Seam allowance को एक ही चौड़ाई पर trim किया जाता है",
+        "B": "Seam allowance को अलग-अलग चौड़ाई पर trim किया जाता है ताकि bulk कम हो",
+        "C": "Seam allowance को iron किया जाता है",
+        "D": "Seam allowance को decorative stitch से फिनिश किया जाता है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Seam allowance को 'graded' करना मतलब उसे अलग-अलग चौड़ाई पर trim करना है (जैसे एक layer को दूसरे से छोटा करना) ताकि seam में bulk (मोटाई) कम हो और वह flat बिछे।"
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "सिलाई मशीन में धागे की tightness को कौन सा हिस्सा नियंत्रित करता है?",
+      "options": {
+        "A": "Foot Pedal",
+        "B": "Handwheel",
+        "C": "Tension Dial",
+        "D": "Bobbin Winder"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tension Dial (टेंशन डायल) सिलाई मशीन में धागे की tightness (तनाव) को नियंत्रि��� करता है, जिससे stitch quality प्रभावित होती है।"
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "सिलाई मशीन में निचले धागे को कौन सा हिस्सा रखता है?",
+      "options": {
+        "A": "Spool Pin",
+        "B": "Needle",
+        "C": "Bobbin",
+        "D": "Presser Foot"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bobbin (बॉबिन) सिलाई मशीन में निचले धागे को रखता है, जो ऊपर के धागे के साथ मिलकर सिलाई बनाता है।"
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "सिलाई शुरू करने से पहले Presser Foot को नीचे करना क्यों ज़रूरी है?",
+      "options": {
+        "A": "यह एक नियम है",
+        "B": "धागे को सही tension देने और fabric को फीड करने के लिए",
+        "C": "इससे सिलाई तेज़ होती है",
+        "D": "यह मशीन को ठंडा रखता ह��"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Presser Foot (प्रेस्सर फुट) को नीचे करने से धागे को सही tension मिलती है और fabric को feed dogs द्वारा सही ढंग से मशीन के नीचे से आगे बढ़ाया जाता है।"
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "एक सीधी सिलाई के लिए सबसे आम stitch length क्या है?",
+      "options": {
+        "A": "बहुत छोटी (1mm)",
+        "B": "मध्यम (2.5-3mm)",
+        "C": "बहुत बड़ी (5mm)",
+        "D": "कोई भी लंबाई"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "एक सीधी सिलाई के लिए मध्यम stitch length (2.5-3mm) सबसे आम और उपयुक्त होती है, जो मज़बूत और साफ सिलाई देती है।"
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "यदि सिलाई मशीन पर धागा बार-बार टूट रहा है, तो इसका क्या कारण हो सकता है?",
+      "options": {
+        "A": "धागा बहुत पतला है",
+        "B": "सुई blunt या गलत लगी है, या tension बहुत ज़्यादा है",
+        "C": "धागा बहुत मोटा है",
+        "D": "मशीन बहुत पुरानी है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "धागा टूटने के कई कारण हो सकते हैं, जिनमें blunt या गलत लगी सुई, बहुत ज़्यादा धागा tension, या खराब quality का धागा शामिल है।"
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Seam allowances को fraying से बचाने के लिए सबसे आम मशीन फिनिश क्या है?",
+      "options": {
+        "A": "Straight Stitch",
+        "B": "Zigzag Stitch",
+        "C": "Basting Stitch",
+        "D": "Topstitch"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Zigzag Stitch (ज़िगज़ैग स्टिच) Seam allowances के किनारों पर की जाती ह��� ताकि वे fray (धागे न निकलें) न करें।"
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Overlock machine (Serger) का मुख्य लाभ क्या है?",
+      "options": {
+        "A": "यह केवल सीधी सिलाई करती है",
+        "B": "यह एक साथ seam सिलती है, trim करती है और finish करती है, जिससे साफ और durable edge मिलती है",
+        "C": "यह केवल बटन लगाती है",
+        "D": "यह बहुत धीमी चलती है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Overlock machine (या Serger) का मुख्य लाभ यह है कि यह एक साथ seam सिलती है, extra fabric को trim करती है और edge को finish करती है, जिससे बहुत साफ और durable seam मिलती है।"
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "यदि सिलाई मशीन fabric को आगे नहीं बढ़ा रही है, तो क्या समस्या हो सकती है?",
+      "options": {
+        "A": "सुई blunt है",
+        "B": "Presser Foot ऊपर है या Feed Dogs नीचे हैं",
+        "C": "धागा खत्म हो गया है",
+        "D": "Bobbin गलत लगा है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "यदि Presser Foot ऊपर है या Feed Dogs (जो fabric को आगे बढ़ाते हैं) नीचे हैं, तो मशीन fabric को आगे नहीं बढ़ाएगी।"
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "एक 'Topstitch' क्या है और इसका उपयोग क्यों किया जाता है?",
+      "options": {
+        "A": "एक सिलाई जो garment के अंदर होती है",
+        "B": "एक सजावटी सिलाई जो garment के right side पर दिखाई देती है, seam को flat रखने और सजावट के लिए",
+        "C": "एक अस्थायी सिलाई",
+        "D": "एक सिलाई जो fraying को रोकती है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Topstitch (टॉपस्टिच) एक सजावटी और कार्यात्मक सिलाई है जो garment के right side पर की जाती है ताकि seam को flat रखा जा सके और एक finished look दिया जा सके।"
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "सिलाई मशीन में needle के प्रकार का चुनाव किस पर निर्भर करता है?",
+      "options": {
+        "A": "सिलाई की गति पर",
+        "B": "इस्तेमाल किए जा रहे fabric के प्रकार पर",
+        "C": "धागे के रंग पर",
+        "D": "मशीन के मॉडल पर"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Needle के प्रकार का चुनाव fabric के प्रकार पर निर्भर करता है; जैसे denim के लिए denim needle, stretch fabrics के लिए ballpoint needle।"
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Backstitching (या backtack) का उपयोग सिलाई की शुरुआत और अंत में क्यों किया जाता है?",
+      "options": {
+        "A": "यह सिलाई को अदृश्य बनाता है",
+        "B": "यह सिलाई को मजबूत करता है और उसे खुलने से रोकता है",
+        "C": "यह धागे को बचाता है",
+        "D": "यह केवल सजावट के लिए है"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Backstitching (या बैकटैक) सिलाई की शुरुआत और अंत में की जाती है ताकि सिलाई मजबूत हो और खुले नहीं।"
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "यदि सिलाई मशीन skipped stitches (छूटी हुई सिलाई) बना रही है, तो संभावित कारण क्या हो सकता है?",
+      "options": {
+        "A": "बहुत तेज़ सिलाई",
+        "B": "गलत सुई का प्रकार या bent needle",
+        "C": "धागा बहुत ढीला है",
+        "D": "मशीन को साफ करने की ज़रूरत है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Skipped stitches आमतौर पर गलत सुई के प्रकार (जैसे knits पर woven needle का उपयोग), bent needle, या गलत सुई insertion के कारण होते हैं।"
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Bound Seam Finish का उपयोग कब किया जाता है?",
+      "options": {
+        "A": "जब seam allowances को trim करना हो",
+        "B": "जब seam allowances को एक साथ press करना हो",
+        "C": "जब seam allowances को fabric strip से enclose करना हो, खासकर unlined garments के लिए",
+        "D": "जब seam allowances को खुला छोड़ना हो"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Bound Seam Finish (बाउंड सीम फिनिश) का उपयोग तब किया जाता है जब seam allowances को एक fabric strip (जैसे bias tape) से enclose किया जाता है, जिससे एक बहुत साफ और finished look मिल��ा है, खासकर unlined garments या jackets में।"
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "सिलाई मशीन पर धागा डालते समय, 'take-up lever' का क्या कार्य है?",
+      "options": {
+        "A": "यह bobbin को घुमाता है",
+        "B": "यह धागे को ऊपर से नीचे ले जाता है और tension को नियंत्रित करता है",
+        "C": "यह सुई को पकड़ता है",
+        "D": "यह fabric को आगे बढ़ाता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Take-up lever (टेक-अप लीवर) धागे को ऊपर से नीचे ले जाने और सिलाई प्रक्रिया के दौरान धागे के tension को नियंत्रित करने में महत्वपूर्ण भूमिका निभाता है।"
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "यदि सिलाई मशीन पर stitch puckering (सिलाई में सिकुड़न) हो रही है, तो इसक�� क्या कारण हो सकता है?",
+      "options": {
+        "A": "धागा बहुत ढीला है",
+        "B": "Stitch length बहुत बड़ी है",
+        "C": "Tension बहुत ज़्यादा है या गलत सुई/धागे का Combination है",
+        "D": "Fabric बहुत मोटा है"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Stitch puckering आमतौर पर बहुत ज़्यादा tension, गलत सुई या धागे के combination, या fabric के लिए अनुपयुक्त stitch length के कारण होता है।"
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "सिलाई मशीन पर 'reverse stitch' बटन का क्या उपयोग है?",
+      "options": {
+        "A": "सिलाई को तेज़ करने के लिए",
+        "B": "सिलाई को पीछे की ओर सिलने के लिए, सिलाई को सुरक्षित करने के लिए",
+        "C": "सिलाई को खोलने के लिए",
+        "D": "सजावटी सिलाई बनाने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Reverse stitch (रिवर्स स्टिच) बटन का उपयोग सिलाई को पीछे की ओर सिलने के लिए किया जाता है, जिससे सिलाई की शुरुआत और अंत में उसे सुरक्षित किया जा सके।"
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "एक 'Clean Finish' Seam क्या होती है?",
+      "options": {
+        "A": "एक seam जिसमें raw edges को खुला छोड़ दिया जाता है",
+        "B": "एक seam जिसमें raw edges को double-fold करके सिला जाता है",
+        "C": "एक seam जिसमें raw edges को zigzag किया जाता है",
+        "D": "एक seam जिसमें raw edges को trim किया जाता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clean Finish Seam (क्लीन फिनिश सीम) में raw edges को double-fold करके सिला जाता है, जिससे एक बहुत साफ और finished edge मिलती है, खासकर unlined garments में।"
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "गारमेंट बनाने के लिए शरीर की माप लेने का पहला कदम क्या है?",
+      "options": {
+        "A": "कपड़े का चुनाव",
+        "B": "सही उपकरणों का चुनाव",
+        "C": "सही माप उपकरण का उपयोग करके सटीक माप लेना",
+        "D": "पैटर्न बनाना"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "गारमेंट बनाने के लिए पहला कदम सही माप उपकरण (जैसे measuring tape) का उपयोग करके सटीक body measurements लेना है।"
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "एक 'pattern piece' पर 'grainline arrow' क्या दर्शाता है?",
+      "options": {
+        "A": "यह pattern piece को fabric पर कैसे रखा जाना चाहिए, fabric की grainline के समानांतर",
+        "B": "स���लाई की दिशा",
+        "C": "कपड़े का रंग",
+        "D": "पैटर्न का आकार"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Grainline arrow (ग्रेनलाइन तीर) दर्शाता है कि pattern piece को fabric पर grainline के समानांतर कैसे रखा जाना चाहिए, ताकि garment का drape सही रहे।"
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Garment assembly में 'staystitching' का क्या उद्देश्य है?",
+      "options": {
+        "A": "यह एक सजावटी सिलाई है",
+        "B": "यह curved या bias edges को stretch होने से रोकता है",
+        "C": "यह seam को मजबूत करता है",
+        "D": "यह अस्थायी सिलाई है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Staystitching (स्टेस्टिचिंग) एक सीधी सिलाई होती है जो curved या bias edges पर की जाती है ताकि fabric को stretch होने से रोका जा सके और garment के आकार को बनाए रखा जा सके।"
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "'Notches' pattern pieces पर क्यों होते हैं?",
+      "options": {
+        "A": "कपड़े को सजाने के लिए",
+        "B": "यह इंगित करने के लिए कि fabric pieces को कैसे align और join करना है",
+        "C": "कपड़े को काटने के लिए",
+        "D": "सिलाई को मजबूत करने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Notches (नॉचेस) छोटे निशान होते हैं जो pattern pieces पर होते हैं और यह इंगित करते हैं कि fabric pieces को सिलाई करते समय कैसे align और join करना है।"
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "यदि एक garment का 'waist measurement' गलत है, तो इसका क्या असर होगा?",
+      "options": {
+        "A": "यह कंधे पर ठीक नहीं बैठेगा",
+        "B": "यह कमर पर बहुत ढीला या बहुत तंग होगा",
+        "C": "यह आस्तीन पर ठीक नहीं बैठेगा",
+        "D": "यह रंग में फीका पड़ जाएगा"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Waist measurement (कमर की माप) गलत होने पर garment कमर पर या तो बहुत ढीला या बहुत तंग होगा।"
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "एक 'Dart' का उपयोग garment में क्यों किया जाता है?",
+      "options": {
+        "A": "यह एक सजावटी तत्व है",
+        "B": "यह garment को शरीर के curves के अनुरूप आकार देने के लिए होता है",
+        "C": "यह seam को मजबूत करता है",
+        "D": "यह fabric को stretch करता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dart (डार्ट) fabric से एक triangular fold होता है जो garment को शरीर के curves (जैसे bust या waist) के अनुरूप आकार देने के लिए इस्तेमाल किया जाता है।"
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Pattern pieces को fabric पर 'pinning' करते समय क्या ध्यान रखना चाहिए?",
+      "options": {
+        "A": "जितने हो सके उतने पिन लगाएं",
+        "B": "पिन को grainline के समानांतर लगाएं",
+        "C": "पिन को stitching line के perpendicular लगाएं ताकि वे cutting में बाधा न डालें",
+        "D": "पिन को केवल fabric के बीच में लगाएं"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pattern pieces को fabric पर pinning करते समय, पिन को stitching line के perpendicular (लंबवत) लगाना चाहिए ताकि वे cutting में बाधा न डालें और pattern को स्थिर रखें।"
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Garment assembly में 'interfacing' का क्या उपयोग है?",
+      "options": {
+        "A": "यह garment को सजाता है",
+        "B": "यह fabric को अतिरिक्त समर्थन, आकार और स्थिरता प्रदान करता है, खासकर collars और cuffs में",
+        "C": "यह garment को भारी बनाता है",
+        "D": "यह garment को stretchy बनाता है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Interfacing (इंटरफेसिंग) एक अतिरिक्त fabric layer है जो collars, cuffs, waistbands आदि में fabric को अतिरिक्त समर्��न, आकार और स्थिरता प्रदान करने के लिए इस्तेमाल की जाती है।"
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "एक 'facing' का क्या उद्देश्य है?",
+      "options": {
+        "A": "यह garment को लंबा बनाता है",
+        "B": "यह garment के raw edges को एक साफ फिनिश देने के लिए इस्तेमाल होता है, जैसे necklines और armholes पर",
+        "C": "यह garment को रंगीन बनाता है",
+        "D": "यह garment को मजबूत बनाता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Facing (फेसिंग) fabric का एक टुकड़ा होता है जिसे garment के raw edges (जैसे necklines और armholes) को साफ फिनिश देने के लिए इस्तेमाल किया जाता है।"
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Garment assembly में 'understitching' क्यों की जाती है?",
+      "options": {
+        "A": "यह garment को सजाने के लिए है",
+        "B": "यह facing या lining को garment के right side पर रोल होने से रोकने के लिए है",
+        "C": "यह seam को मजबूत करता है",
+        "D": "यह fabric को stretch करता है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Understitching (अंडरस्टिचिंग) facing या lining को garment के right side पर रोल होने से रोकने के लिए की जाती है, जिससे garment का किनारा साफ और flat रहता है।"
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Garment construction में 'ease' का क्या मतलब है?",
+      "options": {
+        "A": "यह garment को कितना ढीला या तंग होना चाहिए, body measurements के ऊपर अतिरिक्त allowance",
+        "B": "सिलाई की गति",
+        "C": "कपड़े का प्रकार",
+        "D": "सिलाई की गुणवत्ता"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Ease (ईज़) body measurements के ऊपर garment में दी गई अतिरिक्त allowance है, जो movement और comfort के लिए ज़रूरी है। यह garment को कितना ढीला या तंग होना चाहिए, यह तय करता है।"
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "एक 'zipper' को garment में कैसे attach किया जाता है?",
+      "options": {
+        "A": "हाथ से सिलाई करके",
+        "B": "मशीन से zipper foot का उपयोग करके",
+        "C": "गोंद से चिपकाकर",
+        "D": "पिन से लगाकर"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Zipper (ज़िपर) को garment में attach करने के लिए सिलाई मशीन पर एक विशेष zipper foot का उपयोग किया जाता है ताकि सिलाई zipper teeth के करीब हो सके।"
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Garment assembly में 'set-in sleeve' कैसे attach की जाती ह���?",
+      "options": {
+        "A": "Sleeve को body में flat सिलकर",
+        "B": "Sleeve को body में round में सिलकर, armhole curve को matching notches से मिलाते हुए",
+        "C": "Sleeve को गोंद से चिपकाकर",
+        "D": "Sleeve को body से अलग रखकर"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Set-in sleeve (सेट-इन स्लीव) को body में round में attach किया जाता है, armhole curve और sleeve curve के notches को ध्यान से मिलाते हुए, ताकि एक smooth और well-fitted sleeve head बन सके।"
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "अगर एक garment में 'lining' लगानी है, तो इसका क्या फायदा है?",
+      "options": {
+        "A": "यह garment को भारी बनाता है",
+        "B": "यह garment को अधिक finished look देता है, drape को बेहतर बनाता है और पहनने में आरामदायक होता है",
+        "C": "यह garment को छ���टा करता है",
+        "D": "यह garment को सस्ता बनाता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lining (लाइनिंग) garment को अधिक finished look देती है, drape को बेहतर बनाती है, और garment को पहनने में अधिक आरामदायक बनाती है।"
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "एक 'waistband' को attach करते समय, क्या सुनिश्चित करना सबसे महत्वपूर्ण है?",
+      "options": {
+        "A": "Waistband का रंग garment से मेल खाता हो",
+        "B": "Waistband garment के waistline के साथ सही ढंग से align हो और flat बिछे",
+        "C": "Waistband बहुत चौड़ा हो",
+        "D": "Waistband बहुत पतला हो"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waistband (कमरबंद) को attach करते समय यह सुनिश्चित करना महत्वपूर्ण है कि वह garment के waistline ���े साथ सही ढंग से align हो और flat बिछे, ताकि एक साफ और comfortable fit मिले।"
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Pattern drafting में 'block' या 'sloper' का क्या अर्थ है?",
+      "options": {
+        "A": "यह एक तैयार garment है",
+        "B": "यह एक बुनियादी, custom-fitted pattern है जिसमें कोई style details नहीं होती, जिसका उपयोग नए डिज़ाइन बनाने के लिए किया जाता है",
+        "C": "यह एक प्रकार का fabric है",
+        "D": "यह एक सिलाई तकनीक है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Block (ब्लॉक) या Sloper (स्लोपर) एक बुनियादी, custom-fitted pattern है जिसमें कोई style details नहीं होतीं, जिसका उपयोग नए garment डिज़ाइन बनाने के लिए आधार के रूप में किया जाता है।"
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Garment construction के दौरान pressing (इस्त्री करना) क्यों ज़रूरी है?",
+      "options": {
+        "A": "इससे garment तेज़ी से सूखता है",
+        "B": "यह seams को flat बिछाने में मदद करता है, wrinkles हटाता है और एक professional finish देता है",
+        "C": "यह fabric को shrink करता है",
+        "D": "यह केवल अंत में किया जाता है"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pressing (इस्त्री करना) garment construction के दौरान seams को flat बिछाने, wrinkles हटाने और एक professional, crisp finish देने के लिए महत्वपूर्ण है।"
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Hemming के लिए सबसे आम और सरल तरीका क्या है?",
+      "options": {
+        "A": "Bias binding",
+        "B": "Double-fold hem",
+        "C": "French hem",
+        "D": "Rolled hem"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Double-fold hem (डबल-फोल्ड हेम) सबसे आम और सरल तरीका है, जिसमें fabric के किनारे को दो बार अंदर की ओर मोड़कर सिला जाता है।"
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "एक 'buttonhole' बनाने के लिए कौन सा सिलाई मशीन attachment इस्तेमाल किया जाता है?",
+      "options": {
+        "A": "Zipper Foot",
+        "B": "Walking Foot",
+        "C": "Buttonhole Foot",
+        "D": "Gathering Foot"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Buttonhole Foot (बटनहोल फुट) एक विशेष attachment है जिसका उपयोग सिलाई मशीन पर buttonholes को सटीक और आसानी से बनाने के लिए किया जाता है।"
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Garment में 'hook and eye' का उपयोग क्यों किया जाता है?",
+      "options": {
+        "A": "सजावट के लिए",
+        "B": "Garment को बंद करने के लिए, खासकर waistbands या necklines पर",
+        "C": "Garment को ढीला करने के लिए",
+        "D": "Garment को मजबूत करने के लिए"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hook and eye (हुक और आई) छोटे फास्टनर्स होते हैं जिनका उपयोग garment को बंद करने के लिए किया जाता है, खासकर waistbands, necklines या invisible closures के लिए।"
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "सिलाई के बाद threads को 'trim' करना क्यों ज़रूरी है?",
+      "options": {
+        "A": "यह garment को हल्का बनाता है",
+        "B": "यह एक साफ और professional finish देता है",
+        "C": "यह fabric को shrink करता है",
+        "D": "यह केवल सजावट के लिए है"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "सिलाई के बाद सभी extra threads को trim (काटना) करना ज़रूर��� है ताकि garment एक साफ और professional finish दे।"
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "अगर एक finished garment में 'uneven hem' है, तो यह किस प्रकार की गुणवत्ता की समस्या है?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "Stitching defect",
+        "C": "Cutting or measurement defect",
+        "D": "Pressing defect"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Uneven hem (असमान हेम) आमतौर पर fabric की गलत कटिंग या गलत measurement के कारण होता है।"
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "एक 'blind hem' मशीन सिलाई का उपयोग कब किया जाता है?",
+      "options": {
+        "A": "जब एक visible hemलाइन चाहिए हो",
+        "B": "जब एक invisible hemलाइन चाहिए हो",
+        "C": "जब hem को मजबूत करना हो",
+        "D": "जब hem को सजाना हो"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blind hem (ब्लाइंड हेम) मशीन सिलाई का उपयोग तब किया जाता है जब एक invisible hemline (अदृश्य हेमलाइन) चाहिए हो, ताकि सिलाई बाहर से दिखाई न दे।"
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Garment में 'snaps' का उपयोग क्यों किया जाता है?",
+      "options": {
+        "A": "यह एक सजावटी तत्व है",
+        "B": "यह एक quick और easy closure प्रदान करता है, खासकर बच्चों के कपड़ों या hidden closures के लिए",
+        "C": "यह garment को मजबूत बनाता है",
+        "D": "यह garment को ढीला करता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Snaps (स्नैप्स) quick और easy closure प्रदान करते हैं, और अक्सर बच्चों के कपड़ों या hidden closures (छिपे हुए बंद) के लिए उपयोग किए जाते हैं।"
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Quality control में 'final inspection' का क्या महत्व है?",
+      "options": {
+        "A": "यह केवल समय की बर्बादी है",
+        "B": "यह सुनिश्चित करता है कि garment सभी मानकों को पूरा करता है और कोई दोष नहीं है",
+        "C": "यह garment को महंगा बनाता है",
+        "D": "यह केवल बड़े ब्रांडों के लिए है"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Final inspection (अंतिम निरीक्षण) यह सुनिश्चित करता है कि finished garment सभी गुणवत्ता मानकों को पूरा करता है और उसमें कोई दोष नहीं है।"
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "अगर एक finished garment में 'puckered seams' हैं, तो संभावित कारण क्या हो सकता है?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "गलत tension, गलत stitch length या fabric type के लिए अनुपयुक्त needle",
+        "C": "Pressing defect",
+        "D": "Cutting defect"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Puckered seams (सिकुड़ी हुई सीम) अक्सर गलत tension, गलत stitch length या fabric type के लिए अनुपयुक्त needle के कारण होती हैं।"
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Garment को 'pressing' और 'ironing' में क्या अंतर है?",
+      "options": {
+        "A": "कोई अंतर नहीं है",
+        "B": "Pressing में iron को fabric पर उठाया और रखा जाता है, जबकि ironing में iron को fabric पर रगड़ा जाता है",
+        "C": "Ironing केवल अंतिम चरण है, pressing नहीं",
+        "D": "Pressing केवल steam का उपयोग करता है"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pressing (प्रेसिंग) में iron को fabric पर उठाया और रखा जाता है ताकि seams flat ब���छें और shaping हो, जबकि ironing (इस्त्री करना) में iron को fabric पर रगड़ा जाता है ताकि wrinkles हटाए जा सकें।"
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "अगर एक garment में 'loose threads' हैं, तो यह किस प्रकार की गुणवत्ता की समस्या है?",
+      "options": {
+        "A": "Fabric defect",
+        "B": "Finishing defect",
+        "C": "Cutting defect",
+        "D": "Design defect"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Loose threads (ढीले धागे) एक finishing defect है, और उन्हें trimming के दौरान हटाया जाना चाहिए।"
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Garment को 'packaging' करने से पहले कौन सा अंतिम चरण ज़रूरी है?",
+      "options": {
+        "A": "Garment को फिर से सिलना",
+        "B": "Garment को फिर से काटना",
+        "C": "अंतिम प्रेसिंग और सभी ढीले धागों को हटाना",
+        "D": "Garment को धोना"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Packaging से पहले, अंतिम प्रेसिंग और सभी ढीले धागों को हटाना ज़रूरी है ताकि garment बिक्री के लिए तैयार हो।"
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "एक 'fused hem' क्या है?",
+      "options": {
+        "A": "एक hem जिसे सिलाई से बनाया जाता है",
+        "B": "एक hem जिसे fusible web या tape का उपयोग करके heat से attach किया जाता है, बिना सिलाई के",
+        "C": "एक hem जिसे गोंद से चिपकाया जाता है",
+        "D": "एक hem जिसे पिन से लगाया जाता है"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fused hem (फ्यूज्ड हेम) एक hem है जिसे fusible web या tape का उपयोग करके heat (इस्त्री) से attach किया जाता है, बिन��� सिलाई के, जिससे एक साफ और अदृश्य hemline मिलती है।"
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Garment construction में 'quality control' का मुख्य लक्ष्य क्या है?",
+      "options": {
+        "A": "उत्पादन की लागत कम करना",
+        "B": "यह सुनिश्चित करना कि finished products ग्राहक की अपेक्षाओं और मानकों को पूरा करते हैं",
+        "C": "उत्पादन की गति बढ़ाना",
+        "D": "अधिक डिज़ाइन बनाना"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Quality control (गुणवत्ता नियंत्रण) का मुख्य लक्ष्य यह सुनिश्चित करना है कि finished products ग्राहक की अपेक्षाओं और सभी निर्धारित गुणवत्ता मानकों को पूरा करते हैं।"
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "यदि एक garment में 'misaligned seams' हैं, तो यह किस चरण में हुई गलती का संकेत है?",
+      "options": {
+        "A": "Pressing",
+        "B": "Cutting or assembly",
+        "C": "Fabric selection",
+        "D": "Finishing"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Misaligned seams (गलत ढंग से मिली हुई सीम) आमतौर पर fabric की गलत कटिंग या garment assembly के दौरान pattern pieces को गलत ढंग से align करने के कारण होती हैं।"
+    }
+  ]
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "CAD for Fashion — Digital Pattern Making",
+  "sector": "Apparel Design, Pattern Making & Fashion Technology",
+  "level": "Intermediate",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to CAD for Fashion & Digital Pattern Making Software",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Basic Pattern Creation & Manipulation in CAD",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Advanced Pattern Alterations & Grading",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Marker Making & Nesting Techniques",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Pattern Digitization & Output",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Troubleshooting, Best Practices & Industry Integration",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "CAD software ka primary advantage kya hai traditional pattern making ke comparison mein?",
+      "options": {
+        "A": "Faster pattern creation aur modification",
+        "B": "Zyada physical storage space ki zaroorat",
+        "C": "Patterns sirf paper par hi ban sakte hain",
+        "D": "Manual calculations ki zaroorat padti hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CAD software se patterns jaldi ban jaate hain aur unmein changes karna bhi aasan hota hai, jo traditional methods se kaafi tez hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Fashion CAD mein 'Digitizer' ka kya role hai?",
+      "options": {
+        "A": "Fabric cutting machine ko operate karna",
+        "B": "Physical patterns ko digital format mein convert karna",
+        "C": "Garment design sketch banana",
+        "D": "Marker making process ko automate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Digitizer ek device hai jo existing physical patterns ko computer mein digital data ke roop mein input karta hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Gerber AccuMark, Optitex aur Lectra Modaris kis type ke software hain?",
+      "options": {
+        "A": "Fashion illustration software",
+        "B": "Textile design software",
+        "C": "Digital pattern making aur grading software",
+        "D": "Embroidery design software"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Yeh sab industry-leading CAD software hain jo digital pattern making, grading aur marker making ke liye use hote hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "CAD systems mein 'Workspace' kya refer karta hai?",
+      "options": {
+        "A": "Physical cutting table",
+        "B": "Screen par woh area jahan pattern develop aur modify kiye jaate hain",
+        "C": "Storage folder for patterns",
+        "D": "Printing area for markers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Workspace screen ka woh hissa hai jahan user patterns par kaam karta hai, jaise drawing, editing aur manipulating."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "CAD systems mein 'Layer' feature ka kya fayda hai?",
+      "options": {
+        "A": "Patterns ko physical folder mein arrange karna",
+        "B": "Different pattern elements (e.g., seam lines, notches, annotations) ko organize aur toggle karna",
+        "C": "Fabric types ko categorize karna",
+        "D": "Garment pricing calculate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Layers allow karte hain ki aap different types of information ko separate rakhein, jaise seam allowances, internal lines, text, etc., aur unhe individually hide ya show kar sakein."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Pattern making mein 'Block' ya 'Sloper' ka kya matlab hai?",
+      "options": {
+        "A": "Ek specific fabric type",
+        "B": "Basic, fitted pattern jo bina style details ke hota hai",
+        "C": "Cutting table ka ek hissa",
+        "D": "A garment with multiple layers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Block ya sloper ek basic pattern hota hai jo body par fit hota hai aur jise aage style details add karne ke liye modify kiya ja sakta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "CAD mein 'Toolbar' kahan locate hota hai aur uska kya use hai?",
+      "options": {
+        "A": "Bottom of the screen, for file management",
+        "B": "Side or top of the screen, quick access to tools and commands",
+        "C": "Center of the screen, for pattern display",
+        "D": "Behind the monitor, for power control"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Toolbar mein icons hote hain jo commonly used functions aur tools ko represent karte hain, jisse user jaldi se unhe access kar sake."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "CAD pattern files ko generally kis format mein export kiya jata hai ताकि दूसरे systems (jaise plotter) use kar sakein?",
+      "options": {
+        "A": ".DOCX",
+        "B": ".PDF",
+        "C": ".DXF (Data Exchange Format)",
+        "D": ".MP3"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": ".DXF ek standard file format hai jo CAD data ko different CAD software aur hardware ke beech exchange karne ke liye use hota hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "CAD pattern making mein 'Accuracy' kyon important hai?",
+      "options": {
+        "A": "Sirf aesthetic reasons ke liye",
+        "B": "Fabric waste kam karne aur garment fit improve karne ke liye",
+        "C": "Software ko slow karne ke liye",
+        "D": "Design ko complex banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Accurate patterns fabric waste ko kam karte hain aur yeh ensure karte hain ki finished garment sahi se fit ho."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Jo CAD system 'parametric pattern design' allow karta hai, uska kya matlab hai?",
+      "options": {
+        "A": "Patterns ko sirf manual tools se banaya ja sakta hai",
+        "B": "Pattern dimensions aur features ko mathematical parameters se control kiya ja sakta hai, jo changes ko aasan banata hai",
+        "C": "Sirf basic shapes hi bana sakte hain",
+        "D": "Patterns ko sirf ek hi size mein bana sakte hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Parametric design mein patterns dimensions aur mathematical relationships par based hote hain, jisse ek value change karne par poora pattern automatically adjust ho jata hai, grading ke liye bahut useful hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "CAD software mein 'Zoom' aur 'Pan' functions ka kya use hai?",
+      "options": {
+        "A": "Pattern ko print karne ke liye",
+        "B": "Pattern view ko enlarge/reduce aur screen par move karne ke liye",
+        "C": "Colors change karne ke liye",
+        "D": "Text add karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Zoom se aap pattern ka detail view dekh sakte hain ya overall view, aur Pan se aap screen par pattern ko move kar sakte hain without changing its size."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Digital pattern making mein 'Pattern Library' ka kya fayda hai?",
+      "options": {
+        "A": "Physical fabric samples store karna",
+        "B": "Standard blocks, components, aur previous designs ko store aur reuse karna",
+        "C": "Garment cost calculate karna",
+        "D": "Cutting machine ko calibrate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pattern library designers ko existing components aur blocks ko reuse karne ki suvidha deta hai, jisse time aur effort save hota hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "CAD software mein 'Undo' aur 'Redo' commands ka kya function hai?",
+      "options": {
+        "A": "Files save aur open karna",
+        "B": "Last action ko reverse karna aur reverse kiye gaye action ko phir se apply karna",
+        "C": "Pattern ko duplicate karna",
+        "D": "Text input karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Undo se aap apni galti sudhaar sakte hain, aur Redo se agar aapne galti se undo kar diya ho toh use wapas la sakte hain."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek 'notcher' tool CAD mein kya karta hai?",
+      "options": {
+        "A": "Fabric ko cut karta hai",
+        "B": "Pattern pieces par matching points mark karta hai",
+        "C": "Pattern ko rotate karta hai",
+        "D": "Seam allowance add karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Notches pattern pieces par small cuts hote hain jo assembly ke time matching points ko indicate karte hain, aur CAD mein notcher tool unhe digitally add karta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "CAD pattern software mein 'Grainline' ka kya mahatva hai?",
+      "options": {
+        "A": "Pattern ka color decide karna",
+        "B": "Fabric par pattern piece ki correct placement indicate karna",
+        "C": "Pattern ki thickness adjust karna",
+        "D": "Garment ki price set karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grainline fabric ke warp ya weft direction ko align karta hai, jo garment ke drape, fit aur stability ke liye crucial hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "CAD pattern making mein 'Efficiency' ka kya matlab hai?",
+      "options": {
+        "A": "Zyada se zyada fabric waste karna",
+        "B": "Kam time aur resources mein best possible results achieve karna",
+        "C": "Patterns ko sirf ek size mein banana",
+        "D": "Software ko slow speed par chalana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Efficiency ka matlab hai ki aap kam se kam samay aur resources ka upyog karke high-quality patterns bana sakein."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "CAD software mein 'Measurement Unit' ko set karna kyon zaroori hai?",
+      "options": {
+        "A": "Sirf designer ki pasand ke liye",
+        "B": "Patterns ki accuracy aur consistency maintain karne ke liye",
+        "C": "Software ki speed badhane ke liye",
+        "D": "Files ka size kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Correct measurement unit (jaise inches ya centimeters) set karna bahut zaroori hai taaki patterns accurate banen aur production mein koi galti na ho."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Basic bodice block mein 'Dart' ka kya purpose hai?",
+      "options": {
+        "A": "Pattern ko lamba karna",
+        "B": "Flat fabric ko body ke curves ke according shape dena",
+        "C": "Fabric ko stretch karna",
+        "D": "Pattern ko cut karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Darts fabric mein tucks hote hain jo garment ko 3D body shape dene mein help karte hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "CAD mein 'Line Tool' ka use karke kya banaya jata hai?",
+      "options": {
+        "A": "Curved lines",
+        "B": "Straight lines aur pattern boundaries",
+        "C": "Circles",
+        "D": "Text"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Line tool se aap straight lines draw karte hain jo pattern ke edges ya internal lines banane ke liye use hote hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Ek basic skirt block banane ke liye kin primary measurements ki zaroorat hoti hai?",
+      "options": {
+        "A": "Sleeve length aur shoulder width",
+        "B": "Waist circumference aur hip circumference",
+        "C": "Neck circumference aur bust circumference",
+        "D": "Inseam aur thigh circumference"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skirt ke liye waist aur hip measurements sabse important hote hain taaki woh body par properly fit ho sake."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "CAD mein 'Curve Tool' ka kya use hai?",
+      "options": {
+        "A": "Only straight lines draw karna",
+        "B": "Necklines, armholes aur other curved shapes banana",
+        "C": "Text likhna",
+        "D": "Pattern ko duplicate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Curve tool se aap smooth aur natural curves bana sakte hain jo body ke contours ko follow karte hain."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "'Seam Allowance' CAD mein kya represent karta hai?",
+      "options": {
+        "A": "Fabric ka decorative part",
+        "B": "Pattern edge se stitching line tak ka extra fabric",
+        "C": "Garment ki length",
+        "D": "Pattern ka center fold"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Seam allowance woh extra fabric hota hai jo pattern pieces ko ek saath sew karne ke liye use hota hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "CAD mein 'Point Tool' ka primary function kya hai?",
+      "options": {
+        "A": "Pattern ko print karna",
+        "B": "Pattern par specific locations (e.g., dart points, notch positions) mark karna",
+        "C": "Color fill karna",
+        "D": "Text add karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Point tool se aap precise points add kar sakte hain jo pattern construction aur modification ke liye reference points hote hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "'Dart Manipulation' ka kya matlab hai?",
+      "options": {
+        "A": "Dart ko remove karna",
+        "B": "Dart ko ek location se dusri location par move karna ya use style lines mein incorporate karna",
+        "C": "Dart ko lamba karna",
+        "D": "Dart ko chhota karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dart manipulation ek technique hai jismein darts ko garments mein different style lines aur features banane ke liye reposition kiya jata hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "CAD mein 'Mirror Tool' ka kya use hai?",
+      "options": {
+        "A": "Pattern ko rotate karna",
+        "B": "Symmetric pattern pieces (e.g., front/back bodice) ko quickly create karna",
+        "C": "Pattern ko copy karna",
+        "D": "Pattern ko delete karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mirror tool se aap ek pattern piece ka exact reflection bana sakte hain, jo symmetric designs ke liye bahut useful hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Sleeve block banane ke liye kaun sa measurement sabse zaroori hai?",
+      "options": {
+        "A": "Waist circumference",
+        "B": "Sleeve length aur bicep circumference",
+        "C": "Hip circumference",
+        "D": "Neck circumference"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sleeve length aur bicep circumference sleeve ke fit aur proportions ke liye essential hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "CAD mein 'Trace Tool' ka kya function hai?",
+      "options": {
+        "A": "Naye pattern pieces draw karna",
+        "B": "Existing pattern pieces se naye shapes ya sections ko extract karna",
+        "C": "Pattern ko delete karna",
+        "D": "Text add karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Trace tool se aap ek bade pattern piece se chhote parts ya specific sections ko separate kar sakte hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "'Slash and Spread' method CAD mein kis liye use hota hai?",
+      "options": {
+        "A": "Pattern ko chhota karne ke liye",
+        "B": "Volume add karne ke liye (e.g., gathers, pleats) ya dart ko relocate karne ke liye",
+        "C": "Pattern ko seedha karne ke liye",
+        "D": "Seam allowance remove karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slash and spread technique se aap pattern mein fullness add kar sakte hain ya darts ko manipulate kar sakte hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "CAD mein 'Notches' ka kya fayda hai?",
+      "options": {
+        "A": "Pattern ko decorate karna",
+        "B": "Garment assembly ke time correct matching points ensure karna",
+        "C": "Fabric ko waste karna",
+        "D": "Pattern ko lamba karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Notches sewing ke time pattern pieces ko accurately align karne mein help karte hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Pattern pieces ko 'smooth' karne ke liye CAD mein kaun se tools use hote hain?",
+      "options": {
+        "A": "Line tool",
+        "B": "Eraser tool",
+        "C": "Bezier curves ya spline tools",
+        "D": "Text tool"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bezier curves aur spline tools se aap irregular ya jagged lines ko smooth aur fluid curves mein convert kar sakte hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Agar aapko ek pattern piece ko 'rotate' karna hai, toh aap kaun sa tool use karenge?",
+      "options": {
+        "A": "Move tool",
+        "B": "Rotate tool",
+        "C": "Scale tool",
+        "D": "Mirror tool"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rotate tool pattern pieces ko unke axis par ghumane ke liye use hota hai, jo marker making mein bhi helpful hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "CAD mein 'Walk Tool' ka kya function hai?",
+      "options": {
+        "A": "Pattern ko screen par move karna",
+        "B": "Pattern pieces ki seam lines ko check aur match karna",
+        "C": "Pattern ko delete karna",
+        "D": "Text add karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Walk tool designers ko do pattern pieces ki seam lines ko 'walk' karke check karne ki suvidha deta hai ki woh accurately match ho rahi hain ya nahin, especially curves par."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Pattern pieces par 'Drill Holes' kyon add kiye jaate hain?",
+      "options": {
+        "A": "Pattern ko lightweight banane ke liye",
+        "B": "Pocket placements, buttonholes, ya other internal details ko mark karne ke liye",
+        "C": "Pattern ko decorate karna",
+        "D": "Fabric ko cut karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drill holes precise markings hote hain jo production ke time specific details ko locate karne mein help karte hain."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "CAD mein 'Add Seam Allowance' feature ka kya fayda hai?",
+      "options": {
+        "A": "Pattern ko chhota karna",
+        "B": "Automatically pattern edges par stitching margin add karna",
+        "C": "Pattern ko rotate karna",
+        "D": "Fabric type change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Yeh feature seam allowances ko manually draw karne ke bajaye automatically add kar deta hai, jisse time save hota hai aur accuracy badhti hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "'Grading' ka kya matlab hai fashion pattern making mein?",
+      "options": {
+        "A": "Pattern ko color karna",
+        "B": "Ek base size pattern ko different sizes mein proportionally enlarge ya reduce karna",
+        "C": "Pattern ko delete karna",
+        "D": "Fabric ko cut karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grading woh process hai jismein ek master pattern ko manufacturing ke liye multiple sizes mein convert kiya jata hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Grading ke liye kaun se 'Grading Rules' apply kiye jaate hain?",
+      "options": {
+        "A": "Random values",
+        "B": "Standardized measurements aur increment values for X aur Y coordinates",
+        "C": "Designer ki pasand ke colors",
+        "D": "Fabric type ke according"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Grading rules specific values hote hain jo pattern ke points ko X (horizontal) aur Y (vertical) directions mein kitna move karna hai, yeh define karte hain, taaki size increments consistent rahen."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "CAD mein 'Pleats' add karne ke liye kaun si technique use ki jaati hai?",
+      "options": {
+        "A": "Dart manipulation",
+        "B": "Slash and spread method",
+        "C": "Mirror tool",
+        "D": "Walk tool"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pleats aur gathers banane ke liye pattern ko slash karke spread kiya jata hai, jisse extra fullness add ho sake."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Agar aapko ek pattern piece ki 'length' badhani hai, toh aap kaun sa tool use karenge?",
+      "options": {
+        "A": "Rotate tool",
+        "B": "Scale tool (ya specific length modification tool)",
+        "C": "Mirror tool",
+        "D": "Notcher tool"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Scale tool ya specific length modification tools se aap pattern ki dimensions ko proportionally ya non-proportionally adjust kar sakte hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "'Ease' ka kya matlab hai garment pattern making mein?",
+      "options": {
+        "A": "Garment ko tight fit banana",
+        "B": "Body ke measurements ke upar garment mein extra allowance movement aur comfort ke liye",
+        "C": "Fabric ko stretch karna",
+        "D": "Pattern ko chhota karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ease woh extra space hai jo body ke around garment mein diya jata hai, jisse wearer ko move karne aur comfortable feel karne mein aasani ho."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "CAD mein 'Style Lines' ko kaise develop kiya jata hai?",
+      "options": {
+        "A": "Sirf darts ka use karke",
+        "B": "Existing blocks ko manipulate karke, darts ko relocate karke, aur naye curves/lines draw karke",
+        "C": "Pattern ko copy karke",
+        "D": "Seam allowance remove karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Style lines create karne ke liye designers existing blocks par changes karte hain, darts ko convert karte hain ya naye seams introduce karte hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Grading ke time 'Pivoting' technique ka kya use hai?",
+      "options": {
+        "A": "Pattern ko rotate karna",
+        "B": "Ek fixed point ke around pattern ko grade karna, jisse ek side mein zyada ya kam growth ho",
+        "C": "Pattern ko copy karna",
+        "D": "Text add karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pivoting se pattern ke ek point ko anchor karke baaki points ko uske relative grade kiya jata hai, jo complex shapes mein grading ke liye useful hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Waistline ko 'contour' karne ke liye CAD mein kaun se tools use honge?",
+      "options": {
+        "A": "Straight line tool",
+        "B": "Curve tool aur point manipulation",
+        "C": "Rectangle tool",
+        "D": "Eraser tool"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Contouring ke liye curves ko adjust karna aur points ko precise locations par move karna zaroori hai, jiske liye curve tool aur point manipulation tools use hote hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Agar aapko ek pattern piece ko 'proportionally' bada ya chhota karna hai, toh aap kaun sa tool use karenge?",
+      "options": {
+        "A": "Move tool",
+        "B": "Scale tool (uniform scaling)",
+        "C": "Rotate tool",
+        "D": "Notcher tool"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Uniform scaling se pattern ki sabhi dimensions proportionally adjust hoti hain, jisse uska overall shape maintain rehta hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "'Nested Grading' ka kya matlab hai?",
+      "options": {
+        "A": "Different colors ke patterns",
+        "B": "Ek hi pattern piece par sabhi graded sizes ko ek saath display karna",
+        "C": "Patterns ko fold karna",
+        "D": "Patterns ko delete karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nested grading mein ek base pattern ke around uske graded sizes ko concentric lines ke roop mein dikhaya jata hai, jisse grading increments ko visually check kiya ja sake."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "CAD mein 'Symmetry' option ka use karke aap kya achieve kar sakte hain?",
+      "options": {
+        "A": "Pattern ko asymmetrically modify karna",
+        "B": "Pattern ke ek half ko modify karte hi dusre half ko automatically update karna",
+        "C": "Pattern ko rotate karna",
+        "D": "Pattern ko print karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Symmetry option se aap ek symmetric pattern ke ek side par changes karte hain toh woh automatically dusre side par reflect ho jaate hain, time aur effort save hota hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Garment fit ko improve karne ke liye 'Bust Dart' ko shoulder se side seam par kaise relocate kiya ja sakta hai?",
+      "options": {
+        "A": "Sirf copy paste karke",
+        "B": "Dart manipulation (slash and pivot) technique se",
+        "C": "Pattern ko delete karke naya banana",
+        "D": "Pattern ka color change karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dart manipulation ek fundamental technique hai jismein darts ko open aur close karke unki location change ki jaati hai, jisse style lines develop ho sakein."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "'Grade Point' ka kya mahatva hai grading mein?",
+      "options": {
+        "A": "Pattern ka center point",
+        "B": "Pattern par woh points jahan se grading increments apply kiye jaate hain",
+        "C": "Pattern ka starting point",
+        "D": "Pattern ka end point"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Grade points woh specific locations hote hain pattern par jahan par X aur Y direction mein grading values apply ki jaati hain, jisse pattern ka shape aur fit maintain rahe."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "CAD mein 'Add fullness' (e.g., gathers) ke liye kis tool ya method ka use kiya jata hai?",
+      "options": {
+        "A": "Eraser tool",
+        "B": "Slash and spread",
+        "C": "Mirror tool",
+        "D": "Rotate tool"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slash and spread method se pattern ko cut karke uske sections ko spread kiya jata hai, jisse desired fullness ya gathers create ho sakein."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Agar aapko ek pattern piece mein 'yoke' add karna hai, toh aap kaise karenge?",
+      "options": {
+        "A": "Sirf pattern ko rotate karke",
+        "B": "Pattern ko slash karke aur naye seam lines define karke",
+        "C": "Pattern ka color change karke",
+        "D": "Seam allowance remove karke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yoke add karne ke liye existing pattern ko cut kiya jata hai aur phir naye seam lines banaye jaate hain jahan yoke attach hoga."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "CAD mein 'Seam Editor' ka kya role hai?",
+      "options": {
+        "A": "Fabric type change karna",
+        "B": "Seam allowance width ko adjust karna aur seam types (e.g., open, closed) define karna",
+        "C": "Pattern ko delete karna",
+        "D": "Text add karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Seam editor designers ko seam allowances ko precisely control karne ki suvidha deta hai, jo production ke liye bahut important hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Grading ke time 'Proportional Grading' ka kya matlab hai?",
+      "options": {
+        "A": "Sabhi sizes mein same absolute increment dena",
+        "B": "Har size ke liye grading increments body measurement ke proportions ke according adjust karna",
+        "C": "Sirf ek size ko grade karna",
+        "D": "Randomly values assign karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Proportional grading mein, grading increments small sizes mein kam aur large sizes mein zyada hote hain, taaki body proportions across sizes maintain rahen."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "'Marker Making' ka primary objective kya hai?",
+      "options": {
+        "A": "Garment ko assemble karna",
+        "B": "Fabric par pattern pieces ko efficiently arrange karna taaki fabric waste kam ho",
+        "C": "Pattern ko design karna",
+        "D": "Fabric ko color karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Marker making ka main goal hai fabric utilization ko maximize karna aur cutting process ko efficient banana."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "CAD mein 'Nesting' ka kya matlab hai?",
+      "options": {
+        "A": "Birds ka ghonsla banana",
+        "B": "Pattern pieces ko marker par tight aur efficient tarike se arrange karna",
+        "C": "Pattern ko print karna",
+        "D": "Fabric ko fold karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nesting ek sophisticated process hai jismein pattern pieces ko fabric par aise arrange kiya jata hai ki minimum space use ho aur fabric waste kam ho."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "'Fabric Utilization' ko kaise measure kiya jata hai?",
+      "options": {
+        "A": "Total fabric length se",
+        "B": "Used fabric area / Total marker area * 100",
+        "C": "Number of patterns se",
+        "D": "Fabric ka color dekh kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fabric utilization percentage mein measure kiya jata hai ki kitna fabric actually pattern pieces ko cut karne mein use hua hai, compared to total fabric area."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "CAD marker making mein 'Automatic Nesting' ka kya fayda hai?",
+      "options": {
+        "A": "Zyada fabric waste karna",
+        "B": "Human error ko kam karna aur optimal fabric utilization achieve karna",
+        "C": "Marker ko manually banana",
+        "D": "Process ko slow karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Automatic nesting algorithms ka use karke computer patterns ko khud hi arrange karta hai, jisse best possible layout milta hai aur time save hota hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Marker making mein 'Grainline' alignment kyon important hai?",
+      "options": {
+        "A": "Sirf aesthetic reasons ke liye",
+        "B": "Garment ke drape, fit aur stability ko ensure karne ke liye",
+        "C": "Fabric ko color karne ke liye",
+        "D": "Marker ko chhota karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Correct grainline alignment se hi garment ka desired drape aur fit achieve hota hai, aur fabric stretch bhi controlled rehta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "CAD mein 'Marker Length' ka kya matlab hai?",
+      "options": {
+        "A": "Fabric ki width",
+        "B": "Marker ki total length jis par pattern pieces nested hain",
+        "C": "Garment ki length",
+        "D": "Pattern piece ka size"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Marker length woh total linear distance hai jo marker occupy karta hai fabric par, aur ise minimize karna fabric utilization ke liye important hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Agar fabric 'one-way print' ya 'nap' wala ho, toh marker making mein kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Pattern pieces ko kisi bhi direction mein place kar sakte hain",
+        "B": "Sabhi pattern pieces ko same direction mein align karna zaroori hai",
+        "C": "Sirf plain fabric use karna chahiye",
+        "D": "Grainline ko ignore karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "One-way print ya nap wale fabrics mein, garment ke sabhi pieces ko ek hi direction mein cut karna hota hai, taaki print ya nap ki direction consistent rahe."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "CAD marker making software mein 'Buffer' ka kya use hai?",
+      "options": {
+        "A": "Pattern pieces ko overlap karna",
+        "B": "Pattern pieces ke beech minimum required space maintain karna",
+        "C": "Marker ko delete karna",
+        "D": "Fabric ko stretch karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Buffer space ensure karta hai ki cutting ke time pattern pieces ke edges overlap na hon aur cutting errors na aayen."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "'Marker Planning' mein kaun se factors consider kiye jaate hain?",
+      "options": {
+        "A": "Sirf garment ka color",
+        "B": "Fabric type, width, pattern pieces ka count, sizes aur grainline requirements",
+        "C": "Designer ka mood",
+        "D": "Weather conditions"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Effective marker planning ke liye fabric properties, garment ki required quantity aur pattern pieces ki geometry ko analyze karna zaroori hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "CAD software mein 'Splitting a marker' ka kya matlab hai?",
+      "options": {
+        "A": "Marker ko delete karna",
+        "B": "Ek bade marker ko do ya do se zyada chhote sections mein divide karna",
+        "C": "Marker ko print karna",
+        "D": "Marker ko copy karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bade markers ko split karne se cutting table par handling aasan ho jaata hai aur fabric wastage bhi control kiya ja sakta hai agar fabric rolls chhote hon."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Marker making mein 'Shading' ka kya impact hota hai?",
+      "options": {
+        "A": "Garment ko zyada attractive banana",
+        "B": "Fabric ke color variations ko minimize karne ke liye pattern pieces ko specific direction mein orient karna",
+        "C": "Fabric ko stretch karna",
+        "D": "Pattern ko decorate karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Shading problem un fabrics mein aati hai jinka color ya nap direction ke according change hota hai, isliye sabhi pieces ko same direction mein cut karna important hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "CAD mein 'Piece Rotation' feature ka kya use hai marker making mein?",
+      "options": {
+        "A": "Sirf pattern ka color change karna",
+        "B": "Pattern pieces ko rotate karke unhe marker par efficiently fit karna, while respecting grainline",
+        "C": "Pattern ko delete karna",
+        "D": "Text add karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Pattern pieces ko rotate karke aap unhe tighter fit kar sakte hain, lekin hamesha grainline rules ko follow karna zaroori hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Marker making mein 'Bundle' ka kya matlab hai?",
+      "options": {
+        "A": "A group of fabrics",
+        "B": "A set of pattern pieces for a specific garment size and style",
+        "C": "A type of cutting machine",
+        "D": "A software feature"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bundle mein ek hi garment ke liye required saare pattern pieces hote hain, jinko ek saath cut kiya jata hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "CAD marker making mein 'Cost Saving' kaise achieve hoti hai?",
+      "options": {
+        "A": "Zyada expensive fabric use karke",
+        "B": "Fabric utilization ko optimize karke aur waste kam karke",
+        "C": "Slow production speed se",
+        "D": "Manual methods use karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fabric cost garment manufacturing ka ek major component hai, isliye marker making mein fabric waste kam karna directly cost saving karta hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "'Interlocking' nesting technique ka kya fayda hai?",
+      "options": {
+        "A": "Pattern pieces ko separate rakhna",
+        "B": "Complex shapes wale pattern pieces ko ek doosre ke andar fit karke fabric utilization badhana",
+        "C": "Marker ko lamba karna",
+        "D": "Grainline ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Interlocking nesting se aap pattern pieces ko puzzle ki tarah ek doosre ke andar fit karte hain, jisse voids kam hote hain aur fabric utilization maximum hota hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "CAD marker ko 'plotter' par bhejte waqt kaun sa file format commonly use hota hai?",
+      "options": {
+        "A": ".JPG",
+        "B": ".PDF",
+        "C": ".PLT (HPGL Plotter File)",
+        "D": ".XLSX"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": ".PLT format plotter machines ke liye standard hai jo cutting instructions ko interpret karte hain."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Marker making mein 'End Allowance' kyon rakha jata hai?",
+      "options": {
+        "A": "Fabric ko decorate karna",
+        "B": "Marker ke start aur end mein extra space provide karna cutting errors se bachne ke liye",
+        "C": "Pattern ko chhota karna",
+        "D": "Seam allowance add karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "End allowance cutting machine ki grippers ya clamps ke liye space provide karta hai aur ensure karta hai ki marker edge tak properly cut ho."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "'Digitization' ka kya matlab hai fashion CAD mein?",
+      "options": {
+        "A": "Digital patterns ko print karna",
+        "B": "Manual paper patterns ko digital format mein convert karna",
+        "C": "Fabric ko cut karna",
+        "D": "Garment design sketch banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Digitization process se existing physical patterns ko CAD system mein import kiya jata hai taaki unhe digitally modify aur manage kiya ja sake."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Kaun sa device physical patterns ko CAD software mein input karne ke liye use hota hai?",
+      "options": {
+        "A": "Printer",
+        "B": "Plotter",
+        "C": "Digitizer tablet",
+        "D": "Scanner (specific for patterns)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Digitizer tablet ek special device hai jismein ek stylus ka use karke pattern ke points aur lines ko trace kiya jata hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Digitization ke time 'Calibration' kyon zaroori hai?",
+      "options": {
+        "A": "Software ka color set karna",
+        "B": "Digitizer device ki accuracy ensure karna",
+        "C": "Pattern ko delete karna",
+        "D": "Text add karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Calibration se digitizer ka coordinate system CAD software ke coordinate system se align hota hai, jisse measurements accurate rahen."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Digitized patterns mein 'Notches' aur 'Drill Holes' ko kaise input kiya jata hai?",
+      "options": {
+        "A": "Sirf manual drawing se",
+        "B": "Digitizer stylus par specific buttons press karke",
+        "C": "Pattern ko print karke",
+        "D": "Fabric ko cut karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Digitizer stylus mein buttons hote hain jo different types ke points (e.g., corner, curve, notch, drill) ko capture karne ke liye use hote hain."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "CAD pattern ko 'Plotter' par output karne ka kya purpose hai?",
+      "options": {
+        "A": "Fabric ko cut karna",
+        "B": "Digital patterns ko physical paper par print karna (full scale)",
+        "C": "Garment ko sew karna",
+        "D": "Pattern ko digitize karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plotter ek large-format printer hai jo actual size patterns ya markers ko paper par print karta hai cutting ke liye."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Plotter settings mein 'Pen Speed' aur 'Pen Pressure' adjust karna kyon zaroori hai?",
+      "options": {
+        "A": "Plotter ki life kam karne ke liye",
+        "B": "Drawing quality aur line consistency maintain karne ke liye",
+        "C": "Paper waste karne ke liye",
+        "D": "Plotter ko slow karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Correct pen speed aur pressure se lines clear aur consistent aati hain, jo accurate patterns ke liye important hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "CAD patterns ko 'Cutting Machine' mein directly use karne ke liye kaun sa file format commonly use hota hai?",
+      "options": {
+        "A": ".JPG",
+        "B": ".PDF",
+        "C": ".ISO (International Standard Organization) file",
+        "D": ".MP4"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "ISO files cutting machines ke liye standard format hain jismein cutting path, speed aur other parameters store hote hain."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Digitization ke baad pattern mein 'Smoothing' ki zaroorat kyon pad sakti hai?",
+      "options": {
+        "A": "Lines ko rough banane ke liye",
+        "B": "Digitization ke time create hue rough edges ya jagged lines ko smooth karne ke liye",
+        "C": "Pattern ko lamba karna",
+        "D": "Pattern ko chhota karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Digitizer se kabhi-kabhi lines mein slight irregularities aa jaati hain, jinko smoothing tools se theek kiya jata hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "'Plotter paper' ki selection mein kya factors consider kiye jaate hain?",
+      "options": {
+        "A": "Sirf color",
+        "B": "Paper thickness, width aur coating (agar koi ho)",
+        "C": "Designer ka mood",
+        "D": "Weather conditions"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Plotter paper ki quality aur type printed patterns ki durability aur clarity par asar karti hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "CAD pattern ko 'Miniaturize' karke print karna kyon useful hai?",
+      "options": {
+        "A": "Fabric waste badhane ke liye",
+        "B": "Designers aur pattern makers ko quick review aur discussion ke liye chhota printout provide karna",
+        "C": "Final production ke liye",
+        "D": "Plotter ko damage karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Miniaturized prints se aap pattern ke overall shape aur details ko jaldi se check kar sakte hain bina bade paper waste kiye."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Digitization ke time 'Grainline' ko kaise mark kiya jata hai?",
+      "options": {
+        "A": "Randomly mark karke",
+        "B": "Pattern piece par existing grainline ko accurately trace karke",
+        "C": "Ignore karke",
+        "D": "Sirf numerical value enter karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grainline ko sahi tarike se trace karna bahut zaroori hai taaki garment ka drape aur fit sahi rahe."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "CAD patterns ko 'Digital Sample' ya '3D Simulation' software mein use karne ke liye kaun sa step zaroori hai?",
+      "options": {
+        "A": "Directly print karna",
+        "B": "Pattern pieces ko 3D environment ke liye optimize aur export karna",
+        "C": "Pattern ko delete karna",
+        "D": "Marker banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "3D simulation ke liye patterns ko 3D software ke compatible format mein export karna hota hai aur material properties bhi define karni padti hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Plotter 'Ink Cartridge' ya 'Pen' ka selection kyon important hai?",
+      "options": {
+        "A": "Sirf color ke liye",
+        "B": "Line clarity, durability aur paper compatibility ke liye",
+        "C": "Plotter ki speed kam karne ke liye",
+        "D": "Plotter ko heavy banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi ink ya pen se printed lines sharp aur long-lasting hoti hain, jo cutting process ke liye essential hain."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Digitized patterns ko 'Verification' karna kyon zaroori hai?",
+      "options": {
+        "A": "Sirf time waste karne ke liye",
+        "B": "Ensure karna ki digital pattern original physical pattern se accurate aur consistent hai",
+        "C": "Pattern ko delete karna",
+        "D": "Pattern ko rotate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Verification se digitization ke dauran hui kisi bhi galti ko pakda ja sakta hai aur theek kiya ja sakta hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "CAD pattern data ko 'ERP (Enterprise Resource Planning)' system mein integrate karne ka kya fayda hai?",
+      "options": {
+        "A": "Sirf design process ko manage karna",
+        "B": "Production planning, inventory management aur costing ko streamline karna",
+        "C": "Pattern ko print karna",
+        "D": "Pattern ko delete karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ERP integration se poore manufacturing process mein data flow smooth hota hai, jisse efficiency aur decision making improve hoti hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Plotter se print hue marker ko 'Spreading' table par rakhne se pehle kya check karna chahiye?",
+      "options": {
+        "A": "Sirf paper ka color",
+        "B": "Marker ki complete length, width aur pattern pieces ki clarity",
+        "C": "Plotter ki speed",
+        "D": "Pen ka color"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Marker ko spreading se pehle check karna zaroori hai taaki koi printing error ya missing piece na ho, jisse cutting mein problem na aaye."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "CAD software mein 'File Corruption' ko kaise prevent kiya ja sakta hai?",
+      "options": {
+        "A": "Files ko save na karke",
+        "B": "Regularly files save karna, backups maintain karna aur reliable hardware use karna",
+        "C": "Software ko update na karke",
+        "D": "Internet connection off karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular saving aur backups data loss se bachne ke liye crucial hain, aur stable hardware bhi important hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Garment production mein 'Quality Control' ke liye CAD patterns ka kya role hai?",
+      "options": {
+        "A": "Sirf design ko सुंदर बनाना",
+        "B": "Consistent fit, size aur construction details ensure karna across all garments",
+        "C": "Fabric waste badhana",
+        "D": "Production process ko slow karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Accurate CAD patterns manufacturing ke liye ek standard provide karte hain, jisse quality consistent rehti hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "CAD files ko 'Cloud Storage' par store karne ka kya fayda hai?",
+      "options": {
+        "A": "Files ko access karna difficult ho jata hai",
+        "B": "Easy access, collaboration aur data security (backups) provide karta hai",
+        "C": "Storage space kam ho jata hai",
+        "D": "Internet ki zaroorat nahi padti"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cloud storage se files kahin se bhi access ki ja sakti hain, team members collaborate kar sakte hain, aur data loss ka risk kam hota hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Agar CAD software 'crash' ho jaye, toh kya best practice hai data loss se bachne ke liye?",
+      "options": {
+        "A": "Software ko reinstall karna",
+        "B": "Auto-save function enable karna aur regularly manual save karna",
+        "C": "Computer ko band kar dena",
+        "D": "Internet disconnect kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Auto-save aur frequent manual saves se aap data loss ke chances ko minimize kar sakte hain, even if the software crashes."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "'Version Control' system ka kya role hai CAD pattern development mein?",
+      "options": {
+        "A": "Sirf files ka color change karna",
+        "B": "Patterns ke different versions ko track karna aur changes ko manage karna",
+        "C": "Files ko permanently delete karna",
+        "D": "Internet access restrict karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Version control se aap pattern ke har modification ko track kar sakte hain, previous versions par wapas ja sakte hain, aur team collaboration ko streamline kar sakte hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "CAD pattern makers ko 'communication skills' kyon zaroori hain?",
+      "options": {
+        "A": "Sirf designer se baat karne ke liye",
+        "B": "Designers, production team aur other stakeholders ke saath effective collaboration ke liye",
+        "C": "Pattern ko delete karne ke liye",
+        "D": "Computer ko operate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Clear communication se design intent sahi tarike se convey hota hai aur production errors kam hote hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "CAD software ko regularly 'Update' karna kyon important hai?",
+      "options": {
+        "A": "Sirf naye bugs create karne ke liye",
+        "B": "New features, performance improvements aur bug fixes pane ke liye",
+        "C": "Software ko slow karne ke liye",
+        "D": "Files ka size badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Updates se software ki functionality aur security improve hoti hai, aur aap latest industry standards ke saath rehte hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "'Data Management' best practices mein kya shamil hai CAD patterns ke liye?",
+      "options": {
+        "A": "Files ko randomly save karna",
+        "B": "Consistent file naming conventions, organized folder structures aur regular backups",
+        "C": "Files ko delete karna",
+        "D": "Sirf ek hi file format use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Good data management se files easily findable, accessible aur secure rehti hain, jisse workflow efficient hota hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Industry 4.0 ke context mein, CAD for fashion ka 'future trend' kya ho sakta hai?",
+      "options": {
+        "A": "Manual pattern making ki taraf wapas jaana",
+        "B": "AI-powered design automation, 3D printing aur fully integrated digital workflows",
+        "C": "Software updates band kar dena",
+        "D": "Offline operations ko badhava dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Industry 4.0 mein smart technologies ka integration badh raha hai, jisse design se manufacturing tak poora process automated aur interconnected hoga."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar aapko ek pattern mein 'fit issue' milta hai production ke baad, toh CAD mein aap kya karenge?",
+      "options": {
+        "A": "Pattern ko delete kar denge",
+        "B": "Feedback ko analyze karenge aur digital pattern mein necessary adjustments karenge",
+        "C": "Naya pattern banayenge from scratch",
+        "D": "Software ko blame karenge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CAD software mein changes karna aasan hota hai, jisse aap quickly fit issues ko address kar sakte hain aur pattern ko improve kar sakte hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "CAD pattern making mein 'Intellectual Property (IP) Protection' kaise ensure ki jaati hai?",
+      "options": {
+        "A": "Patterns ko public domain mein publish karke",
+        "B": "Secure file storage, access control aur legal agreements ke through",
+        "C": "Patterns ko delete karke",
+        "D": "Unencrypted files share karke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Design IP ko protect karna bahut zaroori hai, iske liye secure systems aur legal frameworks ka use kiya jata hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "CAD pattern makers ko 'technical drawing standards' ki knowledge kyon honi chahiye?",
+      "options": {
+        "A": "Sirf artistic expression ke liye",
+        "B": "Industry-standard symbols, annotations aur conventions ko follow karne ke liye, jo clear communication ensure karte hain",
+        "C": "Pattern ko complex banane ke liye",
+        "D": "Software ko slow karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Standardized drawings se production team ko pattern instructions samajhne mein aasani hoti hai aur errors kam hote hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "CAD pattern making mein 'Sustainability' ko kaise promote kiya ja sakta hai?",
+      "options": {
+        "A": "Zyada fabric waste karke",
+        "B": "Optimized marker making se fabric waste kam karna aur virtual prototyping use karna",
+        "C": "Physical samples zyada banana",
+        "D": "Old software use karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CAD tools fabric utilization ko improve karte hain aur virtual samples se physical sample production kam hoti hai, jisse environmental impact reduce hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "CAD software mein 'Error Messages' ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Ignore kar dena chahiye",
+        "B": "Message ko padhna aur uske according troubleshooting steps lena",
+        "C": "Software ko turant band kar dena chahiye",
+        "D": "Computer restart kar dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Error messages valuable information provide karte hain ki problem kya hai aur use kaise theek kiya ja sakta hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Ek efficient CAD pattern making workflow ke liye 'Team Collaboration' kyon important hai?",
+      "options": {
+        "A": "Sirf gossip karne ke liye",
+        "B": "Designers, pattern makers aur production team ke beech seamless information exchange aur feedback cycle ke liye",
+        "C": "Individual work ko badhava dene ke liye",
+        "D": "Files ko hide karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Collaboration se poora product development cycle smooth hota hai, errors kam hote hain aur final product quality improve hoti hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "CAD for Fashion mein 'Continuous Learning' kyon zaroori hai?",
+      "options": {
+        "A": "Sirf time pass karne ke liye",
+        "B": "Naye software versions, industry trends aur advanced techniques ke saath updated rehne ke liye",
+        "C": "Purani techniques ko bhulne ke liye",
+        "D": "Job change karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fashion aur technology industries bahut rapidly evolve ho rahi hain, isliye continuous learning career growth aur relevancy ke liye essential hai."
+    }
+  ]
+}

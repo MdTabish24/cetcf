@@ -1,0 +1,1443 @@
+{
+  "course_name": "Data Analytics & Excel Advanced",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Excel Basics & Data Management",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Advanced Excel Functions & Formulas",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Data Visualization & Reporting in Excel",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Data Analysis Tools & Techniques in Excel",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Introduction to Data Analytics Concepts",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Data Cleaning, Validation & Best Practices",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which Excel feature helps in restricting data entry to a predefined list of values or a specific data type?",
+      "options": {
+        "A": "Conditional Formatting",
+        "B": "Data Validation",
+        "C": "Freeze Panes",
+        "D": "Text to Columns"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data Validation is used to control the type of data or the values that users enter into a cell, ensuring data integrity."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "To quickly apply the same formatting (e.g., font, color, borders) from one cell to multiple other cells, which tool would you use?",
+      "options": {
+        "A": "Format Painter",
+        "B": "AutoFill Handle",
+        "C": "Cell Styles",
+        "D": "Conditional Formatting"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The Format Painter tool allows users to copy formatting from one cell or range and apply it to another."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Which shortcut key is used to quickly select all data in a contiguous range around the active cell?",
+      "options": {
+        "A": "Ctrl + A",
+        "B": "Ctrl + C",
+        "C": "Ctrl + S",
+        "D": "Ctrl + V"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ctrl + A selects the entire current data region. If pressed again, it selects the entire worksheet."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "What is the primary purpose of using 'Freeze Panes' in Excel?",
+      "options": {
+        "A": "To lock specific cells from being edited",
+        "B": "To keep row and/or column headers visible while scrolling through large datasets",
+        "C": "To prevent formulas from being changed",
+        "D": "To hide specific rows or columns"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Freeze Panes allows you to lock specific rows and/or columns so that they remain visible as you scroll through the rest of the worksheet."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Which of the following data types would be most appropriate for a column storing employee salaries?",
+      "options": {
+        "A": "Text",
+        "B": "Date",
+        "C": "Currency",
+        "D": "General"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Currency format is specifically designed for monetary values, displaying them with a currency symbol and appropriate decimal places."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "When entering a long sequence of numbers (e.g., product IDs) that should not be treated as a numerical value for calculations, how should the cell be formatted to preserve leading zeros?",
+      "options": {
+        "A": "General",
+        "B": "Number",
+        "C": "Text",
+        "D": "Custom (00000)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Formatting a cell as 'Text' ensures that Excel treats the input as literal text, preserving leading zeros and preventing automatic conversion to numbers."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "You have a column of sales data, and you want to highlight all sales figures above a certain threshold in red. Which Excel feature is best suited for this task?",
+      "options": {
+        "A": "Cell Styles",
+        "B": "Format as Table",
+        "C": "Conditional Formatting",
+        "D": "Themes"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Conditional Formatting allows you to automatically apply formatting to cells based on specified conditions, such as values being above a certain threshold."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "What is the primary benefit of converting a range of data into an Excel Table?",
+      "options": {
+        "A": "It automatically creates charts.",
+        "B": "It provides built-in filtering, sorting, and structured references for formulas.",
+        "C": "It locks the data from further editing.",
+        "D": "It changes the workbook theme."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Excel Tables offer enhanced functionality like automatic filtering, sorting, banded rows, and structured references, making data management and formula creation easier."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Which of the following is NOT a standard option for aligning text within a cell in Excel?",
+      "options": {
+        "A": "Top Align",
+        "B": "Middle Align",
+        "C": "Justify Align",
+        "D": "Diagonal Align"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Excel offers horizontal (left, center, right) and vertical (top, middle, bottom) alignment. 'Justify' is also an option for text wrapping. 'Diagonal Align' is not a standard alignment option."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "You need to quickly fill a series of dates (e.g., every first day of the month) down a column. Which Excel feature would you use after entering the first two dates?",
+      "options": {
+        "A": "Flash Fill",
+        "B": "AutoFill Handle",
+        "C": "Go To Special",
+        "D": "Format Painter"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The AutoFill Handle (the small square at the bottom-right corner of a selected cell) allows you to extend a series of data like dates or numbers by dragging it."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "To ensure that a specific cell reference (e.g., C5) does not change when a formula is copied to other cells, which notation should be used?",
+      "options": {
+        "A": "C5",
+        "B": "$C$5",
+        "C": "C$5",
+        "D": "$C5"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Using '$C$5' creates an absolute reference, locking both the column and the row so they do not change when the formula is copied."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Which option allows you to combine two or more cells into a single larger cell?",
+      "options": {
+        "A": "Wrap Text",
+        "B": "Merge & Center",
+        "C": "Text to Columns",
+        "D": "Group"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Merge & Center combines selected cells into one larger cell and centers the content. Other merge options are also available."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "You have a large dataset and want to quickly reorder it based on multiple criteria (e.g., first by 'Region', then by 'Sales Amount' in descending order). Which Excel feature is most efficient?",
+      "options": {
+        "A": "Manual Drag and Drop",
+        "B": "Custom Sort",
+        "C": "Filter Buttons",
+        "D": "Find and Replace"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Custom Sort allows you to define multiple sorting levels, specifying the order and criteria for each level, which is ideal for multi-criteria sorting."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "What is the primary disadvantage of storing data in a single, unnormalized Excel sheet for analytical purposes?",
+      "options": {
+        "A": "It makes data entry too fast.",
+        "B": "It increases data redundancy and makes updates and maintenance challenging.",
+        "C": "It prevents the use of basic formulas.",
+        "D": "It requires more storage space than normalized data."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Unnormalized data often leads to redundancy, where the same information is repeated multiple times, making updates inconsistent and data analysis error-prone. While it might take up more space, the main issue is data integrity and maintenance."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "In Excel, if you want to display the current date and time that automatically updates every time the workbook is opened or recalculated, which function should you use?",
+      "options": {
+        "A": "=DATE()",
+        "B": "=TODAY()",
+        "C": "=NOW()",
+        "D": "=TIME()"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The NOW() function returns the current date and time, and it updates automatically whenever the worksheet is recalculated. TODAY() only returns the current date."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Which of the following is a common best practice for organizing data in Excel for analytical readiness?",
+      "options": {
+        "A": "Merging cells for all headers across the top of the sheet.",
+        "B": "Storing multiple distinct datasets on the same sheet without clear separation.",
+        "C": "Ensuring each column has a unique header and contains a single type of data.",
+        "D": "Using blank rows and columns to visually separate data."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "For analytical readiness, data should be in a 'tabular' format: each column representing a single variable with a unique header, and each row representing a single record. Merging cells, using blank rows/columns, or mixing datasets hinders automation and analysis."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "You have a column with employee IDs formatted as 'EMP-001', 'EMP-002', etc. What is the most efficient way to extract only the numeric part ('001', '002') for all IDs, assuming the prefix 'EMP-' is always the same length?",
+      "options": {
+        "A": "Using the 'Find and Replace' feature to remove 'EMP-'.",
+        "B": "Manually retyping each ID.",
+        "C": "Using 'Text to Columns' with a delimiter.",
+        "D": "Using the RIGHT function combined with LEN to extract the last characters."
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "The formula =RIGHT(A1, LEN(A1)-4) would extract the numeric part. LEN(A1) gets the total length, and subtracting 4 (for 'EMP-') gives the length of the suffix. Text to Columns could work if 'EMP-' was a delimiter, but RIGHT/LEN is more robust for fixed-length prefixes."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Which Excel function is used to look up a value in the first column of a table and return a value in the same row from a specified column?",
+      "options": {
+        "A": "HLOOKUP",
+        "B": "MATCH",
+        "C": "INDEX",
+        "D": "VLOOKUP"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "VLOOKUP (Vertical Lookup) searches for a value in the leftmost column of a table, and then returns a value in the same row from a column you specify."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "To count the number of cells in a range that meet a specific criterion (e.g., sales greater than 1000), which function would you use?",
+      "options": {
+        "A": "COUNT",
+        "B": "COUNTA",
+        "C": "COUNTIF",
+        "D": "SUMIF"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "COUNTIF counts the number of cells within a range that meet a single specified condition."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Which function is used to combine multiple text strings into one text string?",
+      "options": {
+        "A": "LEFT",
+        "B": "RIGHT",
+        "C": "CONCATENATE",
+        "D": "MID"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The CONCATENATE function (or the newer CONCAT/TEXTJOIN, or the ampersand '&' operator) joins two or more text strings into one."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "You need to find the average sales amount only for products belonging to the 'Electronics' category. Which function is most suitable?",
+      "options": {
+        "A": "AVERAGE",
+        "B": "AVERAGEIF",
+        "C": "SUMIF",
+        "D": "COUNTIF"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AVERAGEIF calculates the average of cells that meet a single specified criterion."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Which function allows you to perform different calculations based on whether a condition is true or false?",
+      "options": {
+        "A": "SUM",
+        "B": "IF",
+        "C": "AND",
+        "D": "OR"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The IF function checks whether a condition is met, and returns one value if true, and another value if false."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "In Excel, to extract the first 5 characters from a text string in cell A1, which formula would you use?",
+      "options": {
+        "A": "=RIGHT(A1,5)",
+        "B": "=MID(A1,1,5)",
+        "C": "=LEFT(A1,5)",
+        "D": "=TEXT(A1,5)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The LEFT function returns the specified number of characters from the beginning of a text string."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "You have a list of transaction IDs, some of which are duplicates. To count how many unique transaction IDs exist in a range (e.g., A1:A100), which combination of functions would be most effective?",
+      "options": {
+        "A": "COUNT(UNIQUE(A1:A100))",
+        "B": "COUNTIF(A1:A100, \"*\")",
+        "C": "SUM(1/COUNTIF(A1:A100,A1:A100)) as an array formula",
+        "D": "COUNTBLANK(A1:A100)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "The array formula SUM(1/COUNTIF(range,range)) is a classic method to count unique values in a range, especially in older Excel versions. Newer versions might use =COUNTA(UNIQUE(range))."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "What is the primary advantage of using INDEX MATCH over VLOOKUP for data retrieval?",
+      "options": {
+        "A": "INDEX MATCH is always faster for small datasets.",
+        "B": "INDEX MATCH can look up values to the left of the lookup column and is more flexible.",
+        "C": "VLOOKUP can only search for exact matches.",
+        "D": "INDEX MATCH does not require an exact match."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "INDEX MATCH is more flexible because the lookup column (MATCH) and the return column (INDEX) do not need to be adjacent, and the lookup column doesn't have to be the leftmost column, unlike VLOOKUP."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Which function would you use to calculate the number of working days between two dates, excluding weekends and specified holidays?",
+      "options": {
+        "A": "DAYS",
+        "B": "NETWORKDAYS",
+        "C": "DATEDIF",
+        "D": "WORKDAY"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "NETWORKDAYS calculates the number of whole working days between two dates, taking into account weekends and optionally a list of holidays."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "You have a column of text values, and some cells contain extra spaces at the beginning or end. Which function can be used to remove these unnecessary spaces?",
+      "options": {
+        "A": "CLEAN",
+        "B": "TRIM",
+        "C": "SUBSTITUTE",
+        "D": "FIND"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The TRIM function removes all spaces from text except for single spaces between words."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "To sum values in a range (e.g., sales) based on multiple criteria (e.g., 'Region = North' AND 'Product = Laptop'), which function should be used?",
+      "options": {
+        "A": "SUMIF",
+        "B": "SUMIFS",
+        "C": "SUMPRODUCT",
+        "D": "DSUM"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "SUMIFS is designed to sum values in a range that meet multiple criteria."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "If a formula returns an error (e.g., #N/A, #DIV/0!), and you want to display a custom message like 'Data Not Found' instead of the error, which function can you wrap around your original formula?",
+      "options": {
+        "A": "IFERROR",
+        "B": "ISERROR",
+        "C": "IFNA",
+        "D": "ERROR.TYPE"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "IFERROR checks if a formula results in an error. If it does, it returns a specified value; otherwise, it returns the result of the formula."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Which of the following functions allows you to join text strings from a range, with a specified delimiter between each item, and optionally ignore empty cells?",
+      "options": {
+        "A": "CONCAT",
+        "B": "CONCATENATE",
+        "C": "TEXTJOIN",
+        "D": "JOIN"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "TEXTJOIN is a newer Excel function (Excel 2016 and later) that allows you to combine text from multiple ranges, separating each item with a specified delimiter, and has an option to ignore empty cells."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "You have a list of employee IDs and their corresponding department in two separate tables. To retrieve the department for a specific employee ID, even if the department table is updated with new rows, which lookup function is generally considered more robust and flexible?",
+      "options": {
+        "A": "VLOOKUP",
+        "B": "HLOOKUP",
+        "C": "XLOOKUP",
+        "D": "MATCH"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "XLOOKUP (available in Excel 365 and Excel 2019+) is designed to be a more powerful and flexible replacement for VLOOKUP, HLOOKUP, and INDEX MATCH. It can look left or right, handle approximate and exact matches, and returns an error if no match is found, making it robust against column insertions/deletions."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "To find the row number of a specific item ('Product X') within a given range (e.g., A1:A100), which function would you use?",
+      "options": {
+        "A": "ROW",
+        "B": "MATCH",
+        "C": "FIND",
+        "D": "SEARCH"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The MATCH function searches for a specified item in a range of cells, and then returns the relative position of that item in the range."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Which logical function returns TRUE if all of its arguments are TRUE, and FALSE if one or more arguments are FALSE?",
+      "options": {
+        "A": "OR",
+        "B": "NOT",
+        "C": "IF",
+        "D": "AND"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The AND function checks if all conditions are true. If even one is false, the entire AND function returns FALSE."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "You have a column of numerical data, and you want to calculate the sum of the largest 3 values. Which combination of functions would achieve this?",
+      "options": {
+        "A": "SUM(MAX(range,3))",
+        "B": "SUM(LARGE(range,{1,2,3}))",
+        "C": "MAX(SUM(range,3))",
+        "D": "LARGE(range,3)"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The LARGE function returns the k-th largest value. By using it with an array constant {1,2,3} and wrapping it in SUM, you can sum the 1st, 2nd, and 3rd largest values. This often requires entering as an array formula (Ctrl+Shift+Enter) in older Excel versions, but may spill automatically in newer ones."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Which type of chart is best suited for showing the trend of sales revenue over a period of 12 months?",
+      "options": {
+        "A": "Pie Chart",
+        "B": "Bar Chart",
+        "C": "Line Chart",
+        "D": "Scatter Plot"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Line charts are ideal for displaying trends over time because they connect data points, making it easy to see changes and patterns."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "You want to visually compare the sales performance of different product categories for a single quarter. Which chart type would be most effective?",
+      "options": {
+        "A": "Scatter Plot",
+        "B": "Column Chart",
+        "C": "Area Chart",
+        "D": "Doughnut Chart"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Column charts are excellent for comparing discrete categories or values at a specific point in time."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "What is the primary purpose of adding a 'Data Label' to a chart?",
+      "options": {
+        "A": "To change the chart's title.",
+        "B": "To provide exact values for each data point.",
+        "C": "To add a legend to the chart.",
+        "D": "To change the chart's background color."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data labels display the actual values associated with each data point directly on the chart, making it easier to read specific figures."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Which chart element explains the different colors or patterns used for data series in a chart?",
+      "options": {
+        "A": "Chart Title",
+        "B": "Axis Titles",
+        "C": "Legend",
+        "D": "Data Table"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The legend identifies each data series plotted in the chart, typically by associating a color or pattern with a series name."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "When creating a dashboard in Excel, what is a key principle for effective design?",
+      "options": {
+        "A": "Include as many charts and data points as possible on a single screen.",
+        "B": "Use a wide variety of bright, contrasting colors to make it visually appealing.",
+        "C": "Focus on key performance indicators (KPIs) and keep it concise and easy to understand at a glance.",
+        "D": "Use small font sizes to maximize the amount of information displayed."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Effective dashboards prioritize clarity, conciseness, and focus on key information, allowing users to quickly grasp insights without being overwhelmed."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Which of the following is NOT typically considered a fundamental component of a well-designed Excel dashboard?",
+      "options": {
+        "A": "Interactive elements (e.g., Slicers)",
+        "B": "Clear and concise charts/graphs",
+        "C": "Raw data tables spanning multiple screens",
+        "D": "Key Performance Indicators (KPIs)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dashboards are meant for high-level summaries and quick insights, not for displaying large raw data tables. Raw data usually resides on separate sheets."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "You want to show the proportion of total sales contributed by each product category. Which chart type is most appropriate for this?",
+      "options": {
+        "A": "Line Chart",
+        "B": "Area Chart",
+        "C": "Pie Chart",
+        "D": "Stock Chart"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Pie charts are best for showing the proportion of parts to a whole, typically for a single data series."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "What is the main advantage of using Sparklines over regular charts in Excel reports?",
+      "options": {
+        "A": "They support 3D effects and complex animations.",
+        "B": "They are full-sized, standalone charts with many customization options.",
+        "C": "They are miniature charts displayed within a single cell, providing context at a glance.",
+        "D": "They can display multiple data series with different scales."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sparklines are small charts that fit into a single cell, providing a quick visual summary or trend for a row or column of data without taking up much space."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "To add an interactive filter to a chart that is linked to a PivotTable, allowing users to easily segment data by specific categories (e.g., 'Region' or 'Product Type'), which feature would you use?",
+      "options": {
+        "A": "Data Validation List",
+        "B": "Slicer",
+        "C": "Form Control Button",
+        "D": "Scroll Bar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slicers provide interactive buttons that allow users to filter data in PivotTables, PivotCharts, and Excel Tables, offering a more visual and user-friendly filtering experience."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "When designing a chart for a presentation, which principle emphasizes avoiding unnecessary elements that distract from the data?",
+      "options": {
+        "A": "Data Ink Ratio",
+        "B": "High Contrast",
+        "C": "3D Effects",
+        "D": "Data Overload"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "The 'data ink ratio' principle, coined by Edward Tufte, suggests that a high proportion of a graphic's ink should be devoted to the non-redundant display of data-information. Maximizing data ink and minimizing non-data ink improves clarity."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Which chart type is best for showing the relationship between two numerical variables (e.g., advertising spend vs. sales revenue)?",
+      "options": {
+        "A": "Bar Chart",
+        "B": "Pie Chart",
+        "C": "Scatter Plot",
+        "D": "Radar Chart"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Scatter plots are used to observe and show relationships between two different numeric data series, often revealing correlation patterns."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "If you want to create a chart that emphasizes the magnitude of change over time and also the total value across categories, which chart type might be suitable?",
+      "options": {
+        "A": "Stacked Column Chart",
+        "B": "Line Chart",
+        "C": "Doughnut Chart",
+        "D": "Waterfall Chart"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "A stacked column chart shows the composition of totals across categories or over time, allowing comparison of both individual segment contributions and the total height of the columns."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "To ensure that a chart always displays the latest data from a dynamic range (e.g., new rows added to a sales table), what is the most robust way to define the chart's data source?",
+      "options": {
+        "A": "Manually update the range every time data changes.",
+        "B": "Use a fixed cell range (e.g., A1:C1000).",
+        "C": "Convert the data into an Excel Table and reference the Table name.",
+        "D": "Copy and paste the chart to a new location."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "When data is converted to an Excel Table, its range automatically expands or contracts with new data entries. Referencing the Table name in charts or PivotTables ensures they dynamically update without manual adjustment."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Which feature allows you to display a small, context-rich chart within a single cell, often used for trend analysis without consuming much space?",
+      "options": {
+        "A": "Mini Charts",
+        "B": "Sparklines",
+        "C": "Data Bars",
+        "D": "Icon Sets"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sparklines are small charts in a worksheet cell that provide a visual representation of data."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "When creating a chart, if your data includes both positive and negative values for comparison (e.g., profit/loss per product), which chart type is generally recommended for clarity?",
+      "options": {
+        "A": "Pie Chart",
+        "B": "Line Chart",
+        "C": "Bar Chart (especially Clustered or Stacked)",
+        "D": "Area Chart"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bar charts (or column charts) are effective for comparing values, and they can easily represent both positive and negative values by extending above or below the axis."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is the main benefit of using a 'Timeline' in conjunction with a PivotTable or PivotChart?",
+      "options": {
+        "A": "It allows filtering data by numerical ranges.",
+        "B": "It provides an interactive way to filter data by date ranges.",
+        "C": "It helps in creating complex calculated fields.",
+        "D": "It automatically formats the PivotTable data."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Timelines are interactive filters specifically designed for date-based fields in PivotTables and PivotCharts, allowing users to easily filter data by years, quarters, months, or days."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "You are creating a dashboard and want to allow users to dynamically change the displayed metric (e.g., switch between 'Total Sales' and 'Average Profit') using a dropdown list. What Excel feature would you use to achieve this interactivity?",
+      "options": {
+        "A": "Data Validation List combined with an INDEX/MATCH or CHOOSE function.",
+        "B": "Conditional Formatting rules.",
+        "C": "A simple hyperlink to another sheet.",
+        "D": "Using the 'Watch Window' feature."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "This is a common dashboard technique. A Data Validation list creates the dropdown. The selected item from the list is then used within an INDEX/MATCH or CHOOSE formula to dynamically pull the corresponding data or calculation into the chart's source range."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which Excel tool is used to summarize, analyze, explore, and present summary data from large datasets?",
+      "options": {
+        "A": "Data Validation",
+        "B": "Conditional Formatting",
+        "C": "PivotTable",
+        "D": "Goal Seek"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "PivotTables are powerful tools for summarizing and analyzing large amounts of data, allowing users to quickly rearrange and aggregate information."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "In a PivotTable, if you drag a field into the 'Values' area, what is the default aggregation function typically applied to numerical data?",
+      "options": {
+        "A": "Count",
+        "B": "Average",
+        "C": "Sum",
+        "D": "Max"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "By default, if you drag a numerical field to the 'Values' area, Excel will sum the values. For text fields, it will count them."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Which 'What-If Analysis' tool in Excel is used to find the input value needed to achieve a specific target result for a formula?",
+      "options": {
+        "A": "Scenario Manager",
+        "B": "Data Table",
+        "C": "Goal Seek",
+        "D": "Solver"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Goal Seek works backward from a desired result to find the input value that produces that result."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "To quickly see descriptive statistics (e.g., Mean, Median, Mode, Standard Deviation) for a range of data without manually calculating each, which Excel add-in feature can be used?",
+      "options": {
+        "A": "Power Query",
+        "B": "Data Analysis ToolPak",
+        "C": "Solver Add-in",
+        "D": "Power Pivot"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Data Analysis ToolPak is an Excel add-in that provides various statistical analysis tools, including Descriptive Statistics, which generates a report of key statistical measures."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Which PivotTable area allows you to filter the entire PivotTable based on one or more fields?",
+      "options": {
+        "A": "Rows",
+        "B": "Columns",
+        "C": "Values",
+        "D": "Filters"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Fields placed in the 'Filters' area (also known as 'Report Filter' in older versions) allow you to apply a filter to the entire PivotTable."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "You have a sales report and want to analyze how total sales would change if both the unit price and the discount percentage varied simultaneously. Which 'What-If Analysis' tool is ideal for this two-variable sensitivity analysis?",
+      "options": {
+        "A": "Goal Seek",
+        "B": "Scenario Manager",
+        "C": "Data Table (Two-variable)",
+        "D": "Solver"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A two-variable Data Table is specifically designed to show how changing two input values affects a single formula's result, displaying all possible outcomes in a table."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "What is a 'Calculated Field' in a PivotTable?",
+      "options": {
+        "A": "A field that automatically sums all other fields.",
+        "B": "A field created using a formula that operates on other fields within the PivotTable.",
+        "C": "A field that displays the grand total only.",
+        "D": "A field that allows direct data entry into the PivotTable."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Calculated Field allows you to create new fields in a PivotTable by applying a formula to existing fields, enabling custom aggregations or derivations."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Which 'What-If Analysis' tool allows you to save and switch between different sets of input values (scenarios) to see their impact on results?",
+      "options": {
+        "A": "Goal Seek",
+        "B": "Scenario Manager",
+        "C": "Data Table",
+        "D": "Forecast Sheet"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scenario Manager lets you create and save different groups of values (scenarios) and then switch between them to compare their effects on your results."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "When creating a PivotTable from external data sources (e.g., databases, web services), which Excel feature is commonly used to import and transform the data before creating the PivotTable?",
+      "options": {
+        "A": "Macros",
+        "B": "VBA Editor",
+        "C": "Power Query",
+        "D": "Screenshot tool"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Power Query (Get & Transform Data) is a powerful Excel tool used for importing, cleaning, and transforming data from various sources, making it ready for analysis in PivotTables or other Excel features."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "What is the primary function of the 'Solver' add-in in Excel?",
+      "options": {
+        "A": "To solve complex mathematical equations with a single unknown.",
+        "B": "To find the optimal (maximum or minimum) value for a formula subject to constraints.",
+        "C": "To quickly calculate averages and sums.",
+        "D": "To create interactive dashboards."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Solver is an optimization tool that finds the best solution (maximum, minimum, or a specific value) for a formula in one cell (the objective cell) by changing values in other cells, subject to limits or constraints."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "You have a PivotTable showing sales by 'Region' and 'Product'. If you want to see the percentage of total sales each product contributes within its respective region, which 'Show Values As' option would you select?",
+      "options": {
+        "A": "Percentage of Grand Total",
+        "B": "Percentage of Column Total",
+        "C": "Percentage of Row Total",
+        "D": "Percentage of Parent Row Total"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Percentage of Parent Row Total calculates the value as a percentage of the total for the parent item in the row field. In this case, 'Region' would be the parent row, and 'Product' would be the child item, showing product contribution within each region."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Which option allows you to group dates in a PivotTable into categories like 'Years', 'Quarters', or 'Months'?",
+      "options": {
+        "A": "Date Validation",
+        "B": "Group Selection",
+        "C": "Conditional Formatting",
+        "D": "Format Cells"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "When you have a date field in a PivotTable, you can right-click on it and choose 'Group' to group dates by various time increments like years, quarters, months, or days."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "To perform a simple linear regression analysis to understand the relationship between two variables (e.g., marketing spend and sales), which Data Analysis ToolPak feature would you use?",
+      "options": {
+        "A": "Descriptive Statistics",
+        "B": "Correlation",
+        "C": "Regression",
+        "D": "ANOVA"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Regression tool in the Data Analysis ToolPak performs linear regression analysis, providing coefficients, R-squared values, and other statistics to model the relationship between variables."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "What is the main benefit of using a PivotChart instead of a regular Excel chart when working with summarized data?",
+      "options": {
+        "A": "PivotCharts are always visually more appealing.",
+        "B": "PivotCharts automatically update and reflect changes made to their associated PivotTable.",
+        "C": "PivotCharts can be directly edited with raw data.",
+        "D": "PivotCharts can only display one data series at a time."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PivotCharts are dynamic; they are directly linked to a PivotTable and automatically update when you filter, sort, expand, or collapse data in the PivotTable."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "You want to create a frequency distribution for customer ages. Which Data Analysis ToolPak feature would be most suitable?",
+      "options": {
+        "A": "Regression",
+        "B": "Histogram",
+        "C": "ANOVA",
+        "D": "t-Test"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Histogram tool in the Data Analysis ToolPak calculates individual and cumulative frequencies for a data range and groups them into specified 'bins'."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "If you have a PivotTable and want to see the detailed raw data that makes up a specific aggregated value (e.g., a total for a specific product), what is the quickest way to do this?",
+      "options": {
+        "A": "Use the 'Show Details' button in the PivotTable Analyze tab.",
+        "B": "Double-click on the aggregated value in the PivotTable.",
+        "C": "Right-click on the value and select 'Show Value As'.",
+        "D": "Filter the original data source manually."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Double-clicking on any aggregated value (a cell in the 'Values' area) within a PivotTable will open a new sheet displaying all the underlying raw data records that contribute to that specific aggregated value."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Which of the following is a common issue when using the Data Analysis ToolPak, especially for large datasets?",
+      "options": {
+        "A": "It automatically formats the output into a visually appealing dashboard.",
+        "B": "It often requires manual data cleaning before use, as it doesn't handle missing or inconsistent data well.",
+        "C": "It can only perform analysis on a single column of data at a time.",
+        "D": "It requires an internet connection to function."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The Data Analysis ToolPak is a powerful statistical tool, but it's not designed for data cleaning or transformation. Users must ensure their data is clean, complete, and correctly formatted before using its functions, as it's sensitive to missing values, text in numeric columns, etc."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "What is the primary goal of Data Analytics?",
+      "options": {
+        "A": "To store large amounts of data.",
+        "B": "To create visually appealing reports.",
+        "C": "To extract insights and make informed decisions from data.",
+        "D": "To automate data entry processes."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Data Analytics focuses on examining raw data to uncover underlying trends, patterns, and insights that can drive better decision-making."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Which type of data analytics answers the question 'What happened?' by summarizing past data?",
+      "options": {
+        "A": "Predictive Analytics",
+        "B": "Prescriptive Analytics",
+        "C": "Descriptive Analytics",
+        "D": "Diagnostic Analytics"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Descriptive analytics describes or summarizes historical data to reveal 'what happened'."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Which of the following is an example of 'Quantitative Data'?",
+      "options": {
+        "A": "Customer names",
+        "B": "Product categories",
+        "C": "Sales revenue",
+        "D": "Employee IDs"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Quantitative data represents numerical values that can be measured or counted, such as sales revenue, age, or quantity."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "What is the 'Mean' in statistics?",
+      "options": {
+        "A": "The middle value in a sorted dataset.",
+        "B": "The most frequently occurring value in a dataset.",
+        "C": "The average of all values in a dataset.",
+        "D": "The difference between the highest and lowest values."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The mean is calculated by summing all values in a dataset and dividing by the number of values, representing the average."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Which data analytics type aims to answer 'Why did it happen?' by exploring the root causes of past events?",
+      "options": {
+        "A": "Descriptive Analytics",
+        "B": "Diagnostic Analytics",
+        "C": "Predictive Analytics",
+        "D": "Prescriptive Analytics"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Diagnostic analytics goes beyond simply describing what happened to explain 'why' it happened, often by drilling down into data."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "What is the 'Median' in statistics?",
+      "options": {
+        "A": "The average value.",
+        "B": "The value that appears most often.",
+        "C": "The middle value of a dataset when ordered from least to greatest.",
+        "D": "The spread of data points from the mean."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The median is the middle value in a numerically ordered dataset. If there's an even number of values, it's the average of the two middle values."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Which of the following is NOT a common stage in the data analytics lifecycle?",
+      "options": {
+        "A": "Data Collection",
+        "B": "Data Cleaning",
+        "C": "Data Deployment",
+        "D": "Data Destruction"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Common stages include data collection, cleaning, analysis, modeling, visualization, and deployment. 'Data Destruction' is not a typical stage in the analytical process itself."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "If you are trying to forecast future sales based on historical data, which type of analytics are you primarily performing?",
+      "options": {
+        "A": "Descriptive Analytics",
+        "B": "Diagnostic Analytics",
+        "C": "Predictive Analytics",
+        "D": "Prescriptive Analytics"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Predictive analytics uses statistical models and forecasting techniques to understand 'what could happen' in the future."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Which term refers to data that can be categorized but does not have a natural order or ranking (e.g., colors, gender)?",
+      "options": {
+        "A": "Ordinal Data",
+        "B": "Interval Data",
+        "C": "Nominal Data",
+        "D": "Ratio Data"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Nominal data is a type of qualitative data that categorizes items without any inherent order or numerical meaning."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "What is the 'Mode' in statistics?",
+      "options": {
+        "A": "The average of the dataset.",
+        "B": "The value that appears most frequently in a dataset.",
+        "C": "The middle value of the dataset.",
+        "D": "The smallest value in the dataset."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The mode is the value that occurs with the highest frequency in a dataset."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "What is the main challenge associated with collecting data from multiple, disparate sources for analysis?",
+      "options": {
+        "A": "Data is always perfectly consistent across sources.",
+        "B": "Ensuring data quality, consistency, and integration across different formats and structures.",
+        "C": "It is always faster than collecting from a single source.",
+        "D": "It requires specialized programming knowledge for simple tasks."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Integrating data from multiple sources often involves dealing with inconsistent formats, varying data definitions, duplicates, and quality issues, which requires significant cleaning and transformation efforts."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Which type of data analytics recommends actions to take to achieve a desired outcome, answering 'What should we do?'",
+      "options": {
+        "A": "Descriptive Analytics",
+        "B": "Diagnostic Analytics",
+        "C": "Predictive Analytics",
+        "D": "Prescriptive Analytics"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Prescriptive analytics suggests specific actions to take by recommending one or more courses of action and showing the likely outcome of each."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "What does 'Standard Deviation' measure in a dataset?",
+      "options": {
+        "A": "The central tendency of the data.",
+        "B": "The total sum of all data points.",
+        "C": "The average distance of each data point from the mean, indicating data dispersion.",
+        "D": "The difference between the maximum and minimum values."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Standard deviation measures the average amount of variability or dispersion in a dataset. A low standard deviation indicates that data points are generally close to the mean, while a high standard deviation indicates wider spread."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "In the context of data analytics, what does 'ETL' stand for?",
+      "options": {
+        "A": "Execute, Transform, Load",
+        "B": "Extract, Transform, Load",
+        "C": "Evaluate, Test, Learn",
+        "D": "Enter, Transcribe, Link"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ETL stands for Extract, Transform, Load, which is a process in data warehousing that extracts data from sources, transforms it to fit business needs, and loads it into a target system."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Which concept describes data that can be categorized and has a natural order or ranking, but the difference between categories is not quantifiable (e.g., customer satisfaction ratings: 'Poor', 'Good', 'Excellent')?",
+      "options": {
+        "A": "Nominal Data",
+        "B": "Ordinal Data",
+        "C": "Interval Data",
+        "D": "Ratio Data"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ordinal data has categories with a meaningful order, but the intervals between ranks may not be equal or quantifiable. For example, 'Good' is better than 'Poor', but the 'amount' of betterment isn't precisely measured."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Why is 'data governance' crucial in a data analytics environment?",
+      "options": {
+        "A": "It speeds up data entry by automating tasks.",
+        "B": "It solely focuses on generating colorful charts.",
+        "C": "It ensures data quality, security, compliance, and usability throughout its lifecycle.",
+        "D": "It eliminates the need for data cleaning."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Data governance establishes policies and procedures for managing data assets, ensuring data quality, security, privacy, and compliance with regulations, which are all critical for reliable analytics."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is the primary goal of data cleaning in the analytics process?",
+      "options": {
+        "A": "To make data visually appealing.",
+        "B": "To remove errors, inconsistencies, and inaccuracies from data.",
+        "C": "To compress data for efficient storage.",
+        "D": "To encrypt sensitive information."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data cleaning (or data scrubbing) involves identifying and correcting or removing erroneous, incomplete, incorrectly formatted, or irrelevant data."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Which Excel feature helps in identifying and removing identical rows of data from a range or table?",
+      "options": {
+        "A": "Find & Replace",
+        "B": "Conditional Formatting",
+        "C": "Remove Duplicates",
+        "D": "Text to Columns"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Remove Duplicates' feature in Excel allows you to delete duplicate rows based on selected columns."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "You have a column of product codes, but some cells are empty. What is a common strategy for handling these 'missing values'?",
+      "options": {
+        "A": "Ignore them completely and proceed with analysis.",
+        "B": "Delete the entire column.",
+        "C": "Impute them with a calculated value (e.g., mean, median) or remove the rows/columns.",
+        "D": "Highlight them in red and do nothing else."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Common strategies for handling missing values include deleting rows/columns with too much missing data, or imputing (filling in) values using statistical methods like mean, median, or mode, or predictive models."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Which Excel tool can be used to separate a single column of text (e.g., 'Firstname Lastname') into multiple columns (e.g., 'Firstname', 'Lastname') based on a delimiter?",
+      "options": {
+        "A": "Flash Fill",
+        "B": "Text to Columns",
+        "C": "CONCATENATE",
+        "D": "Remove Duplicates"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Text to Columns allows you to split the contents of one cell into separate columns, either by a delimiter (like a space or comma) or by fixed width."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "What is the primary benefit of implementing data validation rules on input cells?",
+      "options": {
+        "A": "It automatically corrects all data errors.",
+        "B": "It prevents incorrect or invalid data from being entered, improving data quality.",
+        "C": "It speeds up the data entry process significantly.",
+        "D": "It encrypts the data for security."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data validation helps maintain data integrity by defining rules for what can be entered into a cell, thus preventing errors at the source."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "You have a column of dates, but some are entered as text (e.g., '15-Jan-2023') and others as actual date values. What is a common challenge this inconsistency poses for analysis?",
+      "options": {
+        "A": "It makes the data visually more appealing.",
+        "B": "Excel will automatically convert all text dates to proper dates.",
+        "C": "Date calculations (e.g., NETWORKDAYS, DATEDIF) will produce errors or incorrect results.",
+        "D": "It prevents the use of VLOOKUP."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Inconsistent date formats can prevent Excel from recognizing them as actual dates, leading to errors in date-based calculations and sorting issues. Manual conversion or using functions like DATEVALUE might be needed."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Which Excel feature intelligently fills data based on patterns it detects in your existing data, often used for quick data transformation without formulas?",
+      "options": {
+        "A": "AutoSum",
+        "B": "AutoFill",
+        "C": "Flash Fill",
+        "D": "Goal Seek"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Flash Fill automatically fills in values when it detects a pattern from other values in your worksheet, making it very useful for splitting or combining text, or reformatting data."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "When working with sensitive customer data, what is a crucial best practice regarding data privacy?",
+      "options": {
+        "A": "Share the data freely with all colleagues for collaboration.",
+        "B": "Store it on unencrypted public cloud services.",
+        "C": "Anonymize or pseudonymize data where possible and restrict access to authorized personnel only.",
+        "D": "Include full names and addresses in all public reports."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Data privacy best practices include minimizing the collection of personally identifiable information (PII), anonymizing or pseudonymizing data, implementing access controls, and complying with regulations like GDPR or local data protection laws."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "What is an 'outlier' in a dataset, and why might it be important to identify them during data cleaning?",
+      "options": {
+        "A": "A data point that is exactly the same as the mean, which can be ignored.",
+        "B": "A data point that is significantly different from other data points, potentially indicating an error or an unusual event.",
+        "C": "A missing value that must always be deleted.",
+        "D": "A data point that represents the mode of the dataset."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Outliers are data points that lie an abnormal distance from other values. They are important to identify because they can be errors (and need cleaning) or genuine but unusual observations that might significantly skew statistical analysis or model results."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "To ensure that all text entries in a column are converted to uppercase for consistency, which function would you apply?",
+      "options": {
+        "A": "PROPER",
+        "B": "LOWER",
+        "C": "UPPER",
+        "D": "CAPITALIZE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The UPPER function converts all letters in a text string to uppercase."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Why is it generally considered bad practice to store multiple distinct datasets on the same Excel sheet without clear separation (e.g., using blank rows/columns)?",
+      "options": {
+        "A": "It makes the file size too large.",
+        "B": "It complicates data analysis tools like PivotTables and filters, and can lead to incorrect results.",
+        "C": "It is visually unappealing.",
+        "D": "It prevents the use of conditional formatting."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Analytical tools in Excel (like PivotTables, Sort & Filter, Power Query) are designed to work with single, contiguous datasets. Mixing multiple datasets on one sheet hinders their functionality and can lead to errors in aggregation or filtering."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Which of the following describes 'data integrity'?",
+      "options": {
+        "A": "The speed at which data can be accessed.",
+        "B": "The security measures protecting data from unauthorized access.",
+        "C": "The accuracy, consistency, and reliability of data over its lifecycle.",
+        "D": "The physical location where data is stored."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Data integrity refers to the overall completeness, accuracy, and consistency of data. High data integrity is crucial for reliable analysis and decision-making."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "You have a column of numerical IDs, but some contain accidental spaces (e.g., '123 456'). Which combination of functions would effectively remove all spaces from these IDs?",
+      "options": {
+        "A": "TRIM()",
+        "B": "CLEAN()",
+        "C": "SUBSTITUTE(A1, \" \", \"\")",
+        "D": "LEFT() & RIGHT()"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "TRIM() removes leading/trailing spaces and reduces multiple spaces between words to a single space. SUBSTITUTE(text, old_text, new_text) is required to remove ALL occurrences of a specific character (like a space) from within a text string."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "What is the importance of documenting your data cleaning and transformation steps?",
+      "options": {
+        "A": "It is only necessary for very complex projects.",
+        "B": "It allows others to understand, replicate, and audit your work, ensuring transparency and reproducibility.",
+        "C": "It prevents the data from being changed later.",
+        "D": "It is a legal requirement for all data analysis projects."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Documenting cleaning steps is crucial for reproducibility, collaboration, and auditing. It ensures that the process can be understood, verified, and reapplied if the source data changes or needs to be re-processed by someone else."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Which Excel feature helps in finding and highlighting cells that contain formula errors (e.g., #DIV/0!, #N/A)?",
+      "options": {
+        "A": "Formula Auditing tools (e.g., Trace Precedents/Dependents)",
+        "B": "Error Checking (in the Formulas tab)",
+        "C": "Go To Special > Formulas > Errors",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "All these options can help identify formula errors. Formula Auditing tools visually show relationships, Error Checking systematically checks the sheet, and Go To Special allows direct selection of error cells."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "When sharing an Excel report or dashboard with stakeholders, what is a best practice to protect the underlying data and formulas while still allowing interaction?",
+      "options": {
+        "A": "Copy and paste the entire workbook as values to remove all formulas.",
+        "B": "Password-protect the entire workbook and share the password openly.",
+        "C": "Hide worksheets with raw data, protect sheets/workbook structure, and use password protection for editing.",
+        "D": "Delete all data and send an empty template."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Hiding sheets, protecting sheets (to prevent changes to cells, objects, or scenarios), and protecting workbook structure (to prevent deletion/insertion of sheets) are common best practices. Password protection adds an extra layer of security, especially when combined with restricted permissions for different user groups."
+    }
+  ]
+}

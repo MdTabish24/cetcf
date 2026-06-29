@@ -1,0 +1,1443 @@
+{
+  "course_name": "Ethical Hacking & Cyber Awareness",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Intermediate",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Ethical Hacking & Cyber Security Fundamentals",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Footprinting & Reconnaissance",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Scanning Networks & Vulnerability Analysis",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "System Hacking & Malware Threats",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Web Application Hacking & Wireless Security",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Cyber Awareness, Incident Response & Security Best Practices",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which of the following best describes an 'ethical hacker'?",
+      "options": {
+        "A": "A hacker who breaks into systems without permission to steal data.",
+        "B": "A security professional who legally and legitimately attempts to find vulnerabilities in systems with permission.",
+        "C": "A programmer who develops secure software applications.",
+        "D": "An individual who creates malware to test antivirus software."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "An ethical hacker, also known as a 'white hat' hacker, is a security professional who uses hacking techniques to identify vulnerabilities in systems, but always with explicit permission from the owner and with the goal of improving security."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "What is the primary goal of a 'Black Hat' hacker?",
+      "options": {
+        "A": "To improve an organization's security posture.",
+        "B": "To identify vulnerabilities for responsible disclosure.",
+        "C": "To gain unauthorized access for malicious purposes or personal gain.",
+        "D": "To develop new security tools and technologies."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Black hat hackers are individuals who use their skills to gain unauthorized access to systems with malicious intent, such as data theft, financial fraud, or system disruption."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Which phase of ethical hacking involves understanding the target's infrastructure, network topology, and potential vulnerabilities without directly interacting with the system?",
+      "options": {
+        "A": "Gaining Access",
+        "B": "Maintaining Access",
+        "C": "Reconnaissance",
+        "D": "Covering Tracks"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Reconnaissance is the initial phase where an ethical hacker gathers as much information as possible about the target system or network using various passive and active techniques, without directly exploiting vulnerabilities."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "What is 'Confidentiality' in the context of the CIA Triad of information security?",
+      "options": {
+        "A": "Ensuring that information is accessible only to authorized individuals.",
+        "B": "Ensuring that information is accurate and free from unauthorized modification.",
+        "C": "Ensuring that information is available when needed by authorized users.",
+        "D": "Ensuring that all data is encrypted at rest and in transit."
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Confidentiality, in the CIA Triad, means protecting information from unauthorized access and disclosure, ensuring that only those with proper authorization can view it."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Which term describes a software flaw or weakness in a system that can be exploited by an attacker?",
+      "options": {
+        "A": "Exploit",
+        "B": "Vulnerability",
+        "C": "Payload",
+        "D": "Backdoor"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A vulnerability is a weakness in a system, software, or hardware that can be exploited by a threat actor to compromise the system's security."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Why is 'maintaining access' an important phase for an ethical hacker during a penetration test?",
+      "options": {
+        "A": "To ensure the vulnerability is permanently patched.",
+        "B": "To simulate an attacker's persistent presence in a compromised system.",
+        "C": "To gather additional information about the client's business operations.",
+        "D": "To install a new operating system on the target."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Maintaining access involves establishing persistent control over a compromised system, simulating how a real attacker might continue to exploit the system over time, even after initial access is gained. This helps assess the long-term impact of a breach."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "What is the legal implication for an individual who performs a penetration test without prior written consent from the target organization?",
+      "options": {
+        "A": "It is considered an ethical hacking exercise.",
+        "B": "It is generally considered illegal and can lead to criminal charges.",
+        "C": "It is acceptable if no data is stolen or modified.",
+        "D": "It falls under the scope of 'responsible disclosure'."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Performing any form of penetration testing or security assessment on a system without explicit, written permission is illegal and can result in severe legal consequences, regardless of intent."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Which type of hacking is characterized by individuals who exploit vulnerabilities for personal challenge or to disclose them publicly without prior notification, often without malicious intent?",
+      "options": {
+        "A": "Black Hat Hacking",
+        "B": "White Hat Hacking",
+        "C": "Grey Hat Hacking",
+        "D": "Red Team Hacking"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Grey hat hackers operate in a grey area, often finding vulnerabilities without permission but then disclosing them publicly or to the owner, sometimes requesting a fee, rather than exploiting them for direct malicious gain. Their ethics are ambiguous."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "What is the primary purpose of a 'penetration test'?",
+      "options": {
+        "A": "To install security patches on systems.",
+        "B": "To identify and exploit vulnerabilities in a system or network to assess its security posture.",
+        "C": "To monitor network traffic for anomalous behavior.",
+        "D": "To develop new encryption algorithms."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A penetration test is a simulated cyberattack against a computer system, network, or web application to check for exploitable vulnerabilities. The goal is to identify weaknesses before malicious attackers can find and exploit them."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Which of the following is NOT a core principle of ethical hacking?",
+      "options": {
+        "A": "Respecting privacy and confidentiality.",
+        "B": "Obtaining explicit permission before testing.",
+        "C": "Reporting all findings responsibly.",
+        "D": "Exploiting vulnerabilities for financial gain."
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Ethical hacking explicitly prohibits exploiting vulnerabilities for personal or financial gain. Its core principles revolve around permission, legality, responsible disclosure, and privacy."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What does 'Integrity' mean in the context of the CIA Triad?",
+      "options": {
+        "A": "Ensuring data is accessible when needed.",
+        "B": "Ensuring data is accurate, consistent, and protected from unauthorized modification.",
+        "C": "Ensuring only authorized users can access data.",
+        "D": "Ensuring data is backed up regularly."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Integrity ensures that information is accurate, complete, and has not been altered by unauthorized parties. It protects against improper modification or destruction of information."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "In the context of incident response, what is the 'Containment' phase primarily focused on?",
+      "options": {
+        "A": "Identifying the root cause of the incident.",
+        "B": "Limiting the scope and impact of a security incident.",
+        "C": "Restoring systems to normal operation.",
+        "D": "Documenting the incident for future reference."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The containment phase aims to stop the spread of an attack, isolate affected systems, and prevent further damage. This is a critical step before eradication and recovery."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Which term refers to a piece of code, data, or sequence of commands that takes advantage of a bug or vulnerability to cause unintended or unanticipated behavior to occur on computer software, hardware, or something electronic?",
+      "options": {
+        "A": "Malware",
+        "B": "Rootkit",
+        "C": "Exploit",
+        "D": "Trojan"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "An exploit is a software, piece of data, or sequence of commands that takes advantage of a bug or vulnerability in order to cause unintended or unanticipated behavior to occur on computer software, hardware, or something electronic."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "A 'threat actor' is best defined as:",
+      "options": {
+        "A": "A vulnerability within a system.",
+        "B": "A potential danger that might exploit a vulnerability.",
+        "C": "An individual or group that poses a risk to an organization's security.",
+        "D": "A security control mechanism."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A threat actor (or malicious actor) is an individual or a group that is responsible for a security incident or has the potential to compromise an organization's security."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "What is 'Availability' in the context of the CIA Triad?",
+      "options": {
+        "A": "Ensuring data is encrypted at all times.",
+        "B": "Ensuring information and resources are accessible to authorized users when needed.",
+        "C": "Ensuring data is accurate and complete.",
+        "D": "Ensuring data is stored in multiple locations."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Availability ensures that authorized users can access information and resources whenever they need them. This includes protecting against denial-of-service attacks and ensuring proper system maintenance."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Which of the following describes the ethical hacker's role in a 'Red Team' exercise?",
+      "options": {
+        "A": "To defend the network against attacks.",
+        "B": "To simulate an adversary's attack against an organization's security controls.",
+        "C": "To develop and implement security policies.",
+        "D": "To perform vulnerability scanning and reporting."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Red Team simulates a real-world adversary, attempting to bypass an organization's security controls and achieve specific objectives, testing the effectiveness of the Blue Team (defenders) and overall security posture."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Why is 'documentation' crucial in ethical hacking and penetration testing?",
+      "options": {
+        "A": "To prove that vulnerabilities exist to the client.",
+        "B": "To provide a detailed report of findings, steps taken, and recommendations for remediation.",
+        "C": "To keep a personal record of all discovered exploits.",
+        "D": "To demonstrate compliance with legal requirements for system access."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Documentation is vital for ethical hacking projects. It provides a comprehensive record of the scope, methodologies, findings, exploited vulnerabilities, and actionable recommendations for the client to improve their security."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "What is 'Footprinting' in ethical hacking?",
+      "options": {
+        "A": "The process of gaining root access to a system.",
+        "B": "The process of collecting information about a target system or network before launching an attack.",
+        "C": "The process of patching vulnerabilities after they are discovered.",
+        "D": "The process of analyzing network traffic for malicious activity."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Footprinting is the initial phase of information gathering, where an attacker or ethical hacker collects as much data as possible about the target, including its domain, network range, employee details, etc., without directly interacting with the target's systems."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Which of the following is an example of 'passive reconnaissance'?",
+      "options": {
+        "A": "Port scanning a target server.",
+        "B": "Sending crafted packets to identify open ports.",
+        "C": "Searching public records like WHOIS or social media for information.",
+        "D": "Attempting to log in to a web application."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Passive reconnaissance involves gathering information about a target without directly interacting with it, thus minimizing the chances of detection. Examples include searching public databases, social media, or news articles."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "What kind of information can be typically obtained using a 'WHOIS' lookup?",
+      "options": {
+        "A": "Open ports on a server.",
+        "B": "Domain registration details, including owner contact information and DNS servers.",
+        "C": "Operating system type and version.",
+        "D": "Active user sessions on a web application."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "WHOIS is a protocol that queries a database to determine the owner of a domain name or IP address. It can reveal registrant name, organization, contact details, creation/expiration dates, and associated DNS servers."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Which Google dork query would you use to find publicly accessible Excel files (.xls) on a specific domain (example.com)?",
+      "options": {
+        "A": "site:example.com filetype:pdf",
+        "B": "site:example.com filetype:xls",
+        "C": "inurl:example.com intitle:xls",
+        "D": "cache:example.com filetype:xls"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Google dorking uses advanced search operators. 'site:example.com' restricts the search to a specific domain, and 'filetype:xls' filters results to only include Excel files."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "What is 'DNS enumeration' primarily used for during reconnaissance?",
+      "options": {
+        "A": "To identify open ports on a server.",
+        "B": "To discover hostnames, IP addresses, and mail servers associated with a domain.",
+        "C": "To determine the operating system of a target machine.",
+        "D": "To scan for wireless access points."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "DNS enumeration involves querying DNS records (like A, MX, NS, SRV, TXT records) to gather information about a target's domain, including subdomains, associated IP addresses, mail servers, and potentially internal network structure."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Which tool is commonly used for DNS enumeration?",
+      "options": {
+        "A": "Nmap",
+        "B": "Wireshark",
+        "C": "Dig / Nslookup",
+        "D": "Metasploit"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Dig (Domain Information Groper) and Nslookup are command-line tools used for querying DNS servers and performing DNS lookups, making them primary tools for DNS enumeration."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "What is the risk associated with publicly available employee information (e.g., on LinkedIn) during the footprinting phase?",
+      "options": {
+        "A": "It can lead to direct system compromise.",
+        "B": "It can be used for social engineering attacks like phishing or pretexting.",
+        "C": "It helps identify open network ports.",
+        "D": "It reveals encrypted passwords."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Publicly available employee information (names, roles, email addresses, interests) is highly valuable for social engineering. Attackers can use this data to craft convincing phishing emails, impersonate individuals, or build trust for pretexting attacks."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Which type of reconnaissance involves direct interaction with the target system or network, potentially leaving traces?",
+      "options": {
+        "A": "Passive reconnaissance",
+        "B": "Open-source intelligence (OSINT)",
+        "C": "Active reconnaissance",
+        "D": "Social engineering"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Active reconnaissance involves directly engaging with the target, such as port scanning, ping sweeps, or banner grabbing. This interaction can potentially trigger alarms or leave logs, increasing the chance of detection."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "What is the purpose of using 'traceroute' during reconnaissance?",
+      "options": {
+        "A": "To identify open ports on a target host.",
+        "B": "To map the network path between the attacker and the target, revealing routers and hops.",
+        "C": "To capture network packets for analysis.",
+        "D": "To perform a denial-of-service attack."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Traceroute (or tracert on Windows) maps the route that packets take across an IP network. It helps identify intermediate routers, network topology, and potential chokepoints or firewalls between the source and destination."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Which information gathering technique might involve dumpster diving?",
+      "options": {
+        "A": "Active reconnaissance",
+        "B": "Digital footprinting",
+        "C": "Physical reconnaissance",
+        "D": "Network scanning"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dumpster diving is a form of physical reconnaissance where attackers search through discarded materials (trash) to find sensitive information like documents, passwords, or hardware that could aid in an attack."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "What is 'Shodan' primarily used for by ethical hackers?",
+      "options": {
+        "A": "To exploit known vulnerabilities in web applications.",
+        "B": "To search for internet-connected devices, services, and their banners/vulnerabilities.",
+        "C": "To perform social engineering attacks.",
+        "D": "To analyze network traffic in real-time."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Shodan is a search engine for internet-connected devices. It allows users to find specific types of devices (e.g., webcams, routers, servers) by filtering based on ports, banners, and operating systems, which is invaluable for reconnaissance."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "When performing passive reconnaissance, what is the main advantage?",
+      "options": {
+        "A": "It provides immediate access to target systems.",
+        "B": "It is less likely to be detected by the target.",
+        "C": "It is the fastest way to find vulnerabilities.",
+        "D": "It bypasses all security controls."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The main advantage of passive reconnaissance is that it gathers information from publicly available sources without directly interacting with the target's systems, making it less detectable."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Which command-line tool can be used to perform a simple 'ping sweep' to check if hosts are alive on a network segment?",
+      "options": {
+        "A": "Nmap -sV",
+        "B": "ping -c 1 192.168.1.1-254",
+        "C": "arp -a",
+        "D": "netstat -an"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "While Nmap is more powerful, a simple 'ping sweep' can be performed using the `ping` command, often combined with scripting or a range of IP addresses (though `ping` itself typically targets one IP at a time, tools like `fping` or Nmap's ping scan are better for ranges). Option B is a conceptual representation of pinging multiple hosts."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "What is the primary concern when using active reconnaissance techniques?",
+      "options": {
+        "A": "The amount of data collected is too small.",
+        "B": "It might alert the target organization to your activities.",
+        "C": "It consumes too much bandwidth.",
+        "D": "It requires advanced programming skills."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Active reconnaissance involves direct interaction with the target, which can generate network traffic, logs, and potentially trigger intrusion detection/prevention systems (IDS/IPS), thus alerting the target to the hacker's presence."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Which of the following is an example of 'Open-Source Intelligence (OSINT)'?",
+      "options": {
+        "A": "Intercepting encrypted communications.",
+        "B": "Exploiting a zero-day vulnerability.",
+        "C": "Gathering information from public websites, social media, and news articles.",
+        "D": "Installing a keylogger on a target machine."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "OSINT refers to intelligence gathered from publicly available sources. This includes information found on websites, social media platforms, public databases, news outlets, and forums."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "During the reconnaissance phase, an ethical hacker discovers a company's internal IP address ranges and network diagrams through publicly accessible job postings for network administrators. What type of reconnaissance is this?",
+      "options": {
+        "A": "Active scanning",
+        "B": "Social engineering",
+        "C": "Passive OSINT",
+        "D": "Vulnerability exploitation"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "This is passive OSINT because the information was gathered from publicly available sources (job postings) without direct interaction with the target's systems, and it constitutes open-source intelligence."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "What is the primary benefit of mapping a target's network topology during reconnaissance?",
+      "options": {
+        "A": "To immediately gain root access.",
+        "B": "To understand the network's structure, identify potential entry points, and plan attack paths.",
+        "C": "To install malware on all connected devices.",
+        "D": "To bypass firewalls directly."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mapping network topology helps an ethical hacker visualize the target's infrastructure, understand how different segments are connected, identify critical systems, and devise a more effective strategy for further scanning and exploitation."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Which Nmap scan type sends a SYN packet and waits for a SYN/ACK, but does not complete the three-way handshake?",
+      "options": {
+        "A": "TCP Connect Scan (-sT)",
+        "B": "SYN Stealth Scan (-sS)",
+        "C": "UDP Scan (-sU)",
+        "D": "ACK Scan (-sA)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The SYN Stealth Scan (-sS) is designed to be less detectable than a full TCP connect scan. It sends a SYN packet and, if a SYN/ACK is received, it indicates an open port. The scan then sends an RST packet to tear down the connection before the handshake completes."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "What is the primary purpose of 'port scanning'?",
+      "options": {
+        "A": "To identify the operating system of a target.",
+        "B": "To determine which services are running and listening on a target's network ports.",
+        "C": "To exploit vulnerabilities directly.",
+        "D": "To capture network traffic for analysis."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Port scanning is used to discover which ports on a network host are open, closed, or filtered, and often to identify the services running on those open ports. This information is crucial for identifying potential entry points."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Which Nmap option is used for OS detection?",
+      "options": {
+        "A": "-sV",
+        "B": "-O",
+        "C": "-p",
+        "D": "-A"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `-O` (capital O) option in Nmap enables operating system detection, attempting to guess the OS based on TCP/IP stack fingerprinting."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "What does the Nmap option '-sV' do?",
+      "options": {
+        "A": "Performs a SYN scan.",
+        "B": "Enables version detection for services running on open ports.",
+        "C": "Scans all available ports.",
+        "D": "Performs an aggressive scan."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The `-sV` option in Nmap enables service version detection. After identifying open ports, Nmap attempts to determine the exact service and its version number running on each port, which is crucial for identifying known vulnerabilities."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "A 'vulnerability scanner' like Nessus or OpenVAS is primarily used for what purpose?",
+      "options": {
+        "A": "To directly exploit system vulnerabilities.",
+        "B": "To identify known security weaknesses and misconfigurations in systems and applications.",
+        "C": "To monitor real-time network traffic.",
+        "D": "To perform brute-force password attacks."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vulnerability scanners automate the process of identifying known security weaknesses, common misconfigurations, and missing patches in network devices, servers, and applications. They do not typically exploit vulnerabilities themselves, but rather report their presence."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "What is 'banner grabbing'?",
+      "options": {
+        "A": "A technique to capture login credentials.",
+        "B": "A method to retrieve information about a service by connecting to its port and observing its initial response.",
+        "C": "A type of denial-of-service attack.",
+        "D": "A way to inject malicious code into a web application."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Banner grabbing involves connecting to an open port (e.g., using Netcat or Telnet) and observing the service's banner, which often reveals the service type, name, and version number. This information can then be used to research known vulnerabilities."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Which of the following is a potential drawback of using an 'aggressive scan' (`-A`) in Nmap?",
+      "options": {
+        "A": "It only scans a limited number of ports.",
+        "B": "It is less likely to be detected by IDS/IPS systems.",
+        "C": "It can be noisy, slow, and potentially crash older or unstable services.",
+        "D": "It does not provide detailed information about services."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "An aggressive scan (`-A`) in Nmap enables OS detection, version detection, script scanning, and traceroute. While comprehensive, it generates a lot of traffic, can be time-consuming, and might be detected by security systems or even cause issues with fragile services."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "What is the primary function of a 'firewall' in network security?",
+      "options": {
+        "A": "To encrypt all network traffic.",
+        "B": "To filter network traffic based on predefined security rules.",
+        "C": "To detect and remove malware.",
+        "D": "To provide remote access to internal networks."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A firewall acts as a barrier between a trusted network and an untrusted network (like the internet), controlling incoming and outgoing network traffic based on an established set of security rules."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "When an Nmap scan reports a port as 'filtered', what does it typically mean?",
+      "options": {
+        "A": "The port is open and a service is running.",
+        "B": "The port is closed and no service is listening.",
+        "C": "A firewall or other security device is blocking the probe, preventing Nmap from determining if the port is open or closed.",
+        "D": "The port is vulnerable to a known exploit."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A 'filtered' status means Nmap cannot determine if the port is open or closed because a firewall, router rule, or host-based filter is dropping the probe packets, preventing a response."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Which Nmap script category would be most relevant for identifying common web server vulnerabilities?",
+      "options": {
+        "A": "auth",
+        "B": "exploit",
+        "C": "vuln",
+        "D": "dos"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "The 'vuln' (vulnerability) category in Nmap Scripting Engine (NSE) contains scripts that check for common vulnerabilities, which would include many related to web servers and applications."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "What is the key difference between a 'vulnerability scanner' and a 'penetration testing tool' like Metasploit?",
+      "options": {
+        "A": "Vulnerability scanners only work on web applications.",
+        "B": "Penetration testing tools identify vulnerabilities, while vulnerability scanners exploit them.",
+        "C": "Vulnerability scanners identify potential weaknesses, while penetration testing tools are used to actively exploit those weaknesses.",
+        "D": "There is no significant difference; the terms are interchangeable."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Vulnerability scanners (e.g., Nessus, OpenVAS) are designed to *identify* known vulnerabilities and misconfigurations. Penetration testing tools (e.g., Metasploit) are designed to *exploit* identified vulnerabilities to demonstrate the actual risk and potential impact of a successful attack."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "When performing a UDP scan (`-sU`) with Nmap, how does Nmap typically determine if a UDP port is open?",
+      "options": {
+        "A": "It receives a SYN/ACK response.",
+        "B": "It receives an ICMP Port Unreachable error.",
+        "C": "It sends a UDP packet and expects no response or a specific service response; an 'ICMP port unreachable' response usually indicates the port is closed.",
+        "D": "It receives an RST packet."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "UDP is connectionless. Nmap sends a UDP packet to the target port. If it receives an 'ICMP Port Unreachable' error, the port is considered closed. If no response is received, or a valid service response is received, the port is usually considered open/filtered."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "What is the purpose of a 'honeypot' in network security?",
+      "options": {
+        "A": "To store encrypted backups of sensitive data.",
+        "B": "To act as a decoy system to attract and trap attackers, studying their methods.",
+        "C": "To serve as a high-performance web server.",
+        "D": "To automatically patch vulnerabilities on production systems."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A honeypot is a security mechanism designed to lure cyberattackers and detect, deflect, or study their attempts at unauthorized access and exploitation. It's a decoy system that appears to be a legitimate part of the network."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Which Nmap argument would you use to scan a specific range of ports, for example, ports 80, 443, and 21?",
+      "options": {
+        "A": "-p 80,443,21",
+        "B": "-ports 80 443 21",
+        "C": "--port-list 80,443,21",
+        "D": "-P 80,443,21"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The `-p` option in Nmap specifies the ports to scan. You can list individual ports separated by commas, or specify ranges (e.g., `-p 1-1024`)."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "After identifying open ports and running services, what is the next logical step in a penetration test?",
+      "options": {
+        "A": "Directly attempt to gain root access.",
+        "B": "Perform vulnerability research based on identified services and versions.",
+        "C": "Shut down the services to prevent attacks.",
+        "D": "Generate a final report."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Once services and their versions are identified, the next step is to research known vulnerabilities (CVEs) associated with those specific services and versions. This informs the subsequent exploitation phase."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is the primary benefit of using 'Nmap Scripting Engine (NSE)' scripts?",
+      "options": {
+        "A": "To make Nmap scans faster.",
+        "B": "To automate a wide range of tasks, including vulnerability detection, service enumeration, and exploitation.",
+        "C": "To bypass firewalls and intrusion detection systems.",
+        "D": "To encrypt Nmap scan traffic."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "NSE allows users to write (and share) scripts to automate a wide variety of networking tasks. These include vulnerability detection, more advanced service detection, brute-forcing, and even some exploitation, greatly extending Nmap's capabilities beyond simple port scanning."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Which type of scan is most likely to be detected by an Intrusion Detection System (IDS) due to its noisy nature?",
+      "options": {
+        "A": "SYN Stealth Scan (-sS)",
+        "B": "FIN Scan (-sF)",
+        "C": "TCP Connect Scan (-sT)",
+        "D": "Null Scan (-sN)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The TCP Connect Scan (-sT) completes the full three-way handshake for every port it probes. This creates full connections in the target's logs, making it easily detectable by IDS/IPS and firewall systems due to the high volume of connection attempts."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which type of attack attempts to guess passwords by systematically trying every possible combination of characters?",
+      "options": {
+        "A": "Dictionary attack",
+        "B": "Brute-force attack",
+        "C": "Rainbow table attack",
+        "D": "Phishing attack"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A brute-force attack involves systematically trying all possible combinations of characters (numbers, letters, symbols) until the correct password is found. It is exhaustive and computationally intensive."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "What is a 'Trojan horse' in the context of malware?",
+      "options": {
+        "A": "A self-replicating program that spreads across networks.",
+        "B": "Malware that encrypts files and demands a ransom.",
+        "C": "A malicious program disguised as legitimate software.",
+        "D": "A program that grants an attacker root access to a system."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A Trojan horse is a type of malware that appears to be legitimate software but contains hidden malicious functions. Users are tricked into installing it, believing it to be harmless."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Which password attack uses a pre-computed table of hash values to quickly find the plaintext password?",
+      "options": {
+        "A": "Brute-force attack",
+        "B": "Dictionary attack",
+        "C": "Rainbow table attack",
+        "D": "Shoulder surfing"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A rainbow table attack uses pre-computed tables of hash values for a large number of common passwords. By comparing a captured password hash against the rainbow table, the attacker can quickly find the original plaintext password without needing to compute hashes in real-time."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "What is 'privilege escalation'?",
+      "options": {
+        "A": "Gaining initial access to a system.",
+        "B": "The act of exploiting a bug, design flaw, or configuration vulnerability in an operating system or application to gain elevated access to resources that are normally protected from an application or user.",
+        "C": "Maintaining access to a system after initial compromise.",
+        "D": "Deleting logs to cover tracks."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Privilege escalation is the process of gaining higher-level permissions on a system than initially obtained. This could be moving from a regular user account to an administrator or root account."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "A 'keylogger' is a type of malware primarily designed to:",
+      "options": {
+        "A": "Encrypt a user's files and demand ransom.",
+        "B": "Record keystrokes made by a user on a keyboard.",
+        "C": "Spread itself across a network without user interaction.",
+        "D": "Create a backdoor for remote access."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A keylogger is a surveillance technology used to record (log) every keystroke typed on a specific computer's keyboard. This is often used to capture usernames, passwords, and other sensitive information."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "What is the main characteristic of a 'worm' malware?",
+      "options": {
+        "A": "It requires user interaction to spread.",
+        "B": "It attaches itself to legitimate programs.",
+        "C": "It is self-replicating and spreads autonomously across networks.",
+        "D": "It encrypts user data for ransom."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Worms are standalone malware computer programs that replicate themselves to spread to other computers. They often exploit network vulnerabilities to spread without any human interaction."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Which technique involves convincing individuals to reveal sensitive information or perform actions that compromise security?",
+      "options": {
+        "A": "Port scanning",
+        "B": "SQL Injection",
+        "C": "Social engineering",
+        "D": "Buffer overflow"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Social engineering is the psychological manipulation of people into performing actions or divulging confidential information. It relies on human error rather than technical exploits."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "What is a 'rootkit'?",
+      "options": {
+        "A": "A program that performs system backups.",
+        "B": "A type of antivirus software.",
+        "C": "A collection of software tools that enables remote access and conceals its presence on a computer.",
+        "D": "A tool used for web application testing."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A rootkit is a stealthy type of malicious software designed to hide the existence of certain processes or programs from normal detection methods and enable persistent privileged access to a computer."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Which of the following is a common method for initial system access that might involve exploiting unpatched software?",
+      "options": {
+        "A": "SQL injection on a web application.",
+        "B": "Brute-forcing a local account password.",
+        "C": "Exploiting a known vulnerability in a network service (e.g., SMB, RDP).",
+        "D": "Social engineering to get credentials."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Exploiting unpatched software, particularly network services, is a very common method for initial system access. Attackers leverage publicly known vulnerabilities (CVEs) for which patches exist but haven't been applied."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "What is 'Ransomware'?",
+      "options": {
+        "A": "Software that monitors network traffic.",
+        "B": "Malware that blocks access to a computer system or encrypts its data until a ransom is paid.",
+        "C": "A program that steals CPU cycles for cryptocurrency mining.",
+        "D": "A type of virus that corrupts the boot sector."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ransomware is a type of malicious software that encrypts a user's files or locks their computer, then demands a payment (ransom) to restore access."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Which of these is a common technique for 'covering tracks' after a system compromise?",
+      "options": {
+        "A": "Installing new legitimate software.",
+        "B": "Changing default passwords.",
+        "C": "Clearing or modifying system logs.",
+        "D": "Reporting the breach to authorities."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Covering tracks involves actions taken by an attacker to remove or alter evidence of their presence on a compromised system. Clearing or modifying system logs is a primary method to obscure their activities and avoid detection."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "What is the purpose of 'salting' passwords before hashing?",
+      "options": {
+        "A": "To make passwords shorter.",
+        "B": "To increase the speed of hashing algorithms.",
+        "C": "To prevent rainbow table attacks and make dictionary/brute-force attacks more difficult.",
+        "D": "To encrypt the password before hashing it."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Salting involves adding a unique, random string (salt) to a password before hashing it. This ensures that even if two users have the same password, their hashes will be different, effectively defeating pre-computed rainbow tables and making brute-force attacks more computationally expensive as each password attempt must be salted and then hashed individually."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Which social engineering technique involves creating a fake scenario to manipulate a victim into revealing information or performing an action?",
+      "options": {
+        "A": "Phishing",
+        "B": "Baiting",
+        "C": "Pretexting",
+        "D": "Quid pro quo"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pretexting is a social engineering technique where an attacker invents a believable scenario (a 'pretext') to trick a victim into giving up sensitive information or performing an action. It often involves impersonating someone in authority or with a legitimate reason to ask for information."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "A 'backdoor' is typically created in a compromised system to:",
+      "options": {
+        "A": "Improve system performance.",
+        "B": "Allow legitimate users to access the system more easily.",
+        "C": "Provide a hidden means for an attacker to regain access at a later time.",
+        "D": "Install security updates automatically."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A backdoor is a method, often secret, of bypassing normal authentication or encryption in a computer system, application, or network. Attackers install backdoors after initial compromise to ensure persistent access."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "What is the primary difference between a 'virus' and a 'worm'?",
+      "options": {
+        "A": "Viruses encrypt files; worms steal data.",
+        "B": "Viruses require a host program to spread; worms are standalone and self-replicate.",
+        "C": "Worms are always more destructive than viruses.",
+        "D": "Viruses only affect Windows; worms affect all operating systems."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The key distinction is that a virus requires a host program (e.g., an executable file or document) to attach itself to and execute, often requiring user interaction to spread. A worm is a standalone malicious program that can self-replicate and spread across networks without needing a host program or user intervention."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Which of the following is a common defense against brute-force password attacks?",
+      "options": {
+        "A": "Using only uppercase letters in passwords.",
+        "B": "Implementing account lockout policies after a few failed login attempts.",
+        "C": "Storing passwords in plaintext.",
+        "D": "Using very short passwords."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Account lockout policies prevent brute-force attacks by temporarily or permanently locking an account after a certain number of failed login attempts, making it impossible for an attacker to try all combinations."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "What is the purpose of a 'logic bomb'?",
+      "options": {
+        "A": "To perform a denial-of-service attack.",
+        "B": "To execute a malicious payload when a specific condition is met or a certain time passes.",
+        "C": "To encrypt files for ransom.",
+        "D": "To steal user credentials."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A logic bomb is a piece of code intentionally inserted into a software system that will set off a malicious function when specified conditions are met. These conditions could be a specific date/time, a particular event (e.g., an employee leaving the company), or a counter reaching a certain value."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Which of the following is the most common web application vulnerability according to OWASP Top 10?",
+      "options": {
+        "A": "Cross-Site Request Forgery (CSRF)",
+        "B": "Broken Authentication",
+        "C": "SQL Injection",
+        "D": "Insecure Deserialization"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "SQL Injection has historically been one of the most critical and common web application vulnerabilities, often ranking high or at the top of the OWASP Top 10 lists due to its severe impact and prevalence."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "What is 'Cross-Site Scripting (XSS)'?",
+      "options": {
+        "A": "Injecting malicious SQL queries into a database.",
+        "B": "Tricking a user into performing actions on a website they are authenticated to.",
+        "C": "Injecting malicious client-side scripts into web pages viewed by other users.",
+        "D": "Exploiting vulnerabilities in the server-side code."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "XSS attacks involve injecting malicious client-side scripts (usually JavaScript) into web pages. When other users view these compromised pages, the malicious scripts execute in their browsers, potentially stealing cookies, session tokens, or defacing websites."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Which of these is a common defense against SQL Injection attacks?",
+      "options": {
+        "A": "Using client-side input validation only.",
+        "B": "Disabling error messages on the server.",
+        "C": "Implementing parameterized queries or prepared statements.",
+        "D": "Encrypting the database entirely."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Parameterized queries or prepared statements ensure that user input is treated as data, not as executable code, effectively preventing SQL injection by separating the SQL logic from user-provided values."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "What is the primary goal of a 'Denial of Service (DoS)' attack against a web application?",
+      "options": {
+        "A": "To steal sensitive user data.",
+        "B": "To make the web application or service unavailable to legitimate users.",
+        "C": "To gain unauthorized administrative access.",
+        "D": "To deface the website's homepage."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A DoS attack aims to disrupt the normal functioning of a service or website, making it inaccessible to its intended users. This is often achieved by overwhelming the target with traffic or resource requests."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "What does 'CSRF' stand for in web application security?",
+      "options": {
+        "A": "Cross-Site Request Forgery",
+        "B": "Client-Side Remote Function",
+        "C": "Content Security Reporting Feature",
+        "D": "Cross-System Resource Federation"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CSRF stands for Cross-Site Request Forgery. It's an attack that forces an end-user to execute unwanted actions on a web application in which they're currently authenticated."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Which wireless encryption standard is considered the weakest and easily crackable?",
+      "options": {
+        "A": "WPA2",
+        "B": "WPA3",
+        "C": "WPA",
+        "D": "WEP"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "WEP (Wired Equivalent Privacy) is an outdated and highly insecure wireless encryption protocol. Its vulnerabilities are well-known and can be exploited with readily available tools in minutes."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "What is a 'rogue access point'?",
+      "options": {
+        "A": "A legitimate access point with strong encryption.",
+        "B": "An unauthorized wireless access point installed on a network, often by an attacker, to intercept traffic or provide backdoor access.",
+        "C": "A wireless access point used for guest networks.",
+        "D": "A misconfigured access point that broadcasts on the wrong frequency."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A rogue access point is a wireless access point that has been installed on a secure network without explicit authorization from the network administrator. It can be set up by an attacker to capture data, or by an insider unknowingly creating a security hole."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Which tool is commonly used for capturing Wi-Fi handshake packets for cracking WPA/WPA2 passwords?",
+      "options": {
+        "A": "Nmap",
+        "B": "Wireshark",
+        "C": "Aircrack-ng",
+        "D": "Metasploit"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Aircrack-ng is a suite of tools for auditing wireless networks. It includes tools for capturing WPA/WPA2 handshakes (airmon-ng, airodump-ng) and cracking them using dictionary or brute-force attacks (aircrack-ng)."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "What is 'session hijacking' in the context of web applications?",
+      "options": {
+        "A": "Intercepting and altering network packets.",
+        "B": "Taking over a user's authenticated session with a web application without their knowledge.",
+        "C": "Flooding a server with connection requests.",
+        "D": "Gaining administrative control over a web server."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Session hijacking involves an attacker gaining unauthorized control over a legitimate user's session with a web application. This is often done by stealing or predicting session IDs/cookies."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Which of the following is a key defense against CSRF attacks?",
+      "options": {
+        "A": "Using HTTPS for all communication.",
+        "B": "Implementing strong passwords for users.",
+        "C": "Including anti-CSRF tokens in web forms.",
+        "D": "Disabling JavaScript in the browser."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Anti-CSRF tokens (also known as synchronizer tokens) are unique, unpredictable, and user-specific values included in hidden fields of web forms. The server validates this token with each request, ensuring that the request originated from the legitimate application and not from a forged cross-site request."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "An attacker uploads a malicious PHP script to a web server through an insecure file upload feature. This is an example of what type of vulnerability?",
+      "options": {
+        "A": "Broken Authentication",
+        "B": "Cross-Site Scripting (XSS)",
+        "C": "Insecure Direct Object References",
+        "D": "Unrestricted File Upload"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Unrestricted file upload vulnerabilities allow attackers to upload arbitrary files to a server, including malicious scripts or executables. If the server executes these files, it can lead to remote code execution and full system compromise."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "What is 'deauthentication attack' in Wi-Fi security?",
+      "options": {
+        "A": "An attack that encrypts all Wi-Fi traffic.",
+        "B": "An attack that disconnects clients from a wireless access point by sending forged deauthentication frames.",
+        "C": "An attack that changes the Wi-Fi password.",
+        "D": "An attack that blocks all wireless signals."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A deauthentication attack is a type of denial-of-service attack that targets Wi-Fi networks. It sends forged deauthentication frames to one or more clients, causing them to disconnect from the access point. This can be used to capture WPA/WPA2 handshakes when clients reconnect."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Which OWASP Top 10 category deals with vulnerabilities related to improper management of user accounts, session tokens, and password policies?",
+      "options": {
+        "A": "Injection",
+        "B": "Broken Authentication",
+        "C": "Sensitive Data Exposure",
+        "D": "Security Misconfiguration"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Broken Authentication (or Authentication and Session Management) focuses on flaws in how applications handle user authentication, session management, and related functions, leading to attackers compromising user accounts or assuming user identities."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "What is a common technique to prevent 'brute-force' attacks on web application login pages?",
+      "options": {
+        "A": "Using only numerical passwords.",
+        "B": "Implementing CAPTCHA or account lockout mechanisms after multiple failed attempts.",
+        "C": "Storing passwords in plaintext.",
+        "D": "Allowing unlimited login attempts."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) and account lockout policies are effective defenses against brute-force attacks by limiting the rate of login attempts or requiring human verification."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "When securing a wireless network, which protocol is recommended for the strongest encryption?",
+      "options": {
+        "A": "WEP",
+        "B": "WPA",
+        "C": "WPA2",
+        "D": "WPA3"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "WPA3 is the latest and most secure wireless security protocol, offering enhanced encryption and authentication features compared to its predecessors (WEP, WPA, WPA2)."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "What is 'SQL Injection Union-Based Attack'?",
+      "options": {
+        "A": "An attack that uses the UNION SQL operator to combine the results of two or more SELECT statements, allowing an attacker to retrieve data from other tables.",
+        "B": "An attack that bypasses authentication using 'OR 1=1' in the WHERE clause.",
+        "C": "An attack that exploits a vulnerability in the application's input sanitization.",
+        "D": "An attack that causes a database to crash."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "A Union-Based SQL Injection attack leverages the `UNION` SQL operator to combine the results of a malicious `SELECT` query with a legitimate one. This allows the attacker to retrieve data from other tables or databases that the web application has access to."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is 'phishing'?",
+      "options": {
+        "A": "A technique to test network connectivity.",
+        "B": "A type of malware that encrypts files.",
+        "C": "A social engineering attack where attackers attempt to trick individuals into revealing sensitive information, often via deceptive emails or websites.",
+        "D": "A method to secure wireless networks."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Phishing is a malicious attempt to acquire sensitive information such as usernames, passwords, and credit card details by masquerading as a trustworthy entity in an electronic communication."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Which of the following is a best practice for creating strong passwords?",
+      "options": {
+        "A": "Using common words and phrases.",
+        "B": "Making passwords short and easy to remember.",
+        "C": "Combining uppercase and lowercase letters, numbers, and special characters, and making them long.",
+        "D": "Reusing the same password for multiple accounts."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Strong passwords are long, complex (using a mix of character types), and unique to each account. This significantly increases their resistance to brute-force and dictionary attacks."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "What is the purpose of 'Multi-Factor Authentication (MFA)'?",
+      "options": {
+        "A": "To replace passwords entirely.",
+        "B": "To require users to provide two or more verification factors to gain access to a resource.",
+        "C": "To encrypt all user data.",
+        "D": "To block malicious websites."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MFA enhances security by requiring users to present at least two different types of credentials (e.g., something you know like a password, something you have like a phone/token, something you are like a fingerprint) before granting access."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "In an incident response plan, what is the 'Eradication' phase focused on?",
+      "options": {
+        "A": "Detecting the incident.",
+        "B": "Removing the root cause of the incident and any malicious components.",
+        "C": "Restoring affected systems to normal operation.",
+        "D": "Analyzing the impact of the incident."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Eradication involves identifying and eliminating the source of the compromise, removing malware, patching vulnerabilities, and ensuring the threat is completely gone from the system."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "What is the primary benefit of regularly updating software and operating systems?",
+      "options": {
+        "A": "To improve user interface aesthetics.",
+        "B": "To ensure compatibility with new hardware.",
+        "C": "To patch security vulnerabilities and fix bugs.",
+        "D": "To increase system processing speed."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Software updates and patches often include fixes for newly discovered security vulnerabilities. Keeping systems updated is one of the most critical steps in maintaining a strong security posture."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Which security device monitors network traffic for suspicious activity and can also block or prevent detected threats?",
+      "options": {
+        "A": "Intrusion Detection System (IDS)",
+        "B": "Intrusion Prevention System (IPS)",
+        "C": "Firewall",
+        "D": "Load Balancer"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "An Intrusion Prevention System (IPS) actively monitors network traffic for malicious activity and can automatically take action to block or prevent detected threats, unlike an IDS which only detects and alerts."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "What is 'data encryption' primarily used for?",
+      "options": {
+        "A": "To reduce file sizes.",
+        "B": "To make data unreadable to unauthorized individuals.",
+        "C": "To speed up data transfer.",
+        "D": "To organize data in databases."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data encryption transforms data into a coded format (ciphertext) that can only be read by someone with the correct decryption key, thereby protecting its confidentiality from unauthorized access."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Which of the following is a good practice for secure web browsing?",
+      "options": {
+        "A": "Clicking on all pop-up ads.",
+        "B": "Disabling browser security warnings.",
+        "C": "Verifying that websites use HTTPS and looking for the padlock icon.",
+        "D": "Downloading software from untrusted sources."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Using HTTPS ensures that communication between your browser and the website is encrypted, protecting data privacy and integrity. The padlock icon indicates a secure connection."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "What is the purpose of a 'VPN' (Virtual Private Network)?",
+      "options": {
+        "A": "To speed up internet connection.",
+        "B": "To create a secure, encrypted connection over a public network, protecting privacy and bypassing geo-restrictions.",
+        "C": "To block all incoming network traffic.",
+        "D": "To host web applications securely."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A VPN creates an encrypted 'tunnel' for your internet traffic, routing it through a remote server. This hides your IP address, encrypts your data, and can make it appear as if you're browsing from a different location, enhancing privacy and security."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Which principle of secure coding aims to prevent vulnerabilities by validating all user inputs?",
+      "options": {
+        "A": "Error handling",
+        "B": "Output encoding",
+        "C": "Input validation",
+        "D": "Least privilege"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Input validation is a fundamental secure coding principle. It involves rigorously checking, filtering, and sanitizing all user-supplied data to ensure it conforms to expected formats and does not contain malicious characters or scripts, preventing attacks like SQL Injection and XSS."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "What should be the FIRST step after suspecting a cyber incident in a corporate environment?",
+      "options": {
+        "A": "Inform the media.",
+        "B": "Disconnect the affected system from the network (containment).",
+        "C": "Delete all potentially compromised data.",
+        "D": "Immediately restore from backup."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The immediate priority upon suspecting an incident is containment – isolating the affected system(s) to prevent further spread of the attack or data loss. This is a crucial step in the incident response lifecycle."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "What is 'data loss prevention (DLP)' primarily designed to do?",
+      "options": {
+        "A": "Prevent physical theft of hard drives.",
+        "B": "Monitor and control data in use, in motion, and at rest to prevent unauthorized disclosure.",
+        "C": "Encrypt all outgoing email communications.",
+        "D": "Ensure data is backed up regularly."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DLP solutions are designed to prevent sensitive data from leaving an organization's control. They identify, monitor, and protect sensitive information wherever it resides, preventing accidental or malicious data breaches."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Why is it important for employees to undergo regular cyber awareness training?",
+      "options": {
+        "A": "To become ethical hackers themselves.",
+        "B": "To understand and mitigate human-centric security risks like phishing and social engineering.",
+        "C": "To learn how to develop new security software.",
+        "D": "To replace IT security staff."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Employees are often the weakest link in an organization's security chain. Regular cyber awareness training helps them recognize and respond appropriately to social engineering attacks, phishing, malware, and other common threats, thereby reducing human-centric risks."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Which of the following describes the 'principle of least privilege' in security?",
+      "options": {
+        "A": "Granting all users administrative access.",
+        "B": "Giving users only the minimum necessary access rights to perform their job functions.",
+        "C": "Allowing users to install any software they need.",
+        "D": "Restricting internet access for all users."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The principle of least privilege dictates that users, programs, and processes should be granted only the essential permissions needed to perform their intended tasks, and no more. This limits the potential damage if an account is compromised."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "What is the primary role of an 'Intrusion Detection System (IDS)'?",
+      "options": {
+        "A": "To encrypt all network communications.",
+        "B": "To prevent unauthorized access to a network.",
+        "C": "To monitor network or system activities for malicious activities or policy violations and report them.",
+        "D": "To automatically remove malware from infected systems."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "An IDS monitors network traffic or system activities for suspicious patterns or known attack signatures. When it detects such activities, it generates alerts but does not actively block or prevent the attack."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Why is a robust 'backup and recovery' strategy essential for cyber resilience?",
+      "options": {
+        "A": "It prevents all cyberattacks from happening.",
+        "B": "It ensures that systems and data can be restored to a pre-attack state after a successful cyber incident.",
+        "C": "It eliminates the need for antivirus software.",
+        "D": "It encrypts all data automatically."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A comprehensive backup and recovery strategy is crucial for business continuity and cyber resilience. It allows an organization to restore critical systems and data to a clean state after data loss, corruption, or a successful cyberattack like ransomware, minimizing downtime and impact."
+    }
+  ]
+}

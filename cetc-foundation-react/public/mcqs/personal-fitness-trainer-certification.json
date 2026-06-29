@@ -1,0 +1,1443 @@
+{
+  "course_name": "Personal Fitness Trainer Certification",
+  "sector": "Sports, Fitness & Recreation",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Personal Training & Professionalism",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Basic Anatomy & Physiology",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Exercise Science & Kinesiology",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Client Assessment & Program Design",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Nutrition Fundamentals & Weight Management",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Safety, Injury Prevention & Special Populations",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek Personal Trainer ka primary role kya hai?",
+      "options": {
+        "A": "Clients ke liye diet plan prescribe karna",
+        "B": "Clients ko safe aur effective exercise programs provide karna",
+        "C": "Clients ko medical advice dena",
+        "D": "Clients ke liye supplements recommend karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek Personal Trainer ka primary role clients ko safe aur effective exercise programs design aur deliver karna hota hai, unki fitness goals achieve karne mein help karna."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ek PFT ko apne scope of practice ke bahar ke issues ke liye client ko kahan refer karna chahiye?",
+      "options": {
+        "A": "Kisi bhi friend ko jo knowledgeable ho",
+        "B": "Qualified healthcare professional ko",
+        "C": "Internet articles ko follow karne ke liye bolna",
+        "D": "Khud hi research karke advice dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar koi issue PFT ke scope of practice ke bahar hai (jaise medical condition ya specific diet plan), toh client ko ek qualified healthcare professional (doctor, dietitian) ke paas refer karna chahiye."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Client onboarding ke dauran 'PAR-Q' form ka kya purpose hai?",
+      "options": {
+        "A": "Client ki financial status pata karna",
+        "B": "Client ki exercise readiness aur potential health risks assess karna",
+        "C": "Client ki past workout history record karna",
+        "D": "Client ki favourite exercises identify karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PAR-Q (Physical Activity Readiness Questionnaire) ek basic screening tool hai jo client ki general health aur physical activity ke liye readiness ko assess karta hai, aur identify karta hai ki unhe medical clearance ki zaroorat hai ya nahi."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Ek Personal Trainer ke liye professional liability insurance kyun zaroori hai?",
+      "options": {
+        "A": "Clients ko impress karne ke liye",
+        "B": "Apni services ki marketing karne ke liye",
+        "C": "Kisi bhi injury ya negligence ke case mein financial protection ke liye",
+        "D": "Gym membership discounts paane ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Professional liability insurance PFT ko lawsuits se protect karti hai jo clients ki injury ya trainer ki alleged negligence se ho sakti hain. Yeh ek important risk management tool hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Client ke saath effective communication build karne ke liye kya important hai?",
+      "options": {
+        "A": "Sirf technical jargon use karna",
+        "B": "Client ki baat ko actively sunna aur empathize karna",
+        "C": "Apni personal fitness achievements share karna",
+        "D": "Client ko har baat par agree karne ke liye push karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Effective communication mein active listening, empathy, clear explanation, aur client ke perspective ko samajhna shamil hai. Isse trust aur rapport banta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Ek PFT ko apne certifications aur education ko regularly update kyun karte rehna chahiye?",
+      "options": {
+        "A": "Sirf social media par show-off karne ke liye",
+        "B": "Industry ke latest research aur best practices ke saath updated rehne ke liye",
+        "C": "Naye clients ko attract karne ke liye fees increase karne ke liye",
+        "D": "Purane knowledge ko bhool jane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fitness industry constantly evolve karti hai. Continuing education aur certifications se PFT latest scientific advancements aur training methodologies ke saath updated rehta hai, jisse woh apne clients ko best service de sake."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Agar ek client workout ke dauran discomfort ya pain report karta hai, toh trainer ka pehla action kya hona chahiye?",
+      "options": {
+        "A": "Client ko ignore karke workout continue karne ko bolna",
+        "B": "Client ko immediately exercise rokne aur pain assess karne ke liye kehna",
+        "C": "Painkillers offer karna",
+        "D": "Workout intensity badha dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client safety paramount hai. Pain ya discomfort ki report par turant exercise rok deni chahiye aur situation ko assess karna chahiye. Zaroorat padne par medical help leni chahiye."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Client retention ke liye kya sabse zaroori factor hai?",
+      "options": {
+        "A": "Sabse expensive training packages offer karna",
+        "B": "Consistent results, positive client experience aur strong relationship",
+        "C": "Har session mein naye, fancy exercises introduce karna",
+        "D": "Client ko har baar free session dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clients tabhi stay karte hain jab unhe results milte hain, unka experience positive hota hai, aur unka trainer ke saath ek strong, supportive relationship banta hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Ek PFT ko apne client ki personal information (jaise health history) ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Sabhi clients ke saath openly discuss karna",
+        "B": "Strictly confidential rakhna aur privacy maintain karna",
+        "C": "Social media par share karna",
+        "D": "Public notice board par display karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ki personal aur health information ko hamesha confidential rakhna chahiye. Privacy maintain karna professional ethics ka ek important part hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek Personal Trainer ke liye business cards aur ek professional website kyun important hain?",
+      "options": {
+        "A": "Apne doston ko dikhane ke liye",
+        "B": "Marketing aur networking ke liye, naye clients attract karne ke liye",
+        "C": "Unko collect karke rakhne ke liye",
+        "D": "Sirf gym ke andar use karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Business cards aur website effective marketing tools hain jo PFT ko apni services promote karne, credibility build karne aur naye clients tak pahunchne mein help karte hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Client ki motivation maintain karne ke liye trainer kya kar sakta hai?",
+      "options": {
+        "A": "Har session mein unhe chillana",
+        "B": "Realistic goals set karna, progress track karna aur positive reinforcement dena",
+        "C": "Unhe hamesha sabse hard exercises karwana",
+        "D": "Unhe sirf unki pasand ki exercises karwana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Motivation maintain karne ke liye realistic goals set karna, chhote milestones celebrate karna, progress dikhana aur positive feedback dena bahut important hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Agar ek client session ke liye consistently late aata hai, toh PFT ko kya karna chahiye?",
+      "options": {
+        "A": "Session ko cut short kar dena ya next session refuse kar dena",
+        "B": "Client ke saath politely baat karke time management par discuss karna",
+        "C": "Khud bhi late aana shuru kar dena",
+        "D": "Client ko ignore karna aur session chalate rehna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Professionalism maintain karte hue, client ke saath polite tarike se unki punctuality ke issue par baat karni chahiye, aur session ke time limit ko clearly explain karna chahiye."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Ek PFT ko apne clients ke liye 'SMART' goals set karne mein kyun help karni chahiye?",
+      "options": {
+        "A": "Kyunki yeh ek fancy term hai",
+        "B": "Goals ko Specific, Measurable, Achievable, Relevant aur Time-bound banane ke liye, jisse success rate badhe",
+        "C": "Sirf paperwork complete karne ke liye",
+        "D": "Client ko confuse karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SMART goals framework clients ko clear, achievable aur trackable objectives set karne mein help karta hai, jisse unki motivation aur success ki sambhavna badhti hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek Personal Trainer ko apne clients ke liye ek positive aur supportive environment kaise banana chahiye?",
+      "options": {
+        "A": "Unki weaknesses ko hamesha highlight karke",
+        "B": "Encouragement, positive reinforcement aur non-judgmental attitude ke saath",
+        "C": "Sirf unhe hard training karwa kar",
+        "D": "Unke personal life mein interfere karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek positive aur supportive environment trust build karta hai, clients ko comfortable feel karata hai, aur unki motivation aur adherence ko badhata hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Client ki initial consultation mein kya discuss karna important hai?",
+      "options": {
+        "A": "Sirf trainer ki fees",
+        "B": "Client ki health history, fitness goals, lifestyle aur expectations",
+        "C": "Trainer ki personal workout routine",
+        "D": "Latest gym gossip"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Initial consultation mein client ki comprehensive profile collect karna zaroori hai, jisme unki health, goals, lifestyle aur expectations shamil hon, taki ek customized plan banaya ja sake."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Ek PFT ko apne professional boundaries ko maintain kyun karna chahiye?",
+      "options": {
+        "A": "Clients se dur rehne ke liye",
+        "B": "Client-trainer relationship ko professional aur respectful rakhne ke liye",
+        "C": "Clients ko impress karne ke liye",
+        "D": "Personal favours maangne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Professional boundaries set karna client-trainer relationship mein clarity, respect aur professionalism maintain karta hai. Yeh ethical conduct ke liye critical hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek Personal Trainer ko 'Duty of Care' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf clients ko gym mein le kar aana",
+        "B": "Clients ki safety aur well-being ko ensure karna aur unhe harm se bachana",
+        "C": "Clients ke liye grocery shopping karna",
+        "D": "Clients ke ghar ja kar unhe train karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Duty of Care ka matlab hai ki PFT ke paas ek legal aur ethical obligation hai ki woh apne clients ki safety aur well-being ka khayal rakhe, aur unhe potential harm se bachaye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Human body mein sabse badi bone kaun si hai?",
+      "options": {
+        "A": "Humerus",
+        "B": "Femur",
+        "C": "Tibia",
+        "D": "Radius"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Femur, ya thigh bone, human body ki sabse badi aur strongest bone hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Muscles jo bones se attach hote hain aur voluntary movement control karte hain, unhe kya kehte hain?",
+      "options": {
+        "A": "Cardiac muscles",
+        "B": "Smooth muscles",
+        "C": "Skeletal muscles",
+        "D": "Involuntary muscles"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Skeletal muscles woh muscles hote hain jo bones se tendons ke through attach hote hain aur conscious control mein aate hain, jisse movement hota hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Heart ka primary function kya hai?",
+      "options": {
+        "A": "Blood ko filter karna",
+        "B": "Body mein oxygen-rich blood pump karna",
+        "C": "Hormones produce karna",
+        "D": "Digestion mein help karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Heart ek muscular pump hai jo oxygenated blood ko body ke cells tak aur deoxygenated blood ko lungs tak pump karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Anaerobic energy system kis type ki activity ke liye primary energy source hai?",
+      "options": {
+        "A": "Long-distance running",
+        "B": "Low-intensity walking",
+        "C": "High-intensity, short-duration activities (e.g., sprinting, weightlifting)",
+        "D": "Yoga aur stretching"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Anaerobic energy systems (ATP-PC aur Glycolysis) high-intensity, short-duration activities ke liye quick energy provide karte hain jahan oxygen ki supply limited hoti hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Joints ko connect karne wale fibrous connective tissues ko kya kehte hain?",
+      "options": {
+        "A": "Tendons",
+        "B": "Ligaments",
+        "C": "Cartilage",
+        "D": "Fascia"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ligaments bone-to-bone connection provide karte hain, joints ko stabilize karte hain aur unki range of motion ko limit karte hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Muscle contraction ke dauran, jab muscle shorten hota hai, uss action ko kya kehte hain?",
+      "options": {
+        "A": "Eccentric contraction",
+        "B": "Isometric contraction",
+        "C": "Concentric contraction",
+        "D": "Isokinetic contraction"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Concentric contraction mein muscle fibers shorten hote hain jab woh force generate karte hain, jaise biceps curl mein weight ko upar uthana."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Respiratory system ka main function kya hai?",
+      "options": {
+        "A": "Blood pump karna",
+        "B": "Nutrients absorb karna",
+        "C": "Oxygen intake aur Carbon Dioxide release karna",
+        "D": "Hormones regulate karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Respiratory system ka primary function body mein oxygen supply karna aur metabolic waste product carbon dioxide ko remove karna hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "ATP (Adenosine Triphosphate) kya hai?",
+      "options": {
+        "A": "Ek type ka protein",
+        "B": "Body ki primary energy currency",
+        "C": "Ek waste product",
+        "D": "Ek bone marrow component"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ATP cells ke liye immediate energy source hai, jo cellular functions, jisme muscle contraction bhi shamil hai, ko fuel karta hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Body ka core temperature regulate karne mein kaun sa organ important role play karta hai?",
+      "options": {
+        "A": "Brain",
+        "B": "Skin",
+        "C": "Lungs",
+        "D": "Kidneys"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Skin sweat glands ke through sweating aur blood flow regulation se body temperature ko regulate karti hai. Isse thermoregulation kehte hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Aerobic energy system kis type ki activity ke liye primary energy source hai?",
+      "options": {
+        "A": "Powerlifting",
+        "B": "Short sprints",
+        "C": "Long-duration, low-to-moderate intensity activities (e.g., jogging, cycling)",
+        "D": "Plyometrics"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Aerobic system oxygen ka use karke fats aur carbohydrates se energy produce karta hai, jo long-duration activities ke liye efficient hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Joints ke ends ko cover karne wala tissue jo friction reduce karta hai aur shock absorb karta hai, use kya kehte hain?",
+      "options": {
+        "A": "Tendon",
+        "B": "Ligament",
+        "C": "Cartilage",
+        "D": "Bone marrow"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cartilage joints ki surfaces ko cushion karta hai, friction ko kam karta hai aur movements ko smooth banata hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Blood vessels jo oxygenated blood ko heart se body tak le jaati hain, unhe kya kehte hain?",
+      "options": {
+        "A": "Veins",
+        "B": "Arteries",
+        "C": "Capillaries",
+        "D": "Venules"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Arteries thick-walled blood vessels hoti hain jo oxygenated blood ko heart se body ke tissues tak carry karti hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Body mein calcium store karne ka primary site kaun sa hai?",
+      "options": {
+        "A": "Muscles",
+        "B": "Liver",
+        "C": "Bones",
+        "D": "Kidneys"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Bones calcium ka sabse bada reservoir hain. Calcium bone health aur strength ke liye essential hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Sliding Filament Theory kis process ko describe karta hai?",
+      "options": {
+        "A": "Digestion",
+        "B": "Muscle contraction",
+        "C": "Nerve impulse transmission",
+        "D": "Blood clotting"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sliding Filament Theory explain karti hai ki kaise actin aur myosin filaments ek doosre par slide karte hain, jisse muscle contraction hota hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Posture maintain karne aur spinal column ko support karne ke liye kaun se muscles important hain?",
+      "options": {
+        "A": "Biceps",
+        "B": "Calves",
+        "C": "Core muscles (e.g., abdominals, obliques, erector spinae)",
+        "D": "Forearms"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Core muscles spine ko stabilize karte hain aur good posture maintain karne mein critical role play karte hain."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Blood mein glucose level ko regulate karne wala hormone kaun sa hai?",
+      "options": {
+        "A": "Adrenaline",
+        "B": "Insulin",
+        "C": "Thyroid hormone",
+        "D": "Testosterone"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Insulin pancreatic hormone hai jo blood glucose ko cells mein enter karne mein help karta hai, thereby blood sugar levels ko regulate karta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Joints jo sirf ek plane mein movement allow karte hain (jaise knee joint), unhe kya kehte hain?",
+      "options": {
+        "A": "Ball-and-socket joint",
+        "B": "Pivot joint",
+        "C": "Hinge joint",
+        "D": "Gliding joint"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Hinge joints sirf flexion aur extension movements allow karte hain, jaise knee aur elbow joints."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "FITT principle mein 'F' ka kya matlab hai?",
+      "options": {
+        "A": "Flexibility",
+        "B": "Frequency",
+        "C": "Form",
+        "D": "Fitness"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "FITT principle mein F ka matlab Frequency hai, jo batata hai ki kitni baar workout karna chahiye."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Progressive Overload principle ka kya matlab hai?",
+      "options": {
+        "A": "Har workout mein same weight uthana",
+        "B": "Workout mein gradually resistance, reps ya sets increase karna",
+        "C": "Workout ko har baar kam time mein complete karna",
+        "D": "Sirf cardio exercises karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Progressive overload ek fundamental training principle hai jisme muscles ko adapt karne ke liye gradually zyada stress diya jata hai, jisse strength aur muscle growth hota hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Sagittal plane mein kaun sa movement hota hai?",
+      "options": {
+        "A": "Abduction aur Adduction",
+        "B": "Rotation",
+        "C": "Flexion aur Extension",
+        "D": "Horizontal Adduction"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sagittal plane body ko left aur right halves mein divide karta hai, aur isme flexion (bending) aur extension (straightening) jaise movements hote hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Agonist muscle kya hota hai?",
+      "options": {
+        "A": "Muscle jo movement ko oppose karta hai",
+        "B": "Muscle jo movement ko perform karta hai (prime mover)",
+        "C": "Muscle jo joint ko stabilize karta hai",
+        "D": "Muscle jo injury ke baad recover ho raha ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agonist muscle woh muscle hota hai jo ek specific movement ko perform karta hai, use 'prime mover' bhi kehte hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Isokinetic training ka kya benefit hai?",
+      "options": {
+        "A": "Sirf speed increase karta hai",
+        "B": "Muscle contraction ke dauran constant speed par maximal resistance provide karta hai",
+        "C": "Joint pain badhata hai",
+        "D": "Sirf flexibility improve karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Isokinetic training special equipment ka use karta hai jo muscle contraction ke dauran constant speed par variable resistance provide karta hai, jo strength aur power development ke liye effective hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Warm-up ka primary purpose kya hai?",
+      "options": {
+        "A": "Workout ko jaldi finish karna",
+        "B": "Muscles ko exercise ke liye prepare karna aur injury risk kam karna",
+        "C": "Body ko thanda karna",
+        "D": "Sirf sweat nikalna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Warm-up body temperature badhata hai, blood flow increase karta hai, aur muscles ko prepare karta hai, jisse performance improve hoti hai aur injury ka risk kam hota hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Cool-down ka kya importance hai?",
+      "options": {
+        "A": "Heart rate ko immediately stop karna",
+        "B": "Heart rate aur breathing ko gradually normal level par wapas lana, aur muscle soreness kam karna",
+        "C": "Zyada calories burn karna",
+        "D": "Workout ko extend karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cool-down heart rate ko gradually kam karta hai, blood pooling ko prevent karta hai, aur post-exercise muscle soreness (DOMS) ko kam karne mein help karta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Hypertrophy training ka main goal kya hai?",
+      "options": {
+        "A": "Endurance badhana",
+        "B": "Muscle size aur mass badhana",
+        "C": "Power increase karna",
+        "D": "Flexibility improve karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hypertrophy training muscles mein growth stimulate karta hai, jisse unka size badhta hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Cardiovascular training mein 'VO2 Max' kya indicate karta hai?",
+      "options": {
+        "A": "Maximum heart rate",
+        "B": "Maximum amount of oxygen body use kar sakti hai during intense exercise",
+        "C": "Maximum blood pressure",
+        "D": "Maximum muscle strength"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "VO2 Max aerobic fitness ka ek measure hai, jo body ki oxygen utilization capacity ko reflect karta hai during maximal effort."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Plyometric exercises ka kya benefit hai?",
+      "options": {
+        "A": "Sirf flexibility badhana",
+        "B": "Power aur explosiveness improve karna",
+        "C": "Muscle endurance badhana",
+        "D": "Joint stability improve karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Plyometrics quick, powerful movements hote hain (jaise jumping) jo muscles ki ability ko improve karte hain to exert maximal force in minimal time."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Transverse plane mein kaun sa movement hota hai?",
+      "options": {
+        "A": "Flexion aur Extension",
+        "B": "Side bends",
+        "C": "Rotation",
+        "D": "Up aur Down movement"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Transverse plane body ko upper aur lower halves mein divide karta hai, aur isme rotational movements (jaise torso twist) hote hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Strength training mein 'Repetition Maximum (RM)' ka kya matlab hai?",
+      "options": {
+        "A": "Ek exercise ko kitni baar kiya ja sakta hai",
+        "B": "Maximum weight jo ek person ek baar utha sakta hai (1RM)",
+        "C": "Maximum number of sets",
+        "D": "Maximum rest time between sets"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Repetition Maximum (RM) us maximum weight ko refer karta hai jo ek person ek specific number of repetitions ke liye utha sakta hai, jaise 1RM (one-rep max) ya 10RM."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Interval training ka kya benefit hai?",
+      "options": {
+        "A": "Sirf muscle strength badhana",
+        "B": "Cardiovascular fitness aur calorie burn ko optimize karna high-intensity bursts aur recovery periods ke saath",
+        "C": "Long-duration steady-state cardio ko replace karna",
+        "D": "Flexibility improve karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Interval training mein short bursts of high-intensity exercise followed by brief recovery periods hote hain, jo cardiovascular health aur fat loss ke liye highly effective hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Specificity principle ka kya matlab hai?",
+      "options": {
+        "A": "Koi bhi exercise karne se sab kuch improve hoga",
+        "B": "Training ko specific goals aur demands ke according design karna",
+        "C": "Sirf ek hi type ki exercise karna",
+        "D": "Har din alag-alag exercises karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Specificity principle kehta hai ki training adaptations specific hoti hain to the type of training performed. Agar strength chahiye, toh strength training karo; agar endurance, toh endurance training."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Body ki stability aur balance improve karne ke liye kaun si training important hai?",
+      "options": {
+        "A": "Heavy weightlifting",
+        "B": "Balance aur proprioception training",
+        "C": "Long-distance running",
+        "D": "High-intensity interval training"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Balance aur proprioception training (jaise single-leg stands, bosu ball exercises) body ki ability ko improve karti hai to sense its position in space aur stability maintain karna."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Power training mein kya emphasize kiya jata hai?",
+      "options": {
+        "A": "Slow aur controlled movements",
+        "B": "Heavy weight, low reps",
+        "C": "Light weight, high reps",
+        "D": "Force ko kam time mein generate karna"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Power = Force x Velocity. Power training mein muscles ko force ko jaldi generate karne ki training di jaati hai, jaise Olympic lifts ya plyometrics."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Static stretching kab karna chahiye?",
+      "options": {
+        "A": "Workout se pehle, as a warm-up",
+        "B": "Workout ke baad, as a cool-down",
+        "C": "High-intensity workout ke dauran",
+        "D": "Kabhi bhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Static stretching muscles ko lengthen karta hai aur flexibility improve karta hai. Yeh typically workout ke baad ya alag se flexibility session mein kiya jata hai, jab muscles warm hon."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Client assessment mein 'Health History Questionnaire' ka kya role hai?",
+      "options": {
+        "A": "Client ki favourite food pata karna",
+        "B": "Client ki medical conditions, injuries aur medications ko identify karna",
+        "C": "Client ki employment history check karna",
+        "D": "Client ki travel history pata karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Health History Questionnaire client ki health profile ko samajhne aur potential risks ko identify karne ke liye critical hai, jisse safe aur effective program design ho sake."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Body Composition assessment ka ek common method kya hai?",
+      "options": {
+        "A": "Blood test",
+        "B": "Skinfold measurement",
+        "C": "Vision test",
+        "D": "Hearing test"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skinfold measurement body fat percentage estimate karne ka ek widely used, practical method hai, jisme specific body sites par skinfolds ki thickness measure ki jaati hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Cardiovascular fitness test ka ek example kya hai?",
+      "options": {
+        "A": "Bench press 1RM",
+        "B": "Push-up test",
+        "C": "3-minute step test",
+        "D": "Sit-and-reach test"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "3-minute step test client ki cardiovascular endurance aur recovery rate ko assess karta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Client ki postural assessment kyun zaroori hai?",
+      "options": {
+        "A": "Sirf aesthetics ke liye",
+        "B": "Muscle imbalances aur movement dysfunctions ko identify karne ke liye",
+        "C": "Client ki height measure karne ke liye",
+        "D": "Client ki body type classify karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Postural assessment client ki static aur dynamic posture ko analyze karta hai, jisse potential muscle imbalances, weak areas, aur movement patterns jo injury ka risk badha sakte hain, identify kiye ja sake."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Program design mein 'Periodization' ka kya matlab hai?",
+      "options": {
+        "A": "Har workout mein same routine follow karna",
+        "B": "Training program ko specific phases mein organize karna, jisme intensity aur volume vary karte hain",
+        "C": "Sirf cardio exercises include karna",
+        "D": "Client ki progress ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Periodization ek systematic approach hai jisme training variables (volume, intensity) ko manipulate kiya jata hai over specific time periods to optimize performance, prevent overtraining, aur peak at desired times."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Ek beginner client ke liye strength training program mein initial focus kya hona chahiye?",
+      "options": {
+        "A": "Maximum weightlifting",
+        "B": "Correct exercise form aur basic movement patterns",
+        "C": "Complex plyometric exercises",
+        "D": "High-intensity interval training"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Beginners ke liye correct form aur basic movement patterns (squat, hinge, push, pull) par focus karna injury prevention aur long-term progress ke liye essential hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Flexibility assessment ka ek example kya hai?",
+      "options": {
+        "A": "Vertical jump test",
+        "B": "Plank hold",
+        "C": "Sit-and-reach test",
+        "D": "Grip strength test"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Sit-and-reach test lower back aur hamstring flexibility ko measure karta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Client ke liye exercise selection karte waqt kis factor ko consider karna chahiye?",
+      "options": {
+        "A": "Trainer ki favourite exercises",
+        "B": "Client ki goals, fitness level, health status aur preferences",
+        "C": "Sirf latest trend wali exercises",
+        "D": "Sabse mushkil exercises"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Exercise selection client-centric hona chahiye, jo unki specific needs aur abilities ke according ho, taki effectiveness aur adherence maximize ho."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Rest periods ka program design mein kya importance hai?",
+      "options": {
+        "A": "Unko skip karna chahiye",
+        "B": "Muscle recovery, performance aur adaptation ko influence karte hain",
+        "C": "Sirf time pass karne ke liye hote hain",
+        "D": "Jitna ho sake utna lamba hona chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rest periods ka duration training goal (strength, hypertrophy, endurance) par depend karta hai. Adequate rest recovery aur next set mein optimal performance ke liye zaroori hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Client ki 'Current Activity Level' assess karna kyun important hai?",
+      "options": {
+        "A": "Unki job profile pata karne ke liye",
+        "B": "Unke current fitness level ko samajhne aur appropriate starting point determine karne ke liye",
+        "C": "Unhe judge karne ke liye",
+        "D": "Unki hobbies pata karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Current activity level se trainer ko client ke existing fitness level ka idea milta hai, jisse woh program ko realistically design kar sake aur overtraining se bach sake."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Dynamic warm-up ka kya benefit hai?",
+      "options": {
+        "A": "Muscles ko thanda karna",
+        "B": "Range of motion, blood flow aur neuromuscular activation improve karna",
+        "C": "Sirf static flexibility badhana",
+        "D": "Injury risk badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dynamic warm-up mein controlled, movement-based stretches hote hain jo body ko exercise ke liye prepare karte hain, performance enhance karte hain aur injury risk kam karte hain."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Overtraining ke signs kya ho sakte hain?",
+      "options": {
+        "A": "Increased energy aur motivation",
+        "B": "Decreased performance, persistent fatigue, mood disturbances, increased injury risk",
+        "C": "Rapid weight gain",
+        "D": "Better sleep quality"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Overtraining tab hota hai jab body recover nahi kar paati training stress se, jiske results mein performance mein kami, fatigue, aur health issues ho sakte hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Client ki 'Readiness to Change' assess karna kyun important hai?",
+      "options": {
+        "A": "Unki personality test karne ke liye",
+        "B": "Unki motivation level aur commitment ko samajhne ke liye",
+        "C": "Unhe judge karne ke liye",
+        "D": "Unki financial status pata karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Client ki readiness to change ko samajhna PFT ko appropriate motivational strategies choose karne aur program ko client ki current stage of change ke according tailor karne mein help karta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Sets aur Reps ka selection kis par depend karta hai?",
+      "options": {
+        "A": "Sirf trainer ki pasand par",
+        "B": "Client ke fitness goals (e.g., strength, hypertrophy, endurance)",
+        "C": "Gym mein kitne log hain",
+        "D": "Weather conditions par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sets aur Reps ka selection client ke specific goals par based hota hai. Strength ke liye low reps/high weight, hypertrophy ke liye moderate reps/weight, aur endurance ke liye high reps/low weight."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Functional movement screen (FMS) ka kya objective hai?",
+      "options": {
+        "A": "Client ki maximum strength measure karna",
+        "B": "Fundamental movement patterns ko assess karna aur dysfunctions identify karna",
+        "C": "Client ki speed track karna",
+        "D": "Client ki body composition measure karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "FMS basic movement patterns (jaise squat, lunge) ko assess karta hai taaki asymmetries, limitations, ya pain ko identify kiya ja sake jo injury ka risk badha sakte hain aur performance ko affect kar sakte hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Training program mein 'Deload' phase ka kya purpose hai?",
+      "options": {
+        "A": "Workout skip karna",
+        "B": "Recovery facilitate karna aur overtraining se bachana, jisse future performance improve ho",
+        "C": "Sirf light cardio karna",
+        "D": "Naye exercises try karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Deload phase mein training volume aur/ya intensity kam ki jaati hai, jisse body ko recover hone ka mauka milta hai aur adaptations consolidate hoti hain, leading to better performance in subsequent training blocks."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Client ko exercise technique sikhane ka best approach kya hai?",
+      "options": {
+        "A": "Sirf verbal instructions dena",
+        "B": "Demonstrate karna, verbal cues dena, aur client ko practice karwana feedback ke saath",
+        "C": "Unhe khud se figure out karne dena",
+        "D": "Sirf video dikhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Effective coaching mein visual demonstration, clear verbal cues, hands-on spoting (agar zaroori ho) aur immediate, constructive feedback shamil hota hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Macronutrients kya hote hain?",
+      "options": {
+        "A": "Vitamins aur Minerals",
+        "B": "Carbohydrates, Proteins aur Fats",
+        "C": "Water aur Fiber",
+        "D": "Supplements"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Macronutrients woh nutrients hain jo body ko large quantities mein chahiye hote hain energy aur growth ke liye."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Protein ka primary function kya hai body mein?",
+      "options": {
+        "A": "Instant energy provide karna",
+        "B": "Muscle repair aur growth, hormone production",
+        "C": "Body temperature regulate karna",
+        "D": "Vitamins absorb karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proteins amino acids se bane hote hain aur muscle tissue repair, growth, enzyme aur hormone production ke liye essential hain."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Carbohydrates ka primary role kya hai?",
+      "options": {
+        "A": "Hormone production",
+        "B": "Body ka main energy source",
+        "C": "Vitamin absorption",
+        "D": "Bone strength"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Carbohydrates body ke liye primary aur preferred energy source hain, especially during exercise."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Healthy fats ka kya importance hai?",
+      "options": {
+        "A": "Sirf weight gain karte hain",
+        "B": "Hormone production, nutrient absorption aur cell function ke liye essential hain",
+        "C": "Body ke liye harmful hain",
+        "D": "Sirf taste enhance karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Healthy fats (unsaturated fats) essential fatty acids provide karte hain, hormone production mein help karte hain aur fat-soluble vitamins (A, D, E, K) ke absorption ke liye zaroori hain."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Dehydration ke signs kya ho sakte hain?",
+      "options": {
+        "A": "Increased energy",
+        "B": "Thirst, dark urine, fatigue, decreased performance",
+        "C": "Weight gain",
+        "D": "Clear urine"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dehydration body mein pani ki kami ko refer karta hai, jo performance aur overall health par negative impact daal sakta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Weight loss ke liye calorie balance kaise achieve kiya jata hai?",
+      "options": {
+        "A": "Zyada calories consume karke",
+        "B": "Calories consume karne se zyada calories burn karke (calorie deficit)",
+        "C": "Sirf proteins kha kar",
+        "D": "Sirf exercise karke, diet par dhyan na de kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Weight loss ke liye ek calorie deficit create karna zaroori hai, jisme aap jitni calories consume karte hain usse zyada burn karte hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Micronutrients kya hote hain?",
+      "options": {
+        "A": "Carbohydrates aur Fats",
+        "B": "Proteins",
+        "C": "Vitamins aur Minerals",
+        "D": "Water"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Micronutrients woh nutrients hain jo body ko small quantities mein chahiye hote hain, lekin essential hain various bodily functions ke liye."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Ek Personal Trainer ka role nutrition ke context mein kya hai?",
+      "options": {
+        "A": "Detailed meal plans prescribe karna",
+        "B": "General healthy eating guidelines provide karna aur clients ko qualified dietitian/nutritionist ko refer karna",
+        "C": "Supplements recommend karna",
+        "D": "Client ki medical conditions diagnose karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PFTs ko general healthy eating guidelines provide karni chahiye aur clients ko specific, medical nutrition advice ke liye qualified professionals ke paas refer karna chahiye."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Glycemic Index (GI) kya measure karta hai?",
+      "options": {
+        "A": "Food mein fat content",
+        "B": "Food kitni jaldi blood sugar level ko badhata hai",
+        "C": "Food mein protein content",
+        "D": "Food mein vitamin content"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Glycemic Index ek value hai jo batati hai ki ek particular food kitni jaldi blood glucose level ko raise karta hai. Low GI foods slow, sustained energy provide karte hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Fiber-rich foods ka kya benefit hai?",
+      "options": {
+        "A": "Constipation badhana",
+        "B": "Digestion improve karna, blood sugar regulate karna aur satiety badhana",
+        "C": "Fat absorption increase karna",
+        "D": "Calorie intake badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fiber digestive health ke liye essential hai, blood sugar spikes ko prevent karta hai aur fullness ka ehsaas dilata hai, jo weight management mein helpful hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Pre-workout meal mein kya shamil hona chahiye?",
+      "options": {
+        "A": "High fat aur high fiber",
+        "B": "Complex carbohydrates aur moderate protein",
+        "C": "Sirf sugar",
+        "D": "Heavy meal"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Complex carbohydrates sustained energy provide karte hain, aur moderate protein muscle breakdown ko prevent karta hai during workout."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Post-workout meal mein kya important hai?",
+      "options": {
+        "A": "Sirf water",
+        "B": "Proteins for muscle repair aur carbohydrates for glycogen replenishment",
+        "C": "High fat foods",
+        "D": "Fast food"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Workout ke baad muscles ko repair aur recover karne ke liye protein aur energy stores (glycogen) ko replenish karne ke liye carbohydrates zaroori hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Processed foods se bachna kyun advisable hai?",
+      "options": {
+        "A": "Kyunki woh expensive hote hain",
+        "B": "Unmein aksar high sugar, unhealthy fats aur sodium hota hai, aur low nutrient value",
+        "C": "Unka taste accha nahi hota",
+        "D": "Unhe banana mushkil hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Processed foods mein aksar empty calories, unhealthy ingredients aur artificial additives hote hain jo long-term health ke liye detrimental ho sakte hain."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Balanced diet ka kya matlab hai?",
+      "options": {
+        "A": "Sirf ek hi type ka food khana",
+        "B": "Sabhi essential macronutrients aur micronutrients ko right proportions mein consume karna",
+        "C": "Sirf supplements par depend karna",
+        "D": "Apni pasand ke foods hi khana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek balanced diet body ko optimal health aur function ke liye required sabhi nutrients provide karti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Supplements ke baare mein PFT ko kya advice deni chahiye?",
+      "options": {
+        "A": "Sabhi clients ko supplements lena chahiye",
+        "B": "Supplements sirf basic nutrition ki jagah le sakte hain",
+        "C": "Supplements 'supplement' karte hain ek healthy diet ko, aur unki zaroorat individual needs par depend karti hai. Always consult a doctor/dietitian.",
+        "D": "Sabse expensive supplement kharidna chahiye"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Supplements ek healthy diet ka substitute nahi hote. Unka use individual needs, deficiencies aur specific goals par based hona chahiye, aur hamesha medical professional se consult karna advisable hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Metabolism ko boost karne ke liye kya strategy effective ho sakti hai?",
+      "options": {
+        "A": "Sirf kam khana",
+        "B": "Regular exercise (especially strength training), adequate protein intake, aur sufficient sleep",
+        "C": "Skipping meals",
+        "D": "Sirf cardio karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Strength training muscle mass badhata hai, jo resting metabolic rate ko increase karta hai. Protein ka thermic effect high hota hai, aur sleep recovery aur hormone regulation ke liye essential hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "R.I.C.E. protocol ka kya matlab hai injury management mein?",
+      "options": {
+        "A": "Run, Ignore, Continue, Eat",
+        "B": "Rest, Ice, Compression, Elevation",
+        "C": "Run, Ice, Carry, Exercise",
+        "D": "Relax, Inhale, Consume, Exhale"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "R.I.C.E. ek common first-aid protocol hai acute soft tissue injuries (jaise sprains, strains) ke liye, jo pain aur swelling ko manage karne mein help karta hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Spotting ka primary purpose strength training mein kya hai?",
+      "options": {
+        "A": "Client ko zyada weight uthane ke liye force karna",
+        "B": "Client ki safety ensure karna aur unhe lift complete karne mein help karna agar zaroori ho",
+        "C": "Trainer ko apna strength dikhana",
+        "D": "Client ko uncomfortable feel karwana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spotting ek critical safety measure hai, especially heavy lifting ke dauran, jo client ko injury se bachata hai aur unhe lift safely complete karne mein confidence deta hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Pregnant client ke liye exercise program design karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Unhe sirf high-impact exercises karwana",
+        "B": "Supine (पीठ के बल लेटने वाली) exercises se bachna after first trimester, hydration maintain karna, aur doctor ki approval lena",
+        "C": "Unhe heavy weightlifting karwana",
+        "D": "Unhe koi exercise na karwane ki advice dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pregnancy ke dauran exercise safe hoti hai, lekin modifications zaroori hain. Supine position inferior vena cava par pressure daal sakti hai, aur overheating se bachna chahiye."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Older adults ke liye exercise program design karte waqt kya focus hona chahiye?",
+      "options": {
+        "A": "Sirf speed training",
+        "B": "Functional strength, balance, flexibility aur low-impact cardio",
+        "C": "Maximum intensity training",
+        "D": "Complex Olympic lifts"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Older adults mein functional fitness, fall prevention, joint health aur independence maintain karne par focus karna chahiye. Low-impact exercises aur balance training beneficial hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Heat stroke ke signs kya hain?",
+      "options": {
+        "A": "Sweating profusely, feeling cold",
+        "B": "High body temperature, hot/dry skin, confusion, loss of consciousness",
+        "C": "Increased energy, clear urine",
+        "D": "Mild headache"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Heat stroke ek life-threatening medical emergency hai jisme body ka temperature dangerously high ho jata hai aur body ki cooling mechanism fail ho jaati hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Agar client ko hypertension (high blood pressure) hai, toh kya exercise modification recommend kiya jata hai?",
+      "options": {
+        "A": "High-intensity isometric exercises",
+        "B": "Moderate-intensity aerobic exercise, avoid Valsalva maneuver",
+        "C": "Heavy weightlifting only",
+        "D": "Koi exercise nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hypertensive clients ke liye moderate aerobic exercise beneficial hai. Valsalva maneuver (breath-holding during exertion) blood pressure ko dangerously badha sakta hai, isliye ise avoid karna chahiye."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Hypoglycemia (low blood sugar) ke signs kya hain?",
+      "options": {
+        "A": "High energy levels",
+        "B": "Dizziness, sweating, shakiness, confusion",
+        "C": "Increased thirst",
+        "D": "Weight gain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hypoglycemia diabetic clients mein ho sakta hai, aur iske symptoms mein dizziness, shakiness, confusion shamil hain. Immediate sugar intake (glucose tablets, juice) zaroori hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Shoulder impingement syndrome wale client ke liye kya exercise modification useful ho sakta hai?",
+      "options": {
+        "A": "Overhead presses with heavy weights",
+        "B": "Exercises with reduced range of motion, external rotation focus, aur scapular stability work",
+        "C": "Bench presses with wide grip",
+        "D": "High-intensity plyometric push-ups"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Shoulder impingement mein overhead movements painful ho sakte hain. Modified range of motion, rotator cuff strengthening (especially external rotation), aur scapular control exercises beneficial hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Asthma wale client ke liye exercise karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Unhe cold, dry air mein exercise karwana",
+        "B": "Warm-up aur cool-down pe dhyan dena, inhaler accessible rakhna, aur triggers avoid karna",
+        "C": "Unhe high-intensity sprints karwana",
+        "D": "Unhe koi bhi cardio exercise na karwana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Asthma clients ke liye controlled environment mein exercise, proper warm-up/cool-down aur emergency inhaler ki availability important hai. Triggers jaise cold air ya allergens avoid karne chahiye."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Lower back pain wale client ke liye kya exercise advice deni chahiye?",
+      "options": {
+        "A": "Heavy deadlifts without proper form",
+        "B": "Core strengthening, flexibility exercises, aur proper lifting techniques par focus karna",
+        "C": "Sirf bed rest",
+        "D": "High-impact jumps"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Core strength aur flexibility lower back pain ko alleviate aur prevent karne mein help karti hai. Proper form aur body mechanics critical hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Environmental safety mein 'Rhabdomyolysis' kya hai?",
+      "options": {
+        "A": "Ek type ka skin rash",
+        "B": "Severe muscle breakdown jo kidney damage kar sakta hai, usually extreme exertion se hota hai",
+        "C": "Ek common cold virus",
+        "D": "Bone fracture"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Rhabdomyolysis ek serious condition hai jisme damaged muscle fibers blood stream mein release hote hain, jo kidney failure ka karan ban sakte hain. Extreme overexertion iska ek cause hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Client ko exercise ke dauran chest pain hone par PFT ka immediate action kya hona chahiye?",
+      "options": {
+        "A": "Unhe workout continue karne ko bolna",
+        "B": "Immediately exercise stop karna, client ko rest karwana aur medical emergency services (102/108) ko call karna",
+        "C": "Unhe pani pilana",
+        "D": "Unhe ghar bhej dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chest pain ek serious symptom ho sakta hai jo cardiac event ko indicate karta hai. Isme immediate medical attention zaroori hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Osteoporosis wale clients ke liye kya exercise considerations hain?",
+      "options": {
+        "A": "High-impact jumping exercises",
+        "B": "Weight-bearing exercises, strength training, balance work, aur fall prevention par focus karna",
+        "C": "Sirf swimming",
+        "D": "Heavy lifting with spinal flexion"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Osteoporosis mein bones weak ho jaati hain. Weight-bearing aur strength training bone density maintain karne mein help karte hain. Fall prevention aur spinal flexion avoid karna important hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Client ko 'DOMS' (Delayed Onset Muscle Soreness) se relieve karne ke liye kya recommend kar sakte hain?",
+      "options": {
+        "A": "Intense workout continue karna",
+        "B": "Active recovery, gentle stretching, foam rolling, aur proper hydration",
+        "C": "Painkillers ka regular use",
+        "D": "Complete inactivity"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "DOMS exercise ke 24-72 hours baad hone wala muscle pain hai. Active recovery aur stretching blood flow ko badhate hain aur soreness ko kam karte hain."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Ek PFT ko emergency action plan (EAP) ki knowledge kyun honi chahiye?",
+      "options": {
+        "A": "Sirf rules follow karne ke liye",
+        "B": "Medical emergencies ko effectively handle karne aur client ki safety ensure karne ke liye",
+        "C": "Clients ko impress karne ke liye",
+        "D": "Apni job profile badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "EAP trainer ko medical emergencies ke dauran kya steps lene hain, iski clear guidance deta hai, jisse quick aur appropriate action liya ja sake."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Type 2 Diabetes wale client ke liye exercise program mein kya consideration hona chahiye?",
+      "options": {
+        "A": "Sirf high-sugar diets",
+        "B": "Regular moderate-intensity aerobic aur resistance training, blood glucose levels monitor karna",
+        "C": "Unhe skipping meals recommend karna",
+        "D": "Insulin dose increase karna without medical advice"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Exercise blood glucose control improve karti hai aur insulin sensitivity badhati hai. Regular monitoring aur doctor/dietitian se consultation essential hai."
+    }
+  ]
+}

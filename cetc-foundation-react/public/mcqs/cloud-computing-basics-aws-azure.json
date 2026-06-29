@@ -1,0 +1,1443 @@
+{
+  "course_name": "Cloud Computing Basics — AWS / Azure",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Intermediate",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Cloud Computing & Core Concepts",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "AWS Core Compute, Storage & Networking",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Azure Core Compute, Storage & Networking",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Cloud Security & Identity Management",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Cloud Databases & Serverless Architectures",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Monitoring, Management & Cost Optimization",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which cloud service model provides users with the ability to deploy and run custom applications, but manages the underlying infrastructure?",
+      "options": {
+        "A": "Infrastructure as a Service (IaaS)",
+        "B": "Platform as a Service (PaaS)",
+        "C": "Software as a Service (SaaS)",
+        "D": "Function as a Service (FaaS)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PaaS provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "A company requires dedicated compute resources for sensitive data processing, ensuring complete isolation from other tenants. Which cloud deployment model would be most suitable?",
+      "options": {
+        "A": "Public Cloud",
+        "B": "Private Cloud",
+        "C": "Hybrid Cloud",
+        "D": "Community Cloud"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A private cloud offers dedicated resources for a single organization, providing the highest level of isolation and control, which is crucial for sensitive data."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "What is a primary benefit of using cloud computing for a startup with fluctuating demand?",
+      "options": {
+        "A": "Fixed upfront capital expenditure",
+        "B": "Predictable long-term costs",
+        "C": "Elasticity and scalability",
+        "D": "Complete control over physical infrastructure"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Elasticity and scalability allow a startup to easily scale resources up or down based on demand, paying only for what they use, which is ideal for fluctuating workloads."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Which characteristic of cloud computing refers to the ability to rapidly provision and de-provision IT resources?",
+      "options": {
+        "A": "Measured Service",
+        "B": "On-demand Self-service",
+        "C": "Resource Pooling",
+        "D": "Broad Network Access"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "On-demand self-service allows consumers to provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "A traditional data center is facing high maintenance costs for hardware upgrades and power consumption. How can migrating to the cloud address these issues?",
+      "options": {
+        "A": "By increasing the need for on-premises IT staff.",
+        "B": "By shifting from CapEx to OpEx for infrastructure.",
+        "C": "By requiring more physical server space.",
+        "D": "By limiting access to advanced technologies."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cloud migration shifts the financial model from Capital Expenditure (CapEx) on hardware to Operational Expenditure (OpEx) for services, reducing upfront costs and ongoing maintenance burden."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "In the Shared Responsibility Model, which party is typically responsible for the security 'of' the cloud?",
+      "options": {
+        "A": "The customer",
+        "B": "The cloud provider",
+        "C": "A third-party auditor",
+        "D": "Both the customer and the cloud provider equally"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The cloud provider is responsible for the security 'of' the cloud, meaning the underlying infrastructure, hardware, and global network that supports the cloud services."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Which of the following is NOT a characteristic of cloud computing as defined by NIST?",
+      "options": {
+        "A": "Broad Network Access",
+        "B": "Resource Pooling",
+        "C": "Unlimited Hardware Ownership",
+        "D": "Measured Service"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cloud computing is characterized by shared resources and often a pay-as-you-go model, not unlimited hardware ownership by the consumer."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "A company wants to host its existing applications on the cloud but retain control over the operating system and installed software. Which service model is most appropriate?",
+      "options": {
+        "A": "SaaS",
+        "B": "PaaS",
+        "C": "IaaS",
+        "D": "FaaS"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "IaaS gives customers the most control over their virtual machines, including the operating system, while the cloud provider manages the underlying physical infrastructure."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "What is the primary advantage of a hybrid cloud deployment model?",
+      "options": {
+        "A": "Complete elimination of on-premises infrastructure.",
+        "B": "Maximum data isolation and security.",
+        "C": "Flexibility to move workloads between private and public environments.",
+        "D": "Lower overall cost compared to a pure public cloud."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A hybrid cloud combines private and public clouds, allowing organizations to leverage the scalability of the public cloud while keeping sensitive data or critical applications on-premises or in a private cloud."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "In the context of cloud computing, what does 'elasticity' primarily refer to?",
+      "options": {
+        "A": "The ability to run applications on different operating systems.",
+        "B": "The ability to automatically and dynamically scale resources up or down.",
+        "C": "The physical flexibility of server hardware.",
+        "D": "The ease of migrating data between cloud providers."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Elasticity is the degree to which a system can adapt to workload changes by provisioning and de-provisioning resources in an autonomic manner, such that at each point in time the available resources match the current demand as closely as possible."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "A company is considering migrating its monolithic application to a microservices architecture in the cloud. Which cloud benefit would be most relevant to this transformation?",
+      "options": {
+        "A": "Reduced physical server footprint.",
+        "B": "Enhanced vendor lock-in.",
+        "C": "Improved agility and independent scaling of services.",
+        "D": "Guaranteed 100% uptime for all services."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Microservices benefit greatly from the cloud's ability to provide independent scaling and deployment for each service, leading to improved agility and resilience, which aligns with the cloud's inherent elasticity."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Which of the following scenarios is best suited for a Software as a Service (SaaS) solution?",
+      "options": {
+        "A": "Developing a custom machine learning model.",
+        "B": "Hosting a legacy application that requires specific OS configurations.",
+        "C": "Using an email service like Gmail or Microsoft 365.",
+        "D": "Building a highly customized e-commerce platform from scratch."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "SaaS applications are ready-to-use software applications delivered over the internet, typically managed by a third-party vendor, like email services."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "What is the main purpose of 'resource pooling' in cloud computing?",
+      "options": {
+        "A": "To allow customers to share physical hardware components.",
+        "B": "To aggregate computing resources to serve multiple consumers.",
+        "C": "To create a pool of dedicated resources for a single client.",
+        "D": "To provide a backup solution for data across multiple regions."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Resource pooling means that the cloud provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "A company needs to quickly test a new application without investing in new hardware. Which cloud benefit directly supports this requirement?",
+      "options": {
+        "A": "Geographic distribution",
+        "B": "Reduced operational costs",
+        "C": "Agility and rapid prototyping",
+        "D": "Enhanced security posture"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cloud computing allows for rapid provisioning of resources, enabling quick setup of test environments and faster prototyping without significant upfront investment."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Which aspect of the shared responsibility model covers customer data encryption in a PaaS offering?",
+      "options": {
+        "A": "Cloud provider's responsibility (security of the cloud)",
+        "B": "Customer's responsibility (security in the cloud)",
+        "C": "It's solely the responsibility of the application developer.",
+        "D": "It's managed automatically by the cloud provider, no customer action needed."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "While the cloud provider secures the platform, the customer is generally responsible for securing their data, including encryption at rest and in transit, within a PaaS offering."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "An organization is looking for a cloud solution that offers high availability and disaster recovery across different geographical locations. Which cloud concept addresses this need?",
+      "options": {
+        "A": "Single Availability Zone deployment",
+        "B": "On-premises data replication",
+        "C": "Global infrastructure with regions and availability zones",
+        "D": "Dedicated hardware instances"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cloud providers like AWS and Azure offer global infrastructure with regions and availability zones to ensure high availability and facilitate disaster recovery by distributing resources geographically."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "What is 'vendor lock-in' in the context of cloud computing?",
+      "options": {
+        "A": "The ability to easily switch between different cloud providers.",
+        "B": "The difficulty of migrating from one cloud provider to another due to proprietary technologies.",
+        "C": "A security feature that locks down access to cloud resources.",
+        "D": "A contractual agreement guaranteeing fixed pricing for cloud services."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vendor lock-in refers to a situation where a customer is dependent on a single vendor for products and services and cannot switch to another vendor without substantial costs, effort, or even complete re-architecting."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Which AWS service allows you to run virtual servers in the cloud?",
+      "options": {
+        "A": "Amazon S3",
+        "B": "Amazon RDS",
+        "C": "Amazon EC2",
+        "D": "Amazon VPC"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Amazon EC2 (Elastic Compute Cloud) provides resizable compute capacity in the cloud as virtual servers, known as instances."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "A developer needs highly durable, scalable object storage for static website assets. Which AWS service should be used?",
+      "options": {
+        "A": "Amazon EBS",
+        "B": "Amazon RDS",
+        "C": "Amazon S3",
+        "D": "Amazon Glacier"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Amazon S3 (Simple Storage Service) is an object storage service offering industry-leading scalability, data availability, security, and performance, perfect for static website hosting."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "To ensure high availability for an application running on EC2 instances, you should deploy instances across multiple:",
+      "options": {
+        "A": "Regions",
+        "B": "Availability Zones",
+        "C": "VPCs",
+        "D": "Subnets"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Availability Zones are physically separate, isolated locations within an AWS Region. Deploying instances across multiple AZs protects against failures in a single location."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Which AWS service is used to isolate your cloud resources virtually and define your own network configuration?",
+      "options": {
+        "A": "Amazon Route 53",
+        "B": "AWS Direct Connect",
+        "C": "Amazon VPC",
+        "D": "AWS Transit Gateway"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Amazon VPC (Virtual Private Cloud) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "A company wants to automatically scale its EC2 instances based on CPU utilization to handle varying traffic. Which AWS service enables this functionality?",
+      "options": {
+        "A": "AWS Lambda",
+        "B": "AWS Auto Scaling",
+        "C": "Amazon CloudWatch",
+        "D": "AWS Elastic Load Balancing"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AWS Auto Scaling monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost, often based on metrics like CPU utilization."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Which type of Amazon S3 storage class is designed for frequently accessed data with low latency and high throughput?",
+      "options": {
+        "A": "S3 Standard",
+        "B": "S3 Intelligent-Tiering",
+        "C": "S3 Glacier",
+        "D": "S3 One Zone-IA"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "S3 Standard is the default storage class for frequently accessed data, offering high durability, availability, and performance."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "What is the purpose of an AWS Elastic Load Balancer (ELB)?",
+      "options": {
+        "A": "To distribute incoming application traffic across multiple targets, such as EC2 instances.",
+        "B": "To automatically scale EC2 instances based on demand.",
+        "C": "To provide persistent block storage for EC2 instances.",
+        "D": "To manage DNS records for your domain."
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Elastic Load Balancing automatically distributes incoming application traffic across multiple targets, such as EC2 instances, in multiple Availability Zones, increasing fault tolerance."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Which AWS service allows you to manage users, groups, and permissions to control access to AWS resources?",
+      "options": {
+        "A": "AWS KMS",
+        "B": "AWS Organizations",
+        "C": "AWS IAM",
+        "D": "AWS WAF"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "AWS Identity and Access Management (IAM) enables you to securely control access to AWS services and resources for your users."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "You need to store data on an EC2 instance that persists even after the instance is stopped or terminated. Which storage option should you choose?",
+      "options": {
+        "A": "Instance Store",
+        "B": "Amazon S3",
+        "C": "Amazon EBS",
+        "D": "Ephemeral Storage"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Amazon EBS (Elastic Block Store) provides persistent block storage volumes for use with EC2 instances. Unlike instance store, EBS volumes persist independently of the life of an instance."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "A web application hosted on AWS EC2 needs to be accessible from the internet. Which component of AWS VPC allows inbound traffic to the EC2 instance?",
+      "options": {
+        "A": "Network ACL",
+        "B": "Security Group",
+        "C": "Route Table",
+        "D": "Internet Gateway"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "An Internet Gateway is a horizontally scaled, redundant, and highly available VPC component that allows communication between your VPC and the internet."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "A solution architect is designing a highly available and fault-tolerant architecture for a critical application. Which AWS component is crucial for distributing traffic across multiple EC2 instances in different Availability Zones?",
+      "options": {
+        "A": "Amazon CloudFront",
+        "B": "AWS Direct Connect",
+        "C": "Elastic Load Balancer (ELB)",
+        "D": "Amazon Route 53"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "ELB is specifically designed to distribute incoming traffic across multiple instances, often spanning Availability Zones, to ensure high availability and fault tolerance."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "You have an application that requires low-cost, infrequently accessed storage with retrieval times of several hours. Which S3 storage class would be most cost-effective?",
+      "options": {
+        "A": "S3 Standard",
+        "B": "S3 Standard-IA",
+        "C": "S3 Glacier Deep Archive",
+        "D": "S3 One Zone-IA"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "S3 Glacier Deep Archive is AWS's lowest-cost storage class, designed for archiving data that is rarely accessed and has retrieval times of 12 hours or more."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Which of the following is a managed relational database service in AWS?",
+      "options": {
+        "A": "Amazon DynamoDB",
+        "B": "Amazon Redshift",
+        "C": "Amazon RDS",
+        "D": "Amazon Aurora"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Amazon RDS (Relational Database Service) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon Aurora is a compatible relational database, but RDS is the service that manages it."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "To secure an EC2 instance by controlling inbound and outbound traffic at the instance level, what AWS security feature should be configured?",
+      "options": {
+        "A": "Network ACL",
+        "B": "Security Group",
+        "C": "VPC Flow Logs",
+        "D": "AWS WAF"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Security Groups act as a virtual firewall for your EC2 instances to control inbound and outbound traffic. They operate at the instance level."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "A company wants to host a static website on AWS that requires minimal operational overhead and high availability. Which combination of services would be most suitable?",
+      "options": {
+        "A": "EC2 with EBS",
+        "B": "S3 with CloudFront",
+        "C": "RDS with EC2",
+        "D": "Lambda with DynamoDB"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hosting a static website directly on Amazon S3 is highly cost-effective and available. Integrating with Amazon CloudFront (CDN) further improves performance and security."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Which AWS networking component allows you to connect your on-premises network directly to your AWS VPC using a dedicated network connection?",
+      "options": {
+        "A": "VPC Peering",
+        "B": "Internet Gateway",
+        "C": "AWS Direct Connect",
+        "D": "VPN Connection"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "AWS Direct Connect establishes a dedicated network connection from your premises to AWS, providing higher bandwidth and a more consistent network experience than internet-based VPN connections."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "What is the primary function of an IAM Role in AWS?",
+      "options": {
+        "A": "To define the permissions for a human user to access AWS services.",
+        "B": "To provide temporary permissions to AWS services or users without permanent credentials.",
+        "C": "To create a group of users with common permissions.",
+        "D": "To configure multi-factor authentication for an AWS account."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IAM Roles are designed to grant temporary permissions to AWS services (like an EC2 instance accessing S3) or to users who need to assume different levels of access temporarily, without managing permanent credentials."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Which Azure compute service allows you to deploy and manage virtual machines?",
+      "options": {
+        "A": "Azure App Service",
+        "B": "Azure Functions",
+        "C": "Azure Virtual Machines",
+        "D": "Azure Kubernetes Service (AKS)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Virtual Machines (VMs) are the IaaS offering from Azure that provides on-demand, scalable computing resources."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "For storing large amounts of unstructured data like images, videos, and documents in Azure, which storage service is most appropriate?",
+      "options": {
+        "A": "Azure Files",
+        "B": "Azure Queue Storage",
+        "C": "Azure Blob Storage",
+        "D": "Azure Table Storage"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Blob Storage is Microsoft's object storage solution for the cloud. Blob storage is optimized for storing massive amounts of unstructured data."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "To isolate your Azure resources within a virtual network and define your own network configuration, which service should you use?",
+      "options": {
+        "A": "Azure ExpressRoute",
+        "B": "Azure VPN Gateway",
+        "C": "Azure Virtual Network (VNet)",
+        "D": "Azure DNS"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Virtual Network (VNet) is the fundamental building block for your private network in Azure. VNet enables many types of Azure resources, such as Azure Virtual Machines, to securely communicate with each other, the internet, and on-premises networks."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Which Azure service is used to automatically scale your virtual machines up or down based on demand?",
+      "options": {
+        "A": "Azure Load Balancer",
+        "B": "Azure Application Gateway",
+        "C": "Azure Virtual Machine Scale Sets",
+        "D": "Azure Monitor"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Azure Virtual Machine Scale Sets let you create and manage a group of load-balanced, auto-scaling VMs. The number of VM instances can automatically increase or decrease in response to demand or a defined schedule."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "You need to provide persistent, high-performance block storage for an Azure Virtual Machine. Which storage offering is suitable?",
+      "options": {
+        "A": "Azure Blob Storage",
+        "B": "Azure Files",
+        "C": "Azure Disks",
+        "D": "Azure Queue Storage"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Azure Disks provide persistent, high-performance block storage for Azure Virtual Machines, similar to Amazon EBS."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Which Azure networking component allows inbound traffic from the internet to your Azure Virtual Machines?",
+      "options": {
+        "A": "Network Security Group (NSG)",
+        "B": "Azure Firewall",
+        "C": "Public IP Address",
+        "D": "Route Table"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A Public IP address is required for Azure resources to communicate with the internet. It enables inbound connections from the internet to resources like Azure VMs."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "A company requires a fully managed relational database service in Azure. Which service fits this requirement?",
+      "options": {
+        "A": "Azure Cosmos DB",
+        "B": "Azure SQL Database",
+        "C": "Azure Table Storage",
+        "D": "Azure Data Lake"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Azure SQL Database is a fully managed platform as a service (PaaS) database engine that handles most of the database management functions such as upgrading, patching, backups, and monitoring without user involvement."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Which Azure service provides centralized identity and access management for cloud resources and on-premises applications?",
+      "options": {
+        "A": "Azure Key Vault",
+        "B": "Azure Security Center",
+        "C": "Azure Active Directory (Azure AD)",
+        "D": "Azure Policy"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Active Directory (Azure AD) is Microsoft's cloud-based identity and access management service, which helps your employees sign in and access resources."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "To distribute incoming network traffic across multiple virtual machines within an Azure Virtual Network, you would use:",
+      "options": {
+        "A": "Azure Traffic Manager",
+        "B": "Azure Application Gateway",
+        "C": "Azure Load Balancer",
+        "D": "Azure Front Door"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Load Balancer is a Layer 4 (TCP, UDP) load balancer that distributes incoming traffic among healthy instances within a set of identical virtual machines."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Which Azure storage tier is optimized for rarely accessed data that requires high durability and can tolerate longer access times, making it ideal for backups and archiving?",
+      "options": {
+        "A": "Hot",
+        "B": "Cool",
+        "C": "Archive",
+        "D": "Premium"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Archive access tier is optimized for rarely accessed data that can tolerate retrieval latency of several hours, offering the lowest storage costs."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "A company wants to host a web application on Azure that requires a fully managed platform with automatic scaling and patching, allowing developers to focus solely on code. Which service is best suited?",
+      "options": {
+        "A": "Azure Virtual Machines",
+        "B": "Azure Kubernetes Service (AKS)",
+        "C": "Azure App Service",
+        "D": "Azure Functions"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Azure App Service is a fully managed platform for building, deploying, and scaling web apps. It handles infrastructure management, allowing developers to focus on application development."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "What is the primary purpose of an Azure Network Security Group (NSG)?",
+      "options": {
+        "A": "To route traffic between subnets.",
+        "B": "To filter network traffic to and from Azure resources in a VNet.",
+        "C": "To provide a dedicated private connection to Azure.",
+        "D": "To monitor network performance and troubleshoot connectivity issues."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Network Security Groups (NSGs) filter network traffic to and from Azure resources in an Azure Virtual Network. An NSG contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Which Azure service would you use to connect your on-premises network to your Azure Virtual Network over a private, dedicated connection?",
+      "options": {
+        "A": "Azure VPN Gateway",
+        "B": "Azure Virtual WAN",
+        "C": "Azure ExpressRoute",
+        "D": "Azure Traffic Manager"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Azure ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection facilitated by a connectivity provider, offering higher bandwidth and lower latency than VPN."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "An application requires a globally distributed, multi-model NoSQL database with guaranteed low latency. Which Azure service is designed for this purpose?",
+      "options": {
+        "A": "Azure SQL Database",
+        "B": "Azure Table Storage",
+        "C": "Azure Cosmos DB",
+        "D": "Azure Database for PostgreSQL"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Azure Cosmos DB is a globally distributed, multi-model database service that offers turn-key global distribution, guaranteed low latency, and high availability."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "When deploying an Azure Virtual Machine, what is the purpose of an 'Availability Set'?",
+      "options": {
+        "A": "To distribute VMs across multiple Azure regions for disaster recovery.",
+        "B": "To group VMs that share storage and network resources for performance optimization.",
+        "C": "To ensure VMs are distributed across different underlying hardware in a datacenter for high availability.",
+        "D": "To automatically scale the number of VMs based on traffic."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "An Availability Set is a logical grouping capability for VMs that you can use in Azure to ensure that the VM resources you place within an Availability Set are isolated from each other when they are deployed within an Azure data center."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is the primary function of an Azure Resource Group?",
+      "options": {
+        "A": "To define network connectivity between VNets.",
+        "B": "To provide a logical container for related Azure resources.",
+        "C": "To manage user identities and access permissions.",
+        "D": "To monitor the performance of Azure services."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "An Azure Resource Group is a logical container into which Azure resources like web apps, databases, and storage accounts are deployed and managed. It simplifies organization and management of resources."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "A company wants to migrate its on-premises file shares to Azure, allowing both cloud and on-premises access with SMB protocol. Which Azure storage solution would be most suitable?",
+      "options": {
+        "A": "Azure Blob Storage",
+        "B": "Azure Table Storage",
+        "C": "Azure Queue Storage",
+        "D": "Azure Files"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Azure Files offers fully managed file shares in the cloud that are accessible via the industry-standard Server Message Block (SMB) protocol, making them suitable for traditional file share migration."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "In the Shared Responsibility Model, who is responsible for patching the guest operating system on an EC2 instance?",
+      "options": {
+        "A": "AWS",
+        "B": "The customer",
+        "C": "A third-party security vendor",
+        "D": "Both AWS and the customer"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "For IaaS services like EC2, the customer is responsible for the operating system, applications, and data, including patching the guest OS."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Which AWS service helps protect web applications from common web exploits that could affect application availability, compromise security, or consume excessive resources?",
+      "options": {
+        "A": "AWS Shield",
+        "B": "AWS WAF",
+        "C": "AWS Security Hub",
+        "D": "Amazon GuardDuty"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AWS WAF (Web Application Firewall) helps protect your web applications or APIs against common web exploits and bots that may affect availability, compromise security, or consume excessive resources."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "A security team needs to restrict network access to an Azure VM to only specific IP addresses and ports. Which Azure networking feature should they configure?",
+      "options": {
+        "A": "Azure Firewall",
+        "B": "Azure Front Door",
+        "C": "Network Security Group (NSG)",
+        "D": "Azure Application Gateway"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Network Security Groups (NSGs) are used to filter network traffic to and from Azure resources in an Azure Virtual Network, allowing you to specify allowed IP addresses and ports."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Which AWS security service continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads?",
+      "options": {
+        "A": "AWS Config",
+        "B": "Amazon Macie",
+        "C": "Amazon GuardDuty",
+        "D": "AWS CloudTrail"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Amazon GuardDuty is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "To enforce multi-factor authentication (MFA) for all administrative users in Azure Active Directory, which feature would you configure?",
+      "options": {
+        "A": "Azure AD Identity Protection",
+        "B": "Conditional Access policies",
+        "C": "Privileged Identity Management (PIM)",
+        "D": "Azure AD B2C"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Azure AD Conditional Access policies allow you to enforce MFA for specific user groups, roles, or scenarios, including administrative users."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "In AWS IAM, what is the principle of 'least privilege'?",
+      "options": {
+        "A": "Granting all users administrative access by default.",
+        "B": "Granting only the permissions required to perform a specific task.",
+        "C": "Allowing public access to all S3 buckets.",
+        "D": "Using a single root account for all operations."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The principle of least privilege dictates that users should be granted only the minimum permissions necessary to perform their required job functions."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Which Azure service is used to store and manage cryptographic keys, secrets, and certificates securely?",
+      "options": {
+        "A": "Azure Storage Account",
+        "B": "Azure Monitor",
+        "C": "Azure Key Vault",
+        "D": "Azure Policy"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Key Vault provides a secure store for secrets like API keys, database connection strings, and certificates, helping to protect sensitive data."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "An AWS customer wants to encrypt data at rest in S3 buckets. Which AWS service can be integrated with S3 for server-side encryption with customer-managed keys?",
+      "options": {
+        "A": "AWS Secrets Manager",
+        "B": "AWS Certificate Manager",
+        "C": "AWS Key Management Service (KMS)",
+        "D": "AWS CloudHSM"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "AWS KMS allows you to create and manage cryptographic keys and control their use across a wide range of AWS services, including S3, for data encryption."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "A developer needs to ensure that only authenticated users can access an API deployed on Azure API Management. Which Azure AD feature can be used for this?",
+      "options": {
+        "A": "Azure AD Domain Services",
+        "B": "Azure AD Application Proxy",
+        "C": "Azure AD Conditional Access",
+        "D": "Azure AD Application Registration"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Azure AD Application Registration is used to integrate applications with Azure AD, allowing them to use Azure AD for authentication and authorization, which is essential for securing APIs."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "What is the main difference between an AWS Security Group and a Network ACL?",
+      "options": {
+        "A": "Security Groups are stateless; Network ACLs are stateful.",
+        "B": "Security Groups operate at the subnet level; Network ACLs operate at the instance level.",
+        "C": "Security Groups are stateful; Network ACLs are stateless.",
+        "D": "Security Groups only allow inbound rules; Network ACLs allow both inbound and outbound."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Security Groups are stateful (if you allow inbound, outbound is automatically allowed). Network ACLs are stateless (inbound and outbound rules must be explicitly defined and allowed)."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "An organization wants to implement a policy in Azure that denies the creation of virtual machines outside a specific region. Which Azure service can enforce this?",
+      "options": {
+        "A": "Azure Monitor",
+        "B": "Azure Cost Management",
+        "C": "Azure Policy",
+        "D": "Azure Advisor"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Azure Policy helps to enforce organizational standards and to assess compliance at scale. It can define policies like restricting resource deployment to specific regions."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Which AWS service provides a fully managed, dedicated hardware security module (HSM) in the AWS Cloud?",
+      "options": {
+        "A": "AWS KMS",
+        "B": "AWS Secrets Manager",
+        "C": "AWS CloudHSM",
+        "D": "AWS Certificate Manager"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "AWS CloudHSM allows you to generate and use your own encryption keys on FIPS 140-2 Level 3 validated HSMs, providing dedicated, single-tenant hardware for cryptographic operations."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "A company needs to protect its Azure web application from SQL injection and cross-site scripting attacks. Which Azure service would provide this protection?",
+      "options": {
+        "A": "Azure Firewall",
+        "B": "Azure DDoS Protection",
+        "C": "Azure Application Gateway with WAF",
+        "D": "Network Security Group (NSG)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Azure Application Gateway with its Web Application Firewall (WAF) capability provides centralized protection of your web applications from common exploits and vulnerabilities like SQL injection."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "What is the purpose of an IAM Policy in AWS?",
+      "options": {
+        "A": "To define the password requirements for IAM users.",
+        "B": "To grant or deny permissions to AWS resources.",
+        "C": "To create a virtual private cloud.",
+        "D": "To monitor API calls made within an AWS account."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IAM policies are JSON documents that define permissions (what actions are allowed or denied on which resources) and can be attached to IAM users, groups, or roles."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "In Azure, what is 'Role-Based Access Control' (RBAC)?",
+      "options": {
+        "A": "A system to control access to physical Azure data centers.",
+        "B": "A method to manage user passwords and MFA settings.",
+        "C": "An authorization system built on Azure Resource Manager that provides fine-grained access management.",
+        "D": "A way to restrict outbound internet access from Azure VMs."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure RBAC helps you manage who has access to Azure resources, what they can do with those resources, and what areas they have access to."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "An AWS customer wants to ensure that all data uploaded to an S3 bucket is encrypted at rest by default. How can this be enforced?",
+      "options": {
+        "A": "Configure client-side encryption for all uploads.",
+        "B": "Enable default encryption on the S3 bucket properties.",
+        "C": "Use a bucket policy to deny unencrypted uploads.",
+        "D": "Both B and C."
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Enabling default encryption on the S3 bucket (B) ensures new objects are encrypted. Additionally, a bucket policy (C) can be used to explicitly deny any PUT requests that do not include server-side encryption headers, providing a stronger enforcement mechanism."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Which Azure security service provides a unified security management and threat protection for hybrid cloud workloads?",
+      "options": {
+        "A": "Azure Sentinel",
+        "B": "Azure Security Center (now Microsoft Defender for Cloud)",
+        "C": "Azure AD Identity Protection",
+        "D": "Azure ATP"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Microsoft Defender for Cloud (formerly Azure Security Center) provides cloud security posture management (CSPM) and cloud workload protection (CWP) for Azure, on-premises, and other clouds."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Which AWS database service is a fully managed NoSQL database service that supports key-value and document data models?",
+      "options": {
+        "A": "Amazon RDS",
+        "B": "Amazon Redshift",
+        "C": "Amazon DynamoDB",
+        "D": "Amazon Neptune"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "A developer wants to run code in response to events without provisioning or managing servers. Which AWS service is designed for this serverless computing paradigm?",
+      "options": {
+        "A": "Amazon EC2",
+        "B": "AWS Fargate",
+        "C": "AWS Lambda",
+        "D": "AWS Elastic Beanstalk"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. You pay only for the compute time you consume."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Which Azure service is a globally distributed, multi-model database service that offers turn-key global distribution and guaranteed low latency?",
+      "options": {
+        "A": "Azure SQL Database",
+        "B": "Azure Database for MySQL",
+        "C": "Azure Cosmos DB",
+        "D": "Azure Table Storage"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Cosmos DB is Azure's globally distributed, multi-model (document, key-value, graph, column-family) database service with guaranteed low latency and high availability."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "An application needs to execute small, event-driven code snippets in Azure without managing the underlying infrastructure. Which service is suitable?",
+      "options": {
+        "A": "Azure Virtual Machines",
+        "B": "Azure App Service",
+        "C": "Azure Functions",
+        "D": "Azure Kubernetes Service (AKS)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Functions is a serverless compute service that enables you to run event-triggered code without explicitly provisioning or managing infrastructure."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "A company requires a managed relational database in AWS that supports PostgreSQL and provides automatic backups and patching. Which service should they choose?",
+      "options": {
+        "A": "EC2 with PostgreSQL installed",
+        "B": "Amazon DynamoDB",
+        "C": "Amazon RDS for PostgreSQL",
+        "D": "Amazon Redshift"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Amazon RDS (Relational Database Service) supports various database engines, including PostgreSQL, and offers managed features like backups, patching, and scaling."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Which AWS database service is best suited for OLAP (Online Analytical Processing) workloads, often used for data warehousing?",
+      "options": {
+        "A": "Amazon RDS",
+        "B": "Amazon DynamoDB",
+        "C": "Amazon Redshift",
+        "D": "Amazon ElastiCache"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Amazon Redshift is a fully managed, petabyte-scale data warehouse service in the cloud, optimized for analytical queries on large datasets (OLAP)."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "A team is building a new application that uses microservices and needs a highly scalable, fully managed database solution for storing user profiles with flexible schema. Which Azure database would be a good fit?",
+      "options": {
+        "A": "Azure SQL Database",
+        "B": "Azure Database for PostgreSQL",
+        "C": "Azure Cosmos DB (Document API)",
+        "D": "Azure Database for MySQL"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Azure Cosmos DB, particularly its Document API, is ideal for flexible schema data like user profiles in microservices, offering global distribution and high scalability."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "What is a key benefit of using AWS Lambda compared to running an application on an EC2 instance?",
+      "options": {
+        "A": "Full control over the underlying operating system.",
+        "B": "Fixed monthly costs regardless of usage.",
+        "C": "Automatic scaling and no server management.",
+        "D": "Long-running, continuous processes are more cost-effective."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Lambda is a serverless service, meaning AWS handles all server provisioning and management, and it scales automatically based on demand. You only pay for compute time used."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "An application requires caching to improve performance and reduce database load. Which AWS service provides an in-memory caching solution?",
+      "options": {
+        "A": "Amazon S3",
+        "B": "Amazon DynamoDB Accelerator (DAX)",
+        "C": "Amazon ElastiCache",
+        "D": "Amazon RDS Proxy"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Amazon ElastiCache is a fully managed, in-memory caching service that supports Memcached and Redis, helping to speed up data retrieval."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Which Azure database service is designed for storing time-series data, such as IoT sensor readings, and offers high ingest and query performance?",
+      "options": {
+        "A": "Azure SQL Database",
+        "B": "Azure Cosmos DB (Table API)",
+        "C": "Azure Data Explorer",
+        "D": "Azure Cache for Redis"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Azure Data Explorer is a fast, highly scalable data exploration service for log and telemetry data. It's particularly well-suited for time-series data from IoT devices."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "When configuring an Azure Function, which 'hosting plan' allows for true serverless, event-driven scaling with consumption-based billing?",
+      "options": {
+        "A": "App Service Plan",
+        "B": "Premium Plan",
+        "C": "Consumption Plan",
+        "D": "Dedicated Plan"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Consumption Plan for Azure Functions automatically allocates compute power when your code is running and scales out as needed. You only pay for the compute time your code consumes."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "A development team needs to quickly provision a temporary database for testing, which can be easily discarded after use. Which AWS service would be most efficient for this?",
+      "options": {
+        "A": "Installing a database on a persistent EC2 instance.",
+        "B": "Using a serverless database like Amazon Aurora Serverless.",
+        "C": "Setting up a highly available Amazon RDS instance.",
+        "D": "Storing data in S3 with a custom query layer."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Amazon Aurora Serverless is an on-demand, auto-scaling configuration for Amazon Aurora. It automatically starts up, shuts down, and scales capacity up or down based on your application's needs, making it ideal for intermittent or unpredictable workloads like testing."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Which Azure service is a fully managed, in-memory data store based on the popular open-source Redis?",
+      "options": {
+        "A": "Azure Table Storage",
+        "B": "Azure Cache for Redis",
+        "C": "Azure Data Lake Storage",
+        "D": "Azure Queue Storage"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Azure Cache for Redis provides an in-memory data store based on the open-source Redis (Remote Dictionary Server) software, improving performance and scalability of applications."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "An application processes a stream of incoming messages and needs to trigger a serverless function for each message. Which AWS service would act as the message queue?",
+      "options": {
+        "A": "Amazon S3",
+        "B": "Amazon SNS",
+        "C": "Amazon SQS",
+        "D": "Amazon Kinesis"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Amazon SQS (Simple Queue Service) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It can trigger Lambda functions."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "A company wants to migrate its existing SQL Server databases to Azure with minimal application changes and full compatibility. Which Azure service offers this flexibility?",
+      "options": {
+        "A": "Azure Cosmos DB",
+        "B": "Azure SQL Database",
+        "C": "Azure Database for MySQL",
+        "D": "Azure SQL Managed Instance"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Azure SQL Managed Instance is a fully managed, highly compatible offering that provides near 100% compatibility with the latest SQL Server on-premises (Enterprise Edition), making it ideal for migrations with minimal changes."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Which AWS serverless service allows you to define workflows that coordinate multiple Lambda functions and other AWS services?",
+      "options": {
+        "A": "AWS Step Functions",
+        "B": "AWS Simple Workflow Service (SWF)",
+        "C": "AWS Batch",
+        "D": "AWS EventBridge"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "AWS Step Functions lets you coordinate multiple AWS services into serverless workflows so you can build and update applications quickly. It visually represents the workflow and manages state."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Which AWS service allows you to collect and track metrics, collect and monitor log files, and set alarms?",
+      "options": {
+        "A": "AWS CloudTrail",
+        "B": "Amazon S3",
+        "C": "Amazon CloudWatch",
+        "D": "AWS Config"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Amazon CloudWatch is a monitoring and observability service that provides data and actionable insights to monitor your applications, respond to system-wide performance changes, and optimize resource utilization."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "To track user activity and API calls made within your AWS account for security analysis and auditing, which service should you use?",
+      "options": {
+        "A": "Amazon CloudWatch",
+        "B": "AWS CloudTrail",
+        "C": "AWS Config",
+        "D": "AWS Trusted Advisor"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AWS CloudTrail provides a record of actions taken by a user, role, or an AWS service in AWS. CloudTrail logs activity as events, which can be used for auditing and security analysis."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Which Azure service provides a centralized hub for monitoring the health, performance, and availability of your applications and infrastructure?",
+      "options": {
+        "A": "Azure Advisor",
+        "B": "Azure Cost Management",
+        "C": "Azure Monitor",
+        "D": "Azure Security Center"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Monitor collects, analyzes, and acts on telemetry from your Azure and on-premises environments, providing a comprehensive solution for monitoring."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "A company wants to receive alerts when their AWS monthly spend exceeds a certain threshold. Which AWS service can be configured to send these notifications?",
+      "options": {
+        "A": "AWS Cost Explorer",
+        "B": "AWS Budgets",
+        "C": "AWS Organizations",
+        "D": "AWS Systems Manager"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AWS Budgets allows you to set custom budgets to track your cost and usage from the simplest to the most complex use cases, and receive alerts when actual or forecasted costs exceed your budgeted amounts."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Which Azure service provides recommendations to optimize costs, improve performance, enhance security, and achieve operational excellence?",
+      "options": {
+        "A": "Azure Monitor",
+        "B": "Azure Policy",
+        "C": "Azure Advisor",
+        "D": "Azure Resource Graph"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Azure Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments. It analyzes your resource configuration and usage telemetry."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "To improve cost visibility and management in AWS, what is a recommended best practice for organizing resources?",
+      "options": {
+        "A": "Deploy all resources in a single region.",
+        "B": "Avoid using tags for resources.",
+        "C": "Implement consistent tagging strategies.",
+        "D": "Use only the root account for resource creation."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Consistent tagging strategies (e.g., by project, owner, environment) allow for better cost allocation, reporting, and management across different departments or projects."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "An Azure administrator wants to review all administrative actions taken on a specific resource group, including who performed the action and when. Which service provides this audit trail?",
+      "options": {
+        "A": "Azure Monitor Logs",
+        "B": "Azure Activity Log",
+        "C": "Azure Service Health",
+        "D": "Azure Diagnostic Settings"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Azure Activity Log provides an audit trail of subscription-level events, including who, what, and when for control-plane operations performed on resources in your subscription."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Which AWS tool provides a detailed breakdown of your AWS costs and usage over time, allowing for forecasting and anomaly detection?",
+      "options": {
+        "A": "AWS Budgets",
+        "B": "AWS Cost Explorer",
+        "C": "AWS Pricing Calculator",
+        "D": "AWS Billing Dashboard"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AWS Cost Explorer is a free tool that allows you to view and analyze your AWS costs and usage. You can view data up to the last 13 months, forecast future spending, and identify trends."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "A company wants to ensure compliance with internal policies for resource configuration in AWS, such as ensuring all S3 buckets have encryption enabled. Which service can help automate this enforcement?",
+      "options": {
+        "A": "AWS CloudFormation",
+        "B": "AWS Config",
+        "C": "AWS Trusted Advisor",
+        "D": "AWS Systems Manager"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "AWS Config provides a detailed inventory of your AWS resources, records configuration changes over time, and evaluates resources against desired configurations to ensure compliance."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "What is the primary purpose of 'Reserved Instances' (RIs) in AWS or 'Reserved VM Instances' in Azure?",
+      "options": {
+        "A": "To provide dedicated physical servers for a single customer.",
+        "B": "To ensure instances automatically scale up during peak loads.",
+        "C": "To provide significant cost savings for workloads with predictable, long-term usage.",
+        "D": "To guarantee 100% uptime for critical applications."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Reserved Instances allow you to commit to a certain amount of compute capacity for a 1-year or 3-year term, resulting in significant discounts compared to on-demand pricing for predictable workloads."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "An Azure administrator needs to automate the deployment and configuration of resources using code. Which tool or service is most commonly used for 'Infrastructure as Code' (IaC) in Azure?",
+      "options": {
+        "A": "Azure Portal",
+        "B": "Azure CLI",
+        "C": "Azure Resource Manager (ARM) templates",
+        "D": "Azure Monitor"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Azure Resource Manager (ARM) templates are JSON files that define the infrastructure and configuration for your project. They are a core component of Infrastructure as Code for Azure."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Which AWS service helps you identify underutilized EC2 instances and provides recommendations to optimize costs?",
+      "options": {
+        "A": "AWS Cost Explorer",
+        "B": "AWS Trusted Advisor",
+        "C": "Amazon CloudWatch",
+        "D": "AWS Budgets"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AWS Trusted Advisor provides recommendations across five categories: cost optimization, performance, security, fault tolerance, and service limits, including identifying underutilized resources."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "To achieve maximum cost savings for fault-tolerant, flexible applications that can tolerate interruptions, which AWS EC2 pricing model should be considered?",
+      "options": {
+        "A": "On-Demand Instances",
+        "B": "Reserved Instances",
+        "C": "Dedicated Hosts",
+        "D": "Spot Instances"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Spot Instances allow you to bid for unused EC2 capacity, offering significant discounts (up to 90%) compared to On-Demand prices. They are ideal for fault-tolerant applications that can handle interruptions."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "An organization wants to centralize logging from all its Azure resources for security analysis and compliance. Which Azure service can act as a central log repository?",
+      "options": {
+        "A": "Azure Storage Account",
+        "B": "Azure Event Hubs",
+        "C": "Azure Log Analytics Workspace",
+        "D": "Azure Data Lake Storage"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "An Azure Log Analytics Workspace is a unique environment for Azure Monitor log data. It's designed to collect, index, and store vast amounts of log data from various Azure resources for analysis."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "What is a common best practice for managing cloud costs related to unused resources?",
+      "options": {
+        "A": "Keep all resources running 24/7.",
+        "B": "Regularly identify and terminate or deallocate unused resources.",
+        "C": "Always choose the largest instance types.",
+        "D": "Ignore resource tags."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regularly reviewing and terminating/deallocating unused or idle resources (e.g., old VMs, unattached EBS volumes, unused IP addresses) is crucial for cost optimization in the cloud."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "An AWS architect is designing a new application and wants to estimate the cost before deployment. Which AWS tool can provide a detailed estimate of potential service costs?",
+      "options": {
+        "A": "AWS Cost Explorer",
+        "B": "AWS Budgets",
+        "C": "AWS Pricing Calculator",
+        "D": "AWS Billing Dashboard"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The AWS Pricing Calculator allows you to estimate your AWS bill for new solutions or to get an estimate for your current architecture, helping to plan costs before deployment."
+    }
+  ]
+}

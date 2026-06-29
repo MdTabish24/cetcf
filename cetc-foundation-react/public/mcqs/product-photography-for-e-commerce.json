@@ -1,0 +1,1343 @@
+{
+  "course_name": "Product Photography for E-Commerce",
+  "sector": "Media, Photography & Content Creation",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to E-Commerce Product Photography & Gear",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Understanding Studio Lighting (Softboxes, Umbrellas, Speedlights)",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Backgrounds, Props, Styling & Tabletop Setup",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Camera Angles, Focus Stacking & Aperture Optimization",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Editing Product Photos, Background Removal & Color Matching",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Upload Requirements for Amazon/Flipkart & Quality Guidelines",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "question": "E-Commerce Product Photography ka main goal (mukhya lakshya) kya hota hai?",
+      "options": {
+        "A": "Direct raw blurred image capture karna",
+        "B": "Product ko visually clean, attractive aur detailed dikhana taaki online customers ka trust aur sales conversions badhe",
+        "C": "Camera mirror design change karna",
+        "D": "Website loading speeds testing only"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Online customers product ko touch ya physically feel nahi kar sakte, isliye clear high-quality images unke purchase decision me sabse bada role play karti hain."
+    },
+    {
+      "qno": 2,
+      "question": "Product photography me shake shake blurry images se bachne ke liye kis tool ka use compulsory mana jata hai?",
+      "options": {
+        "A": "Tripod Stand (with remote trigger / self timer)",
+        "B": "Camera hand strap only",
+        "C": "Flash modifier directly",
+        "D": "Color reflector board"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Tripod camera position ko static aur stable rakhta hai, jisse low shutter speeds ya precise focus stack alignment me vibration nahi hoti."
+    },
+    {
+      "qno": 3,
+      "question": "Chote products (jaise jewelry, perfume, cosmetics) ke liye shadow-free soft lighting dene wale portable lightbox setup ko kya bolte hain?",
+      "options": {
+        "A": "Photo Light Tent / Shooting Box (Softbox Cube)",
+        "B": "Direct sunlight open garden",
+        "C": "Dark storage container",
+        "D": "Reflector panel only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Shooting tents me internal translucent white walls hoti hain jo external light ko diffuse karke product ke har side se shadow-free soft light deti hain."
+    },
+    {
+      "qno": 4,
+      "question": "Product photography me 'Macro Lens' (jaise 90mm or 100mm macro) ka use kyu kiya jata hai?",
+      "options": {
+        "A": "Bohot door ke products ka video shoot karne ke liye",
+        "B": "Chote products (jaise rings, diamonds, watch mechanics) ke tiny detail textures ko 1:1 magnification me sharp capture karne ke liye",
+        "C": "Background details zoom out wide karne ke liye",
+        "D": "Color saturation automate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Macro lenses ki minimum focusing distance bohot kam hoti hai, jisse extreme close-ups me microscopic details sharp aati hain."
+    },
+    {
+      "qno": 5,
+      "question": "Direct sunlight open dhoop me product photo click karne ko kyu avoid kiya jata hai product photography me?",
+      "options": {
+        "A": "Direct sun harsh shadows, extreme highlights aur color reflections error paida karta hai",
+        "B": "Sunlight me products melt ho jate hain compulsory",
+        "C": "Camera sensor damage target controls directly",
+        "D": "Standard rule for no sunlight"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Direct harsh dhoop se hard contrast shadows banti hain jo product ke detailed look aur original colors ko hide kar deti hain."
+    },
+    {
+      "qno": 6,
+      "question": "Product photography studio setup me standard base light source ko kya bolte hain?",
+      "options": {
+        "A": "Key Light (main light source)",
+        "B": "Fill Light only",
+        "C": "Ambient ceiling light directly",
+        "D": "Auto focus assist beam"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Key light main light source hota hai jo product ke primary details aur shape angles ko illuminate karta hai."
+    },
+    {
+      "qno": 7,
+      "question": "Product surfaces par reflections aur white glare highlights ko control ya block karne ke liye lens ke upar kaun sa circular glass filter lagaya jata hai?",
+      "options": {
+        "A": "CPL Filter (Circular Polarizing Filter)",
+        "B": "UV Filter simple clear glass",
+        "C": "ND Filter directly",
+        "D": "Macro magnifying filter"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "CPL filter polarize light rays filter check blocks light reflections from glass, plastic aur water surfaces, making colors look saturated."
+    },
+    {
+      "qno": 8,
+      "question": "E-Commerce marketplaces (Amazon, Flipkart) product listings me primary image ka background color kya hona mandatory demand rules me hai?",
+      "options": {
+        "A": "Pure solid white background (RGB 255, 255, 255)",
+        "B": "Green screen background directly",
+        "C": "Dark gradient background",
+        "D": "Any natural garden background is fine"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pure white background products layout visual contrast boost aur site consistency rules checks ke under global guidelines me mandatory hai."
+    },
+    {
+      "qno": 9,
+      "question": "DSLR/Mirrorless cameras settings me 'Aperture Priority Mode' (Av or A mode) kis operations ke liye useful tool hai?",
+      "options": {
+        "A": "Shutter speed settings speed automatically software set kare aur user depth of field (Aperture) manually control kare",
+        "B": "Fully automatic point and shoot mode",
+        "C": "Manual ISO sensor configurations",
+        "D": "Flash zoom adjustments"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Aperture priority me photographer direct depth parameters modify check targets focus, camera shutter calculations automatic calculate karta hai."
+    },
+    {
+      "qno": 10,
+      "question": "Product photography me pure product ko start se lekar end point tak fully sharp focus (deep depth of field) me rakhne ke liye kis setting method ka use hota hai?",
+      "options": {
+        "A": "Focus Stacking (multiple photos different focus points par lekar post-processing details merge karna)",
+        "B": "Extremely wide aperture f/1.4 use karna",
+        "C": "High ISO settings increase manually",
+        "D": "Fast shutter speed directly only"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Focus stacking me different slices of focus images capture coordinate parameters targets edits blend done sharp results from front edge to back side details."
+    },
+    {
+      "qno": 11,
+      "question": "Product photography tabletop set checks me 'Sweep' (un-broken backdrop) kis asset layout setup ko kehte hain?",
+      "options": {
+        "A": "Flexible paper/fabric roll background jo without joints curves drop hotay hue horizontal to vertical surface cover kare",
+        "B": "Floor sweeping broom directly",
+        "C": "Direct concrete stand setup",
+        "D": "Water splash tank design"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Sweep layout curved bend corners line visible lines remove karta hai, jisse seamless continuous white background effect output generate ho."
+    },
+    {
+      "qno": 12,
+      "question": "Product details captures checks details metadata options me RAW file format export guidelines kyu focus targets ki jati hai?",
+      "options": {
+        "A": "RAW files me sensor raw highlights data details compression loss ke bina save rehne se exposure aur color editing corrections flexible are easy",
+        "B": "RAW files are very small sizes",
+        "C": "RAW files are directly uploadable to Amazon listing",
+        "D": "Zero benefit format status"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "JPEG formats camera processing compression ranges values apply, RAW provides high dynamic parameters details for post-production editing."
+    },
+    {
+      "qno": 13,
+      "question": "Reflective surfaces products (jaise silver metallic plates, mirror cosmetic jars) photo shoots me direct light flash shine bounce spots (hotspots) prevent karne ka kya solution hai?",
+      "options": {
+        "A": "Diffused light modifiers softbox bounce methods use karna aur directly product direction flash avoid karna",
+        "B": "Borewell water splash spray directly",
+        "C": "Dark rooms photography only without light",
+        "D": "No flash, ISO 12800 only"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Reflective elements mirror reflect parameters check, diffused cards or bounce setups softbox angles reflections control standard solutions are used."
+    },
+    {
+      "qno": 14,
+      "question": "E-commerce photography guidelines checks me product photo specs main frames crop size standard targets ratio dimensions kya standard choice hai?",
+      "options": {
+        "A": "1:1 Square aspect ratio (jaise 1000x1000 or 2000x2000 pixels standard grids displays)",
+        "B": "16:9 widescreen landscape always",
+        "C": "9:16 vertical crop only",
+        "D": "Circular frames only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Square format product grids listings consistency interfaces standard templates coordinates parameters."
+    },
+    {
+      "qno": 15,
+      "question": "Products photo shoot preparations checks me products fingerprints, dust streaks, smudges marks clean checks checklist me standard kya follow kiya jata hai?",
+      "options": {
+        "A": "Wipe with Microfiber cloth using cotton gloves when handling products",
+        "B": "Direct sand paper scrub only",
+        "C": "Direct water spray washing directly on electronics",
+        "D": "No cleaning needed, edit will remove everything"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Handling products with cotton gloves prevents oil residue marks smudges which are difficult to remove in photoshop editing later."
+    },
+    {
+      "qno": 16,
+      "question": "Studio lighting setups me 'Speedlight' ya 'Strobe' units check controls specifications modes me manual controls flash output steps (1/1, 1/2, 1/4... 1/128) scale me 1/1 output kya represent karta hai?",
+      "options": {
+        "A": "Full Power Output (maximum intensity flash trigger)",
+        "B": "Minimum battery power saving mode",
+        "C": "Auto-sync mode with shutter",
+        "D": "Zero power output mode"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "1/1 is full manual power, 1/2 is half power. Power reduction steps are half values (1 stop drop levels)."
+    },
+    {
+      "qno": 17,
+      "question": "Studio lights modifiers checks me 'Grid / Honeycomb grid' modifier softbox front par attach kyu kiya jata hai?",
+      "options": {
+        "A": "Light beams flow direction restrict karke product specific spot light focus details enhance karne ke liye",
+        "B": "Color shades temperature warm shift rules",
+        "C": "Auto focus tracking speed boost check",
+        "D": "Image resolution checks calculations"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Honeycomb grid light spill angles check directional tunnel block coordinates to focus light on product without background spill."
+    },
+    {
+      "qno": 18,
+      "question": "Studio standard color profiles checks temperature values me studio flash strobes standard Kelvin values coordinate balance general index range kya hoti hai?",
+      "options": {
+        "A": "5500 K to 5600 K range (neutral daylight temperature)",
+        "B": "3200 K warm tungsten yellow",
+        "C": "9000 K cold blue range",
+        "D": "Zero Kelvin"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Daylight calibrated white balance strobes outputs color corrections workflow clean maintain checks."
+    },
+    {
+      "qno": 19,
+      "question": "Studio setups properties checks 'Continuous Lighting' (hamesha on rehne wali lights) vs 'Strobe Lighting' (flash pulse) comparison checks me flash strobe lights kyu prefer ki jati hain professional product clicks me?",
+      "options": {
+        "A": "High peak light output power, freeze hand shake movements aur better color accuracy dynamic rendering details index",
+        "B": "Strobes use zero electricity",
+        "C": "Strobes are only for mobile cameras",
+        "D": "Dono models visual output is exact same"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Flash pulse speed (typically 1/1000s or faster) motion blur freeze kar deta hai aur high intensity allows narrow apertures f/11 for deep details."
+    },
+    {
+      "qno": 20,
+      "question": "Studio lighting modifier umbrella shapes configurations me translucent white shoot-through umbrella and reflective silver umbrellas checks me shoot-through umbrella light spread kya characterstics distribute karta hai?",
+      "options": {
+        "A": "Broad, very soft, highly diffused light spread details coordinates",
+        "B": "Sharp high contrast laser spot light focus",
+        "C": "Direct shadow block edges lines",
+        "D": "Color profile changes automatic"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Shoot-through umbrella light beam area diffuse spread broad ranges check panels dynamic layouts."
+    },
+    {
+      "qno": 21,
+      "question": "Studio strobes settings 'Modeling Light' (continuous light bulb inside flash strobe) primary utility function kya hai setup me?",
+      "options": {
+        "A": "Flash trigger hone ke pehle shadow highlights falls patterns visual check karke lights placement set coordinate help",
+        "B": "Actual high power exposure light output",
+        "C": "Camera focus calibration sensor",
+        "D": "Automatic battery indicator"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Modeling lamp auxiliary tool details highlights indicators check options preview layout placements."
+    },
+    {
+      "qno": 22,
+      "question": "Studio standard flash triggers check sync speeds limits standard me 'Sync Speed Limit' camera shutter standard threshold value kya hoti hai?",
+      "options": {
+        "A": "Typically ~1/200s to 1/250s (above this limit curtain shadows appear on image if not HSS mode)",
+        "B": "Always fixed 1/8000s standard speed",
+        "C": "Only 1 second minimum time limits",
+        "D": "No limit specifications exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Sync speed limits shutter curtains transitions open limits coordinate. Shorter exposures require High-Speed Sync (HSS) mode support."
+    },
+    {
+      "qno": 23,
+      "question": "Product background details checks 'Seamless White Backdrop' paper roll specifications me standard width size specs tabletop studio settings checks me common standard choice kya hai?",
+      "options": {
+        "A": "Standard width ~2.72 meters (9 feet width rolls) or small table size ~1.35 meters",
+        "B": "Minimum 50 meters standard width",
+        "C": "Only small paper sheets directly",
+        "D": "Transparent vinyl sheets only"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Seamless backdrop rolls clean visual lines sweeps layout balance support indicators standard sizes."
+    },
+    {
+      "qno": 24,
+      "question": "Tabletop set styling options 'Props' (supporting props assets) usage checks food/cosmetics shoots checks checks what is the role of props?",
+      "options": {
+        "A": "Product ingredients or lifestyle context support details visually pop details (like slice orange next to orange face wash)",
+        "B": "Direct product labels hide coordinates",
+        "C": "Camera focus locking targets",
+        "D": "Increase file byte weights"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Props complement product story and aesthetics, keeping primary product focus central."
+    },
+    {
+      "qno": 25,
+      "question": "Product photography background selections 'Acrylic Reflection Sheet' (black or white reflective sheet) tabletop setup me use checks why popular?",
+      "options": {
+        "A": "Create clean elegant mirror reflections below the product for premium look",
+        "B": "Soil solarization directly target",
+        "C": "Increase focus depth details automatically",
+        "D": "Pest killing directly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Acrylic sheets clean visual reflection output provide coordinates, highly useful in cosmetics, watch and jewelry photos."
+    },
+    {
+      "qno": 26,
+      "question": "Product styling tools checks checks 'Double-sided tape' (both side sticky tape) tabletop setup me why important helper tool?",
+      "options": {
+        "A": "Keep circular products (perfume bottles, tubes) stable at angle prevents rolling down in styling bed",
+        "B": "Background paper roll permanent paste",
+        "C": "Water level calibration checks",
+        "D": "Reflector mounting on lenses"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Double sided tapes, styling putty (clay putty) micro alignments static locks support useful tabletop props."
+    },
+    {
+      "qno": 27,
+      "question": "Camera angles selections checks checks 'Flat Lay Photography' (Knolling style) camera direction angles layout angle visual checks kya represent karta hai?",
+      "options": {
+        "A": "Direct top-down vertical 90-degree angle view capture (flat products organized displays, eg clothes/stationery items)",
+        "B": "Eye level direct parallel alignment",
+        "C": "Low angle upwards views",
+        "D": "Diagonal roll views only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Flat lay/Knolling style organized elements flat tabletop surfaces direct top down shots visual layout."
+    },
+    {
+      "qno": 28,
+      "question": "Product photography camera positions 'Hero Shot Angle' (typically 30-45 degree slightly lower angle) kyu choose hota hai product profiles me?",
+      "options": {
+        "A": "Product looks grand, dominant, three-dimensional details contours are clearly visible",
+        "B": "Only background blur details checks",
+        "C": "Direct zoom magnification targets",
+        "D": "Zero perspective differences exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hero angle portraits scale three-dimensional depths highlight visual layouts standard commercial choice."
+    },
+    {
+      "qno": 29,
+      "question": "Lenses properties checks focal length compression options checks product distortion prevent checks landscape portrait macro checks does wide angle lens (eg 18mm) suit close-up product photo shoots?",
+      "options": {
+        "A": "No, wide angle creates barrel distortion (bottle edges curve outwards abnormally, shape looks deformed)",
+        "B": "Yes, wide angle is best choice for products",
+        "C": "Dono settings parameters are duplicate",
+        "D": "Only if macro filter attached"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Wide lenses close range perspectives curves deform checks. Normal standard choice Tele-lenses (85mm or 100mm equivalent) linear compression perspective flat."
+    },
+    {
+      "qno": 30,
+      "question": "Focus Stacking post processing software Photoshop files alignment tools checks 'Auto-Align Layers' aur 'Auto-Blend Layers' sequence details what it executes?",
+      "options": {
+        "A": "Align micro shifts in camera positions and blend sharp focus segments of layers to single composite fully sharp image",
+        "B": "Spelling checking parameters checks",
+        "C": "AdSense accounts data match check",
+        "D": "Subtitles file size format change"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Photoshop focus blend auto masks blurry parts keep sharp nodes standard workflows."
+    },
+    {
+      "qno": 31,
+      "question": "Product photography check lists checks depth of field optimization aperture sweet spots lenses ranges checks f/8 to f/11 aperture settings kyu sweet spot are considered?",
+      "options": {
+        "A": "Maintain maximum image sharpness across frame without lens diffraction blur anomalies (which occurs at f/22)",
+        "B": "Increase background blur circular bokeh",
+        "C": "Require zero light input checks",
+        "D": "Auto rotation system settings"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Lenses sweet spot ranges f/8-f/11 optimal details sharpness deliver coordinate bounds."
+    },
+    {
+      "qno": 32,
+      "question": "Editing product photos background removal clipping path methods choices checks 'Pen Tool' vector path masks clipping curves why important?",
+      "options": {
+        "A": "Precise sharp clean edges vector boundary masks (no fuzzy pixelated outlines on product cutout borders)",
+        "B": "Only image color edits",
+        "C": "Saves file storage sizes",
+        "D": "Watermark overlay coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Clipping paths using pen tool is industry standard for B2B product cutout assets cataloging."
+    },
+    {
+      "qno": 33,
+      "question": "Post processing color matching checks 'Color Cast' removal adjustments details white balance matching why important in product photography?",
+      "options": {
+        "A": "Ensure original product colors exactly matched in online display to prevent buyer complaints returns mismatch of color",
+        "B": "Change video files format conversions",
+        "C": "Increase image bytes size storage",
+        "D": "Zero color matching checks"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Exact color fidelity customer trust and e-com specifications norms compliance checks standard value."
+    },
+    {
+      "qno": 34,
+      "question": "Editing workflow checks 'Dust & Scratch removal' cleanup filters spots healing brush tool kyu use hota hai product surface checks me?",
+      "options": {
+        "A": "Micro dust particles, thread fibers smudges visible on high-resolution close-ups cleanup edits checks",
+        "B": "Only target tags collection box",
+        "C": "Email subscription form directly input",
+        "D": "Copyright license coordinates"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Macro details captures zoom amplify tiny dust specs. Healing brushes cleans product details surfaces."
+    },
+    {
+      "qno": 35,
+      "question": "Product shadows creation edits checks 'Drop Shadow' (niche drop shadow) or 'Reflective Shadow' Photoshop creation why important in cutout white background photos?",
+      "options": {
+        "A": "Prevent product looking floating artificial in space (gives depth, grounding and realism)",
+        "B": "Required by government tax offices",
+        "C": "Direct software coding checks",
+        "D": "Zero visual utility"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Grounding shadows elements realistic blending and catalog professionalism indexes boost."
+    },
+    {
+      "qno": 36,
+      "question": "Amazon listing specifications primary main listing image product occupancy percentage checks does product must occupy how much frame space?",
+      "options": {
+        "A": "At least 85% of image frame area occupied by product",
+        "B": "Only 10% space occupied",
+        "C": "No size limits details parameters",
+        "D": "Strictly 100% border to border"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Occupancy limits ensure product details visible search grids mobile views listings standard check rules."
+    },
+    {
+      "qno": 37,
+      "question": "E-commerce cataloging uploads image files profiles formats specs does image file formats are generally recommended for online listings?",
+      "options": {
+        "A": "JPEG (.jpg) format, or PNG for transparent graphics templates",
+        "B": "RAW files directly always",
+        "C": "PSD source layers directly",
+        "D": "GIF animated banners only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "JPEG lightweight formats load fast and standard compatible web interfaces catalog systems."
+    },
+    {
+      "qno": 38,
+      "question": "E-Commerce photo editing checks 'Infographics Image' product listings layout me kis layout design ko represent karta hai?",
+      "options": {
+        "A": "Product photo containing text overlays, size specifications, pointer labels features details callouts graphics",
+        "B": "Blank empty white backdrop only",
+        "C": "Direct shipping invoice template",
+        "D": "Auto rotation system settings"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Infographics details visual features, dimensions and USP highlights user purchasing decision features coordinate."
+    },
+    {
+      "qno": 39,
+      "question": "E-com listings assets 'Lifestyle Shot / In-Use Image' product photography checks me what is it?",
+      "options": {
+        "A": "Product ko real life usage conditions me model ya aesthetic environment setup me click karna (eg hand holding cup, kitchen background)",
+        "B": "Only laboratory test setups",
+        "C": "Computer code display page",
+        "D": "Watermark branding overlay"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Lifestyle shots customer connection, scale sizing visualization aur emotional buying trigger support checks."
+    },
+    {
+      "qno": 40,
+      "question": "E-com marketplaces upload limits checks maximum image resolution specs standard size recommended for high zoom capabilities online checks guidelines me kya hai?",
+      "options": {
+        "A": "Typically ~1000px to 2000px on longest side (allowing hover magnification hover zoom features)",
+        "B": "Only 100px thumbnail size",
+        "C": "50000x50000px extreme high size",
+        "D": "Zero resolution checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Zoom zoom functionality requires minimum 1000px side sizes catalog specifications compliance checks standard."
+    },
+    {
+      "qno": 41,
+      "question": "Tabletop set setups checks 'Diffuser Panel' (translucent white card/fabric sheet) light modifier setups me kyu useful are?",
+      "options": {
+        "A": "Harsh direct speedlight light rays scatter distribute soft shadows borders dynamic profiles",
+        "B": "Color shades temperature changes directly",
+        "C": "Calculates watch time totals",
+        "D": "Watermark overlay coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Diffuser sheets scatter light beams, preventing harsh reflections on smooth product plastic/glass borders."
+    },
+    {
+      "qno": 42,
+      "question": "Product photography check checklists specs checks 'White Balance card' (gray card 18%) studio calibration checks me why important?",
+      "options": {
+        "A": "Manual custom white balance set reference in post production software for exact color accuracy",
+        "B": "Change video files format conversions",
+        "C": "AdSense verification PIN releases",
+        "D": "Zero colors matching checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Gray cards standard reflectance point coordinates help software to calibrate exact temperature/tint color values."
+    },
+    {
+      "qno": 43,
+      "question": "Photography modifiers checks 'Snoot' modifier strobe front attachment why useful?",
+      "options": {
+        "A": "Narrow cylindrical tube focus light beam to tiny spot highlights on product details surface",
+        "B": "Direct product labels hide coordinates",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Snoot restricts light spills, creating isolated spotlight highlights on tiny segments (eg watch crowns)."
+    },
+    {
+      "qno": 44,
+      "question": "E-Commerce photo edits checks 'Clipping Path' (cutout vector path) creation tools vector editing standard what is standard tool used?",
+      "options": {
+        "A": "Adobe Photoshop Pen Tool (vector paths masking)",
+        "B": "MS Paint directly always",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pen tool vector engines industry standard integrations global scale designs setups."
+    },
+    {
+      "qno": 45,
+      "question": "Product photography checks '360 degree product view' (360 photography spin) dynamic views tabletop setup me kya requires karta hai?",
+      "options": {
+        "A": "Motorized turntable rotary stand taking continuous photos at specific angle intervals to combine to interactive spin web display",
+        "B": "Direct video editing format changes",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "360 rotation spin interactive display setups customer visualization details improve checks."
+    },
+    {
+      "qno": 46,
+      "question": "Product photography checks 'Color Fidelity' (color accuracy) check parameters what is the primary color profiling system used for web displays?",
+      "options": {
+        "A": "sRGB color profile (standard web profile compatibility across screens)",
+        "B": "Adobe RGB 1998 only",
+        "C": "CMYK coated parameters",
+        "D": "No color profile required"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "sRGB is universal web standard, other wide gamuts (like Adobe RGB) will look washed out or distorted on normal browsers if not color managed."
+    },
+    {
+      "qno": 47,
+      "question": "Product styling helper tools 'Clear acrylic blocks / Risers' tabletop setups me kyu use hotey hain?",
+      "options": {
+        "A": "Products group levels height elevate to create depth layers and background distance dimensions visually clean",
+        "B": "Reflector mounting on lenses",
+        "C": "Water level calibration checks",
+        "D": "Direct product labels print"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Acrylic clear blocks/risers transparent blocks are invisible in camera setups, height offsets create visually beautiful stacks."
+    },
+    {
+      "qno": 48,
+      "question": "Product cataloging uploads specifications 'Image aspect ratio 1:1' standard pixels dimensions Amazon main listing specifications minimum recommended resolution kya hai?",
+      "options": {
+        "A": "1000 x 1000 pixels (hover zoom eligibility starts here, up to 2000x2000px for crisp detail resolution)",
+        "B": "100 x 100 pixels only",
+        "C": "50000 x 50000 pixels",
+        "D": "No resolution constraints"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Catalog specifications requires minimum 1000px length on longest side for zoom capabilities."
+    },
+    {
+      "qno": 49,
+      "question": "Studio lights modifiers checks 'Strip Box' (lamba rectangular softbox) modifier product shoots me kyu prefer hota hai?",
+      "options": {
+        "A": "Lambi narrow vertical light lines and soft highlights reflection profiles generate on glassware, bottle bottles edges and tall products",
+        "B": "Direct product labels hide coordinates",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Strip softboxes are narrow light strips create long elegant line highlights borders on reflective glossy bottles."
+    },
+    {
+      "qno": 50,
+      "question": "Product photo post processing checks 'Dust spots identification' edits checking checks visual techniques checks me standard adjustments layers what is commonly used?",
+      "options": {
+        "A": "Solarization adjustment curve or high contrast S-curve layer temporary overlay to spot microscopic smudges outlines",
+        "B": "Direct flat grayscale filter only",
+        "C": "AdSense analytics logs checking",
+        "D": "Zero checks index"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Extreme contrast curve layers amplify micro details, highlights spots Smudges which are normally invisible on white background edits checks."
+    },
+    {
+      "qno": 51,
+      "question": "E-Commerce product photography me 'Image Composition' me 'Rule of Thirds' apply karne par primary focus placement check zones kya hain?",
+      "options": {
+        "A": "Grid lines intersections points par main feature focus align coordinates",
+        "B": "Exact bottom edge margins always",
+        "C": "Dono sides borders details overlap",
+        "D": "No alignment required"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Rule of thirds placements visual interest stable balance focus maintain checks standard choices."
+    },
+    {
+      "qno": 52,
+      "question": "Tabletop photography me glass bottles/cosmetic jars edges highlights dynamic shine line setups me 'Gobos' cards checks what is Gobo cards function?",
+      "options": {
+        "A": "Black cardboard card templates to block light spills create sharp side dark outlines on transparent glass margins (shadow define)",
+        "B": "Reflector panels directly always",
+        "C": "Change lens settings focal length automatically",
+        "D": "Increase exposure levels"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Gobos (Go Between cards) light path blocks blocks shape outlines shadow boundaries checks."
+    },
+    {
+      "qno": 53,
+      "question": "Studio lights strobe trigger systems wireless trigger setups 'Master and Slave' settings checks speedlights me slave mode kya represent karta hai?",
+      "options": {
+        "A": "Main camera trigger signal receive karke automatically parallel flash pulse deliver trigger karna",
+        "B": "Primary command transmitter unit",
+        "C": "Battery charge controller",
+        "D": "Camera auto focus helper"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Slave unit receives wireless trigger signal from Master unit, executing synchronized flashes."
+    },
+    {
+      "qno": 54,
+      "question": "Product photography focus adjustments checks 'Auto-Focus Modes' selections checks stationary objects tabletop shoots me AF mode parameter settings kya best choice are standard?",
+      "options": {
+        "A": "Single-Shot AF (AF-S or One-Shot AF) stationary static focus locks coordinate details check",
+        "B": "Continuous AF tracking mode AF-C Servo",
+        "C": "Direct manual rotation speed checks only",
+        "D": "Zero auto focus checks"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "AF-S (Single Shot) static object details focus locks support, coordinates checks parameters standard choice."
+    },
+    {
+      "qno": 55,
+      "question": "Product photography studio backdrop setups 'Vinyl Backdrop' sheets checks paper rolls compare checks durability advantage options me kya features hold karte hain?",
+      "options": {
+        "A": "Waterproof, stain resistant, easy wipe clean checks (ideal for cosmetic liquids splash, clay products shoots)",
+        "B": "Vinyl backdrops are completely free of cost always",
+        "C": "Vinyl sheets have zero weight",
+        "D": "No advantages exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Vinyl backdrops clean washes, wet props setups liquid splashes styling direct support checks."
+    },
+    {
+      "qno": 56,
+      "question": "E-Commerce photo post processing checks 'Batch Processing' (bunk edit) workflows kyu utilized check tools are software me?",
+      "options": {
+        "A": "Multiple image assets same color correction crop dimensions settings actions single click bulk apply execute to save time",
+        "B": "Spelling checking processes",
+        "C": "Subtitles file translation automatic",
+        "D": "AdSense account links verification"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Batch processing automated actions speedup catalog setups time saving standard workflows."
+    },
+    {
+      "qno": 57,
+      "question": "Amazon listing catalog parameters guidelineschecks product listing pages 'Secondary Images' packages limits options maximum counts limits generally kya standard criteria checks me details follow hota hai?",
+      "options": {
+        "A": "Upto 6-9 images displays slots (lifestyle, infographics, dimension scale, packaging box views)",
+        "B": "Only 1 image upload limit total",
+        "C": "Compulsory 100 images slots",
+        "D": "Zero image upload limits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Secondary listings pictures multi angle product descriptions usability values users convert support guidelines."
+    },
+    {
+      "qno": 58,
+      "question": "Horticultural fresh fruits agricultural products e-com cataloging shoots checks 'Glycerin and Water mix spray' (glycerin spray) kyu utilize hota hai product styling me?",
+      "options": {
+        "A": "Create long lasting dew drops water droplets on fruit skin/leaves for fresh wet healthy look (drops do not evaporate/slide)",
+        "B": "Pest control directly target",
+        "C": "Increase weight profiles",
+        "D": "Clean crop chemical residues"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Glycerin water mix high viscosity drops create, surface tension does not run down drops stay static on leaves/skins."
+    },
+    {
+      "qno": 59,
+      "question": "E-Commerce listings parameters guidelines checks 'Dimension Infographics Image' details guidelines specifications checks why essential?",
+      "options": {
+        "A": "Product actual height width dimensions clearly depict checks, sizing mismatch related customer complaints returns control helps",
+        "B": "Direct tax rates index checks",
+        "C": "AdSense payout conversions verify",
+        "D": "Video playback parameters index"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Dimension scale representation reduces size mismatch complaints on e-com portals."
+    },
+    {
+      "qno": 60,
+      "question": "Product photography camera alignment level checks 'Horizon slant calibration' checks guidelines CAD blueprints name layouts maps draft terms list details checks standard options?",
+      "options": {
+        "A": "Bubble Level Tool (spirit level / electronic level guide inside camera screen display)",
+        "B": "Agmark sitemap blueprint",
+        "C": "TDS level blueprint index",
+        "D": "Lactometer grid check"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Bubble spirit level horizon alignments straight stable layouts check ensure checks standard."
+    },
+    {
+      "qno": 61,
+      "question": "Studio lights synchronization checks 'Pocket Wizard' transceiver units kyu utilize hote hain setups me?",
+      "options": {
+        "A": "Wireless radio frequency trigger signals to synchronize camera shutter release with external flashes reliably at distance",
+        "B": "Direct video editing format changes",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "PocketWizard units are standard professional wireless triggers for zero delay flash sync."
+    },
+    {
+      "qno": 62,
+      "question": "Tabletop set setups checks 'Bounce Card' (white card/board) modifier setups me kyu useful are?",
+      "options": {
+        "A": "Redirect shadow areas details fill using key light light reflection (low cost shadow fill option)",
+        "B": "Color shades temperature changes directly",
+        "C": "Calculates watch time totals",
+        "D": "Watermark overlay coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Bounce cards reflect key light to shadow areas, reducing contrast and detail loss."
+    },
+    {
+      "qno": 63,
+      "question": "Product photography check checklists specs checks 'Color Checker Chart' (ColorChecker Passport) why important?",
+      "options": {
+        "A": "Standardized color patches reference to build exact custom camera color profiles in Lightroom (precise color matching)",
+        "B": "Change video files format conversions",
+        "C": "AdSense verification PIN releases",
+        "D": "Zero colors matching checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Color checker charts provide absolute color reference values for color calibration and post-production profile builds."
+    },
+    {
+      "qno": 64,
+      "question": "Photography modifiers checks 'Grid / Honeycomb grid' strobe front attachment why useful?",
+      "options": {
+        "A": "Narrow cylindrical tube focus light beam to tiny spot highlights on product details surface",
+        "B": "Direct product labels hide coordinates",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Grid restricts light spills, creating isolated spotlight highlights on tiny segments (eg watch crowns)."
+    },
+    {
+      "qno": 65,
+      "question": "E-Commerce photo edits checks 'Clipping Path' (cutout vector path) creation tools vector editing standard what is standard tool used?",
+      "options": {
+        "A": "Adobe Photoshop Pen Tool (vector paths masking)",
+        "B": "MS Paint directly always",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pen tool vector engines industry standard integrations global scale designs setups."
+    },
+    {
+      "qno": 66,
+      "question": "Product photography checks '360 degree product view' (360 photography spin) dynamic views tabletop setup me kya requires?",
+      "options": {
+        "A": "Motorized turntable rotary stand taking continuous photos at specific angle intervals to combine to interactive spin web display",
+        "B": "Direct video editing format changes",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "360 rotation spin interactive display setups customer visualization details improve checks."
+    },
+    {
+      "qno": 67,
+      "question": "Product photography checks 'Color Fidelity' (color accuracy) check parameters what is the primary color profiling system used for web displays?",
+      "options": {
+        "A": "sRGB color profile (standard web profile compatibility across screens)",
+        "B": "Adobe RGB 1998 only",
+        "C": "CMYK coated parameters",
+        "D": "No color profile required"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "sRGB is universal web standard, other wide gamuts (like Adobe RGB) will look washed out or distorted on normal browsers if not color managed."
+    },
+    {
+      "qno": 68,
+      "question": "Product styling helper tools 'Clear acrylic blocks / Risers' tabletop setups me kyu use?",
+      "options": {
+        "A": "Products group levels height elevate to create depth layers and background distance dimensions visually clean",
+        "B": "Reflector mounting on lenses",
+        "C": "Water level calibration checks",
+        "D": "Direct product labels print"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Acrylic clear blocks/risers transparent blocks are invisible in camera setups, height offsets create visually beautiful stacks."
+    },
+    {
+      "qno": 69,
+      "question": "Product cataloging uploads specifications 'Image aspect ratio 1:1' standard pixels dimensions Amazon main listing specifications minimum recommended resolution?",
+      "options": {
+        "A": "1000 x 1000 pixels (hover zoom eligibility starts here, up to 2000x2000px for crisp detail resolution)",
+        "B": "100 x 100 pixels only",
+        "C": "50000 x 50000 pixels",
+        "D": "No resolution constraints"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Catalog specifications requires minimum 1000px length on longest side for zoom capabilities."
+    },
+    {
+      "qno": 70,
+      "question": "Studio lights modifiers checks 'Strip Box' modifier product shoots me kyu prefer?",
+      "options": {
+        "A": "Lambi narrow vertical light lines and soft highlights reflection profiles generate on glassware, bottle bottles edges and tall products",
+        "B": "Direct product labels hide coordinates",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Strip softboxes are narrow light strips create long elegant line highlights borders on reflective glossy bottles."
+    },
+    {
+      "qno": 71,
+      "question": "Product photo post processing checks 'Dust spots identification' edits checking checks visual techniques checks me standard adjustments?",
+      "options": {
+        "A": "Solarization adjustment curve or high contrast S-curve layer temporary overlay to spot microscopic smudges outlines",
+        "B": "Direct flat grayscale filter only",
+        "C": "AdSense analytics logs checking",
+        "D": "Zero checks index"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Extreme contrast curve layers amplify micro details, highlights spots Smudges which are normally invisible on white background edits checks."
+    },
+    {
+      "qno": 72,
+      "question": "E-Commerce product photography me 'Image Composition' me 'Rule of Thirds' apply?",
+      "options": {
+        "A": "Grid lines intersections points par main feature focus align coordinates",
+        "B": "Exact bottom edge margins always",
+        "C": "Dono sides borders details overlap",
+        "D": "No alignment required"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Rule of thirds placements visual interest stable balance focus maintain checks standard choices."
+    },
+    {
+      "qno": 73,
+      "question": "Tabletop photography me glass bottles/cosmetic jars edges highlights dynamic shine line setups me 'Gobos'?",
+      "options": {
+        "A": "Black cardboard card templates to block light spills create sharp side dark outlines on transparent glass margins (shadow define)",
+        "B": "Reflector panels directly always",
+        "C": "Change lens settings focal length automatically",
+        "D": "Increase exposure levels"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Gobos (Go Between cards) light path blocks blocks shape outlines shadow boundaries checks."
+    },
+    {
+      "qno": 74,
+      "question": "Studio lights strobe trigger systems wireless trigger setups 'Master and Slave' settings?",
+      "options": {
+        "A": "Main camera trigger signal receive karke automatically parallel flash pulse deliver trigger karna",
+        "B": "Primary command transmitter unit",
+        "C": "Battery charge controller",
+        "D": "Camera auto focus helper"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Slave unit receives wireless trigger signal from Master unit, executing synchronized flashes."
+    },
+    {
+      "qno": 75,
+      "question": "Product photography focus adjustments checks 'Auto-Focus Modes' selections?",
+      "options": {
+        "A": "Single-Shot AF (AF-S or One-Shot AF) stationary static focus locks coordinate details check",
+        "B": "Continuous AF tracking mode AF-C Servo",
+        "C": "Direct manual rotation speed checks only",
+        "D": "Zero auto focus checks"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "AF-S (Single Shot) static object details focus locks support, coordinates checks parameters standard choice."
+    },
+    {
+      "qno": 76,
+      "question": "Product photography studio backdrop setups 'Vinyl Backdrop' sheets?",
+      "options": {
+        "A": "Waterproof, stain resistant, easy wipe clean checks (ideal for cosmetic liquids splash, clay products shoots)",
+        "B": "Vinyl backdrops are completely free of cost always",
+        "C": "Vinyl sheets have zero weight",
+        "D": "No advantages exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Vinyl backdrops clean washes, wet props setups liquid splashes styling direct support checks."
+    },
+    {
+      "qno": 77,
+      "question": "E-Commerce photo post processing checks 'Batch Processing'?",
+      "options": {
+        "A": "Multiple image assets same color correction crop dimensions settings actions single click bulk apply execute to save time",
+        "B": "Spelling checking processes",
+        "C": "Subtitles file translation automatic",
+        "D": "AdSense account links verification"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Batch processing automated actions speedup catalog setups time saving standard workflows."
+    },
+    {
+      "qno": 78,
+      "question": "Amazon listing catalog parameters guidelineschecks product listing pages 'Secondary Images'?",
+      "options": {
+        "A": "Upto 6-9 images displays slots (lifestyle, infographics, dimension scale, packaging box views)",
+        "B": "Only 1 image upload limit total",
+        "C": "Compulsory 100 images slots",
+        "D": "Zero image upload limits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Secondary listings pictures multi angle product descriptions usability values users convert support guidelines."
+    },
+    {
+      "qno": 79,
+      "question": "Horticultural fresh fruits agricultural products e-com cataloging shoots checks 'Glycerin and Water mix spray'?",
+      "options": {
+        "A": "Create long lasting dew drops water droplets on fruit skin/leaves for fresh wet healthy look (drops do not evaporate/slide)",
+        "B": "Pest control directly target",
+        "C": "Increase weight profiles",
+        "D": "Clean crop chemical residues"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Glycerin water mix high viscosity drops create, surface tension does not run down drops stay static on leaves/skins."
+    },
+    {
+      "qno": 80,
+      "question": "E-Commerce listings parameters guidelines checks 'Dimension Infographics Image'?",
+      "options": {
+        "A": "Product actual height width dimensions clearly depict checks, sizing mismatch related customer complaints returns control helps",
+        "B": "Direct tax rates index checks",
+        "C": "AdSense payout conversions verify",
+        "D": "Video playback parameters index"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Dimension scale representation reduces size mismatch complaints on e-com portals."
+    },
+    {
+      "qno": 81,
+      "question": "Product photography camera alignment level checks?",
+      "options": {
+        "A": "Bubble Level Tool (spirit level / electronic level guide inside camera screen display)",
+        "B": "Agmark sitemap blueprint",
+        "C": "TDS level blueprint index",
+        "D": "Lactometer grid check"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Bubble spirit level horizon alignments straight stable layouts check ensure checks standard."
+    },
+    {
+      "qno": 82,
+      "question": "Studio lights synchronization checks?",
+      "options": {
+        "A": "Wireless radio frequency trigger signals to synchronize camera shutter release with external flashes reliably at distance",
+        "B": "Direct video editing format changes",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "PocketWizard units are standard professional wireless triggers for zero delay flash sync."
+    },
+    {
+      "qno": 83,
+      "question": "Tabletop set setups checks?",
+      "options": {
+        "A": "Redirect shadow areas details fill using key light light reflection (low cost shadow fill option)",
+        "B": "Color shades temperature changes directly",
+        "C": "Calculates watch time totals",
+        "D": "Watermark overlay coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Bounce cards reflect key light to shadow areas, reducing contrast and detail loss."
+    },
+    {
+      "qno": 84,
+      "question": "Product photography check checklists?",
+      "options": {
+        "A": "Standardized color patches reference to build exact custom camera color profiles in Lightroom (precise color matching)",
+        "B": "Change video files format conversions",
+        "C": "AdSense verification PIN releases",
+        "D": "Zero colors matching checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Color checker charts provide absolute color reference values for color calibration and post-production profile builds."
+    },
+    {
+      "qno": 85,
+      "question": "Photography modifiers?",
+      "options": {
+        "A": "Narrow cylindrical tube focus light beam to tiny spot highlights on product details surface",
+        "B": "Direct product labels hide coordinates",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Grid restricts light spills, creating isolated spotlight highlights on tiny segments (eg watch crowns)."
+    },
+    {
+      "qno": 86,
+      "question": "E-Commerce photo edits?",
+      "options": {
+        "A": "Adobe Photoshop Pen Tool (vector paths masking)",
+        "B": "MS Paint directly always",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pen tool vector engines industry standard integrations global scale designs setups."
+    },
+    {
+      "qno": 87,
+      "question": "Product photography checks?",
+      "options": {
+        "A": "Motorized turntable rotary stand taking continuous photos at specific angle intervals to combine to interactive spin web display",
+        "B": "Direct video editing format changes",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "360 rotation spin interactive display setups customer visualization details improve checks."
+    },
+    {
+      "qno": 88,
+      "question": "Product photography color fidelity?",
+      "options": {
+        "A": "sRGB color profile (standard web profile compatibility across screens)",
+        "B": "Adobe RGB 1998 only",
+        "C": "CMYK coated parameters",
+        "D": "No color profile required"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "sRGB is universal web standard, other wide gamuts (like Adobe RGB) will look washed out or distorted on normal browsers if not color managed."
+    },
+    {
+      "qno": 89,
+      "question": "Product styling helper?",
+      "options": {
+        "A": "Products group levels height elevate to create depth layers and background distance dimensions visually clean",
+        "B": "Reflector mounting on lenses",
+        "C": "Water level calibration checks",
+        "D": "Direct product labels print"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Acrylic clear blocks/risers transparent blocks are invisible in camera setups, height offsets create visually beautiful stacks."
+    },
+    {
+      "qno": 90,
+      "question": "Product cataloging uploads?",
+      "options": {
+        "A": "1000 x 1000 pixels (hover zoom eligibility starts here, up to 2000x2000px for crisp detail resolution)",
+        "B": "100 x 100 pixels only",
+        "C": "50000 x 50000 pixels",
+        "D": "No resolution constraints"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Catalog specifications requires minimum 1000px length on longest side for zoom capabilities."
+    },
+    {
+      "qno": 91,
+      "question": "Studio lights modifiers?",
+      "options": {
+        "A": "Lambi narrow vertical light lines and soft highlights reflection profiles generate on glassware, bottle bottles edges and tall products",
+        "B": "Direct product labels hide coordinates",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Strip softboxes are narrow light strips create long elegant line highlights borders on reflective glossy bottles."
+    },
+    {
+      "qno": 92,
+      "question": "Product photo post processing?",
+      "options": {
+        "A": "Solarization adjustment curve or high contrast S-curve layer temporary overlay to spot microscopic smudges outlines",
+        "B": "Direct flat grayscale filter only",
+        "C": "AdSense analytics logs checking",
+        "D": "Zero checks index"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Extreme contrast curve layers amplify micro details, highlights spots Smudges which are normally invisible on white background edits checks."
+    },
+    {
+      "qno": 93,
+      "question": "E-Commerce product photography?",
+      "options": {
+        "A": "Grid lines intersections points par main feature focus align coordinates",
+        "B": "Exact bottom edge margins always",
+        "C": "Dono sides borders details overlap",
+        "D": "No alignment required"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Rule of thirds placements visual interest stable balance focus maintain checks standard choices."
+    },
+    {
+      "qno": 94,
+      "question": "Tabletop photography me glass?",
+      "options": {
+        "A": "Black cardboard card templates to block light spills create sharp side dark outlines on transparent glass margins (shadow define)",
+        "B": "Reflector panels directly always",
+        "C": "Change lens settings focal length automatically",
+        "D": "Increase exposure levels"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Gobos (Go Between cards) light path blocks blocks shape outlines shadow boundaries checks."
+    },
+    {
+      "qno": 95,
+      "question": "Studio lights strobe?",
+      "options": {
+        "A": "Main camera trigger signal receive karke automatically parallel flash pulse deliver trigger karna",
+        "B": "Primary command transmitter unit",
+        "C": "Battery charge controller",
+        "D": "Camera auto focus helper"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Slave unit receives wireless trigger signal from Master unit, executing synchronized flashes."
+    },
+    {
+      "qno": 96,
+      "question": "Product photography focus?",
+      "options": {
+        "A": "Single-Shot AF (AF-S or One-Shot AF) stationary static focus locks coordinate details check",
+        "B": "Continuous AF tracking mode AF-C Servo",
+        "C": "Direct manual rotation speed checks only",
+        "D": "Zero auto focus checks"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "AF-S (Single Shot) static object details focus locks support, coordinates checks parameters standard choice."
+    },
+    {
+      "qno": 97,
+      "question": "Product photography studio?",
+      "options": {
+        "A": "Waterproof, stain resistant, easy wipe clean checks (ideal for cosmetic liquids splash, clay products shoots)",
+        "B": "Vinyl backdrops are completely free of cost always",
+        "C": "Vinyl sheets have zero weight",
+        "D": "No advantages exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Vinyl backdrops clean washes, wet props setups liquid splashes styling direct support checks."
+    },
+    {
+      "qno": 98,
+      "question": "E-Commerce photo post?",
+      "options": {
+        "A": "Multiple image assets same color correction crop dimensions settings actions single click bulk apply execute to save time",
+        "B": "Spelling checking processes",
+        "C": "Subtitles file translation automatic",
+        "D": "AdSense account links verification"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Batch processing automated actions speedup catalog setups time saving standard workflows."
+    },
+    {
+      "qno": 99,
+      "question": "Amazon listing catalog?",
+      "options": {
+        "A": "Upto 6-9 images displays slots (lifestyle, infographics, dimension scale, packaging box views)",
+        "B": "Only 1 image upload limit total",
+        "C": "Compulsory 100 images slots",
+        "D": "Zero image upload limits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Secondary listings pictures multi angle product descriptions usability values users convert support guidelines."
+    },
+    {
+      "qno": 100,
+      "question": "Product Photography for E-Commerce final cataloging verification guidelines checks why 85% occupancy is key final step?",
+      "options": {
+        "A": "Maximizes product visual scale inside catalog listing page details search result grids",
+        "B": "Video editing file sizes compression",
+        "C": "Subtitles translate tools automatic",
+        "D": "Zero utility coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Product occupancy constraints ensures buyer can read product details directly from search listing cards."
+    }
+  ]
+}

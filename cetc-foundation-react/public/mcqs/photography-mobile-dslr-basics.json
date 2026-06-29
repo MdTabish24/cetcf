@@ -1,0 +1,1443 @@
+{
+  "course_name": "Photography — Mobile & DSLR Basics",
+  "sector": "Media, Photography & Content Creation",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Photography Fundamentals & Camera Basics",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Understanding the Exposure Triangle",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Composition & Framing Techniques",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Working with Light & Flash",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Mobile Photography Advanced Techniques",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Post-Processing, Ethics & Career",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Photography ka basic principle kya hai?",
+      "options": {
+        "A": "Light ko record karna",
+        "B": "Sound ko record karna",
+        "C": "Video banana",
+        "D": "Text type karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Photography ka matlab hi hai light se drawing karna, yaani light ko record karke image banana."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "DSLR ka full form kya hai?",
+      "options": {
+        "A": "Digital Single Lens Reflex",
+        "B": "Direct Simple Light Recording",
+        "C": "Digital Studio Lens Review",
+        "D": "Dynamic Sensor Light Reader"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DSLR ka pura naam Digital Single Lens Reflex hai, jo iske working mechanism ko explain karta hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Mobile camera aur DSLR camera mein sabse bada structural difference kya hai?",
+      "options": {
+        "A": "DSLR mein interchangeable lenses hote hain, mobile mein fixed.",
+        "B": "Mobile camera mein flash hota hai, DSLR mein nahi.",
+        "C": "DSLR mein battery nahi hoti, mobile mein hoti hai.",
+        "D": "Mobile camera mein sensor bada hota hai, DSLR mein chhota."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "DSLR ki ek major pehchan uske interchangeable lenses hain, jabki mobile cameras mein lenses built-in aur fixed hote hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Ek photography job ke liye, product photography mein kaunsa camera type zyada preferred hoga?",
+      "options": {
+        "A": "DSLR (with macro lens)",
+        "B": "Basic point-and-shoot camera",
+        "C": "Old model mobile phone",
+        "D": "Webcam"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Product photography ke liye high detail, control aur specific lenses (jaise macro) ki zaroorat hoti hai, jo DSLR provide karta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Camera ka kaunsa part light ko gather karke sensor tak pahunchata hai?",
+      "options": {
+        "A": "Lens",
+        "B": "Shutter",
+        "C": "Battery",
+        "D": "Memory Card"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Lens hi woh component hai jo light ko collect aur focus karke camera sensor par project karta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Megapixel (MP) kis cheez ko represent karta hai?",
+      "options": {
+        "A": "Image ka file size",
+        "B": "Image ki resolution",
+        "C": "Camera ki battery life",
+        "D": "Lens ki quality"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Megapixel image ki resolution ko batata hai, yaani kitne millions of pixels se image bani hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Event photography ke liye, kaunsa camera mode sabse flexible control deta hai?",
+      "options": {
+        "A": "Manual Mode",
+        "B": "Auto Mode",
+        "C": "Portrait Mode",
+        "D": "Landscape Mode"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Manual mode photographer ko shutter speed, aperture, aur ISO par complete control deta hai, jo dynamic event photography ke liye essential hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Agar aapko ek moving subject ki clear photo leni hai, toh aap kya ensure karenge?",
+      "options": {
+        "A": "Fast shutter speed",
+        "B": "Slow shutter speed",
+        "C": "High ISO",
+        "D": "Low aperture"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Moving subject ko freeze karne ke liye fast shutter speed zaroori hai, taaki motion blur na aaye."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Jab aap ek professional portrait shoot kar rahe hain, toh aapke liye sabse important kya hoga?",
+      "options": {
+        "A": "Subject par sharp focus",
+        "B": "Background par sharp focus",
+        "C": "Maximum zoom level",
+        "D": "Camera ka weight"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Portrait photography mein subject par sharp focus hona sabse important hai, taaki viewer ka attention subject par rahe."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Image stabilization ka primary purpose kya hai?",
+      "options": {
+        "A": "Camera shake se hone wale blur ko kam karna",
+        "B": "Image ka size badhana",
+        "C": "Photos ko automatically edit karna",
+        "D": "Battery life improve karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Image stabilization camera shake ke karan hone wale blur ko minimize karta hai, especially low light ya telephoto shots mein."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Agar aap ek real estate client ke liye interior photos le rahe hain, toh aapko kis cheez ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Room ki lighting aur perspective ko accurate dikhana",
+        "B": "Sirf furniture par focus karna",
+        "C": "Photos ko black & white mein lena",
+        "D": "Har photo mein photographer ko dikhana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Real estate photography mein room ki spaciousness, lighting aur overall look ko accurately represent karna important hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Ek wedding photographer ke liye, kaunsa feature sabse helpful hoga jab low light mein ceremony ho?",
+      "options": {
+        "A": "High ISO performance aur fast autofocus",
+        "B": "Small memory card",
+        "C": "Manual focus only",
+        "D": "Slow shutter speed"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Wedding ceremony mein low light conditions common hoti hain, jahan high ISO performance noise ko control karta hai aur fast autofocus sharp images ensure karta hai moving subjects par."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Jab aap kisi product ki commercial photo shoot kar rahe hain, toh aapko kya avoid karna chahiye?",
+      "options": {
+        "A": "Product par harsh shadows ya reflections",
+        "B": "Product ko clear dikhana",
+        "C": "Consistent lighting use karna",
+        "D": "Multiple angles se shot lena"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Commercial product photography mein product ko best light mein dikhana hota hai, isliye harsh shadows aur unwanted reflections avoid kiye jaate hain."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Mirrorless cameras, DSLRs se kaise different hain?",
+      "options": {
+        "A": "Mirrorless mein mirror aur optical viewfinder nahi hota",
+        "B": "Mirrorless mein lenses interchangeable nahi hote",
+        "C": "Mirrorless sirf video record karte hain",
+        "D": "Mirrorless mein sensor nahi hota"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Mirrorless cameras mein DSLR ki tarah mirror mechanism aur optical viewfinder nahi hote, jisse wo compact hote hain."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek food blogger ke liye, food photography mein kis cheez par focus karna chahiye?",
+      "options": {
+        "A": "Food ki freshness aur texture ko highlight karna",
+        "B": "Background ko blur karna",
+        "C": "Natural light ka use karna",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Food photography mein food ki appeal, texture, aur natural presentation sabse important hai, jiske liye sahi lighting, focus aur composition zaroori hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Ek wildlife photographer ko long distance shots ke liye kis type ke lens ki zaroorat padegi?",
+      "options": {
+        "A": "Telephoto lens",
+        "B": "Wide-angle lens",
+        "C": "Macro lens",
+        "D": "Prime lens (50mm)"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Wildlife photography mein animals se safe distance maintain karte hue unki photos lene ke liye telephoto lenses use kiye jaate hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Camera ka sensor kis cheez ke liye responsible hota hai?",
+      "options": {
+        "A": "Light ko capture karke digital image banana",
+        "B": "Lens ko adjust karna",
+        "C": "Battery ko charge karna",
+        "D": "Memory card ko format karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sensor camera ka brain hai jo light ko receive karke use digital information mein convert karta hai, jisse image banti hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Aperture ko kis unit mein measure kiya jaata hai?",
+      "options": {
+        "A": "f-stops",
+        "B": "Seconds",
+        "C": "ISO values",
+        "D": "Millimeters"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Aperture ko f-stops (jaise f/2.8, f/8) mein measure kiya jaata hai, jo lens ke opening size ko batate hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Agar aapko shallow depth of field chahiye (background blur karna hai), toh aap aperture ko kya set karenge?",
+      "options": {
+        "A": "Wide aperture (chhota f-number, jaise f/2.8)",
+        "B": "Narrow aperture (bada f-number, jaise f/16)",
+        "C": "Medium aperture (f/8)",
+        "D": "Aperture ka depth of field se koi relation nahi"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Chhota f-number (wide aperture) zyada light allow karta hai aur shallow depth of field create karta hai, jisse background blur hota hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Shutter speed kis cheez ko control karta hai?",
+      "options": {
+        "A": "Kitni der tak sensor par light padegi",
+        "B": "Lens ki focal length",
+        "C": "Image ka colour saturation",
+        "D": "Camera ka weight"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Shutter speed woh time duration hai jiske liye camera ka shutter open rehta hai, aur light sensor tak pahunchti hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Ek waterfall ko silky smooth dikhane ke liye, aap shutter speed ko kya set karenge?",
+      "options": {
+        "A": "Slow shutter speed (e.g., 1/2 second)",
+        "B": "Fast shutter speed (e.g., 1/1000 second)",
+        "C": "Medium shutter speed (e.g., 1/125 second)",
+        "D": "Shutter speed ka isse koi lena dena nahi"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Slow shutter speed moving water ko blur karta hai, jisse silky smooth effect aata hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "ISO kya measure karta hai?",
+      "options": {
+        "A": "Sensor ki light sensitivity",
+        "B": "Lens ka size",
+        "C": "Shutter ka material",
+        "D": "Flash ki brightness"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "ISO sensor ki light sensitivity ko measure karta hai. Higher ISO matlab zyada sensitive."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Low light conditions mein, agar aapko flash use nahi karna hai, toh aap kya adjust karenge taaki photo bright aaye?",
+      "options": {
+        "A": "ISO value badhaenge",
+        "B": "ISO value ghataenge",
+        "C": "Shutter speed tez karenge",
+        "D": "Aperture narrow karenge"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Low light mein, flash avoid karte hue, higher ISO setting sensor ko zyada sensitive banati hai light ke prati, jisse photo bright hoti hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "High ISO settings ka ek major drawback kya hai?",
+      "options": {
+        "A": "Image mein 'noise' ya grain ka aana",
+        "B": "Image ka colour change ho jaana",
+        "C": "Battery jaldi khatam hona",
+        "D": "Lens ka focus kharab hona"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "High ISO se sensor ki sensitivity badhti hai, lekin uske saath image mein digital 'noise' ya grain bhi badh jaata hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Exposure Triangle ke teen elements kaunse hain?",
+      "options": {
+        "A": "Aperture, Shutter Speed, ISO",
+        "B": "Lens, Sensor, Flash",
+        "C": "Focus, Zoom, White Balance",
+        "D": "Contrast, Brightness, Saturation"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Exposure Triangle ke teen pillars Aperture, Shutter Speed, aur ISO hain, jo milkar image ki brightness ko control karte hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Agar aapki photo 'overexposed' ho gayi hai, toh uska kya matlab hai?",
+      "options": {
+        "A": "Photo bahut zyada bright hai",
+        "B": "Photo bahut zyada dark hai",
+        "C": "Photo blur ho gayi hai",
+        "D": "Photo mein colours nahi hain"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Overexposed photo ka matlab hai ki sensor par bahut zyada light padi hai, jisse photo excessively bright ho gayi hai aur details lost ho gayi hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "White Balance ka kya kaam hai?",
+      "options": {
+        "A": "Image mein colours ko natural dikhana, light source ke according",
+        "B": "Image ko black & white mein convert karna",
+        "C": "Image ki sharpness adjust karna",
+        "D": "Image ka contrast badhana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "White Balance camera ko batata hai ki 'white' kya hai, jisse different light sources (sunlight, fluorescent, tungsten) ke under colours natural dikhe."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Sunny outdoor conditions mein, aapko generally kaunsa ISO value use karna chahiye?",
+      "options": {
+        "A": "Low ISO (e.g., 100 or 200)",
+        "B": "High ISO (e.g., 1600 or 3200)",
+        "C": "Medium ISO (e.g., 800)",
+        "D": "ISO ka sunlight se koi relation nahi"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Bright sunny conditions mein bahut light hoti hai, isliye low ISO use karte hain taaki noise kam se kam ho aur quality best ho."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Metering mode 'Spot Metering' kab useful hota hai?",
+      "options": {
+        "A": "Jab aapko frame ke ek bahut chhote area ki exact exposure chahiye",
+        "B": "Jab aapko pure frame ki average exposure chahiye",
+        "C": "Jab aapko fast shutter speed chahiye",
+        "D": "Jab aapko wide aperture chahiye"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Spot metering camera ko frame ke ek specific, chhote spot par exposure measure karne deta hai, jo challenging lighting situations mein precise exposure ke liye useful hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Bade f-number (jaise f/22) ka kya effect hota hai?",
+      "options": {
+        "A": "Deep depth of field (zyada area in focus)",
+        "B": "Shallow depth of field (background blur)",
+        "C": "Zyada light sensor tak pahunchti hai",
+        "D": "Motion blur badhta hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bada f-number (narrow aperture) kam light allow karta hai aur deep depth of field create karta hai, jisse foreground aur background dono sharp hote hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Ek sports photographer ko action freeze karne ke liye, shutter speed kitna hona chahiye?",
+      "options": {
+        "A": "Extremely fast (e.g., 1/1000s or faster)",
+        "B": "Slow (e.g., 1/30s)",
+        "C": "Medium (e.g., 1/125s)",
+        "D": "Shutter speed ka action se koi relation nahi"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Sports photography mein fast-moving subjects ko freeze karne ke liye bahut fast shutter speed ki zaroorat hoti hai, taaki koi motion blur na ho."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Agar aap Portrait Mode mein shoot kar rahe hain, toh camera automatically kya adjust karta hai?",
+      "options": {
+        "A": "Wide aperture (background blur ke liye)",
+        "B": "Fast shutter speed (action freeze ke liye)",
+        "C": "High ISO (low light ke liye)",
+        "D": "Narrow aperture (deep depth of field ke liye)"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Portrait Mode ka primary goal subject ko highlight karna hai, jiske liye camera automatically wide aperture set karta hai taaki background blur ho jaaye."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "ISO 400 aur ISO 800 mein kya difference hai?",
+      "options": {
+        "A": "ISO 800 par sensor ISO 400 se doguna zyada sensitive hai light ke prati",
+        "B": "ISO 400 par sensor ISO 800 se doguna zyada sensitive hai light ke prati",
+        "C": "Dono mein koi sensitivity difference nahi",
+        "D": "ISO 400 sirf colour photos ke liye hai, ISO 800 black & white ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "ISO values doubling har stop par light sensitivity ko double karta hai. Toh ISO 800, ISO 400 se double sensitive hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Ek photography assignment jismein aapko ek badi building ko poori sharpness ke saath capture karna hai, toh aap kaunsi setting prefer karenge?",
+      "options": {
+        "A": "Narrow aperture (bada f-number) aur tripod",
+        "B": "Wide aperture (chhota f-number) aur handheld",
+        "C": "High ISO aur fast shutter speed",
+        "D": "Black & white mode"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Badi building ko poori sharpness ke saath capture karne ke liye deep depth of field (narrow aperture) zaroori hai. Tripod camera shake avoid karta hai, especially slow shutter speed par jo narrow aperture ke saath required ho sakti hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Rule of Thirds mein, subject ko frame ke kis area mein place karna chahiye?",
+      "options": {
+        "A": "Grid lines ke intersections par",
+        "B": "Exactly center mein",
+        "C": "Frame ke edges par",
+        "D": "Bottom left corner mein"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Rule of Thirds ke according, subject ko grid lines ke intersections par rakhne se photo zyada balanced aur visually appealing lagti hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Leading Lines ka kya purpose hota hai composition mein?",
+      "options": {
+        "A": "Viewer ki aankhon ko subject ki taraf guide karna",
+        "B": "Photo ko blur karna",
+        "C": "Image mein noise badhana",
+        "D": "Background ko hide karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Leading lines (jaise roads, fences) viewer ki aankhon ko photo ke main subject ya focal point ki taraf guide karte hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Agar aap ek street photographer hain, toh aap 'Candid Photography' ke liye kya prefer karenge?",
+      "options": {
+        "A": "People ko unke natural actions mein capture karna, bina unhe pata chale",
+        "B": "People ko pose karwake photo lena",
+        "C": "Sirf buildings ki photo lena",
+        "D": "Long exposure shots lena"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Candid photography mein subjects ko unke natural, unposed moments mein capture kiya jaata hai, jo street photography ka ek hallmark hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Symmetry composition mein kya role play karti hai?",
+      "options": {
+        "A": "Balance aur harmony create karna",
+        "B": "Confusion create karna",
+        "C": "Dynamic tension badhana",
+        "D": "Photo ko unbalanced banana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Symmetry (jaise reflections ya identical patterns) photo mein balance, order, aur harmony ki feeling deti hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Negative Space ka kya matlab hai composition mein?",
+      "options": {
+        "A": "Subject ke aas-paas ka empty area",
+        "B": "Photo ka dark area",
+        "C": "Editing ke baad ka space",
+        "D": "Subject ka main part"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Negative space subject ke aas-paas ka woh empty area hai jo subject ko stand out karne mein help karta hai aur composition ko clean rakhta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Ek low-angle shot ka kya effect hota hai?",
+      "options": {
+        "A": "Subject ko powerful ya dominant dikhana",
+        "B": "Subject ko chhota aur kamzor dikhana",
+        "C": "Background ko blur karna",
+        "D": "Colours ko vibrant banana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Low-angle shot, jismein camera subject ke neeche se shoot karta hai, subject ko bada, powerful, ya dominant dikhata hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Fill the Frame composition technique ka kya goal hai?",
+      "options": {
+        "A": "Subject ko frame mein poora bhar dena, distractions minimize karna",
+        "B": "Bahut saare elements ko frame mein include karna",
+        "C": "Negative space badhana",
+        "D": "Photo ko crop karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Fill the Frame ka matlab hai subject ko frame mein itna bada dikhana ki woh poora frame occupy kar le, jisse background distractions minimize ho jaati hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Aap ek wedding photographer hain aur aapko bride ki dress ki details capture karni hain. Kis composition technique ka use karenge?",
+      "options": {
+        "A": "Fill the Frame aur close-up",
+        "B": "Wide-angle shot",
+        "C": "Rule of Thirds",
+        "D": "Leading Lines"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Details capture karne ke liye 'Fill the Frame' aur close-up shots sabse effective hote hain, jisse viewers dress ki intricate details dekh paate hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Natural Framing ka kya matlab hai?",
+      "options": {
+        "A": "Photo ke andar naturally existing elements (jaise darwaza, khidki) se frame banana",
+        "B": "Photo ko software se frame karna",
+        "C": "Photo ko physical frame mein lagana",
+        "D": "Sirf landscape photos mein use hota hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Natural framing mein hum photo ke andar hi existing elements (jaise trees, arches) ka use karte hain subject ko frame karne ke liye."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Golden Ratio (Phi) composition mein kaise help karta hai?",
+      "options": {
+        "A": "Visually pleasing aur balanced compositions create karne mein",
+        "B": "Photos ko randomly compose karne mein",
+        "C": "Photos ko monochromatic banane mein",
+        "D": "Sirf abstract art mein use hota hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Golden Ratio ek mathematical concept hai jo visually pleasing proportions aur compositions banane mein madad karta hai, jo Rule of Thirds se bhi advanced hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Jab aap ek travel photographer hain aur aapko ek bade se pahad ki photo leni hai, toh aap kaunsa composition element use karenge taaki pahad ki grandeur dikhe?",
+      "options": {
+        "A": "Small human element ko foreground mein rakhna",
+        "B": "Pahad ko center mein rakhna",
+        "C": "Pahad ko crop karna",
+        "D": "Sirf sky ko capture karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Ek chhota human element foreground mein rakhne se viewers ko pahad ke scale aur grandeur ka idea lagta hai, jisse photo zyada impactful banti hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Headroom aur Lead Room ka kya significance hai portrait photography mein?",
+      "options": {
+        "A": "Headroom subject ke upar ka space hai, Lead Room subject ke movement direction mein space",
+        "B": "Dono same cheez hain",
+        "C": "Dono sirf landscape photography mein use hote hain",
+        "D": "Inka composition se koi lena dena nahi"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Headroom subject ke sir ke upar ka space hota hai, jabki Lead Room subject jis direction mein dekh raha hai ya move kar raha hai us direction mein diya gaya space hota hai, jo photo ko balanced banata hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Bokeh effect composition mein kya contribute karta hai?",
+      "options": {
+        "A": "Subject ko background se alag karna aur focus highlight karna",
+        "B": "Poori photo ko sharp rakhna",
+        "C": "Colours ko desaturate karna",
+        "D": "Image mein noise badhana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bokeh effect, jo background blur hota hai, subject ko background se alag karta hai aur viewer ka focus subject par laata hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Rule of Odds kya suggest karta hai composition mein?",
+      "options": {
+        "A": "Odd number mein subjects (jaise 3 ya 5) visually zyada pleasing hote hain",
+        "B": "Even number mein subjects zyada pleasing hote hain",
+        "C": "Sirf ek subject hona chahiye",
+        "D": "Subjects ki placement random honi chahiye"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Rule of Odds kehta hai ki jab aapke paas multiple subjects hon, toh odd number (3, 5, 7) mein hone par photo zyada aesthetically pleasing lagti hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Ek product photographer ko apne product ki photo mein kya avoid karna chahiye, composition ke hisaab se?",
+      "options": {
+        "A": "Cluttered background",
+        "B": "Clean background",
+        "C": "Product ko center mein rakhna",
+        "D": "Rule of Thirds ka use karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Product photography mein product ko highlight karna hota hai, isliye cluttered background se bachna chahiye taaki viewer ka focus product par hi rahe."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Depth ka illusion create karne ke liye composition mein kaunsi technique use hoti hai?",
+      "options": {
+        "A": "Foreground, Middleground, Background elements ko layer karna",
+        "B": "Sab kuch flat dikhana",
+        "C": "Sirf ek hi plane par focus karna",
+        "D": "Black & white photos lena"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Foreground, middleground, aur background mein elements ko strategically place karne se photo mein depth ka illusion create hota hai, jisse photo 3D feel deti hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Ek photojournalism assignment mein, aapko ek incident ko capture karna hai. Kis composition rule ko aap follow karenge?",
+      "options": {
+        "A": "Rule of Thirds aur strong visual narrative",
+        "B": "Sirf symmetry par focus karna",
+        "C": "Bokeh effect ka zyada use karna",
+        "D": "Golden Ratio"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Photojournalism mein composition important hai, lekin sabse zyada important hai ek clear aur compelling visual narrative provide karna, jismein Rule of Thirds jaise basic rules helpful hote hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Golden Hour kis time period ko kehte hain?",
+      "options": {
+        "A": "Sunrise ke baad aur Sunset se pehle ka time",
+        "B": "Dopahar ka time",
+        "C": "Raat ka time",
+        "D": "Mid-day"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Golden Hour, ya Magic Hour, sunrise ke baad aur sunset se pehle ka time hota hai jab light soft, warm aur golden hoti hai, jo photography ke liye ideal hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Harsh Mid-day sun mein portrait photography ke liye kya challenge hota hai?",
+      "options": {
+        "A": "Subject ke chehre par harsh shadows aur overexposure",
+        "B": "Light bahut soft hoti hai",
+        "C": "Colours dull ho jaate hain",
+        "D": "Background blur nahi hota"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Mid-day sun direct aur harsh hota hai, jisse subject ke chehre par deep shadows aur highlights mein overexposure ho sakti hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Reflector ka kya kaam hota hai photography mein?",
+      "options": {
+        "A": "Light ko subject par bounce karna aur shadows ko fill karna",
+        "B": "Flash ki brightness badhana",
+        "C": "Camera ko stable rakhna",
+        "D": "Lens ko clean karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Reflector ek surface hoti hai jo light ko bounce karke subject par direct karti hai, jisse shadows soft hote hain aur subject evenly lit hota hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Fill Flash ka kya purpose hai?",
+      "options": {
+        "A": "Daylight mein subject par padne wali harsh shadows ko kam karna",
+        "B": "Pure scene ko flash se light karna",
+        "C": "Raat mein long exposure shots lena",
+        "D": "Background ko blur karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Fill flash ka use tab kiya jaata hai jab ambient light sufficient ho, lekin subject par kuch shadows hon. Flash un shadows ko 'fill' karta hai, unhe soft banata hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Soft light aur Hard light mein kya difference hai?",
+      "options": {
+        "A": "Soft light diffused aur shadows soft karti hai, Hard light direct aur shadows sharp karti hai",
+        "B": "Soft light sirf indoor mein hoti hai, Hard light outdoor mein",
+        "C": "Soft light colourless hoti hai, Hard light colourful",
+        "D": "Dono same hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Soft light diffused hoti hai (jaise cloudy din mein), jisse shadows soft aur gradual hote hain. Hard light direct hoti hai (jaise mid-day sun), jisse shadows sharp aur defined hote hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Backlight mein photography karte samay kya challenge aata hai?",
+      "options": {
+        "A": "Subject underexposed ho sakta hai, ya silhouette ban sakta hai",
+        "B": "Subject overexposed ho jaata hai",
+        "C": "Colours dull ho jaate hain",
+        "D": "Bokeh effect nahi aata"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Backlight mein light subject ke peeche se aati hai, jisse subject underexposed ho sakta hai aur ek silhouette effect create ho sakta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Diffuser ka kya use hai flash photography mein?",
+      "options": {
+        "A": "Flash ki light ko soft aur evenly spread karna",
+        "B": "Flash ki light ko concentrate karna",
+        "C": "Flash ki range badhana",
+        "D": "Flash ki power kam karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Diffuser flash ki harsh, direct light ko soft aur evenly distributed light mein convert karta hai, jisse shadows kam harsh hote hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Agar aap ek product ko studio mein shoot kar rahe hain, toh aap kaunse artificial light sources prefer karenge?",
+      "options": {
+        "A": "Studio strobes ya continuous LED lights with softboxes",
+        "B": "Sirf camera ka pop-up flash",
+        "C": "Mobile phone ki flashlight",
+        "D": "Candles"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Studio strobes aur continuous LED lights (softboxes ke saath) precise control aur soft, even illumination provide karte hain, jo product photography ke liye ideal hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Blue Hour kis time ko kehte hain?",
+      "options": {
+        "A": "Sunrise se pehle aur Sunset ke baad ka time jab sky deep blue hota hai",
+        "B": "Dopahar ka time",
+        "C": "Golden Hour ke beech ka time",
+        "D": "Poori raat"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Blue Hour woh short period hota hai sunrise se pehle aur sunset ke baad jab suraj horizon ke neeche hota hai aur sky ek deep, rich blue color leta hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Ek wedding photographer ko indoor reception mein light control ke liye kya karna chahiye?",
+      "options": {
+        "A": "External flash unit ko bounce karna ceiling ya wall se",
+        "B": "Sirf camera ke pop-up flash ka use karna",
+        "C": "High ISO use karna aur flash bilkul na use karna",
+        "D": "Sab lights off kar dena"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "External flash ko ceiling ya wall se bounce karne se soft, diffused light milti hai, jo direct flash se zyada flattering hoti hai aur harsh shadows ko avoid karti hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Rim lighting effect kaise achieve kiya jaata hai?",
+      "options": {
+        "A": "Subject ke peeche se light source rakh kar",
+        "B": "Subject ke saamne se light source rakh kar",
+        "C": "Subject ke upar se light source rakh kar",
+        "D": "Subject ke bagal se light source rakh kar"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Rim lighting tab achieve hoti hai jab light source subject ke peeche se aata hai, jisse subject ke edges par ek bright outline banti hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar aapko ek moody aur dramatic photo chahiye, toh aap kis type ki lighting prefer karenge?",
+      "options": {
+        "A": "Hard, directional light",
+        "B": "Soft, even light",
+        "C": "Flat lighting",
+        "D": "Only natural light"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hard aur directional light strong shadows aur highlights create karti hai, jo moody aur dramatic effect ke liye ideal hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Continuous lighting aur Strobe lighting mein kya difference hai?",
+      "options": {
+        "A": "Continuous lighting hamesha on rehti hai, Strobe lighting flash karti hai",
+        "B": "Continuous lighting sirf video ke liye hai, Strobe sirf photo ke liye",
+        "C": "Dono same hain",
+        "D": "Continuous lighting zyada power leti hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Continuous lighting hamesha on rehti hai, jisse aap light ka effect live dekh sakte hain. Strobe lighting ek brief, powerful flash produce karti hai jab shutter trigger hota hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Light meter ka kya use hai?",
+      "options": {
+        "A": "Scene mein light ki amount measure karna taaki correct exposure set ho sake",
+        "B": "Camera ki battery life check karna",
+        "C": "Lens ki focal length adjust karna",
+        "D": "White balance set karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Light meter scene mein ambient light ko measure karta hai aur photographer ko correct aperture, shutter speed, aur ISO set karne mein help karta hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Chhote light sources (jaise bare bulb) kaise shadows create karte hain?",
+      "options": {
+        "A": "Hard, sharp shadows",
+        "B": "Soft, diffused shadows",
+        "C": "Koi shadow nahi",
+        "D": "Long shadows"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Chhote light sources direct light emit karte hain, jisse hard aur sharp shadows bante hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Bade light sources (jaise window ya softbox) kaise shadows create karte hain?",
+      "options": {
+        "A": "Soft, diffused shadows",
+        "B": "Hard, sharp shadows",
+        "C": "Koi shadow nahi",
+        "D": "Short shadows"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bade light sources light ko spread karte hain, jisse soft aur diffused shadows bante hain."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Ek photographer ko ek client ke liye office space ki photo leni hai. Use kis type ki lighting use karni chahiye?",
+      "options": {
+        "A": "Even, natural-looking ambient light, possibly with additional soft fill light",
+        "B": "Harsh, direct flash",
+        "C": "Sirf ek single spotlight",
+        "D": "Dark, moody lighting"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Office spaces ki photography mein goal hota hai space ko bright, welcoming aur functional dikhana. Iske liye even, natural-looking light sabse best hoti hai, jismein additional soft fill light helpful ho sakti hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Mobile phone camera mein grid lines ka kya use hai?",
+      "options": {
+        "A": "Composition (Rule of Thirds) mein help karna",
+        "B": "Battery life improve karna",
+        "C": "Image ko crop karna",
+        "D": "Flash ko control karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Grid lines Rule of Thirds jaise compositional rules ko apply karne mein help karte hain, jisse photos balanced aur aesthetically pleasing banti hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Mobile phone mein 'Portrait Mode' ka primary function kya hai?",
+      "options": {
+        "A": "Subject ko sharp rakh kar background ko blur karna (bokeh effect)",
+        "B": "Pure scene ko sharp rakhna",
+        "C": "Video record karna",
+        "D": "Black & white photos lena"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Portrait Mode software ka use karke subject ko focus mein rakhta hai aur background ko artificially blur karta hai, jo DSLR ke shallow depth of field jaisa dikhta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Mobile phone mein 'Panorama Mode' kis type ki photos lene ke liye best hai?",
+      "options": {
+        "A": "Wide landscapes ya large group shots",
+        "B": "Close-up shots",
+        "C": "Fast-moving subjects",
+        "D": "Night shots"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Panorama Mode multiple images ko stitch karke ek wide, panoramic photo banata hai, jo landscapes aur large group shots ke liye ideal hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "HDR (High Dynamic Range) mode kab use karna chahiye mobile photography mein?",
+      "options": {
+        "A": "Jab scene mein bahut zyada contrast ho (bright highlights aur deep shadows)",
+        "B": "Jab light bahut kam ho",
+        "C": "Jab subject move kar raha ho",
+        "D": "Jab aapko black & white photo chahiye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "HDR mode multiple exposures (underexposed, normal, overexposed) ko combine karke ek single image banata hai jismein highlights aur shadows dono mein detail hoti hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Mobile phone mein 'Digital Zoom' ka kya disadvantage hai?",
+      "options": {
+        "A": "Image quality decrease hoti hai (pixelation)",
+        "B": "Battery life kam hoti hai",
+        "C": "Camera hang ho jaata hai",
+        "D": "Colours change ho jaate hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Digital zoom basically image ko crop aur enlarge karta hai, jisse pixels stretch hote hain aur image quality (sharpness aur detail) mein kami aati hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Ek mobile photographer ko low light mein sharp photos lene ke liye kya karna chahiye?",
+      "options": {
+        "A": "Tripod use karna aur Night Mode ka use karna",
+        "B": "Flash ko hamesha on rakhna",
+        "C": "Digital zoom ka use karna",
+        "D": "Phone ko hilaate rehna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Low light mein phone ko stable rakhne ke liye tripod aur Night Mode ka use karne se camera zyada light capture kar pata hai aur sharp images milti hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "External mobile phone lenses (jaise wide-angle, macro) ka kya benefit hai?",
+      "options": {
+        "A": "Mobile camera ki versatility badhana",
+        "B": "Phone ko waterproof banana",
+        "C": "Battery life badhana",
+        "D": "Phone ka weight kam karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "External lenses mobile phone cameras ko alag-alag perspectives (wide, close-up) mein shoot karne ki ability dete hain, jisse unki versatility badhti hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Ek food blogger mobile phone se restaurant ke dish ki photo le raha hai. Kis cheez ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Natural light ka use karna aur dish ko attractive angle se capture karna",
+        "B": "Direct flash use karna",
+        "C": "Tablecloth ko blur karna",
+        "D": "Sirf plate ki photo lena"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Food photography mein natural light aur appealing angles dish ki freshness aur texture ko highlight karte hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Mobile phone camera ke lens ko regularly clean karna kyun important hai?",
+      "options": {
+        "A": "Photos ko sharp aur clear rakhne ke liye",
+        "B": "Phone ki speed badhane ke liye",
+        "C": "Battery ko overheat hone se bachane ke liye",
+        "D": "Apps ko smoothly run karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Lens par dhool ya smudges hone se photos blur aur dull ho sakti hain, isliye clean lens sharp images ke liye essential hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Time-lapse video kaise banate hain mobile phone mein?",
+      "options": {
+        "A": "Long period mein regularly interval par photos le kar unhe combine karna",
+        "B": "Fast-motion video record karna",
+        "C": "Slow-motion video record karna",
+        "D": "Sirf ek single photo lena"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Time-lapse mein camera ek long period mein fixed intervals par photos leta hai, jinhe baad mein ek video mein combine kiya jaata hai, jisse slow changes fast dikhte hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Mobile photography mein 'Optical Image Stabilization' (OIS) ka kya benefit hai?",
+      "options": {
+        "A": "Physical lens movement se camera shake ko compensate karna",
+        "B": "Software se blur remove karna",
+        "C": "Digital zoom badhana",
+        "D": "Battery life badhana"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "OIS lens elements ko physically move karke camera shake ko compensate karta hai, jisse low light aur handheld shots mein sharpness improve hoti hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Ek social media manager ko product launch ke liye quick, engaging photos chahiye. Mobile phone se shoot karte samay kya dhyaan rakhenge?",
+      "options": {
+        "A": "Good lighting, clear focus, aur creative angles",
+        "B": "Sirf flash use karna",
+        "C": "Har photo mein digital zoom karna",
+        "D": "Blurry background"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Social media ke liye engaging content mein good lighting, clear focus aur creative angles bahut important hain, taaki product attractive lage."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Mobile phone mein 'Pro Mode' ya 'Manual Mode' ka kya advantage hai?",
+      "options": {
+        "A": "Exposure settings (ISO, Shutter Speed, White Balance) par manual control",
+        "B": "Automatic editing",
+        "C": "Zyada storage space",
+        "D": "Better battery life"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Pro Mode users ko DSLR ki tarah ISO, Shutter Speed, White Balance, aur Focus par manual control deta hai, jisse creative flexibility badhti hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Ek travel vlogger ko apne mobile phone se high-quality footage capture karna hai. Kya use karna chahiye?",
+      "options": {
+        "A": "Gimbal ya stabilizer",
+        "B": "Sirf handheld shoot karna",
+        "C": "Flash on rakhna",
+        "D": "Digital zoom ka use karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Gimbal ya stabilizer mobile footage ko smooth aur shake-free banata hai, jo professional-looking travel vlogs ke liye essential hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Mobile phone mein 'Burst Mode' kab useful hota hai?",
+      "options": {
+        "A": "Fast-moving subjects ko capture karne ke liye",
+        "B": "Long exposure shots lene ke liye",
+        "C": "Panoramic shots lene ke liye",
+        "D": "Portrait photos lene ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Burst Mode ek saath kai photos leta hai, jisse aap fast-moving subjects ke best moment ko capture kar sakte hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Agar aapko mobile phone se ek client ke liye architectural photos leni hain, toh kya challenge ho sakta hai?",
+      "options": {
+        "A": "Lens distortion (especially wide-angle lenses par) aur limited manual control",
+        "B": "Too much bokeh effect",
+        "C": "Battery drain",
+        "D": "Storage issue"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Mobile phone ke wide-angle lenses mein distortion common hai, jo architectural lines ko bend kar sakta hai. Limited manual control bhi precise architectural shots ke liye challenge ho sakta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Post-processing mein 'Cropping' ka kya use hai?",
+      "options": {
+        "A": "Image se unwanted areas ko remove karna aur composition improve karna",
+        "B": "Image ka colour change karna",
+        "C": "Image ko blur karna",
+        "D": "Image ka size badhana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Cropping se aap image ke unwanted parts ko hata sakte hain aur composition ko strengthen kar sakte hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "JPEG aur RAW file formats mein kya major difference hai?",
+      "options": {
+        "A": "RAW files uncompressed aur zyada editing flexibility dete hain, JPEG compressed aur kam flexible hote hain",
+        "B": "JPEG files zyada bade hote hain RAW se",
+        "C": "RAW files sirf black & white hote hain",
+        "D": "JPEG files sirf video ke liye hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "RAW files camera sensor se saari information store karte hain, jisse post-processing mein zyada control milta hai. JPEG processed aur compressed hote hain."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Photo editing mein 'Contrast' adjust karne se kya hota hai?",
+      "options": {
+        "A": "Highlights aur shadows ke beech ka difference badhta ya kam hota hai",
+        "B": "Image ka colour change hota hai",
+        "C": "Image blur ho jaati hai",
+        "D": "Image rotate hoti hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Contrast adjustment se image ke brightest aur darkest parts ke beech ka difference change hota hai, jisse image mein 'pop' aata hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Watermarking ka kya purpose hai professional photography mein?",
+      "options": {
+        "A": "Photo ki ownership claim karna aur unauthorized use se bachana",
+        "B": "Photo ko zyada attractive banana",
+        "C": "Photo ka file size kam karna",
+        "D": "Photo ko blur karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Watermark ek visible sign (logo ya text) hota hai jo photo par lagaya jaata hai taaki ownership dikhe aur uska unauthorized use discourage ho."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Ek client ke liye photos deliver karne se pehle, aap kya ensure karenge?",
+      "options": {
+        "A": "Photos ko professionally edit kiya gaya hai aur client ki requirements meet ho rahi hain",
+        "B": "Photos ko raw format mein hi deliver karna",
+        "C": "Photos ko compress karke quality kam karna",
+        "D": "Photos ko bina watermark ke deliver karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Professional delivery mein photos ka high-quality, edited hona aur client ki specific needs ko fulfill karna essential hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Photographic ethics mein 'Manipulation' ka kya concern hai?",
+      "options": {
+        "A": "Image ko itna edit karna ki uski reality ya integrity change ho jaaye",
+        "B": "Image ko crop karna",
+        "C": "Brightness adjust karna",
+        "D": "Colour saturation badhana"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Photographic ethics mein, excessive manipulation (jaise elements add/remove karna) ek concern hai, especially photojournalism mein, jahan image ki integrity important hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Copyright ka kya matlab hai photography mein?",
+      "options": {
+        "A": "Photographer ko uske kaam par exclusive legal rights dena",
+        "B": "Koi bhi photo ko free mein use kar sakta hai",
+        "C": "Photos ko delete karna",
+        "D": "Photos ko rename karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Copyright photographer ko uski photos par exclusive rights deta hai, jiska matlab hai ki koi aur uski permission ke bina use copy, distribute ya modify nahi kar sakta."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Cloud storage solutions (jaise Google Drive, Dropbox) ka kya benefit hai photographers ke liye?",
+      "options": {
+        "A": "Photos ka secure backup aur easy access anywhere",
+        "B": "Photos ko automatically edit karna",
+        "C": "Camera ki battery charge karna",
+        "D": "Lens ko clean karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Cloud storage photos ka off-site backup provide karta hai aur internet connection ke saath kahin se bhi access provide karta hai, jo data loss se bachata hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Ek freelance photographer ke liye, client communication mein kya important hai?",
+      "options": {
+        "A": "Client ki requirements ko clearly samajhna aur expectations manage karna",
+        "B": "Sirf apni terms par kaam karna",
+        "C": "Client se kabhi baat na karna",
+        "D": "Bina agreement ke kaam shuru kar dena"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Clear client communication project ki success ke liye critical hai, jismein requirements samajhna, scope define karna aur expectations manage karna shamil hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Photography mein 'Consent' ka kya mahatva hai?",
+      "options": {
+        "A": "People ki photos lene se pehle unki permission lena, especially private settings mein",
+        "B": "Har photo par watermark lagana",
+        "C": "Photos ko delete karna",
+        "D": "Photos ko edit karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ethics mein, kisi ki photo lene se pehle unki permission (consent) lena important hai, khaaskar jab privacy expect ki jaati ho, jaise private events ya portraits."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Agar aap ek wedding photographer hain aur aapki hard drive crash ho jaati hai, toh data loss se bachne ke liye aapne kya kiya hona chahiye tha?",
+      "options": {
+        "A": "Regularly photos ka backup lena (external drive, cloud)",
+        "B": "Sirf ek copy rakhna",
+        "C": "Photos ko edit na karna",
+        "D": "Hard drive ko kabhi off na karna"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Data loss se bachne ka sabse effective tareeka multiple backups rakhna hai, jaise external hard drives, cloud storage, ya NAS (Network Attached Storage)."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Ek photographer ke liye 'Portfolio' ka kya role hai?",
+      "options": {
+        "A": "Apne best kaam ko showcase karna aur clients ko attract karna",
+        "B": "Apne saare photos ko store karna",
+        "C": "Apne expenses track karna",
+        "D": "Apne social media followers badhana"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Portfolio ek collection hai aapke best work ka jo aapki skills aur style ko demonstrate karta hai, aur clients ko hire karne ke liye convince karta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Photo editing mein 'Saturation' adjust karne se kya hota hai?",
+      "options": {
+        "A": "Colours ki intensity ya vibrancy badhti ya kam hoti hai",
+        "B": "Image ki sharpness badhti hai",
+        "C": "Image ka contrast badhta hai",
+        "D": "Image blur ho jaati hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Saturation adjustment se colours kitne vivid ya muted dikhenge, yeh control hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Professional photography mein 'Deliverables' ka kya matlab hai?",
+      "options": {
+        "A": "Woh final products (photos, albums, prints) jo client ko diye jaayenge",
+        "B": "Photographer ka camera gear",
+        "C": "Client ki payment",
+        "D": "Photoshoot ka location"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Deliverables woh specific items ya services hote hain jo ek project ke end mein client ko provide kiye jaate hain, jaise edited photos, prints, ya albums."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Agar aapko ek client ke liye photos website par upload karni hain, toh aap kis file format ko prefer karenge?",
+      "options": {
+        "A": "JPEG (optimized for web)",
+        "B": "RAW",
+        "C": "TIFF",
+        "D": "PSD"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Web ke liye JPEG files preferred hote hain kyunki woh compressed hote hain, jisse loading time kam hota hai, aur quality bhi acceptable rehti hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek photographer ko apni pricing strategy set karte samay kya consider karna chahiye?",
+      "options": {
+        "A": "Apne expenses, experience, market rates aur client ki budget expectations",
+        "B": "Sirf competitors ki pricing",
+        "C": "Sirf apni personal pasand",
+        "D": "Pricing ka koi fixed rule nahi hota"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Pricing strategy mein apne expenses (gear, software, marketing), experience level, market mein chal rahe rates, aur client ki financial capacity sabko consider karna hota hai."
+    }
+  ]
+}

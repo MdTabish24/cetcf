@@ -1,0 +1,1343 @@
+{
+  "course_name": "Drip Irrigation Technician",
+  "sector": "Agriculture & Rural Livelihood",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Micro-Irrigation & Water Management",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Components of Drip Irrigation System (Pipes, Filters, Emitters)",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Installation, Layout Planning & Design of Drip System",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Operation, Fertigation & Acid Treatment Methods",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Maintenance, Troubleshooting & Blockage Prevention",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Sprinkler Systems, Subsidy Schemes & Economics",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "question": "Micro-Irrigation (sookshma sinchai) ka main target kya hai?",
+      "options": {
+        "A": "Bina water filter ke water supply karna",
+        "B": "Paani ki bachat karte hue seedhe plants ke root zone me aavashyakta anusar paani dena",
+        "C": "Pure farm me flood irrigation (paani bharna)",
+        "D": "Rainfall pattern change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Micro-irrigation (jaise drip aur sprinkler) paani ki savings aur optimum root hydration ke liye use hoti hai."
+    },
+    {
+      "qno": 2,
+      "question": "Flood Irrigation (parmparik sinchai) ke mukable Drip system me kitne percent paani ki bachat hoti hai?",
+      "options": {
+        "A": "Lagbhag zero bachat",
+        "B": "10-20%",
+        "C": "60% se 70% (aur kafi baar 80% tak)",
+        "D": "Only 5%"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Drip system drops me paani roots me deta hai jisse evaporation aur runoff waste lagbhag khatam ho jata hai."
+    },
+    {
+      "qno": 3,
+      "question": "Micro-irrigation me 'Fertigation' (urvarak sinchai) se kya matlab hai?",
+      "options": {
+        "A": "Fertilizer ko pine ke pani me mix karna",
+        "B": "Water ke sath direct soluble fertilizers ko mix karke drip lines ke through root zone me supply karna",
+        "C": "Soil surface par manure phelana",
+        "D": "Weed chemicals spray karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fertigation se fertilizers ki efficiency badhti hai, labor cost kam hoti hai aur nutrients seedhe plant absorb karta hai."
+    },
+    {
+      "qno": 4,
+      "question": "Drip irrigation ko aur kis name se jana jata hai global terminology me?",
+      "options": {
+        "A": "Trickle Irrigation",
+        "B": "Flood Sprinkler",
+        "C": "Deep bore irrigation",
+        "D": "Mist irrigation"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Drip irrigation ko slow aur continuous water application ke karan Trickle irrigation bhi kehte hain."
+    },
+    {
+      "qno": 5,
+      "question": "Soil moisture conservation me drip system kaise help karta hai?",
+      "options": {
+        "A": "Soil surface ko continuously flooded rakhkar",
+        "B": "Controlled water supply se field capacity (vattar condition) maintain rakhkar",
+        "C": "Soil salts badha kar",
+        "D": "Soil erosion tezi se badha kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drip system se soil me air aur water ka balance (field capacity) bana rehta hai jisse roots ko optimum aeration milti hai."
+    },
+    {
+      "qno": 6,
+      "question": "Water Use Efficiency (WUE) kis irrigation system me sabse high hoti hai?",
+      "options": {
+        "A": "Flood Irrigation (Nahar/Tube-well flow)",
+        "B": "Drip Irrigation (90-95% efficiency)",
+        "C": "Sprinkler Irrigation (70-80%)",
+        "D": "Furrow Irrigation (koold system)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drip system direct application ke karan 90%+ water use efficiency deta hai, jabki flood system sirf 30-40% deta hai."
+    },
+    {
+      "qno": 7,
+      "question": "Drip system lagane se weeds (kharpatwar) ki growth kyu kam ho jati hai?",
+      "options": {
+        "A": "Kyunki paani sirf plant roots ke paas milta hai, baqi zameen dry rehti hai",
+        "B": "Chemicals sheet pure farm me spread hoti hai",
+        "C": "Drip pipes ants ko attract karte hain",
+        "D": "Soil temperature bohot drop ho jata hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Baqi zameen dry rehne se weeds ke seeds ko germination ke liye moisture nahi milta, jisse labor cost bachti hai."
+    },
+    {
+      "qno": 8,
+      "question": "India me dry aur water-scarce states (jaise Rajasthan, Gujarat) me kis scheme ke under drip systems par heavy subsidies di jati hain?",
+      "options": {
+        "A": "PMKSY (Pradhan Mantri Krishi Sinchayee Yojana) - Per Drop More Crop",
+        "B": "PM Kisan Samman Nidhi only",
+        "C": "NABARD direct card Scheme",
+        "D": "FSSAI safety license scheme"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "PMKSY scheme ke under farmers ko micro-irrigation system lagane ke liye 55-80% tak financial subsidy milti hai."
+    },
+    {
+      "qno": 9,
+      "question": "Water harvesting pond ya tank se seedhe drip pump se water flow supply karne ke system ko kya bolte hain?",
+      "options": {
+        "A": "Open canal unit",
+        "B": "Micro-irrigation pump house assembly",
+        "C": "Gravity flow tank directly",
+        "D": "Borewell check"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pump house me motor, pressure gauges, control valves aur filters aapas me sequential connect hote hain."
+    },
+    {
+      "qno": 10,
+      "question": "Protected cultivation (polyhouse) me drip system lagana compulsory kyu mana jata hai?",
+      "options": {
+        "A": "Polyhouse floors par mud (keechar) na bane aur relative humidity controlled rahe",
+        "B": "Pipes structural weight support karte hain",
+        "C": "FSSAI license compliance zaroori hai",
+        "D": "Water price decrease hota hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Polyhouse me agar open irrigation karenge to humidity extreme badh jayegi aur fungal diseases crops ko destroy kar dengi."
+    },
+    {
+      "qno": 11,
+      "question": "Micro-irrigation me 'EC' aur 'pH' parameter check karna kyu zaroori hai water check-up me?",
+      "options": {
+        "A": "Taaki water salinity aur acidic property se drippers blockage aur root damage na ho",
+        "B": "Pressure check karne ke liye",
+        "C": "Borewell depth check karne ke liye",
+        "D": "Tensiometer calibration ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Highly saline (high EC) paani drip lines ko clog kar deta hai aur acidic pH piping systems ko degrade karta hai."
+    },
+    {
+      "qno": 12,
+      "question": "Clay Soil (chikni mitti) ke mukable Sandy Soil (retili mitti) me drip line ke drippers ka spacing distance kya hona chahiye?",
+      "options": {
+        "A": "Sandy soil me dripper spacing paas-paas (close spacing) hona chahiye",
+        "B": "Dono me spacing same honi chahiye",
+        "C": "Sandy soil me drip use nahi ho sakti",
+        "D": "Sandy soil me drippers door-door hone chahiye"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Retili mitti me water retention kam hota hai aur paani vertical direct slip ho jata hai, isliye wide wetting pattern ke liye drippers paas hone chahiye."
+    },
+    {
+      "qno": 13,
+      "question": "Sub-surface Drip Irrigation (SDI) kya hota hai?",
+      "options": {
+        "A": "Drip pipes ko zameen ke oopar rakhna",
+        "B": "Drip lateral pipes ko soil surface se niche (buried underground) daal kar roots me direct water dena",
+        "C": "Pani ko borewell me wapas bhejna",
+        "D": "Pipes ko ceiling par bandhna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "SDI me lateral lines zameen ke niche (approx 10-30 cm depth) hoti hain, jisse evaporation zero ho jata hai aur tractors aasaani se chal sakte hain."
+    },
+    {
+      "qno": 14,
+      "question": "Micro-irrigation me 'Fertigation unit' me use hone wale main injector equipment ko kya bolte hain?",
+      "options": {
+        "A": "Venturi Injector / Fertilizer Tank / Dosing Pump",
+        "B": "Sand filter tower",
+        "C": "Water separator",
+        "D": "Pulsator cup"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Venturi tube pressure drop create karke fertilizer container se solution ko suction ke through mainline water me mix karti hai."
+    },
+    {
+      "qno": 15,
+      "question": "Micro-irrigation setup lagane se per-unit fertilizer saving kitni percent tak ho jati hai normal method ke comparison me?",
+      "options": {
+        "A": "Lagbhag zero percent",
+        "B": "20-40% (Leaching loss kam hone se)",
+        "C": "90% saving without usage",
+        "D": "Fertilizer consumption double hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nutrients direct roots me milne se leak aur runoff nahi hote, jisse khad ki lagbhag 30% bachat hoti hai."
+    },
+    {
+      "qno": 16,
+      "question": "Drip irrigation system me primary line pipe (submain/main line) kis material ka bana hota hai?",
+      "options": {
+        "A": "PVC (Polyvinyl Chloride) Pipes ya HDPE Pipes",
+        "B": "Wooden tubes",
+        "C": "Clay drainage tubes",
+        "D": "Galvanized Iron (GI) heavy pipes directly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "PVC aur HDPE pipes flexible, light-weight, chemical-resistant aur highly durable hote hain ground use ke liye."
+    },
+    {
+      "qno": 17,
+      "question": "Drip mainline pipes ko connect karne ke liye kis joiner chemical paste ka use kiya jata hai?",
+      "options": {
+        "A": "Solvent Cement (PVC solvent)",
+        "B": "Super glue",
+        "C": "Clay mud mix paste",
+        "D": "Urea paste"
+      },
+      "correct": "easy",
+      "difficulty": "easy",
+      "explanation": "PVC joints par solvent cement lagakar merge karne se absolute chemical bonding ho jati hai jo leak nahi karti."
+    },
+    {
+      "qno": 18,
+      "question": "Drip system me 'Lateral Line' (lateral pipe) kis plastic polymer se bani hoti hai?",
+      "options": {
+        "A": "LLDPE (Linear Low Density Polyethylene) Pipes",
+        "B": "Rigid PVC",
+        "C": "Acrylic tubes",
+        "D": "Polyester mesh sheet"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Laterals flexible aur UV-stabilized LLDPE black tubes (diameter generally 12mm, 16mm ya 20mm) hoti hain jin par drippers lage hote hain."
+    },
+    {
+      "qno": 19,
+      "question": "Water source (borewell/pond) se aane wale bade size ke mitti aur mud particles ko filter karne wale filter ko kya kehte hain?",
+      "options": {
+        "A": "Hydrocyclone Filter (Sand Separator) / Media Filter",
+        "B": "Disc Filter",
+        "C": "Screen Filter",
+        "D": "Bypass filter"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Hydrocyclone centrifugal action se mitti/sand ko separate karta hai aur bottom chamber me settle kar deta hai."
+    },
+    {
+      "qno": 20,
+      "question": "Algae (kai) aur organic impurities ko filter karne ke liye kaun sa filter sabse effective hota hai?",
+      "options": {
+        "A": "Sand/Media Filter (unwashed gravels/sand bed filter)",
+        "B": "Normal Screen Filter",
+        "C": "Lactometer grid",
+        "D": "Hydrocyclone directly"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Sand filter me coarse gravels hote hain jo biological matter aur algae ko trap kar lete hain. Iski backwashing zaroori hoti hai."
+    },
+    {
+      "qno": 21,
+      "question": "Micro-irrigation head assembly assembly me last stage fine filtration filter kaun sa hota hai?",
+      "options": {
+        "A": "Disc Filter ya Screen Filter (120 mesh / 130 micron)",
+        "B": "Media filter directly",
+        "C": "Hydrocyclone only",
+        "D": "Cloth filter bag"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Disc/Screen filter microscopic silt aur chemical precipitates ko dripper me jaane se block karte hain."
+    },
+    {
+      "qno": 22,
+      "question": "Disc Filter ka structure kaisa hota hai?",
+      "options": {
+        "A": "Kai saari grooves wali circular plastic discs jo tight state me press rehti hain",
+        "B": "Hollow iron tube with sand inside",
+        "C": "Single thin metal mesh screen",
+        "D": "Paper cartridge design"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Pressed plastic discs ke grooves fine dirt particles ko trap karti hain. Clean karte waqt ring open karne par discs loose ho jati hain aur aasaani se dho li jati hain."
+    },
+    {
+      "qno": 23,
+      "question": "Lateral pipes ke end (aakhiri point) ko seal karne aur pipe flushing ke liye kis accessory ka use hota hai?",
+      "options": {
+        "A": "End Cap / End Clamp (8-shape figure-8 end ring)",
+        "B": "Solvent cement permanent weld",
+        "C": "Dripper insert directly",
+        "D": "Tee connector"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Figure-8 slide-on end lock ya end cap end point ko seal karti hai jise open karke lateral clean ki jati hai."
+    },
+    {
+      "qno": 24,
+      "question": "Drippers (Emitters) ka main function kya hota hai?",
+      "options": {
+        "A": "High pressure stream throw karna",
+        "B": "Water pressure drop karke drop-by-drop constant discharge dena",
+        "C": "Water filter karna directly inside laterals",
+        "D": "Airflow decrease karna pipes me"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emitters internal turbulent pathways se pressure dissipate karte hain taaki tiny constant drop flow (jaise 2 LPH, 4 LPH) mile."
+    },
+    {
+      "qno": 25,
+      "question": "Dripper discharge rate me 'LPH' ka kya matlab hai?",
+      "options": {
+        "A": "Liters Per Hour (ek ghante me kitna liter paani niklega)",
+        "B": "Line Pressure Head",
+        "C": "Lateral Pipe Height",
+        "D": "Liquid Processing Header"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Drippers standard flow ratings me aate hain jaise 2 LPH, 4 LPH ya 8 LPH (Liters Per Hour)."
+    },
+    {
+      "qno": 26,
+      "question": "Inline Drip System aur Online Drip System me kya main difference hai?",
+      "options": {
+        "A": "Inline me dripper pehle se lateral pipe ke andar pre-installed (fixed spacing) hote hain, Online me puncture karke bahar se fit kiya jata hai (button drippers)",
+        "B": "Online system internet se connect hota hai",
+        "C": "Inline system zameen ke niche hi use ho sakta hai",
+        "D": "Dono me same lateral spacing hoti hai compulsory"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Inline standard crop rows (jaise cotton, vegetables) ke liye use hota hai. Online orchard trees (orchards) me custom spacing ke liye buttons lagakar use hota hai."
+    },
+    {
+      "qno": 27,
+      "question": "PC (Pressure Compensating) drippers ka use kyu kiya jata hai?",
+      "options": {
+        "A": "Water flow speed check karne ke liye",
+        "B": "Line pressure change hone par bhi exact same discharge (LPH) output maintain rakhne ke liye",
+        "C": "Pipes safety leakage valve ki tarah",
+        "D": "Zero pressure support ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "PC drippers me silicone diaphragm hota hai jo elevation/pressure fluctuations me bhi uniform flow rate distribute karta hai."
+    },
+    {
+      "qno": 28,
+      "question": "Drip system me 'Pressure Gauge' ka kya kaam hota hai?",
+      "options": {
+        "A": "Water level check karna tank me",
+        "B": "System ka operating pressure index bar/kg/cm² me show karna",
+        "C": "Filter backwash automatic trigger karna",
+        "D": "Water density check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pressure gauge dial needle indicator hota hai jisse operating conditions monitor hoti hain."
+    },
+    {
+      "qno": 29,
+      "question": "Borewell ya mainline start karne par pipes ke fatne se bachane ke liye air release karne wale valve ko kya kehte hain?",
+      "options": {
+        "A": "Air Release Valve / Vacuum Breaker Valve (ARV)",
+        "B": "Check Valve (Non-return valve)",
+        "C": "Bypass gate valve",
+        "D": "Figure-8 clamp"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "ARV pipes ke starting high points par hota hai jo pocketed air ko venting system se chhod deta hai aur vacuum formation nahi hone deta."
+    },
+    {
+      "qno": 30,
+      "question": "Drip system me 'Non-Return Valve' (NRV) kis kaam aata hai?",
+      "options": {
+        "A": "Pani ko pump ke switch off hone par wapas deep source me jane se rokte hue back-pressure damage se bachana",
+        "B": "Solvent cement check valve",
+        "C": "Fertilizer leakage block valve",
+        "D": "Air compression release"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "NRV (check valve) single direction flow ko allow karta hai, reverse flow ko block karta hai."
+    },
+    {
+      "qno": 31,
+      "question": "Micro-irrigation mainline se LLDPE Laterals ko jodte waqt connector pipe attachment ko kya bolte hain?",
+      "options": {
+        "A": "Grommet Take-off connector / Joiner nipple",
+        "B": "End cap directly",
+        "C": "Venturi unit",
+        "D": "Cross coupler"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Submain line me drill karke rubber grommet lagate hain, aur uske andar take-off connector push karke lateral pipe connect karte hain."
+    },
+    {
+      "qno": 32,
+      "question": "Button dripper ka use primarily kis crop structure me hota hai?",
+      "options": {
+        "A": "Grains like paddy and wheat",
+        "B": "Orchards / Fruit crops (Mango, Guava, Pomegranate, Citrus trees)",
+        "C": "Nurseries directly in tray holes",
+        "D": "Zero water crops"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fruit trees wide distance par hote hain, isliye lateral pipe me tree trunk ke pass holes puncture karke custom button drippers lagaye jate hain."
+    },
+    {
+      "qno": 33,
+      "question": "Non-PC (Non-Pressure Compensating) drippers me water flow output kis cheez par dependent hota hai?",
+      "options": {
+        "A": "Inlet line pressure par (inlet pressure badhega to flow rate LPH badhega)",
+        "B": "Always constant at any pressure",
+        "C": "Only gravity flow",
+        "D": "Liquid viscosity only"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Non-PC drippers me slope/distance ke sath pressure loss hone se tail-end plants ko head-end plants ke mukable kam paani milta hai."
+    },
+    {
+      "qno": 34,
+      "question": "Mainline aur Sub-main lines par valves ko regulate aur open/close karne wale device ko kya bolte hain?",
+      "options": {
+        "A": "Ball Valves / Gate Valves",
+        "B": "Air release valve",
+        "C": "Grommets",
+        "D": "Dripper nozzles"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ball valves handle turning se flow block/open karne ke main control units hain."
+    },
+    {
+      "qno": 35,
+      "question": "Drip irrigation assembly me system pressure relief valve ka kya use hai?",
+      "options": {
+        "A": "Shed clean karna",
+        "B": "Limit se zyada pressure badhne par automatically extra water discharge karke burst accident rokna",
+        "C": "Fertilizer dilution check",
+        "D": "Air entry valve"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Safety valve set pressure (jaise 4 bar) se zyada pressure hone par opening release trigger karta hai."
+    },
+    {
+      "qno": 36,
+      "question": "Drip system design karte waqt 'Frictional Head Loss' se kya matlab hai?",
+      "options": {
+        "A": "Water velocity reduction inside pipes due to pipe wall roughness (frictional drag)",
+        "B": "Drippers leakage rate",
+        "C": "Soil water retention level",
+        "D": "Filter mesh count reduction"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Pipes me pani behne par walls ki friction se pressure loss (head loss) hota hai. Pipe ka diameter chota hone par loss tezi se badhta hai."
+    },
+    {
+      "qno": 37,
+      "question": "GI submain pipes ke badle PVC submain pipes ko ground layout me install karte waqt minimum trench depth (mitti me kitna gehra dabana chahiye) standard kya hai?",
+      "options": {
+        "A": "10 cm",
+        "B": "At least 60 cm to 90 cm (2 to 3 feet deep) taaki farming equipments aur tractors se pipeline damage na ho",
+        "C": "Pipes ground surface par rehne chahiye open",
+        "D": "5 meters deep"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pipes ko deep bury karne se soil load evenly distribute hota hai aur tillage implements (plow, rotavator) se safe rehte hain."
+    },
+    {
+      "qno": 38,
+      "question": "16mm Lateral line ki maximum length normal standards me kitne se zyada nahi honi chahiye uniform water distribution ke liye?",
+      "options": {
+        "A": "10 meters",
+        "B": "50 to 80 meters (depend on slope and spacing)",
+        "C": "500 meters",
+        "D": "No limit constraint"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar lateral line 80-100m se zyada lambi hogi, to end level par extreme head loss se water discharge drop ho jayega."
+    },
+    {
+      "qno": 39,
+      "question": "Hill slope (dhalan) areas me drip design select karte waqt kis type ke drippers compulsory use karne chahiye?",
+      "options": {
+        "A": "Non-PC drippers",
+        "B": "PC (Pressure Compensating) drippers",
+        "C": "Normal button non-valve",
+        "D": "Sprinklers directly only"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dhalan par hydrostatic pressure change hota hai. Slopes par uniform water supply ke liye pressure compensating (PC) drippers hi successful hain."
+    },
+    {
+      "qno": 40,
+      "question": "Drip system installation complete hone ke baad sub-main line ko close karne se pehle kya action perform kiya jata hai dirt hatane ke liye?",
+      "options": {
+        "A": "System Flushing (Valves aur end caps khol kar full pressure water se clean karna)",
+        "B": "Acid treatment directly",
+        "C": "Filter backwashing directly",
+        "D": "Fumigation directly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Installation ke dauran pipe me gyi mitti aur plastic debris ko nikalne ke liye flushing zaroori hai, iske baad hi end clamps fitt kiye jate hain."
+    },
+    {
+      "qno": 41,
+      "question": "PVC/HDPE Sub-main line pipeline layout me joints ko tight seal karne ke liye kis thread sealant tape ka use plumbing connections me hota hai?",
+      "options": {
+        "A": "Teflon Tape (PTFE tape)",
+        "B": "Solvent gum only",
+        "C": "Cellotape normal",
+        "D": "Cotton thread only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Teflon tape threaded joints me micro gaps fill karke leakage ko rokti hai."
+    },
+    {
+      "qno": 42,
+      "question": "Drip system me 'Operating Pressure' standard criteria me kitna hota hai general design me?",
+      "options": {
+        "A": "0.1 kg/cm²",
+        "B": "1.0 to 1.5 kg/cm² (1.0 to 1.5 bar)",
+        "C": "10 kg/cm²",
+        "D": "5.0 bar"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Laterals aur drippers ke efficient functioning ke liye head assembly ke baad pressure ~1.0-1.2 bar hona chahiye."
+    },
+    {
+      "qno": 43,
+      "question": "Pipes me water flow capacity design guidelines ke hisab se safe velocity limit kitni hoti hai?",
+      "options": {
+        "A": "1.5 to 2.0 meters/second (taaki Water Hammer damage na ho)",
+        "B": "10 meters/second",
+        "C": "Zero flow velocity",
+        "D": "0.1 m/s"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Bohot high water speed se valve achanak band hone par shock wave (water hammer) banti hai jo pipes ko phad sakti hai."
+    },
+    {
+      "qno": 44,
+      "question": "Drip line layout design me 'Tee' connector joint aur 'Elbow' connector me kya functional difference hai?",
+      "options": {
+        "A": "Tee joint T-shape division branch ke liye hota hai, Elbow 90-degree turn ke liye use hota hai",
+        "B": "Tee end sealing block hai",
+        "C": "Elbow pipe divide karta hai",
+        "D": "Dono bilkul same hain"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Tee division point banta hai, jabki elbow direction change karne (bends) par use hota hai."
+    },
+    {
+      "qno": 45,
+      "question": "Borewell pump shutoff hone par submain pipeline me backward drainage block karne ke liye lagayi jane wali bypass assembly kyu zaroori hai?",
+      "options": {
+        "A": "Bypass line se pressure control hota hai aur motor pump burnout protection milti hai",
+        "B": "Bypass line soil aeration badhati hai",
+        "C": "Bypass line water cooling badhati hai",
+        "D": "Filter flow speed zero karti hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Bypass assembly extra discharge flow ko wapas source me recirculate kar deti hai jisse pump par overload pressure nahi aata."
+    },
+    {
+      "qno": 46,
+      "question": "Drip system installation layout me laterals spacing kis parameter par base honi chahiye?",
+      "options": {
+        "A": "Row-to-Row Distance of crops (fasal ki katar se katar ki doori)",
+        "B": "Only pipeline diameter",
+        "C": "Pump horsepower directly",
+        "D": "Total soil depth"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Vegetable beds ki distance agar 1.2 meters hai to laterals spacing bhi 1.2m set ki jayegi taaki seedhe crop row me lateral chale."
+    },
+    {
+      "qno": 47,
+      "question": "Online drip system installation punctures holes punch karne ke liye use hone wale punch tool ko kya bolte hain?",
+      "options": {
+        "A": "Pocket Punch / Button Punch Tool (often 2mm, 3mm or 4mm pin size)",
+        "B": "Chisel",
+        "C": "Hammer",
+        "D": "Drill bit directly without sleeve"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Specialized punch tool clean hole banata hai bina plastic tear kiye, jisse button dripper leakage free fitt hota hai."
+    },
+    {
+      "qno": 48,
+      "question": "Drip pipes line assembly leakages identify karne ka best manual technique kya hai?",
+      "options": {
+        "A": "System flow switch on karke high pressure me check points par bubbles ya water spray holes check karna",
+        "B": "Pipes ko burn karke check karna",
+        "C": "Borewell capacity double karna",
+        "D": "Dry sand block check"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "System running me leakages aasaani se wet spots ya sprays dekhkar aur joints tight karke repair ho jate hain."
+    },
+    {
+      "qno": 49,
+      "question": "Drip lateral spacing me multi-row crops (jaise vegetable beds) ke liye use hone wali design ko kya kehte hain?",
+      "options": {
+        "A": "Single lateral system ya Double lateral system (one lateral for two rows on bed)",
+        "B": "Closed loop network only",
+        "C": "Grid loop directly",
+        "D": "Hose reel design"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Beds par agar two lines ugae jate hain to center me double dripper line ya double lateral system customize kiya jata hai."
+    },
+    {
+      "qno": 50,
+      "question": "1 Hectare land area me drip assembly set up karne ka technical map design drawing sheet ko kya bolte hain?",
+      "options": {
+        "A": "Irrigation Layout Design Map Sheet (CAD Drawing)",
+        "B": "Soil index register",
+        "C": "FCR record sheet",
+        "D": "Agmark certificate blueprint"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Layout map submain piping route, lateral points, filter placement aur valve zones ko clear show karta hai."
+    },
+    {
+      "qno": 51,
+      "question": "Drip irrigation me Fertigation tank (Fertilizer Tank) kis system layout par connect kiya jata hai?",
+      "options": {
+        "A": "Mainline bypass line par parallel connections me (valves control)",
+        "B": "Direct laterals ke end point par",
+        "C": "Borewell suction pipe ke andar",
+        "D": "Filter drain valve ke upar directly"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Bypass flow design me mainline flow bypass hokar tank me jati hai aur chemical mix hokar filter ke raste laterals me jati hai."
+    },
+    {
+      "qno": 52,
+      "question": "Soluble fertilizers me primarily kin compounds ka fertigation kiya jata hai?",
+      "options": {
+        "A": "100% Water-soluble NPK Grades (jaise 19:19:19, 12:61:0, Urea, Calcium Nitrate)",
+        "B": "Superphosphate directly without filtration",
+        "C": "Cow dung slurry directly",
+        "D": "Bio-compost solid particles"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Fertigation me sirf 100% water-soluble fertilizers hi use ho sakte hain. Normal solid fertilizers (jaise SSP, DAP) blockages paida karte hain."
+    },
+    {
+      "qno": 53,
+      "question": "Drippers me hard water scaling (safed namak jamna) ko saaf karne ke liye kis chemical treatment ka use standard protocol hai?",
+      "options": {
+        "A": "Acid Treatment / Acid Flush",
+        "B": "Chlorine Flush directly",
+        "C": "Soda water flush",
+        "D": "Salt water drenching"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Acid treatment insoluble calcium aur magnesium salts ko dissolve kar deta hai jisse blocked holes open ho jate hain."
+    },
+    {
+      "qno": 54,
+      "question": "Acid treatment me common aur safe inorganic acid kaun sa use hota hai farm level par?",
+      "options": {
+        "A": "Hydrochloric Acid (HCl - approx 30-35% commercial grade) ya Phosphoric Acid",
+        "B": "Sulphuric acid concentrated (98%) directly",
+        "C": "Acetic acid (vinegar) only",
+        "D": "Nitric acid 100% pure"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Hydrochloric acid (muriatic acid) sasta aur organic salt scale saaf karne me behad effective hota hai."
+    },
+    {
+      "qno": 55,
+      "question": "Acid flush karte waqt system water ka pH target kitna rakha jata hai scale clearing ke liye?",
+      "options": {
+        "A": "pH 2.0 to 3.0 (Acidic condition for 30-60 minutes)",
+        "B": "pH 7.0 (neutral)",
+        "C": "pH 12.0 (alkaline)",
+        "D": "pH 0.1 directly"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "System me pH ko 2-3 tak temporary drop kiya jata hai taaki carbonate scaling ghul sake, aur process ke baad pure system ko flush kiya jata hai."
+    },
+    {
+      "qno": 56,
+      "question": "Drip system me algae (kai), bacteria aur slime blockages ko clean karne ke liye kis method ka use hota hai?",
+      "options": {
+        "A": "Chlorine Treatment / Chlorination (Bleaching powder ya Liquid Chlorine flush)",
+        "B": "Acid Flush directly only",
+        "C": "Urea treatment",
+        "D": "Hot air blow"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Chlorine organic matter ko kill karta hai aur algae buildup ko decompose kar deta hai."
+    },
+    {
+      "qno": 57,
+      "question": "Chlorine treatment me continuous dosing ke liye active chlorine limit kitni honi chahiye system water me?",
+      "options": {
+        "A": "1 to 2 ppm (parts per million)",
+        "B": "100 ppm",
+        "C": "5000 ppm",
+        "D": "Zero ppm"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Mera target algae growth prevent karna hai to continuous dosage 1-2 ppm active chlorine kafi hai. Shock treatment ke liye 10-20 ppm use hota hai."
+    },
+    {
+      "qno": 58,
+      "question": "Fertigation start karne ke baad aur fertilizers complete hone par drip run block karne se pehle kya rule follow kiya jata hai?",
+      "options": {
+        "A": "Fertilizer ke baad at least 15-20 minutes tak pure water chala kar lines ko flush karna",
+        "B": "System turant switch off karna",
+        "C": "Acid wash spray directly",
+        "D": "Filter remove karna directly"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Lines me bacha fertilizer agar pipe me reh gaya to crystallization ya bacterial slime grow ho jayegi jo drippers ko permanent damage kar degi."
+    },
+    {
+      "qno": 59,
+      "question": "Drip irrigation fertilizer solution preparation me 'Solubility limit' ka kya matlab hai?",
+      "options": {
+        "A": "Pani me fertilizer ghulne ka maximum limit (excess mix karne par khad niche baith jayega aur block karega)",
+        "B": "EC limit scale",
+        "C": "Acid evaporation rate",
+        "D": "Water pressure check"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Jitni limits solubility ki ho utna hi fertilizer dilute karna chahiye taaki precipitation na bane."
+    },
+    {
+      "qno": 60,
+      "question": "Venturi Injector me suction function kis physical law principle par base hota hai?",
+      "options": {
+        "A": "Bernoulli's Principle (pressure differences drop create suction)",
+        "B": "Newton's First Law",
+        "C": "Archimedes buoyancy law",
+        "D": "Pasal's pressure law"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Venturi throttle constriction point par paani ki velocity badhti hai aur pressure drop hota hai, jisse vacuum suction generate hota hai."
+    },
+    {
+      "qno": 61,
+      "question": "Calcium Nitrate aur Sulphate-based fertilizers (jaise Ammonium Sulphate) ko ek hi fertigation tank me ek sath mix kyu nahi karna chahiye?",
+      "options": {
+        "A": "Chemical reaction se insoluble Calcium Sulphate (Gypsum) precipitate banega jo drippers block kar dega",
+        "B": "EC level extreme drop hoga",
+        "C": "Pipes burst ho jayenge heat se",
+        "D": "Color yellow ho jayega"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Calcium aur Sulphate/Phosphate fertilizers reactive hote hain aur mitti ya lines me gypsum precipitate jamate hain. Inhe alag-alag tanks me rakhna chahiye (Tank A aur Tank B system)."
+    },
+    {
+      "qno": 62,
+      "question": "Acid treatment karte waqt personal safety ke liye sabse important guidelines kya hain?",
+      "options": {
+        "A": "Acid ko paani me milana chahiye (Acid to Water), kabhi paani ko concentrated acid me nahi dalna chahiye aur safety goggles pehna chahiye",
+        "B": "Pani ko direct acid me dalna fast dilution ke liye",
+        "C": "Bina mask ke close room me work karna",
+        "D": "Acid ko metal box me store karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Concentrated acid me agar paani dalenge to extreme heat generation se spattering/splash-out hoga jo jalne (burn) ka cause banta hai."
+    },
+    {
+      "qno": 63,
+      "question": "pH testing ke liye field level par kis tool ka common use kiya jata hai?",
+      "options": {
+        "A": "pH Litmus Paper strip ya Digital pH meter pocket size",
+        "B": "Lactometer directly",
+        "C": "Pressure meter",
+        "D": "Filter mesh directly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Litmus strips color indicators change se water pH range check karne ka quick tool hain."
+    },
+    {
+      "qno": 64,
+      "question": "Drip fertigation system zones me 'Fertilizer Injection Rate' ko control karne ke liye kya use hota hai?",
+      "options": {
+        "A": "Rotameter (Flow indicator) and control valves on venturi bypass line",
+        "B": "Direct high flow rate valve directly",
+        "C": "Air release valve",
+        "D": "Pressure relief nozzle"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Rotameter clear tube me float indicator level se show karta hai ki per minute kitna solution system me injection ho raha hai."
+    },
+    {
+      "qno": 65,
+      "question": "Water scale test me hard water block identification ke liye sub-main flush valves se sample test method kya hai?",
+      "options": {
+        "A": "White scale deposits par acid drop dalne se agar bubbles (fizzing) aaye, to calcium scale confirm hai",
+        "B": "Scale ko boil karke check karna",
+        "C": "Detergent mix check",
+        "D": "Water density increase balance"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Calcium carbonate acid se react karke carbon dioxide gas banata hai jisse fizzing (eferevescence) dikhti hai."
+    },
+    {
+      "qno": 66,
+      "question": "Drip system me sand/media filters ki cleaning ke liye water direction ko reverse flow karke trash saaf karne ko kya kehte hain?",
+      "options": {
+        "A": "Backwashing (Backwash cycle open valves system)",
+        "B": "Fumigation",
+        "C": "Acid washing directly",
+        "D": "Figure-8 extraction"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Backwashing me water entry niche se ki jati hai jo sand bed ko lift karke caught dirt/algae ko waste line se drain out karti hai."
+    },
+    {
+      "qno": 67,
+      "question": "Sand filter me backwash kab karna chahiye operational parameter ke according?",
+      "options": {
+        "A": "Filter ke inlet aur outlet pressure gauges me pressure difference 0.5 bar (approx 5 meter head loss) se zyada ho jaye",
+        "B": "Always daily once compulsory",
+        "C": "Sirf barish ke season me",
+        "D": "Pump burnout hone ke baad"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Pressure difference (differential pressure) ye represent karta hai ki filter bed dirt se choke ho gaya hai."
+    },
+    {
+      "qno": 68,
+      "question": "Sand filter me active filtration medium (sand size) kya hota hai?",
+      "options": {
+        "A": "Crushed Quartz sand (silica gravels size approx 1-2 mm)",
+        "B": "River bank black soil",
+        "C": "Cement powder",
+        "D": "Glass beads directly"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Sharp edged silica sand clean filtration layer banata hai jo biological pollutants ko effectively filter karta hai."
+    },
+    {
+      "qno": 69,
+      "question": "Laterals aur sub-main lines ko regular maintenance me kitne dino me flush karna chahiye?",
+      "options": {
+        "A": "Har 15 din se 1 mahine me (depend on water cleanliness)",
+        "B": "1 year me ek baar",
+        "C": "Flushing is not required",
+        "D": "Har ghante me"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Regular flushing se accumulated clay particles end lines me se nikal jate hain aur permanent blocks nahi bante."
+    },
+    {
+      "qno": 70,
+      "question": "Drip system running me laterals par button drippers ke block hone ki main warning sign kya hai?",
+      "options": {
+        "A": "Plants ke niche dry spot banna (no wetting circle) aur leaves ka dry hona",
+        "B": "Mainline pressure automatic zero hona",
+        "C": "Air valve leak damage",
+        "D": "Borewell clean water output"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Agar plant ke niche wet circle nahi ban raha, to dripper block hai ya line check connector leak hai."
+    },
+    {
+      "qno": 71,
+      "question": "Drip system submain line pressure drop hone ke aam causes (reasons) kya ho sakte hain?",
+      "options": {
+        "A": "Mainline/Submain me leakage/crack hona ya filters highly dirty/choke hona",
+        "B": "Exhaust fan trigger settings",
+        "C": "Dripper counts increase hona limit me",
+        "D": "Solvent cement bonding efficiency"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Pipe me kahin bada leak ya filter choke hone se working pressure achanak drop ho jata hai."
+    },
+    {
+      "qno": 72,
+      "question": "Drippers me check-valve block clean karne ke liye kis chemical detergent spray solution ka manual spray kiya jata hai?",
+      "options": {
+        "A": "Amitraz solution directly",
+        "B": "Acidic warm solution or specialized dripper cleaners",
+        "C": "Formaldehyde mix spray",
+        "D": "Direct engine oil flush"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Button dripper block clean karne ke liye unhe acidic ghol me thodi der deep dabo kar rakhna chahiye."
+    },
+    {
+      "qno": 73,
+      "question": "Winter season me agar drip system use nahi ho raha to safe storage ke kya parameters hain?",
+      "options": {
+        "A": "System ko flush karke dry karna, laterals ko roll up karke direct sunlight dhoop se door safe place par rakhna",
+        "B": "Laterals ko farm par chhod kar tractors chalana oopar se",
+        "C": "Pipes ko wet state me close rakhna",
+        "D": "Pipes ko burn karke scrap karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Sunlight/UV exposure aur animals (rats/rodents) se direct farm par khali pipes damage ho sakte hain, isliye roll up karke store room me rakhna behtar hai."
+    },
+    {
+      "qno": 74,
+      "question": "Drip laterals line holes damage ko repair karne ke liye small connector unit ko kya kehte hain?",
+      "options": {
+        "A": "Joiner / Lateral Joiner (double barb connector)",
+        "B": "Elbow connector",
+        "C": "Grommet take off",
+        "D": "End clamp"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "In-between cut line ko joiner ke barbed ends par push karke leak-proof merge joint banaya jata hai."
+    },
+    {
+      "qno": 75,
+      "question": "Drip laterals ko cut karne ke liye kis tool ka use clean cut ke liye zaroori hai?",
+      "options": {
+        "A": "Pipe Cutter / Sharp Knife (scissors type clean cutter)",
+        "B": "Aari (Hacksaw frame directly with heavy teeth)",
+        "C": "Stone edge rub",
+        "D": "Hammers punch directly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Clean straight cut bina rough plastic threads ke connector leak block ko rokta hai."
+    },
+    {
+      "qno": 76,
+      "question": "Drip system operating pressure limits se extreme high (jaise 3-4 bar) hone par LLDPE laterals par kya impact padega?",
+      "options": {
+        "A": "Laterals fat (burst) sakti hain ya take-off connections nikal (blow off) sakte hain",
+        "B": "Water purification automatic system check",
+        "C": "Dripper efficiency double increase",
+        "D": "Zero output"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "LLDPE laterals low pressure systems ke liye hain. High pressure se joints ukhad jate hain aur leakage shuru ho jati hai."
+    },
+    {
+      "qno": 77,
+      "question": "Drippers me 'Self-flushing' mechanism ka kya function hai?",
+      "options": {
+        "A": "Inlet pressure increase par automatic internal pathways bypass open karke dirt release karna",
+        "B": "Water pump safety control directly",
+        "C": "Acid supply check",
+        "D": "Zero output mechanism"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Modern emitters me continuous turbulent cleaning mechanism hota hai jo microscopic deposits ko jamne nahi deta."
+    },
+    {
+      "qno": 78,
+      "question": "Drip sub-main pipes ke bottom end par lagaye jane wale clean-out valve ko kya kehte hain?",
+      "options": {
+        "A": "Submain Flush Valve (Ball valve)",
+        "B": "Air release valve",
+        "C": "NRV directly",
+        "D": "Safety gate"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sub-main line ko flush karne ke liye is end ball valve ko open karke full velocity water flow bahar nikala jata hai."
+    },
+    {
+      "qno": 79,
+      "question": "Borewell sand output excess hone par sand filter maintenance interval kitna karna padega?",
+      "options": {
+        "A": "Interval duration kam karna padega, daily ya har shift clean backwash zaroori hoga",
+        "B": "Interval double increase",
+        "C": "Borewell parameters scale double",
+        "D": "Zero cleaning required"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Mitti aur mitti ke chote kan agar borewell se zyada aa rahe hain, to filter maintain regularly karna zaroori hai."
+    },
+    {
+      "qno": 80,
+      "question": "Drip system checking me 'Coefficient of Variation' (Cv) kya represent karta hai?",
+      "options": {
+        "A": "Drippers ke flow rate me differences ki variation index (standard limit Cv < 0.05 for excellent system)",
+        "B": "Water density changes level",
+        "C": "Pump efficiency rate only",
+        "D": "Total pipe count variation"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Cv check se pata chalta hai ki farm ke sabhi plants ko barabar paani mil raha hai ya manufacture limits defective hain."
+    },
+    {
+      "qno": 81,
+      "question": "Drip lateral pipes par rat/rodent (chuhe) damage control ka kya field preventive measure hai?",
+      "options": {
+        "A": "Farm cleaning, rodent bait traps aur sub-surface level installation",
+        "B": "Laterals me chemical pesticide mix karna inside water",
+        "C": "Pipes completely burn control",
+        "D": "Water pressure double increase"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Chuhe pyaas me ya ras chusne ke liye pipes ko katar (chew) dete hain. Rodent traps aur weed clearing stands clean rakhti hai."
+    },
+    {
+      "qno": 82,
+      "question": "Drip filter element rubber rings (O-rings) leak protection me kya function karti hain?",
+      "options": {
+        "A": "Filter body joints ke beech airtight aur leak-proof seals banana",
+        "B": "Water speed badhana",
+        "C": "Silt separation me help",
+        "D": "Pressure relief trigger"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Rubber O-rings gaskets hot air block ya leak prevent ke liye main components hain, damage hone par filter joints leak karte hain."
+    },
+    {
+      "qno": 83,
+      "question": "PVC pipeline solvent cement complete drying time settings (curing period) pipe testing se pehle kitna hona chahiye?",
+      "options": {
+        "A": "At least 12 to 24 hours high pressure water test se pehle",
+        "B": "Only 5 seconds",
+        "C": "10 days",
+        "D": "Immediate water test is fine"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Solvent cement dry hone me time leti hai, agar turant high pressure chala diya to joints leak ya slip ho jayenge."
+    },
+    {
+      "qno": 84,
+      "question": "Pipes sizing classification me 'OD' aur 'ID' kya hote hain specifications sheets me?",
+      "options": {
+        "A": "OD = Outer Diameter, ID = Inner Diameter",
+        "B": "OD = Operating Density, ID = Indicator Depth",
+        "C": "OD = Output Discharge, ID = Inlet Discharge",
+        "D": "OD = Off Drip, ID = In Drip"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pipes ki classes aur matching fittings selection ke liye OD aur ID standard measurements sheet par clear likhe hote hain."
+    },
+    {
+      "qno": 85,
+      "question": "Micro-irrigation head assembly pressure gauges check me downstream pressure upstream pressure se drop kyu dikhata hai?",
+      "options": {
+        "A": "Downstream drop pressure filter ke blockage/resistance ko represent karta hai",
+        "B": "Borewell capacity increase directly",
+        "C": "Motor speed reverse settings",
+        "D": "Zero load constraint"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Upstream gauge filter se pehle ka pressure aur downstream gauge filter ke baad ka pressure batata hai. Inka difference pressure loss hai."
+    },
+    {
+      "qno": 86,
+      "question": "Sprinkler Irrigation System (boond-boond ke bajay chidkaw) kis principle par work karta hai?",
+      "options": {
+        "A": "Natural rain (baarish) ke chidkaw ki tarah pressure nozzles se water spray karna",
+        "B": "Flood canal flow",
+        "C": "Dripper slow drop flow",
+        "D": "Underwater borewell assembly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sprinkler system close spacing low-height crops (jaise mustard, pulses, grass pastures) ke liye rain effect spray banata hai."
+    },
+    {
+      "qno": 87,
+      "question": "Micro-Sprinklers (chhote fawware) ka greenhouse ya nurseries me main utilization kya hai?",
+      "options": {
+        "A": "Nursery plants cooling, micro-climate humidity control aur watering",
+        "B": "Soil solarization directly",
+        "C": "Drip bypass line filters control",
+        "D": "Ant cup washing"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Micro-sprinklers tiny mist droplets spray karte hain jo ambient cooling aur delicate seedlings ke irrigation ke liye best hain."
+    },
+    {
+      "qno": 88,
+      "question": "Rain Gun sprinkler system kya hota hai?",
+      "options": {
+        "A": "Bohot high pressure (approx 3-5 bar) par chalne wala single large sprinkler jo large radius (approx 30-50m) me heavy rain spray karta hai",
+        "B": "Water fire gun directly",
+        "C": "Cloud seeding chemical controller",
+        "D": "Drip bypass nozzle directly"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Rain gun fodder crops, sugarcane aur large lawns me broad radius irrigation ke liye fast option hai."
+    },
+    {
+      "qno": 89,
+      "question": "Drip system ke comparison me Sprinkler system me evaporation loss (vashpikaran nuksan) high kyu hota hai?",
+      "options": {
+        "A": "Kyunki paani hawa me tiny droplets ke roop me spray hota hai aur wind flow se vaporize ho jata hai",
+        "B": "Sprinkler water garam hota hai",
+        "C": "Pipes heat generation badhate hain",
+        "D": "Soil absorb capability decrease hoti hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sprinkler hawa me chidkaw karta hai, isliye windy ya sunny conditions me evaporation loss kafi high hota hai."
+    },
+    {
+      "qno": 90,
+      "question": "Micro-irrigation subsidy schemes (PMKSY) me 'SF/MF' groups ko general groups ke mukable kya preference milti hai?",
+      "options": {
+        "A": "SF/MF = Small Farmers / Marginal Farmers (chote kisan jinhe 75-80% tak maximum subsidy rate milta hai)",
+        "B": "SF/MF group ko double tax charge hota hai",
+        "C": "Only zero subsidy support",
+        "D": "Exotic import priority"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Chote aur seemant kisano (small/marginal farmers) ke pass kam land (less than 2 Hectares) hoti hai, isliye government unhe high subsidy rates (extra financial aid) deti hai."
+    },
+    {
+      "qno": 91,
+      "question": "Irrigation design maps sheet me 'Bill of Quantities' (BOQ) kya hota hai?",
+      "options": {
+        "A": "System installation me lagne wale sabhi items, pipes, connectors, filters ka details name list aur quantity counts",
+        "B": "Government license fees index",
+        "C": "Water bill statement",
+        "D": "Total crop harvest weight sheet"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "BOQ invoice estimate document hota hai jise check karke material order aur purchase kiya jata hai."
+    },
+    {
+      "qno": 92,
+      "question": "Micro-irrigation systems setup investment par average payback period (poora kharcha nikalne ki duration) lagbhag kitna hota hai high quality crops me?",
+      "options": {
+        "A": "10 to 20 years",
+        "B": "1 to 2 crop cycles (approx 1-2 years due to yield increase and resource saving)",
+        "C": "Immediate next day",
+        "D": "Never payback value"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yield me 40-50% growth aur water/fertilizer costs save hone se drip system ka poora cost 1-2 saal me recover ho jata hai."
+    },
+    {
+      "qno": 93,
+      "question": "Drip system running cost me main part kis expense ka hota hai?",
+      "options": {
+        "A": "Motor pump chalaney ki electricity/fuel cost aur filter cleaning filters maintenance",
+        "B": "Water purchase fees permanent",
+        "C": "Government royalty fees directly",
+        "D": "Pipes change replacement fees daily"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Drip chalane ke liye operational energy (electricity bill/diesel pump) aur regular labor cleaning maintenance hi operational cost hai."
+    },
+    {
+      "qno": 94,
+      "question": "Micro-irrigation pipelines sizing sheet design calculations me standard design index target velocity maximum kis rule se calculated hoti hai?",
+      "options": {
+        "A": "Hazem-Williams equation (friction loss and flow velocity limits calculations)",
+        "B": "Newton's second law directly",
+        "C": "FCR calculations ratio",
+        "D": "Gerber standard index"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Hazen-Williams equation fluid dynamics me pipes size calculation aur friction estimation ka mathematically base standard equation hai."
+    },
+    {
+      "qno": 95,
+      "question": "PMKSY guidelines ke according micro-irrigation systems life duration average kitni assumptions me li jati hai subsidy parameters me?",
+      "options": {
+        "A": "1 Year",
+        "B": "7 to 10 Years (Proper maintenance aur UV protection ke sath)",
+        "C": "50 Years",
+        "D": "Only 3 Months"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar maintenance and flushing regular ho to LLDPE laterals aur filters lagbhag 7-10 saal tak badhiya performance dete hain."
+    },
+    {
+      "qno": 96,
+      "question": "Irrigation water analysis me 'TDS' kya represent karta hai standard test reports me?",
+      "options": {
+        "A": "Total Dissolved Solids (pani me ghule hue minerals aur salts ka level)",
+        "B": "Tension Depth Sensor",
+        "C": "Toned Drip System",
+        "D": "Toxicity Density Scale"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "TDS PPM units me measure hota hai. High TDS (salt content) water clogging aur salinity toxicity badhata hai."
+    },
+    {
+      "qno": 97,
+      "question": "Sprinkler system lateral pipeline pipes generally kis joiner joints system se jude hote hain quick shifting ke liye?",
+      "options": {
+        "A": "Quick Release Latch Coupling / Quick Coupler joints (lever type)",
+        "B": "PVC solvent permanent weld gum",
+        "C": "Threaded joints only",
+        "D": "Figure-8 clamps"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Sprinkler pipes ko khet me aasaani se move karne ke liye metal hooks ya quick coupler latch pipe joints design kiye jate hain."
+    },
+    {
+      "qno": 98,
+      "question": "Protected cultivation greenhouses me automated micro-sprinklers ke automated running control sensors me kya use hota hai?",
+      "options": {
+        "A": "Solenoid Valves (Electrical signal switch valves controlled by timer)",
+        "B": "Rotameters directly",
+        "C": "Manual ball valves only",
+        "D": "Check valves directly"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Solenoid valves electric current triggers se diaphragm open ya close karte hain, jisse automatic timers control direct operate ho sake."
+    },
+    {
+      "qno": 99,
+      "question": "Drip layout design planning survey ke first stage me elevation levels (uchai-nichai) mapping ke liye kis engineering tool ka use hota hai?",
+      "options": {
+        "A": "Theodolite / Dumpy Level / GPS Elevation Survey Tools",
+        "B": "Tensiometer directly",
+        "C": "Pressure gauge probe",
+        "D": "Hydrometer grid"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Slope aur height mapping se exact pressure demand zones analyze karke sub-main aur control valves zones decide kiye jate hain."
+    },
+    {
+      "qno": 100,
+      "question": "Micro-irrigation technicians ke commercial standard skills check-up me 'FSSAI' certification parameter checking safety zaroori hai kya?",
+      "options": {
+        "A": "Nahi, micro-irrigation technicians work agricultural engineering me aata hai, FSSAI role food processing safety and hygiene certification standard me hota hai",
+        "B": "Haan, FSSAI directly pipes density check karta hai",
+        "C": "FSSAI directly pump motor efficiency certify karta hai",
+        "D": "FSSAI loan subsidy sanction karti hai directly"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "FSSAI agricultural production infrastructure check nahi karta. Micro-irrigation equipment standards BIS (Bureau of Indian Standards) aur IS codes dwara control hote hain."
+    }
+  ]
+}

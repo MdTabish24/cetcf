@@ -1,0 +1,1443 @@
+{
+  "course_name": "Laptop & Computer Hardware Repair",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Electronics & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Computer Fundamentals & Peripherals",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Laptop Hardware Components",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Diagnostics & Troubleshooting - Hardware",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Storage & Data Management",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Power Supply & Accessories",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Ek Multimeter ka primary use kya hai?",
+      "options": {
+        "A": "Current, Voltage, aur Resistance measure karna",
+        "B": "Internet speed test karna",
+        "C": "Hard drive format karna",
+        "D": "Software install karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Multimeter ek electronic tool hai jo electrical quantities jaise current, voltage, aur resistance ko measure karne ke kaam aata hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "ESD ka full form kya hai, aur hardware repair mein yeh kyun important hai?",
+      "options": {
+        "A": "Electrostatic Discharge, components ko damage se bachane ke liye",
+        "B": "Electronic System Design, circuit design ke liye",
+        "C": "External Storage Device, data backup ke liye",
+        "D": "Emergency Shutdown Device, power off karne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "ESD ya Electrostatic Discharge, static electricity ke flow ko kehte hain. Hardware repair mein yeh bahut zaroori hai kyunki static charge sensitive electronic components ko permanently damage kar sakta hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ohm's Law ka formula kya hai?",
+      "options": {
+        "A": "V = I * R",
+        "B": "P = V * I",
+        "C": "E = mc²",
+        "D": "F = ma"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ohm's Law states ki kisi conductor ke do points ke beech ka current, un do points ke beech ke voltage ke directly proportional hota hai, aur resistance ke inversely proportional hota hai. Formula hai V = I * R, jahan V voltage, I current, aur R resistance hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Ek Resistor ka main function kya hai?",
+      "options": {
+        "A": "Current flow ko control karna",
+        "B": "Electrical energy store karna",
+        "C": "Voltage amplify karna",
+        "D": "AC ko DC mein convert karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Resistor ka main kaam circuit mein current ke flow ko restrict ya control karna hota hai. Yeh electrical energy ko heat mein dissipate karta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Ek Capacitor kya store karta hai?",
+      "options": {
+        "A": "Electrical charge",
+        "B": "Magnetic field",
+        "C": "Heat energy",
+        "D": "Mechanical energy"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Capacitor ek passive electronic component hai jo electric field mein electrical charge store karta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Soldering iron ka primary use kya hai?",
+      "options": {
+        "A": "Components ko cut karna",
+        "B": "Metal parts ko melt karna",
+        "C": "Electronic components ko circuit board par join karna",
+        "D": "Wire insulation remove karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Soldering iron ka use electronic components ko circuit board par solder (join) karne ke liye kiya jaata hai, jisse electrical connection banta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Diode kis direction mein current flow allow karta hai?",
+      "options": {
+        "A": "Only one direction",
+        "B": "Both directions",
+        "C": "No direction",
+        "D": "Randomly"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Diode ek semiconductor device hai jo current ko sirf ek direction mein flow karne deta hai (forward bias), aur reverse direction mein block karta hai (reverse bias)."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Ek Transistor ka main function kya hai?",
+      "options": {
+        "A": "Signal ko amplify karna ya electronic switch ki tarah act karna",
+        "B": "Voltage regulate karna",
+        "C": "Electrical charge store karna",
+        "D": "Current flow ko block karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Transistor ek semiconductor device hai jo electronic signals aur electrical power ko amplify ya switch karne ke liye use hota hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Agar ek circuit mein 12V voltage hai aur 2A current flow ho raha hai, toh resistance kitni hogi?",
+      "options": {
+        "A": "6 Ohms",
+        "B": "24 Ohms",
+        "C": "0.16 Ohms",
+        "D": "10 Ohms"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Ohm's Law ke according, R = V / I. Yahan V = 12V aur I = 2A. Toh R = 12 / 2 = 6 Ohms."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Anti-static wrist strap pehenna kyun zaroori hai jab computer components handle kar rahe hon?",
+      "options": {
+        "A": "Components ko dust se bachane ke liye",
+        "B": "User ko electrical shock se bachane ke liye",
+        "C": "Static electricity ko discharge karke components ko damage se bachane ke liye",
+        "D": "Components ko tight grip dene ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Anti-static wrist strap aapke body mein build-up hone wali static electricity ko ground karta hai, jisse sensitive electronic components ko ESD damage se bachaya ja sake."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Power supply unit (PSU) mein konsa voltage output hota hai jo motherboard ko power karta hai?",
+      "options": {
+        "A": "AC voltage",
+        "B": "High frequency voltage",
+        "C": "DC voltage",
+        "D": "Pulsating voltage"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "PSU (Power Supply Unit) wall socket se AC current leta hai aur usko DC current mein convert karta hai, jo computer components ko chahiye hota hai, jaise 3.3V, 5V, aur 12V DC."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Ek continuity test ka kya purpose hota hai multimeter mein?",
+      "options": {
+        "A": "Current ka amount check karna",
+        "B": "Circuit mein break ya short circuit detect karna",
+        "C": "Voltage level check karna",
+        "D": "Component ki temperature check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Continuity test yeh check karta hai ki kya do points ke beech ek complete electrical path hai ya nahi. Agar path complete hai, toh multimeter beeps karta hai, indicating no break ya open circuit."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "SMD components ka full form kya hai?",
+      "options": {
+        "A": "Surface Mount Device",
+        "B": "System Main Driver",
+        "C": "Standard Module Design",
+        "D": "Solid State Memory Drive"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "SMD ka matlab Surface Mount Device hai. Yeh components circuit board ki surface par mount kiye jaate hain, through-hole components ke opposite jo holes se insert hote hain."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Voltage ki unit kya hai?",
+      "options": {
+        "A": "Ampere",
+        "B": "Ohm",
+        "C": "Volt",
+        "D": "Watt"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Voltage ki unit Volt (V) hai, current ki Ampere (A), resistance ki Ohm (Ω), aur power ki Watt (W)."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Agar aapko laptop ke andar chhota screw tight karna hai, toh konsa tool use karenge?",
+      "options": {
+        "A": "Hammer",
+        "B": "Flat-head screwdriver",
+        "C": "Precision screwdriver set",
+        "D": "Pliers"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Laptop jaise delicate electronics mein chhote screws hote hain, jinke liye precision screwdriver set (chhote Phillips ya Torx drivers) use karna chahiye."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "AC aur DC mein kya difference hai?",
+      "options": {
+        "A": "AC ki direction change hoti hai, DC ki constant rehti hai",
+        "B": "AC sirf batteries se aata hai, DC wall outlets se",
+        "C": "AC high voltage hota hai, DC low voltage",
+        "D": "AC wires mein flow karta hai, DC air mein"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "AC (Alternating Current) mein current ki direction periodically change hoti rehti hai, jabki DC (Direct Current) mein current sirf ek direction mein flow karta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek circuit board par short circuit kya indicate karta hai?",
+      "options": {
+        "A": "Bahut zyada resistance",
+        "B": "Current ka ek unexpected low-resistance path se flow hona",
+        "C": "Voltage ka high hona",
+        "D": "Power supply ka off hona"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Short circuit tab hota hai jab current ek unexpected, low-resistance path se flow karta hai, jisse circuit mein zyada current flow hota hai aur components damage ho sakte hain ya aag lag sakti hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "CPU ka full form kya hai?",
+      "options": {
+        "A": "Central Processing Unit",
+        "B": "Computer Power Unit",
+        "C": "Core Performance Utility",
+        "D": "Central Peripheral Unit"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CPU ya Central Processing Unit, computer ka 'brain' hota hai jo saare calculations aur instructions execute karta hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "RAM ka main purpose kya hai?",
+      "options": {
+        "A": "Permanent data store karna",
+        "B": "Temporary data store karna jo CPU ko quickly access karna hota hai",
+        "C": "Graphics process karna",
+        "D": "Network connection provide karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RAM (Random Access Memory) ek volatile memory hai jo current mein chal rahe programs aur data ko temporary store karti hai, jisse CPU unhe fast access kar sake. Power off hone par data erase ho jaata hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Motherboard ka kya role hai computer mein?",
+      "options": {
+        "A": "Data store karna",
+        "B": "Saare components ko connect karna aur communicate karana",
+        "C": "Power supply karna",
+        "D": "Graphics render karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Motherboard computer ka main printed circuit board hai jo CPU, RAM, storage, aur other peripheral devices ko connect karta hai, aur unke beech communication enable karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Agar computer 'no display' issue de raha hai, toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Hard drive connection",
+        "B": "RAM modules ko reseat karna ya check karna",
+        "C": "Keyboard connection",
+        "D": "USB ports"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "No display issue mein RAM modules ko reseat karna ya unki functionality check karna ek common troubleshooting step hai, kyunki loose ya faulty RAM display issues create kar sakti hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "PSU ka kya kaam hai computer mein?",
+      "options": {
+        "A": "Internet connect karna",
+        "B": "AC current ko DC current mein convert karke components ko supply karna",
+        "C": "Sound produce karna",
+        "D": "Videos play karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PSU (Power Supply Unit) wall socket se AC current lekar use DC current mein convert karta hai, jo computer ke internal components ko power karne ke liye zaroori hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Konsa port monitor connect karne ke liye use hota hai?",
+      "options": {
+        "A": "USB",
+        "B": "Ethernet",
+        "C": "HDMI/VGA/DisplayPort",
+        "D": "Audio jack"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Monitors ko connect karne ke liye video output ports jaise HDMI, VGA, aur DisplayPort use hote hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "BIOS ka full form kya hai aur yeh kya karta hai?",
+      "options": {
+        "A": "Basic Input/Output System, computer boot hone par hardware initialize karta hai",
+        "B": "Binary Integrated Operating System, Windows ka ek version",
+        "C": "Built-in Operating Software, applications run karta hai",
+        "D": "Basic Internet Operating System, internet access provide karta hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "BIOS (Basic Input/Output System) ek firmware hai jo computer boot hone par hardware ko initialize karta hai aur operating system ko load karne mein help karta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Hard Disk Drive (HDD) aur Solid State Drive (SSD) mein kya main speed difference hai?",
+      "options": {
+        "A": "HDD SSD se faster hai",
+        "B": "SSD HDD se significantly faster hai",
+        "C": "Dono ki speed same hai",
+        "D": "Speed internet connection par depend karti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SSDs mein moving parts nahi hote, isliye woh HDDs se significantly faster hote hain data read/write operations mein."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Thermal paste ka kya kaam hai CPU aur heatsink ke beech?",
+      "options": {
+        "A": "CPU ko motherboard se chipkana",
+        "B": "CPU aur heatsink ke beech heat transfer ko improve karna",
+        "C": "CPU ko dust se bachana",
+        "D": "CPU ko electrical current supply karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Thermal paste CPU aur heatsink ke beech ke microscopic gaps ko fill karta hai, jisse heat transfer efficiency badhti hai aur CPU overheating se bachta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Ek computer ko assemble karte samay, sabse pehle konsa component case mein install kiya jaata hai?",
+      "options": {
+        "A": "Hard Drive",
+        "B": "Motherboard",
+        "C": "Power Supply Unit (PSU)",
+        "D": "Graphics Card"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Generally, PSU ko sabse pehle install kiya jaata hai kyunki yeh case ke bottom ya top par fix hota hai aur isse motherboard aur baaki components ke liye space ban jaati hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "CMOS battery ka kya role hai motherboard par?",
+      "options": {
+        "A": "CPU ko power karna",
+        "B": "BIOS settings aur system date/time ko maintain karna jab computer off ho",
+        "C": "RAM ko power karna",
+        "D": "Graphics card ko power karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "CMOS (Complementary Metal-Oxide-Semiconductor) battery motherboard par BIOS settings (jaise boot order) aur system date/time ko maintain karti hai, even jab computer power off ho."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "PCIe slot kis type ke expansion cards ke liye use hota hai?",
+      "options": {
+        "A": "RAM modules",
+        "B": "Graphics cards, network cards, SSDs",
+        "C": "CPU",
+        "D": "Hard drives"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PCIe (Peripheral Component Interconnect Express) slots high-speed expansion cards jaise graphics cards, NVMe SSDs, aur network cards ko connect karne ke liye use hote hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Agar computer boot hote samay beep codes de raha hai, toh yeh kya indicate karta hai?",
+      "options": {
+        "A": "Operating system loading issue",
+        "B": "Hardware fault",
+        "C": "Internet connection issue",
+        "D": "Software conflict"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Beep codes BIOS/UEFI dwara generate kiye jaate hain aur yeh specific hardware faults ko indicate karte hain, jaise RAM failure, graphics card issue, ya CPU problem."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Input device ka ek example kya hai?",
+      "options": {
+        "A": "Monitor",
+        "B": "Printer",
+        "C": "Keyboard",
+        "D": "Speaker"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Keyboard ek input device hai jisse user computer ko data aur commands provide karta hai. Monitor, Printer, aur Speaker output devices hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "USB port ka full form kya hai?",
+      "options": {
+        "A": "Universal Serial Bus",
+        "B": "Unified System Board",
+        "C": "Utility Software Bundle",
+        "D": "User System Backup"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "USB (Universal Serial Bus) ek common interface hai jo peripheral devices jaise keyboard, mouse, printers, aur external drives ko connect karne ke liye use hota hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "POST ka full form kya hai aur yeh kab run hota hai?",
+      "options": {
+        "A": "Power-On Self-Test, jab computer start hota hai",
+        "B": "Program Operating System Test, jab naya software install hota hai",
+        "C": "Peripheral Output System Test, jab printer connect hota hai",
+        "D": "Pre-Operating System Test, jab internet connect hota hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "POST (Power-On Self-Test) ek diagnostic sequence hai jo computer ke start hone par BIOS/UEFI dwara run kiya jaata hai, hardware components ki functionality check karne ke liye."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Ek computer ko disassembling karte samay, power cable disconnect karna kyun zaroori hai?",
+      "options": {
+        "A": "Dust remove karne ke liye",
+        "B": "Electrical shock aur components ko damage se bachane ke liye",
+        "C": "Hardware ko thanda karne ke liye",
+        "D": "Warranty void na ho isliye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electrical shock se bachne aur internal components ko damage se protect karne ke liye, computer ko disassemble karne se pehle power cable ko disconnect karna bahut zaroori hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Laptop screen replacement ke liye, kis type ke panel ki zaroorat pad sakti hai?",
+      "options": {
+        "A": "CRT",
+        "B": "LCD/LED",
+        "C": "Plasma",
+        "D": "Projector"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Modern laptops mein LCD (Liquid Crystal Display) ya LED (Light Emitting Diode) panels use hote hain. Replacement ke liye sahi type aur resolution ka panel choose karna important hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Agar laptop ka keyboard response nahi kar raha hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Hard drive fail ho gaya hai",
+        "B": "Keyboard flex cable loose ya damaged hai",
+        "C": "RAM faulty hai",
+        "D": "CPU overheating ho raha hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Laptop keyboards ek flex cable ke through motherboard se connect hote hain. Agar yeh cable loose ho ya damaged ho, toh keyboard kaam karna band kar sakta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Laptop batteries commonly kis type ki hoti hain?",
+      "options": {
+        "A": "Alkaline",
+        "B": "Lead-acid",
+        "C": "Lithium-ion (Li-ion)",
+        "D": "Nickel-cadmium (NiCd)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Modern laptops mein Lithium-ion (Li-ion) batteries use hoti hain unki high energy density aur lightweight properties ke karan."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Laptop mein 'DC Jack' ka kya kaam hai?",
+      "options": {
+        "A": "Audio output provide karna",
+        "B": "Internet connection provide karna",
+        "C": "Laptop ko power adapter se charge karna",
+        "D": "External monitor connect karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "DC Jack woh port hai jahan laptop ka power adapter connect hota hai, jisse laptop charge hota hai aur power receive karta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Laptop overheating prevent karne ke liye konsa component use hota hai?",
+      "options": {
+        "A": "Speaker",
+        "B": "Cooling fan aur heatsink",
+        "C": "Webcam",
+        "D": "Optical drive"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Laptop mein cooling fan aur heatsink CPU aur GPU se heat dissipate karke overheating ko prevent karte hain."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Agar laptop ka touchpad kaam nahi kar raha hai, toh kya troubleshooting steps le sakte hain?",
+      "options": {
+        "A": "Laptop restart karna, touchpad drivers update karna, ya flex cable check karna",
+        "B": "Hard drive replace karna",
+        "C": "RAM upgrade karna",
+        "D": "Operating system reinstall karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Touchpad issues ko troubleshoot karne ke liye laptop restart karna, drivers check/update karna, aur touchpad ke flex cable connection ko verify karna common steps hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "SODIMM modules kis device mein use hote hain?",
+      "options": {
+        "A": "Desktop PCs",
+        "B": "Servers",
+        "C": "Laptops aur small form factor PCs",
+        "D": "Printers"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "SODIMM (Small Outline Dual In-line Memory Module) RAM modules laptops aur small form factor PCs mein use hote hain kyunki yeh standard DIMM modules se chhote hote hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "M.2 SSDs ka kya advantage hai traditional 2.5 inch SSDs ke comparison mein?",
+      "options": {
+        "A": "Cheaper price",
+        "B": "Larger storage capacity",
+        "C": "Smaller form factor aur faster speeds (NVMe ke through)",
+        "D": "Easier installation"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "M.2 SSDs bahut compact hote hain aur agar NVMe protocol use karte hain toh traditional SATA SSDs se significantly faster speeds provide karte hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Laptop hinges ka kya role hai?",
+      "options": {
+        "A": "Laptop ko charge karna",
+        "B": "Screen ko body se connect karna aur uska angle adjust karna",
+        "C": "Internet access provide karna",
+        "D": "Sound output dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Laptop hinges screen ko main body se connect karte hain aur user ko screen ke viewing angle ko adjust karne ki facility dete hain. Damaged hinges screen ko support nahi kar paate."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Agar laptop ki webcam kaam nahi kar rahi hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Webcam drivers, privacy settings, ya physical disconnection",
+        "B": "Hard drive health",
+        "C": "RAM capacity",
+        "D": "Battery health"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Webcam issues ke liye drivers, operating system ki privacy settings (jahan webcam access restrict ho sakta hai), aur webcam ke internal connection ko check karna chahiye."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Laptop ke Wi-Fi card ka kya function hai?",
+      "options": {
+        "A": "Wired internet connection provide karna",
+        "B": "Wireless internet access provide karna",
+        "C": "Bluetooth connectivity provide karna",
+        "D": "Graphics processing karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Laptop ka Wi-Fi card wireless local area network (WLAN) se connect hone aur wireless internet access provide karne ke liye zaroori hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "BGA (Ball Grid Array) components ko repair karne ke liye kis type ke equipment ki zaroorat hoti hai?",
+      "options": {
+        "A": "Standard soldering iron",
+        "B": "Hot air rework station",
+        "C": "Screwdriver set",
+        "D": "Multimeter"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "BGA components jaise CPU aur GPU, motherboard par solder kiye jaate hain aur unhe remove ya replace karne ke liye specialized hot air rework station ki zaroorat hoti hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Laptop ke 'flex cable' ka kya role hai?",
+      "options": {
+        "A": "Laptop ko power supply karna",
+        "B": "Keyboard, touchpad, ya display jaise components ko motherboard se connect karna",
+        "C": "Data store karna",
+        "D": "Sound output generate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flex cables (ribbon cables) thin aur flexible electrical cables hote hain jo laptop ke various components (jaise display, keyboard, touchpad) ko motherboard se connect karte hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar laptop ki battery swollen (phooli hui) dikhe, toh kya karna chahiye?",
+      "options": {
+        "A": "Use karte rehna chahiye",
+        "B": "Jaldi se laptop se nikal kar safely dispose karna chahiye",
+        "C": "Charger se connect karke charge karna chahiye",
+        "D": "Pani mein dal dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Swollen battery ek serious safety hazard hai aur aag ya blast ka karan ban sakti hai. Ise turant laptop se nikal kar proper disposal facility mein dispose karna chahiye."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Laptop ke speakers se sound nahi aa raha, toh kya troubleshoot karenge?",
+      "options": {
+        "A": "Display settings check karenge",
+        "B": "Audio drivers, volume settings, aur speaker connections check karenge",
+        "C": "Hard drive defragment karenge",
+        "D": "BIOS update karenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sound issues ke liye audio drivers ko update ya reinstall karna, system volume settings check karna, aur internal speaker connections ko verify karna common steps hain."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Laptop mein BIOS password bhool jaane par, use kaise reset kar sakte hain (physical method)?",
+      "options": {
+        "A": "Operating system reinstall karke",
+        "B": "CMOS battery remove karke aur phir reconnect karke",
+        "C": "Hard drive format karke",
+        "D": "Internet se password download karke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "CMOS battery ko kuch der ke liye remove karne se motherboard ki volatile memory reset ho jaati hai, jismein BIOS settings aur password store hota hai. Yeh ek common physical method hai BIOS password reset karne ka."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Laptop ke cooling system mein dust build-up ka kya effect hota hai?",
+      "options": {
+        "A": "Battery life badhti hai",
+        "B": "Overheating aur performance slow hoti hai",
+        "C": "Screen brightness badhti hai",
+        "D": "Wi-Fi signal strong hota hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dust build-up cooling fan aur heatsink ko block karta hai, jisse heat properly dissipate nahi ho paati aur laptop overheat hokar slow ho jaata hai ya shut down ho jaata hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Agar ek desktop PC 'no power' de raha hai, toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "RAM modules",
+        "B": "Power cable connections aur wall socket",
+        "C": "Hard drive",
+        "D": "Graphics card"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "No power issue mein sabse pehle power cable ka wall socket aur PSU se connection check karna chahiye. Kabhi-kabhi problem simple loose connection ya faulty power outlet hoti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Computer boot hote samay repetitive short beeps de raha hai, yeh kya indicate kar sakta hai?",
+      "options": {
+        "A": "CPU failure",
+        "B": "RAM failure",
+        "C": "Keyboard issue",
+        "D": "Hard drive issue"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Most BIOS manufacturers ke according, repetitive short beeps RAM failure ko indicate karte hain. Yeh BIOS manufacturer par depend karta hai, lekin yeh ek common interpretation hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Laptop screen par 'no display' hai lekin laptop chal raha hai (fan noise, light on), toh kya possibility ho sakti hai?",
+      "options": {
+        "A": "Hard drive corrupt hai",
+        "B": "Screen cable loose/damaged ya screen itself faulty hai",
+        "C": "Operating system crash ho gaya hai",
+        "D": "Wi-Fi card fail ho gaya hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar laptop chal raha hai par display nahi aa raha, toh screen cable (LVDS cable) ka connection, ya screen panel ka failure ek common cause hota hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Computer overheating ke kya symptoms ho sakte hain?",
+      "options": {
+        "A": "System bahut fast ho jaata hai",
+        "B": "Fan bahut loud chalta hai, system slow hota hai, random shutdowns",
+        "C": "Screen brightness badh jaati hai",
+        "D": "Internet connection slow ho jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overheating ke symptoms mein loud fan noise, system performance ka slow hona (throttling), aur sudden shutdowns shamil hain, kyunki components apne safe operating temperature se zyada garam ho jaate hain."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Agar computer bahut slow chal raha hai, toh kya common reason ho sakta hai?",
+      "options": {
+        "A": "Too many startup programs, full hard drive, insufficient RAM, malware",
+        "B": "Monitor resolution bahut high hai",
+        "C": "Power supply bahut naya hai",
+        "D": "Keyboard drivers outdated hain"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Slow performance ke kayi reasons ho sakte hain, jaise bahut saare programs ka startup par run hona, hard drive ka full hona, RAM ki kami, ya malware/virus infections."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Computer 'boot loop' mein atak gaya hai (bar-bar restart ho raha hai), toh kya troubleshoot karenge?",
+      "options": {
+        "A": "RAM modules check/reseat karna, startup repair karna, ya recent hardware changes ko review karna",
+        "B": "Naya printer install karna",
+        "C": "Monitor cable change karna",
+        "D": "Internet settings reset karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Boot loop issues hardware (jaise RAM, HDD/SSD) ya software (corrupt OS, driver issues) ki wajah se ho sakte hain. RAM check, startup repair, aur recent changes ko undo karna common troubleshooting steps hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Ek PSU ko test karne ke liye konsa tool use hota hai?",
+      "options": {
+        "A": "Screwdriver",
+        "B": "Multimeter (voltage check)",
+        "C": "Heat gun",
+        "D": "Pliers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PSU ke output voltages ko check karne ke liye multimeter ka use kiya jaata hai, yeh verify karne ke liye ki kya PSU correct voltages supply kar raha hai ya nahi."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Agar hard drive se clicking sound aa rahi hai, toh yeh kya indicate karta hai?",
+      "options": {
+        "A": "Hard drive theek se kaam kar raha hai",
+        "B": "Hard drive fail hone wala hai ya ho chuka hai",
+        "C": "Hard drive bahut fast chal raha hai",
+        "D": "Hard drive ko defragmentation ki zaroorat hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Clicking sound usually hard drive ke internal mechanical parts (read/write heads) ke failure ko indicate karta hai. Yeh data loss ka ek strong warning sign hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Blue Screen of Death (BSOD) kya hai aur yeh kyun aata hai?",
+      "options": {
+        "A": "Ek naya Windows feature",
+        "B": "Ek critical system error jo hardware ya driver issues ki wajah se hota hai",
+        "C": "Screen saver ka ek type",
+        "D": "Virus ka indicator"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "BSOD ek critical Windows error hai jo tab aata hai jab operating system ko ek serious problem face hoti hai, usually hardware failure, corrupt drivers, ya OS kernel issues ke karan."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "RAM ko test karne ke liye konsa utility use hota hai?",
+      "options": {
+        "A": "Disk Cleanup",
+        "B": "MemTest86+",
+        "C": "Defragmenter",
+        "D": "Registry Editor"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MemTest86+ ek popular aur effective tool hai jo RAM modules mein errors detect karne ke liye use hota hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Agar ek laptop randomly shut down ho jaata hai, toh kya possible reasons ho sakte hain?",
+      "options": {
+        "A": "Internet connection loss",
+        "B": "Overheating, faulty battery, ya power supply issues",
+        "C": "Speaker failure",
+        "D": "Keyboard malfunction"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Random shutdowns overheating, faulty laptop battery, ya power adapter/DC jack issues ki wajah se ho sakte hain."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Graphics card ke issues ke kya symptoms ho sakte hain?",
+      "options": {
+        "A": "No display, distorted images, artifacts, system freezes during graphics-intensive tasks",
+        "B": "Slow internet speed",
+        "C": "Keyboard keys stuck ho jaana",
+        "D": "Hard drive full ho jaana"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Graphics card issues ke symptoms mein display na aana, screen par ajeeb patterns (artifacts), distorted images, aur graphics-intensive applications chalate waqt system ka freeze hona ya crash hona shamil hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Loose connection ka kya matlab hai hardware troubleshooting mein?",
+      "options": {
+        "A": "Internet connection slow hai",
+        "B": "Component ka cable ya connector properly seated nahi hai",
+        "C": "Software glitch hai",
+        "D": "Power supply bahut strong hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Loose connection ka matlab hai ki koi cable ya component (jaise RAM module) apne slot mein theek se laga hua nahi hai, jisse intermittent ya complete functionality loss ho sakta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Intermittent power failure (kabhi power on, kabhi nahi) ka kya cause ho sakta hai?",
+      "options": {
+        "A": "Faulty power button, loose power connections, ya dying PSU",
+        "B": "Corrupt operating system",
+        "C": "Monitor cable issue",
+        "D": "Too much RAM"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Intermittent power issues faulty power button, loose internal power connections, ya ek failing Power Supply Unit (PSU) ki wajah se ho sakte hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Ek laptop mein liquid spill ho gaya hai, toh sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "Laptop ko turant off karke battery remove kar deni chahiye",
+        "B": "Laptop ko charge par laga dena chahiye",
+        "C": "Usse use karte rehna chahiye",
+        "D": "Hair dryer se sukhana chahiye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Liquid spill hone par turant laptop ko off karke battery remove kar deni chahiye, jisse short circuit aur extensive damage ko prevent kiya ja sake. Hair dryer use karna avoid karein kyunki yeh liquid ko aur andar dhakel sakta hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar ek external device (jaise USB drive) connect karne par computer hang ho jaata hai, toh kya troubleshoot karenge?",
+      "options": {
+        "A": "Anti-virus scan run karenge",
+        "B": "USB port check karenge, device drivers check karenge, ya device ko kisi aur computer par test karenge",
+        "C": "RAM modules change karenge",
+        "D": "BIOS update karenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh issue USB port ke damage hone, device ke drivers ke corrupt hone, ya external device ke khud faulty hone ki wajah se ho sakta hai. In cheezon ko check karna chahiye."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Ek computer repair technician ke liye 'systematic troubleshooting approach' ka kya matlab hai?",
+      "options": {
+        "A": "Randomly components change karna",
+        "B": "Problem ko identify karna, possible causes hypothesize karna, test karna, aur solution implement karna",
+        "C": "Sirf software issues fix karna",
+        "D": "Sirf hardware issues fix karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Systematic troubleshooting approach mein problem ko clearly define karna, possible causes ko narrow down karna, un causes ko test karna, aur phir solution ko verify karna shamil hai. Yeh efficient aur effective repair ke liye essential hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "HDD (Hard Disk Drive) aur SSD (Solid State Drive) mein se konsa shock aur vibration ke prati zyada durable hai?",
+      "options": {
+        "A": "HDD",
+        "B": "SSD",
+        "C": "Dono same hain",
+        "D": "Koi nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SSD mein koi moving parts nahi hote, isliye woh HDDs se zyada durable hote hain aur shock, vibration, aur drops ke prati zyada resistant hote hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Hard drive partitioning ka kya purpose hai?",
+      "options": {
+        "A": "Hard drive ko physically cut karna",
+        "B": "Hard drive ko multiple logical sections mein divide karna",
+        "C": "Hard drive ko clean karna",
+        "D": "Hard drive ki speed badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Partitioning se ek single physical hard drive ko multiple independent logical drives mein divide kiya ja sakta hai, jisse operating system aur data ko separate rakhna easy ho jaata hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Data backup kyun important hai?",
+      "options": {
+        "A": "Computer ki speed badhane ke liye",
+        "B": "Data loss se bachne ke liye (hardware failure, accidental deletion, malware)",
+        "C": "Internet access improve karne ke liye",
+        "D": "Screen resolution badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data backup critical data ko protect karne ke liye zaroori hai, agar original data corrupt ho jaaye, delete ho jaaye, ya hardware fail ho jaaye."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Agar ek hard drive 'bad sectors' show kar raha hai, toh iska kya matlab hai?",
+      "options": {
+        "A": "Hard drive mein additional storage space hai",
+        "B": "Hard drive ka ek portion corrupt ya damaged hai aur data store nahi kar sakta",
+        "C": "Hard drive bahut fast chal raha hai",
+        "D": "Hard drive ko naye drivers ki zaroorat hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bad sectors hard drive par storage clusters hote hain jo read/write errors dete hain aur data ko store ya retrieve nahi kar sakte. Yeh hard drive failure ka sign ho sakta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "SATA connector ka kya use hai computer mein?",
+      "options": {
+        "A": "Monitor connect karna",
+        "B": "Hard drives aur optical drives ko motherboard se connect karna",
+        "C": "USB devices connect karna",
+        "D": "Power supply connect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SATA (Serial Advanced Technology Attachment) ek interface hai jo hard drives, SSDs, aur optical drives ko motherboard se data transfer ke liye connect karta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "NVMe SSDs ka kya advantage hai SATA SSDs ke comparison mein?",
+      "options": {
+        "A": "Lower cost",
+        "B": "Significantly higher read/write speeds",
+        "C": "Larger physical size",
+        "D": "Easier installation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "NVMe (Non-Volatile Memory Express) SSDs PCIe interface ka use karte hain, jisse woh traditional SATA SSDs se kai guna faster data transfer speeds achieve karte hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Data recovery software ka kya kaam hai?",
+      "options": {
+        "A": "Naya operating system install karna",
+        "B": "Deleted, lost, ya corrupt data ko retrieve karna",
+        "C": "Hard drive ko format karna",
+        "D": "Virus remove karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Data recovery software use kiya jaata hai accidentally deleted files, formatted drives, ya corrupt storage devices se data ko retrieve karne ke liye."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Hard drive cloning ka kya matlab hai?",
+      "options": {
+        "A": "Hard drive ko clean karna",
+        "B": "Ek hard drive ki exact copy dusre hard drive par banana",
+        "C": "Hard drive ka naam change karna",
+        "D": "Hard drive ko partition karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hard drive cloning mein ek source drive ke saare data (OS, applications, files) ki exact copy ek target drive par banayi jaati hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "RAID ka full form kya hai aur iska kya benefit hai?",
+      "options": {
+        "A": "Random Access Integrated Drive, speed badhata hai",
+        "B": "Redundant Array of Independent Disks, data redundancy aur performance improve karta hai",
+        "C": "Rapid Access Internal Disk, storage badhata hai",
+        "D": "Remote Area Internet Drive, network access provide karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "RAID (Redundant Array of Independent Disks) multiple hard drives ko ek single logical unit mein combine karta hai, jisse data redundancy (fault tolerance) aur/ya performance improve hoti hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "File system jaise NTFS aur FAT32 ka kya role hai?",
+      "options": {
+        "A": "Internet speed control karna",
+        "B": "Data ko storage device par kaise store aur retrieve kiya jaata hai, yeh manage karna",
+        "C": "Graphics render karna",
+        "D": "Hardware components ko power supply karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "File system data ko storage devices par organize aur manage karta hai, jaise files aur directories ko kaise store, locate, aur access kiya jaayega."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Agar ek USB drive detect nahi ho rahi hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "USB port, drive health, ya drivers",
+        "B": "Monitor cable",
+        "C": "RAM modules",
+        "D": "CPU fan"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "USB drive detect na hone par, alag USB port try karna, device manager mein drivers check karna, aur drive ko kisi aur computer par test karna common troubleshooting steps hain."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Data wiping ka kya matlab hai?",
+      "options": {
+        "A": "Data ko copy karna",
+        "B": "Data ko permanently erase karna jisse woh recover na ho sake",
+        "C": "Data ko encrypt karna",
+        "D": "Data ko compress karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Data wiping ek process hai jismein storage device se data ko permanently erase kiya jaata hai, often multiple overwrite passes ke through, jisse woh recover na ho sake."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "SSD firmware update kyun important hai?",
+      "options": {
+        "A": "SSD ka physical size badhane ke liye",
+        "B": "Performance, stability, aur compatibility improve karne ke liye",
+        "C": "SSD ko HDD mein convert karne ke liye",
+        "D": "SSD ko format karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "SSD firmware updates bug fixes, performance improvements, aur compatibility enhancements provide karte hain, jisse drive ki overall reliability aur longevity badhti hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar ek external hard drive power receive kar raha hai lekin detect nahi ho raha, toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Cable damaged, drivers missing, ya drive partition corrupt",
+        "B": "Laptop screen resolution mismatch",
+        "C": "RAM faulty hai",
+        "D": "CPU overheated hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Power milne ke baad bhi detect na hone par, data cable (USB cable) ki health, device drivers ki presence, aur drive ke partition table ki integrity check karna chahiye."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Data corruption kya hai?",
+      "options": {
+        "A": "Data ka encrypt ho jaana",
+        "B": "Data ka unreadable ya unusable ho jaana errors ki wajah se",
+        "C": "Data ka duplicate ho jaana",
+        "D": "Data ka compress ho jaana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Data corruption tab hota hai jab data storage, transmission, ya processing ke dauran errors ki wajah se unreadable ya unusable ho jaata hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Power failure ke baad data loss se bachne ke liye kya use karna chahiye?",
+      "options": {
+        "A": "Zyada RAM",
+        "B": "Uninterruptible Power Supply (UPS)",
+        "C": "Faster CPU",
+        "D": "Naya monitor"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "UPS (Uninterruptible Power Supply) power failure ke dauran computer ko temporary power provide karta hai, jisse user safely data save karke system ko shut down kar sake, data loss se bachne ke liye."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Laptop ka power adapter ka main kaam kya hai?",
+      "options": {
+        "A": "Sound output dena",
+        "B": "AC wall current ko DC current mein convert karke laptop ko power aur charge karna",
+        "C": "Internet access provide karna",
+        "D": "Graphics render karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Laptop power adapter (charger) AC wall current ko laptop ke liye required DC voltage mein convert karta hai, jisse laptop run ho sake aur uski battery charge ho sake."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "UPS (Uninterruptible Power Supply) ka kya function hai?",
+      "options": {
+        "A": "Only surge protection provide karna",
+        "B": "Power outages ke dauran computer ko backup power supply karna",
+        "C": "Internet speed badhana",
+        "D": "Graphics performance improve karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "UPS power outages ya fluctuations ke dauran computer aur connected devices ko temporary battery backup power supply karta hai, jisse data loss se bacha ja sake."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Laptop battery ki lifespan ko kaise badhaya ja sakta hai?",
+      "options": {
+        "A": "Hamesha 100% charge par rakh kar",
+        "B": "Deep discharge aur overcharge avoid karke, aur normal operating temperature maintain karke",
+        "C": "Zyada demanding tasks run karke",
+        "D": "Battery ko freezer mein rakh kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery ki lifespan badhane ke liye use deep discharge ya overcharge na karein, aur use extreme temperatures se bachayein. 20-80% charge level maintain karna bhi beneficial hota hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Agar laptop ka charger garam ho raha hai, toh yeh kya indicate kar sakta hai?",
+      "options": {
+        "A": "Charger normal hai",
+        "B": "Charger overstressed hai ya faulty hai, ya laptop mein power issue hai",
+        "C": "Charger bahut fast charge kar raha hai",
+        "D": "Charger ko dust ki zaroorat hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Thoda garam hona normal hai, lekin agar charger bahut zyada garam ho raha hai, toh yeh overstress (zyada load), internal fault, ya laptop mein power related component failure ko indicate kar sakta hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Power strip with surge protection ka kya benefit hai?",
+      "options": {
+        "A": "Zyada electrical outlets provide karna",
+        "B": "Connected devices ko voltage spikes se protect karna",
+        "C": "Internet speed badhana",
+        "D": "USB charging speed badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Surge protector connected devices ko sudden voltage spikes ya 'surges' se hone wale damage se protect karta hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Laptop battery calibration ka kya purpose hai?",
+      "options": {
+        "A": "Battery ki physical size adjust karna",
+        "B": "Operating system ko battery ke actual charge level ki accurate reading dena",
+        "C": "Battery ko fast charge karna",
+        "D": "Battery ko permanently disable karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery calibration operating system aur battery ke charge controller ke beech ki communication ko synchronize karta hai, jisse battery percentage ki accurate reading milti hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "SMPS ka full form kya hai?",
+      "options": {
+        "A": "Switched-Mode Power Supply",
+        "B": "Standard Main Power System",
+        "C": "System Management Power Source",
+        "D": "Secure Mobile Power Solution"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "SMPS (Switched-Mode Power Supply) ek electronic power supply hai jo switching regulator ka use karke electrical power ko efficiently transfer karta hai. Modern computer PSUs SMPS technology par based hote hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar laptop ka DC jack damaged hai (loose, broken), toh kya symptom hoga?",
+      "options": {
+        "A": "Wi-Fi kaam nahi karega",
+        "B": "Laptop charge nahi hoga ya intermittent charge hoga",
+        "C": "Screen display nahi karega",
+        "D": "Keyboard kaam nahi karega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Damaged DC jack power adapter se laptop tak power transfer ko affect karta hai, jisse laptop charge nahi hota ya intermittent charging issues aate hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Power cable ke loose connections se kya ho sakta hai?",
+      "options": {
+        "A": "Improved performance",
+        "B": "Intermittent power, system instability, ya components ka damage",
+        "C": "Lower power consumption",
+        "D": "Stronger internet signal"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Loose power connections se intermittent power supply ho sakti hai, jisse system unstable ho sakta hai, ya components ko damage bhi ho sakta hai due to fluctuating power."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Laptop adapter ke specifications mein 'Output: 19V 3.42A' ka kya matlab hai?",
+      "options": {
+        "A": "Adapter 19 Volts aur 3.42 Amperes ka AC current supply karta hai",
+        "B": "Adapter 19 Volts aur 3.42 Amperes ka DC current supply karta hai",
+        "C": "Adapter 19 Watts aur 3.42 Amperes ka power supply karta hai",
+        "D": "Adapter ki speed 19GBps aur 3.42MBps hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Laptop adapters AC current ko DC current mein convert karte hain. Output specifications batate hain ki adapter kitna DC Voltage (19V) aur kitna maximum current (3.42A) provide kar sakta hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Aap ek faulty laptop power adapter ko kaise diagnose karenge?",
+      "options": {
+        "A": "Usse smell karke",
+        "B": "Multimeter se output voltage check karke",
+        "C": "Usse hila kar",
+        "D": "Usse pani mein dal kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Multimeter se adapter ke output pin par voltage check karke verify kiya ja sakta hai ki kya adapter sahi voltage supply kar raha hai ya nahi."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Power rail ka kya matlab hai motherboard par?",
+      "options": {
+        "A": "Motherboard ko physically support karne wala rail",
+        "B": "Motherboard par specific voltage levels provide karne wale electrical paths",
+        "C": "Internet connection ke liye wire",
+        "D": "RAM modules ko hold karne wala slot"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Power rails motherboard par specific electrical paths hote hain jo various components (CPU, RAM, GPU) ko required DC voltage levels supply karte hain. Faulty power rails se component failure ho sakta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar laptop ki battery health bahut kam ho gayi hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Use ignore karna chahiye",
+        "B": "Battery ko replace karna chahiye",
+        "C": "Laptop ko hamesha charge par rakhna chahiye",
+        "D": "Battery ko repair karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar battery health significantly degrade ho gayi hai, toh uski performance aur run-time kam ho jaayega. Aisi battery ko replace karna hi best solution hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Overcurrent protection ka kya role hai power supply mein?",
+      "options": {
+        "A": "Power supply ko zyada voltage se bachana",
+        "B": "Power supply ko excessive current flow se bachana",
+        "C": "Power supply ko overheating se bachana",
+        "D": "Power supply ki efficiency badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Overcurrent protection (OCP) ek safety feature hai jo power supply ko aur connected components ko damage se bachata hai, agar current ek safe limit se zyada flow ho jaaye."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Grounding ka kya matlab hai electrical systems mein?",
+      "options": {
+        "A": "Current ko air mein release karna",
+        "B": "Excess electrical charge ko earth tak divert karna safety ke liye",
+        "C": "Voltage ko badhana",
+        "D": "Current ko block karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grounding ek safety measure hai jismein excess electrical charge ko earth tak divert kiya jaata hai, jisse electrical shock aur equipment damage ko prevent kiya ja sake."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Agar ek laptop charger connect karne par bhi 'not charging' show kar raha hai, toh kya possible reasons ho sakte hain?",
+      "options": {
+        "A": "Faulty charger, damaged DC jack, ya battery controller issue",
+        "B": "Loose RAM modules",
+        "C": "Corrupt operating system",
+        "D": "Overheating CPU"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Not charging issue ke liye faulty charger, damaged DC jack (port), ya laptop ke internal battery charging circuit/controller mein problem ho sakti hai. Battery health bhi ek factor ho sakta hai."
+    }
+  ]
+}

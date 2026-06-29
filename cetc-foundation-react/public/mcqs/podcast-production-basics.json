@@ -1,0 +1,1343 @@
+{
+  "course_name": "Podcast Production Basics",
+  "sector": "Media, Photography & Content Creation",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Podcasting, Concepts & Show Planning",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Podcast Gear Setup (Mics, Headphones, Interfaces & Recorders)",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Scripting, Interviewing & Recording Techniques",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Audio Editing, Mixing, Noise Reduction & Mastering",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Podcast Hosting (Anchor/Spotify, RSS Feeds) & Distribution",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Marketing, Branding, Audience Growth & Monetization",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "question": "Podcast primary format me kis type ka digital content distribution model hota hai?",
+      "options": {
+        "A": "On-demand audio content series (digital audio episodes jise users internet se subscribe aur listen kar sakein)",
+        "B": "Only text files document downloads",
+        "C": "Operating system configuration setup",
+        "D": "Direct print news files"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Podcast on-demand digital audio files hoti hain jinhe RSS feeds ke through distribute kiya jata hai aur user kabhi bhi sun sakta hai."
+    },
+    {
+      "qno": 2,
+      "question": "Podcasting me 'Niche' (vibhag) ka kya importance hai planning stage me?",
+      "options": {
+        "A": "Only channel visual colors selection",
+        "B": "Specific topic area (jaise: startup guide, health tips) jis par show based hota hai targeted listeners build karne ke liye",
+        "C": "Total audio length limit in gigabytes",
+        "D": "Password control setup"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Focused niche hone se loyal audience and relevant sponsorships pull karna standard business planning me easy hota hai."
+    },
+    {
+      "qno": 3,
+      "question": "Podcast show planning stage me 'Audience Persona' design karne ka kya matlab hai?",
+      "options": {
+        "A": "Logo graphics styling templates",
+        "B": "Target listener profile details (age, interests, problems, listening habits) ka detailed map taiyar karna",
+        "C": "Audience location tracking directly",
+        "D": "Subscribers list backup register"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Audience persona se creator content tone, episode length aur topics ko listener preferences ke according design karta hai."
+    },
+    {
+      "qno": 4,
+      "question": "Podcasting me 'Show Notes' kya hota hai?",
+      "options": {
+        "A": "Host ki personal diary note only",
+        "B": "Episode ki written summary, links, guest details aur resources jo podcast platforms description box me di jati hain",
+        "C": "Voiceover raw script sheets",
+        "D": "Sponsors invoice sheets"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Show notes episode summaries, reference URLs and SEO optimization targets maintain karne me useful tool hai."
+    },
+    {
+      "qno": 5,
+      "question": "Podcast planning formats me 'Co-hosted Podcast' design layout kya represent karta hai?",
+      "options": {
+        "A": "Single host talking alone in studio",
+        "B": "Do ya do se zyada hosts milkar conversational style me discussion aur debate karte hain",
+        "C": "Zero host automated AI script playback",
+        "D": "Only call recording formats"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Co-hosted shows dynamic conversations aur multiple perspectives details hold karte hain jisse show engaging lagta hai."
+    },
+    {
+      "qno": 6,
+      "question": "Duniya me podcast audio listings and playback streaming me sabse bada official player platform kaun sa hai?",
+      "options": {
+        "A": "Spotify / Apple Podcasts / Amazon Music / YouTube Podcasts",
+        "B": "Adobe Photoshop directly",
+        "C": "e-NAM Portal audio page",
+        "D": "FSSAI direct certification database"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Spotify and Apple Podcasts major global directory platforms hain jaha podcasts stream hoti hain."
+    },
+    {
+      "qno": 7,
+      "question": "Podcast show structure me 'Intro' and 'Outro' audio sections ka kya role hota hai?",
+      "options": {
+        "A": "Intro show ka objective aur branding music establish karta hai, Outro updates/next steps aur CTA provide karta hai",
+        "B": "Dono sections completely silent hote hain",
+        "C": "Intro only for sponsors listing directly",
+        "D": "Outro is file compression checker"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Intro (starting 30s) listeners hook build karta hai, aur Outro final summary, call to action details aur branding details provide karta hai."
+    },
+    {
+      "qno": 8,
+      "question": "Podcast content formatting me 'Solo Podcast' style kis category design ko represent karta hai?",
+      "options": {
+        "A": "Single individual host own thoughts, research ya stories listen share karta hai (monologue style)",
+        "B": "Only dual host conversations",
+        "C": "Public open group discussions",
+        "D": "Direct video interviews format"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Solo podcasts host authority, trust aur direct personal relationship listeners ke sath build karte hain."
+    },
+    {
+      "qno": 9,
+      "question": "Podcasting me 'Trailer Episode' (Episode 0) launch karne ka kya main advantage hai show startup me?",
+      "options": {
+        "A": "RSS feeds validation, directory registration and target audience pre-launch updates reach",
+        "B": "Direct monetisation first day start",
+        "C": "Get verified blue check mark directly",
+        "D": "Watermark edit limit unlock"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Episode 0 (Trailer) short intro hota hai jisse Apple/Spotify directories me channel approve aur test RSS feed checks sync settings verify hote hain."
+    },
+    {
+      "qno": 10,
+      "question": "Podcast me 'Interview Style' format me kya arrangement hota hai?",
+      "options": {
+        "A": "Host har episode me specific guest expert ko invite karke Q&A query discussion run karta hai",
+        "B": "Only static text articles read only",
+        "C": "Direct group debate without host control",
+        "D": "Music instrumental playback only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Interview style shows experts authority aur unke follower bases ki audience attract karne me beneficial hote hain."
+    },
+    {
+      "qno": 11,
+      "question": "Podcasting me 'Season-based' release strategy kya hoti hai?",
+      "options": {
+        "A": "Fixed number of episodes (jaise 10-12 episodes) group me release karke show pause lena aur next theme plan karna",
+        "B": "Only summer season me upload karna",
+        "C": "Daily continuous uploads without year-end breaks",
+        "D": "Random time selections"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Season models thematic focus, production planning break times aur quality standards maintain rakhne me helpful strategy hain."
+    },
+    {
+      "qno": 12,
+      "question": "Show planning me 'Episode Scripting' and 'Bullet Outline' models me conversational flow balance best kya maana jata hai?",
+      "options": {
+        "A": "Bullet point outlines read (flexibility parameters, conversational natural expressions maintain check)",
+        "B": "Strict word-to-word screen reading without pauses (robotic tone)",
+        "C": "No planning outlines, direct speaking without points",
+        "D": "Zero outlines required"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bullet point outlines key structures track rakhne me help karte hain par natural flow and expressions drop nahi hone dete."
+    },
+    {
+      "qno": 13,
+      "question": "Podcast show management metrics checks me 'Listener Retention Rate' (shrota banaye rakhne ki dar) ka kya use hai?",
+      "options": {
+        "A": "Viewer drop timeline analyze details coordinate (kis point par listener boring bolkar exit kar gaya)",
+        "B": "Total storage check list in database",
+        "C": "Direct platform download speeds index",
+        "D": "Sponsor bank details verification"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Audience retention analysis show formatting lengths adjustments aur boring discussions remove targets me helper tool hai."
+    },
+    {
+      "qno": 14,
+      "question": "Audio formats checks specifications me podcast files standard export file extensions requirements kya hoti hain online streaming me?",
+      "options": {
+        "A": "MP3 format (best compatibility and smaller byte size)",
+        "B": "RAW files directly always",
+        "C": "PSD source layers directly",
+        "D": "Direct video formats only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "MP3 standard compress formats load fast on poor internet channels and compatible directories players systems."
+    },
+    {
+      "qno": 15,
+      "question": "Podcasting me 'Remote Recording' (door baithe guest ke sath record) setup me double-ender recording check target kya represent karta hai?",
+      "options": {
+        "A": "Host and Guest doosre ke local devices par raw audios independently high-quality record karte hain aur edits me sync merge karte hain",
+        "B": "Direct single call phone recording directly",
+        "C": "Mute both microphones directly",
+        "D": "Zero visual tools check"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Double-ender method call lag aur internet drops quality loss prevent karta hai, raw files local levels par clean sound format me capture ho jati hain."
+    },
+    {
+      "qno": 16,
+      "question": "Podcast mic selections models checks me 'Condenser Microphone' and 'Dynamic Microphone' difference criteria details me dynamic mic kyu prefer hota hai normal room settings me?",
+      "options": {
+        "A": "Dynamic mic background noise (noise hum, fan sound) kam pickup karta hai aur nearby voice zoom targets clear capture karta hai",
+        "B": "Condenser mic captures zero background noise",
+        "C": "Dynamic mic requires direct battery cells",
+        "D": "Dono models are exact duplicate specs"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Dynamic mics robust construction and low sensitivity room echoes, fan humming, and background noise ko minimize karti hain."
+    },
+    {
+      "qno": 17,
+      "question": "Microphones directional sensitivity check checks 'Cardioid Polar Pattern' polar diagram specifications me sound pick directions target zone kya hai?",
+      "options": {
+        "A": "Direct front side target sound pickup priority (heart shape pattern, blocking rear/back side noise)",
+        "B": "Omnidirectional 360 degrees equal pickup",
+        "C": "Direct back side only",
+        "D": "No directional preferences"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Cardioid (heart shape) pattern single host setup me front voice capture aur room acoustics reflections ko eliminate karne me best hai."
+    },
+    {
+      "qno": 18,
+      "question": "Professional dynamic mic (jaise Shure SM7B) computer me connect hone ke liye direct USB connections ke badle kis analog standard connection wire/pin structure use karta hai?",
+      "options": {
+        "A": "XLR Cable (3-pin balanced audio cable standard)",
+        "B": "USB-C standard mobile pins",
+        "C": "Aux 3.5mm normal jack pins",
+        "D": "Bluetooth wireless pair only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "XLR cables balanced analog signal transmit karti hain jo external electromagnetic humming noise hum reject karne me helper tool hain."
+    },
+    {
+      "qno": 19,
+      "question": "Analog XLR mic signal digital USB computer input data me translate karne wale hardware device ko kya bolte hain?",
+      "options": {
+        "A": "Audio Interface / Sound Card box",
+        "B": "Direct adapter pins",
+        "C": "Condenser power unit",
+        "D": "Tensiometer converter"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Audio Interface (eg Focusrite Scarlett) mic signal levels boost (Preamp) karta hai aur analog to digital conversions manage karta hai."
+    },
+    {
+      "qno": 20,
+      "question": "Audio Interface me 'Gain' parameter control knob kis utility details check coordinates control karta hai?",
+      "options": {
+        "A": "Mic input signal strength (sensitivity level) adjustments to optimize voice amplitude levels",
+        "B": "Audio output earphone volume only",
+        "C": "Noise filter algorithms",
+        "D": "Track playback speed"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Gain control mic input amplification level direct decibel (dB) scale control coordinates setups."
+    },
+    {
+      "qno": 21,
+      "question": "Condenser microphones ko activate karne ke liye Audio interface se jo +48V electricity supply push ki jati hai, use kya bolte hain?",
+      "options": {
+        "A": "Phantom Power (+48V button)",
+        "B": "Aux Power directly",
+        "C": "Battery charge loop",
+        "D": "Reflex voltage indicator"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Condenser mics internal active plate charges and preamps functions ke liye +48V phantom power require standard configurations."
+    },
+    {
+      "qno": 22,
+      "question": "Podcast voice record checks me speak time blowing air pops sounds (P-Pop, B-Pop breath sounds) sensor damage shield controls modifier shield tool name kya use kiya jata hai?",
+      "options": {
+        "A": "Pop Filter / Pop Shield (jaali mesh screen on stand)",
+        "B": "Lens cap directly on mic",
+        "C": "Reflector cardboard card panel",
+        "D": "Windscreen foam cap only directly"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pop filter voice pops (plosives) high-pressure air bursts ko break karta hai taaki spikes audio distortion na aae."
+    },
+    {
+      "qno": 23,
+      "question": "Table shaking vibration aur bumps mic shock vibrations sound pickup prevent modifiers mechanical holder frame ko kya bolte hain?",
+      "options": {
+        "A": "Shock Mount (elastic bands suspended mic holder)",
+        "B": "Direct screw table base clamp",
+        "C": "Boom arm directly without elastic suspension",
+        "D": "Water base weights"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Shock mount table bumps and mic stands micro vibrations structural decoupling filters coordinate setups."
+    },
+    {
+      "qno": 24,
+      "question": "Podcast recording room echoes control guidelines checks 'Acoustic Treatment' checks me reflections reduce tools name list choices kya use hoti hai?",
+      "options": {
+        "A": "Acoustic Foam Panels / Bass Traps / Carpets and Heavy curtains",
+        "B": "Plain glass window panels directly",
+        "C": "Metallic sheet wraps directly",
+        "D": "Airtight plastic sheets only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Acoustic panels hard wall surface reflections bounce control soft absorption materials index are used."
+    },
+    {
+      "qno": 25,
+      "question": "Mobile users direct podcast recordings setup options USB mics categories checks standard choices features me primary advantage kya hai?",
+      "options": {
+        "A": "Plug and Play directly (USB-C cable connect to mobile/PC, no audio interface required)",
+        "B": "USB mics do not record any audio files",
+        "C": "Requires phantom power always",
+        "D": "No settings controls exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "USB mics (eg Blue Yeti) built-in interface hold coordinate direct mobile plug setups are extremely easy."
+    },
+    {
+      "qno": 26,
+      "question": "Podcast audio recording quality sample formats checks standard options bit depth and sample rate standard index values CD quality settings check specifications?",
+      "options": {
+        "A": "24-bit / 48 kHz (standard professional choice) or 16-bit / 44.1 kHz (CD quality)",
+        "B": "8-bit / 8 kHz low density only",
+        "C": "100-bit / 1000 kHz",
+        "D": "Zero bit depth configurations"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Sample rates audio details resolution index parameters hold standard values."
+    },
+    {
+      "qno": 27,
+      "question": "Headphones selection checks me 'Closed-Back Studio Headphones' kyu prefer hotey hain podcast recording time monitor checks me?",
+      "options": {
+        "A": "Sound leakage restrict karte hain (mic me headphone sound bleeding sound prevent)",
+        "B": "Only visual styling factors",
+        "C": "They are cheaper than open-back options",
+        "D": "Direct noise cancellation active always"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Closed-back headphones shell sound isolation keep setups bleeding prevent to keep clean audio tracks."
+    },
+    {
+      "qno": 28,
+      "question": "Podcast boom arm stand 'Boom Arm' primary benefit tabletop setups me kya represent karta hai?",
+      "options": {
+        "A": "Adjustable suspensions, mic position angle control flexibility aur table space utilization free keeping",
+        "B": "Direct voltage control",
+        "C": "Noise reduction algorithm",
+        "D": "Storage backups"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Boom arm mic position mouth distance balance controls easily adjust coordinate values."
+    },
+    {
+      "qno": 29,
+      "question": "Podcasting field recordings setups 'Portable Audio Recorder' (eg Zoom H4n) details usage checks why important?",
+      "options": {
+        "A": "Built-in microphones, XLR inputs and battery backup for outdoor/field interviews recording without computer",
+        "B": "Only direct raw video save check",
+        "C": "Mute voice controls directly",
+        "D": "Zero storage index"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Portable recorders field reporting, outdoor setups and mobile studio parameters checks."
+    },
+    {
+      "qno": 30,
+      "question": "Mic sensitivity adjustments clipping warnings alerts me dB scale levels checks standard dynamic check range target peaks voice peaks maximum limits are?",
+      "options": {
+        "A": "Peak target between -6 dB to -12 dB (never touch 0 dB to avoid clipping distortion)",
+        "B": "Always above +10 dB standard",
+        "C": "Zero dB exactly without deviations",
+        "D": "No limit constraint"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "0 dB ceiling checks clip flat distortion prevent rules dialogue safe ranges."
+    },
+    {
+      "qno": 31,
+      "question": "Podcast interview script frameworks me 'Open-ended Questions' (khule prashn) push checks kyu zaroori mane jate hain conversational flow me?",
+      "options": {
+        "A": "Guest detailed, narrative aur personal stories experiences share (yes/no options check details avoid check)",
+        "B": "Only target pricing list directly",
+        "C": "Reduce audio duration size",
+        "D": "Zero interactive responses"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Open-ended questions guest interaction, emotional connect aur rich content value detail outputs target coordinates."
+    },
+    {
+      "qno": 32,
+      "question": "Remote podcast interview recording software platforms dedicated HD audio recording choices me standard names are what?",
+      "options": {
+        "A": "Riverside.fm / SquadCast / Zencastr (Dedicated remote studio platforms)",
+        "B": "Direct WhatsApp normal call only",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Squadcast/Riverside local audio recording high resolution files download options."
+    },
+    {
+      "qno": 33,
+      "question": "Podcast scripting models me 'Outline Script' and 'Word-to-Word Script' differences checks portrait show host pacing controls standard guidelines what is best?",
+      "options": {
+        "A": "Outlines are best for interview/conversational shows, Word-to-word scripts are best for storytelling/scientific shows",
+        "B": "Word-to-word scripts are always best for all shows",
+        "C": "Zero script planning option",
+        "D": "No variations exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Format matching script choices conversational naturalness aur flow consistency control levels."
+    },
+    {
+      "qno": 34,
+      "question": "Interview recording checks 'Host Listening Skill' (sakriya shravan) checks why critical during podcast runs?",
+      "options": {
+        "A": "Active listening lets host catch guest unique statements and generate impromptu follow-up questions (dynamic flow)",
+        "B": "Direct file compression parameters check",
+        "C": "AdSense analytics checking tools",
+        "D": "Zero utility checks"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Active listening robotic pre-planned Q&A listings avoid, making conversational flow organic."
+    },
+    {
+      "qno": 35,
+      "question": "Podcast audio file post processing checks DAW software full form and utility editing parameters kya represent karta hai?",
+      "options": {
+        "A": "Digital Audio Workstation (Audio editing, mixing and mastering software jaise Audacity, Audition, Reaper)",
+        "B": "Digital Aspect Width",
+        "C": "Direct Audio Wave",
+        "D": "Data Allocation Window"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DAWs primary audio editing suites hold templates coordinates parameters standard."
+    },
+    {
+      "qno": 36,
+      "question": "Audacity free audio editor DAW checks 'Waveform' display horizontal visual wave spikes represent kya karti hain?",
+      "options": {
+        "A": "Audio Amplitude / Volume peaks levels (higher spikes = louder sound, flat lines = silence)",
+        "B": "Direct frequency tone pitch scale",
+        "C": "File sizes metadata checks",
+        "D": "Watermark overlay coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Waveforms signal amplitude peaks visually trace details cuts, gaps and spikes identification check."
+    },
+    {
+      "qno": 37,
+      "question": "Audio editing checks 'Trim' and 'Split' tools function details timelines me raw audio editor edits checks me kya perform karte hain?",
+      "options": {
+        "A": "Split divides single audio track into multi chunks, Trim removes unwanted starting/ending quiet segments",
+        "B": "Only target tags collection box",
+        "C": "Email subscription form directly input",
+        "D": "Copyright license coordinates"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Trim and split options audio timeline cleanups editing base steps represent."
+    },
+    {
+      "qno": 38,
+      "question": "Audio editing processes 'EQ' (Equalizer) effect filters details parameters checks what is EQ function?",
+      "options": {
+        "A": "Specific sound frequencies boost or cut balance coordinates (eg boosting bass, cutting harsh treble frequencies)",
+        "B": "Direct video editing format changes",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "EQ helps to shape voice qualities tone, removing mud frequencies (around 200-400Hz) and boosting clarity highs."
+    },
+    {
+      "qno": 39,
+      "question": "Audio processing 'Compressor' (audio compression effect) primary task edits me kya hota hai?",
+      "options": {
+        "A": "Louder spikes volume decrease and quiet whispers volume boost (reduces dynamic range to make volume uniform)",
+        "B": "Only compress byte size of MP3 file",
+        "C": "Subtitles file size format change",
+        "D": "Zero visual utility"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Compression dialogue levels balance coordinates so listeners don't have to adjust volume repeatedly."
+    },
+    {
+      "qno": 40,
+      "question": "Audio cleanups edits 'De-Esser' filter details checks vocal tracks me why important helper tool?",
+      "options": {
+        "A": "Harsh sibilance sounds (S-sounds, sh-sounds piercing peaks) compress filter to keep voice pleasant",
+        "B": "Remove background traffic noise directly",
+        "C": "Auto-sync double voice tracks",
+        "D": "Direct files trash cleanup"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "High frequency sibilance checks (s, t, z sounds) De-esser tool isolates and suppresses dynamically."
+    },
+    {
+      "qno": 41,
+      "question": "Audio editing process 'De-Clicker' filter voiceover tracks cleanup checks me kya function karta hai?",
+      "options": {
+        "A": "Saliva mouth clicks, tongue clicks micro noises automatically isolate and remove",
+        "B": "Change video files format conversions",
+        "C": "AdSense verification PIN releases",
+        "D": "Zero colors matching checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "De-clicker filters microscopic clicking anomalies remove clean voice track output support."
+    },
+    {
+      "qno": 42,
+      "question": "Podcast audio file loudness measurements global standard target checks LUFS full form and target values checks standard podcast values kya hain?",
+      "options": {
+        "A": "Loudness Units Full Scale (target standard: -16 LUFS for stereo podcasts, -19 LUFS for mono)",
+        "B": "Liquid Unit Flow System",
+        "C": "Line Unit Frequency Scale",
+        "D": "Zero loudness constraints"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "LUFS is absolute loudness measurement standard. -16 LUFS matches global directory platforms streaming criteria."
+    },
+    {
+      "qno": 43,
+      "question": "Audio mixing 'Gain Staging' (gain hierarchy) setups me what is the primary instruction?",
+      "options": {
+        "A": "Adjust individual track gain levels before mixing effects to prevent digital distortion at master bus",
+        "B": "Direct files compression only",
+        "C": "Mute BGM during speaking",
+        "D": "Zero gain staging required"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Gain staging prevents audio clipping and maintains healthy headroom across all processing blocks."
+    },
+    {
+      "qno": 44,
+      "question": "Podcast background music mixing volume ducking 'Audio Ducking' checks what it execute?",
+      "options": {
+        "A": "Automatic attenuation BGM volume when voiceover dialogue active on timeline tracks",
+        "B": "Delete background music instantly",
+        "C": "Change aspect ratio vertical directly",
+        "D": "Automatic subscribe triggers lock"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Audio ducking voiceover clarity prioritizes, ducking depth parameters standard -15dB to -20dB."
+    },
+    {
+      "qno": 45,
+      "question": "Audio files export formats specifications 'Bitrate' settings MP3 export checks what is recommended standard for high quality audio podcast?",
+      "options": {
+        "A": "128 kbps (standard for mono podcasts) or 192/256 kbps (for high quality stereo music/podcast)",
+        "B": "8 kbps only directly",
+        "C": "3200 kbps",
+        "D": "Zero bitrate constraints"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "128kbps constant bitrate (CBR) MP3 provides perfect balance of audio details and small file sizes."
+    },
+    {
+      "qno": 46,
+      "question": "Podcast show hosting platforms RSS feeds generate check what is 'Podcast Host' (eg Spotify for Podcasters / Buzzsprout)?",
+      "options": {
+        "A": "Specialized server space where podcast audio files are stored and RSS feed is generated for distribution",
+        "B": "Direct video calling app",
+        "C": "FSSAI registration console",
+        "D": "Google Chrome browser only"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Podcast hosts audio files store coordinates and distribute directories using automated XML RSS feeds."
+    },
+    {
+      "qno": 47,
+      "question": "Podcast distribution heart RSS Feed full form and definition what is RSS?",
+      "options": {
+        "A": "Really Simple Syndication (XML files format link containing channel metadata, episode audio paths auto updates directories)",
+        "B": "Radio Signal System",
+        "C": "Revenue Share Status",
+        "D": "Standard Audio Link"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "RSS feed link directory platforms submit coordinates, any new episode upload automatically updates all directories."
+    },
+    {
+      "qno": 48,
+      "question": "Podcast show cover art design specifications size constraints specifications checks kya are standard parameters?",
+      "options": {
+        "A": "Square shape (3000 x 3000 pixels maximum, 1400x1400px minimum JPEG/PNG)",
+        "B": "16:9 widescreen landscape banner",
+        "C": "100x100px tiny icons only",
+        "D": "Zero dimensions checks"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Cover art size standard square format Apple specifications parameters compliance checks."
+    },
+    {
+      "qno": 49,
+      "question": "Podcast platform registration checks 'ID3 Tags' (metadata tags inside MP3) kyu update coordinates options target?",
+      "options": {
+        "A": "Insert episode title, host name, year and cover art directly inside MP3 metadata tags for offline player visibility",
+        "B": "Direct crop settings check",
+        "C": "Subtitles file size format change",
+        "D": "Zero width limits"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "ID3 tags metadata profiles ensure offline media player details showing correct titles."
+    },
+    {
+      "qno": 50,
+      "question": "Podcast analytics dashboard KPIs metrics 'Downloads count' (downloads per episode) significance kya represent?",
+      "options": {
+        "A": "Primary metric for show popularity and sponsor valuations (unique download requests within 24 hours/30 days)",
+        "B": "Only direct raw video save check",
+        "C": "Mute voice controls directly",
+        "D": "Zero storage index"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Downloads statistics show reach and engagement levels, key indices for CPM sponsor payouts."
+    },
+    {
+      "qno": 51,
+      "question": "Podcast marketing strategies checks 'Audiogram' (audio highlight clip video format) creator setups dynamic checks what is it?",
+      "options": {
+        "A": "Short audio snippet with static image/waveform animations and text captions video format for social media promo",
+        "B": "Direct video file compression",
+        "C": "Subtitles auto translation",
+        "D": "Zero changes indicators"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Audiograms social media updates promotion visual pops engagement rates."
+    },
+    {
+      "qno": 52,
+      "question": "Podcast monetization platforms models checks 'Dynamic Ad Insertion' (DAI) advertising options what is DAI?",
+      "options": {
+        "A": "Target ads automatically dynamically inject inside podcast audio files based on listener location and timeline active",
+        "B": "Direct payment voucher directly",
+        "C": "Auto spam comments creator",
+        "D": "Deleting user databases blocks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "DAI coordinates server level ad replacement, old episodes can also show new ad integrations."
+    },
+    {
+      "qno": 53,
+      "question": "Podcast sponsors deals 'Host-Read Ads' vs 'Programmatic Ads' comparison checks me host-read ads kyu prefer hotey hain B2B clients me?",
+      "options": {
+        "A": "Host reads ad in personal storytelling tone (high trust connections, better conversion rates than cold pre-recorded ad inserts)",
+        "B": "Host-read ads are always free",
+        "C": "Programmatic ads are illegal",
+        "D": "Dono models are exact duplicate specs"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Host-read ads audience connection, authenticity and product trust levels increase checks."
+    },
+    {
+      "qno": 54,
+      "question": "Podcast launch workflows 'Launch Stack' strategy (uploading 3-5 episodes together at launch day) advantage checks why useful?",
+      "options": {
+        "A": "Binge listening options for initial users to fast build watch hours and rank higher on charts directories",
+        "B": "Only single segment file size controls",
+        "C": "Subtitles auto translation systems",
+        "D": "Zero changes indicators checks"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Launch stack strategy builds initial listener sessions, reviews and directory algorithm pushes."
+    },
+    {
+      "qno": 55,
+      "question": "Podcast analytics dashboard metrics checks 'Listen Platforms Breakdown' metrics checks what is its role?",
+      "options": {
+        "A": "Show details of apps used by listeners (eg Spotify vs Apple) to optimize platform specific updates marketing",
+        "B": "CPC comments count",
+        "C": "Dono dynamic metrics duplicate variables are same",
+        "D": "Zero CPC values checks"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Directory share details helps creators to direct focus marketing resources on dominant platforms."
+    },
+    {
+      "qno": 56,
+      "question": "Podcasting business sponsorships metrics 'CPM' full form and standard sponsorship rate average ranges tier 1 market me estimated specs?",
+      "options": {
+        "A": "Cost Per Mille ($18 to $25 CPM average per 1000 downloads standard)",
+        "B": "Cost per Member directly",
+        "C": "Creative Promotion Model",
+        "D": "Zero rate calculations"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "CPM is standard ad pricing model. Mille stands for 1000 listener downloads."
+    },
+    {
+      "qno": 57,
+      "question": "Podcast show branding 'Sonic Branding' (sound branding) what does it define?",
+      "options": {
+        "A": "Specific brand theme sound, jingle, or tone used consistently at start/end of every episode to establish identity",
+        "B": "Only video file size check",
+        "C": "Video frame size changes",
+        "D": "Internet speed limits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Sonic branding builds immediate audio associations with show brand (eg Netflix intro sound)."
+    },
+    {
+      "qno": 58,
+      "question": "Podcast directory submissions 'Apple Podcasts Connect' validation checks why Apple directory submission is key step?",
+      "options": {
+        "A": "Apple Podcasts directory database is utilized by many third party podcast apps for search indexes",
+        "B": "Direct AdSense instant approvals",
+        "C": "Watermark remove automated",
+        "D": "No benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Apple index is largest database source, syncing many other podcast player directories automatically."
+    },
+    {
+      "qno": 59,
+      "question": "DAW editors 'Non-Destructive Editing' properties why essential in audio editing?",
+      "options": {
+        "A": "Original audio files remain unchanged on hard disk, edits are metadata markers only (any cut/delete can be restored anytime)",
+        "B": "Saves file storage sizes automatically",
+        "C": "Only works on stereo modes",
+        "D": "Zero advantages exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Non-destructive engine provides safety backups during complex audio design work."
+    },
+    {
+      "qno": 60,
+      "question": "Podcast community tab posts and guest agreements checks 'Release Form' (guest consent release) why important?",
+      "options": {
+        "A": "Legal document confirming guest consent to use their voice, name, and images commercially without future claim royalties",
+        "B": "Direct tax exemptions certificates",
+        "C": "AdSense account login permissions",
+        "D": "Subtitles file size format change"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Release forms protect show creators from future legal claims by guests regarding show monetization."
+    },
+    {
+      "qno": 61,
+      "question": "Podcast monetization 'Listener Support / Crowdfunding' (eg Patreon, Buy Me a Coffee) model details what is it?",
+      "options": {
+        "A": "Direct financial support from loyal listeners through monthly donations or memberships in exchange for bonus content/perks",
+        "B": "Direct bank loans cards links",
+        "C": "Exotic export categories registrations",
+        "D": "Watermark delete options"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Listener support model builds independent revenue channels direct from audience."
+    },
+    {
+      "qno": 62,
+      "question": "Podcast audio file post processing DAW tools checks Audacity 'Amplify' vs 'Normalize' difference details what is it?",
+      "options": {
+        "A": "Amplify increases volume of selected track directly by set dB, Normalize adjusts peaks to uniform target level (eg -1dB)",
+        "B": "Amplify only cuts noise",
+        "C": "Normalize deletes quiet zones",
+        "D": "Dono same functions are duplicate"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Normalize coordinates target limits checks without clipping risk, amplify is direct multiplier."
+    },
+    {
+      "qno": 63,
+      "question": "Podcast audio compression metrics 'VBR' (Variable Bitrate) vs 'CBR' (Constant Bitrate) difference details what is CBR?",
+      "options": {
+        "A": "CBR encodes audio at constant data rate throughout file (guarantees playback compatibility across directories)",
+        "B": "CBR changes rate dynamically based on complexity",
+        "C": "CBR deletes silent spaces automatically",
+        "D": "CBR is only for video formats"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "CBR constant data rate is standard for podcast files distribution to prevent playback glitches."
+    },
+    {
+      "qno": 64,
+      "question": "DAW editors 'Multi-track timeline' workspace what is its role?",
+      "options": {
+        "A": "Simultaneous mixing of host voice, guest voice, background music and sound effects on separate tracks",
+        "B": "Convert audio to text",
+        "C": "Direct file upload to hosting",
+        "D": "Zero multi-track benefits"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Multi-track provides individual volume, EQ, and effects controls for each audio asset before final mixdown."
+    },
+    {
+      "qno": 65,
+      "question": "Podcast audio check checks 'Room Tone' recording technique what is it?",
+      "options": {
+        "A": "Recording 30-60s of silence in recording room before speaking to capture background room sound profile for editing paste patches",
+        "B": "Direct music recording setup",
+        "C": "Direct water spray drenching",
+        "D": "Zero room tone requirements"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Room tone audio profile captures background hum, which editors use to patch edit gaps cleanly without complete dead silence drops."
+    },
+    {
+      "qno": 66,
+      "question": "Podcast RSS feeds XML code structure checks does RSS feed link contain media files direct download links?",
+      "options": {
+        "A": "Yes, RSS contains enclosure tag pointing directly to MP3 audio files storage paths",
+        "B": "No, it contains text transcripts only",
+        "C": "RSS only contains logo graphic image",
+        "D": "No link directories are allowed in RSS"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Enclosure tag is mandatory XML tag which directories read to fetch and download audio files."
+    },
+    {
+      "qno": 67,
+      "question": "Podcast directories listings checks 'Apple Podcasts categories' how many categories can creator select standard?",
+      "options": {
+        "A": "Maximum 3 categories (with primary category selection defining search directory place)",
+        "B": "Unlimited categories allowed",
+        "C": "Only 1 category allowed",
+        "D": "No category requirements"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Primary and secondary categories help directories to recommend shows to correct interest groups."
+    },
+    {
+      "qno": 68,
+      "question": "Podcast hosts analytics metrics 'Completion Rate' (view completion) what it represents?",
+      "options": {
+        "A": "Average percentage of episode duration listened by audience (high completion indicates high content value)",
+        "B": "Total count of downloads only",
+        "C": "File upload progress percentage",
+        "D": "Zero completion differences"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Completion rate evaluates listener hook success, key indicator for content structure design audits."
+    },
+    {
+      "qno": 69,
+      "question": "Podcasting microphone specifications checks 'Dynamic Range' definition what is it?",
+      "options": {
+        "A": "Difference between loudest and quietest sounds mic can capture without distortion/noise",
+        "B": "Distance of wireless signal range",
+        "C": "Direct frequency count",
+        "D": "Zero range specifications"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Dynamic range standard defines vocal nuances preservation checks in studio settings."
+    },
+    {
+      "qno": 70,
+      "question": "DAW software editors 'Limiter' master plugin setting kyu apply kiya jata hai final mastering stage par?",
+      "options": {
+        "A": "Strict output ceiling set check (eg -1dB) to prevent any peaks from clipping distortion while maximizing loudness",
+        "B": "Only voice speed changer",
+        "C": "Direct file format conversion",
+        "D": "Zero limiter utility"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Limiter master plugin guarantees output levels compliance standard bounds, preventing digital distortion."
+    },
+    {
+      "qno": 71,
+      "question": "Podcast branding design deliverables 'Show Icon' standard dimensions for small display icons specs?",
+      "options": {
+        "A": "Square PNG/JPEG 1400x1400px minimum (matching cover design layout ratios)",
+        "B": "16x16px ico only directly",
+        "C": "1080x1920px vertical",
+        "D": "Zero icon dimensions"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Submissions icons specifications match cover rules for legibility in directories search grids."
+    },
+    {
+      "qno": 72,
+      "question": "DAW audio editing 'Noise Gate' (audio gate) tool how it differs from de-noise filter?",
+      "options": {
+        "A": "Noise gate shuts off audio completely (mutes) when signal drops below set threshold (eg -40dB), removing silences hums",
+        "B": "Noise gate only boosts high volume",
+        "C": "Noise gate changes voice pitch",
+        "D": "Dono models are identical duplicate"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Noise gate is amplitude threshold gate, muting quiet spaces between words entirely."
+    },
+    {
+      "qno": 73,
+      "question": "Podcast directory submissions checks 'RSS feed ownership tag' verification why required?",
+      "options": {
+        "A": "Verify email match tag in RSS feed XML to prevent unauthorized directory registrations of shows",
+        "B": "Direct AdSense instant approval",
+        "C": "Watermark remove automated",
+        "D": "No verification exists"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Ownership tag verification ensures only show owner can submit and control the podcast directory settings."
+    },
+    {
+      "qno": 74,
+      "question": "Podcast show branding 'Voice Intro' voiceover artist specifications why important?",
+      "options": {
+        "A": "Professional voice intro sets tone, energy, authority and brand expectation for first time listeners",
+        "B": "Voice intro must be AI generated always",
+        "C": "Only host voice allowed in intro",
+        "D": "No intro requirements exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sonic branding voice selection sets professional standard expectation from first seconds."
+    },
+    {
+      "qno": 75,
+      "question": "DAW editors 'Dithering' audio export settings option why utilized in final master export?",
+      "options": {
+        "A": "Add low-level noise to prevent quantization noise distortions when converting bit depth (eg 24-bit raw to 16-bit MP3)",
+        "B": "Only voice speed changer",
+        "C": "Direct file format conversion",
+        "D": "Zero dithering utility"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Dithering preserves low-level details during bit-depth reductions, keeping export audio natural."
+    },
+    {
+      "qno": 76,
+      "question": "Podcast promotion marketing checks 'Shownotes SEO' why show notes text descriptions need keywords?",
+      "options": {
+        "A": "Google search crawler indexes text descriptions, making podcast episodes discoverable via web searches",
+        "B": "Direct AdSense approval",
+        "C": "Watermark remove automated",
+        "D": "No SEO benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Show notes text content is primary search crawling material for search engine index integrations."
+    },
+    {
+      "qno": 77,
+      "question": "Microphones directional settings 'Omnidirectional' polar pattern usage setups target what?",
+      "options": {
+        "A": "Sound pickup equally from 360 degrees directions (ideal for round table multi guest sessions)",
+        "B": "Front side only heart shape pattern",
+        "C": "Back side only",
+        "D": "No sound pickup allowed"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Omnidirectional patterns captures ambient environment sound and multi voices with single microphone."
+    },
+    {
+      "qno": 78,
+      "question": "Podcast marketing strategies 'Video Podcasting' (releasing video version on YouTube) why growing rapidly?",
+      "options": {
+        "A": "YouTube algorithm recommendations push, visual connection with host and monetization options via YT partner program",
+        "B": "Video podcasting requires zero equipment",
+        "C": "Audio only podcasts are banned now",
+        "D": "No video benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Video format expands discovery reach via YouTube home feeds, shorts highlights and visual connection."
+    },
+    {
+      "qno": 79,
+      "question": "DAW editors 'Mute and Solo' track options what are their functions in multi-track editing?",
+      "options": {
+        "A": "Mute silences selected track, Solo mutes all other tracks except the selected one for focused listening",
+        "B": "Only target tags collection box",
+        "C": "Email subscription form directly input",
+        "D": "Copyright license coordinates"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mute/Solo buttons are vital navigation tools for mixing individual tracks in multi-track workspace."
+    },
+    {
+      "qno": 80,
+      "question": "Podcast recording gear setups 'Cloudlifter / Inline Preamp' why used with dynamic mics like Shure SM7B?",
+      "options": {
+        "A": "Provides clean +25dB gain boost to low-output dynamic mics before signal reaches audio interface preamps (preventing noise hiss)",
+        "B": "Mutes background hum directly",
+        "C": "Converts XLR to USB directly",
+        "D": "No preamp benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Inline preamps use phantom power to boost weak dynamic signals without adding preamp hiss noise."
+    },
+    {
+      "qno": 81,
+      "question": "Podcast show hosting 'RSS Feed validation check' during directory submission why important?",
+      "options": {
+        "A": "Ensures feed structure compliance, presence of required XML tags (title, category, audio path) before public listing approval",
+        "B": "Direct tax exemption check",
+        "C": "AdSense account login verification",
+        "D": "Subtitles file size format change"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Validation checks XML schema errors, preventing broken feed listings in directory platforms."
+    },
+    {
+      "qno": 82,
+      "question": "DAW audio editing 'Noise Reduction' process standard two-step workflow Audacity me kya hota hai?",
+      "options": {
+        "A": "1. Get Noise Profile (silent gap profile capture), 2. Apply filter to reduce profile frequencies from entire track",
+        "B": "Direct click one button to delete noise",
+        "C": "Increase voice speed volume directly",
+        "D": "Zero noise reduction steps exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Profile based noise reduction targets only continuous background noise frequencies without degrading host voice qualities."
+    },
+    {
+      "qno": 83,
+      "question": "Podcast directories 'Apple Podcasts reviews' marketing significance algorithm rankings me kya impact karta hai?",
+      "options": {
+        "A": "Reviews build social proof, ratings statistics and push show authority ranking in Apple directory search categories",
+        "B": "Monetization rates automatically double increase",
+        "C": "Subscribers base increase",
+        "D": "Zero updates checks"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "User reviews and ratings are trust signals that Apple directory charts algorithms check to recommend popular shows."
+    },
+    {
+      "qno": 84,
+      "question": "Podcast editing 'Plosives' audio problems definition what is it?",
+      "options": {
+        "A": "Harsh pop sounds generated by heavy air puffs hitting mic diaphragm directly during letters P, B, T speaking",
+        "B": "Spelling checking processes",
+        "C": "Subtitles file translation automatic",
+        "D": "AdSense account links verification"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Plosives generate high amplitude air blasts. Pop filters are physical shields used to prevent them."
+    },
+    {
+      "qno": 85,
+      "question": "Podcast guest coordination tools 'Scheduling links' (eg Calendly) B2B guest outreach me kyu utilize hotey hain?",
+      "options": {
+        "A": "Automated calendar synchronization, time zone checks and email reminder notifications templates for guest bookings",
+        "B": "Direct video editing format changes",
+        "C": "Lactometer configurations platforms",
+        "D": "Factory data registry books"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Calendly links coordination simplifies guest booking steps, preventing overlapping schedules."
+    },
+    {
+      "qno": 86,
+      "question": "Podcast monetization 'Sponsorship Read' models classifications 'Pre-roll, Mid-roll, Post-roll' me pre-roll ad typical placement kya hoti hai?",
+      "options": {
+        "A": "Episode start me (starting first 10-15% duration of episode, duration ~15-30 seconds)",
+        "B": "Episode middle me exactly at 50%",
+        "C": "Episode end me after outro",
+        "D": "No fixed placement constraints"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Pre-roll ads are placed at start, mid-roll in middle, post-roll at end. Mid-roll ads have highest CPM valuations."
+    },
+    {
+      "qno": 87,
+      "question": "Podcast analytics KPIs metrics 'Total listens / Plays' vs 'Unique Listeners' comparison reports significance kya hai?",
+      "options": {
+        "A": "Plays count total streaming sessions, Unique Listeners count individual people (filtering repetitive plays by same user)",
+        "B": "Unique listeners are always paid members",
+        "C": "Zero play differences exist",
+        "D": "Plays count represents download sizes"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Unique listeners count reflects real audience reach scale, plays count reflects content play frequency."
+    },
+    {
+      "qno": 88,
+      "question": "Podcast audio editing DAW Audacity 'Spectral View' (frequency view) display parameters checks why useful?",
+      "options": {
+        "A": "Visualizes audio frequencies density (helps to spot micro noise clicks or sirens background frequencies directly)",
+        "B": "Only target tags collection box",
+        "C": "Email subscription form directly input",
+        "D": "Copyright license coordinates"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Spectral analysis displays frequency footprint, allowing targeted notch edits of background tones/clicks."
+    },
+    {
+      "qno": 89,
+      "question": "Podcast audio export bitrates 'CBR 128 kbps Mono' export properties checks does mono format reduce file sizes?",
+      "options": {
+        "A": "Yes, mono format splits stereo channel to single channel, reducing MP3 file size by half while preserving voice quality",
+        "B": "No, mono size is double of stereo",
+        "C": "Mono format changes voice pitch",
+        "D": "Zero size difference exists"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Mono format contains single channel. For voice-only shows, mono CBR 128kbps is optimal for bandwidth and quality."
+    },
+    {
+      "qno": 90,
+      "question": "Podcast marketing strategies 'Guest swaps / Cross-promotions' what is it?",
+      "options": {
+        "A": "Two creators invite each other on their shows, promoting channels directly to similar targeted audiences (mutual growth)",
+        "B": "Exchanging physical studio equipment",
+        "C": "Deleting user databases blocks",
+        "D": "Zero cross benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Guest swap is organic cross-promotion, driving target interest subscribers to both shows without ad spending."
+    },
+    {
+      "qno": 91,
+      "question": "Podcast RSS feed XML schema checks 'Explicit Tag' (<itunes:explicit>) parameters significance rules checks what it restricts?",
+      "options": {
+        "A": "Must mark yes/no if content contains bad words or mature topics (incorrect tag can result in directory ban)",
+        "B": "Direct AdSense instant approval",
+        "C": "Watermark remove automated",
+        "D": "No verification exists"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Explicit tag is mandatory iTunes tag. Correct classification prevents show deletion from minor listener groups."
+    },
+    {
+      "qno": 92,
+      "question": "Podcast marketing checks 'Show description SEO' why primary keywords inclusion is key step?",
+      "options": {
+        "A": "Spotify/Apple search indexes show descriptions, helping users discover podcasts when searching general topics",
+        "B": "Direct AdSense approval",
+        "C": "Watermark remove automated",
+        "D": "No SEO benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Channel description search indexing crawler systems target relevance success factor."
+    },
+    {
+      "qno": 93,
+      "question": "Microphones directional settings 'Supercardioid' polar pattern compared to cardioid what is difference?",
+      "options": {
+        "A": "Supercardioid is narrower directional focus front pickup, but has small sound pickup lobe directly rear/back side",
+        "B": "Omnidirectional 360 degrees equal pickup",
+        "C": "No sound pickup allowed",
+        "D": "Zero differences exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Supercardioid polar pattern is highly focused front pickup, but requires rear sound source isolation checks."
+    },
+    {
+      "qno": 94,
+      "question": "Podcast marketing strategies 'Video clips / Shorts highlight creation' why important?",
+      "options": {
+        "A": "Extract short engaging 30-60s video moments to distribute on Reels/Tiktok to funnel traffic to full audio episodes",
+        "B": "Shorts highlights require zero equipment",
+        "C": "Audio only podcasts are banned now",
+        "D": "No video benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Shorts visual highlight reels are powerful discovery channels, driving traffic to anchor audio directories."
+    },
+    {
+      "qno": 95,
+      "question": "DAW editors 'Volume Automation / Keyframes' what is its function?",
+      "options": {
+        "A": "Finetuning volume level change at specific points of timeline tracks dynamically during mixing playbacks",
+        "B": "Only target tags collection box",
+        "C": "Email subscription form directly input",
+        "D": "Copyright license coordinates"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Volume automation adjusts music fades and levels dynamically, ensuring clean audio mix integrations."
+    },
+    {
+      "qno": 96,
+      "question": "Podcast recording gear setups 'FetHead / Inline Preamp' why used with dynamic mics?",
+      "options": {
+        "A": "Provides clean +25dB gain boost to low-output dynamic mics before signal reaches audio interface preamps (preventing noise hiss)",
+        "B": "Mutes background hum directly",
+        "C": "Converts XLR to USB directly",
+        "D": "No preamp benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Inline preamps use phantom power to boost weak dynamic signals without adding preamp hiss noise."
+    },
+    {
+      "qno": 97,
+      "question": "Podcast show hosting 'RSS Feed validation check' why important?",
+      "options": {
+        "A": "Ensures feed structure compliance, presence of required XML tags (title, category, audio path) before public listing approval",
+        "B": "Direct tax exemption check",
+        "C": "AdSense account login verification",
+        "D": "Subtitles file size format change"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Validation checks XML schema errors, preventing broken feed listings in directory platforms."
+    },
+    {
+      "qno": 98,
+      "question": "DAW audio editing 'Noise Profile' capture standard workflow Audacity me kya hota hai?",
+      "options": {
+        "A": "1. Get Noise Profile (silent gap profile capture), 2. Apply filter to reduce profile frequencies from entire track",
+        "B": "Direct click one button to delete noise",
+        "C": "Increase voice speed volume directly",
+        "D": "Zero noise reduction steps exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Profile based noise reduction targets only continuous background noise frequencies without degrading host voice qualities."
+    },
+    {
+      "qno": 99,
+      "question": "Podcast directories 'Apple Podcasts connect reviews' ranking algorithm significance?",
+      "options": {
+        "A": "Reviews build social proof, ratings statistics and push show authority ranking in Apple directory search categories",
+        "B": "Monetization rates automatically double increase",
+        "C": "Subscribers base increase",
+        "D": "Zero updates checks"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "User reviews and ratings are trust signals that Apple directory charts algorithms check to recommend popular shows."
+    },
+    {
+      "qno": 100,
+      "question": "Podcast Production Basics final mastering validation checks why LUFS compliance target is key final step?",
+      "options": {
+        "A": "Ensures uniform loudness matching with all other global shows on streaming platforms prevent listeners volume adjustments",
+        "B": "Video editing file sizes compression",
+        "C": "Subtitles translate tools automatic",
+        "D": "Zero utility coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "LUFS compliance (typically -16 LUFS) is mandatory industry standard, preventing digital sound clipping or volume drops in streaming players."
+    }
+  ]
+}

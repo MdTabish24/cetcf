@@ -1,0 +1,1443 @@
+{
+  "course_name": "Inverter & Battery System Technician",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Electrical Concepts & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Battery Technology & Maintenance",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Inverter Basics & Types",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Inverter & Battery Installation",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Troubleshooting & Common Faults",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Advanced Concepts & Customer Service",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Voltage ki SI unit kya hai?",
+      "options": {
+        "A": "Ampere",
+        "B": "Volt",
+        "C": "Ohm",
+        "D": "Watt"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Voltage ki SI unit Volt hoti hai, jo electrical potential difference ko measure karti hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ohm's Law ke according, current (I) ka formula kya hai?",
+      "options": {
+        "A": "I = V/R",
+        "B": "I = V*R",
+        "C": "I = R/V",
+        "D": "I = V+R"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ohm's Law ke anusaar, current (I) voltage (V) ke directly proportional aur resistance (R) ke inversely proportional hota hai, yani I = V/R."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ek circuit mein resistance ko measure karne ke liye kaunsa instrument use hota hai?",
+      "options": {
+        "A": "Ammeter",
+        "B": "Voltmeter",
+        "C": "Ohmmeter",
+        "D": "Wattmeter"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Resistance ko measure karne ke liye Ohmmeter ka upyog kiya jata hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "AC current ka full form kya hai?",
+      "options": {
+        "A": "Alternate Current",
+        "B": "Alternating Current",
+        "C": "Applied Current",
+        "D": "Automatic Current"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AC ka full form Alternating Current hota hai, jismein current ki direction periodic tareeke se change hoti rehti hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Electrical shock se bachne ke liye sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "Water dalna",
+        "B": "Circuit ko disconnect karna",
+        "C": "Insulated gloves pehenna",
+        "D": "Victim ko pakadna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electrical shock ki sthiti mein sabse pehle power source ko disconnect karna chahiye taaki current flow ruk jaaye aur aage ka nuksaan na ho."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Power ki unit kya hai?",
+      "options": {
+        "A": "Joule",
+        "B": "Watt",
+        "C": "Volt-Ampere",
+        "D": "Farad"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical power ki unit Watt hoti hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Series circuit mein total resistance kaise calculate karte hain?",
+      "options": {
+        "A": "R_total = R1 + R2 + ...",
+        "B": "1/R_total = 1/R1 + 1/R2 + ...",
+        "C": "R_total = R1 * R2 / (R1 + R2)",
+        "D": "R_total = R1 * R2"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Series circuit mein total resistance individual resistances ka sum hota hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Earthing ka primary purpose kya hai?",
+      "options": {
+        "A": "Current badhana",
+        "B": "Voltage ko regulate karna",
+        "C": "Electrical safety provide karna",
+        "D": "Circuit ko complex banana"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Earthing ka mukhya uddeshya electrical appliances aur users ko fault current se bachakar electrical safety provide karna hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Multimeter ka use kis liye kiya jata hai?",
+      "options": {
+        "A": "Sirf voltage measure karne ke liye",
+        "B": "Sirf current measure karne ke liye",
+        "C": "Voltage, current aur resistance measure karne ke liye",
+        "D": "Sirf temperature measure karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Multimeter ek versatile tool hai jo voltage, current aur resistance ko measure karne ke liye use hota hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Ek 12V battery aur 3 Ohm resistor wale circuit mein kitna current flow hoga?",
+      "options": {
+        "A": "4 Ampere",
+        "B": "36 Ampere",
+        "C": "0.25 Ampere",
+        "D": "12 Ampere"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ohm's Law ke anusaar, I = V/R = 12V / 3 Ohm = 4 Ampere."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Insulated tools ka use kyu zaroori hai electrical work mein?",
+      "options": {
+        "A": "Tools ko sundar banane ke liye",
+        "B": "Electrical shock se bachav ke liye",
+        "C": "Tools ki life badhane ke liye",
+        "D": "Tools ko slip hone se bachane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Insulated tools electrical shock se technician ko bachate hain, kyunki unki handle non-conductive material se bani hoti hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Capacitor ka primary function kya hai?",
+      "options": {
+        "A": "Current ko block karna",
+        "B": "Electrical energy store karna",
+        "C": "Resistance provide karna",
+        "D": "Voltage ko amplify karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Capacitor electrical charge ko store karta hai aur circuit mein energy storage device ki tarah kaam karta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Fuse ka kya role hota hai electrical circuit mein?",
+      "options": {
+        "A": "Circuit ko on/off karna",
+        "B": "Overcurrent se circuit ko protect karna",
+        "C": "Voltage ko boost karna",
+        "D": "Current ko regulate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fuse ek safety device hai jo overcurrent ya short-circuit ki sthiti mein circuit ko open karke protect karta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "What does 'kW' stand for?",
+      "options": {
+        "A": "Kilo-Volt",
+        "B": "Kilo-Watt",
+        "C": "Kilo-Ampere",
+        "D": "Kilo-Ohm"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "'kW' Kilo-Watt ka abbreviation hai, jo power ki unit hai (1 kW = 1000 Watts)."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Parallel circuit mein total voltage kya hota hai?",
+      "options": {
+        "A": "Har component par same",
+        "B": "Individual voltages ka sum",
+        "C": "Individual voltages ka product",
+        "D": "Total current par depend karta hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Parallel circuit mein har branch mein voltage same rehta hai, jo source voltage ke barabar hota hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "PVC insulation ka kya fayda hai electrical wires mein?",
+      "options": {
+        "A": "Current ko increase karta hai",
+        "B": "Heat generation kam karta hai",
+        "C": "Electrical current leakage se bachata hai",
+        "D": "Wire ko zyada flexible banata hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "PVC (Polyvinyl Chloride) ek accha insulator hai jo wires ko short-circuit aur current leakage se protect karta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek 240V, 10A supply se kitni maximum power draw ki ja sakti hai?",
+      "options": {
+        "A": "2400 Watt",
+        "B": "24 Watt",
+        "C": "240 Watt",
+        "D": "24000 Watt"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Power (P) = Voltage (V) * Current (I). So, P = 240V * 10A = 2400 Watts."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Battery capacity kis unit mein measure ki jaati hai?",
+      "options": {
+        "A": "Volts (V)",
+        "B": "Watts (W)",
+        "C": "Ampere-hours (Ah)",
+        "D": "Ohms (Ω)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Battery ki capacity Ampere-hours (Ah) mein measure ki jaati hai, jo batati hai ki battery kitne time tak kitna current deliver kar sakti hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Lead-acid battery mein electrolyte ke roop mein kya use hota hai?",
+      "options": {
+        "A": "Distilled water",
+        "B": "Sulfuric acid aur distilled water ka mixture",
+        "C": "Hydrochloric acid",
+        "D": "Sodium chloride solution"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lead-acid battery mein electrolyte dilute sulfuric acid (sulfuric acid aur distilled water ka mixture) hota hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Battery charging ke dauran, electrolyte ka specific gravity kya hota hai?",
+      "options": {
+        "A": "Ghat ta hai",
+        "B": "Badhta hai",
+        "C": "Same rehta hai",
+        "D": "Pehle badhta hai phir ghat ta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Charging ke dauran, electrolyte mein sulfuric acid ki concentration badhti hai, jisse specific gravity badhta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Deep discharge se battery par kya asar padta hai?",
+      "options": {
+        "A": "Battery ki life badhti hai",
+        "B": "Battery ki capacity badhti hai",
+        "C": "Battery ko nuksaan hota hai aur life kam hoti hai",
+        "D": "Koi asar nahi padta"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Deep discharge se battery plates par sulfation hota hai, jisse battery ki capacity aur life kam ho jaati hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Battery terminals ko clean rakhna kyu zaroori hai?",
+      "options": {
+        "A": "Battery ko sundar dikhane ke liye",
+        "B": "Good electrical contact maintain karne ke liye",
+        "C": "Battery ka weight kam karne ke liye",
+        "D": "Battery ko garam hone se bachane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Saaf terminals good electrical contact ensure karte hain, jisse charging aur discharging efficient hoti hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "SMF battery ka full form kya hai?",
+      "options": {
+        "A": "Sealed Maintenance Free",
+        "B": "Standard Multi-Function",
+        "C": "Sealed Modular Factory",
+        "D": "Solid Material Fused"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "SMF ka full form Sealed Maintenance Free hai, jo batata hai ki in batteries ko water topping ki zaroorat nahi hoti."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Hydrometer ka use kis liye kiya jata hai?",
+      "options": {
+        "A": "Battery voltage check karne ke liye",
+        "B": "Battery current check karne ke liye",
+        "C": "Electrolyte ka specific gravity check karne ke liye",
+        "D": "Battery ka temperature check karne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Hydrometer electrolyte ke specific gravity ko measure karta hai, jo battery ke state of charge ko darshata hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Battery ko series mein connect karne se kya hota hai?",
+      "options": {
+        "A": "Voltage badhta hai, Ah rating same rehti hai",
+        "B": "Voltage same rehta hai, Ah rating badhti hai",
+        "C": "Voltage aur Ah rating dono badhte hain",
+        "D": "Voltage aur Ah rating dono kam hote hain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Batteries ko series mein connect karne se total voltage badhta hai, jabki Ampere-hour (Ah) rating same rehti hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Battery ko parallel mein connect karne se kya hota hai?",
+      "options": {
+        "A": "Voltage badhta hai, Ah rating same rehti hai",
+        "B": "Voltage same rehta hai, Ah rating badhti hai",
+        "C": "Voltage aur Ah rating dono badhte hain",
+        "D": "Voltage aur Ah rating dono kam hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Batteries ko parallel mein connect karne se total voltage same rehta hai, jabki Ampere-hour (Ah) rating badhti hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Battery charging ke liye kaunsa current type prefer kiya jata hai?",
+      "options": {
+        "A": "AC (Alternating Current)",
+        "B": "DC (Direct Current)",
+        "C": "Both AC and DC",
+        "D": "High frequency AC"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Batteries ko charge karne ke liye DC (Direct Current) ki zaroorat hoti hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Overcharging se battery par kya asar padta hai?",
+      "options": {
+        "A": "Battery ki life badhti hai",
+        "B": "Electrolyte level badhta hai",
+        "C": "Battery overheat hoti hai, gas release karti hai aur life kam hoti hai",
+        "D": "Battery ki internal resistance kam hoti hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Overcharging se battery overheat ho sakti hai, excessive gassing ho sakti hai aur battery ki life kam ho jaati hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Battery room mein proper ventilation kyu zaroori hai?",
+      "options": {
+        "A": "Battery ko thanda rakhne ke liye",
+        "B": "Explosive gases ko bahar nikalne ke liye",
+        "C": "Dust ko andar aane se rokne ke liye",
+        "D": "Noise kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Charging ke dauran batteries hydrogen gas release karti hain, jo explosive ho sakti hai. Proper ventilation isse bahar nikalne mein madad karta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Battery sulfation kya hota hai?",
+      "options": {
+        "A": "Battery terminals ka corrosion",
+        "B": "Battery plates par lead sulfate crystals ka build-up",
+        "C": "Electrolyte ka dry ho jaana",
+        "D": "Battery cells ka short-circuit ho jaana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sulfation tab hota hai jab battery plates par lead sulfate crystals jam jaate hain, jisse battery ki charging-discharging capability kam ho jaati hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Normal operating conditions mein battery ka ideal temperature range kya hona chahiye?",
+      "options": {
+        "A": "0-10°C",
+        "B": "20-30°C",
+        "C": "40-50°C",
+        "D": "Above 60°C"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Batteries ke liye 20-30°C ka temperature range ideal hota hai. Zyada high ya low temperature battery life par negative asar dalta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Lithium-ion batteries ke kya fayde hain lead-acid batteries ke comparison mein?",
+      "options": {
+        "A": "Zyada sasti hoti hain",
+        "B": "Zyada heavy hoti hain",
+        "C": "High energy density aur long cycle life",
+        "D": "Maintenance zyada zaroori hoti hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Lithium-ion batteries ki energy density zyada hoti hai, lighter hoti hain aur unki cycle life lead-acid batteries se behtar hoti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Agar battery cells mein water level low ho jaye, toh kya add karna chahiye?",
+      "options": {
+        "A": "Tap water",
+        "B": "Sulfuric acid",
+        "C": "Distilled water",
+        "D": "Salt water"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Battery electrolyte level maintain karne ke liye sirf distilled water add karna chahiye, kyunki tap water mein impurities hoti hain jo battery ko nuksaan pahuncha sakti hain."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Battery backup time ko kis factor se badhaya ja sakta hai?",
+      "options": {
+        "A": "Smaller capacity battery use karke",
+        "B": "Load badhakar",
+        "C": "Higher Ah rating ki battery ya multiple batteries parallel mein connect karke",
+        "D": "Battery voltage kam karke"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Battery backup time badhane ke liye ya toh zyada Ah rating ki battery use karni chahiye ya multiple batteries ko parallel mein connect karke total Ah rating badhani chahiye."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Inverter ka primary function kya hai?",
+      "options": {
+        "A": "AC ko DC mein convert karna",
+        "B": "DC ko AC mein convert karna",
+        "C": "Voltage ko step-up karna",
+        "D": "Current ko regulate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inverter DC (battery) power ko AC power mein convert karta hai, jisse ghar ke appliances chalaye ja sakte hain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "UPS ka full form kya hai?",
+      "options": {
+        "A": "Under Power System",
+        "B": "Uninterruptible Power Supply",
+        "C": "Universal Power Source",
+        "D": "Unit Power System"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "UPS ka full form Uninterruptible Power Supply hai, jo power cut hone par devices ko bina rukawat ke power supply karta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Kaunsa inverter type sensitive electronic appliances ke liye best hai?",
+      "options": {
+        "A": "Square wave inverter",
+        "B": "Modified sine wave inverter",
+        "C": "Pure sine wave inverter",
+        "D": "Block wave inverter"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pure sine wave inverter grid power jaisa smooth aur clean output deta hai, isliye yeh sensitive electronics (jaise laptops, medical equipment) ke liye sabse accha hota hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Inverter ki rating kis unit mein di jaati hai?",
+      "options": {
+        "A": "Watts (W)",
+        "B": "Amperes (A)",
+        "C": "Volt-Ampere (VA)",
+        "D": "Ohms (Ω)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Inverter ki rating Volt-Ampere (VA) mein di jaati hai, jo uski apparent power ko darshati hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Ek inverter mein battery charger ka kya role hota hai?",
+      "options": {
+        "A": "Battery ko discharge karna",
+        "B": "AC mains se battery ko charge karna",
+        "C": "DC ko AC mein convert karna",
+        "D": "Load ko directly power supply karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inverter mein battery charger AC mains power ka use karke battery ko charge karta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Modified sine wave inverter ka output kaisa hota hai?",
+      "options": {
+        "A": "Grid power jaisa smooth",
+        "B": "Square wave aur pure sine wave ke beech ka",
+        "C": "Sirf DC output",
+        "D": "Constant voltage output"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Modified sine wave inverter ka output square wave se behtar hota hai, par pure sine wave jitna smooth nahi hota. Ismein steps hote hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Inverter ki efficiency kis baat par depend karti hai?",
+      "options": {
+        "A": "Inverter ke size par",
+        "B": "Input DC voltage par",
+        "C": "Kitni input power output power mein convert ho rahi hai",
+        "D": "Inverter ke color par"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Inverter ki efficiency yeh batati hai ki kitni input DC power ko successfully AC output power mein convert kiya gaya, bina zyada loss ke."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Standby UPS kya hota hai?",
+      "options": {
+        "A": "Hamesha battery par chalta hai",
+        "B": "Power cut hone par hi battery par switch karta hai",
+        "C": "Sirf server rooms mein use hota hai",
+        "D": "Battery ko kabhi charge nahi karta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Standby UPS normal conditions mein mains power par chalta hai aur power cut hone par battery power par switch karta hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Online UPS ka kya fayda hai?",
+      "options": {
+        "A": "Sasta hota hai",
+        "B": "Switchover time zero hota hai",
+        "C": "Maintenance free hota hai",
+        "D": "Zyada energy efficient hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Online UPS mein load hamesha inverter ke through power hota hai, jisse power cut hone par switchover time zero hota hai aur continuous power supply milti hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Inverter ke cooling fan ka kya purpose hai?",
+      "options": {
+        "A": "Inverter ko garam karna",
+        "B": "Inverter ke internal components ko thanda rakhna",
+        "C": "Noise create karna",
+        "D": "Inverter ko dust-free rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inverter ke operation ke dauran heat generate hoti hai, cooling fan us heat ko dissipate karke components ko over-heating se bachata hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Pure sine wave output ki frequency kya hoti hai?",
+      "options": {
+        "A": "50 Hz ya 60 Hz",
+        "B": "Variable frequency",
+        "C": "Only 100 Hz",
+        "D": "Only 10 Hz"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pure sine wave inverter ka output frequency grid standard ke according 50 Hz (India mein) ya 60 Hz hota hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Power factor ka kya importance hai inverter selection mein?",
+      "options": {
+        "A": "Isko ignore kiya ja sakta hai",
+        "B": "Yeh batata hai ki kitni real power use ho rahi hai",
+        "C": "Yeh inverter ke weight ko decide karta hai",
+        "D": "Yeh sirf DC systems ke liye important hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Power factor batata hai ki total apparent power (VA) mein se kitni real power (Watts) actually use ho rahi hai. Low power factor ka matlab hai ki zyada VA rating wale inverter ki zaroorat padegi real power load ko supply karne ke liye."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Inverter mein 'Bypass Mode' ka kya matlab hai?",
+      "options": {
+        "A": "Inverter battery par chal raha hai",
+        "B": "Inverter faulty hai",
+        "C": "Load directly mains supply se chal raha hai, inverter use nahi ho raha",
+        "D": "Inverter charge ho raha hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bypass mode mein inverter ka load directly mains supply se connect ho jata hai, aur inverter ka circuit inactive ho jata hai. Yeh maintenance ya fault ke dauran use hota hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Solar Inverter ka primary kaam kya hai?",
+      "options": {
+        "A": "Battery ko discharge karna",
+        "B": "Solar panels se generate DC ko AC mein convert karna",
+        "C": "Mains supply ko stabilize karna",
+        "D": "Sirf batteries charge karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Solar inverter solar panels se generate ki gayi DC electricity ko AC electricity mein convert karta hai, jisse ghar aur grid ko power mil sake."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Hybrid Inverter kya hota hai?",
+      "options": {
+        "A": "Sirf solar energy use karta hai",
+        "B": "Sirf grid energy use karta hai",
+        "C": "Solar panels, batteries aur grid ko manage kar sakta hai",
+        "D": "Diesel generator se chalta hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Hybrid inverter solar panels, batteries aur grid power sources ko intelligently manage karta hai, optimal energy utilization ke liye."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Inverter ki output voltage ko check karne ke liye kaunsa setting use karenge multimeter par?",
+      "options": {
+        "A": "DCV",
+        "B": "ACV",
+        "C": "DCA",
+        "D": "Ohms"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inverter ka output AC voltage hota hai, isliye multimeter ko ACV (Alternating Current Voltage) setting par set karna hoga."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Ek 1000VA inverter kitne Watts ka load support kar sakta hai agar power factor 0.8 ho?",
+      "options": {
+        "A": "1000 Watts",
+        "B": "800 Watts",
+        "C": "1250 Watts",
+        "D": "200 Watts"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Real Power (Watts) = Apparent Power (VA) * Power Factor. So, 1000 VA * 0.8 = 800 Watts."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Inverter installation ke liye sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "Directly wires connect karna",
+        "B": "Site survey aur load calculation karna",
+        "C": "Battery ko charge karna",
+        "D": "Inverter ko switch on karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Installation se pehle site survey aur load calculation karna zaroori hai, taaki sahi capacity ka inverter aur battery select kiya ja sake."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Inverter ko kahan install karna chahiye?",
+      "options": {
+        "A": "Direct sunlight mein",
+        "B": "Ventilated aur cool jagah par",
+        "C": "Geeli jagah par",
+        "D": "Jahan bahut dust ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inverter ko ventilated aur cool jagah par install karna chahiye, taaki over-heating na ho aur uski efficiency bani rahe."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Battery aur inverter ke beech kaunse type ki cable use karni chahiye?",
+      "options": {
+        "A": "Thin household wiring",
+        "B": "Thick, low resistance DC cables",
+        "C": "Coaxial cable",
+        "D": "Network cable"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery aur inverter ke beech high current flow hota hai, isliye thick, low resistance DC cables use karni chahiye taaki voltage drop aur heat loss kam ho."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Inverter installation mein earthing kyu zaroori hai?",
+      "options": {
+        "A": "Inverter ki performance badhane ke liye",
+        "B": "Electrical shocks se bachav ke liye",
+        "C": "Battery charging speed badhane ke liye",
+        "D": "Inverter ko aesthetic look dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Earthing electrical safety ke liye critical hai, yeh fault current ko zameen mein divert karke shock se bachata hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "MCB (Miniature Circuit Breaker) ka kya role hai inverter wiring mein?",
+      "options": {
+        "A": "Voltage ko regulate karna",
+        "B": "Overcurrent aur short-circuit se protection provide karna",
+        "C": "Battery ko charge karna",
+        "D": "AC ko DC mein convert karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MCB ek safety device hai jo overcurrent ya short-circuit hone par circuit ko automatically trip karke protect karta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Inverter ko mains supply se connect karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Directly plug in karna",
+        "B": "Mains supply ko disconnect karna aur phir wiring karna",
+        "C": "Wiring karte samay load on rakhna",
+        "D": "Thin wires use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical hazards se bachne ke liye, mains supply ko disconnect karna aur safety precautions lena bahut zaroori hai wiring karte samay."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Battery ko inverter se connect karte samay polarity ka kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Polarity matter nahi karti",
+        "B": "Positive ko negative se connect karna",
+        "C": "Positive ko positive se aur negative ko negative se connect karna",
+        "D": "Sirf ek terminal connect karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Sahi polarity (positive to positive, negative to negative) ka dhyan rakhna bahut zaroori hai, galat connection se inverter aur battery dono ko nuksaan ho sakta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Load ko inverter se connect karte samay kya check karna zaroori hai?",
+      "options": {
+        "A": "Load ka color",
+        "B": "Load ki VA rating inverter ki capacity se zyada na ho",
+        "C": "Load sirf AC ho",
+        "D": "Load sirf DC ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Inverter par overload se bachne ke liye, connected load ki total VA rating inverter ki capacity se zyada nahi honi chahiye."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Agar inverter aur battery ke beech cable lambi ho, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Battery jaldi charge hogi",
+        "B": "Voltage drop aur heat loss badhega",
+        "C": "Inverter zyada efficient hoga",
+        "D": "Koi problem nahi hogi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lambi cables mein resistance zyada hota hai, jisse voltage drop aur heat loss badhta hai, aur system ki efficiency kam ho jaati hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Battery bank ko secure kyu karna chahiye?",
+      "options": {
+        "A": "Chori se bachane ke liye",
+        "B": "Physical damage aur accidental contact se bachane ke liye",
+        "C": "Zyada garam hone se bachane ke liye",
+        "D": "Zyada thanda hone se bachane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Battery bank ko secure karna physical damage, accidental short-circuits aur acid spills se bachav ke liye zaroori hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Inverter system ke liye proper fuse selection kyu zaroori hai?",
+      "options": {
+        "A": "Fuse ko sundar dikhane ke liye",
+        "B": "System ko overcurrent se protect karne ke liye",
+        "C": "System ki efficiency badhane ke liye",
+        "D": "Voltage ko regulate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sahi rating ka fuse system ko overcurrent aur short-circuit se bachata hai, jisse equipment safe rehta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Inverter ke output terminals par kya check karna chahiye wiring ke baad?",
+      "options": {
+        "A": "Temperature",
+        "B": "Sahi AC voltage aur frequency",
+        "C": "DC voltage",
+        "D": "Resistance"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wiring complete hone ke baad, multimeter se inverter ke output terminals par sahi AC voltage (220-240V) aur frequency (50Hz) check karna zaroori hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Agar ek inverter system mein multiple batteries hain, toh unhe kaise connect karna chahiye?",
+      "options": {
+        "A": "Randomly",
+        "B": "Sabhi ko series mein",
+        "C": "Sabhi ko parallel mein",
+        "D": "Required voltage aur capacity ke according series aur parallel combination mein"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Multiple batteries ko inverter ki requirement ke hisaab se series aur parallel combinations mein connect kiya jata hai, taaki desired voltage aur Ah rating mil sake."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Inverter installation ke liye kaunsa tool sabse zaroori hai?",
+      "options": {
+        "A": "Hammer",
+        "B": "Multimeter",
+        "C": "Paintbrush",
+        "D": "Drill machine"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Multimeter voltage, current aur continuity check karne ke liye sabse zaroori tool hai electrical installations mein."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Inverter installation ke baad, first time power on karte samay kya check karna chahiye?",
+      "options": {
+        "A": "Noise level",
+        "B": "Inverter ke indicators aur display par koi error code toh nahi hai",
+        "C": "Inverter ka color",
+        "D": "Battery ka weight"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "First time power on karte samay inverter ke indicators aur display par koi error code ya warning check karna chahiye, taaki koi wiring ya internal fault detect ho sake."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Inverter ke liye dedicated wiring kyu prefer ki jaati hai?",
+      "options": {
+        "A": "Cost kam karne ke liye",
+        "B": "Existing wiring par load kam karne aur safety badhane ke liye",
+        "C": "Inverter ko zyada garam karne ke liye",
+        "D": "Sirf aesthetic reasons ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dedicated wiring existing circuits par load kam karti hai aur inverter ke output ko separate karke safety aur stability badhati hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Agar inverter installation ke dauran koi spark ya smoke dikhe toh kya karna chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Turant power supply disconnect karna",
+        "C": "Water dalna",
+        "D": "Aur wires connect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spark ya smoke electrical fault ka indication hai, turant power supply disconnect karna chahiye safety ke liye."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Agar inverter 'Overload' show kar raha hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Battery fully charged hai",
+        "B": "Connected load inverter ki capacity se zyada hai",
+        "C": "Inverter ka fan kharab hai",
+        "D": "Mains supply nahi aa rahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Overload ka matlab hai ki inverter par uski rated capacity se zyada load connect kiya gaya hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Inverter 'No Output' de raha hai, iska ek common reason kya ho sakta hai?",
+      "options": {
+        "A": "Battery fully charged hai",
+        "B": "Battery low ya disconnected hai",
+        "C": "Inverter ka fan chal raha hai",
+        "D": "Mains supply aa rahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar battery low hai ya disconnected hai, toh inverter ko DC input nahi milegi aur woh AC output generate nahi kar payega."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Battery jaldi discharge ho rahi hai, kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Battery overcharged hai",
+        "B": "Battery ki capacity kam ho gayi hai ya load zyada hai",
+        "C": "Inverter ka fan chal nahi raha",
+        "D": "Mains supply stable hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery ka jaldi discharge hona uski ghat ti capacity (age, sulfation) ya us par zyada load hone ka sanket ho sakta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Inverter mein 'Mains Fail' indicator blink kar raha hai, iska kya matlab hai?",
+      "options": {
+        "A": "Battery low hai",
+        "B": "Inverter overload hai",
+        "C": "Mains (grid) power supply available nahi hai",
+        "D": "Inverter ka fan kharab hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mains Fail indicator batata hai ki inverter ko grid power nahi mil rahi hai aur woh battery backup par switch ho gaya hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Agar battery charge nahi ho rahi hai, toh kya check karna chahiye sabse pehle?",
+      "options": {
+        "A": "Inverter ka output voltage",
+        "B": "Mains input supply aur inverter ke charger section ko",
+        "C": "Load connection",
+        "D": "Inverter ka fan"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery charge na hone ka primary reason mains input supply ka na aana ya inverter ke charger section mein fault hona ho sakta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Battery terminals par white powdery substance kya indicate karta hai?",
+      "options": {
+        "A": "Battery fully charged hai",
+        "B": "Battery overheated hai",
+        "C": "Corrosion, jo poor connection ka karan ban sakta hai",
+        "D": "Battery ki life badh gayi hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "White powdery substance corrosion hota hai, jo battery terminals par poor electrical contact aur resistance badha sakta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Inverter se humming noise aa rahi hai, kya karan ho sakta hai?",
+      "options": {
+        "A": "Normal operation hai",
+        "B": "Loose connections ya transformer mein issue",
+        "C": "Battery fully charged hai",
+        "D": "Fan chal nahi raha"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Humming noise loose connections, transformer ke vibrations ya internal component issues ka sanket ho sakti hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Electrical fire ko bujhane ke liye kaunsa extinguisher use karna chahiye?",
+      "options": {
+        "A": "Water based extinguisher",
+        "B": "Foam based extinguisher",
+        "C": "CO2 (Carbon Dioxide) ya Dry Chemical (ABC) extinguisher",
+        "D": "Sand"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Electrical fires (Class C) ke liye CO2 ya Dry Chemical (ABC) extinguisher use karna chahiye, kyunki water conductive hota hai aur aag ko badha sakta hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar inverter 'Low Battery' error dikha raha hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Aur load connect karna",
+        "B": "Battery connections check karna aur charge hone ka wait karna",
+        "C": "Inverter ko restart karna",
+        "D": "Battery ko replace karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Low battery error ka matlab hai ki battery ka charge level kam hai. Battery connections check karein aur use charge hone dein. Agar phir bhi problem aaye toh battery health check karein."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Inverter se bad smell (jaise jali hui plastic) aa rahi hai, kya indicate karta hai?",
+      "options": {
+        "A": "Normal hai",
+        "B": "Internal component (jaise capacitor, transformer) burn ho raha hai",
+        "C": "Battery overcharged hai",
+        "D": "Dust jam gayi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jali hui plastic ya kisi aur cheez ki bad smell internal component ke damage ya burning ka sanket hai, turant inverter ko band karna chahiye."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Inverter ke fuse bar-bar udh rahe hain, kya problem ho sakti hai?",
+      "options": {
+        "A": "Fuse ki quality kharab hai",
+        "B": "Overload ya short-circuit hai circuit mein",
+        "C": "Battery charging nahi ho rahi hai",
+        "D": "Inverter ka fan kharab hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fuses ka bar-bar udhna kisi bade overload ya short-circuit ka indication hai, jise investigate karna zaroori hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Battery acid spill hone par kya karna chahiye?",
+      "options": {
+        "A": "Paani se dhona",
+        "B": "Neutralize karne ke liye baking soda solution use karna",
+        "C": "Kapde se saaf karna",
+        "D": "Ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery acid corrosive hota hai. Spill hone par use baking soda aur paani ke solution se neutralize karna chahiye, phir saaf karna chahiye."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Agar inverter ka display kaam nahi kar raha, lekin inverter chal raha hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Inverter ka output nahi hai",
+        "B": "Display unit ya uski wiring mein fault",
+        "C": "Battery low hai",
+        "D": "Inverter overload hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar inverter functional hai lekin display blank hai, toh display unit ya uski internal wiring mein fault ho sakta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Safety glasses kyu pehenne chahiye battery maintenance karte samay?",
+      "options": {
+        "A": "Style ke liye",
+        "B": "Battery acid ke splashes se aankhon ko bachane ke liye",
+        "C": "Battery ko saaf rakhne ke liye",
+        "D": "Better visibility ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Battery acid corrosive hota hai aur aankhon ke liye bahut nuksaan deh. Safety glasses aankhon ko acid splashes se bachate hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Multimeter se continuity check karne ka kya fayda hai?",
+      "options": {
+        "A": "Voltage measure karna",
+        "B": "Current measure karna",
+        "C": "Circuit mein break ya open circuit ko detect karna",
+        "D": "Resistance measure karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Continuity check se yeh pata chalta hai ki circuit mein electrical path complete hai ya kahi break (open circuit) hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Loose electrical connections ke kya khatre hain?",
+      "options": {
+        "A": "Sirf aesthetic problem",
+        "B": "Resistance badhna, overheating, sparks aur fire hazard",
+        "C": "Battery life kam hona",
+        "D": "Inverter ka fan ruk jaana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Loose connections se resistance badhta hai, jisse heat generate hoti hai, sparks nikal sakte hain aur fire ka khatra badh jata hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Customer ko inverter ke bare mein kya common advice deni chahiye?",
+      "options": {
+        "A": "Inverter ko hamesha overload rakho",
+        "B": "Battery water level regularly check karo aur ventilated area mein rakho",
+        "C": "Inverter ko direct sunlight mein rakho",
+        "D": "Battery ko kabhi charge mat karo"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ko battery water level check karne aur proper ventilation maintain karne ki salah deni chahiye, yeh battery life aur safety ke liye important hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Energy efficiency badhane ke liye kya tip denge?",
+      "options": {
+        "A": "Zyada power consuming appliances use karo",
+        "B": "LED lights use karo aur unnecessary appliances band rakho",
+        "C": "Inverter ko hamesha on rakho",
+        "D": "Old appliances use karo"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "LED lights kam power consume karti hain aur unnecessary appliances ko band rakhne se overall energy consumption kam hota hai, jisse backup time badhta hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Customer complaint ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Dhyan se sunna, problem ko samajhna aur professional solution dena",
+        "C": "Customer se argue karna",
+        "D": "Turant replace karne ki salah dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek acche technician ko customer ki baat dhyan se sunni chahiye, problem ko analyze karna chahiye aur professional tareeke se solution provide karna chahiye."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Solar panel inverter system ka kya fayda hai?",
+      "options": {
+        "A": "Sirf raat mein kaam karta hai",
+        "B": "Electricity bill kam karta hai aur environment-friendly hai",
+        "C": "Zyada maintenance ki zaroorat padti hai",
+        "D": "Sirf high-rise buildings ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Solar panel inverter systems renewable energy ka use karte hain, jisse electricity bill kam hota hai aur yeh environment ke liye acche hote hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Inverter ki routine maintenance mein kya shamil hai?",
+      "options": {
+        "A": "Sirf body ko saaf karna",
+        "B": "Dust cleaning, connections check karna, battery health monitoring",
+        "C": "Har mahine parts replace karna",
+        "D": "Software update karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Routine maintenance mein inverter ki dust cleaning, loose connections check karna aur battery ke water level/health ko monitor karna shamil hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Customer ko battery ki expected life ke bare mein kya batana chahiye?",
+      "options": {
+        "A": "Battery hamesha chalti rahegi",
+        "B": "Battery life use, maintenance aur ambient temperature par depend karti hai",
+        "C": "Battery life sirf brand par depend karti hai",
+        "D": "Battery ko har saal replace karna padega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery life kai factors par depend karti hai jaise use pattern (deep discharge), proper maintenance aur operating temperature."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Multiple inverters ko parallel mein connect karne ka kya fayda hai?",
+      "options": {
+        "A": "Cost kam hoti hai",
+        "B": "Output capacity badhti hai aur redundancy milti hai",
+        "C": "Noise kam hoti hai",
+        "D": "Sirf DC output milta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Parallel connection se total output capacity badh jaati hai aur agar ek inverter fail ho jaye toh baaki system chalte rehte hain (redundancy)."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Customer ko inverter system ki warranty terms explain karna kyu zaroori hai?",
+      "options": {
+        "A": "Customer ko confuse karne ke liye",
+        "B": "Future mein disputes se bachne aur transparency ke liye",
+        "C": "Sirf sales badhane ke liye",
+        "D": "Taki customer khud repair kar sake"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Warranty terms explain karne se customer ko apne rights aur responsibilities pata chalti hain, jisse future mein galatfehmi ya dispute nahi hota."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Remote monitoring feature wale inverters ka kya fayda hai?",
+      "options": {
+        "A": "Inverter ko physically inspect karna padta hai",
+        "B": "System performance ko door se monitor aur troubleshoot kar sakte hain",
+        "C": "Battery ko jaldi discharge karta hai",
+        "D": "Sirf bade industrial setups ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Remote monitoring se technician ya user system ki performance, battery status aur faults ko remote location se check kar sakte hain, jisse maintenance asaan ho jaati hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Customer ko inverter ke 'Eco Mode' ke bare mein kya batana chahiye?",
+      "options": {
+        "A": "Yeh inverter ko hamesha full power par chalata hai",
+        "B": "Yeh power savings ke liye low load par inverter ko sleep mode mein daal deta hai",
+        "C": "Yeh sirf battery charging ke liye hai",
+        "D": "Yeh noise badhata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Eco Mode (ya Power Saving Mode) mein inverter kam load par sleep mode mein chala jata hai, jisse battery power conserve hoti hai aur overall energy efficiency badhti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Technician ko customer feedback kyu lena chahiye?",
+      "options": {
+        "A": "Sirf formalities ke liye",
+        "B": "Service ki quality improve karne aur customer satisfaction badhane ke liye",
+        "C": "Complaint list lambi karne ke liye",
+        "D": "Apni salary badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer feedback valuable hota hai service quality ko samajhne aur usmein sudhar karne ke liye, jisse customer satisfaction badhta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Inverter system ki documentation (manuals, warranty cards) kyu maintain karni chahiye?",
+      "options": {
+        "A": "Koi zaroorat nahi hai",
+        "B": "Future troubleshooting, warranty claims aur correct usage ke liye",
+        "C": "Sirf ghar ko decorate karne ke liye",
+        "D": "Unhe discard kar dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Documentation future mein troubleshooting, warranty claims aur system ke correct operation ke liye bahut zaroori hoti hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar customer ka inverter frequently trip ho raha hai, toh technician ko kya advice deni chahiye?",
+      "options": {
+        "A": "Use ignore karein",
+        "B": "Connected load check karein aur kam karein, ya inverter capacity upgrade karein",
+        "C": "Battery replace karein",
+        "D": "Inverter ko hamesha bypass mode mein rakhein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Frequent tripping overload ya short-circuit ka sanket hai. Customer ko load kam karne ya higher capacity ka inverter lagane ki salah deni chahiye."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Inverter technician ko latest technology trends (jaise IoT enabled inverters) se update kyu rehna chahiye?",
+      "options": {
+        "A": "Time waste karne ke liye",
+        "B": "Customers ko better service aur solutions provide karne ke liye",
+        "C": "Sirf apni knowledge badhane ke liye",
+        "D": "Old technology zyada reliable hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Latest technology trends se update rehne se technician advanced solutions provide kar sakta hai aur market mein competitive rehta hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Customer ko battery ke liye proper ventilation ki importance kaise samjhayein?",
+      "options": {
+        "A": "Bina explanation ke",
+        "B": "Samjhayein ki charging ke dauran explosive gases nikalte hain, jinko bahar nikalna safety ke liye zaroori hai",
+        "C": "Sirf temperature kam karne ke liye",
+        "D": "Yeh sirf aesthetics ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer ko samjhana chahiye ki battery charging ke dauran hydrogen gas release karti hai, jo explosive ho sakti hai, isliye proper ventilation bahut zaroori hai safety ke liye."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek professional technician mein kya quality honi chahiye?",
+      "options": {
+        "A": "Sirf technical knowledge",
+        "B": "Good communication skills, problem-solving ability aur customer focus",
+        "C": "Expensive tools",
+        "D": "Sirf speed"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek professional technician ke paas technical knowledge ke saath-saath acchi communication skills, problem-solving ability aur customer satisfaction par focus hona chahiye."
+    }
+  ]
+}

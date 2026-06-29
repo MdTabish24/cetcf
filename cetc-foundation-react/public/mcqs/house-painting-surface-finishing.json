@@ -1,0 +1,1443 @@
+{
+  "course_name": "House Painting & Surface Finishing",
+  "sector": "Construction & Building Trades",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "सुरक्षा, उपकरण और औजार (Safety, Tools & Equipment)",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "सतह की तैयारी (Surface Preparation)",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "पेंट के प्रकार और सामग्री (Paint Types & Materials)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "पेंटिंग तकनीकें (Painting Techniques)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "फिनिशिंग और गुणवत्ता नियंत्रण (Finishing & Quality Control)",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "लागत अनुमान और रखरखाव (Cost Estimation & Maintenance)",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Painting karte samay sabse pehle kya ensure karna chahiye?",
+      "options": {
+        "A": "Gaane bajana",
+        "B": "Safety equipment pehenna",
+        "C": "Client se baat karna",
+        "D": "Brush saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Painting ke dauran sabse pehle apni safety ensure karna zaroori hai, isliye safety equipment pehenna chahiye."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ladder use karte samay kya precaution lena chahiye?",
+      "options": {
+        "A": "Ladder ko hamesha seedha rakhna chahiye",
+        "B": "Ek hi side se paint karna chahiye",
+        "C": "Ladder ko stable surface par rakhna chahiye aur uski condition check karni chahiye",
+        "D": "Upar se paint karna shuru karna chahiye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ladder ko stable surface par rakhna aur uski condition check karna girne se bachne ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Paint fumes se bachne ke liye kya pehenna chahiye?",
+      "options": {
+        "A": "Safety goggles",
+        "B": "Respirator ya mask",
+        "C": "Safety helmet",
+        "D": "Gloves"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paint fumes harmful ho sakte hain, isliye unse bachne ke liye respirator ya mask pehenna chahiye."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Walls par paint apply karne ke liye sabse common tool kaun sa hai?",
+      "options": {
+        "A": "Screwdriver",
+        "B": "Hammer",
+        "C": "Paint brush ya roller",
+        "D": "Pliers"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Walls par paint lagane ke liye paint brush aur roller sabse zyada istemal hone wale tools hain."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Purane paint ko surface se hatane ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Sponge",
+        "B": "Paint scraper",
+        "C": "Tape measure",
+        "D": "Spirit level"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Purane, ukhde hue paint ko hatane ke liye paint scraper ka upyog kiya jata hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Paint karte samay floor aur furniture ko protect karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Newspaper",
+        "B": "Drop cloth ya tarpaulin",
+        "C": "Cardboard boxes",
+        "D": "Old clothes"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drop cloth ya tarpaulin painting ke dauran floor aur furniture ko paint ke daag se bachane ke liye istemal kiye jate hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Sharp edges aur trim areas ko clean paint karne ke liye kya use hota hai?",
+      "options": {
+        "A": "Masking tape",
+        "B": "Duct tape",
+        "C": "Electrical tape",
+        "D": "Packing tape"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Masking tape ka upyog sharp edges aur trim areas ko protect karne ke liye kiya jata hai, taki clean lines banein."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Agar paint aankhon mein chala jaye, toh sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "Aankhon ko rub karna",
+        "B": "Turant paani se dhona",
+        "C": "Doctor ke paas jana",
+        "D": "Wait karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar paint aankhon mein chala jaye toh turant saaf paani se aankhon ko dhona chahiye."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Paint spills ko saaf karne ke liye kaun sa material useful hai?",
+      "options": {
+        "A": "Broom",
+        "B": "Sponge aur paani/thinner",
+        "C": "Dustpan",
+        "D": "Vacuum cleaner"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint spills ko saaf karne ke liye sponge aur paani (water-based paint ke liye) ya thinner (oil-based paint ke liye) ka upyog kiya jata hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Proper ventilation kyon important hai painting ke dauran?",
+      "options": {
+        "A": "Paint jaldi sukhane ke liye",
+        "B": "Fumes ko bahar nikalne ke liye",
+        "C": "Temperature maintain karne ke liye",
+        "D": "Light improve karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proper ventilation paint fumes ko bahar nikalne mein madad karta hai, jo health ke liye harmful ho sakte hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Paint roller ka primary use kya hai?",
+      "options": {
+        "A": "Chote areas ko paint karna",
+        "B": "Lambe aur bade surfaces ko paint karna",
+        "C": "Wood ko sand karna",
+        "D": "Putty apply karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint roller ka upyog bade aur lambe surfaces, jaise walls aur ceilings, ko jaldi aur evenly paint karne ke liye hota hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Paint brush ko use karne ke baad kaise saaf karna chahiye?",
+      "options": {
+        "A": "Sukha rakh dena chahiye",
+        "B": "Paani ya appropriate thinner se dhokar sukhana chahiye",
+        "C": "Mitti mein gaad dena chahiye",
+        "D": "Kachre mein phenk dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Brush ko uske type ke anusaar paani ya thinner se acchi tarah saaf karke sukhana chahiye, taki woh dobara use ho sake."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Painting karte samay loose ya peeling paint ko hatane ke liye kaun sa tool best hai?",
+      "options": {
+        "A": "Wire brush",
+        "B": "Sponge",
+        "C": "Soft cloth",
+        "D": "Vacuum cleaner"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Wire brush loose ya peeling paint ko surface se hatane mein prabhavshali hota hai, khaaskar rough surfaces par."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Safety goggles kyon pehne jaate hain?",
+      "options": {
+        "A": "Dust se bachne ke liye",
+        "B": "Fumes se bachne ke liye",
+        "C": "Aankhon ko paint splatters aur debris se bachane ke liye",
+        "D": "Andhere mein dekhne ke liye"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Safety goggles aankhon ko paint ke chheentein aur anya particles se surakshit rakhte hain."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Paint tray ka kya upyog hai?",
+      "options": {
+        "A": "Paint store karne ke liye",
+        "B": "Roller ko paint mein dip karne aur excess paint nikalne ke liye",
+        "C": "Tools rakhne ke liye",
+        "D": "Paani rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint tray roller ko paint mein evenly load karne aur extra paint ko nikalne ke liye design kiya gaya hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Agar aapko high walls ya ceilings tak pahunchna ho, toh kaun sa equipment use karenge?",
+      "options": {
+        "A": "Stool",
+        "B": "Dining chair",
+        "C": "Extension pole ke saath ladder ya scaffolding",
+        "D": "Table"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "High walls aur ceilings tak pahunchne ke liye ladder, scaffolding ya roller ke saath extension pole ka upyog karna surakshit aur prabhavshali hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Flammable paints aur thinners ko kahan store karna chahiye?",
+      "options": {
+        "A": "Kitchen mein",
+        "B": "Direct sunlight mein",
+        "C": "Cool, dry aur well-ventilated area mein, heat source se door",
+        "D": "Bachchon ki pahunch mein"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Flammable materials ko aag ke khatre se bachane ke liye thandi, sukhi aur hawaadaar jagah par, garmi ke sroton se door rakhna chahiye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Painting se pehle surface ko saaf karna kyon zaroori hai?",
+      "options": {
+        "A": "Paint ko zyada chamakdar banane ke liye",
+        "B": "Paint ki adhesion ko improve karne ke liye",
+        "C": "Paint ko jaldi sukhane ke liye",
+        "D": "Kam paint use karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Saaf surface par paint acchi tarah se chipakta hai, jisse paint ki adhesion improve hoti hai aur finish behtar aata hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Surface ko sand karna kyon zaroori hai?",
+      "options": {
+        "A": "Surface ko smooth banane aur paint ki adhesion badhane ke liye",
+        "B": "Surface ko rough banane ke liye",
+        "C": "Surface ko geela karne ke liye",
+        "D": "Surface ko chamakdar banane ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sanding se surface smooth banta hai aur paint ko pakadne ke liye ek acchi profile milti hai, jisse adhesion badhti hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Diwar mein chote cracks ya holes ko fill karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Cement",
+        "B": "Wood glue",
+        "C": "Wall putty ya filler",
+        "D": "Tape"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Wall putty ya filler ka upyog diwar mein chote cracks aur holes ko bharne ke liye kiya jata hai, jisse surface smooth ho jaye."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Naye plaster wali diwar par paint karne se pehle kya lagana zaroori hai?",
+      "options": {
+        "A": "Direct paint",
+        "B": "Primer",
+        "C": "Varnish",
+        "D": "Wax"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Naye plaster par primer lagana zaroori hai, taaki surface seal ho jaye, paint absorb na ho aur acchi adhesion mile."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Agar diwar par fungus ya mold ho, toh usse kaise treat karna chahiye?",
+      "options": {
+        "A": "Seedha paint kar dena chahiye",
+        "B": "Anti-fungal solution se saaf karke sukana chahiye",
+        "C": "Bas pani se dhona chahiye",
+        "D": "Brush se ragadna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fungus ya mold ko anti-fungal solution se saaf karna aur surface ko sukana bahut zaroori hai, warna paint kharab ho jayega."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Purane peeling paint ko hatane ke baad surface ko kya karna chahiye?",
+      "options": {
+        "A": "Turant naya paint lagana chahiye",
+        "B": "Dust hata kar sand aur prime karna chahiye",
+        "C": "Bas paani se dhona chahiye",
+        "D": "Geela chhod dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Peeling paint hatane ke baad, surface ko dust-free karke sand karna aur phir primer lagana chahiye, smooth finish ke liye."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Wood surfaces par paint karne se pehle kya check karna chahiye?",
+      "options": {
+        "A": "Wood ka rang",
+        "B": "Wood ki moisture content, cracks aur knots",
+        "C": "Wood ki age",
+        "D": "Wood ka weight"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Wood surfaces par moisture, cracks aur knots ko check karna zaroori hai, in sab ko treat karne ke baad hi paint karna chahiye."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Metal surfaces par paint karne se pehle rusting ko kaise treat karte hain?",
+      "options": {
+        "A": "Rust par seedha paint kar dena chahiye",
+        "B": "Wire brush se rust hata kar anti-rust primer lagana chahiye",
+        "C": "Paani se dhona chahiye",
+        "D": "Kapde se saaf karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Metal par rust ko wire brush se hatana aur phir anti-rust primer lagana zaroori hai, taaki paint ki life badhe."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Sanding ke liye kaun se grit sandpaper ka use karna chahiye ek rough surface ko smooth banane ke liye?",
+      "options": {
+        "A": "Fine grit (220+)",
+        "B": "Coarse grit (60-80)",
+        "C": "Very fine grit (400+)",
+        "D": "Medium grit (100-150)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rough surface ko smooth banane ke liye pehle coarse grit sandpaper (60-80) ka upyog kiya jata hai, phir dheere-dheere fine grit par shift karte hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Primer ka kya role hai painting mein?",
+      "options": {
+        "A": "Sirf rang badalna",
+        "B": "Surface ko seal karna, paint ki adhesion badhana aur topcoat ke liye uniform base dena",
+        "C": "Surface ko chamakdar banana",
+        "D": "Paint ko patla karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Primer surface ko seal karta hai, paint ki adhesion ko badhata hai aur topcoat ke liye ek uniform base provide karta hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Agar diwar par grease ya oil ke daag hon, toh unhe kaise saaf karna chahiye?",
+      "options": {
+        "A": "Bas paani se dhona chahiye",
+        "B": "Detergent ya degreaser se saaf karna chahiye",
+        "C": "Seedha paint kar dena chahiye",
+        "D": "Sookhe kapde se pochhna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Grease ya oil ke daag ko detergent ya degreaser se saaf karna chahiye, warna paint un par chipkega nahi."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Naye plaster ke drying time ka kya mahatva hai paint karne se pehle?",
+      "options": {
+        "A": "Koi mahatva nahi hai",
+        "B": "Plaster ko puri tarah sukhne dena chahiye, moisture paint ko kharab kar sakti hai",
+        "C": "Jitna geela, utna accha",
+        "D": "Bas 1 ghanta کافی hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Naye plaster ko puri tarah sukhne dena chahiye. Moisture paint ke blisters, peeling aur adhesion issues ka karan ban sakti hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Chalky surface ko paint karne se pehle kya karna chahiye?",
+      "options": {
+        "A": "Bas paint kar dena chahiye",
+        "B": "Wire brush se saaf karke chalky primer lagana chahiye",
+        "C": "Paani se dhona chahiye",
+        "D": "Kapde se pochhna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Chalky surface ko wire brush se saaf karna aur phir ek penetrating sealer ya chalky primer lagana zaroori hai, taaki paint acchi tarah chipke."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Exterior walls par algae ya moss ko kaise remove karte hain?",
+      "options": {
+        "A": "Sirf paint se cover kar dete hain",
+        "B": "Pressure wash karke bleach solution se treat karte hain",
+        "C": "Sookhe kapde se pochhte hain",
+        "D": "Bas chhod dete hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Algae ya moss ko pressure wash karke aur bleach solution se treat karke remove kiya jata hai, taaki woh dobara na aayein."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Wood grain ko chhipane ke liye kya technique use karte hain?",
+      "options": {
+        "A": "Thinner paint use karna",
+        "B": "Wood filler aur primer ka use karna",
+        "C": "Direct paint karna",
+        "D": "Smooth brush use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wood grain ko chhipane ke liye wood filler ka upyog karke surface ko smooth banaya jata hai, phir primer lagaya jata hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Damp ya geeli diwar par paint karne ka kya result hoga?",
+      "options": {
+        "A": "Paint aur zyada chamkega",
+        "B": "Paint chipkega nahi, blistering ya peeling ho sakti hai",
+        "C": "Paint jaldi sukhega",
+        "D": "Paint ka rang aur gehra ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Geeli diwar par paint karne se paint chipkega nahi aur blistering ya peeling jaise problems ho sakte hain."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Old glossy paint surface ko naye paint ke liye kaise prepare karte hain?",
+      "options": {
+        "A": "Bas saaf karke paint kar do",
+        "B": "Lightly sand karke roughen up karna chahiye",
+        "C": "Geela chhod dena chahiye",
+        "D": "Thinner se dhona chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Glossy surface par naya paint acchi tarah nahi chipakta. Isliye use lightly sand karke roughen up karna zaroori hai, taaki paint ki adhesion badhe."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Interior walls ke liye sabse common water-based paint kaun sa hai?",
+      "options": {
+        "A": "Enamel paint",
+        "B": "Emulsion paint",
+        "C": "Distemper paint",
+        "D": "Oil paint"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emulsion paint interior walls ke liye sabse zyada use hone wala water-based paint hai, jo jaldi sukhta hai aur kam gandh deta hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Wood aur metal surfaces par high gloss finish ke liye kaun sa paint use hota hai?",
+      "options": {
+        "A": "Distemper paint",
+        "B": "Emulsion paint",
+        "C": "Enamel paint",
+        "D": "Cement paint"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Enamel paint apni durability aur high gloss finish ke liye jaana jata hai, jo wood aur metal surfaces par accha lagta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Oil-based paints ko patla karne ya brushes saaf karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Paani",
+        "B": "Turpentine ya paint thinner",
+        "C": "Vinegar",
+        "D": "Alcohol"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oil-based paints ke liye turpentine ya paint thinner ka upyog kiya jata hai, jabki water-based paints ke liye paani."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Exterior walls ke liye kaun sa paint sabse zyada weather resistant hota hai?",
+      "options": {
+        "A": "Interior emulsion",
+        "B": "Distemper",
+        "C": "Exterior emulsion ya weather-resistant paint",
+        "D": "Chalk paint"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Exterior emulsion ya weather-resistant paints khaas taur par bahar ke mausam ka saamna karne ke liye banaye jaate hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Primer ka primary purpose kya hai?",
+      "options": {
+        "A": "Rang badalna",
+        "B": "Surface ko seal karna aur topcoat ki adhesion badhana",
+        "C": "Surface ko chamakdar banana",
+        "D": "Paint ko patla karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Primer surface ko seal karta hai, topcoat ke liye ek acchi base provide karta hai aur uski adhesion ko improve karta hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Agar aapko matte finish chahiye, toh kaun sa paint type prefer karenge?",
+      "options": {
+        "A": "High gloss enamel",
+        "B": "Satin finish emulsion",
+        "C": "Matte finish emulsion",
+        "D": "Semi-gloss paint"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Matte finish emulsion paint ek non-reflective, flat look deta hai jo imperfections ko chhipata hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Water-based paints ke kya fayde hain?",
+      "options": {
+        "A": "Dheere sukhte hain",
+        "B": "Zyada gandh dete hain",
+        "C": "Jaldi sukhte hain, saaf karna aasaan hai aur kam gandh dete hain",
+        "D": "Sirf metal par lagte hain"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Water-based paints jaldi sukhte hain, tools ko paani se saaf karna aasaan hota hai aur inmein kam gandh hoti hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Putty ka kya upyog hai painting mein?",
+      "options": {
+        "A": "Rang badalna",
+        "B": "Surface mein holes aur cracks ko fill karna",
+        "C": "Surface ko chamakdar banana",
+        "D": "Paint ko patla karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Putty ka upyog surface mein maujood chote holes, cracks aur unevenness ko bharne ke liye kiya jata hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Anti-corrosive primer kis surface ke liye use hota hai?",
+      "options": {
+        "A": "Wooden surface",
+        "B": "Plaster surface",
+        "C": "Metal surface",
+        "D": "Glass surface"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Anti-corrosive primer metal surfaces ko जंग (rust) se bachane ke liye use kiya jata hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Distemper paint kaisa finish deta hai aur kahan use hota hai?",
+      "options": {
+        "A": "High gloss, exterior par",
+        "B": "Matte finish, interior walls par (budget-friendly)",
+        "C": "Semi-gloss, wood par",
+        "D": "Metallic finish, metal par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Distemper paint ek matte finish deta hai aur aam taur par interior walls par, khaaskar budget-friendly projects mein use hota hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Agar aapko bathroom ya kitchen jaisi high-moisture areas mein paint karna ho, toh kaun sa paint prefer karenge?",
+      "options": {
+        "A": "Normal distemper",
+        "B": "Moisture-resistant ya anti-bacterial emulsion paint",
+        "C": "Oil paint",
+        "D": "Chalk paint"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bathroom aur kitchen jaise high-moisture areas mein moisture-resistant ya anti-bacterial emulsion paint use karna chahiye, taaki mold aur fungus na lage."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Paint ki viscosity ko adjust karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Rang",
+        "B": "Thinner",
+        "C": "Hardener",
+        "D": "Filler"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paint ki viscosity ko adjust karne ke liye thinner ka upyog kiya jata hai, khaaskar spray painting ke liye."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Ek liter paint kitne area ko cover kar sakta hai (roughly)?",
+      "options": {
+        "A": "1-2 sq ft",
+        "B": "10-12 sq ft (single coat)",
+        "C": "100-120 sq ft (single coat)",
+        "D": "500 sq ft"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Ek liter paint roughly 100-120 sq ft area ko ek coat mein cover kar sakta hai, surface aur paint type par depend karta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "VOCs (Volatile Organic Compounds) kya hote hain aur unka paint mein kya asar hai?",
+      "options": {
+        "A": "Paint ko chamakdar banane wale chemicals",
+        "B": "Harmful chemicals jo paint se nikalte hain aur air pollution karte hain",
+        "C": "Paint ko jaldi sukhane wale chemicals",
+        "D": "Paint ko gaadha karne wale chemicals"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "VOCs aise harmful chemicals hote hain jo paint se nikalte hain aur air pollution aur health issues ka karan ban sakte hain. Low-VOC paints prefer kiye jaate hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Agar aapko ek old, dark color wali diwar ko light color mein paint karna ho, toh kya zaroori hai?",
+      "options": {
+        "A": "Sirf light color ke do coats lagana",
+        "B": "White primer lagana",
+        "C": "Direct light color lagana",
+        "D": "Diwar ko kala karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dark color ko light color mein cover karne ke liye white primer lagana zaroori hai, taaki purana rang dikhe nahi aur naya rang evenly aaye."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Texture paints ka kya upyog hai?",
+      "options": {
+        "A": "Smooth finish dene ke liye",
+        "B": "Walls ko decorative aur 3D effect dene ke liye",
+        "C": "Waterproofing ke liye",
+        "D": "Anti-rusting ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Texture paints walls ko unique decorative aur 3D effects dene ke liye use hote hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Paint rollers ke liye kaun se type ke covers hote hain?",
+      "options": {
+        "A": "Sirf foam",
+        "B": "Foam, wool, synthetic (nap length ke saath)",
+        "C": "Sirf plastic",
+        "D": "Sirf cotton"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Paint rollers ke liye foam (smooth surfaces), wool (all-purpose) aur synthetic (rough surfaces) covers hote hain, jinmein nap length surface ke roughness par depend karti hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Paint roller ko use karte samay, paint ko kaise apply karna chahiye?",
+      "options": {
+        "A": "Sirf ek direction mein",
+        "B": "W ya M pattern mein, phir evenly spread karna",
+        "C": "Sidhe upar se neeche",
+        "D": "Randomly kahin bhi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Roller se paint ko W ya M pattern mein apply karke phir evenly spread karne se streak-free finish milta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Corners aur edges ko paint karne ke liye kaun sa tool best hai?",
+      "options": {
+        "A": "Bada roller",
+        "B": "Chota brush (cutting-in brush)",
+        "C": "Spray gun",
+        "D": "Sponge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Corners aur edges ko clean aur sharp lines ke saath paint karne ke liye chote brush (cutting-in brush) ka upyog kiya jata hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Paint ke do coats ke beech kitna time dena chahiye?",
+      "options": {
+        "A": "Turant dusra coat laga dena chahiye",
+        "B": "Pehle coat ke puri tarah sukhne tak, jaisa product label par likha ho",
+        "C": "Bas 5 minute",
+        "D": "Ek din"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dusra coat lagane se pehle pehle coat ko puri tarah sukhne dena chahiye. Isse adhesion acchi rehti hai aur finish behtar aata hai. Drying time paint ke label par likha hota hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Smooth finish ke liye paint ko kaise apply karna chahiye?",
+      "options": {
+        "A": "Mote coats mein",
+        "B": "Patle, even coats mein",
+        "C": "Jaldi jaldi",
+        "D": "Sukhe brush se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Patle aur even coats mein paint apply karne se smooth finish milta hai aur drips ya runs se bacha ja sakta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Spray painting ka kya fayda hai?",
+      "options": {
+        "A": "Zyada paint use hota hai",
+        "B": "Kam time mein bade area ko evenly cover karta hai",
+        "C": "Sirf chote areas ke liye accha hai",
+        "D": "Bahut messy hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Spray painting kam time mein bade surfaces ko evenly aur smoothly cover karne mein effective hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Brush se paint karte samay, brush ko kitna paint mein dip karna chahiye?",
+      "options": {
+        "A": "Pura brush dip karna chahiye",
+        "B": "Brush ke bristles ke ek-tihaayi (1/3) hisse tak",
+        "C": "Sirf tip ko dip karna chahiye",
+        "D": "Jitna zyada ho sake"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Brush ke bristles ke ek-tihaayi hisse tak dip karne se paint drips nahi karta aur control accha rehta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Agar aapko walls aur ceiling ke beech ek clean line chahiye, toh kya use karenge?",
+      "options": {
+        "A": "Direct brush se paint karenge",
+        "B": "Masking tape use karenge",
+        "C": "Sponge use karenge",
+        "D": "Finger se saaf karenge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Masking tape clean aur sharp lines banane mein madad karta hai, khaaskar do alag rangon ke beech."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Paint roller par paint load karte samay kya precaution lena chahiye?",
+      "options": {
+        "A": "Roller ko puri tarah paint mein dubo dena chahiye",
+        "B": "Roller ko evenly load karna chahiye aur excess paint tray mein nikal dena chahiye",
+        "C": "Thoda sa paint lena chahiye",
+        "D": "Jaldi jaldi load karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Roller ko evenly load karna aur excess paint nikal dena drips aur uneven finish se bachata hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Dark color ko light color se cover karte samay, kitne coats lagane pad sakte hain?",
+      "options": {
+        "A": "Ek coat",
+        "B": "Do se teen coats (primer ke baad)",
+        "C": "Paanch coats",
+        "D": "Ek bhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dark color ko light color se cover karne ke liye primer ke baad do se teen coats lagane pad sakte hain, taaki purana rang dikhe nahi."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Paint karte samay, room mein ventilation kyon zaroori hai?",
+      "options": {
+        "A": "Thandak ke liye",
+        "B": "Fumes ko bahar nikalne aur paint ko jaldi sukhane ke liye",
+        "C": "Light ke liye",
+        "D": "Noise kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ventilation fumes ko bahar nikalta hai aur paint ko jaldi sukhane mein madad karta hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Agar paint mein bubbles aa rahe hain, toh kya karan ho sakta hai?",
+      "options": {
+        "A": "Paint bahut patla hai",
+        "B": "Bahut tezi se paint apply kiya ja raha hai ya roller ko galat tarike se use kiya ja raha hai",
+        "C": "Paint bahut gaadha hai",
+        "D": "Room bahut thanda hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Paint mein bubbles bahut tezi se paint apply karne, galat roller technique ya surface par dust hone ke karan aa sakte hain."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Wood par varnish ya polish karte samay, stroke direction kya honi chahiye?",
+      "options": {
+        "A": "Crosswise",
+        "B": "Circular",
+        "C": "Wood grain ki direction mein",
+        "D": "Randomly"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Wood par varnish ya polish ko hamesha wood grain ki direction mein apply karna chahiye, taaki smooth aur natural finish mile."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Stenciling ke liye kaun si paint application technique use hoti hai?",
+      "options": {
+        "A": "Roller",
+        "B": "Spray gun",
+        "C": "Dabbing brush ya sponge",
+        "D": "Large brush"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Stenciling ke liye dabbing brush ya sponge ka upyog kiya jata hai, taaki paint stencil ke neeche na faille aur sharp design bane."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Paint ko evenly mix karna kyon zaroori hai?",
+      "options": {
+        "A": "Paint ko zyada shiny banane ke liye",
+        "B": "Rang aur consistency ko uniform rakhne ke liye",
+        "C": "Paint ko jaldi sukhane ke liye",
+        "D": "Paint ko patla karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint ko evenly mix karna zaroori hai, taaki rang aur consistency pure dabbe mein uniform rahe aur finish accha aaye."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Agar aapko textured finish chahiye, toh kaun sa roller cover use karenge?",
+      "options": {
+        "A": "Smooth foam roller",
+        "B": "Short nap roller",
+        "C": "Long nap roller",
+        "D": "Microfiber roller"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Long nap roller cover rough ya textured surfaces ke liye ya textured finish banane ke liye accha hota hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Paint drips ko kaise prevent karte hain?",
+      "options": {
+        "A": "Bahut zyada paint load karke",
+        "B": "Patle coats mein paint apply karke aur excess paint nikal kar",
+        "C": "Tezi se paint karke",
+        "D": "Sukhe brush se paint karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Patle coats mein paint apply karna aur brush ya roller se excess paint nikal kar drips ko prevent kiya ja sakta hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Agar paint ka rang mismatch ho jaye, toh kya solution hai?",
+      "options": {
+        "A": "Usse ignore kar dena chahiye",
+        "B": "Purane paint ko hatakar naya paint kharidna padega",
+        "C": "Thoda aur rang mila kar adjust karna chahiye",
+        "D": "Dusre rang ka paint lagana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar rang mismatch ho jaye toh purane paint ko hatakar ya us par primer lagakar naye, sahi rang ka paint lagana pad sakta hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Painting complete hone ke baad, sabse pehla kaam kya hai?",
+      "options": {
+        "A": "Client se paise lena",
+        "B": "Tools aur working area ko saaf karna",
+        "C": "Naya project lena",
+        "D": "Sone chale jana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Painting ke baad tools aur working area ko saaf karna bahut zaroori hai, taaki tools kharab na hon aur jagah saaf rahe."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Masking tape ko kab hatana chahiye?",
+      "options": {
+        "A": "Paint ke sukhne se pehle (jab thoda geela ho)",
+        "B": "Paint ke puri tarah sukhne ke baad",
+        "C": "Jab mann kare",
+        "D": "Pehle coat ke baad"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Masking tape ko paint ke thoda geela hone par hatana chahiye, taaki clean edges banein aur paint tape ke saath ukhde nahi."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Agar paint mein chote-mote daag ya imperfection reh gaye hon, toh unhe kaise theek karte hain?",
+      "options": {
+        "A": "Unhe chhod dena chahiye",
+        "B": "Small brush se touch-up karna chahiye",
+        "C": "Puri diwar ko dobara paint karna chahiye",
+        "D": "Client ko batana nahi chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chote-mote daag ya imperfections ko small brush se careful touch-up karke theek kiya ja sakta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Paint cans ko kaise store karna chahiye?",
+      "options": {
+        "A": "Khula chhod dena chahiye",
+        "B": "Tight seal karke, thandi aur sukhi jagah par",
+        "C": "Dhoop mein",
+        "D": "Freezer mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint cans ko tight seal karke, thandi aur sukhi jagah par store karna chahiye, taaki paint kharab na ho aur lamba chale."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Paint roller ko acchi tarah saaf karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Sookhe kapde se pochhna chahiye",
+        "B": "Paani ya thinner se dhokar sukhana chahiye",
+        "C": "Kachre mein phenk dena chahiye",
+        "D": "Bas chhod dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint roller ko paani (water-based) ya thinner (oil-based) se acchi tarah dhokar sukhana chahiye, taaki woh dobara use ho sake."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Agar paint mein runs ya drips aa gaye hon, toh unhe kaise theek karte hain?",
+      "options": {
+        "A": "Unhe chhod dena chahiye",
+        "B": "Sukhne ke baad lightly sand karke touch-up karna chahiye",
+        "C": "Puri diwar ko dobara paint karna chahiye",
+        "D": "Us par aur paint laga dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Runs ya drips ko sukhne ke baad lightly sand karke smooth kiya jata hai, aur phir touch-up kiya jata hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Paint finish mein 'blistering' ka kya matlab hai?",
+      "options": {
+        "A": "Paint ka chamakdar hona",
+        "B": "Paint surface par chote bubbles ya chhale ban jana",
+        "C": "Paint ka jaldi sukhna",
+        "D": "Paint ka rang badalna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Blistering ka matlab hai paint surface par chote bubbles ya chhale ban jana, jo moisture ya improper surface preparation ke karan hota hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Client ko final inspection ke liye kya check karna chahiye?",
+      "options": {
+        "A": "Sirf rang",
+        "B": "Even finish, clean lines, koi drips ya runs nahi, aur saaf-suthra kaam",
+        "C": "Furniture ka arrangement",
+        "D": "AC ki working"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client final inspection mein even finish, clean lines, koi drips ya runs aur overall saaf-suthra kaam check karte hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar paint ka rang thoda feeka (faded) lag raha hai, toh kya solution hai?",
+      "options": {
+        "A": "Aur ek coat lagana",
+        "B": "Usse chhod dena chahiye",
+        "C": "Thoda aur rang mila dena chahiye",
+        "D": "Rang badal dena chahiye"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Agar rang feeka lag raha hai, toh ek aur coat lagane se rang gehra aur uniform ho sakta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Paint ki 'chalking' kya hoti hai?",
+      "options": {
+        "A": "Paint ka bahut smooth hona",
+        "B": "Paint surface par powdery residue ka ban jana",
+        "C": "Paint ka bahut chamakdar hona",
+        "D": "Paint ka jaldi sukhna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Chalking ek paint defect hai jismein paint surface par ek powdery residue ban jata hai, khaaskar exterior paints mein, weathering ke karan."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Waste paint ko kaise dispose karna chahiye?",
+      "options": {
+        "A": "Sink mein baha dena chahiye",
+        "B": "Kachre ke dibbe mein phenk dena chahiye",
+        "C": "Proper waste disposal facility mein le jana chahiye",
+        "D": "Garden mein daal dena chahiye"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Waste paint ko proper waste disposal facility mein le jana chahiye, kyunki ismein harmful chemicals ho sakte hain jo environment ko nuksan pahuncha sakte hain."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Agar paint chipak nahi raha hai, toh kya karan ho sakta hai?",
+      "options": {
+        "A": "Surface bahut saaf hai",
+        "B": "Surface par grease, dust ya moisture hai, ya primer nahi laga hai",
+        "C": "Paint bahut accha hai",
+        "D": "Mausam bahut accha hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paint ke na chipakne ka karan surface par grease, dust, moisture ya primer ka na lagna ho sakta hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Painting ke baad furniture ko kab wapas rakhna chahiye?",
+      "options": {
+        "A": "Turant",
+        "B": "Jab paint touch-dry ho jaye",
+        "C": "Jab paint puri tarah sukh jaye (cure ho jaye)",
+        "D": "Agle din"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Furniture ko tab wapas rakhna chahiye jab paint puri tarah se sukh jaye aur cure ho jaye, taaki nishan na pade aur paint damage na ho."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Paint surface par 'cracking' kyon hoti hai?",
+      "options": {
+        "A": "Paint bahut naya hai",
+        "B": "Paint bahut purana ho gaya hai, ya improper application (mote coats) ke karan",
+        "C": "Paint bahut patla hai",
+        "D": "Paint bahut chamkila hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cracking paint ke purana hone, improper application (jaise bahut mote coats), ya surface ki movement ke karan ho sakti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Client satisfaction ke liye kya important hai?",
+      "options": {
+        "A": "Sirf kaam khatam karna",
+        "B": "High-quality finish dena, time par kaam karna aur client ki expectations ko meet karna",
+        "C": "Sasta kaam karna",
+        "D": "Jaldi kaam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client satisfaction ke liye high-quality finish, time par kaam aur client ki expectations ko meet karna bahut zaroori hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Agar paint mein 'orange peel' effect dikhe, toh kya karan ho sakta hai?",
+      "options": {
+        "A": "Paint bahut smooth hai",
+        "B": "Improper spray technique, paint bahut gaadha ya temperature galat hai",
+        "C": "Paint bahut patla hai",
+        "D": "Paint bahut chamkila hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Orange peel effect improper spray technique, paint ka bahut gaadha hona ya galat temperature ke karan ho sakta hai, jismein surface santre ke chhilke jaisa rough dikhta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Ek room ka area calculate karne ke liye kya formula use hota hai?",
+      "options": {
+        "A": "Length x Width",
+        "B": "Length + Width",
+        "C": "Length / Width",
+        "D": "Length - Width"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Room ka floor area calculate karne ke liye Length x Width formula use hota hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Walls ka total area calculate karne ke liye kya formula use hota hai?",
+      "options": {
+        "A": "Length x Height",
+        "B": "2 x (Length + Width) x Height",
+        "C": "Width x Height",
+        "D": "Length + Width + Height"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Walls ka total area calculate karne ke liye 2 x (Length + Width) x Height formula use hota hai, isse charon deewaron ka area milta hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Paint ki quantity estimate karte samay kya factor dhyan mein rakhna chahiye?",
+      "options": {
+        "A": "Sirf rang",
+        "B": "Surface area, paint type, number of coats aur surface porosity",
+        "C": "Painter ka mood",
+        "D": "Mausam"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paint ki quantity estimate karte samay surface area, paint type, kitne coats lagane hain aur surface kitna porous hai, yeh sab factors important hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Agar ek paint ki coverage 100 sq ft per liter hai aur aapko 500 sq ft area paint karna hai, toh kitna paint chahiye hoga (ek coat ke liye)?",
+      "options": {
+        "A": "1 liter",
+        "B": "5 liter",
+        "C": "10 liter",
+        "D": "50 liter"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "500 sq ft / 100 sq ft/liter = 5 liter paint chahiye hoga."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Labor cost estimate karte samay kya factors consider karte hain?",
+      "options": {
+        "A": "Sirf painter ki salary",
+        "B": "Project ka size, complexity, required skills aur time frame",
+        "C": "Client ka budget",
+        "D": "Paint ka brand"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Labor cost estimate karte samay project ka size, kitna mushkil hai, kitni skills chahiye aur kitne time mein kaam karna hai, yeh sab factors dekhe jaate hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Leftover paint ko kaise store karna chahiye, taaki woh lamba chale?",
+      "options": {
+        "A": "Dhoop mein khula chhod dena chahiye",
+        "B": "Original can mein tight lid laga kar, thandi aur sukhi jagah par",
+        "C": "Plastic bag mein band karke",
+        "D": "Sink mein baha dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Leftover paint ko original can mein tight lid laga kar, thandi aur sukhi jagah par store karne se woh lamba chalta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Painted walls ko saaf karne ke liye kya use karna chahiye?",
+      "options": {
+        "A": "Wire brush",
+        "B": "Harsh chemicals",
+        "C": "Soft cloth aur mild detergent solution",
+        "D": "Scraper"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Painted walls ko saaf karne ke liye soft cloth aur mild detergent solution ka upyog karna chahiye, taaki paint ko nuksan na ho."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar diwar par chota sa scratch aa jaye, toh kaise theek karenge?",
+      "options": {
+        "A": "Puri diwar ko dobara paint karenge",
+        "B": "Matching paint se chota sa touch-up karenge",
+        "C": "Usse ignore kar denge",
+        "D": "Us par tape laga denge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chote scratch ko matching paint se careful touch-up karke theek kiya ja sakta hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Client ko paint ki maintenance ke baare mein kya advice denge?",
+      "options": {
+        "A": "Kuch nahi",
+        "B": "Regular cleaning, scratches se bachna aur proper ventilation rakhna",
+        "C": "Har saal dobara paint karwana",
+        "D": "Walls ko geela rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client ko regular cleaning, scratches se bachna aur proper ventilation rakhne ki advice deni chahiye, taaki paint lamba chale."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar client ko unexpected issues (jaise hidden cracks) milte hain, toh kaise handle karna chahiye?",
+      "options": {
+        "A": "Unhe ignore kar dena chahiye",
+        "B": "Client se baat karke solution nikalna chahiye aur extra charges ke baare mein inform karna chahiye",
+        "C": "Kaam chhod dena chahiye",
+        "D": "Apni galti chhipani chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Unexpected issues ko client ke saath discuss karna chahiye, solution nikalna chahiye aur agar extra cost hai toh pehle se inform karna chahiye."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Paint ka life span kin factors par depend karta hai?",
+      "options": {
+        "A": "Sirf rang par",
+        "B": "Paint ki quality, surface preparation, application technique aur environmental conditions",
+        "C": "Painter ki umar par",
+        "D": "Paint ke dabbe ke size par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paint ka life span paint ki quality, surface preparation, application technique aur environment (jaise dhoop, baarish) par depend karta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Ek room mein doors aur windows ke area ko paint area calculation se kyon minus karte hain?",
+      "options": {
+        "A": "Unhe paint nahi karna hota",
+        "B": "Unka area paint nahi kiya jata, isliye material waste na ho",
+        "C": "Calculation ko mushkil banane ke liye",
+        "D": "Unka area bahut kam hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Doors aur windows ke area ko total wall area se minus kiya jata hai, kyunki unhe paint nahi kiya jata, isse sahi paint quantity estimate hoti hai aur material waste nahi hota."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar client ko paint ke baad bhi diwar par imperfections dikhe, toh kya karna chahiye?",
+      "options": {
+        "A": "Client ko galat thehrana chahiye",
+        "B": "Unki complaints ko sunna chahiye aur possible solutions discuss karne chahiye",
+        "C": "Unki baat ignore karni chahiye",
+        "D": "Puri diwar ko dobara paint kar dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client ki complaints ko sunna aur unke liye possible solutions discuss karna professional approach hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Paint project ke liye final bill banate samay kya-kya include karna chahiye?",
+      "options": {
+        "A": "Sirf paint ka cost",
+        "B": "Material cost, labor cost, any extra work aur taxes (agar applicable ho)",
+        "C": "Sirf labor cost",
+        "D": "Sirf client ka naam"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Final bill mein material cost, labor cost, koi bhi extra kaam aur applicable taxes ko include karna chahiye."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Agar paint ka rang sample se thoda alag aa jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Client ko convince karna chahiye ki yahi sahi hai",
+        "B": "Client ko situation samjhani chahiye aur options discuss karne chahiye",
+        "C": "Usse ignore kar dena chahiye",
+        "D": "Puri diwar ko dobara paint kar dena chahiye bina bataye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar rang thoda alag aa jaye toh client ko situation samjhani chahiye aur unke saath options discuss karne chahiye (jaise touch-up, dobara paint, ya accept karna)."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Painting services ke liye warranty dena kyon accha hai?",
+      "options": {
+        "A": "Isse kaam badhta hai",
+        "B": "Client trust badhta hai aur aapki professionalism dikhti hai",
+        "C": "Isse koi fayda nahi hota",
+        "D": "Sirf bade projects mein dena chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Painting services ke liye warranty dene se client ka trust badhta hai aur aapki professionalism aur quality commitment dikhti hai."
+    }
+  ]
+}

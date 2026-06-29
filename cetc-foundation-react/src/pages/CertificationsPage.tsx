@@ -11,6 +11,63 @@ export default function CertificationsPage() {
   const [activeSector, setActiveSector] = useState(initialSector);
   const [activeLevel, setActiveLevel] = useState('');
 
+  const createDropEffect = (e: React.MouseEvent, sectorName: string) => {
+    const emojis: Record<string, string[]> = {
+      'Beauty & Lifestyle': ['💅', '💄', '💖', '✨'],
+      'Digital & Information Technology': ['💻', '🌐', '🖥️', '📡'],
+      'Electrical & Electronics Trades': ['⚡', '🔋', '🔌', '💡'],
+      'Construction & Building Trades': ['🏗️', '🧱', '🔨', '🚧'],
+      'Automobile & Motor Trades': ['🚗', '🔧', '🏎️', '⚙️'],
+      'Food, Catering & Hospitality': ['🍔', '🍕', '🍳', '🍽️'],
+      'Fashion, Tailoring & Textiles': ['👗', '🧵', '✂️', '🧥'],
+      'Agriculture & Rural Livelihood': ['🌾', '🚜', '🌱', '🐄'],
+      'Child Care & Domestic Services': ['👶', '🍼', '🧸', '🧹'],
+      'Education & Early Childhood': ['📚', '🖍️', '🏫', '🍎'],
+      'Media, Photography & Content Creation': ['📷', '🎥', '🎬', '📸'],
+      'Spoken Languages & Communication': ['🗣️', '💬', '🌍', '🎙️'],
+      'Business, Retail & Finance': ['💼', '📈', '💰', '📊'],
+      'Sports, Fitness & Recreation': ['⚽', '🏋️', '🎾', '🏃'],
+      'Handicrafts & Creative Arts': ['🎨', '🧶', '🖌️', '🏺'],
+      'Plumbing, Sanitation & Water': ['🚿', '🚰', '🚽', '💧'],
+      'Environmental & Green Skills': ['♻️', '🌍', '🌳', '☀️'],
+      'Religious & Spiritual Education': ['🕉️', '☪️', '✝️', '🕊️'],
+      'Security & Facility Management': ['🛡️', '👮', '🏢', '🔒'],
+      'Advanced Beauty, Cosmetology & Aesthetics': ['💆', '🧴', '💄', '✨'],
+      'Advanced IT, Programming & Technologies': ['💻', '🚀', '🧠', '⚙️'],
+      'Apparel Design, Pattern Making & Garment Construction': ['✂️', '📏', '👗', '🧥'],
+      'Wellness & Alternative Therapy': ['🧘', '🌿', '💆', '🍵']
+    };
+
+    const symbols = emojis[sectorName] || ['🎓', '✨', '⭐'];
+
+    for (let i = 0; i < 15; i++) {
+      const el = document.createElement('div');
+      el.innerText = symbols[Math.floor(Math.random() * symbols.length)];
+      el.style.position = 'fixed';
+      el.style.left = `${e.clientX}px`;
+      el.style.top = `${e.clientY}px`;
+      el.style.fontSize = `${Math.random() * 20 + 15}px`;
+      el.style.pointerEvents = 'none';
+      el.style.zIndex = '9999';
+      el.style.transition = 'transform 3s cubic-bezier(0.25, 0.46, 0.45, 0.94), opacity 3s ease-out';
+      
+      const x = (Math.random() - 0.5) * 300;
+      const y = Math.random() * 400 + 150;
+      const rot = (Math.random() - 0.5) * 360;
+
+      document.body.appendChild(el);
+
+      requestAnimationFrame(() => {
+        el.style.transform = `translate(${x}px, ${y}px) rotate(${rot}deg)`;
+        el.style.opacity = '0';
+      });
+
+      setTimeout(() => {
+        el.remove();
+      }, 3000);
+    }
+  };
+
   const filtered = useMemo(() => {
     return COURSES.filter((c) => {
       const matchSearch = !search || c.name.toLowerCase().includes(search.toLowerCase()) || c.sector.toLowerCase().includes(search.toLowerCase());
@@ -79,32 +136,48 @@ export default function CertificationsPage() {
             })}
           </div>
 
-          {/* Sector Filters */}
-          <div className="filter-pills" style={{ marginBottom: '8px' }} id="sector-filters">
-            <button
-              className={`filter-pill ${!activeSector ? 'active' : ''}`}
-              onClick={() => setActiveSector('')}
-            >
-              All Sectors
-            </button>
-            {SECTORS.map((s) => (
-              <button
-                key={s.name}
-                className={`filter-pill ${activeSector === s.name ? 'active' : ''}`}
-                onClick={() => setActiveSector(activeSector === s.name ? '' : s.name)}
-                style={activeSector === s.name ? {} : { borderColor: `${s.color}30` }}
-              >
-                {s.icon} {s.name.length > 30 ? s.name.substring(0, 28) + '...' : s.name} ({s.count})
-              </button>
-            ))}
-          </div>
+          <div className="page-layout">
+            <aside className="sidebar-sticky" id="sector-filters">
+              <h3 style={{ fontSize: '15px', fontWeight: 700, color: 'var(--text-main)', marginBottom: '16px', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Filter by Sector</h3>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                <button
+                  className={`filter-pill ${!activeSector ? 'active' : ''}`}
+                  onClick={() => setActiveSector('')}
+                  style={{ justifyContent: 'flex-start', textAlign: 'left', width: '100%', borderRadius: '8px' }}
+                >
+                  All Sectors
+                </button>
+                {SECTORS.map((s) => (
+                  <button
+                    key={s.name}
+                    className={`filter-pill ${activeSector === s.name ? 'active' : ''}`}
+                    onClick={(e) => {
+                      createDropEffect(e, s.name);
+                      setActiveSector(activeSector === s.name ? '' : s.name);
+                    }}
+                    style={{ 
+                      justifyContent: 'flex-start', 
+                      textAlign: 'left', 
+                      width: '100%', 
+                      borderRadius: '8px',
+                      ...(activeSector !== s.name ? { borderColor: `${s.color}30` } : {})
+                    }}
+                  >
+                    <span style={{ minWidth: '16px', display: 'inline-block' }}>{s.icon}</span> 
+                    <span style={{ flex: 1, whiteSpace: 'normal', fontSize: '13px', lineHeight: 1.4 }}>{s.name}</span>
+                    <span style={{ fontSize: '11px', color: 'var(--muted)', fontWeight: 600, background: 'rgba(0,0,0,0.05)', padding: '2px 6px', borderRadius: '4px' }}>{s.count}</span>
+                  </button>
+                ))}
+              </div>
+            </aside>
 
-          {/* Results count */}
-          <p style={{ fontSize: '13px', color: 'var(--muted)', marginBottom: '16px' }}>
-            Showing <strong style={{ color: 'var(--navy)' }}>{filtered.length}</strong> course{filtered.length !== 1 ? 's' : ''}
-            {activeSector && <> in <strong style={{ color: 'var(--navy)' }}>{activeSector}</strong></>}
-            {activeLevel && <> · <strong style={{ color: 'var(--navy)' }}>{activeLevel}</strong> level</>}
-          </p>
+            <div className="main-content">
+              {/* Results count */}
+              <p style={{ fontSize: '14px', color: 'var(--muted)', marginBottom: '24px', paddingBottom: '16px', borderBottom: '1px solid var(--border)' }}>
+                Showing <strong style={{ color: 'var(--text-main)' }}>{filtered.length}</strong> course{filtered.length !== 1 ? 's' : ''}
+                {activeSector && <> in <strong style={{ color: 'var(--text-main)' }}>{activeSector}</strong></>}
+                {activeLevel && <> · <strong style={{ color: 'var(--text-main)' }}>{activeLevel}</strong> level</>}
+              </p>
 
           {/* Courses Grid */}
           {filtered.length > 0 ? (
@@ -149,6 +222,8 @@ export default function CertificationsPage() {
               <p className="empty-desc">Try adjusting your search or filters.</p>
             </div>
           )}
+            </div>
+          </div>
         </div>
       </section>
     </>

@@ -1,0 +1,1443 @@
+{
+  "course_name": "LED & Electrical Wiring Technician",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Electrical Concepts & Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Electrical Tools & Measurements",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Residential & Commercial Wiring Fundamentals",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Earthing & Protection Devices",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "LED Lighting Technology & Installation",
+      "question_range": "Q69-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Troubleshooting & Maintenance",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Bijli ke wire mein current kis cheez se flow karta hai?",
+      "options": {
+        "A": "Protons",
+        "B": "Neutrons",
+        "C": "Electrons",
+        "D": "Photons"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Current electrons ke flow se banta hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Voltage ki unit kya hai?",
+      "options": {
+        "A": "Ampere",
+        "B": "Ohm",
+        "C": "Volt",
+        "D": "Watt"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Voltage ko Volts mein measure kiya jata hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ohm's Law kya relation batata hai?",
+      "options": {
+        "A": "Power, Current, Voltage",
+        "B": "Resistance, Power, Voltage",
+        "C": "Voltage, Current, Resistance",
+        "D": "Energy, Power, Time"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ohm's Law (V=IR) Voltage, Current aur Resistance ke beech ka relation batata hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Ek 230V supply par 10A current draw karne wale appliance ki power kitni hogi?",
+      "options": {
+        "A": "23 Watt",
+        "B": "230 Watt",
+        "C": "2300 Watt",
+        "D": "23000 Watt"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Power (P) = Voltage (V) x Current (I). So, P = 230V x 10A = 2300 Watt."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "AC supply ka full form kya hai?",
+      "options": {
+        "A": "Actual Current",
+        "B": "Alternate Current",
+        "C": "Alternating Current",
+        "D": "Active Current"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "AC ka full form Alternating Current hota hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Electrical shock lagne par sabse pehla kadam kya hona chahiye?",
+      "options": {
+        "A": "Shock lage vyakti ko pakadna",
+        "B": "Main power supply band karna",
+        "C": "Doctor ko phone karna",
+        "D": "Pani dalna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sabse pehle main power supply band karni chahiye taaki aage aur khatra na ho."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "PPE ka matlab kya hai electrical work mein?",
+      "options": {
+        "A": "Personal Power Equipment",
+        "B": "Professional Protective Earmuffs",
+        "C": "Personal Protective Equipment",
+        "D": "Primary Power Emitter"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "PPE ka matlab Personal Protective Equipment hota hai, jaise gloves, safety shoes."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Agar kisi circuit mein resistance badh jaye, toh current par kya asar hoga (voltage constant ho toh)?",
+      "options": {
+        "A": "Current badhega",
+        "B": "Current kam hoga",
+        "C": "Current same rahega",
+        "D": "Current zero ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ohm's Law (I=V/R) ke mutabik, agar Voltage constant hai aur Resistance badhta hai, toh Current kam hoga."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Ek parallel circuit mein, voltage kya hota hai?",
+      "options": {
+        "A": "Har component par alag hota hai",
+        "B": "Har component par same hota hai",
+        "C": "Current ke barabar hota hai",
+        "D": "Resistance ke barabar hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Parallel circuit mein har component par voltage same rehta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Series circuit mein, total resistance kaise nikala jata hai?",
+      "options": {
+        "A": "Resistances ko multiply karke",
+        "B": "Resistances ko divide karke",
+        "C": "Resistances ko add karke",
+        "D": "Sabse bade resistance ko lekar"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Series circuit mein total resistance sabhi individual resistances ko add karke nikala jata hai (R_total = R1 + R2 + ...)."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Insulator ka kya kaam hota hai?",
+      "options": {
+        "A": "Current ko flow hone dena",
+        "B": "Current ke flow ko rokna",
+        "C": "Voltage badhana",
+        "D": "Resistance kam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Insulator aise material hote hain jo current ko apne andar se flow hone nahi dete, jaise plastic, rubber."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Conductor ka example kya hai?",
+      "options": {
+        "A": "Glass",
+        "B": "Wood",
+        "C": "Copper",
+        "D": "Rubber"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Copper ek accha electrical conductor hai, jo current ko aasani se flow hone deta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Electrical fire ko bujhane ke liye kiska upyog nahi karna chahiye?",
+      "options": {
+        "A": "CO2 extinguisher",
+        "B": "Dry chemical extinguisher",
+        "C": "Water",
+        "D": "Sand"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Electrical fire par pani dalne se shock lag sakta hai aur aag aur phail sakti hai. Hamesha CO2 ya dry chemical extinguisher ka use karein."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Ek 2-pin plug mein kaun se wires hote hain?",
+      "options": {
+        "A": "Phase aur Neutral",
+        "B": "Phase aur Earth",
+        "C": "Neutral aur Earth",
+        "D": "Phase, Neutral aur Earth"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ek 2-pin plug mein Phase aur Neutral wire hote hain. Earthing connection nahi hota."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Electrical wiring karte samay gloves pehenna kyun zaroori hai?",
+      "options": {
+        "A": "Hathon ko ganda hone se bachane ke liye",
+        "B": "Shock se bachne ke liye",
+        "C": "Wires ko pakadne mein aasani ke liye",
+        "D": "Fashion ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Insulated gloves electrical shock se bachane ke liye zaroori hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "DC supply ka full form kya hai?",
+      "options": {
+        "A": "Direct Current",
+        "B": "Dynamic Current",
+        "C": "Digital Current",
+        "D": "Distributed Current"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "DC ka full form Direct Current hota hai, jismein current ek hi direction mein flow karta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Power factor ka ideal value kya hona chahiye?",
+      "options": {
+        "A": "0",
+        "B": "0.5",
+        "C": "1",
+        "D": "More than 1"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Ideal power factor 1.0 hona chahiye, jo indicate karta hai ki electrical energy efficiently use ho rahi hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Wires ko cut karne aur strip karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Screwdriver",
+        "B": "Pliers",
+        "C": "Wire stripper",
+        "D": "Hammer"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Wire stripper wires se insulation hatane aur unhe cut karne ke liye designed hota hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Electrical circuit mein voltage, current aur resistance ko measure karne ke liye kaun sa device use hota hai?",
+      "options": {
+        "A": "Voltmeter",
+        "B": "Ammeter",
+        "C": "Ohmmeter",
+        "D": "Multimeter"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Multimeter ek single device hai jo voltage, current aur resistance teeno ko measure kar sakta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Screw ko tight ya loose karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Pliers",
+        "B": "Wrench",
+        "C": "Screwdriver",
+        "D": "Cutter"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Screwdriver screws ko tight aur loose karne ke liye use hota hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Live wire ko check karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Multimeter",
+        "B": "Test pen (Tester)",
+        "C": "Ammeter",
+        "D": "Ohmmeter"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Test pen ya line tester live wire mein voltage presence ko detect karne ke liye use hota hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Wires ko twist karne aur pakadne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Long nose pliers",
+        "B": "Diagonal pliers",
+        "C": "Adjustable wrench",
+        "D": "Hammer"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Long nose pliers chote spaces mein wires ko pakadne aur twist karne ke liye useful hote hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Insulation resistance ko measure karne ke liye kaun sa instrument use hota hai?",
+      "options": {
+        "A": "Multimeter",
+        "B": "Megger",
+        "C": "Earth tester",
+        "D": "Clamp meter"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Megger (Mega-ohmmeter) high resistance values, specially insulation resistance ko measure karne ke liye use hota hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Current ko measure karne ke liye Ammeter ko circuit mein kaise connect kiya jata hai?",
+      "options": {
+        "A": "Parallel mein",
+        "B": "Series mein",
+        "C": "Kisi bhi tarah",
+        "D": "Directly power supply se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ammeter ko hamesha circuit mein series mein connect kiya jata hai taaki usse poora current flow ho."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Voltage ko measure karne ke liye Voltmeter ko circuit mein kaise connect kiya jata hai?",
+      "options": {
+        "A": "Parallel mein",
+        "B": "Series mein",
+        "C": "Kisi bhi tarah",
+        "D": "Directly load se"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Voltmeter ko hamesha circuit mein parallel mein connect kiya jata hai across the component jiska voltage measure karna hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Non-contact voltage tester ka kya fayda hai?",
+      "options": {
+        "A": "Current bhi measure karta hai",
+        "B": "Wire ko touch kiye bina voltage detect karta hai",
+        "C": "Resistance check karta hai",
+        "D": "Circuit ko disconnect karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Non-contact voltage tester wire ko physically touch kiye bina voltage ki presence detect kar sakta hai, jo safety badhata hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Drill machine ka primary use kya hai electrical work mein?",
+      "options": {
+        "A": "Wires cut karna",
+        "B": "Screws tight karna",
+        "C": "Walls mein holes karna",
+        "D": "Insulation remove karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Drill machine ka use walls, wood ya metal mein holes karne ke liye hota hai, jaise conduit ya switch box lagane ke liye."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Measure tape ka kya use hai electrical installation mein?",
+      "options": {
+        "A": "Voltage measure karna",
+        "B": "Wires ki length measure karna",
+        "C": "Current measure karna",
+        "D": "Resistance measure karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Measure tape ka use wires, conduits ya fittings ki exact length aur position measure karne ke liye hota hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Clamp meter ka kya advantage hai?",
+      "options": {
+        "A": "High resistance measure karta hai",
+        "B": "Circuit ko break kiye bina current measure karta hai",
+        "C": "Voltage aur resistance dono measure karta hai",
+        "D": "Sirf DC current measure karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clamp meter circuit ko break kiye bina (wire ko clamp karke) current measure kar sakta hai, jo bahut convenient hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Level tool ka kya use hai electrical installation mein?",
+      "options": {
+        "A": "Current check karna",
+        "B": "Switchboards aur fittings ko seedha install karna",
+        "C": "Wire ki thickness measure karna",
+        "D": "Voltage check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Level tool ka use switchboards, junction boxes ya conduits ko horizontally ya vertically seedha install karne ke liye hota hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Continuity tester ka primary function kya hai?",
+      "options": {
+        "A": "Voltage measure karna",
+        "B": "Current measure karna",
+        "C": "Circuit mein break (open circuit) check karna",
+        "D": "Power consumption measure karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Continuity tester check karta hai ki circuit mein path continuous hai ya kahin break hai (open circuit)."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Ek achha electrician apne tools ko kaise maintain karta hai?",
+      "options": {
+        "A": "Kahin bhi chhod deta hai",
+        "B": "Regularly clean aur inspect karta hai",
+        "C": "Dusron se use karwata hai",
+        "D": "Kabhi saaf nahi karta"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools ki proper maintenance unki life badhati hai aur safety ensure karti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Wire gauge kya measure karta hai?",
+      "options": {
+        "A": "Wire ki length",
+        "B": "Wire ka resistance",
+        "C": "Wire ki thickness (diameter)",
+        "D": "Wire ka insulation"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Wire gauge wire ki thickness ya diameter ko measure karta hai, jo uski current carrying capacity determine karta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Conduit bender ka kya use hai?",
+      "options": {
+        "A": "Wires ko bend karna",
+        "B": "Conduits ko bend karna",
+        "C": "Pipes ko cut karna",
+        "D": "Cables ko strip karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Conduit bender ka use electrical conduits (pipes) ko specific angles par bend karne ke liye hota hai taaki wiring proper ho sake."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Indian standard ke according, residential wiring mein Phase wire ka color kya hota hai?",
+      "options": {
+        "A": "Black",
+        "B": "Red",
+        "C": "Green",
+        "D": "Blue"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Indian standard mein Phase wire ke liye Red color use hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Neutral wire ka color kya hota hai Indian standard ke according?",
+      "options": {
+        "A": "Red",
+        "B": "Black",
+        "C": "Green",
+        "D": "Yellow"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Indian standard mein Neutral wire ke liye Black color use hota hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Earthing wire ka color kya hota hai Indian standard ke according?",
+      "options": {
+        "A": "Red",
+        "B": "Black",
+        "C": "Green",
+        "D": "Blue"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Indian standard mein Earthing wire ke liye Green color use hota hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Switch ko hamesha kis wire mein connect karna chahiye?",
+      "options": {
+        "A": "Neutral wire",
+        "B": "Earth wire",
+        "C": "Phase wire",
+        "D": "Kisi bhi wire mein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Safety ke liye switch ko hamesha Phase wire mein connect karna chahiye taaki appliance ko poori tarah se disconnect kiya ja sake."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Conduit wiring mein wires ko kis cheez ke andar se guzara jata hai?",
+      "options": {
+        "A": "Directly wall mein",
+        "B": "Wooden battens mein",
+        "C": "PVC ya metal pipes mein",
+        "D": "Air mein"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Conduit wiring mein wires ko PVC ya metal pipes (conduits) ke andar se guzara jata hai protection ke liye."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Ek two-way switch ka use kahan hota hai?",
+      "options": {
+        "A": "Ek light ko ek jagah se control karne ke liye",
+        "B": "Ek light ko do alag-alag jagahon se control karne ke liye",
+        "C": "Do lights ko ek jagah se control karne ke liye",
+        "D": "Fan speed control karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Two-way switch ka use ek light ya appliance ko do alag-alag points se ON/OFF karne ke liye hota hai, jaise stairs mein."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Socket outlet mein sabse bada pin kiska hota hai?",
+      "options": {
+        "A": "Phase",
+        "B": "Neutral",
+        "C": "Earth",
+        "D": "Load"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Socket outlet mein sabse bada aur mota pin Earth connection ke liye hota hai, jo safety provide karta hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Sub-main distribution board (DB) ka kya function hai?",
+      "options": {
+        "A": "Poore ghar ki power supply control karna",
+        "B": "Power ko alag-alag circuits mein distribute karna",
+        "C": "Voltage ko regulate karna",
+        "D": "Current ko measure karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "DB (Distribution Board) main incoming power ko ghar ke alag-alag circuits (lights, fans, sockets) mein distribute karta hai aur protection provide karta hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "PVC conduit wiring ka kya fayda hai?",
+      "options": {
+        "A": "Aag lagne ka khatra zyada",
+        "B": "Corrosion-resistant aur lightweight",
+        "C": "Bahut mehnga",
+        "D": "Sirf outdoor use ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PVC conduits corrosion-resistant, lightweight aur install karne mein aasan hote hain, jo unhe popular banate hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Loop-in system of wiring ka kya matlab hai?",
+      "options": {
+        "A": "Har appliance ko alag wire se connect karna",
+        "B": "Supply wire ko har point se loop karke agle point tak le jana",
+        "C": "Parallel connection karna",
+        "D": "Series connection karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Loop-in system mein supply wire ko ek switchboard ya junction box mein laya jata hai aur wahan se loop karke agle point tak le jaya jata hai, jisse joints kam hote hain."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Ring main circuit ka kya fayda hai?",
+      "options": {
+        "A": "Wires ki lambai badh jati hai",
+        "B": "Current carrying capacity badh jati hai aur voltage drop kam hota hai",
+        "C": "Sirf lights ke liye use hota hai",
+        "D": "Installation mushkil hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ring main circuit mein har socket do alag-alag paths se connect hota hai, jisse current carrying capacity badhti hai aur voltage drop kam hota hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Fan regulator ka kya kaam hai?",
+      "options": {
+        "A": "Fan ko ON/OFF karna",
+        "B": "Fan ki speed control karna",
+        "C": "Fan ko reverse direction mein ghumana",
+        "D": "Fan ko overheat hone se bachana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fan regulator fan ke motor mein jane wale voltage ya current ko adjust karke uski speed control karta hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Concealed wiring ka kya fayda hai?",
+      "options": {
+        "A": "Wires dikhte hain",
+        "B": "Aesthetic look accha hota hai aur wires protected rehte hain",
+        "C": "Installation bahut sasta hota hai",
+        "D": "Troubleshooting aasan hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Concealed wiring mein wires deewar ke andar chhupe hote hain, jisse ghar ka look clean rehta hai aur wires damage se protected rehte hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Junction box ka kya use hai?",
+      "options": {
+        "A": "Main power supply dena",
+        "B": "Wires ko join karne aur protect karne ke liye",
+        "C": "Voltage regulate karna",
+        "D": "Current measure karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Junction box wires ke joints ko cover aur protect karta hai, aur future access bhi provide karta hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Flexible conduit ka use kahan hota hai?",
+      "options": {
+        "A": "Straight runs mein",
+        "B": "Heavy-duty industrial wiring mein",
+        "C": "Aise jagahon par jahan movement ya vibration ho",
+        "D": "Underground wiring mein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Flexible conduits un jagahon par use hote hain jahan movement ya vibration ho, jaise motors ko connect karne mein, ya tight bends ke liye."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Power socket (16A) ka use kiske liye hota hai?",
+      "options": {
+        "A": "Low power appliances (fan, light)",
+        "B": "High power appliances (AC, geyser)",
+        "C": "Mobile charging",
+        "D": "Computer"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "16A sockets high power consumption wale appliances jaise AC, geyser, refrigerator ke liye hote hain."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Wiring diagram mein 'L' kiska prateek hai?",
+      "options": {
+        "A": "Load",
+        "B": "Line (Phase)",
+        "C": "Light",
+        "D": "Length"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wiring diagrams mein 'L' typically Line ya Phase wire ko represent karta hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Earthing ka primary purpose kya hai?",
+      "options": {
+        "A": "Bijli ka bill kam karna",
+        "B": "Electrical shock se bachav aur equipment ko damage se bachana",
+        "C": "Voltage badhana",
+        "D": "Current ko regulate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Earthing electrical shock se bachav aur appliances ko fault current se hone wale damage se protect karta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "MCB ka full form kya hai?",
+      "options": {
+        "A": "Main Circuit Breaker",
+        "B": "Miniature Circuit Breaker",
+        "C": "Motor Control Box",
+        "D": "Manual Current Breaker"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "MCB ka full form Miniature Circuit Breaker hota hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "MCB kis cheez se protect karta hai?",
+      "options": {
+        "A": "Low voltage",
+        "B": "Overload aur Short Circuit",
+        "C": "High frequency",
+        "D": "Power factor fluctuations"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MCB circuit ko overload aur short circuit conditions se protect karta hai by automatically tripping."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Fuse kis principle par kaam karta hai?",
+      "options": {
+        "A": "Magnetic effect of current",
+        "B": "Heating effect of current",
+        "C": "Chemical effect of current",
+        "D": "Capacitive effect of current"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fuse heating effect of current par kaam karta hai. Jab excessive current flow hota hai, toh fuse wire heat hokar melt ho jata hai aur circuit break kar deta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "ELCB ka full form kya hai?",
+      "options": {
+        "A": "Electrical Load Circuit Breaker",
+        "B": "Earth Leakage Circuit Breaker",
+        "C": "Emergency Light Control Board",
+        "D": "Extra Low Current Battery"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ELCB ka full form Earth Leakage Circuit Breaker hota hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "ELCB/RCCB ka primary function kya hai?",
+      "options": {
+        "A": "Overload protection",
+        "B": "Short circuit protection",
+        "C": "Earth leakage current (shock) se protection",
+        "D": "Voltage fluctuations se protection"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "ELCB/RCCB earth leakage current ko detect karke circuit ko trip kar deta hai, is prakar electrical shock se bachav karta hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Plate earthing mein, earth plate kis metal ki bani hoti hai?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Steel",
+        "C": "Copper ya Galvanized Iron (GI)",
+        "D": "Lead"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Plate earthing mein, earth plate generally Copper ya Galvanized Iron (GI) ki bani hoti hai, jo zameen mein gadi jati hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Short circuit kya hota hai?",
+      "options": {
+        "A": "Jab load bahut kam ho",
+        "B": "Jab Phase aur Neutral wire direct contact mein aa jayein",
+        "C": "Jab voltage bahut kam ho",
+        "D": "Jab current bahut kam ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Short circuit tab hota hai jab Phase aur Neutral wire bina kisi load ke direct contact mein aa jate hain, jisse bahut high current flow hota hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Overload condition kya hoti hai?",
+      "options": {
+        "A": "Circuit mein current rated value se kam ho",
+        "B": "Circuit mein current rated value se zyada ho",
+        "C": "Circuit mein voltage rated value se zyada ho",
+        "D": "Circuit mein resistance zero ho jaye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Overload tab hota hai jab circuit se uski rated capacity se zyada current draw kiya jata hai, jisse wires garam ho sakte hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "RCCB ka test button dabane par kya hona chahiye?",
+      "options": {
+        "A": "Kuch nahi hoga",
+        "B": "Light ON ho jayegi",
+        "C": "RCCB trip ho jayega",
+        "D": "Voltage badh jayega"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "RCCB ka test button uski functioning check karne ke liye hota hai. Test button dabane par RCCB ko trip hona chahiye."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Kitne samay mein RCCB ko test karna chahiye?",
+      "options": {
+        "A": "Saal mein ek baar",
+        "B": "Har mahine",
+        "C": "Hafte mein ek baar",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Safety ke liye, RCCB ko har mahine test button dabakar check karna chahiye."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Residual Current Device (RCD) kiska doosra naam hai?",
+      "options": {
+        "A": "MCB",
+        "B": "Fuse",
+        "C": "RCCB/ELCB",
+        "D": "Voltage Stabilizer"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Residual Current Device (RCD) hi RCCB/ELCB ka common term hai, jo earth leakage protection provide karta hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Earthing resistance kitna hona chahiye residential installations mein (ideal)?",
+      "options": {
+        "A": "100 Ohm se zyada",
+        "B": "10 Ohm se zyada",
+        "C": "1 Ohm se kam",
+        "D": "50 Ohm"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Residential installations mein ideal earthing resistance 1 Ohm se kam hona chahiye, taaki fault current aasani se zameen mein ja sake."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Industrial earthing ke liye kaun sa method zyada use hota hai?",
+      "options": {
+        "A": "Pipe earthing",
+        "B": "Plate earthing",
+        "C": "Strip earthing",
+        "D": "Chemical earthing"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Chemical earthing, jismein electrodes ke aas-paas chemical compounds ka use kiya jata hai, industrial applications mein low and stable earthing resistance ke liye popular hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Fuses ko hamesha kis wire mein connect karna chahiye?",
+      "options": {
+        "A": "Neutral wire",
+        "B": "Earth wire",
+        "C": "Phase (Live) wire",
+        "D": "Kisi bhi wire mein"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Fuse ko hamesha Phase (Live) wire mein connect karna chahiye taaki fault hone par circuit ko poori tarah se disconnect kiya ja sake."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "MCB ki rating kis unit mein hoti hai?",
+      "options": {
+        "A": "Volts",
+        "B": "Watts",
+        "C": "Amperes",
+        "D": "Ohms"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "MCB ki rating current (Amperes) mein hoti hai, jaise 6A, 10A, 16A, etc."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Agar ek fuse baar-baar blow ho raha hai, toh iska kya karan ho sakta hai?",
+      "options": {
+        "A": "Low voltage",
+        "B": "Circuit mein overload ya short circuit",
+        "C": "Acchi wiring",
+        "D": "Fuse ki rating bahut high hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Baar-baar fuse blow hona circuit mein overload ya short circuit ka indication hai, jise check karna zaroori hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "LED ka full form kya hai?",
+      "options": {
+        "A": "Light Emitting Diode",
+        "B": "Low Energy Device",
+        "C": "Light Emitting Display",
+        "D": "Luminous Electric Diode"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "LED ka full form Light Emitting Diode hota hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "LED lights ka sabse bada fayda kya hai?",
+      "options": {
+        "A": "Bahut saste hote hain",
+        "B": "Kam energy consume karte hain aur lambi life hoti hai",
+        "C": "Sirf ek color mein available hain",
+        "D": "Bahut zyada heat generate karte hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "LED lights energy efficient hoti hain aur incandescent ya CFL bulbs ke mukable bahut lambi life hoti hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "LED driver ka kya kaam hai?",
+      "options": {
+        "A": "LED light ko mount karna",
+        "B": "AC supply ko DC supply mein convert karna aur current regulate karna",
+        "C": "LED ka color change karna",
+        "D": "LED ki brightness badhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LED driver AC input ko constant DC output mein convert karta hai jo LED ko power karta hai, aur current ko regulate karta hai taaki LED damage na ho."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "LED strip lights ko install karte samay kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Unhe waterproof jagah par lagana",
+        "B": "Sahi voltage aur current ke driver ka use karna",
+        "C": "Unhe direct sunlight mein lagana",
+        "D": "Kisi bhi wire se connect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LED strip lights ke liye hamesha recommended voltage aur current rating wale driver ka use karna chahiye."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Warm White LED ka color temperature kitna hota hai?",
+      "options": {
+        "A": "5000K se zyada",
+        "B": "2700K - 3000K",
+        "C": "4000K - 4500K",
+        "D": "6000K"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Warm White LED ka color temperature 2700K - 3000K ke beech hota hai, jo yellowish light deta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Cool White LED ka color temperature kitna hota hai?",
+      "options": {
+        "A": "2700K - 3000K",
+        "B": "4000K",
+        "C": "5000K - 6500K",
+        "D": "1000K"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cool White LED ka color temperature 5000K - 6500K ke beech hota hai, jo bluish-white light deta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Downlight ka use kahan hota hai?",
+      "options": {
+        "A": "Outdoor floodlighting ke liye",
+        "B": "Ceiling mein recessed lighting ke liye",
+        "C": "Street lighting ke liye",
+        "D": "Decorative rope lighting ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Downlights ceiling mein install kiye jate hain aur niche ki taraf light throw karte hain, jo general illumination ke liye use hota hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "LED panel light kahan use hoti hai?",
+      "options": {
+        "A": "Chhote areas ko highlight karne ke liye",
+        "B": "Large office spaces ya commercial areas mein general lighting ke liye",
+        "C": "Outdoor security light ke roop mein",
+        "D": "Emergency lighting ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LED panel lights uniform aur bright illumination provide karti hain, jo office, hospitals aur commercial spaces ke liye ideal hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "IP rating kya darshata hai?",
+      "options": {
+        "A": "Internal Power",
+        "B": "Installation Procedure",
+        "C": "Ingress Protection",
+        "D": "Initial Performance"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "IP rating (Ingress Protection) electrical enclosures ki dust aur water se protection level ko batata hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Outdoor use ke liye LED light ki minimum IP rating kya honi chahiye?",
+      "options": {
+        "A": "IP20",
+        "B": "IP40",
+        "C": "IP65",
+        "D": "IP10"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Outdoor use ke liye, LED lights ko kam se kam IP65 rated hona chahiye, jo dust-tight aur water jet protected hota hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Dimmer switch ka use LED lights ke saath kaise kiya jata hai?",
+      "options": {
+        "A": "Sirf ON/OFF karne ke liye",
+        "B": "LED ki brightness adjust karne ke liye",
+        "C": "LED ka color change karne ke liye",
+        "D": "LED ki life kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dimmer switch se LED lights ki brightness ko adjust kiya ja sakta hai, lekin iske liye 'dimmable' LED lights aur compatible dimmer ki zaroorat hoti hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "LED light flickering kar rahi hai, iska kya karan ho sakta hai?",
+      "options": {
+        "A": "Voltage bahut high hai",
+        "B": "Loose connection ya faulty driver",
+        "C": "LED ki life bahut zyada hai",
+        "D": "Room bahut garam hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LED flickering ke common reasons mein loose connections, faulty LED driver ya incompatible dimmer switch shamil hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "LED batten light kiska replacement hai?",
+      "options": {
+        "A": "Incandescent bulb",
+        "B": "CFL bulb",
+        "C": "Fluorescent tube light",
+        "D": "Halogen lamp"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "LED batten lights traditional fluorescent tube lights ka energy-efficient replacement hain."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "RGB LED ka kya matlab hai?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Real Good Brightness",
+        "C": "Regular Green Bulb",
+        "D": "Round Glass Bulb"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "RGB LEDs Red, Green aur Blue colors ko mix karke alag-alag shades ki light produce kar sakte hain."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "LED installation se pehle kya check karna zaroori hai?",
+      "options": {
+        "A": "Wall ka color",
+        "B": "Supply voltage aur LED ki compatibility",
+        "C": "Room ka temperature",
+        "D": "Floor ki height"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "LED lights ko install karne se pehle, yeh ensure karna zaroori hai ki supply voltage LED requirements ke saath compatible ho."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Ek LED light ON nahi ho rahi hai, sabse pehle kya check karenge?",
+      "options": {
+        "A": "LED ko nikal denge",
+        "B": "Connection, switch aur driver",
+        "C": "Poore ghar ki bijli band kar denge",
+        "D": "Nayi LED laga denge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sabse pehle loose connections, faulty switch ya dead driver ko check karna chahiye."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Heat sink ka kya role hai LED lights mein?",
+      "options": {
+        "A": "Light ko zyada bright banana",
+        "B": "LED se generate hone wali heat ko dissipate karna",
+        "C": "LED ka color badalna",
+        "D": "LED ko waterproof banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "LEDs heat generate karti hain. Heat sink is heat ko dissipate karta hai taaki LED ki life aur performance maintain rahe."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Agar ek socket kaam nahi kar raha hai, toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Poore ghar ki wiring badal dena",
+        "B": "MCB/Fuse aur socket ke connections",
+        "C": "Naya appliance lagana",
+        "D": "Wall ko todna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sabse pehle us circuit ka MCB ya fuse check karein, aur phir socket ke andar ke connections ki loose ya damage toh nahi hain."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "MCB baar-baar trip ho raha hai, iska kya karan ho sakta hai?",
+      "options": {
+        "A": "Voltage bahut kam hai",
+        "B": "Circuit mein overload ya short circuit",
+        "C": "AC chalu hai",
+        "D": "Wiring bahut purani hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MCB trip hone ka matlab hai ki circuit mein overload (too many appliances) ya short circuit (faulty wiring/appliance) hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Kisi electrical appliance se 'shock' lag raha hai, toh kya problem ho sakti hai?",
+      "options": {
+        "A": "Appliance bahut naya hai",
+        "B": "Appliance ki casing mein electrical leakage hai aur earthing theek nahi hai",
+        "C": "Voltage bahut high hai",
+        "D": "Current bahut kam hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Appliance se shock lagna usually electrical leakage aur faulty/missing earthing ka indication hota hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Electrical maintenance karte samay sabse important safety rule kya hai?",
+      "options": {
+        "A": "Hamesha gloves pehenna",
+        "B": "Power supply ko isolate karna (OFF karna)",
+        "C": "Tools ko saaf rakhna",
+        "D": "Dusre technicians se help lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Koi bhi electrical maintenance ya repair work shuru karne se pehle power supply ko isolate karna (main switch OFF karna) sabse zaroori hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Loose connections se kya ho sakta hai?",
+      "options": {
+        "A": "Bijli ka bill kam hoga",
+        "B": "Flickering lights, heat generation aur fire hazard",
+        "C": "Voltage badh jayega",
+        "D": "Current kam ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Loose connections resistance badhate hain, jisse heat generate hoti hai, lights flicker karti hain aur fire ka risk badhta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Agar light ON nahi ho rahi hai aur bulb theek hai, toh kya check karna chahiye?",
+      "options": {
+        "A": "Switch, wiring connections aur circuit ka MCB",
+        "B": "Pani ki supply",
+        "C": "Gas cylinder",
+        "D": "Temperature control"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Bulb theek hone par, problem switch, wiring connections ya circuit ke MCB mein ho sakti hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Preventive maintenance ka kya fayda hai?",
+      "options": {
+        "A": "Failures ko hone ke baad theek karna",
+        "B": "Equipment failures ko pehle se rokna aur life badhana",
+        "C": "Bijli zyada use karna",
+        "D": "Sirf naye equipment par apply karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Preventive maintenance regular inspections aur servicing karke potential problems ko hone se pehle hi theek karta hai, jisse equipment life badhti hai aur breakdowns kam hote hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Wiring mein 'burning smell' aa rahi hai, iska kya matlab hai?",
+      "options": {
+        "A": "Normal hai",
+        "B": "Overheating ya short circuit ka indication, turant power off karein",
+        "C": "Koi chemical leak ho raha hai",
+        "D": "AC chal raha hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Burning smell overheating ya short circuit ka serious indication hai. Turant power supply off karke problem investigate karni chahiye."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Multimeter ka use karke dead circuit mein kya check kar sakte hain?",
+      "options": {
+        "A": "Voltage",
+        "B": "Current",
+        "C": "Continuity aur Resistance",
+        "D": "Power consumption"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dead circuit (power off) mein continuity check karke open circuits ya short circuits detect kiye ja sakte hain, aur resistance bhi measure kiya ja sakta hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Faulty LED driver ke kya symptoms ho sakte hain?",
+      "options": {
+        "A": "LED bahut bright ho jayegi",
+        "B": "LED flickering, dimming, ya completely OFF ho jayegi",
+        "C": "LED ka color change ho jayega",
+        "D": "LED zyada garam ho jayegi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Faulty LED driver ke karan LED flickering, dimming ho sakti hai ya bilkul bhi ON nahi hogi."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Electrical panel mein dust aur debris jama hone se kya risk hai?",
+      "options": {
+        "A": "Kuch nahi hoga",
+        "B": "Overheating, short circuit aur fire hazard",
+        "C": "Panel ka look kharab hoga",
+        "D": "Noise badhegi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dust aur debris heat ko trap kar sakte hain, jisse components overheat ho sakte hain, aur conductive dust short circuits ka karan ban sakti hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Electrical system mein noise (humming sound) ka kya karan ho sakta hai?",
+      "options": {
+        "A": "Light load",
+        "B": "Loose connections, faulty transformer ya motor",
+        "C": "Low temperature",
+        "D": "Good wiring"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Humming sound loose connections, over-tightened connections, faulty transformers, motors ya chokes ka indication ho sakta hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Agar ek room mein sabhi lights aur sockets kaam nahi kar rahe hain, toh kya check karna chahiye?",
+      "options": {
+        "A": "Us room ka individual MCB ya fuse aur main DB",
+        "B": "Padosi ke ghar ki bijli",
+        "C": "Water supply",
+        "D": "Furniture ki position"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Agar poore room mein power nahi hai, toh us room ke circuit ka MCB ya fuse aur main distribution board check karna chahiye."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Electrical tape ka kya use hai troubleshooting mein?",
+      "options": {
+        "A": "Wires ko cut karna",
+        "B": "Temporary insulation aur wire joints ko protect karna",
+        "C": "Voltage measure karna",
+        "D": "Screws tight karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical tape ka use expose wires ko insulate karne aur wire joints ko protect karne ke liye hota hai, often as a temporary fix."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Electrical fault ko troubleshoot karte samay kis approach ka use karna chahiye?",
+      "options": {
+        "A": "Randomly components change karna",
+        "B": "Systematic approach (power off, check, test, rectify)",
+        "C": "Sirf experience par rely karna",
+        "D": "Problem ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek systematic approach, jismein safety precautions, logical checks aur testing shamil ho, effective troubleshooting ke liye zaroori hai."
+    }
+  ]
+}

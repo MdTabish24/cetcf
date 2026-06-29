@@ -1,0 +1,1443 @@
+{
+  "course_name": "Indian Cuisine — Professional Cook",
+  "sector": "Food, Catering & Hospitality",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Kitchen Fundamentals aur Food Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Indian Spices aur Ingredients",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Basic Cooking Techniques aur Methods",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Regional Indian Cuisine",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Vegetarian aur Non-Vegetarian Dishes",
+      "question_range": "Q69-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Professional Kitchen Management aur Hygiene",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Kitchen mein safe working temperature kaun sa hota hai?",
+      "options": {
+        "A": "21-24 degrees Celsius",
+        "B": "15-18 degrees Celsius",
+        "C": "25-30 degrees Celsius",
+        "D": "10-15 degrees Celsius"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Professional kitchen ka ideal temperature 21-24 degrees Celsius hota hai jisse staff comfortable rahe aur food quality maintain rahe."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Food poisoning rokne ke liye raw aur cooked food ko alag rakhna kya kahlaata hai?",
+      "options": {
+        "A": "Cross contamination prevention",
+        "B": "Segregation of food items",
+        "C": "Food separation",
+        "D": "Quarantine method"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Cross contamination prevention se raw food ke bacteria cooked food mein nahi jaate aur food poisoning nahi hota."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Kitchen utensils ko sanitize karne ke liye kitne temperature par paani use hona chahiye?",
+      "options": {
+        "A": "40-50 degrees Celsius",
+        "B": "60-70 degrees Celsius",
+        "C": "80-90 degrees Celsius",
+        "D": "100 degrees Celsius"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "80-90 degrees Celsius ke paani se utensils properly sanitize hote hain aur bacteria mar jaate hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "HACCP ka full form kya hai?",
+      "options": {
+        "A": "Hazard Analysis Critical Control Points",
+        "B": "Health And Cleanliness Control Program",
+        "C": "Hygiene Analysis Critical Care Protocol",
+        "D": "Hazard Assessment Critical Cooking Points"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "HACCP ek food safety management system hai jo hazards identify karta hai aur control points establish karta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Perishable food items ko kitne hours mein use karna chahiye?",
+      "options": {
+        "A": "12 hours",
+        "B": "24 hours",
+        "C": "48 hours",
+        "D": "72 hours"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Perishable items jaise milk, meat, fish ko 24 hours mein use karna chahiye nahi to woh spoil ho jaate hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Kitchen mein hand washing ke liye soap aur paani ke baad kya karna chahiye?",
+      "options": {
+        "A": "Seedha kaam par chale jana",
+        "B": "Clean cloth se pouchna",
+        "C": "Air dry karna ya clean towel use karna",
+        "D": "Apne uniform se pouchna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Hath dhone ke baad clean towel ya air dry karna chahiye taki bacteria na rahe."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Food storage ke liye freezer ka temperature kaun sa hota hai?",
+      "options": {
+        "A": "0 se 4 degrees Celsius",
+        "B": "-12 se -18 degrees Celsius",
+        "C": "5 se 8 degrees Celsius",
+        "D": "10 se 15 degrees Celsius"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Freezer mein -12 se -18 degrees Celsius temperature hota hai jo food ko long time tak preserve rakhta hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Kitchen knife ko sharpen karte samay kaunsa tool use hota hai?",
+      "options": {
+        "A": "Honing steel",
+        "B": "Cutting board",
+        "C": "Grinder",
+        "D": "Mortar and pestle"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Honing steel se knife ke blade ko sharpen kiya jaata hai aur woh cutting mein efficient rahe."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Professional kitchen mein chef ka uniform kaun se color ka hona chahiye?",
+      "options": {
+        "A": "Black",
+        "B": "White",
+        "C": "Grey",
+        "D": "Blue"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "White uniform professional kitchen standard hai aur cleanliness ko represent karta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Kitchen mein fire extinguisher kaun sa type use hona chahiye?",
+      "options": {
+        "A": "Type A only",
+        "B": "Type B only",
+        "C": "Type C only",
+        "D": "Type ABC"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Type ABC fire extinguisher sab types ke fires ko handle kar sakta hai aur kitchen mein sabse safe hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Raw meat ko kitchen mein kaun se cutting board par cut karna chahiye?",
+      "options": {
+        "A": "Wooden board",
+        "B": "Red color ka board",
+        "C": "Glass board",
+        "D": "Plastic board"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Red color ka cutting board specifically raw meat ke liye use hota hai cross contamination se bachne ke liye."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Kitchen mein pest control ke liye kaun sa method use nahi hona chahiye?",
+      "options": {
+        "A": "Regular cleaning",
+        "B": "Proper storage",
+        "C": "Pesticide spray during cooking",
+        "D": "Sealed containers"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cooking ke samay pesticide spray nahi karna chahiye kyunki woh food ko contaminate kar sakta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Kitchen waste ko handle karte samay kaun sa practice galat hai?",
+      "options": {
+        "A": "Separate wet aur dry waste",
+        "B": "Regular disposal",
+        "C": "Waste ko open rakhna",
+        "D": "Covered bins use karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Waste ko kabhi open nahi rakhna chahiye kyunki us se bacteria aur pests aate hain."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Kitchen equipment ki maintenance log book mein kya record kiya jaata hai?",
+      "options": {
+        "A": "Employee names",
+        "B": "Equipment check dates aur repairs",
+        "C": "Recipe details",
+        "D": "Customer feedback"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Equipment maintenance log mein check dates aur repairs record kiye jaate hain equipment ki life badhaane ke liye."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Shelf life ka matlab kya hota hai?",
+      "options": {
+        "A": "Shelf par rakha hona",
+        "B": "Kitne time tak item use ho sakta hai",
+        "C": "Shelf ki height",
+        "D": "Shelf ko clean karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shelf life woh time period hai jis tak koi food item safe aur usable rahe."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Kitchen mein first aid kit mein kaun si cheez hona chahiye?",
+      "options": {
+        "A": "Sirf bandages",
+        "B": "Bandages, antiseptic, pain relief, gloves",
+        "C": "Sirf medicines",
+        "D": "Sirf ice packs"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Complete first aid kit mein bandages, antiseptic, pain relief aur gloves sab hona chahiye."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Refrigerator mein food ko store karte samay kaun sa practice follow karna chahiye?",
+      "options": {
+        "A": "Sab cheez ek saath rakh do",
+        "B": "Raw meat ko top shelf par rakho",
+        "C": "Cooked food ko raw food se alag rakho",
+        "D": "Vegetables ko meat ke saath rakho"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Cooked food ko raw food se alag rakna chahiye cross contamination se bachne ke liye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Turmeric powder mein kaun sa active compound hota hai?",
+      "options": {
+        "A": "Capsaicin",
+        "B": "Curcumin",
+        "C": "Piperine",
+        "D": "Cinnamaldehyde"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Curcumin turmeric mein hota hai jo anti-inflammatory properties deta hai aur Indian cuisine mein widely use hota hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Garam masala mein kaun se spices include hote hain?",
+      "options": {
+        "A": "Sirf chili powder",
+        "B": "Cinnamon, cardamom, cloves, black pepper",
+        "C": "Sirf turmeric",
+        "D": "Sirf coriander"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Garam masala mein cinnamon, cardamom, cloves, black pepper aur anya spices hote hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Saffron kaun se plant se aata hai?",
+      "options": {
+        "A": "Crocus sativus",
+        "B": "Zingiber officinale",
+        "C": "Cuminum cyminum",
+        "D": "Coriandrum sativum"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Saffron Crocus sativus flower se aata hai aur duniya mein sabse expensive spice hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Chili powder mein heat kaun se compound se aata hai?",
+      "options": {
+        "A": "Curcumin",
+        "B": "Capsaicin",
+        "C": "Piperine",
+        "D": "Cinnamaldehyde"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Capsaicin chili mein hota hai jo spicy taste deta hai aur heat create karta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Cumin seeds ka English name kya hai?",
+      "options": {
+        "A": "Jeera",
+        "B": "Cuminum cyminum",
+        "C": "Dill seeds",
+        "D": "Fennel seeds"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cumin seeds ka scientific name Cuminum cyminum hai aur jeera ke naam se bhi jaana jaata hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Coriander powder mein kaun si aroma hoti hai?",
+      "options": {
+        "A": "Sweet aur citrus-like",
+        "B": "Bitter",
+        "C": "Sour",
+        "D": "Pungent"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Coriander powder mein sweet aur citrus-like aroma hoti hai jo Indian dishes mein widely use hoti hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Black cardamom aur green cardamom mein kya difference hai?",
+      "options": {
+        "A": "Sirf color different hai",
+        "B": "Black cardamom smoky flavor deta hai, green cardamom sweet",
+        "C": "Black cardamom sweet hai, green cardamom bitter",
+        "D": "Koi difference nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Black cardamom smoky aur strong flavor deta hai jabki green cardamom sweet aur aromatic hota hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Asafoetida (Hing) ka use kaunse dishes mein zyada hota hai?",
+      "options": {
+        "A": "Sirf sweet dishes",
+        "B": "Sirf non-vegetarian",
+        "C": "Vegetarian dishes aur lentils",
+        "D": "Sirf beverages"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Asafoetida vegetarian dishes aur lentils mein widely use hota hai digestive properties ke liye."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Fenugreek leaves (Methi) ko kaun se form mein use kiya jaata hai?",
+      "options": {
+        "A": "Sirf dried form",
+        "B": "Fresh leaves aur dried dono",
+        "C": "Sirf powder form",
+        "D": "Sirf oil form"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Methi ko fresh leaves aur dried dono forms mein use kiya jaata hai Indian cooking mein."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Ginger aur garlic paste banate samay kaun sa ratio use hota hai?",
+      "options": {
+        "A": "1:1",
+        "B": "1:2",
+        "C": "2:1",
+        "D": "1:3"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Ginger aur garlic paste usually 1:1 ratio mein banaya jaata hai Indian recipes mein."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Coconut milk banate samay kaun se parts use hote hain?",
+      "options": {
+        "A": "Sirf kernel",
+        "B": "Kernel aur water dono",
+        "C": "Sirf shell",
+        "D": "Sirf water"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Coconut milk kernel aur water dono ko blend karke banaya jaata hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Tamarind paste mein kaun sa taste hota hai?",
+      "options": {
+        "A": "Sweet",
+        "B": "Bitter",
+        "C": "Sour aur tangy",
+        "D": "Pungent"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tamarind paste mein sour aur tangy taste hota hai jo Indian curries mein use hota hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Chaat masala mein kaun sa ingredient nahi hota?",
+      "options": {
+        "A": "Amchur (dry mango powder)",
+        "B": "Black salt",
+        "C": "Cumin",
+        "D": "Turmeric"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Chaat masala mein amchur, black salt, cumin hote hain lekin turmeric nahi hota."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Panch phoron mein kaun se seeds hote hain?",
+      "options": {
+        "A": "Cumin, coriander, fenugreek, fennel, nigella",
+        "B": "Sirf cumin aur coriander",
+        "C": "Sirf fennel",
+        "D": "Sirf mustard"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Panch phoron mein 5 seeds hote hain - cumin, coriander, fenugreek, fennel aur nigella."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Kasuri methi ka use kaun se dishes mein zyada hota hai?",
+      "options": {
+        "A": "Soups mein",
+        "B": "Tandoori aur dry curries mein",
+        "C": "Desserts mein",
+        "D": "Beverages mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kasuri methi (dried fenugreek leaves) tandoori aur dry curries mein use hote hain unique flavor ke liye."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Jaggery (Gur) kaun se plant se banaya jaata hai?",
+      "options": {
+        "A": "Wheat",
+        "B": "Sugarcane",
+        "C": "Rice",
+        "D": "Corn"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jaggery sugarcane se banaya jaata hai aur Indian cuisine mein sweetness add karta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Ghee banate samay butter ko kaun se temperature par heat kiya jaata hai?",
+      "options": {
+        "A": "50-60 degrees Celsius",
+        "B": "80-90 degrees Celsius",
+        "C": "110-120 degrees Celsius",
+        "D": "140-150 degrees Celsius"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ghee banate samay butter ko 110-120 degrees Celsius par heat kiya jaata hai water evaporate hone ke liye."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Tempering (Tadka) technique mein kaun sa step pehle aata hai?",
+      "options": {
+        "A": "Spices ko oil mein add karna",
+        "B": "Oil ko heat karna",
+        "C": "Curry mein tadka dalna",
+        "D": "Spices ko crush karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tempering mein pehle oil ko heat kiya jaata hai, phir spices add kiye jaate hain aur finally curry mein dala jaata hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Roasting technique se spices ko kaun se benefit milte hain?",
+      "options": {
+        "A": "Moisture add hota hai",
+        "B": "Flavor aur aroma enhance hote hain",
+        "C": "Color change hota hai",
+        "D": "Weight badhta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Roasting se spices ka flavor aur aroma enhance hote hain aur woh zyada fragrant ban jaate hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Marinating technique mein meat ko kitne time ke liye soak kiya jaata hai?",
+      "options": {
+        "A": "15-30 minutes",
+        "B": "1-2 hours",
+        "C": "4-8 hours",
+        "D": "24 hours"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Marinating usually 1-2 hours ke liye ki jaati hai jisse flavors meat mein penetrate ho jayen."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Tandoori cooking technique mein kaun sa equipment use hota hai?",
+      "options": {
+        "A": "Pressure cooker",
+        "B": "Tandoor (clay oven)",
+        "C": "Microwave",
+        "D": "Slow cooker"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tandoori cooking mein Tandoor (traditional clay oven) use hota hai jo high temperature par cook karta hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Steaming technique mein food ko kaun se medium mein cook kiya jaata hai?",
+      "options": {
+        "A": "Direct heat se",
+        "B": "Steam se",
+        "C": "Oil mein",
+        "D": "Water mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Steaming mein food ko steam se cook kiya jaata hai jo healthy cooking method hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Pressure cooking se food ko kaun sa benefit milta hai?",
+      "options": {
+        "A": "Sirf taste",
+        "B": "Sirf color",
+        "C": "Time aur fuel dono kam hote hain",
+        "D": "Sirf aroma"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Pressure cooking mein time aur fuel dono kam hote hain kyunki high pressure se food jaldi cook hota hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Braising technique mein meat ko kaun se medium mein cook kiya jaata hai?",
+      "options": {
+        "A": "Sirf dry heat",
+        "B": "Sirf liquid",
+        "C": "Pehle sear karna phir liquid mein",
+        "D": "Sirf oil"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Braising mein meat ko pehle sear kiya jaata hai phir liquid mein slow cook kiya jaata hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Sauteing technique mein kaun sa temperature use hota hai?",
+      "options": {
+        "A": "Low heat",
+        "B": "Medium heat",
+        "C": "High heat",
+        "D": "Very low heat"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sauteing mein high heat use hota hai jisse food quickly cook ho aur color badal jaye."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Simmering technique mein liquid ko kaun se state mein rakhna chahiye?",
+      "options": {
+        "A": "Boiling state",
+        "B": "Just below boiling point",
+        "C": "Room temperature",
+        "D": "Freezing point"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Simmering mein liquid ko just below boiling point par rakhna chahiye slow cooking ke liye."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Blanching technique kaun se vegetables ke liye use hoti hai?",
+      "options": {
+        "A": "Sirf root vegetables",
+        "B": "Sirf leafy vegetables",
+        "C": "Green vegetables aur legumes",
+        "D": "Sirf fruits"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Blanching green vegetables aur legumes ke liye use hoti hai color aur texture preserve karne ke liye."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Reduction technique mein liquid ko kaun se purpose se heat kiya jaata hai?",
+      "options": {
+        "A": "Temperature badhane ke liye",
+        "B": "Volume kam karne aur flavor concentrate karne ke liye",
+        "C": "Liquid ko cool karne ke liye",
+        "D": "Liquid ko freeze karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reduction mein liquid ko heat karke volume kam kiya jaata hai jisse flavor concentrate ho jaye."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Deep frying mein oil ka temperature kaun sa hona chahiye?",
+      "options": {
+        "A": "120-130 degrees Celsius",
+        "B": "150-160 degrees Celsius",
+        "C": "170-180 degrees Celsius",
+        "D": "200+ degrees Celsius"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Deep frying mein oil ka temperature 170-180 degrees Celsius hona chahiye perfect frying ke liye."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Shallow frying aur deep frying mein kaun sa main difference hai?",
+      "options": {
+        "A": "Oil ka type different hai",
+        "B": "Oil ki quantity aur depth different hai",
+        "C": "Temperature different hai",
+        "D": "Koi difference nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shallow frying mein kam oil use hota hai aur deep frying mein zyada oil use hota hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Dry roasting technique mein kaun sa equipment use hota hai?",
+      "options": {
+        "A": "Oil ke saath pan",
+        "B": "Dry pan ya tava",
+        "C": "Oven",
+        "D": "Microwave"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dry roasting mein dry pan ya tava use hota hai bina oil ke spices ko roast karne ke liye."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Ghee tempering mein ghee ko kaun se temperature par heat kiya jaata hai?",
+      "options": {
+        "A": "50 degrees Celsius",
+        "B": "80 degrees Celsius",
+        "C": "120-130 degrees Celsius",
+        "D": "180 degrees Celsius"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ghee tempering mein ghee ko 120-130 degrees Celsius par heat kiya jaata hai spices ko fragrant karne ke liye."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Emulsification technique mein kaun se ingredients combine hote hain?",
+      "options": {
+        "A": "Sirf solids",
+        "B": "Sirf liquids",
+        "C": "Oil aur water like immiscible liquids",
+        "D": "Sirf powders"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Emulsification mein oil aur water jaise immiscible liquids ko combine kiya jaata hai sauce banane ke liye."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Caramelization technique mein kaun sa ingredient use hota hai?",
+      "options": {
+        "A": "Sirf salt",
+        "B": "Sugar ko heat karke",
+        "C": "Sirf spices",
+        "D": "Sirf oil"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Caramelization mein sugar ko heat karke brown color aur sweet flavor create kiya jaata hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "North Indian cuisine mein kaun se bread ka use zyada hota hai?",
+      "options": {
+        "A": "Idli",
+        "B": "Roti, naan, paratha",
+        "C": "Dosa",
+        "D": "Appam"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "North Indian cuisine mein roti, naan, paratha jaise breads widely use hote hain."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "South Indian cuisine mein kaun se dish famous hai?",
+      "options": {
+        "A": "Butter chicken",
+        "B": "Idli aur dosa",
+        "C": "Biryani",
+        "D": "Tandoori chicken"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "South Indian cuisine mein idli aur dosa sabse famous dishes hain."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Bengali cuisine mein kaun sa fish dish famous hai?",
+      "options": {
+        "A": "Tandoori fish",
+        "B": "Hilsa fish curry",
+        "C": "Fish biryani",
+        "D": "Grilled fish"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bengali cuisine mein hilsa fish curry (ilish maach) sabse famous dish hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Gujarati cuisine mein kaun sa vegetable dish famous hai?",
+      "options": {
+        "A": "Aloo gobi",
+        "B": "Undhiyu",
+        "C": "Chana masala",
+        "D": "Baingan bharta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gujarati cuisine mein undhiyu ek traditional vegetable dish hai jo festival ke time par banaya jaata hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Maharashtrian cuisine mein kaun sa spice blend use hota hai?",
+      "options": {
+        "A": "Garam masala",
+        "B": "Sambhar powder",
+        "C": "Goda masala",
+        "D": "Chaat masala"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Maharashtrian cuisine mein goda masala use hota hai jo unique aur aromatic blend hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Punjabi cuisine mein kaun sa dairy product widely use hota hai?",
+      "options": {
+        "A": "Coconut milk",
+        "B": "Yogurt aur paneer",
+        "C": "Condensed milk",
+        "D": "Cream cheese"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Punjabi cuisine mein yogurt aur paneer widely use hote hain curries aur dishes mein."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Kerala cuisine mein kaun sa ingredient signature ingredient hai?",
+      "options": {
+        "A": "Peanuts",
+        "B": "Sesame",
+        "C": "Coconut",
+        "D": "Almonds"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Kerala cuisine mein coconut ek signature ingredient hai jiska use sabhi dishes mein hota hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Mughlai cuisine mein kaun sa cooking style use hota hai?",
+      "options": {
+        "A": "Steaming",
+        "B": "Slow cooking aur marinating",
+        "C": "Pressure cooking",
+        "D": "Boiling"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mughlai cuisine mein slow cooking aur marinating techniques widely use hote hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Chettinad cuisine kaun se state se relate hai?",
+      "options": {
+        "A": "Karnataka",
+        "B": "Andhra Pradesh",
+        "C": "Tamil Nadu",
+        "D": "Telangana"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Chettinad cuisine Tamil Nadu se relate hai aur spicy aur flavorful dishes ke liye famous hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Awadhi cuisine mein kaun sa meat dish famous hai?",
+      "options": {
+        "A": "Tandoori chicken",
+        "B": "Biryani aur kebabs",
+        "C": "Vindaloo",
+        "D": "Butter chicken"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Awadhi cuisine mein biryani aur kebabs sabse famous dishes hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Hyderabadi biryani mein kaun sa rice use hota hai?",
+      "options": {
+        "A": "Basmati rice",
+        "B": "Brown rice",
+        "C": "Short grain rice",
+        "D": "Jasmine rice"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Hyderabadi biryani mein basmati rice use hota hai jo long grain aur aromatic hota hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Goan cuisine mein kaun sa spice blend use hota hai?",
+      "options": {
+        "A": "Garam masala",
+        "B": "Sambhar powder",
+        "C": "Goan masala aur coconut",
+        "D": "Chaat masala"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Goan cuisine mein Goan masala aur coconut use hote hain jisse unique flavor aata hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Rajasthani cuisine mein kaun sa main ingredient use hota hai?",
+      "options": {
+        "A": "Seafood",
+        "B": "Dairy aur spices",
+        "C": "Fruits",
+        "D": "Vegetables"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rajasthani cuisine mein dairy products aur spices main ingredients hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Odisha cuisine mein kaun sa fish dish famous hai?",
+      "options": {
+        "A": "Tandoori fish",
+        "B": "Fish biryani",
+        "C": "Machha bhaja aur curries",
+        "D": "Grilled fish"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Odisha cuisine mein machha bhaja aur fish curries famous hain."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Kashmiri cuisine mein kaun sa spice blend use hota hai?",
+      "options": {
+        "A": "Garam masala",
+        "B": "Sambhar powder",
+        "C": "Kashmiri masala aur saffron",
+        "D": "Chaat masala"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Kashmiri cuisine mein saffron aur Kashmiri masala use hote hain jisse unique aroma aata hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Telangana cuisine mein kaun sa rice dish famous hai?",
+      "options": {
+        "A": "Idli",
+        "B": "Hyderabadi biryani",
+        "C": "Dosa",
+        "D": "Appam"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Telangana cuisine mein Hyderabadi biryani sabse famous rice dish hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Himachali cuisine mein kaun sa meat dish traditional hai?",
+      "options": {
+        "A": "Tandoori chicken",
+        "B": "Mutton curry aur trout",
+        "C": "Biryani",
+        "D": "Vindaloo"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Himachali cuisine mein mutton curry aur trout fish traditional dishes hain."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Paneer tikka banate samay paneer ko kaun se temperature par cook kiya jaata hai?",
+      "options": {
+        "A": "100 degrees Celsius",
+        "B": "150 degrees Celsius",
+        "C": "180-200 degrees Celsius",
+        "D": "220 degrees Celsius"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Paneer tikka ko tandoor mein 180-200 degrees Celsius par cook kiya jaata hai perfect texture ke liye."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Chana masala mein kaun sa ingredient main hota hai?",
+      "options": {
+        "A": "Kidney beans",
+        "B": "Chickpeas (Kabuli chana)",
+        "C": "Black beans",
+        "D": "Lentils"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chana masala mein chickpeas (kabuli chana) main ingredient hote hain."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Sambar powder mein kaun se ingredients nahi hote?",
+      "options": {
+        "A": "Chili, coriander, cumin",
+        "B": "Turmeric, asafoetida",
+        "C": "Ginger aur garlic",
+        "D": "Fenugreek, asafoetida"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sambar powder mein ginger aur garlic nahi hote, sirf dry spices hote hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Aloo gobi banate samay potatoes aur cauliflower ko kaun se size mein cut kiya jaata hai?",
+      "options": {
+        "A": "Very small pieces",
+        "B": "Medium cubes",
+        "C": "Large chunks",
+        "D": "Slices"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aloo gobi mein potatoes aur cauliflower ko medium cubes mein cut kiya jaata hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Baingan bharta banate samay eggplant ko pehle kaun se method se cook kiya jaata hai?",
+      "options": {
+        "A": "Boiling",
+        "B": "Roasting ya grilling",
+        "C": "Steaming",
+        "D": "Pressure cooking"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Baingan bharta mein eggplant ko pehle roast ya grill kiya jaata hai smoky flavor ke liye."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Tandoori chicken ko kaun sa marinade use karke prepare kiya jaata hai?",
+      "options": {
+        "A": "Sirf oil aur salt",
+        "B": "Yogurt, spices, lemon juice",
+        "C": "Sirf spices",
+        "D": "Sirf lemon juice"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tandoori chicken ko yogurt, spices aur lemon juice se marinate kiya jaata hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Butter chicken mein kaun sa ingredient cream ke saath add hota hai?",
+      "options": {
+        "A": "Sirf tomato",
+        "B": "Tomato aur butter",
+        "C": "Sirf butter",
+        "D": "Sirf lemon"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Butter chicken mein tomato aur butter dono add hote hain creamy sauce banane ke liye."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Shahi tukda banate samay bread ko kaun se oil mein fry kiya jaata hai?",
+      "options": {
+        "A": "Mustard oil",
+        "B": "Coconut oil",
+        "C": "Ghee",
+        "D": "Sunflower oil"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Shahi tukda mein bread ko ghee mein fry kiya jaata hai rich flavor ke liye."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Dal makhani banate samay kaun se lentils use hote hain?",
+      "options": {
+        "A": "Moong dal",
+        "B": "Arhar dal",
+        "C": "Black kidney beans aur red kidney beans",
+        "D": "Masoor dal"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dal makhani mein black kidney beans (urad) aur red kidney beans use hote hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Rogan josh mein kaun se meat ko use kiya jaata hai?",
+      "options": {
+        "A": "Chicken",
+        "B": "Lamb aur goat meat",
+        "C": "Fish",
+        "D": "Pork"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rogan josh mein lamb aur goat meat use hote hain slow cooking ke liye."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Nihari banate samay meat ko kaun se time ke liye slow cook kiya jaata hai?",
+      "options": {
+        "A": "1-2 hours",
+        "B": "3-4 hours",
+        "C": "6-8 hours",
+        "D": "12+ hours"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Nihari mein meat ko 6-8 hours slow cook kiya jaata hai tender aur flavorful banane ke liye."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Korma mein kaun sa ingredient creamy texture deta hai?",
+      "options": {
+        "A": "Tomato",
+        "B": "Yogurt aur cream",
+        "C": "Lemon juice",
+        "D": "Coconut milk"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Korma mein yogurt aur cream creamy texture dete hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Vindaloo curry kaun se type ka hota hai?",
+      "options": {
+        "A": "Mild aur creamy",
+        "B": "Very spicy aur tangy",
+        "C": "Sweet",
+        "D": "Bland"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vindaloo curry very spicy aur tangy hoti hai jisme vinegar aur chili use hote hain."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Chole bhature mein chole ko kaun se time ke liye soak kiya jaata hai?",
+      "options": {
+        "A": "2-3 hours",
+        "B": "4-6 hours",
+        "C": "8-12 hours",
+        "D": "24 hours"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Chole bhature mein chole ko 8-12 hours soak kiya jaata hai soft banane ke liye."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Rajma curry banate samay rajma ko kaun se pressure mein cook kiya jaata hai?",
+      "options": {
+        "A": "1 whistle",
+        "B": "2-3 whistles",
+        "C": "4-5 whistles",
+        "D": "6+ whistles"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rajma curry mein rajma ko 2-3 whistles par cook kiya jaata hai soft banane ke liye."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Malai kofta banate samay kofta ko kaun se medium mein cook kiya jaata hai?",
+      "options": {
+        "A": "Boiling paani mein",
+        "B": "Frying karke",
+        "C": "Steaming",
+        "D": "Pressure cooking"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Malai kofta mein kofta ko pehle fry kiya jaata hai golden brown banane ke liye."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Fish curry banate samay fish ko kaun se temperature par cook kiya jaata hai?",
+      "options": {
+        "A": "80-90 degrees Celsius",
+        "B": "90-100 degrees Celsius",
+        "C": "100-110 degrees Celsius",
+        "D": "120 degrees Celsius"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fish curry mein fish ko 90-100 degrees Celsius par cook kiya jaata hai jisse woh tender rahe."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Kitchen mein mise en place ka matlab kya hota hai?",
+      "options": {
+        "A": "Cooking tools",
+        "B": "Sab ingredients aur utensils pehle se ready rakna",
+        "C": "Food storage",
+        "D": "Cleaning process"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mise en place mein sab ingredients aur utensils pehle se ready rakhe jaate hain cooking shuru karne se pehle."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Kitchen mein inventory management ka main purpose kya hota hai?",
+      "options": {
+        "A": "Sirf recording",
+        "B": "Wastage kam karna aur stock control",
+        "C": "Sirf counting",
+        "D": "Sirf organizing"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Inventory management se wastage kam hota hai aur stock properly control hota hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "FIFO principle kitchen mein kaun se purpose ke liye use hoti hai?",
+      "options": {
+        "A": "Fast cooking",
+        "B": "First In First Out - older stock pehle use",
+        "C": "Food inventory",
+        "D": "Fire safety"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "FIFO (First In First Out) principle se older stock pehle use hota hai aur freshness maintain hoti hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Kitchen mein portion control kaun se purpose se kiya jaata hai?",
+      "options": {
+        "A": "Sirf taste",
+        "B": "Cost control aur consistency",
+        "C": "Sirf presentation",
+        "D": "Sirf speed"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Portion control se cost control hota hai aur har dish mein consistency maintain hoti hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Kitchen staff ke liye kaun sa training sabse important hota hai?",
+      "options": {
+        "A": "Sirf cooking",
+        "B": "Food safety aur hygiene",
+        "C": "Sirf customer service",
+        "D": "Sirf speed"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Food safety aur hygiene training kitchen staff ke liye sabse important hota hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Kitchen equipment ka preventive maintenance kaun se interval par kiya jaata hai?",
+      "options": {
+        "A": "Jab equipment kharab ho jaye",
+        "B": "Regular intervals par",
+        "C": "Kabhi nahi",
+        "D": "Sirf annual basis par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Equipment ka preventive maintenance regular intervals par kiya jaata hai breakdown rokne ke liye."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Kitchen mein menu planning kaun se factors ko consider karke kiya jaata hai?",
+      "options": {
+        "A": "Sirf chef ki pasand",
+        "B": "Seasonal ingredients, availability, cost, customer preference",
+        "C": "Sirf customer preference",
+        "D": "Sirf cost"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Menu planning mein seasonal ingredients, availability, cost aur customer preference sab consider kiye jaate hain."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Kitchen mein waste reduction ke liye kaun sa practice follow kiya jaata hai?",
+      "options": {
+        "A": "Waste ko dump karna",
+        "B": "Proper cutting techniques aur byproduct utilization",
+        "C": "Sirf discarding",
+        "D": "Kuch nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Waste reduction ke liye proper cutting techniques aur byproduct utilization kiya jaata hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Kitchen mein cost control ke liye kaun sa method use hota hai?",
+      "options": {
+        "A": "Sirf buying cheap ingredients",
+        "B": "Portion control, waste management, proper inventory",
+        "C": "Sirf reducing quality",
+        "D": "Sirf reducing quantity"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cost control mein portion control, waste management aur proper inventory sab important hote hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Kitchen mein communication kaun se level par sabse important hota hai?",
+      "options": {
+        "A": "Sirf management ke saath",
+        "B": "Puri kitchen team ke beech",
+        "C": "Sirf customers ke saath",
+        "D": "Sirf suppliers ke saath"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kitchen mein puri team ke beech communication sabse important hota hai smooth operation ke liye."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Kitchen mein time management kaun se purpose se important hota hai?",
+      "options": {
+        "A": "Sirf early closing",
+        "B": "On-time delivery aur customer satisfaction",
+        "C": "Sirf speed",
+        "D": "Sirf breaks"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Time management se on-time delivery hota hai aur customer satisfaction badhti hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Kitchen mein quality control kaun se stage par kiya jaata hai?",
+      "options": {
+        "A": "Sirf end mein",
+        "B": "Preparation, cooking aur plating har stage par",
+        "C": "Sirf cooking mein",
+        "D": "Sirf storage mein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Quality control preparation, cooking aur plating har stage par kiya jaata hai consistent quality ke liye."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Kitchen mein customer feedback kaun se purpose se important hota hai?",
+      "options": {
+        "A": "Sirf complaints",
+        "B": "Improvement aur menu development",
+        "C": "Sirf appreciation",
+        "D": "Kuch nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Customer feedback se improvement opportunities milte hain aur menu development mein help milti hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Kitchen mein sustainability practices kaun se hote hain?",
+      "options": {
+        "A": "Sirf expensive",
+        "B": "Waste reduction, local sourcing, energy efficiency",
+        "C": "Sirf decoration",
+        "D": "Sirf marketing"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sustainability mein waste reduction, local sourcing aur energy efficiency sab include hote hain."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Professional kitchen mein documentation kaun se purpose se important hota hai?",
+      "options": {
+        "A": "Sirf formality",
+        "B": "Traceability, compliance aur improvement",
+        "C": "Sirf filing",
+        "D": "Sirf backup"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Documentation se traceability, compliance aur continuous improvement possible hota hai."
+    }
+  ]
+}

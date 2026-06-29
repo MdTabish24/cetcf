@@ -1,0 +1,1443 @@
+{
+  "course_name": "Nursery & Plant Propagation",
+  "sector": "Agriculture & Rural Livelihood",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Nursery and its Importance",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Soil and Media Preparation",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Seed Propagation",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Vegetative Propagation - I (Cutting, Layering)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Vegetative Propagation - II (Grafting, Budding, Specialized Structures)",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Nursery Management and Pest/Disease Control",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Nursery ki primary purpose kya hai?",
+      "options": {
+        "A": "Plants ko khana dena",
+        "B": "Healthy young plants produce karna",
+        "C": "Animals ko shelter dena",
+        "D": "Sirf flowers grow karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nursery ka mukhya uddeshya swasth aur mazboot chote paudhe taiyar karna hai, jinhe baad mein khet ya garden mein transplant kiya ja sake."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Ek ideal nursery ke liye kaun si jagah best hai?",
+      "options": {
+        "A": "Highway ke bilkul paas",
+        "B": "Water source ke paas aur well-drained soil",
+        "C": "Pahadi ilake mein",
+        "D": "Dense forest ke andar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paani ki upalabdhta aur acchi water drainage wali mitti nursery ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Nursery mein use hone wala ek basic tool kaun sa hai?",
+      "options": {
+        "A": "Welding machine",
+        "B": "Trowel (khurpi)",
+        "C": "Microscope",
+        "D": "Printer"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Khurpi (trowel) mitti khodne aur chote paudhon ko lagane ke liye nursery mein istemal hone wala ek aam tool hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Nursery mein plants ko kyon grow karte hain?",
+      "options": {
+        "A": "Sirf decoration ke liye",
+        "B": "Large scale par propagation aur protection ke liye",
+        "C": "Sports ke liye",
+        "D": "Construction material ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nursery mein plants ko bade paimane par ugate aur unki suraksha karte hain jab tak ve field mein lagane ke liye taiyar na ho jayein."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Shade net ka use nursery mein kya hai?",
+      "options": {
+        "A": "Plants ko garam rakhne ke liye",
+        "B": "Plants ko zyada dhoop se bachane ke liye",
+        "C": "Plants ko support dene ke liye",
+        "D": "Weeds ko control karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Shade net plants ko tez dhoop aur garmi se bachata hai, khaaskar young seedlings ke liye."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Potted plants ko rakhte samay kis baat ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Unhe ek doosre se chipka kar rakhein",
+        "B": "Proper spacing rakhein taaki air circulation acchi ho",
+        "C": "Unhe bina pani diye chhod dein",
+        "D": "Unhe sirf andhere mein rakhein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper spacing se hawa ka sanchalan accha hota hai, jo bimariyon se bachata hai aur har paudhe ko paryapt roshni milti hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Nursery mein \"hardening off\" ka matlab kya hai?",
+      "options": {
+        "A": "Plants ko zyada fertilizer dena",
+        "B": "Plants ko gradually outdoor conditions ke liye taiyar karna",
+        "C": "Plants ko zyada paani dena",
+        "D": "Plants ko ek hi jagah par rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hardening off ek process hai jismein plants ko dheere-dheere tough outdoor conditions ke liye adjust kiya jaata hai, taaki ve transplant shock se bach sakein."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Container nursery aur bare-root nursery mein kya difference hai?",
+      "options": {
+        "A": "Container nursery mein plants soil mein hote hain, bare-root mein paani mein.",
+        "B": "Container nursery mein plants pots mein hote hain, bare-root mein roots par koi mitti nahi hoti.",
+        "C": "Container nursery sirf flowers ke liye hai, bare-root sirf vegetables ke liye.",
+        "D": "Container nursery mein plants bade hote hain, bare-root mein chote."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Container nursery mein paudhe pots ya bags mein ugate hain, jabki bare-root nursery mein paudhon ko mitti hatakar transfer kiya jaata hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Nursery mein site selection ke time kya factors consider karne chahiye?",
+      "options": {
+        "A": "Sirf soil type",
+        "B": "Water availability, soil type, sunlight exposure, market proximity",
+        "C": "Sirf aesthetics",
+        "D": "Building height"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Paani ki upalabdhta, mitti ka prakar, suraj ki roshni, aur market tak pahunch jaise kai factors ko dhyaan mein rakhna chahiye."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Nursery layout design karte samay kis efficiency factor ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Sirf decorative elements",
+        "B": "Labour movement, water management, and plant handling efficiency",
+        "C": "Building ka colour",
+        "D": "Parking space ka size"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek accha layout shramik ki aawajahi, paani ka prabandhan, aur paudhon ko handle karne mein efficiency badhata hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek commercial nursery ke liye market accessibility kyon important hai?",
+      "options": {
+        "A": "Sirf suppliers ko khush karne ke liye",
+        "B": "Fresh plants ko jaldi customers tak pahunchane ke liye",
+        "C": "Plants ko zyada der tak store karne ke liye",
+        "D": "Labour cost kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Market tak aasaan pahunch se plants ko jaldi aur fresh condition mein customers tak pahunchaya ja sakta hai, jisse nuksan kam hota hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Nursery mein water source ka convenient hona kyon zaroori hai?",
+      "options": {
+        "A": "Sirf plants ko nahlane ke liye",
+        "B": "Regular aur sufficient irrigation ke liye",
+        "C": "Nursery ko saaf rakhne ke liye",
+        "D": "Workers ko peene ka paani dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Plants ko niyamit aur paryapt paani ki zaroorat hoti hai, isliye paani ka convenient source hona bahut mahatvapurna hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Nursery mein labelling ka kya importance hai?",
+      "options": {
+        "A": "Sirf plants ko sundar dikhane ke liye",
+        "B": "Plants ki identification, variety, aur age track karne ke liye",
+        "C": "Weeds ko control karne ke liye",
+        "D": "Plants ko bechne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Labelling se har paudhe ki sahi pehchan, kism, aur umra ka pata chalta hai, jo management aur sales ke liye zaroori hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Polythene bags ka use nursery mein kis liye hota hai?",
+      "options": {
+        "A": "Sirf mitti ko store karne ke liye",
+        "B": "Plants ko grow karne aur transport karne ke liye",
+        "C": "Tools rakhne ke liye",
+        "D": "Garbage collect karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Polythene bags lightweight aur affordable hote hain, jinmein plants ko ugana aur ek jagah se doosri jagah le jaana aasaan hota hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Modern nursery management mein technology ka kya role hai?",
+      "options": {
+        "A": "Sirf social media marketing ke liye",
+        "B": "Automated irrigation, climate control, and data management for efficiency",
+        "C": "Plants ko zyada mahanga banane ke liye",
+        "D": "Manual labour ko badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Modern technology jaise automated irrigation, climate control, aur data management nursery operations ko zyada efficient aur productive banate hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Sustainable nursery practices mein kya shamil hai?",
+      "options": {
+        "A": "Zyada chemicals ka use karna",
+        "B": "Organic fertilizers, water conservation, and pest management ka use karna",
+        "C": "Sirf exotic plants grow karna",
+        "D": "Zyada plastic pots use karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sustainable practices mein paryavaran-friendly tarike shamil hote hain jaise organic khaad, paani bachana, aur eco-friendly tarike se keeton ka niyantran."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Ek successful commercial nursery chalane ke liye business skills kyon important hain?",
+      "options": {
+        "A": "Sirf plants ki dekhbhal ke liye",
+        "B": "Marketing, inventory management, and financial planning ke liye",
+        "C": "Sirf plants ko pani dene ke liye",
+        "D": "Plants ko sundar banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Business skills jaise marketing, inventory management, aur financial planning ek commercial nursery ko profitable aur sustainable banane ke liye essential hain."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Plants ki growth ke liye sabse important soil component kaun sa hai?",
+      "options": {
+        "A": "Rocks",
+        "B": "Air",
+        "C": "Organic matter",
+        "D": "Plastic"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Organic matter mitti ki fertility, water retention, aur structure ko improve karta hai, jo plants ki growth ke liye crucial hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Potting mix banate samay mitti ko kyon sterilize karte hain?",
+      "options": {
+        "A": "Plants ko zyada badhane ke liye",
+        "B": "Weeds, pests, aur pathogens ko eliminate karne ke liye",
+        "C": "Matti ko soft banane ke liye",
+        "D": "Matti ko rang dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Soil sterilization se harmful weeds, insects, aur bimari failane wale microorganisms khatam ho jaate hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Cocopeat ka use potting mix mein kis liye hota hai?",
+      "options": {
+        "A": "Sirf weight badhane ke liye",
+        "B": "Water retention aur aeration improve karne ke liye",
+        "C": "Plants ko khana dene ke liye",
+        "D": "Colour change karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cocopeat paani ko acchi tarah se hold karta hai aur mitti mein hawa ka sanchalan banaye rakhta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Vermiculite potting mix mein kya role play karta hai?",
+      "options": {
+        "A": "Sirf drainage ko kam karna",
+        "B": "Water aur nutrient holding capacity badhana",
+        "C": "Matti ko hard banana",
+        "D": "Keeton ko attract karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vermiculite lightweight hota hai aur paani aur nutrients ko absorb karke dheere-dheere release karta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Acchi drainage ke liye potting mix mein kya add karna chahiye?",
+      "options": {
+        "A": "Zyada clay",
+        "B": "Sand ya Perlite",
+        "C": "Sirf organic matter",
+        "D": "Zyada paani"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sand aur Perlite mitti mein drainage ko improve karte hain, jisse roots ko oxygen milta hai aur waterlogging nahi hoti."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Raised beds banane ka kya fayda hai?",
+      "options": {
+        "A": "Sirf aesthetic purpose",
+        "B": "Better drainage aur soil warming",
+        "C": "Zyada weeds attract karna",
+        "D": "Paani ki zyada zaroorat"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Raised beds mein drainage accha hota hai aur mitti jaldi garam hoti hai, jo plants ki growth ke liye faydemand hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Garden soil ko directly potting mix mein use karna kyon avoid karna chahiye?",
+      "options": {
+        "A": "Garden soil bahut halki hoti hai",
+        "B": "Garden soil mein pests, diseases, aur weeds ho sakte hain, aur drainage poor ho sakti hai",
+        "C": "Garden soil bahut mehengi hoti hai",
+        "D": "Garden soil mein koi nutrients nahi hote"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Garden soil mein harmful organisms aur poor drainage ki problem ho sakti hai, isliye use seed starting ya potting ke liye avoid karte hain."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Soil pH test kyon zaroori hai?",
+      "options": {
+        "A": "Sirf mitti ka rang dekhne ke liye",
+        "B": "Plants ke liye available nutrients determine karne ke liye",
+        "C": "Matti ki weight check karne ke liye",
+        "D": "Matti ki smell check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Soil pH plants ke liye nutrients ki availability ko affect karta hai, isliye sahi pH level maintain karna zaroori hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Ideal potting mix mein kis ratio mein components hone chahiye (general)?",
+      "options": {
+        "A": "Sirf mitti",
+        "B": "Equal parts soil, sand, aur organic matter",
+        "C": "Sirf cocopeat",
+        "D": "Sirf perlite"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek general ideal potting mix mein acchi aeration, drainage, aur nutrient retention ke liye mitti, sand, aur organic matter ka santulit anupat hota hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Chemical soil sterilization ka ek common method kya hai?",
+      "options": {
+        "A": "Sunlight mein rakhna",
+        "B": "Heating in an oven",
+        "C": "Formaldehyde solution ka use karna",
+        "D": "Sirf paani dalna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Formaldehyde solution ek chemical sterilant hai jo mitti mein pathogens ko control karne ke liye use hota hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Compost ka potting mix mein kya fayda hai?",
+      "options": {
+        "A": "Sirf matti ko bhari banana",
+        "B": "Natural nutrients provide karna aur soil structure improve karna",
+        "C": "Paani ko absorb na karna",
+        "D": "Sirf matti ko thanda rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Compost ek organic fertilizer hai jo mitti ko nutrients deta hai aur uski physical properties ko sudharta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Ek acchi potting mix ki kya characteristics honi chahiye?",
+      "options": {
+        "A": "Compact aur heavy",
+        "B": "Good drainage, aeration, water retention, aur nutrient holding capacity",
+        "C": "Sirf paani se bhari",
+        "D": "Sirf mitti se bani"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Acchi potting mix mein paani nikalne ki acchi kshamta, hawa ka sanchalan, paani rokne ki kshamta, aur poshak tatva dharan karne ki kshamta honi chahiye."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Sandy soil ko improve karne ke liye kya add karna chahiye?",
+      "options": {
+        "A": "Sirf sand",
+        "B": "Organic matter jaise compost ya cocopeat",
+        "C": "Sirf clay",
+        "D": "Sirf rocks"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Organic matter sandy soil ki water retention capacity aur nutrient holding capacity ko badhata hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Clayey soil ko improve karne ke liye kya add karna chahiye?",
+      "options": {
+        "A": "Zyada clay",
+        "B": "Organic matter aur sand",
+        "C": "Sirf paani",
+        "D": "Sirf plastic"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Organic matter aur sand clayey soil ki drainage aur aeration ko improve karte hain, uski density ko kam karte hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Hydroponics mein plants grow karne ke liye kaun sa medium use hota hai?",
+      "options": {
+        "A": "Garden soil",
+        "B": "Sirf paani",
+        "C": "Inert media jaise rockwool, coco coir, perlite",
+        "D": "Sirf sand"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Hydroponics mein plants ko mitti ke bina, inert media mein ugate hain aur nutrients ko paani mein dissolve karke dete hain."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Potting mix mein pH buffer ka kya role hai?",
+      "options": {
+        "A": "Sirf matti ko garam rakhna",
+        "B": "pH levels ko stable rakhna",
+        "C": "Weeds ko control karna",
+        "D": "Sirf matti ko colour dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "pH buffer potting mix ke pH levels ko fluctuations se bachata hai, jisse plants ko stable environment milta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Biochar ka potting mix mein kya fayda hai?",
+      "options": {
+        "A": "Sirf matti ko kaala karna",
+        "B": "Soil fertility, water retention, aur microbial activity enhance karna",
+        "C": "Plants ko zyada paani dena",
+        "D": "Sirf matti ko hard banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Biochar ek porous carbon material hai jo mitti ki urvarakta, paani rokne ki kshamta, aur microbial activity ko badhata hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Seed propagation ka sabse basic tarika kya hai?",
+      "options": {
+        "A": "Cutting lagana",
+        "B": "Layering karna",
+        "C": "Seeds se plants ugana",
+        "D": "Grafting karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Seed propagation mein seeds ko bo kar naye plants ugate hain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Seed sowing ke liye kis type ki mitti achhi hoti hai?",
+      "options": {
+        "A": "Heavy clay soil",
+        "B": "Well-drained, light, aur fine potting mix",
+        "C": "Sirf sand",
+        "D": "Sirf rocks"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Seeds ko germinating ke liye halki, acchi drainage wali, aur fine particle size wali mitti chahiye hoti hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Seed treatment kyon kiya jaata hai?",
+      "options": {
+        "A": "Sirf seeds ko sundar banane ke liye",
+        "B": "Germination rate improve karne aur diseases se bachane ke liye",
+        "C": "Seeds ko zyada der tak store karne ke liye",
+        "D": "Seeds ko khaane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Seed treatment se seeds ka ankurit hone ka rate badhta hai aur unhe shuruaati stage mein bimariyon se bachaya jaata hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "\"Broadcasting\" method kya hai?",
+      "options": {
+        "A": "Seeds ko ek-ek karke lagana",
+        "B": "Seeds ko wide area mein scatter karna",
+        "C": "Seeds ko line mein lagana",
+        "D": "Seeds ko paani mein dalna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Broadcasting mein seeds ko bade area mein uniformly bikher dete hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Seedlings ko \"pricking out\" kyon karte hain?",
+      "options": {
+        "A": "Sirf unko disturb karne ke liye",
+        "B": "Overcrowding kam karne aur har seedling ko space dene ke liye",
+        "C": "Unko zyada paani dene ke liye",
+        "D": "Unko marne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pricking out se crowded seedlings ko separate karke unhe zyada space aur nutrients milte hain, jisse unki acchi growth hoti hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Seed viability test ka kya matlab hai?",
+      "options": {
+        "A": "Seed ka size check karna",
+        "B": "Seed ke colour ko dekhna",
+        "C": "Seed ke germinating power ko check karna",
+        "D": "Seed ke weight ko check karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Seed viability test se pata chalta hai ki kitne seeds ankurit ho sakte hain, jisse sowing se pehle unki quality pata chalti hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Small seeds ko sow karte samay kya dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Unhe bahut gehra bone chahiye",
+        "B": "Unhe mitti ki upari surface par halka cover karna chahiye",
+        "C": "Unhe bina paani ke chhod dena chahiye",
+        "D": "Unhe tez dhoop mein rakhna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chote seeds ko bahut gehra bone se ve germinating nahi kar pate, isliye unhe halki mitti se cover karna chahiye."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Scarification method ka use kis liye hota hai?",
+      "options": {
+        "A": "Seeds ko thanda karne ke liye",
+        "B": "Hard seed coat ko break karne ke liye",
+        "C": "Seeds ko zyada paani dene ke liye",
+        "D": "Seeds ko colour dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scarification seeds ke hard outer coat ko physically ya chemically break karta hai, jisse paani absorb ho sake aur germination ho."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Stratification method kis liye use hota hai?",
+      "options": {
+        "A": "Seeds ko garam karne ke liye",
+        "B": "Seeds ko cold treatment dene ke liye dormancy break karne ke liye",
+        "C": "Seeds ko tez dhoop mein rakhne ke liye",
+        "D": "Seeds ko khane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stratification seeds ko thande aur nam conditions mein rakh kar unki dormancy ko todta hai, jo kai temperate plants ke liye zaroori hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "\"Dibbling\" method of sowing kya hai?",
+      "options": {
+        "A": "Seeds ko scatter karna",
+        "B": "Seeds ko lines mein dalna",
+        "C": "Seeds ko small holes mein individualy lagana",
+        "D": "Seeds ko paani mein dalna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dibbling mein seeds ko chhote-chhote holes mein ek-ek karke lagaya jaata hai, jisse uniform spacing milti hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Seedling damping-off disease ka main reason kya hai?",
+      "options": {
+        "A": "Zyada sunlight",
+        "B": "Fungal infection due to high humidity aur poor air circulation",
+        "C": "Kam paani",
+        "D": "Zyada fertilizer"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Damping-off ek fungal disease hai jo high humidity aur poor air circulation ke karan hota hai, jisse young seedlings mar jaate hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Seedlings ko transplant karne ka best time kaun sa hai?",
+      "options": {
+        "A": "Jab ve bahut chote hon",
+        "B": "Jab unki 2-3 true leaves aa jayein",
+        "C": "Jab ve flowers dene lagein",
+        "D": "Jab ve bahut bade ho jayein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab seedlings mein 2-3 true leaves aa jaati hain, tab ve transplant shock ko jhelne ke liye zyada mazboot hote hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Seed storage ke liye ideal conditions kya hain?",
+      "options": {
+        "A": "Garam aur nam",
+        "B": "Cool, dry, aur dark",
+        "C": "Tez roshni mein",
+        "D": "Bahut zyada paani mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Seeds ko cool, dry, aur dark conditions mein store karne se unki viability lambe samay tak bani rehti hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Seed dormancy ke kya fayde hain?",
+      "options": {
+        "A": "Sirf plants ko pareshan karna",
+        "B": "Unfavorable conditions mein germination ko prevent karna",
+        "C": "Plants ko jaldi bada karna",
+        "D": "Sirf plants ko colour dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Seed dormancy seeds ko unfavorable conditions mein germinating se rokti hai, jisse unhe survive karne ka mauka milta hai jab conditions better ho."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Tetrazolium (TZ) test kis liye use hota hai?",
+      "options": {
+        "A": "Seed ke weight ko check karne ke liye",
+        "B": "Seed viability ko rapidly determine karne ke liye",
+        "C": "Seed ke size ko check karne ke liye",
+        "D": "Seed ke colour ko check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "TZ test seeds ke living tissues ko stain karta hai, jisse unki metabolic activity aur viability ka pata chalta hai, bina germination ka wait kiye."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Priming method ka seed propagation mein kya role hai?",
+      "options": {
+        "A": "Seeds ko sookha rakhna",
+        "B": "Germination process ko speed up karne aur uniformity badhane ke liye",
+        "C": "Seeds ko marne ke liye",
+        "D": "Seeds ko zyada der tak store karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Seed priming mein seeds ko controlled hydration ke through partially hydrate kiya jaata hai, jisse germination faster aur uniform hoti hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Hybrid seeds ke kya fayde hain?",
+      "options": {
+        "A": "Sirf chote plants produce karna",
+        "B": "Better yield, disease resistance, aur uniform growth",
+        "C": "Sirf apne parents jaise dikhna",
+        "D": "Sirf kam paani ki zaroorat"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hybrid seeds do genetically different parents ko cross karke banaye jaate hain, jisse unme superior characteristics (heterosis) aati hain jaise zyada upaj, bimariyon se ladne ki kshamta, aur uniform growth."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Vegetative propagation mein plants kaise produce hote hain?",
+      "options": {
+        "A": "Seeds se",
+        "B": "Plant ke vegetative parts (stem, leaf, root) se",
+        "C": "Pollen se",
+        "D": "Sirf flowers se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vegetative propagation mein naye plants plant ke non-sexual parts jaise stem, leaf, ya root se banaye jaate hain."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Cutting propagation ka kya fayda hai?",
+      "options": {
+        "A": "Plants bahut dheere badhte hain",
+        "B": "New plants genetically identical hote hain parent plant ke",
+        "C": "Plants ko zyada paani chahiye",
+        "D": "Sirf bade plants banate hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cuttings se bane plants apne parent plant ke exact genetic copy hote hain."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Stem cuttings ke liye kaun sa part use hota hai?",
+      "options": {
+        "A": "Sirf phool",
+        "B": "Sirf root",
+        "C": "Stem ka ek tukda",
+        "D": "Sirf beej"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Stem cuttings mein parent plant ke stem ka ek tukda kaat kar root develop ki jaati hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Rooting hormone ka use cuttings mein kyon karte hain?",
+      "options": {
+        "A": "Sirf cuttings ko colour dene ke liye",
+        "B": "Root development ko stimulate karne ke liye",
+        "C": "Cuttings ko marne ke liye",
+        "D": "Cuttings ko khane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rooting hormones (jaise auxins) cuttings mein jadon ke vikas ko badhava dete hain."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Layering mein naya plant kaise banta hai?",
+      "options": {
+        "A": "Stem cutting se",
+        "B": "Parent plant se attached rehte hue roots develop karke",
+        "C": "Seeds se",
+        "D": "Grafting se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Layering mein stem ka ek part parent plant se attached rehta hai aur mitti mein ya kisi medium mein roots develop karta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Simple layering ke liye kis type ki branch best hoti hai?",
+      "options": {
+        "A": "Seedling",
+        "B": "Flexible, low-hanging branch",
+        "C": "Dead branch",
+        "D": "Bahut moti branch"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Simple layering ke liye aisi branch chahiye jo zameen tak bend ho sake."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Air layering mein roots kahan develop hoti hain?",
+      "options": {
+        "A": "Zameen ke andar",
+        "B": "Hawa mein, stem par ek cut lagakar aur moist medium se cover karke",
+        "C": "Paani mein",
+        "D": "Sirf seeds mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Air layering mein stem ke ek portion par cut lagakar use moist medium (jaise sphagnum moss) se cover karke roots develop ki jaati hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Hardwood cuttings kis season mein li jaati hain?",
+      "options": {
+        "A": "Summer",
+        "B": "Dormant season (late autumn/winter)",
+        "C": "Spring",
+        "D": "Rainy season"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hardwood cuttings un plants se li jaati hain jo dormant stage mein hote hain, unme rooting rate accha hota hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Softwood cuttings aur semi-hardwood cuttings mein kya antar hai?",
+      "options": {
+        "A": "Softwood zyada purani hoti hai, semi-hardwood nayi.",
+        "B": "Softwood nayi, pliable growth hoti hai, semi-hardwood thodi mature.",
+        "C": "Softwood sirf flowers ke liye, semi-hardwood sirf fruits ke liye.",
+        "D": "Softwood mein roots nahi aati, semi-hardwood mein aati hain."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Softwood cuttings spring mein li gayi nayi growth hoti hain, jabki semi-hardwood cuttings summer mein li gayi thodi mature growth hoti hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Leaf cuttings ke liye kaun se plants suitable hain?",
+      "options": {
+        "A": "Sirf bade ped",
+        "B": "Plants like African Violets, Begonias, Sansevieria",
+        "C": "Sirf sabziyan",
+        "D": "Sirf ghaas"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "African Violets, Begonias, aur Sansevieria jaise plants leaf cuttings se aasaani se propagate ho jaate hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Layering ke liye \"girdling\" ya \"wounding\" kyon karte hain?",
+      "options": {
+        "A": "Sirf stem ko kamzor karne ke liye",
+        "B": "Roots ko stimulate karne ke liye by interrupting downward nutrient flow",
+        "C": "Plants ko zyada paani dene ke liye",
+        "D": "Plants ko colour dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Girdling ya wounding se phloem tissues ko cut kiya jaata hai, jisse carbohydrates aur auxins cut ke upar jama hote hain, aur roots formation stimulate hota hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Serpentine layering ka kya fayda hai?",
+      "options": {
+        "A": "Sirf ek naya plant banana",
+        "B": "Ek hi branch se kai naye plants produce karna",
+        "C": "Seeds se plants ugana",
+        "D": "Plants ko marne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Serpentine layering mein ek lambi flexible branch ko kai jagahon par mitti mein dabaya jaata hai, jisse har dabaye hue point par roots develop hoti hain aur kai plants bante hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Root cuttings ke liye kaun se plants best hote hain?",
+      "options": {
+        "A": "Sirf phool wale",
+        "B": "Plants like raspberry, sumac, sweet potato",
+        "C": "Sirf bade ped",
+        "D": "Sirf ghaas"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Raspberry, sumac, aur sweet potato jaise plants ki root cuttings se aasaani se naye plants banaye ja sakte hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Mist propagation system ka kya fayda hai?",
+      "options": {
+        "A": "Sirf plants ko garam rakhna",
+        "B": "Cuttings ko high humidity provide karna aur water loss kam karna",
+        "C": "Cuttings ko sookha rakhna",
+        "D": "Plants ko tez dhoop dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mist propagation system cuttings ke upar fine mist spray karta hai, jo unhe wilting se bachata hai aur rooting ko promote karta hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Etiolation ka vegetative propagation mein kya role hai?",
+      "options": {
+        "A": "Sirf plants ko colour dena",
+        "B": "Stem ko light se block karke rooting ko stimulate karna",
+        "C": "Plants ko zyada dhoop dena",
+        "D": "Plants ko marne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Etiolation (light se block karna) stem mein auxins ko accumulate karta hai aur rooting potential ko badhata hai, jisse layering aur cutting mein fayda hota hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Adventitious roots aur adventitious shoots mein kya difference hai?",
+      "options": {
+        "A": "Dono same hain",
+        "B": "Adventitious roots stem ya leaf se banti hain, adventitious shoots root se banti hain.",
+        "C": "Adventitious roots plant ke normal root system ka part hain.",
+        "D": "Adventitious shoots sirf flowers hain."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Adventitious roots un jagahon se develop hoti hain jahan normally roots nahi hoti (jaise stem ya leaf se), jabki adventitious shoots roots ya stems se develop hoti hain jahan normally shoots nahi hote."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Auxin ke alawa, kaun sa plant hormone rooting ko affect karta hai?",
+      "options": {
+        "A": "Gibberellins",
+        "B": "Cytokinins (indirectly, by balancing with auxins)",
+        "C": "Abscisic acid",
+        "D": "Ethylene"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "While auxins directly promote rooting, cytokinins ke saath unka balance bhi root development mein mahatvapurna role play karta hai. High auxin to cytokinin ratio generally favors rooting."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Grafting mein kya hota hai?",
+      "options": {
+        "A": "Seeds ko bo kar naye plants banana",
+        "B": "Do plants ke parts ko join karna taaki ve ek plant ki tarah grow karein",
+        "C": "Sirf stem cuttings lagana",
+        "D": "Sirf layering karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grafting mein ek plant (scion) ke shoot ko doosre plant (rootstock) ke root system par join kiya jaata hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Scion kya hota hai grafting mein?",
+      "options": {
+        "A": "Root system wala part",
+        "B": "Upper part (shoot) jo fruit ya flower produce karega",
+        "C": "Sirf seed",
+        "D": "Sirf mitti"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Scion woh upper part hota hai jo desired characteristics (fruit, flower) provide karta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Rootstock kya hota hai grafting mein?",
+      "options": {
+        "A": "Upper part",
+        "B": "Lower part (root system) jo soil se nutrients absorb karega",
+        "C": "Sirf leaf",
+        "D": "Sirf flower"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rootstock woh lower part hota hai jo root system provide karta hai aur mitti se paani aur nutrients absorb karta hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Budding aur grafting mein kya difference hai?",
+      "options": {
+        "A": "Budding mein pura scion use hota hai, grafting mein sirf ek bud.",
+        "B": "Budding mein sirf ek bud use hota hai, grafting mein pura scion.",
+        "C": "Dono same hain.",
+        "D": "Budding sirf trees ke liye hai, grafting sirf shrubs ke liye."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Budding ek type ki grafting hai jismein scion ke roop mein sirf ek single bud use hota hai, jabki grafting mein ek poora shoot (scion) use hota hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Bulbs se propagate hone wala ek plant ka naam batao?",
+      "options": {
+        "A": "Mango",
+        "B": "Onion (Pyaaz)",
+        "C": "Tomato",
+        "D": "Rice"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pyaaz, lehsun, aur lily jaise plants bulbs se propagate hote hain."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Tubers se propagate hone wala ek plant ka naam batao?",
+      "options": {
+        "A": "Apple",
+        "B": "Potato (Aaloo)",
+        "C": "Wheat",
+        "D": "Cotton"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aaloo (potato) tubers se propagate hota hai, jismein 'eyes' se naye shoots nikalte hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Graft union successful hone ke liye kya zaroori hai?",
+      "options": {
+        "A": "Sirf scion ka bada hona",
+        "B": "Scion aur rootstock ke cambium layers ka acchi tarah align hona",
+        "C": "Sirf rootstock ka purana hona",
+        "D": "Sirf paani dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cambium layers ka proper alignment zaroori hai taaki vascular connection ban sake aur nutrients aur paani ka flow ho sake."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "T-budding kis season mein ki jaati hai?",
+      "options": {
+        "A": "Winter",
+        "B": "Active growing season (late spring to early autumn)",
+        "C": "Sirf spring",
+        "D": "Sirf summer"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "T-budding tab ki jaati hai jab rootstock active growth mein ho, jisse uski bark aasaani se lift ho sake aur bud acchi tarah se fuse ho sake."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Cleft grafting kyon ki jaati hai?",
+      "options": {
+        "A": "Sirf chhote plants ke liye",
+        "B": "Jab rootstock scion se significantly mota ho",
+        "C": "Sirf flowers ke liye",
+        "D": "Jab scion bahut chota ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cleft grafting tab use hoti hai jab rootstock ka diameter scion se kaafi zyada ho, jisse multiple scions fit ho sakein."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Rhizomes se propagate hone wala ek plant ka naam batao?",
+      "options": {
+        "A": "Rose",
+        "B": "Ginger (Adrak)",
+        "C": "Orange",
+        "D": "Grapes"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Adrak (ginger), haldi, aur bans (bamboo) jaise plants rhizomes se propagate hote hain, jo underground stems hote hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Corms aur bulbs mein kya difference hai?",
+      "options": {
+        "A": "Corms fleshy leaves hote hain, bulbs solid stem.",
+        "B": "Corms solid, swollen stem hote hain, bulbs fleshy, scale-like leaves.",
+        "C": "Dono same hain.",
+        "D": "Corms sirf flowers ke liye hain, bulbs sirf vegetables ke liye."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Corm ek solid, bhara hua underground stem hota hai (jaise Gladiolus), jabki bulb fleshy scale-like leaves se bana hota hai (jaise Pyaaz)."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Micropropagation (tissue culture) ka kya fayda hai?",
+      "options": {
+        "A": "Sirf ek plant banana",
+        "B": "Large number of genetically identical, disease-free plants ko rapidly produce karna",
+        "C": "Plants ko dheere badhana",
+        "D": "Sirf seeds banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Micropropagation se bahut kam samay mein bade paimane par genetically uniform aur disease-free plants taiyar kiye जा sakte hain."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Interstock grafting ka kya purpose hai?",
+      "options": {
+        "A": "Sirf plants ko sundar banana",
+        "B": "Scion aur rootstock ke beech incompatibility ko overcome karna ya specific effects (dwarfing) dena",
+        "C": "Plants ko zyada paani dena",
+        "D": "Sirf seeds banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Interstock (ya interstem) ek intermediate piece hota hai jo scion aur rootstock ke beech incompatibility hone par ya dwarfing ya disease resistance jaise specific traits provide karne ke liye use hota hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Bench grafting kis liye suitable hai?",
+      "options": {
+        "A": "Sirf field mein bade trees ke liye",
+        "B": "Large scale propagation of young, dormant plants in a controlled environment",
+        "C": "Sirf flowering plants ke liye",
+        "D": "Sirf tropical plants ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bench grafting nursery mein controlled environment mein ki jaati hai, khaaskar dormant season mein, aur isse bade paimane par grafting possible ho paati hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Apomixis se propagate hone wale plants ka kya fayda hai?",
+      "options": {
+        "A": "Sirf genetic variation badhana",
+        "B": "Seeds produce karna jo genetically identical hote hain parent plant ke",
+        "C": "Sirf hybrids banana",
+        "D": "Sirf sterile plants banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Apomixis asexual reproduction ka ek prakar hai jismein seeds bina fertilization ke bante hain, jisse naye plants genetically parent ke jaise hote hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Specialized structures (bulbs, corms, tubers, rhizomes) se propagation ko \"offsets\" ya \"daughter plants\" kyon kehte hain?",
+      "options": {
+        "A": "Kyunki ve seeds se bante hain",
+        "B": "Kyunki ve genetically identical hote hain parent plant ke",
+        "C": "Kyunki ve bahut chote hote hain",
+        "D": "Kyunki ve alag-alag colour ke hote hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ye structures parent plant ke vegetative growth se bante hain aur genetically unke jaise hi hote hain, isliye unhe offsets ya daughter plants kehte hain."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Nursery mein regular watering kyon zaroori hai?",
+      "options": {
+        "A": "Sirf mitti ko geela rakhne ke liye",
+        "B": "Plants ki growth aur survival ke liye",
+        "C": "Sirf weeds ko badhane ke liye",
+        "D": "Plants ko thanda rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plants ko regular aur paryapt paani ki zaroorat hoti hai unki growth aur jeevan ke liye."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Weeds ko nursery se kyon hatana chahiye?",
+      "options": {
+        "A": "Sirf nursery ko sundar dikhane ke liye",
+        "B": "Plants ke nutrients, paani, aur roshni ke liye compete karte hain",
+        "C": "Weeds flowers produce karte hain",
+        "D": "Weeds mitti ko accha banate hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Weeds desired plants ke liye zaruri resources (nutrients, water, light) ke liye compete karte hain, unki growth ko kam karte hain."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Ek common nursery pest ka naam batao?",
+      "options": {
+        "A": "Cow",
+        "B": "Aphids (Mahoon)",
+        "C": "Dog",
+        "D": "Bird"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aphids (Mahoon) chote insects hote hain jo plants ke ras ko choos kar unhe nuksan pahunchate hain, nursery mein aam hain."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Fungicides ka use kis liye hota hai?",
+      "options": {
+        "A": "Sirf insects ko marne ke liye",
+        "B": "Fungal diseases ko control karne ke liye",
+        "C": "Sirf weeds ko marne ke liye",
+        "D": "Plants ko khana dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fungicides chemical substances hote hain jo fungal infections aur diseases ko rokne ya unka ilaj karne ke liye use hote hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Personal Protective Equipment (PPE) ka use nursery mein kyon zaroori hai?",
+      "options": {
+        "A": "Sirf fashion ke liye",
+        "B": "Chemicals, sharp tools, aur dust se bachne ke liye",
+        "C": "Plants ko khana dene ke liye",
+        "D": "Sirf garmi se bachne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PPE jaise gloves, masks, aur safety glasses workers ko chemicals, sharp tools, aur dust se hone wale khatron se bachate hain."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Nutrient deficiency ke kya symptoms ho sakte hain?",
+      "options": {
+        "A": "Sirf plants ka zyada bada hona",
+        "B": "Yellowing leaves (chlorosis), stunted growth, ya abnormal leaf shape",
+        "C": "Plants ka zyada phool dena",
+        "D": "Plants ka zyada paani peena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Nutrient deficiency ke karan plants mein peeli pattiyaan (chlorosis), growth ka rukna, ya patti ki aakriti mein badlav jaise lakshan dikhte hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Drip irrigation system ka nursery mein kya fayda hai?",
+      "options": {
+        "A": "Sirf paani ko waste karna",
+        "B": "Water efficiency badhana aur plants ko directly roots par paani dena",
+        "C": "Sirf paani ko thanda karna",
+        "D": "Zyada weeds attract karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drip irrigation paani ko seedhe plants ki roots tak pahunchata hai, jisse paani ki bachat hoti hai aur evaporation loss kam hota hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Integrated Pest Management (IPM) ka kya matlab hai?",
+      "options": {
+        "A": "Sirf chemicals ka use karna",
+        "B": "Biological, cultural, aur chemical methods ka combination use karke pests ko control karna",
+        "C": "Sirf pests ko ignore karna",
+        "D": "Sirf organic methods use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IPM ek holistic approach hai jismein pests ko control karne ke liye kai tarikon ka samavesh hota hai, jisse paryavaran par kam se kam asar pade."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Nursery mein record keeping kyon important hai?",
+      "options": {
+        "A": "Sirf papers collect karne ke liye",
+        "B": "Plant inventory, sales, expenses, aur propagation details track karne ke liye",
+        "C": "Sirf plants ke naam yaad rakhne ke liye",
+        "D": "Sirf plants ko paani dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Record keeping se nursery ke operations ko effectively manage kiya ja sakta hai, jismein stock, bikri, kharch, aur propagation ki jaankari shamil hoti hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Biological pest control ka ek example kya hai?",
+      "options": {
+        "A": "Pesticides spray karna",
+        "B": "Ladybugs ka use karna aphids ko khane ke liye",
+        "C": "Sirf weeds ko hatana",
+        "D": "Plants ko pani dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Biological control mein natural enemies (jaise ladybugs) ka use karke pests ki population ko control kiya jaata hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Fungus gnats (machhar) ko control karne ka ek tareeka kya hai?",
+      "options": {
+        "A": "Zyada paani dena",
+        "B": "Overwatering avoid karna aur sticky traps use karna",
+        "C": "Sirf plants ko sookha rakhna",
+        "D": "Plants ko tez dhoop dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fungus gnats aksar overwatered mitti mein breed karte hain, isliye overwatering avoid karna aur sticky traps ka use karna effective hota hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Soil-borne diseases ko control karne ke liye kya kar sakte hain?",
+      "options": {
+        "A": "Sirf zyada fertilizer dena",
+        "B": "Soil sterilization, crop rotation, aur resistant varieties use karna",
+        "C": "Sirf plants ko pani dena",
+        "D": "Plants ko tez dhoop dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Soil-borne diseases ko control karne ke liye mitti ka sterilization, fasal chakra apnana, aur bimari pratirodhak kismon ka upyog karna faydemand hota hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Nursery mein plant nutrition management ke liye Fertigation ka kya role hai?",
+      "options": {
+        "A": "Sirf paani dena",
+        "B": "Fertilizers ko irrigation water ke saath apply karna for efficient nutrient delivery",
+        "C": "Sirf plants ko sookha rakhna",
+        "D": "Sirf weeds ko control karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Fertigation mein fertilizers ko paani ke saath mix karke plants ko diya jaata hai, jisse nutrients seedhe roots tak pahunchte hain aur wastage kam hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "IPM mein cultural control measures ka ek example kya hai?",
+      "options": {
+        "A": "Chemical spray karna",
+        "B": "Cleanliness maintain karna, proper spacing, aur healthy plant selection",
+        "C": "Sirf biological agents use karna",
+        "D": "Sirf traps lagana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cultural control mein aisi practices shamil hoti hain jo plants ko healthy rakhti hain aur pests/diseases ke liye unfavorable conditions banati hain, jaise safai, sahi spacing, aur healthy plants ka chayan."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Biological control mein \"predators\" aur \"parasitoids\" mein kya difference hai?",
+      "options": {
+        "A": "Dono same hain",
+        "B": "Predators kai pests ko khate hain, Parasitoids ek pest par egg dete hain aur usse marte hain",
+        "C": "Predators sirf plants ko khate hain",
+        "D": "Parasitoids sirf weeds ko khate hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Predators kai saare pests ko khaate hain (jaise ladybugs), jabki parasitoids ek host pest par apne ande dete hain, aur unke larvae host ko consume karke mar dete hain."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Nursery mein marketing aur sales strategy kyon zaroori hai?",
+      "options": {
+        "A": "Sirf plants ko store karne ke liye",
+        "B": "Products ko effectively customers tak pahunchane aur profit maximize karne ke liye",
+        "C": "Sirf plants ko pani dene ke liye",
+        "D": "Sirf weeds ko control karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ek acchi marketing aur sales strategy nursery ke products ko sahi customers tak pahunchati hai, brand visibility badhati hai, aur business ko profitable banati hai."
+    }
+  ]
+}

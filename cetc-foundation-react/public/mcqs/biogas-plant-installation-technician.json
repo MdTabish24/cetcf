@@ -1,0 +1,1443 @@
+{
+  "course_name": "Biogas Plant Installation Technician",
+  "sector": "Environmental & Green Skills",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Biogas Technology ka Parichay aur Mulbhut Siddhant",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Biogas Plant ke Raw Material aur Digester ke Prakar",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Site Selection aur Plant Layout Planning",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Biogas Plant Installation Procedures",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Biogas Plant ka Operation aur Maintenance",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Safety, Troubleshooting aur Regulatory Guidelines",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Biogas kya hai?",
+      "options": {
+        "A": "Ek prakar ka liquid fuel",
+        "B": "Organic matter se banne wali combustible gas",
+        "C": "Solar energy se banne wali gas",
+        "D": "Nuclear power se banne wali gas"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Biogas organic matter (jaise cow dung, agricultural waste) ke anaerobic digestion se paida hone wali ek combustible gas hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Biogas ka mukhya ghatak (main component) kaun sa hai?",
+      "options": {
+        "A": "Propane",
+        "B": "Butane",
+        "C": "Methane",
+        "D": "Ethane"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Biogas mein lagbhag 50-75% tak Methane (CH4) hota hai, jo iska mukhya combustible component hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Anaerobic digestion kya hai?",
+      "options": {
+        "A": "Oxygen ki maujoodgi mein organic matter ka breakdown",
+        "B": "Oxygen ki absence mein organic matter ka breakdown",
+        "C": "Chemical process jahan acids bante hain",
+        "D": "Heat se organic matter ko jalana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Anaerobic digestion ek biological process hai jahan microorganisms oxygen ki absence mein organic matter ko break down karte hain aur biogas produce karte hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Biogas plant install karne ka primary benefit kya hai?",
+      "options": {
+        "A": "Only electricity production",
+        "B": "Renewable energy production aur waste management",
+        "C": "Only organic fertilizer production",
+        "D": "Noise pollution control"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Biogas plants renewable energy (biogas) produce karte hain aur organic waste ko effectively manage karte hain, jisse organic fertilizer bhi milta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Digester mein temperature ka biogas production par kya asar hota hai?",
+      "options": {
+        "A": "Temperature badhne se production hamesha kam hota hai",
+        "B": "Ek optimum temperature range par production best hota hai",
+        "C": "Temperature ka koi asar nahi hota",
+        "D": "Bahut low temperature par production sabse zyada hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Biogas production ke liye microorganisms ko ek specific temperature range (mesophilic ya thermophilic) ki zaroorat hoti hai. Optimum temperature par hi maximum gas production hota hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Biogas plant se milne wala by-product (up-utpad) kya kehlata hai?",
+      "options": {
+        "A": "Slurry",
+        "B": "Ash",
+        "C": "Plastic waste",
+        "D": "Coal"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Biogas production ke baad jo organic residue bachta hai, use slurry ya digestate kehte hain, jo ek excellent organic fertilizer hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Kis gas ki wajah se biogas mein unpleasant smell aati hai?",
+      "options": {
+        "A": "Methane",
+        "B": "Carbon Dioxide",
+        "C": "Hydrogen Sulfide",
+        "D": "Nitrogen"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Hydrogen Sulfide (H2S) biogas mein ek impurity hai jo uski badbu ka karan banti hai aur corrosive bhi hoti hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Ek biogas plant mein gas holder ka kya function hai?",
+      "options": {
+        "A": "Raw material store karna",
+        "B": "Biogas ko store karna",
+        "C": "Slurry ko store karna",
+        "D": "Water ko store karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gas holder biogas plant ka woh hissa hai jo produce hui biogas ko temporary taur par store karta hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Biogas production ke liye organic waste mein kaun se elements ka hona zaroori hai?",
+      "options": {
+        "A": "Heavy metals",
+        "B": "Carbon aur Nitrogen",
+        "C": "Plastic aur glass",
+        "D": "Radioactive elements"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Biogas production ke liye microorganisms ko Carbon (energy source) aur Nitrogen (protein synthesis ke liye) ki zaroorat hoti hai. C/N ratio important hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Batch type digester aur continuous type digester mein kya difference hai?",
+      "options": {
+        "A": "Batch mein ek baar feed karte hain, continuous mein regularly feed karte hain.",
+        "B": "Batch mein gas zyada banti hai, continuous mein kam.",
+        "C": "Batch chhota hota hai, continuous bada.",
+        "D": "Batch sirf liquids ke liye, continuous sirf solids ke liye."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Batch type digester mein ek baar organic waste feed karke uske digest hone ka wait kiya jata hai, jabki continuous type digester mein regularly naya waste feed kiya jata hai aur digestate nikala jata hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Biogas plant mein feed material ko water ke saath mix karne ko kya kehte hain?",
+      "options": {
+        "A": "Drying",
+        "B": "Slurry preparation",
+        "C": "Filtration",
+        "D": "Combustion"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Organic waste ko pani ke saath milakar ek slurry banaya jata hai jise digester mein feed kiya jata hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Biogas plant mein gas leakage check karne ka sabse safe method kya hai?",
+      "options": {
+        "A": "Matchstick se check karna",
+        "B": "Naked flame use karna",
+        "C": "Soap solution (sabun ka ghol) use karna",
+        "D": "Smell se pata lagana"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Soap solution gas leakage check karne ka sabse safe aur effective tareeka hai. Leak hone par bubbles dikhenge."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Biogas plant mein Carbon Dioxide (CO2) ka percentage kitna ho sakta hai?",
+      "options": {
+        "A": "0-5%",
+        "B": "10-20%",
+        "C": "25-50%",
+        "D": "70-80%"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Biogas mein Methane ke baad Carbon Dioxide (CO2) dusra sabse bada component hota hai, typically 25-50% tak."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Biogas ka calorific value LPG se ______ hota hai.",
+      "options": {
+        "A": "Zyada",
+        "B": "Kam",
+        "C": "Barabar",
+        "D": "Compare nahi kiya ja sakta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Biogas ka calorific value (energy content) LPG se kam hota hai, kyunki isme CO2 aur H2S jaisi non-combustible gases bhi hoti hain."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Biogas plant mein anaerobic bacteria kis environment mein best kaam karte hain?",
+      "options": {
+        "A": "Acidic environment",
+        "B": "Alkaline environment",
+        "C": "Neutral environment",
+        "D": "Oxygen-rich environment"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Anaerobic bacteria ek neutral pH range (6.5-7.5) mein sabse achha kaam karte hain. Bahut zyada acidic ya alkaline conditions unke liye harmful hoti hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Biogas plant se nikalne wali slurry ko khet mein use karne ka kya fayda hai?",
+      "options": {
+        "A": "Zameen ko banjar banata hai",
+        "B": "Chemical fertilizer ki zaroorat badhata hai",
+        "C": "Soil fertility badhata hai aur chemical fertilizer ki zaroorat kam karta hai",
+        "D": "Crop yield kam karta hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Biogas slurry ek nutrient-rich organic fertilizer hai jo soil ki fertility badhata hai aur chemical fertilizers par nirbharta kam karta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Biogas plant mein C/N ratio maintain karna kyun important hai?",
+      "options": {
+        "A": "Sirf gas ka pressure maintain karne ke liye",
+        "B": "Microorganisms ke healthy growth aur efficient gas production ke liye",
+        "C": "Plant ke structure ko strong banane ke liye",
+        "D": "Slurry ki quantity badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Carbon (energy) aur Nitrogen (protein) microorganisms ke liye zaroori nutrients hain. Sahi C/N ratio (typically 20-30:1) unki growth aur biogas production ko optimize karta hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Biogas plant ke liye sabse common raw material kya hai?",
+      "options": {
+        "A": "Plastic waste",
+        "B": "Cow dung (gobar)",
+        "C": "Metal scrap",
+        "D": "Glass bottles"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cow dung (gobar) Bharat mein biogas plants ke liye sabse zyada use hone wala aur easily available raw material hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Domestic biogas plant ke liye kaun sa digester type commonly use hota hai?",
+      "options": {
+        "A": "Fixed-dome type",
+        "B": "Industrial CSTR",
+        "C": "UASB reactor",
+        "D": "Dry fermentation"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Fixed-dome type digester apne simple design, low cost aur long lifespan ke karan domestic aur small-scale community biogas plants ke liye bahut popular hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Floating-drum type biogas plant mein gas holder kis material ka bana hota hai?",
+      "options": {
+        "A": "Concrete",
+        "B": "Plastic",
+        "C": "Steel ya FRP",
+        "D": "Wood"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Floating-drum type plant mein gas holder steel ya Fiber Reinforced Plastic (FRP) ka bana hota hai jo slurry ke upar float karta hai aur gas pressure ke saath upar-neeche hota hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Kis type ke organic waste ko biogas plant mein feed nahi karna chahiye?",
+      "options": {
+        "A": "Vegetable waste",
+        "B": "Animal dung",
+        "C": "Plastic aur metal",
+        "D": "Food waste"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Plastic aur metal non-biodegradable hote hain aur digester ko clog kar sakte hain ya damage kar sakte hain. Inhe biogas plant mein nahi dalna chahiye."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Biogas plant mein feedstock (raw material) ko pre-treatment ki zaroorat kyun padti hai?",
+      "options": {
+        "A": "Taste improve karne ke liye",
+        "B": "Gas production rate badhane aur clogging rokne ke liye",
+        "C": "Color change karne ke liye",
+        "D": "Weight kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pre-treatment (jaise chopping, grinding, mixing) feedstock ki particle size ko kam karta hai, surface area badhata hai, jisse digestion efficient hota hai aur clogging ka risk kam hota hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Ek fixed-dome biogas plant mein gas pressure kaise maintain hota hai?",
+      "options": {
+        "A": "External pump se",
+        "B": "Dome ke andar trapped gas ke weight se",
+        "C": "Manual pumping se",
+        "D": "Chemical reactions se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fixed-dome plant mein gas dome ke andar collect hoti hai aur uske volume aur dome ke shape ke karan ek inherent pressure generate hota hai jo gas ko push karta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Dual-fuel engine mein biogas ke saath kaun sa dusra fuel use kiya ja sakta hai?",
+      "options": {
+        "A": "Petrol",
+        "B": "Diesel",
+        "C": "Kerosene",
+        "D": "Wood"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dual-fuel engines mein biogas ko diesel ke saath combine karke use kiya ja sakta hai, jisse diesel ki khapat kam hoti hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Biogas plant ke liye ideal C/N ratio kya mana jata hai?",
+      "options": {
+        "A": "5:1 se 10:1",
+        "B": "20:1 se 30:1",
+        "C": "50:1 se 60:1",
+        "D": "100:1 se 120:1"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Microorganisms ke optimal growth aur efficient biogas production ke liye Carbon aur Nitrogen ka ratio 20:1 se 30:1 ideal mana jata hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Kaun sa raw material high gas yield deta hai?",
+      "options": {
+        "A": "Wood chips",
+        "B": "Rice husk",
+        "C": "Poultry manure",
+        "D": "Sawdust"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Poultry manure mein nitrogen content zyada hota hai aur yeh easily biodegradable hota hai, jisse high gas yield milta hai. Lekin iska C/N ratio manage karna padta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Floating-drum type digester mein gas leakage kahan se hone ka zyada chance hota hai?",
+      "options": {
+        "A": "Digester ke base se",
+        "B": "Inlet pipe se",
+        "C": "Drum aur water seal ke beech",
+        "D": "Outlet pipe se"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Floating-drum type plant mein gas drum ke neeche collect hoti hai aur water seal ke through leak ho sakti hai agar seal theek se maintain na ho."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Agricultural residue ko biogas plant mein use karne se pehle kya karna zaroori hai?",
+      "options": {
+        "A": "Directly use karna",
+        "B": "Chhote टुकड़ों mein kaatna (chopping)",
+        "C": "Jalana",
+        "D": "Dry karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agricultural residue jaise straw ko chhote टुकड़ों mein kaatne se uska surface area badhta hai, jisse microorganisms us par asani se kaam kar pate hain aur digestion efficient hota hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Fixed-dome plant mein gas outlet pipe kahan se nikalti hai?",
+      "options": {
+        "A": "Digester ke bottom se",
+        "B": "Dome ke top se",
+        "C": "Inlet pipe ke paas se",
+        "D": "Outlet pipe ke paas se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fixed-dome plant mein biogas dome ke andar collect hoti hai, isliye gas outlet pipe dome ke top se nikalti hai jahan gas ka pressure maximum hota hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Biogas plant ke liye animal dung ki suitability kis par depend karti hai?",
+      "options": {
+        "A": "Animal ke color par",
+        "B": "Animal ki age par",
+        "C": "Animal ki diet aur health par",
+        "D": "Animal ke weight par"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Animal ki diet aur health uske dung ki composition aur usse milne wale gas yield ko directly affect karti hai. Healthy animals ka dung better hota hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Dome type digester ki construction mein kaun sa material use hota hai?",
+      "options": {
+        "A": "Steel sheets",
+        "B": "Reinforced Cement Concrete (RCC)",
+        "C": "Wood planks",
+        "D": "Glass fiber"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fixed-dome digesters typically Reinforced Cement Concrete (RCC) se bante hain taaki unki structural strength aur impermeability maintain rahe."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Psychrophilic digestion kis temperature range mein hota hai?",
+      "options": {
+        "A": "0-20°C",
+        "B": "20-40°C",
+        "C": "40-60°C",
+        "D": "60-80°C"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Psychrophilic digestion low temperature range (0-20°C) mein hota hai. Mesophilic (20-40°C) aur thermophilic (40-60°C) zyada common hain."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Biogas plant mein water hyacinth ko raw material ke taur par use karne se pehle kya challenge aata hai?",
+      "options": {
+        "A": "Bahut zyada gas produce karta hai",
+        "B": "Isme lignin content zyada hota hai, jisse breakdown mushkil hota hai",
+        "C": "Isme bahut kam moisture hota hai",
+        "D": "Iska color badal jata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Water hyacinth mein lignin content high hota hai jo isse digest karna mushkil banata hai. Isse pehle pre-treatment ki zaroorat pad sakti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Floating-drum plant mein gas pressure ko kaise adjust kiya jata hai?",
+      "options": {
+        "A": "Drum ke upar weight rakh kar ya hata kar",
+        "B": "Digester ka size badha kar",
+        "C": "Inlet slurry ki quantity badha kar",
+        "D": "Gas pipe ka diameter badha kar"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Floating-drum plant mein gas pressure ko drum ke upar extra weights rakh kar ya hata kar adjust kiya ja sakta hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Biogas plant installation ke liye site selection mein sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Market distance",
+        "B": "Raw material ki availability aur water source",
+        "C": "Building ka color",
+        "D": "Road connectivity"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Biogas plant ko chalane ke liye raw material (jaise gobar) aur pani ki lagatar supply zaroori hai, isliye yeh availability site selection ka pehla criteria hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Plant ko residential area se kitni doori par install karna advisable hai?",
+      "options": {
+        "A": "Just next door",
+        "B": "Minimum 10-15 meters ki doori par",
+        "C": "Only in the middle of a village",
+        "D": "No specific distance"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Smell aur potential health concerns ke karan biogas plant ko residential areas se thodi doori par install karna advisable hota hai. Minimum 10-15 meters ek general guideline hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Biogas plant ke liye high water table wali jagah kyun avoid karni chahiye?",
+      "options": {
+        "A": "Gas production kam hota hai",
+        "B": "Construction costly aur difficult ho sakti hai",
+        "C": "Slurry ka color badal jata hai",
+        "D": "Sunlight kam milti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High water table par construction karna mushkil hota hai, foundation ko waterproof banana padta hai jo cost badhata hai aur structural integrity ko bhi affect kar sakta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Biogas plant ka layout design karte waqt kis cheez ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Sirf aesthetic appeal ka",
+        "B": "Raw material handling, slurry flow aur gas distribution ki efficiency ka",
+        "C": "Plant ko chhota dikhane ka",
+        "D": "Building ki height ka"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Efficient layout design se raw material aur slurry ka movement smooth hota hai, gas distribution proper hota hai aur overall plant operation asan hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Digester ko aise jagah par locate karna chahiye jahan use ________ mile.",
+      "options": {
+        "A": "Shade",
+        "B": "Direct sunlight",
+        "C": "Heavy wind",
+        "D": "Constant rain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Digester ko direct sunlight mein rakhne se andar ka temperature maintain rehta hai, jo microbial activity aur gas production ke liye beneficial hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Biogas plant ke liye sloping land kyun avoid karni chahiye?",
+      "options": {
+        "A": "Gas leakage ka risk badhta hai",
+        "B": "Construction costly aur complex ho jati hai",
+        "C": "Slurry flow ruk jata hai",
+        "D": "Gas ka pressure kam ho jata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sloping land par foundation work mushkil aur costly hota hai, kyunki leveling aur support structures ki zaroorat padti hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Plant ke outlet chamber aur slurry pit ke beech proper gradient kyun zaroori hai?",
+      "options": {
+        "A": "Gas ko store karne ke liye",
+        "B": "Slurry ke gravity flow ko ensure karne ke liye",
+        "C": "Plant ko aesthetic banane ke liye",
+        "D": "Noise control ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper gradient se digestate (slurry) outlet chamber se slurry pit tak gravity se flow ho pata hai, pumping ki zaroorat kam hoti hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Biogas plant ke location par soil testing kyun important hai?",
+      "options": {
+        "A": "Soil ka color check karne ke liye",
+        "B": "Foundation ki stability aur load-bearing capacity check karne ke liye",
+        "C": "Plant ke liye fertilizer banane ke liye",
+        "D": "Gas ki quality check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Soil testing se pata chalta hai ki zameen digester ke weight ko support kar sakti hai ya nahi. Weak soil par special foundation ki zaroorat pad sakti hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Biogas plant ke paas trees lagana beneficial hai ya harmful?",
+      "options": {
+        "A": "Hamesha harmful",
+        "B": "Hamesha beneficial",
+        "C": "Bahut kareeb lagane se roots damage kar sakte hain, thodi doori par shade aur windbreak ke liye achhe hain",
+        "D": "Koi asar nahi hota"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Trees ki roots digester structure ko damage kar sakti hain agar woh bahut kareeb hon. Lekin thodi doori par lagane se woh shade provide kar sakte hain aur windbreak ka kaam kar sakte hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Biogas plant ke liye electrical connection ki planning kyun zaroori hai?",
+      "options": {
+        "A": "Sirf aesthetics ke liye",
+        "B": "Light, motor aur safety equipment ke liye",
+        "C": "Gas ko garam karne ke liye",
+        "D": "Slurry ko thanda karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plant ke operation ke liye lights, slurry pumps (agar required ho), aur safety equipment jaise gas detectors ko power supply ki zaroorat hoti hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Plant layout mein inlet mixing tank ki position kahan honi chahiye?",
+      "options": {
+        "A": "Digester se bahut door",
+        "B": "Digester ke kareeb aur slightly higher level par",
+        "C": "Digester ke neeche",
+        "D": "Gas holder ke upar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Inlet mixing tank digester ke kareeb aur usse thoda ooncha hona chahiye, taki slurry gravity se asani se digester mein flow ho sake."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar site par bahut zyada patthar (rocks) hain, toh kya challenge aa sakta hai?",
+      "options": {
+        "A": "Gas production badh jayega",
+        "B": "Excavation (khudai) mushkil aur costly ho jayegi",
+        "C": "Slurry jam jayegi",
+        "D": "Gas leak hone lagegi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Rocky terrain par digester ke liye excavation karna bahut mushkil aur costly ho sakta hai, jisse installation time aur expenses badh jate hain."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Biogas plant ke paas pani ki proper drainage ka arrangement kyun hona chahiye?",
+      "options": {
+        "A": "Digester ko thanda rakhne ke liye",
+        "B": "Site par pani jama hone se rokne aur structural damage se bachane ke liye",
+        "C": "Gas ko purify karne ke liye",
+        "D": "Slurry ko sukhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper drainage se baarish ka pani ya wastewater site par jama nahi hota, jo foundation ko weak kar sakta hai aur plant ke aas-paas hygiene issue create kar sakta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Biogas plant installation ke liye government regulations aur permits check karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf formal procedure ke liye",
+        "B": "Legal issues aur fines se bachne ke liye",
+        "C": "Plant ke size ko limit karne ke liye",
+        "D": "Gas ki quality control karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regulatory compliance zaroori hai taaki plant legally operate kar sake aur future mein koi legal problem ya fine na ho."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Digester ke upar concrete ya masonry ki curing kyun zaroori hai?",
+      "options": {
+        "A": "Uska color change karne ke liye",
+        "B": "Cracks se bachane aur strength badhane ke liye",
+        "C": "Gas production badhane ke liye",
+        "D": "Smell control ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Curing se concrete ya masonry ko sahi tarah se hydrate hone ka time milta hai, jisse uski strength badhti hai aur cracks aane ka risk kam hota hai, jo gas leakage rokta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Site selection mein wind direction ka kya role hai?",
+      "options": {
+        "A": "Wind direction ka koi role nahi",
+        "B": "Prevailing wind direction ko dhyan mein rakhna chahiye taki smell residential areas ki taraf na jaye",
+        "C": "Jahan sabse zyada hawa ho wahan lagana chahiye",
+        "D": "Jahan bilkul hawa na ho wahan lagana chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Prevailing wind direction ko consider karna important hai taki plant se aane wali koi bhi halki smell residential areas ki taraf na jaye aur nuisance create na ho."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Biogas plant ke paas ek separate toilet block banane ka kya fayda hai?",
+      "options": {
+        "A": "Plant ki beauty badhata hai",
+        "B": "Plant mein kaam karne wale workers ke liye hygiene aur convenience provide karta hai",
+        "C": "Gas production badhata hai",
+        "D": "Slurry ko store karta hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Workers ke liye proper sanitation facilities provide karna unki health aur well-being ke liye zaroori hai, aur yeh overall site hygiene ko bhi maintain karta hai."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Biogas digester ki excavation (khudai) karte samay sabse pehle kya ensure karna chahiye?",
+      "options": {
+        "A": "Depth ko ignore karna",
+        "B": "Safety precautions aur proper marking",
+        "C": "Din ke time hi kaam karna",
+        "D": "Sirf bade tools use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Excavation ek dangerous activity ho sakti hai. Safety precautions jaise shoring, barricading aur proper marking zaroori hai taaki accidents se bacha ja sake."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Fixed-dome digester ke construction mein brickwork ki quality kyun important hai?",
+      "options": {
+        "A": "Sirf aesthetics ke liye",
+        "B": "Gas tight seal aur structural integrity ke liye",
+        "C": "Slurry ko jyada garam karne ke liye",
+        "D": "Gas ko jaldi bahar nikalne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High-quality brickwork aur proper plastering fixed-dome digester ko gas-tight banati hai aur uski structural strength maintain karti hai, jisse gas leakage nahi hota."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Gas pipe fitting ke liye kis material ki pipes use karni chahiye?",
+      "options": {
+        "A": "PVC pipes",
+        "B": "GI (Galvanized Iron) pipes",
+        "C": "Copper pipes",
+        "D": "Rubber pipes"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Biogas ke liye GI pipes generally prefer ki jaati hain kyunki woh corrosion resistant hoti hain aur gas pressure ko withstand kar sakti hain. PVC pipes gas tight nahi hoti aur UV damage ho sakta hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Water seal (jal bandh) ka kya uddeshya hai floating-drum type plant mein?",
+      "options": {
+        "A": "Slurry ko thanda rakhna",
+        "B": "Gas ko bahar nikalne se rokna",
+        "C": "Drum ko float hone se rokna",
+        "D": "Raw material ko mix karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Water seal floating-drum digester mein gas ko bahar leak hone se rokta hai aur ek effective barrier provide karta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Gas pipeline install karte samay kya precautions leni chahiye?",
+      "options": {
+        "A": "Sharp bends use karna",
+        "B": "Leaks check na karna",
+        "C": "Proper slope dena aur minimum bends rakhna",
+        "D": "Loose connections rakhna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Proper slope aur minimum bends gas ke smooth flow ko ensure karte hain aur condensate (pani) ko jamne se rokte hain. Tight connections aur leakage check bhi zaroori hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Dome ke andar ki surface par waterproofing coating kyun lagayi jaati hai?",
+      "options": {
+        "A": "Dome ko color dene ke liye",
+        "B": "Gas leakage rokne ke liye",
+        "C": "Digester ko garam karne ke liye",
+        "D": "Slurry ko mix karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dome ke andar waterproofing coating gas ko structure se leak hone se rokti hai, jo fixed-dome type digesters ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Inlet pipe ki height digester ke andar kitni honi chahiye?",
+      "options": {
+        "A": "Bottom tak",
+        "B": "Slurry level se upar",
+        "C": "Slurry level se neeche, taaki naya feed direct digestate mein mix ho",
+        "D": "Dome ke top tak"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Inlet pipe slurry level se neeche honi chahiye taaki naya feed digestate mein properly mix ho aur gas pocketing ya foaming na ho."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Gas stove ya lamp ko biogas pipeline se connect karte samay kya use karna zaroori hai?",
+      "options": {
+        "A": "Directly connect karna",
+        "B": "Rubber tube aur hose clamps",
+        "C": "Plastic wire",
+        "D": "Thread"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rubber tube aur hose clamps gas appliances ko pipeline se securely connect karte hain aur leakage rokte hain."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Biogas plant ke foundation ki depth kis par depend karti hai?",
+      "options": {
+        "A": "Plant ke color par",
+        "B": "Soil type aur digester ke size/weight par",
+        "C": "Gas production par",
+        "D": "Slurry ki quantity par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Foundation ki depth soil ki load-bearing capacity aur digester ke total weight ke hisab se determine ki jaati hai taaki plant stable rahe."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Floating-drum type plant mein drum ki painting kyun zaroori hai?",
+      "options": {
+        "A": "Gas production badhane ke liye",
+        "B": "Corrosion se bachane aur life badhane ke liye",
+        "C": "Slurry ko thanda karne ke liye",
+        "D": "Gas ko jaldi use karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Drum generally steel ka hota hai, aur use paint karne se woh corrosion ( जंग लगने) se bachta hai, especially water seal area mein, jisse uski life badhti hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Biogas plant mein pressure gauge kahan install karna chahiye?",
+      "options": {
+        "A": "Inlet mixing tank mein",
+        "B": "Gas pipeline par, gas holder ke paas",
+        "C": "Slurry pit mein",
+        "D": "Digester ke bottom mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pressure gauge gas pipeline par install kiya jata hai taaki gas holder mein gas ka pressure monitor kiya ja sake."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "First filling (pehle bharne) ke liye digester mein kya dala jata hai?",
+      "options": {
+        "A": "Sirf pani",
+        "B": "Fresh cow dung aur pani ka mixture",
+        "C": "Chemicals",
+        "D": "Solid waste"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "First filling mein fresh cow dung aur pani ka mixture dala jata hai, jisse microorganisms ki initial population establish hoti hai aur digestion process start hota hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Biogas plant ki installation ke baad commissioning process ka kya matlab hai?",
+      "options": {
+        "A": "Plant ko dismantle karna",
+        "B": "Plant ko pehli baar chalana aur uski performance check karna",
+        "C": "Plant ko paint karna",
+        "D": "Sirf gas pipes lagana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Commissioning ka matlab hai plant ko install karne ke baad pehli baar operate karna, uski sabhi systems (gas production, pressure, leakage) ko test karna aur ensure karna ki woh theek se kaam kar raha hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Biogas plant mein gas supply line par flame arrester lagana kyun zaroori hai?",
+      "options": {
+        "A": "Gas ka flow badhane ke liye",
+        "B": "Backfire ya flashback ko rokne aur safety ke liye",
+        "C": "Gas ko thanda karne ke liye",
+        "D": "Gas ka pressure badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flame arrester ek critical safety device hai jo biogas pipe mein flame ke reverse travel (backfire/flashback) ko rokta hai, jisse plant mein aag lagne ka khatra kam ho jata hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Digester ke andar ki surface smooth aur crack-free kyun honi chahiye?",
+      "options": {
+        "A": "Aesthetics ke liye",
+        "B": "Gas leakage rokne aur cleaning asan banane ke liye",
+        "C": "Zyada gas produce karne ke liye",
+        "D": "Slurry ko jaldi sukhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Smooth aur crack-free surface gas leakage ko rokti hai aur algae ya other unwanted growth ko rok kar cleaning ko asan banati hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Biogas plant mein drain valve kahan install kiya jata hai?",
+      "options": {
+        "A": "Inlet pipe par",
+        "B": "Gas pipeline ke lowest point par",
+        "C": "Slurry pit mein",
+        "D": "Gas holder ke top par"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Drain valve gas pipeline ke lowest point par install kiya jata hai taaki wahan accumulate hone wale condensate (pani) ko periodically drain kiya ja sake, jo gas flow ko obstruct kar sakta hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Biogas plant ke construction ke dauran proper ventilation kyun zaroori hai?",
+      "options": {
+        "A": "Worker ko thanda rakhne ke liye",
+        "B": "Toxic gases ko bahar nikalne aur fresh air circulation ke liye",
+        "C": "Cement ko jaldi sukhane ke liye",
+        "D": "Noise kam karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Construction site par, especially confined spaces mein, proper ventilation zaroori hai taaki koi bhi harmful gases (jaise H2S) jama na hon aur workers ko fresh air milti rahe."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Biogas plant ko daily feed karte samay kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Sirf quantity ka",
+        "B": "Consistency, quantity aur proper mixing ka",
+        "C": "Feed ko dry rakhna",
+        "D": "Sirf din mein ek baar feed karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Daily feed mein proper consistency (pani aur gobar ka ratio), sahi quantity aur achhi tarah mixing zaroori hai taaki digestion process efficient rahe."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Agar biogas plant mein gas production kam ho jaye, toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Plant ko dismantle karna",
+        "B": "Feedstock ki quality aur quantity",
+        "C": "Gas pipeline ko badalna",
+        "D": "Naye microorganism add karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gas production kam hone ka sabse common karan feedstock ki quality ya quantity mein kami hai. pH, temperature aur C/N ratio bhi check karna chahiye."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Biogas slurry ko khet mein use karne se pehle kya precaution leni chahiye?",
+      "options": {
+        "A": "Directly use karna",
+        "B": "Properly store karna aur dilute karna (agar zaroori ho)",
+        "C": "Jalana",
+        "D": "Chemicals add karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slurry ko proper storage mein rakhna chahiye aur agar bahut concentrated ho toh pani se dilute karke use karna chahiye taaki plants ko damage na ho."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Gas leakage check karne ke liye soap solution ka use kab karna chahiye?",
+      "options": {
+        "A": "Sirf saal mein ek baar",
+        "B": "Regularly, especially naye connections ya maintenance ke baad",
+        "C": "Sirf jab plant band ho",
+        "D": "Kabhi nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gas leakage ek safety concern hai, isliye regular intervals par aur har naye connection ya repair ke baad soap solution se leakage check karna zaroori hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Biogas digester mein temperature maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf slurry ko garam rakhne ke liye",
+        "B": "Microorganisms ki optimal activity aur efficient gas production ke liye",
+        "C": "Gas ko expand karne ke liye",
+        "D": "Gas ko thanda karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Biogas production mein shamil microorganisms ek specific temperature range par sabse achha kaam karte hain. Temperature fluctuation gas production ko kam kar sakta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Floating-drum type plant mein drum ki maintenance mein kya shamil hai?",
+      "options": {
+        "A": "Sirf drum ko upar-neeche karna",
+        "B": "Rusting check karna aur repaint karna",
+        "C": "Drum ko pani se bharna",
+        "D": "Drum ko hamesha khula rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Floating drum ko regular basis par rusting ke liye check karna chahiye aur zaroorat padne par repaint karna chahiye taaki uski structural integrity aur gas-tightness bani rahe."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Agar digester mein foaming (jhaag banna) ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Foaming ko ignore karna",
+        "B": "Feedstock ki quantity kam karna ya anti-foaming agent use karna",
+        "C": "Zyada water add karna",
+        "D": "Gas outlet band karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Foaming se gas collection mein problem ho sakti hai. Feedstock ki quantity kam karna, uski consistency adjust karna ya anti-foaming agents use karna iska solution ho sakta hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Biogas plant ke inlet chamber mein solid particles jamne se rokne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Chamber ko chhod dena",
+        "B": "Regularly cleaning aur stirring karna",
+        "C": "Zyada pani dalna",
+        "D": "Inlet pipe ko chhota kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Inlet chamber mein solid particles jam sakte hain, jisse clogging ho sakti hai. Regular cleaning aur stirring se isse bacha ja sakta hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Biogas plant mein pH level monitor karna kyun zaroori hai?",
+      "options": {
+        "A": "Gas ke color ko maintain karne ke liye",
+        "B": "Microorganisms ki activity ko control karne aur digestion process ko optimize karne ke liye",
+        "C": "Slurry ko thanda rakhne ke liye",
+        "D": "Gas ka pressure badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "pH level microorganisms ki growth aur survival ke liye critical hai. Optimal pH range (neutral) maintain karne se gas production efficient rehta hai. Extreme pH levels digestion ko inhibit kar sakte hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Condensate trap ka kya function hai biogas pipeline mein?",
+      "options": {
+        "A": "Gas ko leak hone se rokna",
+        "B": "Pipeline mein jama hone wale pani ko collect karna",
+        "C": "Gas ka pressure badhana",
+        "D": "Gas ko garam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Biogas pipeline mein moisture condense ho kar pani ban sakta hai. Condensate trap is pani ko collect karta hai jisse gas flow obstruct na ho."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Agar plant mein H2S (Hydrogen Sulfide) ki matra zyada ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Gas scrubber ya desulphurization unit install karna",
+        "C": "Zyada feed dalna",
+        "D": "Plant ko band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "High H2S content corrosive hota hai aur appliances ko damage kar sakta hai. Isse hataane ke liye gas scrubber ya desulphurization unit install karna zaroori hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Biogas plant mein gas meter ka kya upyog hai?",
+      "options": {
+        "A": "Gas ka pressure check karna",
+        "B": "Gas production ki quantity ko measure karna",
+        "C": "Gas ka temperature check karna",
+        "D": "Gas ki speed check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gas meter plant se produce hone wali biogas ki daily ya hourly quantity ko measure karta hai, jisse plant ki performance monitor ki ja sakti hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Biogas plant mein chuhon aur keedon (pests) se bachav kyun zaroori hai?",
+      "options": {
+        "A": "Sirf aesthetics ke liye",
+        "B": "Pipes aur electrical wiring ko damage hone se bachane ke liye",
+        "C": "Gas production badhane ke liye",
+        "D": "Slurry ko kharab hone se bachane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chuhe aur keede pipes, electrical wiring aur plant ke other components ko damage kar sakte hain, jisse leakage ya malfunction ho sakta hai. Proper pest control zaroori hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Biogas plant ke emergency shutdown procedure ka kya uddeshya hai?",
+      "options": {
+        "A": "Plant ko kuch der aaram dene ke liye",
+        "B": "Hazardous situations mein plant ko safely band karna",
+        "C": "Gas production ko badhane ke liye",
+        "D": "Maintenance ko avoid karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Emergency shutdown procedure kisi bhi khatarnak sthiti (jaise gas leakage, fire) mein plant ko turant aur safely band karne ke liye banaya jata hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Agar digester mein crust formation (solid layer banna) ho, toh kya karna chahiye?",
+      "options": {
+        "A": "Ignore karna",
+        "B": "Manual ya mechanical stirring karna",
+        "C": "Zyada solid feed dalna",
+        "D": "Gas outlet band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Crust formation gas release ko rok sakti hai aur digestion efficiency kam kar sakti hai. Isse rokne ke liye regular stirring ya agitation zaroori hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Biogas plant mein water balance maintain karna kyun important hai?",
+      "options": {
+        "A": "Sirf pani bachane ke liye",
+        "B": "Slurry ki proper consistency aur microorganisms ke liye ideal environment maintain karne ke liye",
+        "C": "Gas ka pressure badhane ke liye",
+        "D": "Plant ko thanda rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Sahi water content slurry ki viscosity ko control karta hai, jo feed flow aur microorganisms ki activity ke liye critical hai. Bahut zyada ya kam pani digestion ko affect kar sakta hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Biogas plant par kaam karte samay personal protective equipment (PPE) ka use kyun zaroori hai?",
+      "options": {
+        "A": "Sirf company policy hai",
+        "B": "Workers ki safety aur health ke liye",
+        "C": "Gas production badhane ke liye",
+        "D": "Plant ko clean rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PPE jaise gloves, safety shoes, goggles aur gas mask workers ko hazardous conditions (jaise toxic gases, chemical spills) se bachate hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Agar biogas leak ho rahi ho, toh sabse pehla kadam kya hona chahiye?",
+      "options": {
+        "A": "Matchstick se check karna",
+        "B": "Turant ventilation karna aur ignition sources se door rehna",
+        "C": "Leak ko ignore karna",
+        "D": "Plant ko pani se bhar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Biogas flammable hoti hai. Leakage hone par turant area ko ventilate karna aur koi bhi ignition source (jaise aag, sparks) se door rehna sabse zaroori hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Confined space (jaise digester ke andar) mein enter karne se pehle kya precaution leni chahiye?",
+      "options": {
+        "A": "Directly enter karna",
+        "B": "Gas levels check karna aur proper ventilation ensure karna",
+        "C": "Sirf din mein enter karna",
+        "D": "Koi precaution nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Confined spaces mein toxic gases (H2S, CO2) aur oxygen deficiency ka khatra hota hai. Entry se pehle gas detector se levels check karna aur ventilation zaroori hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Biogas plant mein fire extinguisher kahan rakhna chahiye?",
+      "options": {
+        "A": "Sirf office mein",
+        "B": "Plant ke aas-paas easily accessible jagah par",
+        "C": "Digester ke andar",
+        "D": "Slurry pit ke paas"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fire extinguisher ko plant ke aas-paas aisi jagah par rakhna chahiye jahan woh emergency mein turant available ho."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Agar biogas burner se flame yellow ya orange aa rahi ho, toh yeh kya indicate karta hai?",
+      "options": {
+        "A": "Achhi quality ki gas",
+        "B": "Improper air-gas mixture ya impurities (carbon black)",
+        "C": "Bahut zyada pressure",
+        "D": "Bahut kam pressure"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yellow/orange flame incomplete combustion ko darshati hai, jo improper air-gas mixture ya biogas mein impurities (jaise H2S) ke karan ho sakti hai. Blue flame ideal hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Biogas plant ke liye government subsidy schemes ki jankari rakhna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf curiosity ke liye",
+        "B": "Customers ko financial assistance aur plant adoption ke liye motivate karne ke liye",
+        "C": "Plant ke size ko limit karne ke liye",
+        "D": "Gas ki quality control karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Subsidy schemes customers ko biogas plant install karne ke liye financial support provide karti hain, jisse plant adoption badhta hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Agar digester mein pH bahut kam ho jaye, toh kya solution hai?",
+      "options": {
+        "A": "Aur acidic material add karna",
+        "B": "Alkaline material (jaise lime) add karna ya feed rate kam karna",
+        "C": "Sirf pani add karna",
+        "D": "Plant ko band kar dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Low pH (acidic conditions) methanogenic bacteria ke liye harmful hota hai. pH ko badhane ke liye lime ya feed rate kam karna beneficial ho sakta hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Biogas plant mein electrical work karte samay kya safety precaution leni chahiye?",
+      "options": {
+        "A": "Power supply on rakhna",
+        "B": "Insulated tools use karna aur power supply disconnect karna",
+        "C": "Sirf rubber gloves pehenna",
+        "D": "Koi precaution nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical hazards se bachne ke liye power supply ko disconnect karna aur insulated tools ka use karna bahut zaroori hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Biogas plant ke paas no-smoking zone maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Plant ko clean rakhne ke liye",
+        "B": "Biogas flammable hoti hai, aag lagne ke khatre se bachne ke liye",
+        "C": "Gas production badhane ke liye",
+        "D": "Slurry ko thanda rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Biogas ek highly flammable gas hai, isliye plant ke aas-paas koi bhi ignition source (jaise cigarette, matchstick) allow nahi karna chahiye."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar gas pipeline block ho jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "High pressure se gas push karna",
+        "B": "Blockage identify karna aur safely remove karna",
+        "C": "Pipe ko tod dena",
+        "D": "Blockage ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blockage se gas flow ruk jayega. Cause identify karna (condensate, solid particle) aur safely remove karna zaroori hai. Kabhi bhi high pressure se force na karein."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Biogas plant mein first aid kit kahan honi chahiye?",
+      "options": {
+        "A": "Sirf ghar par",
+        "B": "Plant site par, easily accessible jagah par",
+        "C": "Car mein",
+        "D": "Slurry pit ke andar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Minor injuries ya accidents ke liye first aid kit plant site par immediately available honi chahiye."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Biogas plant ki safety auditing kyun zaroori hai?",
+      "options": {
+        "A": "Sirf paper work ke liye",
+        "B": "Potential hazards ko identify karne aur control measures implement karne ke liye",
+        "C": "Gas production badhane ke liye",
+        "D": "Plant ki speed badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Safety audit se plant mein मौजूद khatron ka pata chalta hai aur unhe kam karne ke liye zaroori kadam uthaye ja sakte hain, jisse accidents ka risk kam hota hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar digester mein temperature bahut kam ho jaye, toh kya karna chahiye?",
+      "options": {
+        "A": "Thandi feed dalna",
+        "B": "Insulation provide karna ya external heating source use karna",
+        "C": "Gas outlet band karna",
+        "D": "Zyada pani dalna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Low temperature gas production ko drastically kam kar deta hai. Digester ko insulate karna ya external heating system (solar water heater, exhaust heat) use karna beneficial ho sakta hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Biogas plant mein methane content check karne ka kya fayda hai?",
+      "options": {
+        "A": "Sirf color check karna",
+        "B": "Gas ki quality aur heating value ko monitor karna",
+        "C": "Gas ka pressure check karna",
+        "D": "Gas ki speed check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Methane biogas ka mukhya combustible component hai. Iska percentage monitor karne se gas ki quality aur uski heating value ka pata chalta hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Biogas plant ke liye emergency contact numbers (fire, medical) kahan display karne chahiye?",
+      "options": {
+        "A": "Sirf mobile phone mein",
+        "B": "Plant site par, clearly visible jagah par",
+        "C": "Office ke andar",
+        "D": "Koi zaroorat nahi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Emergency contact numbers ko plant site par prominently display karna chahiye taaki emergency mein turant help mil sake."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Biogas plant technician ko kon-kon se tools ki basic knowledge honi chahiye?",
+      "options": {
+        "A": "Sirf computer",
+        "B": "Wrenches, pliers, screwdrivers, gas leakage detectors, safety gear",
+        "C": "Only painting tools",
+        "D": "Only gardening tools"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek biogas plant technician ko basic mechanical tools, safety gear aur specific testing equipment (jaise gas leakage detector) ki knowledge honi chahiye."
+    }
+  ]
+}

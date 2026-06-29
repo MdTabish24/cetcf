@@ -1,0 +1,1443 @@
+{
+  "course_name": "AI-Powered Content Creation",
+  "sector": "Media, Photography & Content Creation",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Module 1: Introduction to AI and Content Creation",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Module 2: AI Tools for Text Content",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Module 3: AI Tools for Image & Video Content",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Module 4: AI for Audio & Multimodal Content",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Module 5: Ethics, Best Practices & Workflow Integration",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Module 6: Future Trends & Career Opportunities",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "AI ka full form kya hai?",
+      "options": {
+        "A": "Artificial Intelligence",
+        "B": "Automated Information",
+        "C": "Advanced Internet",
+        "D": "Artistic Imagination"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "AI ka full form Artificial Intelligence hai, jo machines ko insaan jaisi intelligence provide karta hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Content creation mein AI ka primary benefit kya hai?",
+      "options": {
+        "A": "Content ko manual tareeke se banana",
+        "B": "Production speed aur efficiency badhana",
+        "C": "Sirf technical content likhna",
+        "D": "Human creativity ko replace karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI content creation mein production speed aur efficiency badhata hai, jisse kam samay mein zyada content banaya ja sakta hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Kis technology se AI machines learning aur understanding karte hain?",
+      "options": {
+        "A": "Quantum Physics",
+        "B": "Machine Learning (ML)",
+        "C": "Thermodynamics",
+        "D": "Biological Engineering"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Machine Learning (ML) AI ka ek sub-field hai jo machines ko data se seekhne aur understand karne ki ability deta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "AI-powered content creation tools ka ek example kya hai?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Adobe Photoshop",
+        "C": "ChatGPT",
+        "D": "Google Chrome"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "ChatGPT ek popular AI tool hai jo text content generate karne mein help karta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Content creation mein Natural Language Processing (NLP) ka kya role hai?",
+      "options": {
+        "A": "Images ko process karna",
+        "B": "Human language ko samajhna aur generate karna",
+        "C": "Video editing karna",
+        "D": "Financial data analyze karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "NLP AI ka ek branch hai jo computers ko human language ko samajhne, interpret karne aur generate karne mein enable karta hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "AI content tools generally kis type ke tasks automate karte hain?",
+      "options": {
+        "A": "Creative brainstorming aur ideation",
+        "B": "Repetitive aur data-driven tasks",
+        "C": "Complex human decision-making",
+        "D": "Original research aur interviews"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools repetitive aur data-driven tasks ko automate karte hain, jaise ki draft generation, summarization, ya basic image edits."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "AI content creation mein sabse common ethical concern kya hai?",
+      "options": {
+        "A": "Tools ka bahut expensive hona",
+        "B": "AI-generated content ki authenticity aur originality",
+        "C": "Internet connectivity ki zaroorat",
+        "D": "Software updates ki frequency"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI-generated content ki authenticity, originality aur potential bias ek major ethical concern hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Content creators ke liye AI ke drawbacks mein se ek kya ho sakta hai?",
+      "options": {
+        "A": "Content ki quality mein sudhar",
+        "B": "Human creativity ka kam hona",
+        "C": "Zyada engagement milna",
+        "D": "Faster content delivery"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI par over-reliance se human creativity aur critical thinking kam ho sakte hain."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Kis cheez ko AI-generated content ke liye 'input' kehte hain?",
+      "options": {
+        "A": "Output",
+        "B": "Prompt",
+        "C": "Result",
+        "D": "Feedback"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI ko jo instructions ya text hum dete hain use 'prompt' kehte hain, jiske basis par AI content generate karta hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "AI-powered tools kis type ke businesses ke liye useful ho sakte hain?",
+      "options": {
+        "A": "Only tech companies",
+        "B": "Only large corporations",
+        "C": "Sabhi sectors ke businesses, jo content banate hain",
+        "D": "Only educational institutions"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "AI tools sabhi sectors ke businesses ke liye useful hain jo apni online presence ke liye content create karte hain."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Computer Vision AI ka ek branch hai jo kis cheez se deal karta hai?",
+      "options": {
+        "A": "Text generation",
+        "B": "Audio processing",
+        "C": "Images aur videos ko interpret karna",
+        "D": "Mathematical calculations"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Computer Vision AI system ko images aur videos se meaningful information extract karne aur unhe interpret karne mein help karta hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "AI content creation tools ka use karke kya banaya ja sakta hai?",
+      "options": {
+        "A": "Only short social media posts",
+        "B": "Only long academic papers",
+        "C": "Blogs, articles, social media captions, video scripts, etc.",
+        "D": "Only coding programs"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "AI tools se blogs, articles, social media captions, video scripts, emails aur bahut kuch banaya ja sakta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Kya AI puri tarah se human creativity ko replace kar sakta hai?",
+      "options": {
+        "A": "Haan, bilkul",
+        "B": "Nahi, AI ek tool hai jo human creativity ko support karta hai",
+        "C": "Sirf kuch specific areas mein",
+        "D": "Iska koi definite answer nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI ek tool hai jo human creativity ko enhance aur support karta hai, use replace nahi karta."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "AI-powered content creation ka ek important aspect kya hai?",
+      "options": {
+        "A": "Only generating original content",
+        "B": "Content ko personalize karna",
+        "C": "Content ko sirf ek language mein banana",
+        "D": "Content ko bina kisi human review ke publish karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools content ko audience ke according personalize karne mein help karte hain, jo engagement badhata hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "AI content creation mein 'bias' ka kya matlab hai?",
+      "options": {
+        "A": "AI tools ka bahut fast hona",
+        "B": "AI output mein unfair ya incorrect assumptions ka hona",
+        "C": "AI tools ka free hona",
+        "D": "AI tools ka user-friendly hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bias tab hota hai jab AI output mein unfair ya incorrect assumptions hote hain, jo training data mein maujood bias ke karan ho sakte hain."
+    },
+    {
+      "qno": 16,
+      "module": 2,
+      "question": "Content ideation ke liye AI tools kaise help karte hain?",
+      "options": {
+        "A": "Sirf existing ideas ko copy karke",
+        "B": "New content topics aur angles suggest karke",
+        "C": "Graphics design karke",
+        "D": "Social media posts ko schedule karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI tools existing data aur trends analyze karke naye content topics aur angles suggest karte hain."
+    },
+    {
+      "qno": 17,
+      "module": 2,
+      "question": "Blog post ka draft generate karne ke liye kis AI tool ka use kiya ja sakta hai?",
+      "options": {
+        "A": "Adobe Premiere Pro",
+        "B": "ChatGPT",
+        "C": "Midjourney",
+        "D": "Canva"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ChatGPT jaise Large Language Models (LLMs) blog post drafts generate karne ke liye widely use hote hain."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Social media captions likhne ke liye AI ka use karne ka kya fayda hai?",
+      "options": {
+        "A": "Captions ko bahut lamba banana",
+        "B": "Engagement-driven aur concise captions banana",
+        "C": "Sirf hashtags generate karna",
+        "D": "Images ko edit karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI tools engagement-driven aur concise social media captions jaldi se generate kar sakte hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Email marketing copy generate karne mein AI ki kya bhumika hai?",
+      "options": {
+        "A": "Emails ko spam folder mein bhej dena",
+        "B": "Personalized aur compelling email subject lines aur body copy likhna",
+        "C": "Sirf emails send karna",
+        "D": "Email analytics ko track karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI personalized aur compelling email subject lines aur body copy generate karke email marketing efforts ko boost karta hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "'Prompt Engineering' ka kya matlab hai?",
+      "options": {
+        "A": "AI tools ko repair karna",
+        "B": "AI se best possible output nikalne ke liye effective instructions dena",
+        "C": "AI models ko train karna",
+        "D": "AI-generated content ko detect karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Prompt Engineering AI ko clear aur specific instructions dene ki art hai, jisse desired output mil sake."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Kis AI technique se text ko concise aur main points mein summarize kiya ja sakta hai?",
+      "options": {
+        "A": "Text Expansion",
+        "B": "Text Summarization",
+        "C": "Text Classification",
+        "D": "Text Generation"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Text Summarization AI technique bade text ko chote aur meaningful summaries mein convert karta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "AI tools ka use karke SEO-friendly content kaise banaya ja sakta hai?",
+      "options": {
+        "A": "Sirf random keywords add karke",
+        "B": "Relevant keywords, meta descriptions aur headings optimize karke",
+        "C": "Content ki length kam karke",
+        "D": "Sirf images use karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools relevant keywords suggest karte hain aur content structure ko optimize karte hain, jisse SEO ranking improve hoti hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "AI-powered paraphrasing tools ka kya kaam hai?",
+      "options": {
+        "A": "Content ko copy karna",
+        "B": "Content ko original meaning retain karte hue rewrite karna",
+        "C": "Content ko translate karna",
+        "D": "Content ki spelling check karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Paraphrasing tools content ko naye shabdon mein rewrite karte hain, jisse originality bani rahe aur plagiarism se bacha ja sake."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Headline generator AI tool ka kya fayda hai?",
+      "options": {
+        "A": "Sirf boring headlines banana",
+        "B": "Click-worthy aur engaging headlines suggest karna",
+        "C": "Article ka body likhna",
+        "D": "Content ko publish karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Headline generators multiple engaging options provide karte hain, jisse audience ka attention grab kiya ja sake."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Agar AI tool se desired output nahi mil raha hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Tool ko use karna band kar dena",
+        "B": "Prompt ko refine aur specific banana",
+        "C": "Kisi aur tool ka wait karna",
+        "D": "AI ki galti maan lena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Prompt engineering mein prompt ko refine karna bahut important hai. Jitna specific aur clear prompt hoga, utna hi better output milega."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "AI-driven content optimization tools kis cheez mein help karte hain?",
+      "options": {
+        "A": "Content ko random banana",
+        "B": "Content ki readability, SEO aur engagement potential ko improve karna",
+        "C": "Content ko delete karna",
+        "D": "Sirf grammar mistakes theek karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools content ki readability, SEO aur engagement potential ko analyze aur improve karte hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Chatbots kis type ke text content creation mein useful hain?",
+      "options": {
+        "A": "Long-form articles",
+        "B": "Interactive customer support scripts aur FAQs",
+        "C": "Video scripts",
+        "D": "Image descriptions"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Chatbots interactive customer support scripts aur FAQs ko automate aur personalize karne mein help karte hain."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "AI ka use karke product descriptions kaise improve kiye ja sakte hain?",
+      "options": {
+        "A": "Sirf product ka naam likhkar",
+        "B": "Engaging aur keyword-rich descriptions generate karke",
+        "C": "Product ki images upload karke",
+        "D": "Product ko manually test karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI tools engaging aur keyword-rich product descriptions generate karte hain jo conversion rate badhate hain."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Content calendar planning mein AI ki kya madad ho sakti hai?",
+      "options": {
+        "A": "Sirf dates suggest karna",
+        "B": "Trending topics aur optimal publishing times suggest karna",
+        "C": "Content ko publish karna",
+        "D": "Team members ko assign karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools trending topics aur optimal publishing times predict karke content calendar planning ko efficient banate hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "AI tools se 'tone of voice' adjust karna possible hai kya?",
+      "options": {
+        "A": "Nahi, AI sirf factual content likhta hai",
+        "B": "Haan, prompt mein specify karke",
+        "C": "Sirf kuch tools mein",
+        "D": "Bahut mushkil hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Most advanced AI text generators prompt mein specified tone (e.g., friendly, professional, humorous) ke according content adjust kar sakte hain."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "AI ka use karke multi-language content kaise banaya ja sakta hai?",
+      "options": {
+        "A": "Har language ke liye alag se content likhkar",
+        "B": "AI translation tools ka use karke",
+        "C": "Sirf English content banakar",
+        "D": "Manual translation services hire karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI translation tools content ko multiple languages mein jaldi aur accurately translate kar sakte hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Long-form content, jaise ebooks ya whitepapers, ke liye AI kaise help karta hai?",
+      "options": {
+        "A": "Sirf title suggest karke",
+        "B": "Outline creation, research assistance aur section drafting mein",
+        "C": "Images add karke",
+        "D": "Content ko publish karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI long-form content ke liye outline create karne, research mein assist karne aur various sections ke drafts likhne mein madad karta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "AI-generated text content ko publish karne se pehle kya karna zaroori hai?",
+      "options": {
+        "A": "Seedhe publish kar dena",
+        "B": "Human review, fact-checking aur editing karna",
+        "C": "Sirf grammar check karna",
+        "D": "Kisi aur AI tool se check karana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI-generated content ko hamesha human review, fact-checking aur editing ki zaroorat hoti hai to ensure accuracy aur quality."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "AI tools ka use karke content marketing campaigns mein kya improve kiya ja sakta hai?",
+      "options": {
+        "A": "Sirf ad spend",
+        "B": "Target audience analysis, content personalization aur performance tracking",
+        "C": "Only website design",
+        "D": "Campaign ka duration"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools target audience ko analyze karte hain, content ko personalize karte hain aur campaign performance ko track karte hain, jisse ROI badhta hai."
+    },
+    {
+      "qno": 35,
+      "module": 2,
+      "question": "Kis type ke text content ke liye AI tools sabse zyada effective hain?",
+      "options": {
+        "A": "Highly sensitive personal stories",
+        "B": "Creative writing jaise poetry aur fiction",
+        "C": "Data-driven, factual aur repetitive text",
+        "D": "Legal documents jo human expertise maangte hain"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "AI tools data-driven, factual aur repetitive text content ke liye sabse zyada effective hote hain, jahan patterns aur structures clear hote hain."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Text-to-image AI generators ka kya kaam hai?",
+      "options": {
+        "A": "Text ko voice mein convert karna",
+        "B": "Written description se images create karna",
+        "C": "Images ko text mein convert karna",
+        "D": "Videos ko edit karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Text-to-image AI generators users dwara diye gaye text prompts se visually appealing images generate karte hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Midjourney aur DALL-E kis type ke AI tools hain?",
+      "options": {
+        "A": "AI text generators",
+        "B": "AI video editors",
+        "C": "AI image generators",
+        "D": "AI music generators"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Midjourney aur DALL-E popular AI tools hain jo text prompts se images create karte hain."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "AI ka use karke image se background remove karna kitna easy hai?",
+      "options": {
+        "A": "Bahut mushkil, manual editing ki zaroorat hai",
+        "B": "Bahut easy, AI tools instantly kar sakte hain",
+        "C": "Sirf high-end software se possible hai",
+        "D": "Bilkul impossible hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kai AI tools jaise Remove.bg ya Canva ka AI feature ek click mein image se background remove kar sakte hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "AI-powered video creation tools kis cheez mein help karte hain?",
+      "options": {
+        "A": "Sirf video ko record karna",
+        "B": "Text-to-video generation, avatar creation aur automated editing",
+        "C": "Video file size kam karna",
+        "D": "Video ko online stream karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI video tools text se video generate karte hain, virtual avatars banate hain aur editing tasks ko automate karte hain."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Deepfake technology ka primary concern kya hai?",
+      "options": {
+        "A": "Videos ko high quality banana",
+        "B": "Misinformation aur authenticity ke issues",
+        "C": "Video editing ko fast karna",
+        "D": "New video effects create karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Deepfake technology ka use misleading ya false content banane ke liye kiya ja sakta hai, jisse misinformation aur authenticity ke issues uthte hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "AI image generators ke liye ek effective prompt ka example kya hai?",
+      "options": {
+        "A": "Ek photo",
+        "B": "Beautiful landscape",
+        "C": "A vibrant sunset over a calm ocean, with palm trees in the foreground, photorealistic, 8K, golden hour",
+        "D": "Just a picture"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Effective prompts specific details (subject, setting, style, lighting, quality) include karte hain taaki AI desired image generate kar sake."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "AI ka use karke video mein automatic captions/subtitles kaise add kiye ja sakte hain?",
+      "options": {
+        "A": "Manually type karke",
+        "B": "AI speech-to-text technology se",
+        "C": "Sirf paid software se",
+        "D": "Yeh possible nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI speech-to-text technology audio ko analyze karke automatic captions aur subtitles generate karti hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "AI-powered image upscaling tools ka kya fayda hai?",
+      "options": {
+        "A": "Image ka size kam karna",
+        "B": "Low-resolution images ki quality aur resolution badhana",
+        "C": "Image se objects remove karna",
+        "D": "Image ko black and white karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Image upscaling tools AI algorithms ka use karke low-resolution images ko high-resolution mein convert karte hain, detail preserve karte hue."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "AI-driven video editing tools kis task ko automate kar sakte hain?",
+      "options": {
+        "A": "Creative storytelling",
+        "B": "Scene detection, trimming aur transitions",
+        "C": "New footage shoot karna",
+        "D": "Director ke decisions lena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI video editing tools repetitive tasks jaise scene detection, trimming, transitions apply karna aur color correction ko automate kar sakte hain."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Virtual human avatars banane ke liye kis AI technology ka use hota hai?",
+      "options": {
+        "A": "Text-to-text",
+        "B": "Generative AI (e.g., Synthesys, HeyGen)",
+        "C": "Image compression",
+        "D": "Audio recording"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Generative AI platforms virtual human avatars create karte hain jo text-to-speech ya pre-recorded audio se bol sakte hain."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "AI-generated images mein consistency maintain karne ke liye kya zaroori hai?",
+      "options": {
+        "A": "Sirf random prompts use karna",
+        "B": "Consistent prompts aur seed values ka use karna",
+        "C": "Har baar alag AI tool use karna",
+        "D": "Sirf ek hi image generate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Consistent prompts aur seed values ka use karne se AI-generated images mein visual consistency maintain ki ja sakti hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "AI ka use karke existing video clips se short-form content kaise banaya ja sakta hai?",
+      "options": {
+        "A": "Manually har clip ko review karke",
+        "B": "AI-powered highlight reel generators se",
+        "C": "Sirf video ko slow karke",
+        "D": "Video ko delete karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI-powered highlight reel generators long videos se key moments detect karke short, engaging clips automatically create karte hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "AI image generators ka sabse common use case kya hai?",
+      "options": {
+        "A": "Complex scientific diagrams banana",
+        "B": "Unique stock photos aur concept art create karna",
+        "C": "Legal documents ke liye watermark banana",
+        "D": "Medical imaging analysis"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI image generators unique stock photos, concept art aur marketing visuals create karne ke liye bahut useful hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "AI-powered tools se video footage ki color grading kaise ki ja sakti hai?",
+      "options": {
+        "A": "Sirf black and white karke",
+        "B": "Automatic color correction aur grading presets apply karke",
+        "C": "Manually har frame ko edit karke",
+        "D": "Video ko compress karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools footage ko analyze karke automatic color correction karte hain aur professional-looking color grades apply karte hain."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Kya AI tools ka use karke animated explainer videos banaye ja sakte hain?",
+      "options": {
+        "A": "Nahi, animation sirf manual process hai",
+        "B": "Haan, text-to-animation aur character rigging tools se",
+        "C": "Sirf basic slideshows",
+        "D": "Yeh bahut expensive hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools text-to-animation aur character rigging jaise features provide karte hain, jisse animated explainer videos banana aasan ho jata hai."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "Text-to-speech (TTS) AI tools ka kya function hai?",
+      "options": {
+        "A": "Speech ko text mein convert karna",
+        "B": "Written text ko natural-sounding voice mein convert karna",
+        "C": "Music generate karna",
+        "D": "Video captions add karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "TTS tools written text ko audio mein convert karte hain, jisse voiceovers, audiobooks aur podcasts banaye ja sakte hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "AI-powered voice generators ka use kis liye kiya ja sakta hai?",
+      "options": {
+        "A": "Sirf robot ki awaaz banane ke liye",
+        "B": "Realistic voiceovers, podcasts aur audio content ke liye",
+        "C": "Video editing ke liye",
+        "D": "Images create karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI voice generators realistic human-like voices create karte hain jo voiceovers, podcasts aur audio content mein use ho sakte hain."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "AI music generation tools kis cheez mein help karte hain?",
+      "options": {
+        "A": "Sirf existing songs ko mix karna",
+        "B": "Original background music, jingles aur sound effects create karna",
+        "C": "Music videos edit karna",
+        "D": "Musical instruments play karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI music generators prompts ke basis par original background music, jingles aur sound effects create karte hain."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Podcast creation mein AI ki kya madad ho sakti hai?",
+      "options": {
+        "A": "Sirf podcast ko record karna",
+        "B": "Scriptwriting, audio editing aur jingle generation mein",
+        "C": "Podcast ko promote karna",
+        "D": "Guest speakers ko hire karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools scriptwriting, audio editing (noise reduction, leveling) aur jingle generation mein help karte hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Multimodal AI content creation ka kya matlab hai?",
+      "options": {
+        "A": "Sirf ek type ka content banana",
+        "B": "Text, image, audio aur video jaise multiple content formats ko combine karna",
+        "C": "Content ko bahut saari languages mein banana",
+        "D": "Content ko offline banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Multimodal AI multiple content formats (text, image, audio, video) ko combine karke richer aur more engaging content create karta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "AI ka use karke presentations kaise enhanced kiye ja sakte hain?",
+      "options": {
+        "A": "Sirf slides ka color badal kar",
+        "B": "Automated slide design, image generation aur data visualization se",
+        "C": "Presentation ko lamba karke",
+        "D": "Sirf speaker ki awaaz record karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools automated slide design, relevant image generation aur data visualization karke presentations ko zyada engaging banate hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "AI-powered noise reduction tools audio content mein kya karte hain?",
+      "options": {
+        "A": "Audio ki pitch badhate hain",
+        "B": "Background noise aur disturbances ko remove karte hain",
+        "C": "Audio ko compress karte hain",
+        "D": "Audio ko text mein convert karte hain"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Noise reduction tools audio recordings se unwanted background noise ko automatically remove karte hain, jisse clarity badhti hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "AI voice cloning technology ka ek ethical concern kya hai?",
+      "options": {
+        "A": "Voice ko bahut high quality banana",
+        "B": "Consent ke bina kisi ki awaaz ka misuse",
+        "C": "Voice ko synthesize karna",
+        "D": "Voice recording ko fast karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Voice cloning technology ka misuse consent ke bina kisi ki awaaz ko replicate karne aur misleading content banane ke liye kiya ja sakta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Kis type ke content ke liye AI-generated music sabse zyada suitable hai?",
+      "options": {
+        "A": "Pop songs with complex lyrics",
+        "B": "Background music for videos, podcasts aur games",
+        "C": "Classical music concertos",
+        "D": "Live performance for a band"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI-generated music background scores, jingles aur sound effects ke liye ideal hai jahan unique aur royalty-free audio ki zaroorat hoti hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "AI ka use karke audiobooks kaise banaye ja sakte hain?",
+      "options": {
+        "A": "Sirf manual narration se",
+        "B": "Text-to-speech technology se high-quality narration generate karke",
+        "C": "Video clips ko audio mein convert karke",
+        "D": "Only professional voice actors se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Text-to-speech technology written books ko natural-sounding audiobooks mein convert karne mein help karti hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "AI-powered tools se interactive content kaise create kiya ja sakta hai?",
+      "options": {
+        "A": "Sirf static images use karke",
+        "B": "Quizzes, polls aur personalized user experiences generate karke",
+        "C": "Long articles likhkar",
+        "D": "Only videos banakar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools quizzes, polls aur personalized recommendations jaise interactive elements generate karte hain jo user engagement badhate hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "AI ka use karke video scripts mein voiceovers kaise add kiye ja sakte hain?",
+      "options": {
+        "A": "Sirf human voice actors se record karake",
+        "B": "Text-to-speech generators se professional-sounding voiceovers create karke",
+        "C": "Video se background music remove karke",
+        "D": "Manually subtitles type karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Text-to-speech generators video scripts ko high-quality voiceovers mein convert karte hain, professional production value add karte hue."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "AI-powered content creation mein 'Personalization' ka kya matlab hai?",
+      "options": {
+        "A": "Sabhi users ko ek jaisa content dikhana",
+        "B": "Content ko individual user preferences aur behavior ke according tailor karna",
+        "C": "Content ko sirf ek person ke liye banana",
+        "D": "Content ko anonymous rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Personalization AI ka use karke content ko individual user ki preferences aur behavior ke according customize karna hai, jisse engagement badhta hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "AI ka use karke social media stories ke liye engaging audio clips kaise banaye ja sakte hain?",
+      "options": {
+        "A": "Sirf trending songs use karke",
+        "B": "Short, catchy jingles aur voiceovers generate karke",
+        "C": "Long podcasts record karke",
+        "D": "Mute videos banakar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI music aur voice generators short, catchy jingles aur voiceovers create karte hain jo social media stories ke liye perfect hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "AI-generated audio content ki quality kaise improve ki ja sakti hai?",
+      "options": {
+        "A": "Sirf ek hi AI tool use karke",
+        "B": "High-quality input text, prompt engineering aur post-production editing se",
+        "C": "Audio ko bahut fast play karke",
+        "D": "Noise reduction tools ko avoid karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "High-quality input text, effective prompt engineering aur post-production editing (jaise EQ, compression) se AI-generated audio ki quality improve hoti hai."
+    },
+    {
+      "qno": 66,
+      "module": 5,
+      "question": "AI-generated content mein 'plagiarism' se bachne ke liye kya karna chahiye?",
+      "options": {
+        "A": "AI output ko copy-paste kar dena",
+        "B": "Content ko hamesha human review aur fact-check karna",
+        "C": "AI ko original content banane ke liye kahna",
+        "D": "Sirf AI tools jo free hain unka use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI-generated content ko hamesha human review aur fact-check karna chahiye, aur zaroorat padne par rewrite karna chahiye taaki plagiarism se bacha ja sake."
+    },
+    {
+      "qno": 67,
+      "module": 5,
+      "question": "AI-powered content creation mein 'human-in-the-loop' approach ka kya matlab hai?",
+      "options": {
+        "A": "AI ko sab kuch apne aap karne dena",
+        "B": "Human expertise aur creativity ko AI tools ke saath combine karna",
+        "C": "Sirf humans ko content banana",
+        "D": "AI tools ko train karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Human-in-the-loop approach mein AI tools repetitive tasks handle karte hain, jabki humans creative direction, review aur final edits provide karte hain."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "AI-generated content mein 'bias' ko kaise minimize kiya ja sakta hai?",
+      "options": {
+        "A": "Sirf ek hi data source use karke",
+        "B": "Diverse training data, careful prompt engineering aur human review se",
+        "C": "Bias ko ignore karke",
+        "D": "AI tool ko bar-bar use karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bias ko minimize karne ke liye diverse training data, careful prompt engineering aur human review bahut zaroori hain."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "AI-generated content ki authenticity ko maintain karne ke liye kya step lena chahiye?",
+      "options": {
+        "A": "Content ko disclose na karna",
+        "B": "Transparency maintain karna aur AI use ko disclose karna",
+        "C": "Content ko modify karna",
+        "D": "Sirf AI par depend karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Authenticity maintain karne ke liye transparency zaroori hai. Jahan appropriate ho, AI ke use ko disclose karna chahiye."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "AI content workflow mein prompt engineering ka kya role hai?",
+      "options": {
+        "A": "Sirf ek baar prompt dena",
+        "B": "AI se accurate aur desired output nikalne ke liye iterative process",
+        "C": "AI tool ko khud se prompt banane dena",
+        "D": "Prompt ko bahut lamba banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Prompt engineering ek iterative process hai jahan prompts ko refine kiya jata hai taaki AI se sabse best aur accurate output mil sake."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "AI-generated content ko fact-check karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf time waste karne ke liye",
+        "B": "AI ke hallucinations ya inaccurate information ko avoid karne ke liye",
+        "C": "Content ki length badhane ke liye",
+        "D": "AI ko zyada data provide karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI kabhi-kabhi inaccurate ya galat information generate kar sakta hai ('hallucinations'), isliye fact-checking bahut zaroori hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "AI tools ko content creation workflow mein kaise integrate kiya ja sakta hai?",
+      "options": {
+        "A": "Existing tools ko replace karke",
+        "B": "Existing tools ke saath complement aur automate karke",
+        "C": "Sirf naye tools use karke",
+        "D": "Integration ko avoid karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools ko existing content workflow mein seamlessly integrate kiya ja sakta hai, jaise drafting, editing aur optimization mein help ke liye."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "AI-generated content ke liye copyright ownership ka issue kis par apply hota hai?",
+      "options": {
+        "A": "Hamesha AI tool par",
+        "B": "Generally creator ya user par, prompts ki originality ke basis par",
+        "C": "Kisi par nahi",
+        "D": "Sirf government par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Copyright ownership AI-generated content ke liye ek complex area hai, lekin generally original prompts aur human input ke basis par creator ya user ko ownership di jaati hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "AI content detection tools ka kya fayda hai?",
+      "options": {
+        "A": "Sirf human-written content ko identify karna",
+        "B": "AI-generated content ko identify karna aur authenticity check karna",
+        "C": "Content ko delete karna",
+        "D": "Content ko optimize karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI content detection tools AI-generated text ko identify karte hain, jo plagiarism aur authenticity issues ko address karne mein help karta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Content creation mein 'ethical AI' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf AI tools use karna jo free hain",
+        "B": "Bias-free, transparent aur responsible AI use karna",
+        "C": "AI ko sab kuch karne dena",
+        "D": "AI ke disadvantages ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ethical AI ka matlab hai AI tools ka use bias-free, transparent aur responsible tareeke se karna, jisse negative impacts minimize hon."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "AI output ko customize karne ke liye kya steps liye ja sakte hain?",
+      "options": {
+        "A": "Sirf ek baar prompt dena",
+        "B": "Prompt ko refine karna, output ko manually edit karna, aur specific instructions dena",
+        "C": "AI ko bina guidance ke kaam karne dena",
+        "D": "Output ko jaisa hai waisa hi use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI output ko customize karne ke liye prompts ko refine karna, manually edit karna, aur specific tone, style, aur format instructions dena zaroori hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "AI content creation mein data privacy ka kya importance hai?",
+      "options": {
+        "A": "AI tools ko unlimited data access dena",
+        "B": "Sensitive data ko AI tools ke saath share na karna aur privacy regulations follow karna",
+        "C": "Data ko publically share karna",
+        "D": "Data ko encrypt karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sensitive data ko AI tools ke saath share karte waqt data privacy regulations aur best practices ko follow karna bahut zaroori hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "AI tools ka use karke content creation mein efficiency kaise badhai ja sakti hai?",
+      "options": {
+        "A": "Sirf manual tasks par focus karke",
+        "B": "Repetitive tasks ko automate karke aur creative process ko streamline karke",
+        "C": "Zyada time lekar content banakar",
+        "D": "Content ki quality par compromise karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI repetitive tasks ko automate karta hai aur creative process ko streamline karta hai, jisse overall efficiency badhti hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "AI-generated images ke liye 'royalty-free' options ka kya matlab hai?",
+      "options": {
+        "A": "Images ko sirf personal use ke liye use karna",
+        "B": "Images ko commercial purpose ke liye bina extra fees ke use karna",
+        "C": "Images ko copy karna",
+        "D": "Images ko modify na karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Royalty-free images ka matlab hai ki aap unhe commercial purposes ke liye use kar sakte hain, ek baar buy karne ke baad, bina baar-baar payment kiye."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "AI tools ka use karte samay 'critical thinking' kyun zaroori hai?",
+      "options": {
+        "A": "AI par blind trust karne ke liye",
+        "B": "AI output ko evaluate, question aur improve karne ke liye",
+        "C": "Sirf AI ke instructions follow karne ke liye",
+        "D": "AI ko ignore karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Critical thinking AI output ko evaluate karne, uski accuracy aur relevance ko question karne aur use improve karne ke liye bahut zaroori hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "AI content creation mein 'version control' ka kya mahatva hai?",
+      "options": {
+        "A": "Sirf final version save karna",
+        "B": "Different versions of content ko track karna aur changes manage karna",
+        "C": "AI ko purani versions delete karne dena",
+        "D": "Version control ko avoid karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Version control se content ke different versions ko track kiya ja sakta hai aur changes ko effectively manage kiya ja sakta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "AI tools ko content strategy mein kaise incorporate kiya ja sakta hai?",
+      "options": {
+        "A": "Sirf short-term goals ke liye",
+        "B": "Audience analysis, content ideation aur performance measurement mein",
+        "C": "AI ko puri strategy banane dena",
+        "D": "Strategy ko ignore karke"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools audience analysis, content ideation, keyword research aur content performance measurement mein help karte hain, jisse content strategy improve hoti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "AI-generated content ko human touch kaise diya ja sakta hai?",
+      "options": {
+        "A": "Sirf AI ko likhne dena",
+        "B": "Personal anecdotes, unique insights aur emotional appeal add karke",
+        "C": "Content ko bahut technical banakar",
+        "D": "Content ko automate karke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI-generated content mein personal anecdotes, unique insights aur emotional appeal add karke use more human aur engaging banaya ja sakta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "AI-powered content creation mein 'brand voice' maintain karna kyun zaroori hai?",
+      "options": {
+        "A": "Sirf random tone use karna",
+        "B": "Consistency aur audience connection ke liye",
+        "C": "AI ko apni voice banane dena",
+        "D": "Brand ko ignore karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Brand voice maintain karna consistency ke liye aur audience ke saath connection banane ke liye bahut zaroori hai. AI ko prompts ke through guide kiya ja sakta hai."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "AI tools ka use karke content creation mein 'scalability' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf chote projects handle karna",
+        "B": "Large volumes of content ko efficiently produce karna",
+        "C": "Content ko manually scale karna",
+        "D": "Content ko limited audience ke liye banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scalability ka matlab hai AI tools ka use karke bade paimane par content ko efficiently produce karna, bina quality par compromise kiye."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "AI-powered content creation mein 'Metaverse' ka kya role ho sakta hai?",
+      "options": {
+        "A": "Sirf text content banana",
+        "B": "Immersive virtual environments ke liye 3D assets aur interactive content generate karna",
+        "C": "Physical products sell karna",
+        "D": "Traditional websites design karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Metaverse mein AI immersive virtual environments ke liye 3D assets, avatars aur interactive experiences create karne mein help karega."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Future mein AI-powered content creation ke liye sabse important skill kya hogi?",
+      "options": {
+        "A": "Sirf coding",
+        "B": "Prompt engineering aur critical evaluation",
+        "C": "Manual content writing",
+        "D": "Only graphic design"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Prompt engineering (AI ko effective instructions dena) aur AI output ko critically evaluate karna future mein sabse important skills hongi."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "AI ka use karke 'hyper-personalized' content ka kya matlab hai?",
+      "options": {
+        "A": "Sabhi users ke liye ek jaisa content",
+        "B": "Real-time user data ke basis par highly customized content",
+        "C": "Sirf general topics par content",
+        "D": "Content jo kabhi change na ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hyper-personalized content AI ka use karke real-time user data ke basis par har individual user ke liye extremely customized content create karna hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "AI-powered content creation mein 'Generative Adversarial Networks (GANs)' ka kya potential hai?",
+      "options": {
+        "A": "Sirf text generation",
+        "B": "Ultra-realistic images, videos aur other media create karna",
+        "C": "Audio editing karna",
+        "D": "Data analysis karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GANs do neural networks ka use karte hain jo ek dusre ke against work karte hain, jisse ultra-realistic aur naye media content generate hota hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Content creators ke liye AI ka use karne se kaunse naye career opportunities khul sakte hain?",
+      "options": {
+        "A": "Sirf traditional content writing",
+        "B": "AI content strategist, prompt engineer, AI content editor",
+        "C": "Only manual labor jobs",
+        "D": "Data entry operator"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI content strategist, prompt engineer aur AI content editor jaise naye roles AI-powered content creation ke field mein ubhar rahe hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "AI-powered content creation mein 'Adaptive Content' ka kya matlab hai?",
+      "options": {
+        "A": "Content jo kabhi change na ho",
+        "B": "Content jo user ke behavior aur context ke according dynamically adjust ho",
+        "C": "Sirf ek hi format mein content",
+        "D": "Content jo offline ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Adaptive content AI ka use karke user ke behavior, device aur context ke according dynamically adjust hota hai, providing a tailored experience."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "AI tools ke future trends mein 'Multimodal AI' ka kya significance hai?",
+      "options": {
+        "A": "Sirf text aur images ko combine karna",
+        "B": "Text, images, audio aur video ko seamlessly integrate karna for rich experiences",
+        "C": "Sirf ek hi type ka content banana",
+        "D": "AI ko offline use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Multimodal AI future mein content creation ko next level par le jayega, jahan text, images, audio aur video seamlessly integrate honge."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "AI-powered content creation mein 'Ethics' ki importance future mein kaise badhegi?",
+      "options": {
+        "A": "Kam ho jayegi",
+        "B": "Bias, misinformation aur intellectual property ke challenges ke karan aur badhegi",
+        "C": "Waisi hi rahegi",
+        "D": "Sirf developers ke liye important hogi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jaise-jaise AI tools zyada powerful honge, bias, misinformation aur intellectual property jaise ethical concerns aur bhi critical ho jayenge."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Content creators ko AI-powered tools ke saath upskill karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Sirf purane tareeke use karna",
+        "B": "New AI tools explore karna, prompt engineering mein expertise hasil karna aur ethical guidelines samajhna",
+        "C": "Technology ko avoid karna",
+        "D": "Sirf theory padhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Upskilling mein naye AI tools ko explore karna, prompt engineering mein expertise develop karna aur ethical guidelines ko samajhna shamil hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "AI ka use karke 'real-time content generation' ka kya fayda hai?",
+      "options": {
+        "A": "Content ko publish karne mein der karna",
+        "B": "Instant responses, live updates aur dynamic content delivery",
+        "C": "Sirf static content banana",
+        "D": "Offline content generate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Real-time content generation AI ka use karke instant responses, live updates aur dynamic content delivery provide karta hai, jaise chatbots aur news feeds."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "AI-powered content creation mein 'Audience Analytics' ka kya role hai?",
+      "options": {
+        "A": "Audience ko ignore karna",
+        "B": "Content performance ko measure karna, audience behavior ko samajhna aur strategies adjust karna",
+        "C": "Sirf demographic data collect karna",
+        "D": "Analytics ko manually karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "AI-powered analytics content performance ko measure karte hain, audience behavior ko samajhte hain aur content strategies ko adjust karne mein help karte hain."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "AI-powered content creation ka future kya hai?",
+      "options": {
+        "A": "AI sab kuch khud karega, humans ki zaroorat nahi",
+        "B": "Humans aur AI ka collaborative ecosystem, jahan AI efficiency badhayega",
+        "C": "AI tools gayab ho jayenge",
+        "D": "Sirf large corporations AI use karenge"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Future mein AI aur humans collaborative ecosystem mein kaam karenge, jahan AI repetitive tasks ko handle karega aur humans creative direction denge."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "AI-powered content creation mein 'Virtual Reality (VR)' aur 'Augmented Reality (AR)' ka kya potential hai?",
+      "options": {
+        "A": "Sirf games banana",
+        "B": "Immersive storytelling, interactive experiences aur virtual tours create karna",
+        "C": "Traditional videos banana",
+        "D": "Only images generate karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI VR aur AR mein immersive storytelling, interactive experiences aur virtual tours create karne mein help karega."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "AI tools aur technologies mein updated rehne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Sirf ek baar course karna",
+        "B": "Industry news follow karna, webinars attend karna aur naye tools experiment karna",
+        "C": "Technology ko ignore karna",
+        "D": "Sirf purane tools use karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Latest AI trends aur tools mein updated rehne ke liye industry news follow karna, webinars attend karna aur naye tools ke saath experiment karna zaroori hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "AI-powered content creation mein 'Personal Branding' ka kya mahatva hai?",
+      "options": {
+        "A": "Brand ko anonymous rakhna",
+        "B": "Unique voice, style aur expertise ko highlight karna, AI ko ek tool ki tarah use karte hue",
+        "C": "Sirf AI ko brand banane dena",
+        "D": "Brand ko copy karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "AI tools personal branding ko enhance kar sakte hain, jahan creator apni unique voice, style aur expertise ko highlight karta hai, AI ko ek supportive tool ki tarah use karte hue."
+    }
+  ]
+}

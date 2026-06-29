@@ -1,0 +1,1443 @@
+{
+  "course_name": "Tyre Fitting & Wheel Balancing",
+  "sector": "Automobile & Motor Trades",
+  "level": "Foundation",
+  "duration": "1 Month",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Tyres & Workshop Safety",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Tyre Inspection, Maintenance & Markings",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Tyre Removal & Fitting Procedures",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Wheel Balancing Principles & Practice",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Tyre Repair & Puncture Management",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Advanced Topics & Customer Service",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Workshop mein kaam karte samay sabse pehle kya karna chahiye?",
+      "options": {
+        "A": "Gaadi ko lift par chadana",
+        "B": "Safety glasses pehenna",
+        "C": "Tools check karna",
+        "D": "Customer se baat karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety glasses, gloves, aur steel-toed boots jaise PPE (Personal Protective Equipment) pehenna workshop mein kaam shuru karne se pehle zaroori hai safety ke liye."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Tyre fitting ke liye kaun sa tool sabse zaroori hai lug nuts tight karne ke liye?",
+      "options": {
+        "A": "Screwdriver",
+        "B": "Torque wrench",
+        "C": "Hammer",
+        "D": "Pliers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Torque wrench ka use karke lug nuts ko specified torque par tight karna zaroori hai taaki wheels properly secure ho aur over-tightening ya under-tightening se bacha ja sake."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ek radial tyre ki kya pehchan hoti hai?",
+      "options": {
+        "A": "Isme cross-ply construction hoti hai",
+        "B": "Isme ply cords tyre ke center se radius tak jaate hain",
+        "C": "Isme ply cords ek angle par hote hain",
+        "D": "Yeh sirf trucks mein use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Radial tyres mein ply cords tyre ke center se radius tak jaate hain, jo better handling aur longer tread life provide karte hain."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Tyre fitting machine use karte waqt kya precaution leni chahiye?",
+      "options": {
+        "A": "Machine ko bina lubrication ke use karna",
+        "B": "Machine ke moving parts se haath door rakhna",
+        "C": "Tyre bead ko zor se todna",
+        "D": "Machine ko tez speed par chalana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tyre fitting machine ke moving parts se haath aur fingers ko door rakhna bahut zaroori hai taaki injuries se bacha ja sake."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Workshop mein fire extinguisher kis type ki aag ke liye suitable hota hai jo oil ya fuel se lage?",
+      "options": {
+        "A": "Class A",
+        "B": "Class B",
+        "C": "Class C",
+        "D": "Class D"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Class B fire extinguishers flammable liquids jaise oil, grease, petrol, diesel se lagi aag ke liye use hote hain."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Tyre bead breaker ka kya kaam hai?",
+      "options": {
+        "A": "Tyre mein hawa bharna",
+        "B": "Tyre ko rim se alag karna",
+        "C": "Wheel ko balance karna",
+        "D": "Tyre par markings lagana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bead breaker ka use tyre ke bead ko rim se separate karne ke liye kiya jaata hai, jo tyre removal process ka pehla step hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Jack stand ka primary purpose kya hai?",
+      "options": {
+        "A": "Gaadi ko lift karna",
+        "B": "Lift ki hui gaadi ko support karna",
+        "C": "Tyre pressure check karna",
+        "D": "Lug nuts ko loose karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jack stand ka primary purpose lift ki hui gaadi ko additional support provide karna hai, taaki jack fail hone par gaadi girne se bache."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Ek tyre ki 'load index' kya darshata hai?",
+      "options": {
+        "A": "Tyre ki maximum speed",
+        "B": "Tyre ka maximum permissible weight carrying capacity",
+        "C": "Tyre ka diameter",
+        "D": "Tyre ka manufacturing date"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Load index ek numerical code hai jo tyre ki maximum weight carrying capacity ko darshata hai jab woh specified pressure par inflate ho."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Tyre fitting ke dauraan tyre aur rim ko lubricate kyun karte hain?",
+      "options": {
+        "A": "Tyre ko chamakdar banane ke liye",
+        "B": "Friction kam karne aur fitting ko aasan banane ke liye",
+        "C": "Tyre ko thanda rakhne ke liye",
+        "D": "Tyre ko puncture se bachane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lubrication friction ko kam karta hai, jisse tyre ko rim par mount karna aur demount karna aasan ho jaata hai aur tyre ya rim ko damage hone se bachata hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Workshop mein electrical tools use karte samay kya check karna zaroori hai?",
+      "options": {
+        "A": "Tool ka colour",
+        "B": "Power cord damage hai ya nahi",
+        "C": "Tool ka weight",
+        "D": "Tool ka brand"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Electrical tools use karne se pehle power cord aur plug ko damage ke liye check karna zaroori hai taaki electrical hazards se bacha ja sake."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Tyre sidewall par likha 'DOT' mark kya signify karta hai?",
+      "options": {
+        "A": "Date of Testing",
+        "B": "Department of Transport compliance",
+        "C": "Diameter of Tyre",
+        "D": "Durability of Tread"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "DOT mark signify karta hai ki tyre US Department of Transportation ke safety standards ko meet karta hai. Iske baad ka code tyre ki manufacturing location aur date batata hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Pneumatic tools (air tools) use karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Air pressure ko maximum rakhna",
+        "B": "Hamesha safety goggles pehenna",
+        "C": "Hawa ke pipe ko zameen par chhod dena",
+        "D": "Tool ko bina oil ke use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pneumatic tools high-speed rotating parts aur flying debris ka risk rakhte hain, isliye safety goggles pehenna zaroori hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Tyre ke sidewall par 'Treadwear, Traction, Temperature' ratings kya darshati hain?",
+      "options": {
+        "A": "Tyre ki manufacturing location",
+        "B": "Tyre ki performance characteristics",
+        "C": "Tyre ki price",
+        "D": "Tyre ka type"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Yeh UTQG (Uniform Tire Quality Grading) ratings hain jo tyre ki relative treadwear rate, wet traction capability, aur temperature resistance ko darshati hain."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Workshop mein oil spills ko turant saaf karna kyun zaroori hai?",
+      "options": {
+        "A": "Floor ko chamakdar rakhne ke liye",
+        "B": "Slip-and-fall accidents se bachne ke liye",
+        "C": "Oil ko reuse karne ke liye",
+        "D": "Machine ko kharab hone se bachane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Oil spills se workshop mein slip-and-fall accidents ho sakte hain, isliye unhe turant saaf karna safety ke liye critical hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Tyre ki 'speed rating' kya batati hai?",
+      "options": {
+        "A": "Maximum speed jis par tyre safely operate kar sakta hai",
+        "B": "Tyre ki acceleration speed",
+        "C": "Tyre ki braking performance",
+        "D": "Tyre ka rotational speed"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Speed rating ek alphabetical code hai jo tyre ki maximum safe operating speed ko darshata hai. Jaise 'H' for 210 km/h."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Tyre fitting ke baad wheel nut ko tight karne ka correct sequence kya hai?",
+      "options": {
+        "A": "Clockwise sequence",
+        "B": "Anti-clockwise sequence",
+        "C": "Star pattern (cross-pattern)",
+        "D": "Random sequence"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Wheel nuts ko star pattern (cross-pattern) mein tight karna zaroori hai taaki wheel evenly seat ho aur vibrations ya damage se bacha ja sake."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Tyre fitting ke dauraan rim par tyre ko mount karte samay kis cheez ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Tyre ko dry mount karna chahiye",
+        "B": "Tyre aur rim ko proper lubricant se lubricate karna chahiye",
+        "C": "Tyre ko reverse direction mein mount karna chahiye",
+        "D": "Tyre ko zor se thookna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tyre aur rim ko proper lubricant se lubricate karne se tyre smoothly mount hota hai, rim ya bead ko damage hone se bachata hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Tyre ka tread depth check karne ke liye kaun sa tool use hota hai?",
+      "options": {
+        "A": "Pressure gauge",
+        "B": "Torque wrench",
+        "C": "Tread depth gauge",
+        "D": "Vernier caliper"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Tread depth gauge specifically tyre ke tread ki gehrai ko measure karne ke liye banaya gaya hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "India mein passenger car tyres ke liye minimum legally allowed tread depth kitna hai?",
+      "options": {
+        "A": "3.0 mm",
+        "B": "1.6 mm",
+        "C": "5.0 mm",
+        "D": "0.8 mm"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "India mein passenger car tyres ke liye minimum legal tread depth 1.6 mm hai. Isse kam hone par tyre ko replace karna chahiye."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Under-inflated tyre ke kya signs hote hain?",
+      "options": {
+        "A": "Tread ka center wear out hota hai",
+        "B": "Tread ke edges wear out hote hain",
+        "C": "Tyre ka side wall bahar ki taraf bulging karta hai",
+        "D": "Tyre ka center aur edges dono wear out hote hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Under-inflated tyre mein, tyre ka center road se properly contact nahi karta, aur weight zyada edges par padta hai, jisse edges wear out hote hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Tyre pressure gauge kis unit mein reading deta hai?",
+      "options": {
+        "A": "Kilograms",
+        "B": "PSI (Pounds per Square Inch)",
+        "C": "Liters",
+        "D": "Centimeters"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tyre pressure gauge aam taur par PSI (Pounds per Square Inch) ya Bar mein readings deta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Tyre rotation kyun zaroori hai?",
+      "options": {
+        "A": "Tyre ka colour maintain karne ke liye",
+        "B": "Tyre wear ko even karne aur life badhane ke liye",
+        "C": "Tyre pressure ko adjust karne ke liye",
+        "D": "Wheel balancing ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tyre rotation se sabhi tyres par wear evenly distribute hota hai, jisse unki total life badhti hai aur uniform performance milti hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Over-inflated tyre ke kya signs hote hain?",
+      "options": {
+        "A": "Tread ke edges wear out hote hain",
+        "B": "Tread ka center wear out hota hai",
+        "C": "Tyre ka side wall andar ki taraf bulging karta hai",
+        "D": "Tyre ka total diameter kam ho jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Over-inflated tyre mein, tyre ka center road se zyada contact karta hai, jisse center portion zyada wear hota hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Tyre sidewall par 'P205/55R16' mein 'P' ka kya matlab hai?",
+      "options": {
+        "A": "Performance Tyre",
+        "B": "Passenger Car Tyre",
+        "C": "Pickup Tyre",
+        "D": "Premium Tyre"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'P' signify karta hai ki yeh ek passenger car tyre hai. Agar 'LT' hota toh light truck tyre hota."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Tyre sidewall par '205/55R16' mein '205' kya darshata hai?",
+      "options": {
+        "A": "Tyre ka diameter (mm)",
+        "B": "Tyre ki width (mm)",
+        "C": "Tyre ki height (mm)",
+        "D": "Rim ka diameter (inches)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "205 mm mein tyre ki width ko darshata hai, jo tread ke ek end se doosre end tak hoti hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Tyre sidewall par '205/55R16' mein '55' kya darshata hai?",
+      "options": {
+        "A": "Tyre ki width ka percentage mein aspect ratio",
+        "B": "Tyre ki height ka percentage mein aspect ratio",
+        "C": "Tyre ki load capacity",
+        "D": "Tyre ki speed rating"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "55 tyre ka aspect ratio hai, jo sidewall height ka percentage hai tyre ki width ke relative (55% of 205mm)."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Tyre sidewall par '205/55R16' mein 'R' ka kya matlab hai?",
+      "options": {
+        "A": "Reinforced",
+        "B": "Radial construction",
+        "C": "Racing tyre",
+        "D": "Rear tyre"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "'R' ka matlab hai ki tyre ki construction radial hai, jo modern passenger vehicle tyres mein common hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Tyre sidewall par '205/55R16' mein '16' kya darshata hai?",
+      "options": {
+        "A": "Tyre ka total diameter (inches)",
+        "B": "Rim ka diameter (inches)",
+        "C": "Tyre ki width (inches)",
+        "D": "Tyre ki height (inches)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "16 inches mein wheel rim ka diameter hai, jis par yeh tyre mount hoga."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Tyre wear pattern mein 'cupping' ya 'scalloping' kya indicate karta hai?",
+      "options": {
+        "A": "Over-inflation",
+        "B": "Under-inflation",
+        "C": "Worn out shock absorbers ya suspension components",
+        "D": "Incorrect tyre pressure"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Cupping ya scalloping wear pattern aam taur par worn out shock absorbers, struts, ya loose suspension components ko indicate karta hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Tyre ke valve stem ka kya kaam hai?",
+      "options": {
+        "A": "Tyre ko balance karna",
+        "B": "Tyre mein hawa bharne aur hawa ko andar lock karne ke liye",
+        "C": "Tyre ko rim se chipkana",
+        "D": "Tyre ki speed rating badhana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Valve stem tyre mein hawa bharne aur usse andar seal karne ke liye ek one-way valve provide karta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Agar tyre mein slow leak ho toh sabse pehle kya check karna chahiye?",
+      "options": {
+        "A": "Tyre ka tread depth",
+        "B": "Valve stem aur uski cap",
+        "C": "Wheel balancing weights",
+        "D": "Tyre ka manufacturing date"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slow leaks aksar faulty valve stems ya loose valve caps ke kaaran hote hain. Inhe sabse pehle check karna chahiye."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Tyre ki life badhane ke liye kya regularly karna chahiye?",
+      "options": {
+        "A": "Tyre ko paint karna",
+        "B": "Tyre pressure check karna aur maintain karna",
+        "C": "Tyre ko zyada hawa se bharna",
+        "D": "Tyre ko dhoop mein rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Correct tyre pressure maintain karne se tyre evenly wear hota hai aur uski life badhti hai, saath hi fuel efficiency bhi improve hoti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Tyre pressure kab check karna sabse best hota hai?",
+      "options": {
+        "A": "Jab tyre garam ho",
+        "B": "Jab tyre thanda ho (gaadi chalane se pehle)",
+        "C": "Gaadi chalane ke turant baad",
+        "D": "Kisi bhi samay"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tyre pressure tab check karna chahiye jab tyre 'cold' ho, yaani gaadi kam se kam teen ghante se khadi ho ya bahut kam chali ho. Garam tyres mein pressure badha hua dikhta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Tyre sidewall par cracks ya bulges kya indicate karte hain?",
+      "options": {
+        "A": "Tyre naya hai",
+        "B": "Tyre damaged hai aur unsafe ho sakta hai",
+        "C": "Tyre mein hawa kam hai",
+        "D": "Tyre ko balancing ki zaroorat hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sidewall par cracks ya bulges internal damage ko indicate karte hain aur tyre ke burst hone ka risk badhate hain, isliye tyre ko replace karna chahiye."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Gaadi ko lift karne ke liye sabse safe method kya hai?",
+      "options": {
+        "A": "Ek jack se poori gaadi uthana",
+        "B": "Proper lifting points par jack aur jack stands ka use karna",
+        "C": "Gaadi ko bricks par rakhna",
+        "D": "Gaadi ko ek side se tilted position mein rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Manufacturer ke specified lifting points par jack aur jack stands ka use karna gaadi ko lift karne ka sabse safe aur stable method hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Wheel nuts ko remove karne se pehle kya karna chahiye?",
+      "options": {
+        "A": "Tyre pressure check karna",
+        "B": "Gaadi ko lift karna",
+        "C": "Wheel nuts ko thoda loose karna jab gaadi zameen par ho",
+        "D": "Tyre ko puncture karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Wheel nuts ko thoda loose karna jab gaadi zameen par ho, unhe remove karna aasan banata hai aur gaadi ke girne ka risk kam karta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Tyre fitting machine par tyre ko mount karte samay kis cheez ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Rim ko dry rakhna",
+        "B": "Tyre bead aur rim ko lubrication dena",
+        "C": "Machine ko tez speed par chalana",
+        "D": "Tyre ke sidewall ko dabana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tyre bead aur rim ko proper tyre lubricant se lubricate karne se tyre smoothly mount hota hai aur damage se bachta hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Agar tyre bead rim par properly seat na ho toh kya karna chahiye?",
+      "options": {
+        "A": "Tyre ko aur hawa bharna",
+        "B": "Bead blaster ya high-pressure air ka use karna",
+        "C": "Tyre ko zor se patakna",
+        "D": "Tyre ko fek dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar tyre bead seat nahi ho raha toh bead blaster ya controlled high-pressure air ka use karke tyre bead ko rim par seat kiya ja sakta hai. Safety precautions lena zaroori hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Tyre ko rim se demount karte samay, bead breaker ka use kis liye hota hai?",
+      "options": {
+        "A": "Tyre ko inflate karne ke liye",
+        "B": "Tyre bead ko rim ke edge se alag karne ke liye",
+        "C": "Tyre ko balance karne ke liye",
+        "D": "Rim ko saaf karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bead breaker tyre bead ko rim ke edge se alag karta hai, jisse tyre ko rim se utarna aasan ho jaata hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Tyre fitting machine par tyre ko rotate karte samay, operator ko kahan khada hona chahiye?",
+      "options": {
+        "A": "Tyre ke bilkul saamne",
+        "B": "Tyre ke side mein, safety distance par",
+        "C": "Machine ke peeche",
+        "D": "Kisi bhi jagah"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tyre ke side mein, safety distance par khada hona chahiye taaki agar tyre blow out ho ya koi part nikal jaaye toh injury se bacha ja sake."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Jab tyre ko inflate kar rahe ho, toh tyre pressure kis level tak pahunchne par bead seat hota hai?",
+      "options": {
+        "A": "5-10 PSI",
+        "B": "20-40 PSI (vehicle specific pressure se zyada nahi)",
+        "C": "60-80 PSI",
+        "D": "100 PSI se zyada"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tyre bead aam taur par 20-40 PSI ke beech seat ho jaata hai. Manufacturer ke recommended pressure se zyada inflate nahi karna chahiye bead ko seat karne ke liye."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Tubeless tyre fitting ke baad, kya step zaroori hai leak check karne ke liye?",
+      "options": {
+        "A": "Tyre ko paint karna",
+        "B": "Tyre aur valve stem area par soapy water spray karna",
+        "C": "Tyre ko dhoop mein rakhna",
+        "D": "Gaadi ko test drive karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Soapy water spray karne se leaks bubbles ke roop mein dikh jaate hain, khaaskar bead area aur valve stem ke around."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Wheel lugs ko tighten karne ke liye torque wrench ka use kyun karte hain?",
+      "options": {
+        "A": "Unhe jaldi tight karne ke liye",
+        "B": "Unhe uniform aur correct torque par tight karne ke liye",
+        "C": "Unhe loose rakhne ke liye",
+        "D": "Unhe kabhi loose na hone dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Torque wrench ensures that wheel lugs are tightened to the manufacturer's specified torque, preventing over-tightening (which can damage studs) or under-tightening (which can lead to loose wheels)."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Agar wheel nuts ko over-tighten kiya jaaye toh kya ho sakta hai?",
+      "options": {
+        "A": "Wheel balancing improve ho jaayega",
+        "B": "Wheel studs damage ho sakte hain ya break ho sakte hain",
+        "C": "Tyre pressure badh jaayega",
+        "D": "Tyre ki life badh jaayegi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Over-tightening se wheel studs stretch ho sakte hain, unhe damage ho sakta hai ya woh toot sakte hain, jisse wheel failure ka risk badhta hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Tyre ko rim par mount karte samay, agar tyre directional ho, toh kis baat ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Tyre ki manufacturing date ka",
+        "B": "Tyre ke rotation arrow ka",
+        "C": "Tyre ki load index ka",
+        "D": "Tyre ke colour ka"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Directional tyres par ek arrow bana hota hai jo unki correct rotation direction batata hai. Iska dhyaan rakhna zaroori hai proper performance ke liye."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Tyre fitting ke baad, gaadi ko road par chalane se pehle kya check karna important hai?",
+      "options": {
+        "A": "Gaadi ka horn",
+        "B": "Brakes aur tyre pressure",
+        "C": "Wipers",
+        "D": "Headlights"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tyre fitting ke baad, tyre pressure ko correct level par set karna aur brakes ko check karna bahut zaroori hai safety ke liye."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Tyre fitting machine ke 'mounting head' ka kya kaam hai?",
+      "options": {
+        "A": "Tyre ko inflate karna",
+        "B": "Tyre bead ko rim par mount ya demount karna",
+        "C": "Wheel ko balance karna",
+        "D": "Tyre ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mounting head tyre fitting machine ka woh part hai jo tyre bead ko rim ke upar ya neeche karne mein help karta hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Jab ek wheel ko gaadi se remove kar rahe ho, toh lug nuts ko nikalne ke baad wheel ko kaise bahar nikalna chahiye?",
+      "options": {
+        "A": "Wheel ko zor se khinch kar",
+        "B": "Wheel ko carefully dono haathon se pakad kar bahar nikalna",
+        "C": "Wheel ko kick karke",
+        "D": "Lug studs ko maar kar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wheel ko carefully dono haathon se pakad kar bahar nikalna chahiye taaki wheel ya studs ko damage na ho aur operator ko injury na lage."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Alloy wheels ko handle karte samay kya extra precaution leni chahiye?",
+      "options": {
+        "A": "Unhe rough surface par rakhna",
+        "B": "Unhe scratch hone se bachana",
+        "C": "Unhe paint karna",
+        "D": "Unhe garam karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Alloy wheels scratches aur dings ke prati zyada sensitive hote hain, isliye unhe carefully handle karna chahiye taaki unki aesthetics kharab na ho."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Tyre inflation ke dauraan, operator ko kahan khada hona chahiye?",
+      "options": {
+        "A": "Tyre ke bilkul saamne",
+        "B": "Tyre ke side mein, safety cage ya barrier ke peeche",
+        "C": "Tyre ke peeche",
+        "D": "Tyre ke upar"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tyre inflation ke dauraan blow-out ka risk hota hai. Safety cage ya barrier ke peeche, tyre ke side mein khada hona sabse safe position hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Tyre fitting ke baad, gaadi ko lift se neeche utarne se pehle kya confirm karna chahiye?",
+      "options": {
+        "A": "Sabhi tools apni jagah par hain",
+        "B": "Wheel nuts properly tight hain",
+        "C": "Tyre chamak rahe hain",
+        "D": "Customer wait kar raha hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gaadi ko neeche utarne se pehle yeh confirm karna zaroori hai ki sabhi wheel nuts manufacturer ke specification ke according properly tightened hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Wheel balancing kyun zaroori hai?",
+      "options": {
+        "A": "Tyre ka colour maintain karne ke liye",
+        "B": "Vibrations ko eliminate karne aur tyre wear ko uniform karne ke liye",
+        "C": "Tyre pressure adjust karne ke liye",
+        "D": "Tyre ko puncture se bachane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wheel balancing se wheel assembly mein weight evenly distribute hota hai, jisse vibrations khatam hote hain, tyre wear uniform hota hai, aur suspension components ki life badhti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Static imbalance kya hota hai?",
+      "options": {
+        "A": "Wheel ke circumference mein weight ka uneven distribution",
+        "B": "Wheel ke center line par weight ka uneven distribution",
+        "C": "Tyre pressure ka uneven hona",
+        "D": "Wheel ka size galat hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Static imbalance tab hota hai jab wheel ke center line par weight evenly distributed nahi hota, jisse wheel bounce karta hai (vertical vibration)."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Dynamic imbalance kya hota hai?",
+      "options": {
+        "A": "Wheel ke circumference mein weight ka uneven distribution",
+        "B": "Wheel ke center line par weight ka uneven distribution",
+        "C": "Wheel ke dono sides par weight ka uneven distribution, jisse wobble hota hai",
+        "D": "Tyre ka flat spot hona"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dynamic imbalance tab hota hai jab wheel ke dono sides par weight evenly distributed nahi hota, jisse wheel wobble karta hai (lateral vibration)."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Wheel balancing machine par wheel ko mount karne se pehle kya karna chahiye?",
+      "options": {
+        "A": "Tyre ko paint karna",
+        "B": "Wheel ko saaf karna",
+        "C": "Wheel weights lagana",
+        "D": "Tyre pressure kam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wheel ko saaf karna zaroori hai taaki koi bhi mitti, kachra, ya purane weights balancing readings ko affect na karein."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Wheel balancing machine par readings kis units mein aati hain?",
+      "options": {
+        "A": "Kilograms (kg)",
+        "B": "Grams (g) ya Ounces (oz)",
+        "C": "Pounds per square inch (PSI)",
+        "D": "Centimeters (cm)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wheel balancing machines aam taur par required weights ko grams (g) ya ounces (oz) mein display karti hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Clip-on weights kahan use hote hain?",
+      "options": {
+        "A": "Tyre ke tread par",
+        "B": "Rim ke inner aur outer flange par",
+        "C": "Tyre ke sidewall par",
+        "D": "Wheel hub par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Clip-on weights aam taur par steel rims par rim ke inner aur outer flange par attach kiye jaate hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Adhesive (stick-on) weights kahan use hote hain?",
+      "options": {
+        "A": "Rim ke inner aur outer flange par",
+        "B": "Tyre ke tread par",
+        "C": "Alloy wheels ke inner surface par",
+        "D": "Valve stem par"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Adhesive weights aam taur par alloy wheels par unke aesthetic ko maintain rakhne ke liye rim ke inner surface par lagaye jaate hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Agar wheel properly balanced na ho toh driving ke dauraan kya feel hoga?",
+      "options": {
+        "A": "Smooth ride",
+        "B": "Steering wheel mein vibrations, ya poori gaadi mein shake",
+        "C": "Zyada fuel efficiency",
+        "D": "Tyre life badh jaayegi"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Unbalanced wheels se steering wheel mein vibrations, poori gaadi mein shake, aur uneven tyre wear hota hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Wheel balancing machine par wheel ko mount karte samay kis cheez ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Wheel ko loose mount karna",
+        "B": "Wheel ko center cone ya flange plate se properly center karna",
+        "C": "Wheel ko tilt karke mount karna",
+        "D": "Wheel ko fast spin karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wheel ko balancing machine par properly center karna zaroori hai accurate readings ke liye. Incorrect centering se galat balance readings aayengi."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Wheel balancing ke dauraan purane weights ko kyun remove karna chahiye?",
+      "options": {
+        "A": "Naye weights lagane ke liye jagah banane ke liye",
+        "B": "Accurate balance readings ke liye",
+        "C": "Wheel ko halka karne ke liye",
+        "D": "Customer ko naya bill dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Purane weights ko remove karna zaroori hai taaki machine current wheel assembly ke true imbalance ko detect kar sake aur accurate corrections suggest kar sake."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Wheel balancing machine par weight lagane ke baad kya karna chahiye?",
+      "options": {
+        "A": "Wheel ko phir se spin karna",
+        "B": "Wheel ko gaadi par laga dena",
+        "C": "Tyre pressure check karna",
+        "D": "Customer ko phone karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Weights lagane ke baad, wheel ko phir se spin karna chahiye taaki yeh confirm ho sake ki wheel ab properly balanced hai (readings zero ya bahut kam honi chahiye)."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar wheel balancing ke baad bhi vibrations aa rahe hain toh kya reason ho sakta hai?",
+      "options": {
+        "A": "Tyre naya hai",
+        "B": "Tyre mein flat spot hai ya internal damage hai",
+        "C": "Gaadi ne bahut kam chali hai",
+        "D": "Tyre ka colour galat hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Vibrations agar balancing ke baad bhi continue karte hain toh tyre mein flat spots, internal damage, ya bend rim jaise issues ho sakte hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Wheel balancing ke liye kaun sa metal ka weight use hota hai?",
+      "options": {
+        "A": "Steel, Lead (ab kam), Zinc",
+        "B": "Aluminium",
+        "C": "Copper",
+        "D": "Gold"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Historically lead weights use hote the, par environmental concerns ke kaaran ab steel aur zinc weights zyada common hain."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Tyre aur rim assembly ko balance karne ke liye, weight kahan lagana chahiye?",
+      "options": {
+        "A": "Imbalance ke opposite side par",
+        "B": "Imbalance ke same side par",
+        "C": "Kahin bhi",
+        "D": "Sirf center mein"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Weights hamesha imbalance ke opposite side par lagaye jaate hain taaki wheel assembly ka total weight evenly distribute ho."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Wheel balancing machine par 'run-out' kya measure karta hai?",
+      "options": {
+        "A": "Tyre ka pressure",
+        "B": "Rim ki golai (roundness) aur straightness",
+        "C": "Tyre ka tread depth",
+        "D": "Wheel ka weight"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Run-out machine rim ki golai (radial run-out) aur straightness (lateral run-out) ko measure karti hai, jo vibrations ka source ho sakte hain even if balanced."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar ek wheel mein bahut zyada imbalance hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Bahut saare weights laga dena",
+        "B": "Tyre aur rim ko inspect karna for damage ya defect, aur agar zaroori ho toh replace karna",
+        "C": "Tyre pressure badha dena",
+        "D": "Wheel ko fast spin karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar wheel mein excessive imbalance hai jo normal weights se correct nahi ho raha, toh tyre aur rim ko damage ya manufacturing defects ke liye inspect karna chahiye. Ho sakta hai ki replacement ki zaroorat ho."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Wheel balancing ke baad, customer ko kya advise karna chahiye?",
+      "options": {
+        "A": "Zyada speed par gaadi chalana",
+        "B": "Regular intervals par tyre rotation aur re-balancing karwana",
+        "C": "Tyre pressure kam rakhna",
+        "D": "Weights ko khud se adjust karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular tyre rotation aur re-balancing se tyre wear even rehta hai aur gaadi ki smooth ride maintain rehti hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Tyre mein puncture detect karne ka sabse common method kya hai?",
+      "options": {
+        "A": "Tyre ko sunghna",
+        "B": "Tyre par soapy water spray karna",
+        "C": "Tyre ko hath se dabana",
+        "D": "Tyre ko garam karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Soapy water spray karne se leak area par bubbles bante hain, jisse puncture easily locate ho jaata hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Tubeless tyre repair ke liye sabse common method kya hai jo temporary fix ke liye use hota hai?",
+      "options": {
+        "A": "Cold patch",
+        "B": "Tyre plug (string plug)",
+        "C": "Hot patch",
+        "D": "Tyre replacement"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tyre plug (string plug) road-side ya temporary puncture repair ke liye bahut common hai. Yeh quick aur easy hota hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Permanent tubeless tyre repair ke liye kaun sa method best hai?",
+      "options": {
+        "A": "String plug",
+        "B": "Combination patch/plug (mushroom plug)",
+        "C": "Tape se chipkana",
+        "D": "Super glue lagana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Combination patch/plug (mushroom plug) puncture ko andar se seal karta hai aur bahar se fill karta hai, jo ek robust aur permanent repair mana jaata hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Tyre repair karne se pehle tyre ko rim se kyun utarna zaroori hai (string plug ko chhodkar)?",
+      "options": {
+        "A": "Tyre ko saaf karne ke liye",
+        "B": "Puncture ko andar se inspect aur repair karne ke liye",
+        "C": "Tyre ko chamakdar banane ke liye",
+        "D": "Tyre ka weight check karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Puncture ko andar se inspect karna zaroori hai taaki koi internal damage ya sidewall damage na ho. Proper repair andar se hi kiya jaata hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Kis area mein puncture hone par tyre ko repair karna unsafe hota hai?",
+      "options": {
+        "A": "Tread ke center mein",
+        "B": "Tread ke shoulder area mein",
+        "C": "Tyre ke sidewall par",
+        "D": "Tread ke beech mein"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Sidewall par puncture repair karna unsafe hota hai kyuki sidewall tyre ka sabse flexible part hota hai aur repair stress ko handle nahi kar paata, jisse blow-out ka risk badhta hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Puncture repair ke dauraan, puncture hole ko reaming tool se saaf kyun karte hain?",
+      "options": {
+        "A": "Hole ko bada karne ke liye",
+        "B": "Hole ko saaf karne aur repair material ke liye rough surface banane ke liye",
+        "C": "Hole ko chhota karne ke liye",
+        "D": "Hole ko bend karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Reaming tool puncture hole ko saaf karta hai, uske edges ko smooth karta hai, aur repair material ke liye ek acchi bonding surface provide karta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Tyre repair cement (vulcanizing fluid) ka kya role hai?",
+      "options": {
+        "A": "Tyre ko waterproof banane ke liye",
+        "B": "Patch aur tyre ke beech chemical bond banane ke liye",
+        "C": "Tyre ko thanda rakhne ke liye",
+        "D": "Tyre ko chamakdar banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vulcanizing fluid patch aur tyre ke rubber ke beech ek strong chemical bond banata hai, jisse repair permanent aur air-tight hota hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Tubeless tyre repair ke baad, kya step zaroori hai leak check karne ke liye?",
+      "options": {
+        "A": "Tyre ko paint karna",
+        "B": "Repair area par soapy water spray karna",
+        "C": "Tyre ko dhoop mein rakhna",
+        "D": "Gaadi ko test drive karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Repair ke baad, repair area par soapy water spray karke confirm karna zaroori hai ki koi leak nahi hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar puncture bahut bada ho (e.g., 6mm se zyada), toh kya karna chahiye?",
+      "options": {
+        "A": "Use bade patch se repair karna",
+        "B": "Tyre ko replace karna",
+        "C": "Do plugs lagana",
+        "D": "Tyre ko bina hawa ke chalana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bade punctures (aam taur par 6mm se zyada) tyre ki structural integrity ko compromise kar sakte hain aur unhe repair karna unsafe hota hai. Tyre replacement hi ekmatra safe option hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Tube type tyre mein puncture repair ke liye kya procedure use hota hai?",
+      "options": {
+        "A": "String plug",
+        "B": "Patching (cold patch ya hot patch) tube par",
+        "C": "Mushroom plug",
+        "D": "Tyre replacement"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tube type tyre mein, puncture ko tube par patch lagakar repair kiya jaata hai. Tyre itself repair nahi hota."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Valve stem replacement kab zaroori hota hai?",
+      "options": {
+        "A": "Jab tyre naya ho",
+        "B": "Jab valve stem damaged ho ya leak kar raha ho",
+        "C": "Jab tyre balanced ho",
+        "D": "Jab tyre ka colour change ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Valve stem tyre ka ek critical component hai. Agar yeh damaged ho ya leak kar raha ho, toh ise turant replace karna chahiye."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Tyre repair ke baad tyre ko inflate karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Tyre ko over-inflate karna",
+        "B": "Manufacturer ke recommended pressure tak hi inflate karna",
+        "C": "Tyre ko bina pressure gauge ke inflate karna",
+        "D": "Tyre ko thanda hone se pehle inflate karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Manufacturer ke recommended pressure tak hi inflate karna chahiye taaki tyre safely operate kare aur repair par unnecessary stress na pade."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Run-flat tyres mein puncture hone par kya advantage hota hai?",
+      "options": {
+        "A": "Unhe kabhi repair nahi kiya ja sakta",
+        "B": "Woh limited distance tak bina hawa ke chal sakte hain",
+        "C": "Woh hamesha balanced rehte hain",
+        "D": "Woh kabhi puncture nahi hote"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Run-flat tyres reinforced sidewalls ke saath aate hain jo puncture hone par bhi limited speed aur distance tak gaadi ko chalane ki anumati dete hain, bina tyre change kiye."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Tyre repair ke liye buffing tool ka kya use hai?",
+      "options": {
+        "A": "Tyre ko chamakdar banane ke liye",
+        "B": "Repair area ko saaf aur rough karne ke liye taaki patch acchi tarah chipke",
+        "C": "Tyre ko thanda karne ke liye",
+        "D": "Tyre ko kaatne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Buffing tool repair area ko saaf karta hai aur uski surface ko rough banata hai, jisse patch ke liye ek strong bonding surface milti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Agar tyre ka inner liner damaged ho gaya ho puncture ke kaaran, toh kya zaroori hai repair se pehle?",
+      "options": {
+        "A": "Inner liner ko saaf karna",
+        "B": "Inner liner ko buff karna aur seal karna",
+        "C": "Inner liner ko ignor karna",
+        "D": "Tyre ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Inner liner ko properly buff karke repair karna aur seal karna zaroori hai taaki tyre ki air retention capability restore ho aur moisture tyre ke andar na ghuse."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Tyre repair ke baad, kya wheel balancing karna zaroori hai?",
+      "options": {
+        "A": "Nahi, zaroori nahi hai",
+        "B": "Haan, hamesha zaroori hai",
+        "C": "Sirf agar tyre naya ho",
+        "D": "Sirf agar tyre mein bahut zyada hawa ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tyre repair ke dauraan tyre ko rim se utara jaata hai aur patch lagane se tyre ka weight distribution change ho sakta hai, isliye re-balancing zaroori hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "TPMS ka full form kya hai?",
+      "options": {
+        "A": "Tyre Pressure Management System",
+        "B": "Tyre Performance Monitoring System",
+        "C": "Tyre Puncture Monitoring System",
+        "D": "Tyre Pressure Monitoring System"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "TPMS ka full form Tyre Pressure Monitoring System hai, jo gaadi ke tyres ke pressure ko monitor karta hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "TPMS light kab glow karti hai?",
+      "options": {
+        "A": "Jab tyre naya ho",
+        "B": "Jab tyre pressure significantly low ho",
+        "C": "Jab gaadi tez speed par chale",
+        "D": "Jab gaadi break lagaye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "TPMS light tab glow karti hai jab ek ya zyada tyres ka pressure manufacturer ke recommended level se significantly kam ho jaata hai, jo safety hazard ho sakta hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Nitrogen inflation ke kya benefits hain tyres mein?",
+      "options": {
+        "A": "Tyre ka colour change hota hai",
+        "B": "Pressure zyada stable rehta hai, aur rim corrosion kam hota hai",
+        "C": "Tyre jaldi garam hota hai",
+        "D": "Tyre puncture proof ho jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nitrogen air se zyada stable gas hai, isliye yeh temperature fluctuations ke saath pressure ko zyada stable rakhti hai. Iske alawa, isme moisture nahi hota, jisse rim corrosion kam hota hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Run-flat tyres ko repair karne ke baare mein kya sahi hai?",
+      "options": {
+        "A": "Unhe kabhi repair nahi kiya ja sakta",
+        "B": "Unhe repair kiya ja sakta hai, par special guidelines aur inspection ke saath",
+        "C": "Unhe sirf string plug se repair kiya ja sakta hai",
+        "D": "Unhe sirf hot patch se repair kiya ja sakta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Run-flat tyres ko repair kiya ja sakta hai, par manufacturers ki specific guidelines ko follow karna zaroori hai. Damage severity aur location ko dhyan mein rakhna hota hai, aur aksar unhe replace karne ki salah di jaati hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Customer ko tyre service ke baad kya advice deni chahiye?",
+      "options": {
+        "A": "Tyre pressure check na karein",
+        "B": "Regular intervals par tyre pressure aur tread depth check karein",
+        "C": "Tyre rotation na karwayein",
+        "D": "Tyre ko zyada hawa se bharein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ko regular tyre maintenance ke baare mein inform karna unki safety aur tyre life ke liye zaroori hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Workshop mein cleanliness aur organization kyun important hai?",
+      "options": {
+        "A": "Customer ko impress karne ke liye",
+        "B": "Safety badhane aur efficient work environment banane ke liye",
+        "C": "Tools ko chhipane ke liye",
+        "D": "Zyada jagah banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cleanliness aur organization se accidents kam hote hain, tools easily mil jaate hain, aur overall productivity badhti hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "TPMS sensor ko replace karne ke baad kya karna zaroori hai?",
+      "options": {
+        "A": "Tyre ko paint karna",
+        "B": "Sensor ko gaadi ke ECU (Engine Control Unit) ke saath re-learn ya reprogram karna",
+        "C": "Tyre pressure badhana",
+        "D": "Wheel balancing karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Naye TPMS sensor ko gaadi ke system ke saath re-learn karna ya reprogram karna zaroori hai taaki system sensor se sahi readings receive kar sake."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Customer complaints ko kaise handle karna chahiye?",
+      "options": {
+        "A": "Unhe ignor karna",
+        "B": "Dhairyapurvak sunna aur samasya ka समाधान karne ki koshish karna",
+        "C": "Customer se argue karna",
+        "D": "Customer ko workshop se nikal dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer complaints ko professionally handle karna, unki baat sunna aur unki samasya ka समाधान karna customer satisfaction aur business reputation ke liye zaroori hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Tyre ki manufacturing date kaise pata chalti hai?",
+      "options": {
+        "A": "DOT code ke baad ke 4 digits se",
+        "B": "Tyre ke size se",
+        "C": "Tyre ke colour se",
+        "D": "Tyre ke brand se"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "DOT code ke aakhri 4 digits manufacturing week aur year batate hain (e.g., 1521 ka matlab 15th week of 2021)."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar customer ko tyre alignment ki zaroorat ho toh aap kya advise denge?",
+      "options": {
+        "A": "Alignment zaroori nahi hai",
+        "B": "Alignment karwane se tyre wear uniform hoga aur handling better hogi",
+        "C": "Alignment se tyre life kam hogi",
+        "D": "Alignment sirf naye tyres ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper wheel alignment se tyre wear evenly hota hai, fuel efficiency badhti hai, aur gaadi ki handling aur steering response improve hoti hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Workshop mein tools aur equipment ka regular maintenance kyun zaroori hai?",
+      "options": {
+        "A": "Unhe naya dikhane ke liye",
+        "B": "Unki life badhane aur safe operation ensure karne ke liye",
+        "C": "Unhe zyada speed par chalane ke liye",
+        "D": "Unhe bechne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Regular maintenance se tools aur equipment ki life badhti hai, unki functionality maintain rehti hai, aur unka safe operation ensure hota hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Tyre fitting aur balancing records maintain karna kyun important hai?",
+      "options": {
+        "A": "Customer ko zyada bill dene ke liye",
+        "B": "Customer history track karne, warranty claims aur quality control ke liye",
+        "C": "Record ko cupboard mein rakhne ke liye",
+        "D": "Record ko delete karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Records se customer history track hoti hai, future service recommendations ke liye data milta hai, warranty claims mein help milti hai, aur quality control maintain rehta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar ek customer ko low profile tyres lagwane hain, toh kya extra considerations honge?",
+      "options": {
+        "A": "Unhe zyada hawa se bharna chahiye",
+        "B": "Unhe balancing ki zaroorat nahi hai",
+        "C": "Ride quality thodi harsh ho sakti hai aur rims ko damage ka zyada risk hota hai",
+        "D": "Unhe kabhi puncture nahi hota"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Low profile tyres mein sidewall chhota hota hai, jisse ride quality thodi harsh ho sakti hai aur potholes ya bumps par rims ko damage ka zyada risk hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Tyre valves ke types kya ho sakte hain?",
+      "options": {
+        "A": "Rubber snap-in, Metal clamp-in, TPMS valves",
+        "B": "Steel valves, Copper valves, Plastic valves",
+        "C": "Long valves, Short valves, Medium valves",
+        "D": "Red valves, Blue valves, Green valves"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Common tyre valves mein rubber snap-in valves, metal clamp-in valves (high speed applications ke liye), aur TPMS sensors ke saath integrated valves shamil hain."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Customer ko tyre ki age ke baare mein kya advise deni chahiye?",
+      "options": {
+        "A": "Tyre ko 10 saal tak use karna chahiye",
+        "B": "Tyre ko manufacturing date se 6 saal ke baad inspect karwana aur 10 saal ke baad replace karwana chahiye, irrespective of tread depth",
+        "C": "Tyre ko kabhi replace nahi karna chahiye",
+        "D": "Tyre ko har mahine replace karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tyres ki rubber compound age ke saath degrade hoti hai, chahe tread depth acchi ho. Aam taur par, 6 saal ke baad inspection aur 10 saal ke baad replacement recommend kiya jaata hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Workshop mein hazardous waste (e.g., old tyres, used oil) ka proper disposal kyun zaroori hai?",
+      "options": {
+        "A": "Jaldi jagah banane ke liye",
+        "B": "Environmental protection aur legal compliance ke liye",
+        "C": "Customer ko impress karne ke liye",
+        "D": "Unhe reuse karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hazardous waste ka proper disposal environmental pollution ko rokta hai aur environmental regulations ke compliance ke liye zaroori hai."
+    }
+  ]
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "UI/UX Design — Figma & Prototyping",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Intermediate",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Module 1: Introduction to UI/UX Design & Principles",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Module 2: Understanding Figma Basics & Interface",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Module 3: Designing in Figma - Components, Styles & Layout",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Module 4: Prototyping & Interactions in Figma",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Module 5: User Research, Testing & Iteration",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Module 6: Handoff, Collaboration & Advanced Figma Features",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which of the following best describes the primary goal of User Experience (UX) design?",
+      "options": {
+        "A": "To make the product visually appealing",
+        "B": "To ensure the product is easy, efficient, and enjoyable to use",
+        "C": "To develop the backend functionality of a product",
+        "D": "To advertise the product to potential customers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The primary goal of UX design is to enhance user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction with a product."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "In the context of UI/UX, what does 'affordance' refer to?",
+      "options": {
+        "A": "The cost-effectiveness of a design solution",
+        "B": "The perceived and actual properties of a thing that determine how it could possibly be used",
+        "C": "The ability of a design to adapt to different screen sizes",
+        "D": "The visual hierarchy established in a layout"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Affordance refers to the properties of an object that suggest how it can be used. For example, a button affords clicking, a handle affords pulling or pushing."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Which phase of the Design Thinking process involves understanding the users' needs, motivations, and pain points?",
+      "options": {
+        "A": "Ideate",
+        "B": "Prototype",
+        "C": "Empathize",
+        "D": "Test"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Empathize phase is the first step in Design Thinking, focusing on gaining a deep understanding of the users and their context through research."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "What is the main purpose of creating a 'User Persona' in the UX design process?",
+      "options": {
+        "A": "To define the project's technical requirements",
+        "B": "To create a fictional representation of the ideal user based on research data",
+        "C": "To outline the project timeline and budget",
+        "D": "To document the visual style guide for the product"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "User personas are detailed, fictional representations of your target users, helping designers to understand their goals, needs, and behaviors."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Which principle of good UI design suggests that similar elements should look similar and dissimilar elements should look dissimilar?",
+      "options": {
+        "A": "Consistency",
+        "B": "Feedback",
+        "C": "Visibility",
+        "D": "Mapping"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Consistency is a fundamental design principle that helps users learn and use an interface more easily by expecting similar elements to behave in similar ways."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "What is the primary benefit of conducting competitive analysis in the early stages of a UI/UX project?",
+      "options": {
+        "A": "To copy competitors' designs directly",
+        "B": "To identify industry best practices, market gaps, and potential areas for differentiation",
+        "C": "To determine the exact pricing strategy for the new product",
+        "D": "To finalize the project budget and resource allocation"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Competitive analysis helps designers understand the existing market, learn from competitors' successes and failures, and identify opportunities for innovation."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "According to Jakob Nielsen's 10 Usability Heuristics, which heuristic emphasizes keeping users informed about what is going on through appropriate feedback within reasonable time?",
+      "options": {
+        "A": "Match between system and the real world",
+        "B": "Visibility of system status",
+        "C": "User control and freedom",
+        "D": "Flexibility and efficiency of use"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Visibility of system status ensures that users always know what is happening, for example, through loading indicators or success messages."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "What is Information Architecture (IA) primarily concerned with?",
+      "options": {
+        "A": "The visual aesthetics and branding of a product",
+        "B": "The organization, structure, and labeling of content in a way that is understandable and findable",
+        "C": "The coding and development of database structures",
+        "D": "The marketing and promotion of a digital product"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Information Architecture focuses on how content is structured and organized within a product to help users navigate and find information effectively."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Which of the following is NOT a core principle of good visual design in UI?",
+      "options": {
+        "A": "Hierarchy",
+        "B": "Balance",
+        "C": "Repetition",
+        "D": "Over-decoration"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Hierarchy, Balance, and Repetition are core principles of visual design. Over-decoration is generally avoided as it can clutter the interface and distract users."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Why is accessibility a crucial consideration in UI/UX design?",
+      "options": {
+        "A": "It makes the product more expensive to develop",
+        "B": "It ensures the product can be used by people with disabilities, broadening the user base and promoting inclusivity",
+        "C": "It is only relevant for government websites",
+        "D": "It primarily focuses on making the design visually appealing"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Accessibility ensures that products are usable by as many people as possible, including those with visual, auditory, motor, or cognitive impairments. It's a key aspect of inclusive design."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What is the primary difference between UI and UX?",
+      "options": {
+        "A": "UI is about the overall user journey, while UX is about the visual interface.",
+        "B": "UI focuses on the visual and interactive elements of a product, while UX focuses on the overall experience a user has with a product.",
+        "C": "UI is for web applications, and UX is for mobile applications.",
+        "D": "UI is the development, and UX is the design."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "UI (User Interface) deals with the aesthetic and interactive elements. UX (User Experience) encompasses the entire journey a user takes with a product, from initial thought to final interaction."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Which of the following describes a 'mental model' in UX design?",
+      "options": {
+        "A": "A detailed technical specification document",
+        "B": "A user's internal representation of how a system works based on their past experiences and expectations",
+        "C": "A brainstorming technique used in the ideation phase",
+        "D": "A software tool for creating wireframes"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A mental model is what a user believes about a system, how it works, and how to interact with it. Designers aim to align the system's actual model with the user's mental model."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "What is the purpose of a 'user flow' diagram?",
+      "options": {
+        "A": "To show the visual design of each screen in an application",
+        "B": "To illustrate the sequence of steps a user takes to complete a task within a product",
+        "C": "To document the project's technical architecture",
+        "D": "To analyze market trends and user demographics"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A user flow maps out the path a user takes to achieve a specific goal within a product, detailing each screen, decision point, and action."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "When designing for mobile, why is 'thumb zone' important to consider?",
+      "options": {
+        "A": "It refers to the optimal size for a mobile app icon.",
+        "B": "It defines the area on a mobile screen that is easily reachable by a user's thumb for interaction.",
+        "C": "It's a measurement of mobile network speed.",
+        "D": "It describes the visual style of mobile-first designs."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The thumb zone is the most accessible area on a smartphone screen for a user's thumb, influencing the placement of important interactive elements for comfortable one-handed use."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Which UX principle is about minimizing the number of steps or clicks required to achieve a goal?",
+      "options": {
+        "A": "Aesthetic and minimalist design",
+        "B": "Efficiency of use",
+        "C": "Error prevention",
+        "D": "Recognition rather than recall"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Efficiency of use focuses on optimizing user workflows, often by reducing unnecessary steps or allowing expert users to achieve tasks more quickly."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "What is the primary role of a 'style guide' in UI design?",
+      "options": {
+        "A": "To outline user research methodologies",
+        "B": "To ensure consistency in visual elements, branding, and interaction patterns across a product",
+        "C": "To document the technical specifications for developers",
+        "D": "To track project progress and deadlines"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A style guide (or design system) provides a set of standards for design elements, typography, color palettes, and interaction behaviors to maintain consistency."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "What is 'Fitts' Law' and how does it apply to UI design?",
+      "options": {
+        "A": "It states that the time to acquire a target is a function of the distance to and size of the target, meaning larger, closer targets are easier to hit.",
+        "B": "It describes the optimal number of items to display in a navigation menu.",
+        "C": "It is a principle for balancing visual elements on a screen.",
+        "D": "It dictates the maximum number of colors to use in an interface."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Fitts' Law is a predictive model of human movement, particularly in human-computer interaction. It implies that interactive elements should be large and close to common interaction points to minimize user effort and errors."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Which of the following is a cloud-based design tool primarily used for UI/UX design and prototyping?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Figma",
+        "C": "Microsoft Word",
+        "D": "AutoCAD"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Figma is a popular web-based UI/UX design and prototyping tool known for its real-time collaboration features."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "In Figma, what is the primary purpose of a 'Frame'?",
+      "options": {
+        "A": "To add a border around an object",
+        "B": "To define a viewport or screen for your design, acting as an artboard",
+        "C": "To create a 3D model of an object",
+        "D": "To group objects without defining a specific canvas size"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Frames in Figma are essential for creating specific screen sizes for different devices or sections of a design, similar to artboards in other design tools."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Which panel in Figma allows you to see and organize all the layers, groups, and frames in your current page?",
+      "options": {
+        "A": "Assets panel",
+        "B": "Prototype panel",
+        "C": "Layers panel",
+        "D": "Inspect panel"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Layers panel, located on the left sidebar, provides a hierarchical view of all elements on your canvas, making it easy to select, reorder, and manage them."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "How do you quickly duplicate an object in Figma while maintaining its position relative to the original?",
+      "options": {
+        "A": "Press Ctrl/Cmd + X",
+        "B": "Drag the object while holding Alt/Option",
+        "C": "Press Ctrl/Cmd + Z",
+        "D": "Use the 'Group Selection' tool"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Holding Alt/Option while dragging an object creates a duplicate. Ctrl/Cmd + D can also duplicate and repeat the last transformation."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "What is the function of the 'Fill' property in Figma's design panel?",
+      "options": {
+        "A": "To add a shadow effect to an object",
+        "B": "To set the background color or image of a shape or frame",
+        "C": "To define the border style of an object",
+        "D": "To adjust the transparency of an object"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The Fill property controls the color, gradient, or image that fills the interior of a shape, text, or frame."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Which tool in Figma is used to draw vector shapes like rectangles, ellipses, and polygons?",
+      "options": {
+        "A": "Text tool",
+        "B": "Move tool",
+        "C": "Shape tools (Rectangle, Ellipse, Polygon, etc.)",
+        "D": "Pen tool"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Figma provides dedicated shape tools for creating basic geometric shapes. The Pen tool is used for more complex, custom vector paths."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "What does the 'Constraints' feature in Figma primarily help with?",
+      "options": {
+        "A": "Limiting the number of layers in a design",
+        "B": "Controlling how objects resize and reposition themselves within their parent frame when the frame is resized",
+        "C": "Restricting access to certain design files",
+        "D": "Setting maximum and minimum values for color properties"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Constraints are crucial for responsive design, allowing elements to adapt gracefully to different screen sizes and orientations without manual adjustment."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "How can you quickly align multiple selected objects to their centers in Figma?",
+      "options": {
+        "A": "Manually drag them until guides appear",
+        "B": "Use the 'Distribute Horizontal Spacing' option",
+        "C": "Select objects and use the 'Align Horizontal Centers' and 'Align Vertical Centers' options in the Design panel",
+        "D": "Group them and then ungroup them"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Figma's Design panel provides dedicated alignment tools to quickly position multiple selected objects relative to each other or their parent frame."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "What is the benefit of using 'Pages' in a Figma file?",
+      "options": {
+        "A": "To reduce the file size of your design",
+        "B": "To organize different sections, flows, or iterations of a design within a single Figma file",
+        "C": "To restrict collaboration access to specific parts of the design",
+        "D": "To export designs in different formats simultaneously"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pages help in structuring complex design projects, allowing designers to keep different parts of the design (e.g., mood boards, wireframes, final UI, prototypes) separate but within the same file."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Which keyboard shortcut in Figma allows you to quickly zoom to fit all content on the canvas?",
+      "options": {
+        "A": "Shift + 1",
+        "B": "Shift + 2",
+        "C": "Shift + 3",
+        "D": "Shift + 0"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Shift + 2 zooms to fit all selected objects, and if nothing is selected, it zooms to fit all content on the current page."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "What is the purpose of the 'Vector Network' feature in Figma's Pen tool?",
+      "options": {
+        "A": "To connect multiple artboards together",
+        "B": "To allow multiple lines and branches to stem from a single point, creating more flexible and complex vector shapes",
+        "C": "To automatically generate a grid system for your design",
+        "D": "To convert raster images into vector graphics"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Figma's unique Vector Networks allow for more advanced vector editing compared to traditional bezier curves, letting multiple paths originate from a single anchor point."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "When working with text in Figma, what is the 'Line Height' property used for?",
+      "options": {
+        "A": "To adjust the spacing between individual characters",
+        "B": "To set the vertical distance between lines of text",
+        "C": "To change the font size of the text",
+        "D": "To control the thickness of the text stroke"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Line Height (also known as leading) controls the vertical spacing between lines of text, impacting readability."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "What is a 'Group' in Figma and when would you use it instead of a Frame?",
+      "options": {
+        "A": "A Group is a collection of layers that behaves as one, often used for organizing related elements without defining a specific canvas or clipping content, unlike a Frame.",
+        "B": "A Group is used for prototyping, while a Frame is for design.",
+        "C": "A Group allows for responsive design, but a Frame does not.",
+        "D": "A Group is for individual objects, and a Frame is for text."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Groups simply combine layers for easier management, while Frames are more powerful, acting as containers that can clip content, use Auto Layout, and have constraints."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "To add a shadow effect to an object in Figma, which property section in the Design panel would you use?",
+      "options": {
+        "A": "Fill",
+        "B": "Stroke",
+        "C": "Effects",
+        "D": "Export"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Effects' section allows you to add various visual effects, including Drop Shadow, Inner Shadow, Layer Blur, and Background Blur."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "What is the primary benefit of using Figma's 'Comment' feature?",
+      "options": {
+        "A": "To write code snippets for developers",
+        "B": "To provide feedback, ask questions, and collaborate directly on the design canvas with team members",
+        "C": "To create automated design reports",
+        "D": "To track changes in the design file automatically"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Figma's commenting feature facilitates real-time communication and feedback loops within the design file, streamlining collaboration."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Which panel allows you to preview your designs on an actual device, such as a mobile phone, using the Figma Mirror app?",
+      "options": {
+        "A": "Design panel",
+        "B": "Prototype panel",
+        "C": "Assets panel",
+        "D": "No specific panel; it's done via the Figma Mirror app connection"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "While you select a frame in Figma Desktop/Browser, the Figma Mirror app on your device will display that frame in real-time. There isn't a dedicated 'Mirror panel' in the main Figma interface."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "When you select multiple layers and use the 'Union selection' operation, what is the result?",
+      "options": {
+        "A": "The layers are subtracted from each other.",
+        "B": "The layers are combined into a single vector shape, taking the combined area of all selected shapes.",
+        "C": "Only the overlapping parts of the layers remain.",
+        "D": "The layers are converted into a raster image."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Boolean operations like Union, Subtract, Intersect, and Exclude allow designers to combine or cut vector shapes in various ways. Union combines shapes into one larger shape."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "What is the primary benefit of using 'Auto Layout' in Figma?",
+      "options": {
+        "A": "To automatically generate entire page layouts without manual effort",
+        "B": "To create responsive designs where elements adjust their spacing and positioning automatically based on content changes or container resizing",
+        "C": "To apply predefined visual styles to all elements",
+        "D": "To automatically optimize image sizes for web performance"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Auto Layout is a powerful feature for building responsive components and frames that adapt dynamically to their content, making design much more efficient."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "In Figma, what is a 'Component' and why is it useful?",
+      "options": {
+        "A": "A unique, one-time design element that cannot be reused.",
+        "B": "A reusable UI element (like a button or input field) that, when updated, automatically updates all its instances across the design.",
+        "C": "A tool for exporting assets.",
+        "D": "A section of a design file for collaboration notes."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Components are the backbone of efficient design systems, ensuring consistency and making global changes quick and easy by only modifying the 'main component'."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "When creating a Component in Figma, what is the relationship between the 'Main Component' and an 'Instance'?",
+      "options": {
+        "A": "Instances are completely independent copies of the Main Component.",
+        "B": "The Main Component is a child of an Instance.",
+        "C": "An Instance is a copy of the Main Component that inherits its properties but can have local overrides, and updates to the Main Component propagate to all Instances.",
+        "D": "They are unrelated concepts."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "This parent-child relationship is fundamental to how components work, allowing for both global control and local customization."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Which feature allows you to create different states or variations of a single component (e.g., primary button, secondary button) within Figma?",
+      "options": {
+        "A": "Plugins",
+        "B": "Styles",
+        "C": "Variants",
+        "D": "Groups"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Variants allow you to combine different properties (e.g., size, state, color) into a single component set, making it easier to manage and switch between variations."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "How do you create a 'Color Style' in Figma?",
+      "options": {
+        "A": "By manually typing in a color code every time.",
+        "B": "By selecting an object with the desired color, clicking the 'Style' icon next to the Fill/Stroke property, and choosing 'Create style'.",
+        "C": "By using a third-party plugin only.",
+        "D": "Color styles are automatically generated by Figma."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Color styles (and other styles like text, effect, grid) promote consistency by allowing you to define a color once and apply it across multiple elements. Updates to the style apply everywhere."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "What is the purpose of 'Text Styles' in Figma?",
+      "options": {
+        "A": "To create animated text effects.",
+        "B": "To define and reuse consistent typography settings (font family, size, weight, line height, etc.) across a design.",
+        "C": "To convert text into vector paths.",
+        "D": "To check for spelling errors in text layers."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Text styles, like color styles, are crucial for maintaining typographic consistency and making global changes to text properties efficient."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "When using Auto Layout, what happens if you set an item's horizontal resizing property to 'Fill Container'?",
+      "options": {
+        "A": "The item will maintain its fixed width.",
+        "B": "The item will expand or shrink to fill the available horizontal space within its Auto Layout parent.",
+        "C": "The item will align to the center of the container.",
+        "D": "The item will be hidden from view."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Fill Container' is a key responsive behavior in Auto Layout, allowing elements to dynamically adjust their size based on the parent's dimensions."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Which of the following is NOT a type of 'Grid Style' you can create in Figma?",
+      "options": {
+        "A": "Column Grid",
+        "B": "Row Grid",
+        "C": "Square Grid",
+        "D": "Radial Grid"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Figma supports Column, Row, and Square (grid) layouts, which are standard for UI design. Radial grids are not a native grid style option."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "What is the primary function of Figma 'Plugins'?",
+      "options": {
+        "A": "To replace core Figma functionality.",
+        "B": "To extend Figma's capabilities with specialized tools and automation for tasks like data population, accessibility checks, or icon management.",
+        "C": "To change the default theme of Figma's interface.",
+        "D": "To synchronize Figma files with other design tools."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plugins enhance workflow by automating repetitive tasks, importing content, or providing advanced features not built into Figma natively."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "You have a button component with a 'Default' and 'Hover' state defined as Variants. How do you switch between these states in an instance of the component?",
+      "options": {
+        "A": "You must detach the instance from the main component and then manually change its properties.",
+        "B": "Select the instance and use the dropdown property in the Design panel to choose the desired variant state.",
+        "C": "Right-click the instance and select 'Change to Variant'.",
+        "D": "You can only change states during prototyping, not in design mode."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Variants streamline the process of switching between different states or types of a component directly from the instance, making component management highly efficient."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "What is the benefit of using 'Team Libraries' in Figma?",
+      "options": {
+        "A": "They allow only one person to work on a file at a time.",
+        "B": "They enable sharing reusable components, styles, and assets across multiple files and projects within a team, ensuring consistency and efficiency.",
+        "C": "They are used for tracking billing information for team accounts.",
+        "D": "They automatically translate design text into multiple languages."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Team Libraries are essential for maintaining a consistent design system across large projects and teams, ensuring everyone uses the approved components and styles."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "When designing a responsive layout with Auto Layout, what does 'Hug Contents' mean for an item's resizing property?",
+      "options": {
+        "A": "The item will always have a fixed width/height.",
+        "B": "The item's size (width/height) will automatically adjust to fit its content with specified padding.",
+        "C": "The item will stretch to fill the available space in its parent.",
+        "D": "The item will be hidden if its content overflows."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Hug Contents' is ideal for buttons or tags where the container size should be determined by the text or icons inside, plus any padding."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Which Figma feature allows you to replace an instance of a component with another component from your library?",
+      "options": {
+        "A": "Detach Instance",
+        "B": "Swap Instance",
+        "C": "Create Component",
+        "D": "Group Selection"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Swap Instance' feature is incredibly useful for quickly iterating on designs or replacing placeholder components with final ones without losing local overrides."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "You want to create a layout where items are evenly spaced horizontally within a container. Which Auto Layout property would you adjust?",
+      "options": {
+        "A": "Padding",
+        "B": "Gap between items",
+        "C": "Direction",
+        "D": "Alignment"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'Gap between items' property in Auto Layout directly controls the spacing between child elements within an Auto Layout frame."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "To add an icon from a common library (e.g., Material Design, Font Awesome) into your Figma file, what is the most efficient method?",
+      "options": {
+        "A": "Draw the icon manually using the Pen tool.",
+        "B": "Search for and use a Figma plugin that provides access to icon libraries.",
+        "C": "Copy-paste a screenshot of the icon.",
+        "D": "Icons can only be added by importing SVG files manually."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plugins like 'Iconify' or 'Feather Icons' allow designers to quickly search, browse, and insert vector icons directly into Figma, saving a lot of time."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is the primary difference between a 'Component Set' and a regular 'Component' in Figma?",
+      "options": {
+        "A": "A Component Set can only contain one Variant.",
+        "B": "A Component Set is a collection of related Components (Variants) grouped together for easier management and switching, whereas a regular Component is a single reusable element.",
+        "C": "Component Sets are only for prototyping, not design.",
+        "D": "Component Sets are for developers, Components are for designers."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Component Sets are the container for Variants, allowing you to define multiple properties and states for a single conceptual component (e.g., a button with different sizes, states, and icons)."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "When designing for accessibility, what is the significance of using 'semantic layer names' in Figma?",
+      "options": {
+        "A": "It helps Figma automatically generate code.",
+        "B": "It allows screen readers and assistive technologies to better interpret the structure and meaning of elements during handoff.",
+        "C": "It is purely for aesthetic organization.",
+        "D": "It reduces the file size of the design."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Meaningful layer names (e.g., 'Primary Button', 'Navigation Link') improve developer handoff and can be used by accessibility tools to understand the purpose of UI elements, leading to better accessible implementations."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which tab in Figma's right sidebar is used to set up interactions and animations for prototypes?",
+      "options": {
+        "A": "Design tab",
+        "B": "Prototype tab",
+        "C": "Inspect tab",
+        "D": "Assets tab"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The Prototype tab is dedicated to defining connections between frames, setting up triggers, actions, and animations for interactive prototypes."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "What is the primary purpose of 'Smart Animate' in Figma prototyping?",
+      "options": {
+        "A": "To create instant, abrupt transitions between frames.",
+        "B": "To automatically apply a predefined animation sequence to all objects.",
+        "C": "To create smooth, interpolated transitions between objects with matching names across different frames, inferring animation properties.",
+        "D": "To export animated GIFs from your design."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Smart Animate is a powerful feature that makes prototyping feel more realistic by smoothly animating property changes (position, scale, opacity, rotation, color) for layers with identical names."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "To create a basic clickable button that navigates to another screen, what type of interaction would you typically use?",
+      "options": {
+        "A": "On Drag",
+        "B": "On Click",
+        "C": "While Hovering",
+        "D": "After Delay"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "'On Click' (or 'On Tap' for mobile) is the most common trigger for navigating between screens or activating elements in a prototype."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "What does a 'Fixed Position' element (e.g., a header or footer) do in a Figma prototype with vertical scrolling?",
+      "options": {
+        "A": "It disappears when the user scrolls.",
+        "B": "It remains in place on the screen while other content scrolls underneath it.",
+        "C": "It scrolls along with the content but at a slower speed.",
+        "D": "It can only be used on static, non-scrolling frames."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fixed position elements are crucial for creating realistic prototypes of headers, footers, or sticky navigation bars that stay visible during scrolling."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Which of the following is an example of an 'Overlay' interaction in Figma?",
+      "options": {
+        "A": "Navigating from one full screen to another.",
+        "B": "Opening a modal dialog, dropdown menu, or tooltip on top of the current screen.",
+        "C": "Scrolling content within a frame.",
+        "D": "Changing the color of a button on hover."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Overlays are used to display content temporarily on top of the main screen, simulating common UI patterns like modals, popovers, and alerts."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "When setting up an interaction, what is the purpose of selecting an 'Easing' option (e.g., Ease In, Ease Out)?",
+      "options": {
+        "A": "To change the duration of the animation.",
+        "B": "To control the speed and acceleration of an animation over time, making it feel more natural.",
+        "C": "To define the starting and ending points of an animation.",
+        "D": "To add sound effects to the prototype."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Easing functions make animations appear more organic and less robotic by varying the speed of the animation throughout its duration."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "What is the primary use case for the 'Scroll To' action in Figma prototyping?",
+      "options": {
+        "A": "To navigate to a different page.",
+        "B": "To make a specific element within a long scrolling frame come into view.",
+        "C": "To create a horizontal scrolling effect.",
+        "D": "To adjust the scrolling speed of the entire prototype."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'Scroll To' action is useful for anchor links, 'back to top' buttons, or navigating to specific sections within a single long page."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "You want to create a tab navigation where clicking a tab reveals a specific content panel. Which interaction pattern is most suitable for this in Figma?",
+      "options": {
+        "A": "Open Link",
+        "B": "Change To (for component variants)",
+        "C": "Open Overlay",
+        "D": "Back"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Using component variants for tab content or tab items (where each variant represents a different tab state/content) and using 'Change To' is a clean way to manage this interaction. Alternatively, 'Navigate To' different frames could work, but 'Change To' is more efficient for within-component changes."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "What is the 'Starting Frame' in a Figma prototype?",
+      "options": {
+        "A": "The first frame you designed in the file.",
+        "B": "The frame designated as the initial screen when the prototype is played.",
+        "C": "Any frame that has an interaction connected to it.",
+        "D": "The frame with the most components."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The starting frame is crucial for defining the entry point of your user flow when presenting or testing the prototype."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "When building a prototype, what is the advantage of using 'Interactive Components' over traditional frame-to-frame prototyping for micro-interactions?",
+      "options": {
+        "A": "Interactive Components remove the need for any prototyping connections.",
+        "B": "They allow designers to create micro-interactions (like hover effects, toggles, or input states) directly within a component, reducing the number of frames needed and simplifying complex flows.",
+        "C": "They are only for static components, not interactive ones.",
+        "D": "They automatically generate code for the interactions."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Interactive Components significantly streamline the creation of common micro-interactions, making prototypes more realistic and easier to manage without an explosion of frames."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "You want to simulate a dropdown menu that appears when a user clicks a button and disappears when they click outside of it. Which Figma prototyping feature would be most appropriate for the 'click outside' dismissal?",
+      "options": {
+        "A": "After Delay",
+        "B": "On Click (to navigate back)",
+        "C": "Close Overlay (with 'Click outside to close' enabled)",
+        "D": "While Pressing"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "When configuring an 'Open Overlay' interaction, Figma offers an option to 'Close when clicking outside', which is perfect for simulating standard dropdown or modal behavior."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "What does the 'Swap Overlay' action do in Figma prototyping?",
+      "options": {
+        "A": "It replaces one entire frame with another.",
+        "B": "It replaces an existing open overlay with a new one.",
+        "C": "It swaps the position of two elements on a frame.",
+        "D": "It changes the background color of an overlay."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Swap Overlay is useful for sequential overlays, like moving through steps in a multi-step modal without closing and reopening the entire overlay."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Which transition animation type in Figma makes the new frame appear instantly without any animation?",
+      "options": {
+        "A": "Push",
+        "B": "Slide In",
+        "C": "Instant",
+        "D": "Dissolve"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Instant' transition is the simplest and quickest, often used for subtle changes or when no explicit animation is desired."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "When connecting two frames for a prototype, what does the 'Back' action typically do?",
+      "options": {
+        "A": "Navigates to the previously viewed frame in the prototype history.",
+        "B": "Navigates to the starting frame of the prototype.",
+        "C": "Closes the entire prototype.",
+        "D": "Goes to a random previous frame."
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The 'Back' action simulates the browser or app's back button, taking the user to the screen they were on immediately before the current one."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "What is the significance of using 'Parent' as a scroll behavior option for a frame in Figma?",
+      "options": {
+        "A": "It means the frame will always scroll independently.",
+        "B": "It means the frame will scroll along with its parent frame, inheriting its scrolling properties.",
+        "C": "It prevents the frame from scrolling at all.",
+        "D": "It allows the frame to scroll horizontally only."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Setting scroll behavior to 'Parent' allows nested scrolling, where an inner frame's scroll behavior is determined by its containing parent frame, useful for complex layouts."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "To simulate a 'swipe' gesture on a mobile app prototype, which interaction trigger would you use?",
+      "options": {
+        "A": "On Click",
+        "B": "While Hovering",
+        "C": "On Drag",
+        "D": "After Delay"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'On Drag' trigger is specifically designed to simulate touch-based gestures like swiping, dragging, or pulling elements."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "You have a component with two variants: 'Checked' and 'Unchecked'. You want to create a toggle switch. Which interaction type would be most appropriate to switch between these variants on click?",
+      "options": {
+        "A": "Navigate To",
+        "B": "Open Overlay",
+        "C": "Change To",
+        "D": "Scroll To"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'Change To' action is specifically designed for switching between variants of an interactive component, making it perfect for toggles, checkboxes, and other state changes."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Which of the following is an example of a 'qualitative' user research method?",
+      "options": {
+        "A": "Surveys with multiple-choice questions",
+        "B": "A/B testing with conversion rates",
+        "C": "One-on-one user interviews",
+        "D": "Analytics data tracking website clicks"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Qualitative research methods like interviews aim to understand the 'why' behind user behavior, gathering in-depth insights and opinions."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "What is the primary goal of conducting 'Usability Testing'?",
+      "options": {
+        "A": "To market the product to potential users.",
+        "B": "To evaluate a product by testing it on representative users to identify usability problems and gather feedback.",
+        "C": "To gather quantitative data about user demographics.",
+        "D": "To finalize the visual design of the product."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Usability testing is crucial for uncovering actual user pain points and validating design decisions by observing real users interacting with the product."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "What is a 'Customer Journey Map' used for in UX design?",
+      "options": {
+        "A": "To map out the technical architecture of a system.",
+        "B": "To visually represent the entire experience a user has with a product or service, from initial contact to long-term relationship.",
+        "C": "To track the delivery route of physical products.",
+        "D": "To define the project's financial budget."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Journey maps help designers understand the user's emotional state, pain points, and opportunities for improvement at each stage of their interaction."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Which fidelity level of design focuses on structure, layout, and information hierarchy, often using simple shapes and placeholders?",
+      "options": {
+        "A": "High-fidelity design",
+        "B": "Pixel-perfect design",
+        "C": "Low-fidelity wireframes",
+        "D": "Final UI design"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Low-fidelity wireframes are quick and inexpensive to create, focusing on functionality and content placement without getting bogged down in visual details."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "What is a 'card sorting' exercise primarily used for in user research?",
+      "options": {
+        "A": "To test the visual appeal of different UI elements.",
+        "B": "To understand how users categorize and organize information, helping to structure navigation and content (Information Architecture).",
+        "C": "To evaluate the performance of a prototype.",
+        "D": "To determine the best color palette for a design."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Card sorting helps designers create intuitive navigation and content structures by observing how users group and label information."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "When conducting remote usability testing, what is a common tool or method used to observe user interactions?",
+      "options": {
+        "A": "Physical eye-tracking devices",
+        "B": "Screen sharing and recording tools (e.g., Zoom, Lookback)",
+        "C": "In-person interviews in a lab setting",
+        "D": "Paper prototypes"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Screen sharing and recording allow researchers to observe user behavior and hear their thoughts remotely, making testing more flexible and scalable."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "What is the primary purpose of 'A/B Testing' in the design process?",
+      "options": {
+        "A": "To gather qualitative feedback from a small group of users.",
+        "B": "To compare two versions of a design (A and B) to see which one performs better against specific metrics (e.g., conversion rate, click-through rate).",
+        "C": "To create a high-fidelity prototype.",
+        "D": "To brainstorm new design ideas."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A/B testing provides data-driven insights into which design choices are more effective in achieving business goals."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "After gathering user feedback, what is the crucial next step in the iterative design process?",
+      "options": {
+        "A": "Launch the product immediately.",
+        "B": "Ignore the feedback and stick to the original design.",
+        "C": "Analyze the feedback, synthesize findings, and iterate on the design to address identified issues.",
+        "D": "Start a new project from scratch."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Iteration is central to user-centered design, where feedback is used to continuously refine and improve the product."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "What does a 'User Story' typically describe in an Agile UX workflow?",
+      "options": {
+        "A": "A detailed technical specification document.",
+        "B": "A short, simple description of a feature told from the perspective of the user, focusing on their goal and benefit.",
+        "C": "A marketing campaign narrative.",
+        "D": "A legal disclaimer for user data."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "User stories (e.g., 'As a [user], I want to [action], so that [benefit]') help teams understand user needs and prioritize features."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Which type of prototype would be most suitable for early-stage conceptual testing with users, focusing on flow and functionality rather than visual details?",
+      "options": {
+        "A": "High-fidelity, interactive prototype",
+        "B": "Paper prototype or low-fidelity digital wireframe",
+        "C": "Fully coded and deployed application",
+        "D": "Marketing video of the product"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Low-fidelity prototypes are ideal for quick, inexpensive testing of core concepts and flows, allowing for rapid iteration without investing too much in visual polish."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "When presenting a high-fidelity prototype to stakeholders, what is the primary focus?",
+      "options": {
+        "A": "To gather initial broad ideas for the product.",
+        "B": "To showcase the near-final visual design, interactions, and user flow, demonstrating how the product will look and feel.",
+        "C": "To discuss backend server architecture.",
+        "D": "To conduct a competitive analysis."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "High-fidelity prototypes aim to be as close to the final product as possible, providing a realistic experience for stakeholders and users."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "What is 'Heuristic Evaluation' in the context of UX design?",
+      "options": {
+        "A": "A method for statistically analyzing user behavior data.",
+        "B": "An expert-based review method where evaluators assess an interface against a set of established usability principles (heuristics).",
+        "C": "A form of user interview where users describe their past experiences.",
+        "D": "A technique for generating random design ideas."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Heuristic evaluation is a cost-effective way to identify usability problems early in the design process by applying expert knowledge of usability principles."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Why is 'empathy' a critical skill for a UI/UX designer?",
+      "options": {
+        "A": "It helps in negotiating project budgets.",
+        "B": "It enables designers to understand and share the feelings, needs, and motivations of their users, leading to more user-centered designs.",
+        "C": "It is necessary for coding complex interactions.",
+        "D": "It helps in creating visually complex designs."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Empathy is at the core of user-centered design, allowing designers to step into the users' shoes and design solutions that truly meet their needs."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "When designing an onboarding flow, what is the primary goal?",
+      "options": {
+        "A": "To immediately ask for all user data.",
+        "B": "To quickly and effectively introduce new users to a product, helping them understand its value and how to get started.",
+        "C": "To showcase all advanced features upfront.",
+        "D": "To prevent users from exploring the product on their own."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A well-designed onboarding flow is crucial for user retention and ensuring users grasp the core functionality and benefits of a product."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "What is 'desirability testing' in UX research?",
+      "options": {
+        "A": "Testing how fast a product loads.",
+        "B": "Testing if users can complete tasks efficiently.",
+        "C": "Testing users' emotional reactions and perceptions of a design's aesthetics and brand attributes using adjectives and visual appeal.",
+        "D": "Testing the security features of a product."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Desirability testing goes beyond usability to understand how a design makes users feel and if it aligns with the desired brand image and emotional connection."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Which of these is a common method for synthesizing qualitative user research data?",
+      "options": {
+        "A": "Statistical regression analysis.",
+        "B": "Creating scatter plots.",
+        "C": "Affinity mapping (grouping similar insights and observations).",
+        "D": "Calculating mean and median values."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Affinity mapping helps organize large amounts of qualitative data into meaningful themes and patterns, leading to actionable insights."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is the primary purpose of the 'Inspect' panel in Figma, especially for developer handoff?",
+      "options": {
+        "A": "To allow designers to edit code directly.",
+        "B": "To provide developers with CSS, iOS, or Android code snippets and precise measurements for design elements.",
+        "C": "To review project budgets and timelines.",
+        "D": "To manage team members and permissions."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The Inspect panel is a critical tool for bridging the gap between design and development, ensuring accurate implementation of the UI."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "When exporting assets from Figma for development, which format is generally preferred for icons and scalable graphics?",
+      "options": {
+        "A": "JPG",
+        "B": "PNG",
+        "C": "SVG",
+        "D": "GIF"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "SVG (Scalable Vector Graphics) is ideal for icons and illustrations because it's resolution-independent, meaning it scales perfectly without pixelation, and is typically smaller in file size than raster images for simple graphics."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "What is the benefit of using 'Version History' in Figma?",
+      "options": {
+        "A": "It automatically backs up your entire computer.",
+        "B": "It allows designers to track changes, revert to previous versions of a file, and see who made what changes, providing a safety net and clear audit trail.",
+        "C": "It is used for managing component variants.",
+        "D": "It's a feature for exporting designs to different file types."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Version history is invaluable for collaboration and project management, enabling easy recovery from mistakes and understanding design evolution."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "How can you share a Figma design file with a developer for viewing and inspecting, but not editing?",
+      "options": {
+        "A": "Send them a screenshot of the design.",
+        "B": "Share the file with 'Can view' permissions.",
+        "C": "Export the entire file as a PDF.",
+        "D": "They must have full edit access to see the Inspect panel."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Figma's granular sharing permissions allow you to control who can view, comment, or edit a file, which is perfect for developer handoff."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "What is a 'Design System' and how does Figma facilitate its creation and maintenance?",
+      "options": {
+        "A": "A design system is a collection of random UI elements; Figma has no role in it.",
+        "B": "A design system is a comprehensive set of standards, components, and guidelines. Figma facilitates it through Components, Styles, and Team Libraries, ensuring consistency and scalability.",
+        "C": "A design system is a software for 3D modeling.",
+        "D": "A design system is only used for marketing materials."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Figma is a powerful tool for building and maintaining design systems, allowing teams to create a single source of truth for their UI components and styles."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Which Figma feature allows you to propose changes to a design file without directly altering the main version, providing a separate workspace for exploration?",
+      "options": {
+        "A": "Version History",
+        "B": "Pages",
+        "C": "Branching (in Figma Organization/Enterprise)",
+        "D": "Commenting"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Branching is an advanced feature that enables designers to work on experimental changes in isolation, similar to version control in software development, before merging them into the main file."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "When exporting a frame or selection, what does the '1x, 2x, 3x' option in the Export panel refer to?",
+      "options": {
+        "A": "The number of times the asset will be duplicated.",
+        "B": "Different resolutions or pixel densities for various screen types (e.g., standard, Retina displays).",
+        "C": "The compression level of the exported image.",
+        "D": "The number of colors used in the image."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Exporting at different scales (e.g., @1x, @2x, @3x) is essential for providing optimized assets for different device screen resolutions, ensuring sharpness and performance."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "What is the main advantage of using Figma's 'Developer Handoff' features compared to traditional methods (e.g., sending static image files)?",
+      "options": {
+        "A": "Developers get editable Figma files to change the design.",
+        "B": "It provides precise measurements, code snippets, and direct access to assets, reducing communication overhead and implementation errors.",
+        "C": "It eliminates the need for any developer input.",
+        "D": "It automatically writes all the application's code."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Figma's handoff tools streamline the process, ensuring developers have all the necessary information to accurately build the designed interface."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Which of the following is a common use case for a Figma plugin like 'Content Reel' or 'Unsplash'?",
+      "options": {
+        "A": "To create complex animations.",
+        "B": "To quickly populate designs with realistic text, avatars, or images, saving time on placeholder content.",
+        "C": "To conduct user interviews.",
+        "D": "To manage project deadlines."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Content generation plugins are highly useful for creating more realistic mockups and prototypes quickly without manually sourcing all content."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "In a team environment, if a designer makes changes to a Main Component in a Team Library, how do these changes get applied to other files using instances of that component?",
+      "options": {
+        "A": "Changes are applied automatically without any action.",
+        "B": "Users of other files will see a notification to 'Review updates' and can choose to 'Update all instances'.",
+        "C": "The other files must be manually updated by detaching and re-attaching the component.",
+        "D": "Changes only apply to the file where the Main Component resides."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "This 'publish and update' mechanism is central to maintaining a consistent design system across multiple projects and ensuring controlled propagation of changes."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "What is the significance of using the 'Show only resolved comments' filter in Figma?",
+      "options": {
+        "A": "It shows only comments that have been ignored.",
+        "B": "It helps designers focus on outstanding feedback by hiding comments that have already been addressed or acknowledged.",
+        "C": "It hides all comments from view.",
+        "D": "It highlights comments from specific team members."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Managing comments effectively is crucial for collaborative workflows, and filtering helps prioritize and track feedback efficiently."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "When collaborating on a large project, what is a key advantage of Figma's real-time collaboration feature?",
+      "options": {
+        "A": "It eliminates the need for any communication between team members.",
+        "B": "Multiple designers can work on the same file simultaneously, seeing each other's cursors and changes in real-time, reducing version control issues.",
+        "C": "It automatically assigns tasks to team members.",
+        "D": "It only allows one person to view the file at a time."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Real-time collaboration is one of Figma's strongest selling points, dramatically improving team efficiency and reducing workflow friction."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Which advanced Figma feature allows you to define different states for an object (e.g., an icon with 'filled' and 'outlined' versions) within a single component using a property that can be toggled?",
+      "options": {
+        "A": "Smart Animate",
+        "B": "Boolean Operations",
+        "C": "Boolean Properties (for variants)",
+        "D": "Text Styles"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Boolean properties on variants allow for creating simple ON/OFF states for elements within a component, such as showing/hiding an icon or changing its style, making components more flexible and powerful."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "For a developer to easily extract individual SVG icons from your Figma design, how should the icons ideally be set up in the Figma file?",
+      "options": {
+        "A": "As raster images (PNG/JPG).",
+        "B": "As separate, well-named vector layers or components, marked for export.",
+        "C": "Grouped together in one large image.",
+        "D": "Embedded within text layers."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Properly organized and named vector components or layers make it straightforward for developers to select and export individual assets in the desired format (SVG for icons)."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "What is a 'plugin API' in the context of Figma?",
+      "options": {
+        "A": "A tool for connecting Figma to social media.",
+        "B": "A programming interface that allows developers to create custom plugins that extend Figma's functionality.",
+        "C": "A database of all available Figma plugins.",
+        "D": "A system for managing user accounts in Figma."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Figma's robust plugin API enables a vast ecosystem of third-party tools and integrations, greatly expanding what designers can achieve within the platform."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "You need to present a prototype to a client and want to ensure they don't accidentally navigate out of the prototype or see the Figma UI. What is the best way to share the prototype link?",
+      "options": {
+        "A": "Share the regular Figma design file link.",
+        "B": "Share the prototype link with 'Show hotspot hints on click' disabled and potentially 'Show Figma UI' disabled (if available/desired).",
+        "C": "Export the prototype as a static image.",
+        "D": "Ask the client to download the Figma app."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sharing the dedicated prototype link in presentation mode provides a clean, focused experience for clients, allowing them to interact with the prototype without distractions."
+    }
+  ]
+}

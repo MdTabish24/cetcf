@@ -1,0 +1,1343 @@
+{
+  "course_name": "House Cook / Personal Chef",
+  "sector": "Child Care & Domestic Services",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Professional Cookery, Kitchen Safety & Personal Hygiene",
+      "question_range": "Q1-Q15"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Basic Culinary Skills, Knife Handling & Cooking Techniques",
+      "question_range": "Q16-Q35"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Meal Planning, Nutrition, Dietary Needs & Portion Control",
+      "question_range": "Q36-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Indian & Basic International Cuisines, Spicing & Plating",
+      "question_range": "Q51-Q65"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Kitchen Inventory Management, Costing, Grocery Shopping & Kitchen Layout",
+      "question_range": "Q66-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Professional Ethics, Client Communication & Private Chef Business Setup",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "question": "House Cook / Personal Chef ka primary role kya hota hai?",
+      "options": {
+        "A": "Hygienic, tasty aur client ki dietary requirements ke according balance meals prepare karna",
+        "B": "Only washing house floors and windows",
+        "C": "Prescribing clinical medicines to sick clients",
+        "D": "Repairing kitchen gas burners mechanically"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Personal chef ka mukhya kaam client ke taste, dietary restrictions aur health guidelines ke according safe aur delicious food banana hota hai."
+    },
+    {
+      "qno": 2,
+      "question": "Kitchen me cross-contamination (keetanuon ka aapas me phailna) prevent karne ke liye cutting boards usage rule kya hai?",
+      "options": {
+        "A": "Raw meat/poultry aur raw vegetables ke liye alag-alag color-coded cutting boards use karna",
+        "B": "Using single wooden board for cutting meat, fish and bread together without washing",
+        "C": "Cutting everything directly on metal kitchen sink surface",
+        "D": "No cutting board rules exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Raw meat me salmonella jaise bacteria hote hain jo bina pakaye khaye jane wale salad vegetables me transfer hokar food poisoning kar sakte hain."
+    },
+    {
+      "qno": 3,
+      "question": "Kitchen hygiene me hands wash karne ke liye standard recommended scrub duration kya hai?",
+      "options": {
+        "A": "At least 20 Seconds with soap and warm water",
+        "B": "Only 2 seconds with plain water splash",
+        "C": "Wiping hands on dirty kitchen towel directly",
+        "D": "Zero handwash is required"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "20 seconds tak soap ke sath lather rub karne se pathogenic bacteria aur skin oils effectively remove hote hain jo food contamination block karte hain."
+    },
+    {
+      "qno": 4,
+      "question": "Food safety laws me 'Danger Zone' (temperatures jahan bacteria tezi se multiply hote hain) kya range hoti hai?",
+      "options": {
+        "A": "40 F to 140 F (5 C to 60 C)",
+        "B": "Below freezing point always",
+        "C": "Above 212 F boiling temp",
+        "D": "No danger zone temperatures exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "5 C se 60 C ke beech bacteria double speed se grow karte hain, isliye cook food ko is range me 2 hour se zyada khula nahi rakhna chahiye."
+    },
+    {
+      "qno": 5,
+      "question": "Deep frying oil quality check me, agar oil se blue smoke aur unpleasant smell aane lage to kya indicate hota hai?",
+      "options": {
+        "A": "Oil has reached its smoke point and is breaking down toxic compounds (should be discarded)",
+        "B": "Oil is ready for high-flavor cooking",
+        "C": "Oil is cooling down automatically",
+        "D": "Zero quality change"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Smoke point par oil structural break-down triggers karta hai, releasing free radicals and bad bitter taste. Is oil ko re-use nahi karna chahiye."
+    },
+    {
+      "qno": 6,
+      "question": "French culinary knife skills me 'Julienne Cut' (tilli jaisa kaatna) ki standard dimensions kya hoti hain?",
+      "options": {
+        "A": "Matchstick shape (approx 2mm x 2mm x 4cm long)",
+        "B": "Large thick potato wedges shapes",
+        "C": "Fine round circular rings only",
+        "D": "Rough crushed vegetable parts"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Julienne cuts vegetables ko patle matchstick shapes me cut karte hain, jo decorative presentation aur fast salads stir frying me help karte hain."
+    },
+    {
+      "qno": 7,
+      "question": "Cooked food leftovers storage me refrigerator temp limits kya honi chahiye inside home kitchens?",
+      "options": {
+        "A": "40 F (4 C) or below",
+        "B": "70 F (21 C) room temp",
+        "C": "100 F (38 C) warm temp",
+        "D": "No temperature checks needed"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Refrigerator ko 4 C ya usse niche maintain karne se bacterial growth retard ho jati hai, raw and cooked leftovers ki shelf life secure rehti hai."
+    },
+    {
+      "qno": 8,
+      "question": "Dietary adjustments checks me Celiac disease se beemar client ke liye kis protein substance ko strictly avoid karna hoga?",
+      "options": {
+        "A": "Gluten (protein found in wheat, barley, rye)",
+        "B": "Lactose sugar in milk",
+        "C": "Fructose in fresh fruits",
+        "D": "Animal protein in eggs"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Celiac sufferers me gluten consumption intestinal walls ko damage karta hai, isliye unhe pure gluten-free grains (rice, corn, millet) substitute dene chahiye."
+    },
+    {
+      "qno": 9,
+      "question": "Cooking techniques checks me 'Poaching' kya hota hai?",
+      "options": {
+        "A": "Cooking food in gently simmering liquid just below boiling point (approx 70 C to 80 C)",
+        "B": "Deep frying food in boiling hot oil containers",
+        "C": "Roasting raw foods inside oven cavities",
+        "D": "Dry grilling on charcoal bars"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Poaching delicate foods (eg eggs, fish pieces) ko slow water currents me steam cook karta hai jisse unka shape and moisture text secure rehte hain."
+    },
+    {
+      "qno": 10,
+      "question": "Kitchen gas burners fires safety checks me grease fire (tel ki aag) ko bujhane ke liye kya immediate step safe hai?",
+      "options": {
+        "A": "Smother flame by putting metal lid or baking soda (never throw water on grease fire)",
+        "B": "Throw bucket of cold water directly on hot oil pan",
+        "C": "Fanning flames with dry towels to cool it",
+        "D": "Wait for fire to burn out itself"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Grease fire par pani dalne se steam explosion hota hai jo flaming oil droplets ko pure room me blast karta hai. Smothering method safe oxygen cutout deta hai."
+    },
+    {
+      "qno": 11,
+      "question": "Hypertension (high blood pressure) se beemar client ke meals me kya ingredient intake restrict kiya jata hai?",
+      "options": {
+        "A": "Sodium chloride (salt - namak)",
+        "B": "Olive oil volume",
+        "C": "Green leafy vegetables",
+        "D": "Water volume"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "High sodium blood vessel pressures badhata hai, isliye low salt herbs-and-spices alternatives serve kiye jate hain."
+    },
+    {
+      "qno": 12,
+      "question": "Green vegetables (eg broccoli, spinach) ka bright green color preserve karne ke liye blanching ke baad kya step important hai?",
+      "options": {
+        "A": "Shocking in ice-cold water immediately (stops cooking path and locks chlorophyll pigments)",
+        "B": "Sprinkling heavy sugar powder on hot stems",
+        "C": "Leaving them under hot stove heat for hours",
+        "D": "Zero post-blanch checks"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ice water shock residual heat cooking stops karta hai, locking textures and vibrant green color variables."
+    },
+    {
+      "qno": 13,
+      "question": "Kitchen knife maintenance checks 'Honing Steel' tool kis kaam aata hai?",
+      "options": {
+        "A": "Re-aligns microscopic edge margins of knife without removing metal particles",
+        "B": "Grinds metal to create new sharp angle",
+        "C": "Cleans rust stains from blade steel",
+        "D": "Zero tool functions"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Honing steel daily blade alignment check ke liye use hota hai jo edge rollover straightening karta hai, cutting accuracy maintain rakhta hai."
+    },
+    {
+      "qno": 14,
+      "question": "Vegetarian clients vegan meals preparations checks me 'Vegan diet' limits kya exclude karti hai?",
+      "options": {
+        "A": "All animal-derived products (meat, dairy, honey, eggs and butter)",
+        "B": "Only raw garlic and onions",
+        "C": "Cereals and legumes directly",
+        "D": "Zero exclusions limits"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Vegan lifestyle strictly plant-based sources select karta hai, animal products, dairy milk, honey ya ghee include nahi karta."
+    },
+    {
+      "qno": 15,
+      "question": "Kitchen inventory management 'FIFO' (First In, First Out) restocking rule why critical in pantry setups?",
+      "options": {
+        "A": "Ensures older grocery stock is consumed first before using fresh batch, minimizing food wastes",
+        "B": "Lowers buying prices from wholesalers",
+        "C": "FIFO is for tax documentation only",
+        "D": "Zero inventory control utility"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "FIFO ensures expired dates are avoided by rotating older purchases to front sections of shelves."
+    },
+    {
+      "qno": 16,
+      "question": "House Cook roles?",
+      "options": {
+        "A": "Hygienic, tasty aur client ki dietary requirements ke according balance meals prepare karna",
+        "B": "Only washing house floors and windows",
+        "C": "Prescribing clinical medicines to sick clients",
+        "D": "Repairing kitchen gas burners mechanically"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Personal chef ka mukhya kaam client ke taste, dietary restrictions aur health guidelines ke according safe aur delicious food banana hota hai."
+    },
+    {
+      "qno": 17,
+      "question": "Kitchen cross contamination cutting board?",
+      "options": {
+        "A": "Raw meat/poultry aur raw vegetables ke liye alag-alag color-coded cutting boards use karna",
+        "B": "Using single wooden board for cutting meat, fish and bread together without washing",
+        "C": "Cutting everything directly on metal kitchen sink surface",
+        "D": "No cutting board rules exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Raw meat me salmonella jaise bacteria hote hain jo bina pakaye khaye jane wale salad vegetables me transfer hokar food poisoning kar sakte hain."
+    },
+    {
+      "qno": 18,
+      "question": "Kitchen hand wash seconds?",
+      "options": {
+        "A": "At least 20 Seconds with soap and warm water",
+        "B": "Only 2 seconds with plain water splash",
+        "C": "Wiping hands on dirty kitchen towel directly",
+        "D": "Zero handwash is required"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "20 seconds tak soap ke sath lather rub karne se pathogenic bacteria aur skin oils effectively remove hote hain jo food contamination block karte hain."
+    },
+    {
+      "qno": 19,
+      "question": "Food safety Danger Zone range?",
+      "options": {
+        "A": "40 F to 140 F (5 C to 60 C)",
+        "B": "Below freezing point always",
+        "C": "Above 212 F boiling temp",
+        "D": "No danger zone temperatures exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "5 C se 60 C ke beech bacteria double speed se grow karte hain, isliye cook food ko is range me 2 hour se zyada khula nahi rakhna chahiye."
+    },
+    {
+      "qno": 20,
+      "question": "Deep frying smoke point blue?",
+      "options": {
+        "A": "Oil has reached its smoke point and is breaking down toxic compounds (should be discarded)",
+        "B": "Oil is ready for high-flavor cooking",
+        "C": "Oil is cooling down automatically",
+        "D": "Zero quality change"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Smoke point par oil structural break-down triggers karta hai, releasing free radicals and bad bitter taste. Is oil ko re-use nahi karna chahiye."
+    },
+    {
+      "qno": 21,
+      "question": "French culinary Julienne Cut dimensions?",
+      "options": {
+        "A": "Matchstick shape (approx 2mm x 2mm x 4cm long)",
+        "B": "Large thick potato wedges shapes",
+        "C": "Fine round circular rings only",
+        "D": "Rough crushed vegetable parts"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Julienne cuts vegetables ko patle matchstick shapes me cut karte hain, jo decorative presentation aur fast salads stir frying me help karte hain."
+    },
+    {
+      "qno": 22,
+      "question": "Leftovers storage refrigerator temp?",
+      "options": {
+        "A": "40 F (4 C) or below",
+        "B": "70 F (21 C) room temp",
+        "C": "100 F (38 C) warm temp",
+        "D": "No temperature checks needed"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Refrigerator ko 4 C ya usse niche maintain karne se bacterial growth retard ho jati hai, raw and cooked leftovers ki shelf life secure rehti hai."
+    },
+    {
+      "qno": 23,
+      "question": "Celiac disease gluten proteins?",
+      "options": {
+        "A": "Gluten (protein found in wheat, barley, rye)",
+        "B": "Lactose sugar in milk",
+        "C": "Fructose in fresh fruits",
+        "D": "Animal protein in eggs"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Celiac sufferers me gluten consumption intestinal walls ko damage karta hai, isliye unhe pure gluten-free grains (rice, corn, millet) substitute dene chahiye."
+    },
+    {
+      "qno": 24,
+      "question": "Cooking techniques Poaching method?",
+      "options": {
+        "A": "Cooking food in gently simmering liquid just below boiling point (approx 70 C to 80 C)",
+        "B": "Deep frying food in boiling hot oil containers",
+        "C": "Roasting raw foods inside oven cavities",
+        "D": "Dry grilling on charcoal bars"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Poaching delicate foods (eg eggs, fish pieces) ko slow water currents me steam cook karta hai jisse unka shape and moisture text secure rehte hain."
+    },
+    {
+      "qno": 25,
+      "question": "Grease fire smother lid?",
+      "options": {
+        "A": "Smother flame by putting metal lid or baking soda (never throw water on grease fire)",
+        "B": "Throw bucket of cold water directly on hot oil pan",
+        "C": "Fanning flames with dry towels to cool it",
+        "D": "Wait for fire to burn out itself"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Grease fire par pani dalne se steam explosion hota hai jo flaming oil droplets ko pure room me blast karta hai. Smothering method safe oxygen cutout deta hai."
+    },
+    {
+      "qno": 26,
+      "question": "Hypertension sodium restrict salt?",
+      "options": {
+        "A": "Sodium chloride (salt - namak)",
+        "B": "Olive oil volume",
+        "C": "Green leafy vegetables",
+        "D": "Water volume"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "High sodium blood vessel pressures badhata hai, isliye low salt herbs-and-spices alternatives serve kiye jate hain."
+    },
+    {
+      "qno": 27,
+      "question": "Green vegetables blanching ice water?",
+      "options": {
+        "A": "Shocking in ice-cold water immediately (stops cooking path and locks chlorophyll pigments)",
+        "B": "Sprinkling heavy sugar powder on hot stems",
+        "C": "Leaving them under hot stove heat for hours",
+        "D": "Zero post-blanch checks"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ice water shock residual heat cooking stops karta hai, locking textures and vibrant green color variables."
+    },
+    {
+      "qno": 28,
+      "question": "Knife honing steel align?",
+      "options": {
+        "A": "Re-aligns microscopic edge margins of knife without removing metal particles",
+        "B": "Grinds metal to create new sharp angle",
+        "C": "Cleans rust stains from blade steel",
+        "D": "Zero tool functions"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Honing steel daily blade alignment check ke liye use hota hai jo edge rollover straightening karta hai, cutting accuracy maintain rakhta hai."
+    },
+    {
+      "qno": 29,
+      "question": "Vegan diet animal derived?",
+      "options": {
+        "A": "All animal-derived products (meat, dairy, honey, eggs and butter)",
+        "B": "Only raw garlic and onions",
+        "C": "Cereals and legumes directly",
+        "D": "Zero exclusions limits"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Vegan lifestyle strictly plant-based sources select karta hai, animal products, dairy milk, honey ya ghee include nahi karta."
+    },
+    {
+      "qno": 30,
+      "question": "Kitchen inventory FIFO shelf rotation?",
+      "options": {
+        "A": "Ensures older grocery stock is consumed first before using fresh batch, minimizing food wastes",
+        "B": "Lowers buying prices from wholesalers",
+        "C": "FIFO is for tax documentation only",
+        "D": "Zero inventory control utility"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "FIFO ensures expired dates are avoided by rotating older purchases to front sections of shelves."
+    },
+    {
+      "qno": 31,
+      "question": "Food safety checks 'Meat Thawing' (baraf pighlana) safest method to thaw frozen meat?",
+      "options": {
+        "A": "Thawing inside refrigerator (slow safe cooling) or under cold running tap water (avoiding hot counter table thaws)",
+        "B": "Leaving frozen raw meat on counter top overnight at room temp",
+        "C": "Bathing meat inside hot water tubs",
+        "D": "No thaw controls required"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Leaving frozen meat at room temp exposes outer surfaces to Danger Zone temperatures while centers are still frozen, multiplying bacteria."
+    },
+    {
+      "qno": 32,
+      "question": "Baking chemical leaveners 'Baking Powder vs Baking Soda' how they differ physically?",
+      "options": {
+        "A": "Baking soda requires acidic ingredient (lemon/buttermilk) to activate, while baking powder contains dry acid agent built-in",
+        "B": "Baking powder is used only for frying vegetables",
+        "C": "Both require sugar crystals to release gas bubbles",
+        "D": "They are identical chemical structures"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Soda is pure sodium bicarbonate; powder has acid salts mixed in, reacting twice (wetting and baking heat)."
+    },
+    {
+      "qno": 33,
+      "question": "Liquid measurement conversions checks typical fluid ounces contained in a standard metric cup?",
+      "options": {
+        "A": "8 Fluid Ounces (approx 240-250 ml)",
+        "B": "100 Fluid Ounces",
+        "C": "2 Fluid Ounces only",
+        "D": "Zero conversion bounds"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Standard recipe cup measures contain 8 fluid ounces, essential conversion check during scale modifications."
+    },
+    {
+      "qno": 34,
+      "question": "French culinary Mother Sauce 'Béchamel sauce' key thickness raw ingredients?",
+      "options": {
+        "A": "White Roux (flour + butter cooked paste) mixed with warm milk",
+        "B": "Tomato purees cooked with meat broth",
+        "C": "Egg yolk emulsified with clarified butter",
+        "D": "Corn starch paste mixed with water"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Béchamel is classic milk sauce thickened with white roux, forming base for macaroni bakes."
+    },
+    {
+      "qno": 35,
+      "question": "Kitchen safety procedures 'Broken glass inside soapy sink' how to clean safely?",
+      "options": {
+        "A": "Drain sink water completely, use tongs or thick safety gloves (never submerge hands to feel for glass under water)",
+        "B": "Reach out directly by fingers to scoop shards",
+        "C": "Wipe sink base with dry hand towels",
+        "D": "Leave glass inside sink forever"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Hidden glass shards under soapy bubbles are severe cut hazards. Tongs/draining prevent skin injury spikes."
+    },
+    {
+      "qno": 36,
+      "question": "Meat Thawing refrigerator?",
+      "options": {
+        "A": "Thawing inside refrigerator (slow safe cooling) or under cold running tap water (avoiding hot counter table thaws)",
+        "B": "Leaving frozen raw meat on counter top overnight at room temp",
+        "C": "Bathing meat inside hot water tubs",
+        "D": "No thaw controls required"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Leaving frozen meat at room temp exposes outer surfaces to Danger Zone temperatures while centers are still frozen, multiplying bacteria."
+    },
+    {
+      "qno": 37,
+      "question": "Baking powder soda?",
+      "options": {
+        "A": "Baking soda requires acidic ingredient (lemon/buttermilk) to activate, while baking powder contains dry acid agent built-in",
+        "B": "Baking powder is used only for frying vegetables",
+        "C": "Both require sugar crystals to release gas bubbles",
+        "D": "They are identical chemical structures"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Soda is pure sodium bicarbonate; powder has acid salts mixed in, reacting twice (wetting and baking heat)."
+    },
+    {
+      "qno": 38,
+      "question": "Metric cup fluid ounces?",
+      "options": {
+        "A": "8 Fluid Ounces (approx 240-250 ml)",
+        "B": "100 Fluid Ounces",
+        "C": "2 Fluid Ounces only",
+        "D": "Zero conversion bounds"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Standard recipe cup measures contain 8 fluid ounces, essential conversion check during scale modifications."
+    },
+    {
+      "qno": 39,
+      "question": "Béchamel sauce ingredients?",
+      "options": {
+        "A": "White Roux (flour + butter cooked paste) mixed with warm milk",
+        "B": "Tomato purees cooked with meat broth",
+        "C": "Egg yolk emulsified with clarified butter",
+        "D": "Corn starch paste mixed with water"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Béchamel is classic milk sauce thickened with white roux, forming base for macaroni bakes."
+    },
+    {
+      "qno": 40,
+      "question": "Kitchen safety broken glass?",
+      "options": {
+        "A": "Drain sink water completely, use tongs or thick safety gloves (never submerge hands to feel for glass under water)",
+        "B": "Reach out directly by fingers to scoop shards",
+        "C": "Wipe sink base with dry hand towels",
+        "D": "Leave glass inside sink forever"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Hidden glass shards under soapy bubbles are severe cut hazards. Tongs/draining prevent skin injury spikes."
+    },
+    {
+      "qno": 41,
+      "question": "Cooking techniques 'Braising' (dam dena) why preferred for tough meat cuts?",
+      "options": {
+        "A": "Combines dry searing with slow moist liquid simmering over hours, breaking down tough collagen fibers into soft gelatin",
+        "B": "Braisings are fast microwave cooking modes",
+        "C": "Braising is cooking only with ice blocks",
+        "D": "No textural benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Braising tenderizes fibrous meats via low-temperature moisture cycles, extracting deep broth flavors."
+    },
+    {
+      "qno": 42,
+      "question": "Food storage checks 'Ethylene Gas release' why bananas/apples are stored away from leafy greens?",
+      "options": {
+        "A": "They release ethylene gas which accelerates ripening and spoiling of adjacent vegetables/greens",
+        "B": "Gases cause mold spore growth directly",
+        "C": "Fruits absorb green colors",
+        "D": "No gaseous interactions exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ethylene is natural ripening hormone. Storing high emitters near greens triggers premature wilting and decay."
+    },
+    {
+      "qno": 43,
+      "question": "Knife safety procedures 'Walking with knife' how to carry blade inside busy kitchens?",
+      "options": {
+        "A": "Hold knife point down, blade edge facing backward, close to your leg side (alerting 'knife behind' when walking)",
+        "B": "Hold blade pointing forward horizontally",
+        "C": "Waving knife high to show path clearance",
+        "D": "Walk with knife inside pocket"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pointing tips down reduces accidental puncture risks if collisions occur in busy kitchen pathways."
+    },
+    {
+      "qno": 44,
+      "question": "Dietary constraints 'Lactose Intolerance' checks which foods are substituted?",
+      "options": {
+        "A": "Substitute dairy milk with plant milk (almond, soy, oat milk) and ghee with vegetable oils",
+        "B": "Substitute wheat flour with barley",
+        "C": "Remove leafy vegetables completely",
+        "D": "Zero food modifications"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Lactose intolerance stems from lack of lactase digestive enzyme. Plant-based milk avoids gas distress."
+    },
+    {
+      "qno": 45,
+      "question": "Personal Chef business operations 'Menu Approval Sheet' why signed before grocery purchases?",
+      "options": {
+        "A": "Locks client ingredient preferences, validates service quotes, and prevents food waste disputes",
+        "B": "Required by regional tax office auditors",
+        "C": "Links directly with AdSense settings",
+        "D": "Zero administrative value"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Approved menus clarify client expectations, protecting chef from unexpected grocery complaints."
+    },
+    {
+      "qno": 46,
+      "question": "Cooking techniques Braising tough?",
+      "options": {
+        "A": "Combines dry searing with slow moist liquid simmering over hours, breaking down tough collagen fibers into soft gelatin",
+        "B": "Braisings are fast microwave cooking modes",
+        "C": "Braising is cooking only with ice blocks",
+        "D": "No textural benefits exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Braising tenderizes fibrous meats via low-temperature moisture cycles, extracting deep broth flavors."
+    },
+    {
+      "qno": 47,
+      "question": "Food storage ethylene gas?",
+      "options": {
+        "A": "They release ethylene gas which accelerates ripening and spoiling of adjacent vegetables/greens",
+        "B": "Gases cause mold spore growth directly",
+        "C": "Fruits absorb green colors",
+        "D": "No gaseous interactions exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Ethylene is natural ripening hormone. Storing high emitters near greens triggers premature wilting and decay."
+    },
+    {
+      "qno": 48,
+      "question": "Knife safety walking busy?",
+      "options": {
+        "A": "Hold knife point down, blade edge facing backward, close to your leg side (alerting 'knife behind' when walking)",
+        "B": "Hold blade pointing forward horizontally",
+        "C": "Waving knife high to show path clearance",
+        "D": "Walk with knife inside pocket"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Pointing tips down reduces accidental puncture risks if collisions occur in busy kitchen pathways."
+    },
+    {
+      "qno": 49,
+      "question": "Dietary constraints lactose substitutes?",
+      "options": {
+        "A": "Substitute dairy milk with plant milk (almond, soy, oat milk) and ghee with vegetable oils",
+        "B": "Substitute wheat flour with barley",
+        "C": "Remove leafy vegetables completely",
+        "D": "Zero food modifications"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Lactose intolerance stems from lack of lactase digestive enzyme. Plant-based milk avoids gas distress."
+    },
+    {
+      "qno": 50,
+      "question": "Personal Chef menu approvals?",
+      "options": {
+        "A": "Locks client ingredient preferences, validates service quotes, and prevents food waste disputes",
+        "B": "Required by regional tax office auditors",
+        "C": "Links directly with AdSense settings",
+        "D": "Zero administrative value"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Approved menus clarify client expectations, protecting chef from unexpected grocery complaints."
+    },
+    {
+      "qno": 51,
+      "question": "Food storage checks 'Deep freezer guidelines' standard temperature setting to freeze food safely?",
+      "options": {
+        "A": "0 F (-18 C) or below (stops bacterial growth completely)",
+        "B": "32 F (0 C) ice temperature only",
+        "C": "40 F (4 C) refrigerator temp",
+        "D": "No freezing temperatures exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "0 F freezes cell structures, suspending active microbial replication loops and conserving food nutrients."
+    },
+    {
+      "qno": 52,
+      "question": "Culinary emulsion secrets 'Mayonnaise split prevention' how to stabilize oil yolk mix?",
+      "options": {
+        "A": "Add oil in a slow drop-by-drop stream while whisking rapidly into egg yolk base containing acid",
+        "B": "Boil the egg yolks and oil together",
+        "C": "Add heavy corn starch thickener directly",
+        "D": "Dono ingredients mix easily without whisking"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Emulsions suspend micro oil droplets within water-egg barriers. Draining oil too fast separates phases (splitting)."
+    },
+    {
+      "qno": 53,
+      "question": "Kitchen safety audits 'Dry flour fire' why throwing flour on active fires is forbidden?",
+      "options": {
+        "A": "Dry flour dust is highly explosive in air, creating severe dust explosion plumes",
+        "B": "Flour ruins oven burners mechanisms",
+        "C": "Flour triggers toxic carbon gases",
+        "D": "No safety restrictions apply"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Aerosolized starch dust burns instantly, generating rapid air expansions (dust explosion hazards)."
+    },
+    {
+      "qno": 54,
+      "question": "Spicing chemistry 'Salt timing in roasting beans' why salt is added late during bean boiling?",
+      "options": {
+        "A": "Early salting hardens outer bean skins, increasing boiling time requirements",
+        "B": "Salting makes beans disintegrate immediately",
+        "C": "Salt evaporates if boiled too long",
+        "D": "Zero spicing rules apply"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Salt ions bind outer hemicellulose shells, hardening skins. Salting late ensures creamy bean centers."
+    },
+    {
+      "qno": 55,
+      "question": "Client hygiene updates 'Washing raw mushrooms' what is recommended cataloging rule?",
+      "options": {
+        "A": "Wipe with damp paper towel or brush dry (avoid soaking mushrooms in water as they absorb water like sponge)",
+        "B": "Soak mushrooms in salt water tubs for hours",
+        "C": "Peel outer skin layer completely",
+        "D": "No cleaning needed"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mushrooms are spongy fungi. Soaking dilutes flavor profile and makes them soggy during stir frying."
+    },
+    {
+      "qno": 56,
+      "question": "Food storage deep freezing?",
+      "options": {
+        "A": "0 F (-18 C) or below (stops bacterial growth completely)",
+        "B": "32 F (0 C) ice temperature only",
+        "C": "40 F (4 C) refrigerator temp",
+        "D": "No freezing temperatures exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "0 F freezes cell structures, suspending active microbial replication loops and conserving food nutrients."
+    },
+    {
+      "qno": 57,
+      "question": "Culinary emulsion mayonnaise whisk?",
+      "options": {
+        "A": "Add oil in a slow drop-by-drop stream while whisking rapidly into egg yolk base containing acid",
+        "B": "Boil the egg yolks and oil together",
+        "C": "Add heavy corn starch thickener directly",
+        "D": "Dono ingredients mix easily without whisking"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Emulsions suspend micro oil droplets within water-egg barriers. Draining oil too fast separates phases (splitting)."
+    },
+    {
+      "qno": 58,
+      "question": "Kitchen safety flour dust?",
+      "options": {
+        "A": "Dry flour dust is highly explosive in air, creating severe dust explosion plumes",
+        "B": "Flour ruins oven burners mechanisms",
+        "C": "Flour triggers toxic carbon gases",
+        "D": "No safety restrictions apply"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Aerosolized starch dust burns instantly, generating rapid air expansions (dust explosion hazards)."
+    },
+    {
+      "qno": 59,
+      "question": "Spicing chemistry salt timing?",
+      "options": {
+        "A": "Early salting hardens outer bean skins, increasing boiling time requirements",
+        "B": "Salting makes beans disintegrate immediately",
+        "C": "Salt evaporates if boiled too long",
+        "D": "Zero spicing rules apply"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Salt ions bind outer hemicellulose shells, hardening skins. Salting late ensures creamy bean centers."
+    },
+    {
+      "qno": 60,
+      "question": "Client hygiene mushrooms wipe?",
+      "options": {
+        "A": "Wipe with damp paper towel or brush dry (avoid soaking mushrooms in water as they absorb water like sponge)",
+        "B": "Soak mushrooms in salt water tubs for hours",
+        "C": "Peel outer skin layer completely",
+        "D": "No cleaning needed"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Mushrooms are spongy fungi. Soaking dilutes flavor profile and makes them soggy during stir frying."
+    },
+    {
+      "qno": 61,
+      "question": "Vegetable preparation 'Potato browning prevention' how to keep raw cut potatoes from turning brown?",
+      "options": {
+        "A": "Submerge cut potatoes in cold water (blocks oxygen contact preventing enzymatic oxidation)",
+        "B": "Expose potatoes to warm oven air",
+        "C": "Coat potatoes with dry flour dust",
+        "D": "Zero browning prevention exists"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Oxygen reacts with potato polyphenol oxidase enzymes, turning cuts black. Water immersion halts oxidation."
+    },
+    {
+      "qno": 62,
+      "question": "Kitchen tool maintenance 'Wooden cutting board oiling' what oil type is food-safe?",
+      "options": {
+        "A": "Food-grade mineral oil (does not turn rancid over time)",
+        "B": "Raw vegetable canola oil",
+        "C": "Scented hair coconut oil",
+        "D": "Heavy engine grease oil"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Plant oils degrade and oxidize, smelling rancid. Food-grade mineral oils seal wood safely without breakdown smells."
+    },
+    {
+      "qno": 63,
+      "question": "Culinary thickness agents 'Slurry vs Roux' how to mix a cornstarch slurry safely?",
+      "options": {
+        "A": "Whisk cornstarch with cold liquid before pouring into boiling soup (prevents flour clumping)",
+        "B": "Throw dry starch powder directly into hot boiling broth",
+        "C": "Boil starch in pan before adding water",
+        "D": "Zero thickening control"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Dry starch hits hot liquids and gels instantly on outside, trapping raw pockets inside lumps. Cold hydration avoids clumps."
+    },
+    {
+      "qno": 64,
+      "question": "Meat cooking markers 'Poultry internal temp safety checks' what is safe internal cook temp for chicken?",
+      "options": {
+        "A": "165 F (74 C) measured with meat thermometer in thickest part",
+        "B": "100 F warm temperature only",
+        "C": "212 F boiling limits",
+        "D": "Zero temperature limits"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Salmonella pathogens require 165 F heat to die instantly, safeguarding chicken dishes from food illness risks."
+    },
+    {
+      "qno": 65,
+      "question": "Chef bookkeeping sheets 'Yield percentage calculations' why essential for recipe costing?",
+      "options": {
+        "A": "Calculates usable weight of raw ingredients after trim wastes (eg peeling carrots) to find true recipe cost",
+        "B": "Measures total volume of boiling pan",
+        "C": "Calculates daily tax rates",
+        "D": "Zero financial utility"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Paying raw weight but trimming peels yields lower edible volumes, recipe costings must reflect usable net weights."
+    },
+    {
+      "qno": 66,
+      "question": "Potato browning prevention water?",
+      "options": {
+        "A": "Submerge cut potatoes in cold water (blocks oxygen contact preventing enzymatic oxidation)",
+        "B": "Expose potatoes to warm oven air",
+        "C": "Coat potatoes with dry flour dust",
+        "D": "Zero browning prevention exists"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Oxygen reacts with potato polyphenol oxidase enzymes, turning cuts black. Water immersion halts oxidation."
+    },
+    {
+      "qno": 67,
+      "question": "Wooden board oiling mineral?",
+      "options": {
+        "A": "Food-grade mineral oil (does not turn rancid over time)",
+        "B": "Raw vegetable canola oil",
+        "C": "Scented hair coconut oil",
+        "D": "Heavy engine grease oil"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Plant oils degrade and oxidize, smelling rancid. Food-grade mineral oils seal wood safely without breakdown smells."
+    },
+    {
+      "qno": 68,
+      "question": "Slurry cornstarch cold mix?",
+      "options": {
+        "A": "Whisk cornstarch with cold liquid before pouring into boiling soup (prevents flour clumping)",
+        "B": "Throw dry starch powder directly into hot boiling broth",
+        "C": "Boil starch in pan before adding water",
+        "D": "Zero thickening control"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Dry starch hits hot liquids and gels instantly on outside, trapping raw pockets inside lumps. Cold hydration avoids clumps."
+    },
+    {
+      "qno": 69,
+      "question": "Chicken internal temp 165?",
+      "options": {
+        "A": "165 F (74 C) measured with meat thermometer in thickest part",
+        "B": "100 F warm temperature only",
+        "C": "212 F boiling limits",
+        "D": "Zero temperature limits"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Salmonella pathogens require 165 F heat to die instantly, safeguarding chicken dishes from food illness risks."
+    },
+    {
+      "qno": 70,
+      "question": "Chef yield calculations costing?",
+      "options": {
+        "A": "Calculates usable weight of raw ingredients after trim wastes (eg peeling carrots) to find true recipe cost",
+        "B": "Measures total volume of boiling pan",
+        "C": "Calculates daily tax rates",
+        "D": "Zero financial utility"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Paying raw weight but trimming peels yields lower edible volumes, recipe costings must reflect usable net weights."
+    },
+    {
+      "qno": 71,
+      "question": "Baking science 'Egg foam stabilization' what dry acid powder helps stabilize whipped egg whites?",
+      "options": {
+        "A": "Cream of Tartar (potassium bitartrate)",
+        "B": "Baking soda powder",
+        "C": "Salt crystals",
+        "D": "Corn starch dust"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Acids lower egg protein pH levels, preventing proteins from bonding too tightly and collapsing whipped air cells."
+    },
+    {
+      "qno": 72,
+      "question": "Food storage checks 'Opened canned goods' why leftovers must be transferred out of metal cans?",
+      "options": {
+        "A": "Oxygen inside open can triggers acidic metal corrosion reactions, tasting metallic and leaking iron/tin into food",
+        "B": "Metal cans explode inside refrigerators",
+        "C": "Cans increase cooling times",
+        "D": "No transfer necessary"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Transferring food to plastic/glass containers secures chemical safety and preserves taste after can openings."
+    },
+    {
+      "qno": 73,
+      "question": "Kitchen safety audits 'Dull blades danger' why dull knives are more dangerous than sharp knives?",
+      "options": {
+        "A": "Dull blade slips off round surfaces (eg onion skins) easily under force, cutting user hands",
+        "B": "Dull knives damage wooden board margins",
+        "C": "Dull blades split food molecules badly",
+        "D": "No safety differences exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sharp knives slice cleanly under light gravity weight. Dull knives require heavy pushes, slipping and wounding fingers."
+    },
+    {
+      "qno": 74,
+      "question": "Dairy physics 'Preventing milk skin formation' how to prevent skin on boiling milk pots?",
+      "options": {
+        "A": "Stir frequently, cover pot, or spray micro foam bubbles (blocks protein evaporation drying)",
+        "B": "Boil at maximum high temperatures",
+        "C": "Add vinegar directly before boiling",
+        "D": "Zero prevention options"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Evaporation dries casein proteins on milk surface, forming skin locks. Agitation prevents surface drying."
+    },
+    {
+      "qno": 75,
+      "question": "Chef operations setups 'Weekly Meal Prep logistics' what packaging method extends meal fresh states?",
+      "options": {
+        "A": "Vacuum sealing containers/pouches (removes oxygen pathways to delay microbial decay)",
+        "B": "Wrapping items in newspapers sheets",
+        "C": "Leaving bowls open inside pantry spaces",
+        "D": "No packaging impacts freshness"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Oxygen starvation locks color, hydration, and nutritional value, extending leftovers' fridge lifetimes."
+    },
+    {
+      "qno": 76,
+      "question": "Baking egg foam cream tartar?",
+      "options": {
+        "A": "Cream of Tartar (potassium bitartrate)",
+        "B": "Baking soda powder",
+        "C": "Salt crystals",
+        "D": "Corn starch dust"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Acids lower egg protein pH levels, preventing proteins from bonding too tightly and collapsing whipped air cells."
+    },
+    {
+      "qno": 77,
+      "question": "Food storage opened cans?",
+      "options": {
+        "A": "Oxygen inside open can triggers acidic metal corrosion reactions, tasting metallic and leaking iron/tin into food",
+        "B": "Metal cans explode inside refrigerators",
+        "C": "Cans increase cooling times",
+        "D": "No transfer necessary"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Transferring food to plastic/glass containers secures chemical safety and preserves taste after can openings."
+    },
+    {
+      "qno": 78,
+      "question": "Kitchen safety dull blades?",
+      "options": {
+        "A": "Dull blade slips off round surfaces (eg onion skins) easily under force, cutting user hands",
+        "B": "Dull knives damage wooden board margins",
+        "C": "Dull blades split food molecules badly",
+        "D": "No safety differences exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Sharp knives slice cleanly under light gravity weight. Dull knives require heavy pushes, slipping and wounding fingers."
+    },
+    {
+      "qno": 79,
+      "question": "Dairy physics milk skin?",
+      "options": {
+        "A": "Stir frequently, cover pot, or spray micro foam bubbles (blocks protein evaporation drying)",
+        "B": "Boil at maximum high temperatures",
+        "C": "Add vinegar directly before boiling",
+        "D": "Zero prevention options"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Evaporation dries casein proteins on milk surface, forming skin locks. Agitation prevents surface drying."
+    },
+    {
+      "qno": 80,
+      "question": "Chef operations vacuum sealing?",
+      "options": {
+        "A": "Vacuum sealing containers/pouches (removes oxygen pathways to delay microbial decay)",
+        "B": "Wrapping items in newspapers sheets",
+        "C": "Leaving bowls open inside pantry spaces",
+        "D": "No packaging impacts freshness"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Oxygen starvation locks color, hydration, and nutritional value, extending leftovers' fridge lifetimes."
+    },
+    {
+      "qno": 81,
+      "question": "Deep frying safety 'Dry food checks' why wet foods are dried before oil immersion?",
+      "options": {
+        "A": "Water drops trigger instant boiling vapor explosions in hot oil, throwing dangerous oil splashes",
+        "B": "Water drops lower oil smoke points",
+        "C": "Water makes food salty",
+        "D": "Zero safety checks apply"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Liquid flashes to steam under hot fry oils, expanding 1600 times and projecting boiling grease plumes."
+    },
+    {
+      "qno": 82,
+      "question": "Baking science 'Gluten development in dough' what mechanical action strengthens gluten strands?",
+      "options": {
+        "A": "Kneading dough (stretches and aligns gliadin and glutenin protein chains)",
+        "B": "Baking at high heat immediately",
+        "C": "Adding dry sugar crystals",
+        "D": "Zero development action"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Kneading locks gas-holding protein matrices, yielding correct elastic bread textures."
+    },
+    {
+      "qno": 83,
+      "question": "Food safety checks 'Refrigerator loading rules' where raw meats are placed inside home fridge?",
+      "options": {
+        "A": "Bottom shelf (prevents raw blood drips from cross-contaminating other foods below)",
+        "B": "Top shelf adjacent to fresh fruits",
+        "C": "Door side trays directly",
+        "D": "No specific shelf rules exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Raw meat drips carry pathogens; bottom shelf loading protects ready-to-eat fresh items below."
+    },
+    {
+      "qno": 84,
+      "question": "Dairy emulsion checks 'Butter clarifying' what components are removed from butter to make Ghee?",
+      "options": {
+        "A": "Water content (evaporates) and milk solids protein (strained/skimmed off)",
+        "B": "Healthy fats layers only",
+        "C": "Salt crystals only",
+        "D": "Zero components removed"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Simmering butter evaporates water and toasts milk solids. Straining yields pure fat (Ghee) with high smoke points."
+    },
+    {
+      "qno": 85,
+      "question": "Chef service operations 'Liability insurance coverage' why commercial chef insurance is active?",
+      "options": {
+        "A": "Covers client claims of food poisoning, property fires, or kitchen water damage during home chef runs",
+        "B": "Insurance lowers local tax slabs",
+        "C": "Required by Google AdSense codes",
+        "D": "Zero business application"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Public liability insurance protects personal chefs from expensive legal damage claims during home client contracts."
+    },
+    {
+      "qno": 86,
+      "question": "Deep frying water dry?",
+      "options": {
+        "A": "Water drops trigger instant boiling vapor explosions in hot oil, throwing dangerous oil splashes",
+        "B": "Water drops lower oil smoke points",
+        "C": "Water makes food salty",
+        "D": "Zero safety checks apply"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Liquid flashes to steam under hot fry oils, expanding 1600 times and projecting boiling grease plumes."
+    },
+    {
+      "qno": 87,
+      "question": "Baking dough kneading gluten?",
+      "options": {
+        "A": "Kneading dough (stretches and aligns gliadin and glutenin protein chains)",
+        "B": "Baking at high heat immediately",
+        "C": "Adding dry sugar crystals",
+        "D": "Zero development action"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Kneading locks gas-holding protein matrices, yielding correct elastic bread textures."
+    },
+    {
+      "qno": 88,
+      "question": "Food safety raw meats bottom?",
+      "options": {
+        "A": "Bottom shelf (prevents raw blood drips from cross-contaminating other foods below)",
+        "B": "Top shelf adjacent to fresh fruits",
+        "C": "Door side trays directly",
+        "D": "No specific shelf rules exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Raw meat drips carry pathogens; bottom shelf loading protects ready-to-eat fresh items below."
+    },
+    {
+      "qno": 89,
+      "question": "Dairy butter clarifying ghee?",
+      "options": {
+        "A": "Water content (evaporates) and milk solids protein (strained/skimmed off)",
+        "B": "Healthy fats layers only",
+        "C": "Salt crystals only",
+        "D": "Zero components removed"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Simmering butter evaporates water and toasts milk solids. Straining yields pure fat (Ghee) with high smoke points."
+    },
+    {
+      "qno": 90,
+      "question": "Chef liability insurance food?",
+      "options": {
+        "A": "Covers client claims of food poisoning, property fires, or kitchen water damage during home chef runs",
+        "B": "Insurance lowers local tax slabs",
+        "C": "Required by Google AdSense codes",
+        "D": "Zero business application"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Public liability insurance protects personal chefs from expensive legal damage claims during home client contracts."
+    },
+    {
+      "qno": 91,
+      "question": "House Cook / Personal Chef final launch audits why kitchen hygiene clearance is key final step?",
+      "options": {
+        "A": "Ensures all safety, cross-contamination, and dietary standard checkmarks are operational, securing client health safety",
+        "B": "Video editing file sizes compression",
+        "C": "Subtitles translate tools automatic",
+        "D": "Zero utility coordinates check"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Running final hygiene checklists guarantees personal chef operations adhere to food safety standards, preventing contamination accidents."
+    },
+    {
+      "qno": 92,
+      "question": "Kitchen cutting board color codes purpose?",
+      "options": {
+        "A": "Raw meat/poultry aur raw vegetables ke liye alag-alag color-coded cutting boards use karna",
+        "B": "Using single wooden board for cutting meat, fish and bread together without washing",
+        "C": "Cutting everything directly on metal kitchen sink surface",
+        "D": "No cutting board rules exist"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Raw meat me salmonella jaise bacteria hote hain jo bina pakaye khaye jane wale salad vegetables me transfer hokar food poisoning kar sakte hain."
+    },
+    {
+      "qno": 93,
+      "question": "Kitchen hygiene hand washing scrub?",
+      "options": {
+        "A": "At least 20 Seconds with soap and warm water",
+        "B": "Only 2 seconds with plain water splash",
+        "C": "Wiping hands on dirty kitchen towel directly",
+        "D": "Zero handwash is required"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "20 seconds tak soap ke sath lather rub karne se pathogenic bacteria aur skin oils effectively remove hote hain jo food contamination block karte hain."
+    },
+    {
+      "qno": 94,
+      "question": "Danger Zone temperature limits bacteria?",
+      "options": {
+        "A": "40 F to 140 F (5 C to 60 C)",
+        "B": "Below freezing point always",
+        "C": "Above 212 F boiling temp",
+        "D": "No danger zone temperatures exist"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "5 C se 60 C ke beech bacteria double speed se grow karte hain, isliye cook food ko is range me 2 hour se zyada khula nahi rakhna chahiye."
+    },
+    {
+      "qno": 95,
+      "question": "Frying oil smoke point decomposition?",
+      "options": {
+        "A": "Oil has reached its smoke point and is breaking down toxic compounds (should be discarded)",
+        "B": "Oil is ready for high-flavor cooking",
+        "C": "Oil is cooling down automatically",
+        "D": "Zero quality change"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Smoke point par oil structural break-down triggers karta hai, releasing free radicals and bad bitter taste. Is oil ko re-use nahi karna chahiye."
+    },
+    {
+      "qno": 96,
+      "question": "Julienne Cut vegetable matchsticks?",
+      "options": {
+        "A": "Matchstick shape (approx 2mm x 2mm x 4cm long)",
+        "B": "Large thick potato wedges shapes",
+        "C": "Fine round circular rings only",
+        "D": "Rough crushed vegetable parts"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Julienne cuts vegetables ko patle matchstick shapes me cut karte hain, jo decorative presentation aur fast salads stir frying me help karte hain."
+    },
+    {
+      "qno": 97,
+      "question": "Refrigerator food temperature limits cooked?",
+      "options": {
+        "A": "40 F (4 C) or below",
+        "B": "70 F (21 C) room temp",
+        "C": "100 F (38 C) warm temp",
+        "D": "No temperature checks needed"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Refrigerator ko 4 C ya usse niche maintain karne se bacterial growth retard ho jati hai, raw and cooked leftovers ki shelf life secure rehti hai."
+    },
+    {
+      "qno": 98,
+      "question": "Celiac client gluten wheat exclusions?",
+      "options": {
+        "A": "Gluten (protein found in wheat, barley, rye)",
+        "B": "Lactose sugar in milk",
+        "C": "Fructose in fresh fruits",
+        "D": "Animal protein in eggs"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Celiac sufferers me gluten consumption intestinal walls ko damage karta hai, isliye unhe pure gluten-free grains (rice, corn, millet) substitute dene chahiye."
+    },
+    {
+      "qno": 99,
+      "question": "Poaching cooking liquid temperatures?",
+      "options": {
+        "A": "Cooking food in gently simmering liquid just below boiling point (approx 70 C to 80 C)",
+        "B": "Deep frying food in boiling hot oil containers",
+        "C": "Roasting raw foods inside oven cavities",
+        "D": "Dry grilling on charcoal bars"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Poaching delicate foods (eg eggs, fish pieces) ko slow water currents me steam cook karta hai jisse unka shape and moisture text secure rehte hain."
+    },
+    {
+      "qno": 100,
+      "question": "Grease fires smothering oxygen metal lid?",
+      "options": {
+        "A": "Smother flame by putting metal lid or baking soda (never throw water on grease fire)",
+        "B": "Throw bucket of cold water directly on hot oil pan",
+        "C": "Fanning flames with dry towels to cool it",
+        "D": "Wait for fire to burn out itself"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Grease fire par pani dalne se steam explosion hota hai jo flaming oil droplets ko pure room me blast karta hai. Smothering method safe oxygen cutout deta hai."
+    }
+  ]
+}

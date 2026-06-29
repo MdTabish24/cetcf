@@ -1,0 +1,1443 @@
+{
+  "course_name": "Network Administration & IT Support",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Intermediate",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Fundamentals of Networking & OSI Model",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "IP Addressing & Subnetting",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Network Devices & Topologies",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Network Services & Wireless Technologies",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Network Security & Troubleshooting",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "IT Support & Helpdesk Operations",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which of the following is a network that connects devices within a single building or a small geographical area?",
+      "options": {
+        "A": "WAN",
+        "B": "LAN",
+        "C": "MAN",
+        "D": "GAN"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A Local Area Network (LAN) connects devices in a limited geographical area, such as a home, office, or school."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "In the OSI model, which layer is responsible for logical addressing and routing?",
+      "options": {
+        "A": "Data Link Layer",
+        "B": "Transport Layer",
+        "C": "Network Layer",
+        "D": "Physical Layer"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Network Layer (Layer 3) is responsible for logical addressing (IP addresses) and determining the best path for data packets to travel across networks."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "What type of cable is primarily used for connecting computers to a switch or router in a typical office LAN?",
+      "options": {
+        "A": "Coaxial cable",
+        "B": "Fiber optic cable",
+        "C": "Ethernet cable (UTP/STP)",
+        "D": "Serial cable"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ethernet cables (Unshielded Twisted Pair - UTP or Shielded Twisted Pair - STP) are the most common type used for wired LAN connections."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Which protocol is responsible for reliable, ordered, and error-checked delivery of a stream of bytes between applications on hosts?",
+      "options": {
+        "A": "UDP",
+        "B": "IP",
+        "C": "TCP",
+        "D": "ICMP"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Transmission Control Protocol (TCP) provides reliable, connection-oriented communication, ensuring data delivery and error checking."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "What is the primary function of a MAC address?",
+      "options": {
+        "A": "To identify a network on the internet",
+        "B": "To uniquely identify a network interface card (NIC) at the Data Link Layer",
+        "C": "To provide a logical address for routing packets",
+        "D": "To encrypt data transmission"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A MAC (Media Access Control) address is a unique hardware identifier assigned to each network interface controller for communications within a network segment."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Which layer of the OSI model deals with the physical characteristics of the transmission medium and hardware specifications?",
+      "options": {
+        "A": "Data Link Layer",
+        "B": "Physical Layer",
+        "C": "Network Layer",
+        "D": "Transport Layer"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The Physical Layer (Layer 1) defines the electrical, mechanical, procedural, and functional specifications for activating, maintaining, and deactivating the physical link between end systems."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "What is the term for a network where all devices have equal capabilities and responsibilities, without a dedicated server?",
+      "options": {
+        "A": "Client-server network",
+        "B": "Peer-to-peer network",
+        "C": "Domain network",
+        "D": "Cloud network"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "In a peer-to-peer network, each computer can act as both a client and a server, sharing resources directly with others."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "When troubleshooting a network connectivity issue, which OSI layer should you typically start troubleshooting from?",
+      "options": {
+        "A": "Application Layer",
+        "B": "Network Layer",
+        "C": "Physical Layer",
+        "D": "Transport Layer"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "When troubleshooting, it's generally best practice to start from the Physical Layer (Layer 1) and work your way up. Ensure cables are connected, NICs are working, etc."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "What is the purpose of the default gateway in a TCP/IP network configuration?",
+      "options": {
+        "A": "To assign IP addresses to devices",
+        "B": "To resolve domain names to IP addresses",
+        "C": "To allow communication with devices outside the local network segment",
+        "D": "To filter incoming and outgoing network traffic"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The default gateway is the IP address of the router on the local network segment that devices use to send traffic to destinations outside their local network."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Which of the following is NOT a characteristic of UDP (User Datagram Protocol)?",
+      "options": {
+        "A": "Connectionless communication",
+        "B": "Faster transmission speed",
+        "C": "Guaranteed delivery of packets",
+        "D": "Lower overhead"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "UDP is a connectionless protocol that does not guarantee delivery, order, or error checking. It prioritizes speed over reliability."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What is the primary difference between a hub and a switch?",
+      "options": {
+        "A": "A hub operates at Layer 3, while a switch operates at Layer 2.",
+        "B": "A hub creates separate collision domains for each port, while a switch does not.",
+        "C": "A switch sends data only to the destination device, while a hub broadcasts data to all devices.",
+        "D": "A switch is used for WAN connections, while a hub is used for LAN connections."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A switch learns MAC addresses and forwards frames only to the intended recipient, reducing network traffic. A hub is a simple device that broadcasts all incoming data to all connected ports."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Which of the following is the correct order of the TCP/IP model layers from top to bottom?",
+      "options": {
+        "A": "Application, Internet, Transport, Network Access",
+        "B": "Application, Transport, Internet, Network Access",
+        "C": "Application, Network Access, Internet, Transport",
+        "D": "Network Access, Internet, Transport, Application"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The TCP/IP model layers, from top to bottom, are Application, Transport, Internet, and Network Access (or Link) layer."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "A network administrator needs to implement a solution that provides high bandwidth and is immune to electromagnetic interference over long distances. Which type of cable should be chosen?",
+      "options": {
+        "A": "Coaxial cable",
+        "B": "Shielded Twisted Pair (STP)",
+        "C": "Unshielded Twisted Pair (UTP)",
+        "D": "Fiber optic cable"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Fiber optic cables use light pulses to transmit data, offering very high bandwidth, long-distance transmission, and complete immunity to electromagnetic interference."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "What is the primary purpose of the 'Presentation Layer' in the OSI model?",
+      "options": {
+        "A": "Establishing, managing, and terminating sessions",
+        "B": "Ensuring reliable data transfer between end systems",
+        "C": "Translating, encrypting, and compressing data",
+        "D": "Providing network services to end-user applications"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The Presentation Layer (Layer 6) is responsible for data translation, encryption/decryption, and compression/decompression, ensuring that data is in a format understandable by the Application Layer."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "A company is setting up a new office with several departments. Each department needs to have its own broadcast domain for security and performance reasons, but all devices must be able to communicate with each other through a central router. Which network concept would best achieve this?",
+      "options": {
+        "A": "Using multiple physical switches for each department",
+        "B": "Implementing a flat network with a single subnet",
+        "C": "Configuring Virtual Local Area Networks (VLANs)",
+        "D": "Deploying a peer-to-peer network"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "VLANs allow a single physical switch to be logically segmented into multiple broadcast domains. Each VLAN acts as a separate network, providing isolation and improved security/performance, while inter-VLAN routing enables communication between them via a router."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "An IT technician is diagnosing a network issue where a user can ping devices within their local subnet but cannot access external websites. Which OSI layer is the most likely culprit, assuming the physical connection is verified?",
+      "options": {
+        "A": "Data Link Layer",
+        "B": "Transport Layer",
+        "C": "Network Layer",
+        "D": "Application Layer"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Being able to ping local devices indicates that the Physical and Data Link layers are likely functional. Inability to reach external websites, while local access works, points to an issue with routing, which is handled at the Network Layer (e.g., incorrect default gateway, router configuration issues, or firewall blocking)."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Which of the following scenarios would necessitate the use of a crossover Ethernet cable instead of a straight-through cable?",
+      "options": {
+        "A": "Connecting a computer to a switch",
+        "B": "Connecting a router to a switch",
+        "C": "Connecting two computers directly without a switch",
+        "D": "Connecting a server to a hub"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A crossover cable is used to connect two devices of the same type (e.g., PC to PC, switch to switch, router to router) directly. Straight-through cables are used for connecting devices of different types (e.g., PC to switch, router to switch). Modern devices often have Auto-MDI/MDIX, negating the need for crossover cables, but the fundamental principle remains."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Which of the following is a valid private IPv4 address range?",
+      "options": {
+        "A": "172.16.0.0 - 172.31.255.255",
+        "B": "192.168.0.0 - 192.168.255.255",
+        "C": "10.0.0.0 - 10.255.255.255",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The private IPv4 address ranges are: Class A: 10.0.0.0 - 10.255.255.255; Class B: 172.16.0.0 - 172.31.255.255; Class C: 192.168.0.0 - 192.168.255.255."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "What is the purpose of a subnet mask?",
+      "options": {
+        "A": "To identify the MAC address of a device",
+        "B": "To separate the network portion from the host portion of an IP address",
+        "C": "To assign a default gateway to a network",
+        "D": "To encrypt IP traffic"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A subnet mask is used to determine which part of an IP address identifies the network and which part identifies the host within that network."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Which protocol automatically assigns IP addresses to devices on a network?",
+      "options": {
+        "A": "DNS",
+        "B": "HTTP",
+        "C": "DHCP",
+        "D": "FTP"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Dynamic Host Configuration Protocol (DHCP) automates the process of assigning IP addresses and other network configuration parameters to devices."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "What is the loopback IPv4 address commonly used for testing the local TCP/IP stack?",
+      "options": {
+        "A": "0.0.0.0",
+        "B": "127.0.0.1",
+        "C": "255.255.255.255",
+        "D": "169.254.0.1"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "127.0.0.1 is the standard loopback address, used to test the network configuration on the local machine without sending data over the network."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "How many bits are in an IPv4 address?",
+      "options": {
+        "A": "16 bits",
+        "B": "32 bits",
+        "C": "64 bits",
+        "D": "128 bits"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "An IPv4 address is 32 bits long, typically represented in dotted-decimal notation (e.g., 192.168.1.1)."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Which IP address class is designed for large networks with many hosts, using a default subnet mask of 255.0.0.0?",
+      "options": {
+        "A": "Class A",
+        "B": "Class B",
+        "C": "Class C",
+        "D": "Class D"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Class A networks are for very large organizations, supporting millions of hosts per network with a default subnet mask of 255.0.0.0."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Which of the following best describes APIPA (Automatic Private IP Addressing)?",
+      "options": {
+        "A": "A mechanism for manually assigning static IP addresses.",
+        "B": "A method for obtaining public IP addresses from an ISP.",
+        "C": "A feature that automatically assigns an IP address in the 169.254.0.0/16 range when a DHCP server is unavailable.",
+        "D": "A protocol for resolving domain names to IP addresses."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "APIPA is a feature in Windows that assigns an IP address from the 169.254.0.0/16 range to a client when it cannot obtain an IP address from a DHCP server."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Given an IP address 192.168.10.50 and a subnet mask 255.255.255.0, what is the network address?",
+      "options": {
+        "A": "192.168.10.0",
+        "B": "192.168.10.255",
+        "C": "192.168.0.0",
+        "D": "192.168.10.50"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "With a /24 (255.255.255.0) subnet mask, the first three octets represent the network portion. Thus, the network address is 192.168.10.0."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "What is the CIDR notation for a subnet mask of 255.255.255.224?",
+      "options": {
+        "A": "/25",
+        "B": "/26",
+        "C": "/27",
+        "D": "/28"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The subnet mask 255.255.255.224 has 27 bits set to 1 (8+8+8+3 = 27). Therefore, its CIDR notation is /27."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "An IT administrator needs to create 8 subnets from the network 192.168.1.0/24. What is the smallest subnet mask that can achieve this?",
+      "options": {
+        "A": "255.255.255.224",
+        "B": "255.255.255.240",
+        "C": "255.255.255.192",
+        "D": "255.255.255.248"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "To get 8 subnets, you need 3 subnet bits (2^3 = 8). Starting from a /24, adding 3 bits makes it a /27. A /27 subnet mask is 255.255.255.224."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "How many usable host IP addresses are available in a /28 subnet?",
+      "options": {
+        "A": "14",
+        "B": "16",
+        "C": "30",
+        "D": "32"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "A /28 subnet has 4 host bits (32 - 28 = 4). The total number of addresses is 2^4 = 16. Subtracting the network and broadcast addresses leaves 16 - 2 = 14 usable host addresses."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Which component is NOT typically provided by a DHCP server to a client?",
+      "options": {
+        "A": "IP Address",
+        "B": "Subnet Mask",
+        "C": "MAC Address",
+        "D": "Default Gateway"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A DHCP server provides the client with an IP address, subnet mask, default gateway, and DNS server addresses. The MAC address is a hardware address inherent to the network interface card and is not assigned by DHCP."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "What is a significant advantage of IPv6 over IPv4?",
+      "options": {
+        "A": "Smaller header size for faster processing",
+        "B": "Built-in security features (IPsec) are mandatory",
+        "C": "Simplified addressing scheme with fewer octets",
+        "D": "Reduced need for DHCP servers"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IPsec (IP Security) is an integral part of IPv6, making security features mandatory, whereas it's optional in IPv4. IPv6 has a larger address space, more complex header, and still uses DHCPv6 (or SLAAC) for address assignment."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Which of the following is a valid IPv6 address?",
+      "options": {
+        "A": "2001:0db8:85a3::8a2e:0370:7334",
+        "B": "192.168.1.1.1",
+        "C": "2001:db8::1::1",
+        "D": "FE80::FFFF:FFFF:FFFF"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "IPv6 addresses use hexadecimal digits and colons. The '::' can only be used once to represent consecutive blocks of zeros. Option C uses '::' twice, and Option B is an invalid IPv4 format. Option D is a link-local address, but the specific format is incorrect for a common valid representation like A."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "A network administrator is configuring a new subnet for 50 hosts. Which of the following CIDR notations would be the most efficient choice, minimizing wasted IP addresses?",
+      "options": {
+        "A": "/24",
+        "B": "/25",
+        "C": "/26",
+        "D": "/27"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A /24 provides 254 usable hosts (too many). A /25 provides 126 usable hosts (more than needed). A /26 provides 62 usable hosts (2^6 - 2 = 62), which is enough for 50 hosts and minimizes waste. A /27 provides 30 usable hosts (2^5 - 2 = 30), which is not enough for 50 hosts."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "What is the broadcast address for the subnet 172.16.10.32/27?",
+      "options": {
+        "A": "172.16.10.31",
+        "B": "172.16.10.63",
+        "C": "172.16.10.64",
+        "D": "172.16.10.255"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A /27 subnet means 3 bits are borrowed from the last octet, leaving 5 host bits. This results in blocks of 32 (2^5 = 32). The subnets would be .0, .32, .64, etc. For the .32 subnet, the network address is 172.16.10.32. The next network address is 172.16.10.64. The broadcast address for 172.16.10.32/27 is one less than the next network address, which is 172.16.10.63."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "A network engineer is configuring a router with multiple interfaces, each connecting to a different subnet. This process of dividing a single network into smaller, more manageable segments is known as:",
+      "options": {
+        "A": "NAT",
+        "B": "Routing",
+        "C": "Subnetting",
+        "D": "VLAN tagging"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Subnetting is the process of dividing a single large network into smaller, interconnected sub-networks. This improves network efficiency, security, and manageability."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Which network device operates at Layer 2 (Data Link Layer) of the OSI model and uses MAC addresses to forward frames?",
+      "options": {
+        "A": "Router",
+        "B": "Hub",
+        "C": "Switch",
+        "D": "Modem"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A switch is a Layer 2 device that learns MAC addresses of connected devices and forwards frames only to the port where the destination MAC address is located."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "What is the primary function of a router?",
+      "options": {
+        "A": "To amplify network signals",
+        "B": "To connect different networks and forward packets between them",
+        "C": "To connect multiple devices within the same network segment",
+        "D": "To provide wireless connectivity to devices"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A router operates at Layer 3 (Network Layer) and is responsible for connecting different IP networks and forwarding data packets between them based on IP addresses."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "In which network topology is every device connected to a central hub or switch?",
+      "options": {
+        "A": "Bus topology",
+        "B": "Ring topology",
+        "C": "Star topology",
+        "D": "Mesh topology"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In a star topology, all devices are connected to a central device (hub, switch, or router). This is common in modern LANs."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "What is a significant drawback of a bus topology?",
+      "options": {
+        "A": "High cabling cost",
+        "B": "Single point of failure (central device)",
+        "C": "Difficult to add new devices",
+        "D": "Failure of the main cable brings down the entire network"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "In a bus topology, all devices share a single backbone cable. If this cable fails or is damaged, the entire network goes down."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Which of the following devices is used to modulate and demodulate signals for internet access over a telephone line or cable line?",
+      "options": {
+        "A": "Switch",
+        "B": "Router",
+        "C": "Modem",
+        "D": "Access Point"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A modem (modulator-demodulator) converts digital signals from a computer into analog signals for transmission over an analog line (like telephone or cable) and vice-versa."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "A firewall primarily operates by:",
+      "options": {
+        "A": "Encrypting all network traffic",
+        "B": "Filtering incoming and outgoing network traffic based on predefined rules",
+        "C": "Amplifying network signals to extend range",
+        "D": "Assigning IP addresses to devices"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on an enforced set of security rules."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "What is the purpose of an Access Point (AP) in a wireless network?",
+      "options": {
+        "A": "To route traffic between different IP networks",
+        "B": "To connect wired devices to a network",
+        "C": "To allow wireless devices to connect to a wired network",
+        "D": "To assign IP addresses to wireless clients"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "An Access Point (AP) creates a Wireless Local Area Network (WLAN), allowing wireless devices to connect to a wired network."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Which network topology provides the highest level of redundancy but is also the most expensive to implement?",
+      "options": {
+        "A": "Star",
+        "B": "Bus",
+        "C": "Ring",
+        "D": "Full Mesh"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "In a full mesh topology, every device is connected to every other device, providing maximum redundancy. However, the cabling and configuration complexity make it the most expensive."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "A network administrator wants to segment a single physical switch into multiple logical broadcast domains to improve security and manageability. What technology should they use?",
+      "options": {
+        "A": "Subnetting",
+        "B": "NAT",
+        "C": "VLANs",
+        "D": "Port Forwarding"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Virtual Local Area Networks (VLANs) allow a single physical switch to be logically divided into multiple broadcast domains, isolating traffic between different departments or groups."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "What is the primary difference between a Layer 2 switch and a Layer 3 switch?",
+      "options": {
+        "A": "Layer 3 switches only support fiber optic connections.",
+        "B": "Layer 3 switches can perform routing functions in addition to switching.",
+        "C": "Layer 2 switches are more expensive than Layer 3 switches.",
+        "D": "Layer 2 switches use IP addresses, while Layer 3 switches use MAC addresses."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Layer 3 switch combines the functionality of a switch (Layer 2) with some routing capabilities (Layer 3), allowing it to forward packets between different VLANs or subnets without needing a separate router."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Which of the following describes a 'collision domain'?",
+      "options": {
+        "A": "A network segment where only one device can transmit at a time without causing a collision.",
+        "B": "A logical grouping of devices that can communicate directly.",
+        "C": "The area covered by a wireless access point.",
+        "D": "A set of IP addresses assigned by a DHCP server."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "A collision domain is a segment of a network where data packets can collide with one another. Devices in a collision domain compete for the same shared network bandwidth. Hubs create one large collision domain, while switches create separate collision domains for each port."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "What is the primary purpose of a 'bridge' in a network?",
+      "options": {
+        "A": "To connect different physical networks and forward traffic based on MAC addresses.",
+        "B": "To route traffic between different IP subnets.",
+        "C": "To extend the range of a wireless signal.",
+        "D": "To provide a secure tunnel for remote access."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "A bridge operates at the Data Link Layer (Layer 2) and connects two or more network segments, forwarding traffic between them based on MAC addresses, effectively creating a single logical network from multiple physical ones."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "An organization has multiple buildings, each with its own LAN. To connect these LANs together to form a larger network, what type of network device is primarily used?",
+      "options": {
+        "A": "Hubs",
+        "B": "Switches",
+        "C": "Routers",
+        "D": "Repeaters"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Routers are essential for connecting different LANs (which are separate IP networks or subnets) to form a larger internetwork or WAN, by forwarding packets between them."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "A network technician needs to connect two switches together to expand a network, ensuring that VLAN information is preserved across the link. What type of port configuration is required on the connecting ports of both switches?",
+      "options": {
+        "A": "Access port",
+        "B": "Trunk port",
+        "C": "SPAN port",
+        "D": "EtherChannel port"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A trunk port is configured on a switch to carry traffic for multiple VLANs over a single link between switches or between a switch and a router, using tagging protocols like 802.1Q to identify VLANs."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "In a scenario where a company wants to provide network redundancy by having multiple paths between switches, but avoid network loops, which protocol should be enabled?",
+      "options": {
+        "A": "STP (Spanning Tree Protocol)",
+        "B": "ARP (Address Resolution Protocol)",
+        "C": "OSPF (Open Shortest Path First)",
+        "D": "BGP (Border Gateway Protocol)"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Spanning Tree Protocol (STP) is a Layer 2 protocol designed to prevent network loops in switched Ethernet networks by blocking redundant paths, while still allowing for redundancy in case of a link failure."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "An IT team is designing a highly available data center network where every server needs direct, high-speed connectivity to at least two different switches, and each switch needs multiple uplinks to core switches. This design principle is characteristic of which topology?",
+      "options": {
+        "A": "Hierarchical Star",
+        "B": "Partial Mesh",
+        "C": "Spine-Leaf",
+        "D": "Ring"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Spine-leaf architecture is a two-tier network topology used in data centers to create high-bandwidth, low-latency, and highly redundant networks. Leaf switches connect to servers and directly to all spine switches, providing multiple redundant paths."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "What is the key advantage of a hierarchical network design (e.g., Core-Distribution-Access layers) over a flat network design?",
+      "options": {
+        "A": "Lower initial cost for small networks.",
+        "B": "Simpler configuration and troubleshooting.",
+        "C": "Improved scalability, redundancy, and performance.",
+        "D": "Reduced need for routers."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A hierarchical design organizes the network into distinct layers (access, distribution, core), which provides better scalability, easier management, improved performance by limiting broadcast domains, and enhanced redundancy compared to a flat network."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which network service translates human-readable domain names (like www.example.com) into IP addresses?",
+      "options": {
+        "A": "DHCP",
+        "B": "DNS",
+        "C": "NAT",
+        "D": "FTP"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Domain Name System (DNS) is responsible for resolving domain names into IP addresses, making it easier for users to access websites and other network resources."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "What is the standard port number for HTTP (Hypertext Transfer Protocol)?",
+      "options": {
+        "A": "21",
+        "B": "23",
+        "C": "80",
+        "D": "443"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "HTTP typically uses port 80 for unencrypted web traffic. HTTPS uses port 443."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Which wireless encryption standard is considered the most secure for modern Wi-Fi networks?",
+      "options": {
+        "A": "WEP",
+        "B": "WPA",
+        "C": "WPA2",
+        "D": "WPS"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "WPA2 (Wi-Fi Protected Access II) is currently the most widely adopted and recommended security protocol for wireless networks, offering strong encryption."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "What does NAT (Network Address Translation) primarily achieve?",
+      "options": {
+        "A": "Encrypts data packets for secure transmission.",
+        "B": "Allows multiple devices on a private network to share a single public IP address.",
+        "C": "Assigns unique IP addresses to all devices on a network.",
+        "D": "Routes traffic between different VLANs."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "NAT allows multiple devices on a private network (using private IP addresses) to access the internet using a single public IP address, conserving public IP addresses."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Which protocol is used for securely accessing and managing remote servers via a command-line interface?",
+      "options": {
+        "A": "Telnet",
+        "B": "FTP",
+        "C": "SSH",
+        "D": "HTTP"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Secure Shell (SSH) provides a secure, encrypted connection for remote command-line access, file transfer, and other network services."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "What is a 'DHCP lease'?",
+      "options": {
+        "A": "A permanent IP address assignment.",
+        "B": "The period for which a DHCP server assigns an IP address to a client.",
+        "C": "The unique identifier of a DHCP server.",
+        "D": "A configuration file for DHCP settings."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A DHCP lease is the amount of time that a client is allowed to use a particular IP address assigned by the DHCP server. Clients typically renew their lease before it expires."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Which wireless standard operates in both the 2.4 GHz and 5 GHz frequency bands, supporting higher data rates than its predecessors?",
+      "options": {
+        "A": "802.11b",
+        "B": "802.11g",
+        "C": "802.11n",
+        "D": "802.11a"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "802.11n (Wi-Fi 4) was the first widespread standard to support both 2.4 GHz and 5 GHz bands and introduced MIMO (Multiple-Input Multiple-Output) for higher throughput."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "A user reports that they can access websites by their IP address but not by their domain name. What is the most likely network service experiencing issues?",
+      "options": {
+        "A": "DHCP",
+        "B": "NAT",
+        "C": "DNS",
+        "D": "Firewall"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "If IP address access works but domain name access fails, it strongly indicates a problem with DNS resolution, as DNS is responsible for translating domain names to IP addresses."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Which type of VPN (Virtual Private Network) typically creates a secure, encrypted tunnel between two networks (e.g., two office branches)?",
+      "options": {
+        "A": "Client-to-site VPN",
+        "B": "Site-to-site VPN",
+        "C": "Remote access VPN",
+        "D": "SSL VPN"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A site-to-site VPN connects entire networks together, allowing devices in one network to securely communicate with devices in another network as if they were on the same local network."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "An IT technician is configuring a router to allow specific incoming connections from the internet to a server on the internal network. What feature should be configured on the router?",
+      "options": {
+        "A": "DHCP relay",
+        "B": "DNS caching",
+        "C": "Port forwarding (or NAT Rule)",
+        "D": "UPnP"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Port forwarding (also known as destination NAT or inbound NAT) maps a specific port on the public IP address of the router to a specific internal IP address and port, allowing external access to internal services."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "What is the primary function of a 'PTR record' in DNS?",
+      "options": {
+        "A": "Maps a domain name to an IPv4 address.",
+        "B": "Maps a domain name to an IPv6 address.",
+        "C": "Maps an IP address to a domain name (reverse DNS lookup).",
+        "D": "Specifies mail exchange servers for a domain."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A PTR (Pointer) record is used for reverse DNS lookups, mapping an IP address back to its associated domain name, often used for email server verification and logging."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Which of the following describes the purpose of a 'captive portal' in a wireless network?",
+      "options": {
+        "A": "To block all internet access for security.",
+        "B": "To provide a web page that requires users to authenticate or agree to terms before gaining full network access.",
+        "C": "To automatically configure network settings for new devices.",
+        "D": "To prioritize specific types of network traffic."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A captive portal is a web page that the user of a public-access network is obliged to view and interact with before being granted access to the network resources. Common in hotels, airports, and coffee shops."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "A network administrator wants to ensure that a critical server always receives the same IP address from the DHCP server. What DHCP feature should be configured?",
+      "options": {
+        "A": "DHCP exclusion",
+        "B": "DHCP relay",
+        "C": "DHCP reservation",
+        "D": "DHCP snooping"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A DHCP reservation ensures that a specific device (identified by its MAC address) always receives the same IP address from the DHCP server, even if it's set to obtain an IP address automatically."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Which wireless technology allows devices to connect directly to each other without an access point, often used for ad-hoc connections?",
+      "options": {
+        "A": "Infrastructure mode",
+        "B": "Ad-hoc mode",
+        "C": "Mesh mode",
+        "D": "Repeater mode"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ad-hoc mode (also known as Independent Basic Service Set - IBSS) allows wireless devices to connect directly to each other without requiring a central access point. It's typically used for temporary, small-scale networks."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "A corporate user needs to access internal company resources securely from their home office over the public internet. Which technology is best suited for this purpose?",
+      "options": {
+        "A": "Proxy server",
+        "B": "Remote Desktop Protocol (RDP)",
+        "C": "Virtual Private Network (VPN)",
+        "D": "Port Address Translation (PAT)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A VPN creates a secure, encrypted tunnel over the public internet, allowing remote users to securely access private network resources as if they were physically connected to the corporate network. While RDP can access a specific machine, VPN provides full network access."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "An IT team is troubleshooting intermittent Wi-Fi connectivity issues in a crowded office building. They suspect interference from other wireless networks. Which tool or technique would be most useful for diagnosing this problem?",
+      "options": {
+        "A": "Ping and Tracert commands",
+        "B": "IPConfig /all output",
+        "C": "Wi-Fi analyzer software/hardware",
+        "D": "Checking the DHCP server logs"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A Wi-Fi analyzer tool can scan for wireless networks in the vicinity, identify their channels, signal strengths, and potential sources of interference, which is crucial for optimizing Wi-Fi performance in crowded environments."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "A network administrator is setting up a new web server that needs to be accessible from the internet. The server has a private IP address. To enable external access, a specific configuration on the edge router is required that maps the public IP and port to the private IP and port of the web server. What is this called?",
+      "options": {
+        "A": "Static IP assignment",
+        "B": "Dynamic Host Configuration Protocol (DHCP)",
+        "C": "Port Address Translation (PAT) / Port Forwarding",
+        "D": "Domain Name System (DNS) resolution"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Port Address Translation (PAT), often referred to as Port Forwarding or NAT Overload, allows multiple internal private IP addresses to share a single public IP address, differentiating traffic based on port numbers. For a specific server, it maps a public port to a private IP:port combination."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "What is the primary goal of Confidentiality in information security?",
+      "options": {
+        "A": "Ensuring data is accurate and complete.",
+        "B": "Ensuring data is accessible when needed.",
+        "C": "Preventing unauthorized disclosure of information.",
+        "D": "Verifying the identity of users."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Confidentiality, part of the CIA triad, aims to protect sensitive information from being accessed by unauthorized individuals."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Which common network command is used to test connectivity to another host by sending ICMP echo requests?",
+      "options": {
+        "A": "ipconfig",
+        "B": "tracert",
+        "C": "ping",
+        "D": "netstat"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'ping' command sends ICMP (Internet Control Message Protocol) echo request packets to a target host and listens for echo reply packets, indicating basic connectivity."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "What type of malware disguises itself as legitimate software but performs malicious activities once executed?",
+      "options": {
+        "A": "Virus",
+        "B": "Worm",
+        "C": "Trojan horse",
+        "D": "Spyware"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A Trojan horse is a type of malware that appears to be a legitimate program but, when activated, performs malicious actions."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Which utility displays the current TCP/IP network configuration for a Windows machine, including IP address, subnet mask, and default gateway?",
+      "options": {
+        "A": "ifconfig",
+        "B": "ipconfig",
+        "C": "netstat",
+        "D": "route print"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'ipconfig' command (on Windows) is used to display and manage the IP configuration of network adapters."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "What is the primary purpose of a 'patch' in software security?",
+      "options": {
+        "A": "To add new features to a program.",
+        "B": "To fix bugs and security vulnerabilities.",
+        "C": "To change the user interface.",
+        "D": "To increase program performance."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A patch is a software update released to fix specific bugs, especially security vulnerabilities, in an application or operating system."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Which command-line utility is used to display active network connections, routing tables, and network interface statistics?",
+      "options": {
+        "A": "ping",
+        "B": "tracert",
+        "C": "netstat",
+        "D": "nslookup"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'netstat' command provides information about network connections, routing tables, and interface statistics on a system."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "A user reports slow network performance. After checking their local network settings (IP, DNS), you suspect the issue might be further out on the network path. Which command would help identify where the delay is occurring?",
+      "options": {
+        "A": "ipconfig /renew",
+        "B": "tracert",
+        "C": "arp -a",
+        "D": "net user"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'tracert' (Windows) or 'traceroute' (Linux/macOS) command maps the path an IP packet takes to its destination, showing each hop and the time taken, which helps pinpoint where delays occur."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "What is a 'phishing' attack?",
+      "options": {
+        "A": "An attack that floods a network with traffic to make it unavailable.",
+        "B": "An attempt to trick individuals into revealing sensitive information by masquerading as a trustworthy entity.",
+        "C": "A program that replicates itself and spreads to other computers.",
+        "D": "An attack that encrypts a victim's files and demands a ransom."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Phishing is a social engineering technique where attackers send fraudulent messages (often emails) to deceive recipients into revealing personal information, such as passwords or credit card numbers."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "When troubleshooting a 'No Internet Access' issue on a Windows client, after verifying the physical connection, what is the next logical step to check using command-line tools?",
+      "options": {
+        "A": "Check the default gateway using 'ipconfig'.",
+        "B": "Run 'chkdsk' to check for disk errors.",
+        "C": "Install a new network driver.",
+        "D": "Change the computer's hostname."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "After verifying physical connectivity, confirming the client has a valid IP address, subnet mask, and a reachable default gateway using 'ipconfig' is crucial. If the gateway isn't set or reachable, the client can't access external networks."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "What is the purpose of 'MAC address filtering' on a wireless access point?",
+      "options": {
+        "A": "To block specific websites.",
+        "B": "To allow only devices with specific MAC addresses to connect to the network.",
+        "C": "To assign static IP addresses to devices.",
+        "D": "To encrypt wireless traffic."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "MAC address filtering is a security feature that allows an access point to accept connections only from devices whose MAC addresses are on a predefined whitelist, offering a basic layer of access control."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "A user reports that they cannot access a shared folder on a file server, but they can ping the server's IP address. What is the MOST likely cause of the problem?",
+      "options": {
+        "A": "Physical cable disconnected.",
+        "B": "Incorrect IP address on the client.",
+        "C": "Firewall blocking the file sharing ports on the server or client.",
+        "D": "DHCP server is down."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Being able to ping the server indicates Layer 1-3 connectivity. If a specific service (like file sharing) is inaccessible, it often points to a firewall blocking the necessary ports (e.g., SMB ports 139, 445) or incorrect sharing permissions."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "What is the primary function of a 'Security Information and Event Management (SIEM)' system?",
+      "options": {
+        "A": "To automatically block all malicious traffic.",
+        "B": "To collect, analyze, and correlate security logs and events from various sources.",
+        "C": "To provide antivirus protection for endpoints.",
+        "D": "To manage user identities and access permissions."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A SIEM system centralizes the collection of security data from network devices, servers, and applications, then analyzes it for potential security incidents, compliance reporting, and threat detection."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "An IT administrator notices a significant increase in network traffic originating from an unknown source, overwhelming a critical server and making it inaccessible. This is characteristic of what type of attack?",
+      "options": {
+        "A": "Phishing attack",
+        "B": "Man-in-the-Middle attack",
+        "C": "Denial-of-Service (DoS) attack",
+        "D": "SQL Injection attack"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A Denial-of-Service (DoS) attack aims to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet. A Distributed DoS (DDoS) uses multiple compromised systems."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "A network technician is setting up a new network. After connecting all devices, they find that some devices are receiving IP addresses in the 169.254.x.x range. What is the MOST likely cause?",
+      "options": {
+        "A": "The network cable is faulty.",
+        "B": "The DHCP server is unavailable or misconfigured.",
+        "C": "The DNS server is not responding.",
+        "D": "There is a broadcast storm on the network."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "IP addresses in the 169.254.x.x range are APIPA (Automatic Private IP Addressing) addresses. A device assigns itself an APIPA address when it is configured to obtain an IP address automatically (via DHCP) but cannot find a DHCP server or receive a response from one."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "An internal penetration test reveals that sensitive data can be intercepted by an attacker positioned on the same local network segment. Which security measure, if properly implemented, would have best mitigated this risk?",
+      "options": {
+        "A": "Strong passwords for Wi-Fi.",
+        "B": "End-to-end encryption for sensitive communications.",
+        "C": "Regular software updates.",
+        "D": "Physical security for network devices."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Even if an attacker gains access to the local network segment (e.g., through a compromised device or by being on the same Wi-Fi), end-to-end encryption (like HTTPS, SSH, or application-layer encryption) ensures that the intercepted data remains unreadable and unintelligible to them."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "A network administrator needs to diagnose an intermittent packet loss issue that occurs only during peak network usage. Which advanced troubleshooting tool would provide detailed insights into packet flow, latency, and drops at different points in the network?",
+      "options": {
+        "A": "Wireshark (packet analyzer)",
+        "B": "Basic 'ping' command",
+        "C": "Task Manager network tab",
+        "D": "Restarting the router"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Wireshark is a powerful network protocol analyzer that allows capturing and inspecting individual packets. It can provide deep insights into packet loss, latency, retransmissions, and protocol errors, which are essential for diagnosing complex intermittent network issues."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is the first step in the general troubleshooting methodology for an IT support technician?",
+      "options": {
+        "A": "Implement a solution.",
+        "B": "Test the theory to determine cause.",
+        "C": "Identify the problem.",
+        "D": "Document the findings."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The first step in troubleshooting is always to clearly identify the problem by gathering information from the user and observing the symptoms."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "A user reports that their printer is not printing. What is the most basic initial check an IT support technician should perform?",
+      "options": {
+        "A": "Reinstall the printer driver.",
+        "B": "Check if the printer is powered on and connected.",
+        "C": "Reboot the computer.",
+        "D": "Clear the print queue."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Always start with the simplest checks. Ensure the printer is powered on, has paper, and is properly connected to the computer or network."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Which of the following is a key soft skill for an IT helpdesk professional?",
+      "options": {
+        "A": "Advanced programming knowledge.",
+        "B": "Customer service and communication skills.",
+        "C": "Expert database administration.",
+        "D": "Network penetration testing."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Excellent customer service and communication skills are crucial for helpdesk professionals to understand user issues, explain solutions clearly, and manage expectations."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "When a user calls with an issue, what is the best practice for an IT support technician to do after gathering initial information?",
+      "options": {
+        "A": "Immediately transfer the call to a senior technician.",
+        "B": "Ask the user to restart their computer multiple times.",
+        "C": "Confirm understanding of the problem and set expectations.",
+        "D": "Start troubleshooting without asking further questions."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Confirming understanding ensures both the technician and user are on the same page. Setting expectations (e.g., 'I will try X, Y, Z steps, and it might take Z minutes') helps manage the user's experience."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "What is the purpose of a 'knowledge base' in an IT support environment?",
+      "options": {
+        "A": "To store user login credentials.",
+        "B": "To provide a repository of solutions, FAQs, and procedures for common issues.",
+        "C": "To track network inventory.",
+        "D": "To manage employee performance reviews."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A knowledge base is a centralized repository of information, including troubleshooting guides, FAQs, and solutions, used by both support staff and end-users to find answers and resolve issues."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "A user reports that their monitor is not displaying anything, but the computer tower appears to be on. What is the first thing to check?",
+      "options": {
+        "A": "Replace the graphics card.",
+        "B": "Check the monitor's power and video cables.",
+        "C": "Run a full system diagnostic.",
+        "D": "Reinstall the operating system."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Always start with the most basic and common potential issues. Ensure the monitor is powered on, and the video cable (HDMI, DisplayPort, DVI, VGA) is securely connected at both ends."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Which of the following is an example of a 'troubleshooting step' that involves isolating the problem?",
+      "options": {
+        "A": "Asking the user to describe the problem.",
+        "B": "Testing if the problem occurs on a different computer.",
+        "C": "Documenting the solution.",
+        "D": "Escalating the issue to a higher tier."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Testing if the problem occurs on a different computer, network port, or with different peripherals helps isolate whether the issue is with the specific user's hardware/software or a broader network/system problem."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "When troubleshooting a persistent software application crash, what is a crucial initial step to take before attempting more complex solutions?",
+      "options": {
+        "A": "Reinstall the operating system.",
+        "B": "Check for available updates for the application and the operating system.",
+        "C": "Replace the computer's hard drive.",
+        "D": "Modify the application's registry entries directly."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Software crashes are often caused by known bugs that have been fixed in later updates. Checking for and applying updates for both the application and the OS is a quick and effective first step."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "A user reports that their mouse cursor is erratic and sometimes unresponsive. What is a common and easy troubleshooting step for this issue?",
+      "options": {
+        "A": "Replace the mouse's internal circuit board.",
+        "B": "Clean the mouse's optical sensor or ball, or check/replace batteries for wireless mice.",
+        "C": "Update the computer's BIOS firmware.",
+        "D": "Perform a factory reset of the operating system."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dust or debris on the optical sensor (for optical mice) or a low battery (for wireless mice) are very common causes of erratic mouse behavior. Cleaning or replacing batteries are simple first steps."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "What is the primary benefit of using remote desktop software (e.g., RDP, TeamViewer, AnyDesk) in IT support?",
+      "options": {
+        "A": "It permanently fixes all software issues.",
+        "B": "It allows a technician to control a user's computer from a different location to diagnose and resolve issues.",
+        "C": "It automatically backs up user data to the cloud.",
+        "D": "It encrypts all network traffic on the user's machine."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Remote desktop software enables IT technicians to remotely access and control a user's computer, allowing them to troubleshoot, install software, or configure settings without needing to be physically present."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "When configuring a new user account on a Windows domain, which of the following is a security best practice?",
+      "options": {
+        "A": "Assign administrator privileges by default.",
+        "B": "Set a weak, easy-to-remember password for the user.",
+        "C": "Assign the least privilege necessary for the user's role.",
+        "D": "Use the same password for all new user accounts."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The principle of least privilege dictates that users should only be granted the minimum permissions required to perform their job functions. This reduces the attack surface if an account is compromised."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "A user's computer is running extremely slowly, and the hard drive activity light is constantly on, even when no applications are open. The technician suspects a background process or malware. What is the most appropriate tool to investigate this on a Windows machine?",
+      "options": {
+        "A": "Device Manager",
+        "B": "Disk Cleanup",
+        "C": "Task Manager",
+        "D": "Registry Editor"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Task Manager (Ctrl+Shift+Esc or Ctrl+Alt+Del -> Task Manager) allows an IT technician to view running processes, resource utilization (CPU, memory, disk, network), and identify processes consuming excessive resources."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "A critical system update causes an incompatibility issue with a vital business application. The application stops working, impacting multiple users. The IT team needs to quickly restore service while investigating the root cause. What is the most effective immediate action?",
+      "options": {
+        "A": "Reinstall the entire operating system on all affected machines.",
+        "B": "Attempt to roll back the system update.",
+        "C": "Wait for the software vendor to release a new patch.",
+        "D": "Train users to use an alternative application."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Rolling back a problematic system update is often the fastest way to restore functionality when an update causes critical application incompatibility, allowing the business to continue operations while a permanent solution is developed."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "A user frequently works from home and stores critical documents on their local drive. The company mandates regular backups. Which solution would be the most robust and user-friendly for ensuring these documents are backed up securely and regularly, without requiring manual intervention from the user?",
+      "options": {
+        "A": "Instructing the user to copy files to a USB drive weekly.",
+        "B": "Setting up a scheduled task to copy files to a network share when connected to VPN.",
+        "C": "Implementing a cloud-based file synchronization and backup service (e.g., OneDrive, Google Drive for Business) with company policy enforcement.",
+        "D": "Providing external hard drives to all remote users."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Cloud-based file synchronization and backup services, when properly configured and managed by IT, offer automated, continuous, and secure backups for remote users, ensuring data is protected without constant manual intervention. Option B is good but requires VPN connection, C is more robust."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "An IT support team is facing an increasing volume of recurring issues that consume significant time. To improve efficiency and reduce future incidents, what strategic action should they prioritize?",
+      "options": {
+        "A": "Hire more support staff.",
+        "B": "Implement a robust problem management process to identify root causes and preventive measures.",
+        "C": "Discourage users from reporting minor issues.",
+        "D": "Increase the severity level of all incoming tickets."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Problem management, a key ITIL process, focuses on identifying the root causes of recurring incidents and implementing solutions to prevent them from happening again, thereby reducing the overall volume of support tickets and improving service quality."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "A user reports that their web browser is redirecting them to unwanted advertising sites, even after scanning with antivirus software. What is a likely cause and a more specific troubleshooting step?",
+      "options": {
+        "A": "The user has a faulty network card; replace it.",
+        "B": "The user's DNS settings have been compromised; check and reset DNS.",
+        "C": "The hard drive is failing; run a disk check.",
+        "D": "The operating system needs to be reinstalled."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Unwanted redirects, especially after antivirus scans fail to resolve them, often indicate a compromise of the DNS settings (either on the local machine or router) by adware or other malware, causing traffic to be rerouted to malicious servers. Checking and resetting DNS settings (e.g., to public DNS like 8.8.8.8) is a crucial step."
+    }
+  ]
+}

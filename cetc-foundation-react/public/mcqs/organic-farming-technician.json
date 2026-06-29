@@ -1,0 +1,1443 @@
+{
+  "course_name": "Organic Farming Technician",
+  "sector": "Agriculture & Rural Livelihood",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Organic Farming (Jaivik Kheti ka Parichay)",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Soil Health and Fertility Management (Mitti ka Swasthya aur Urvarata Prabandhan)",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Crop Planning and Seed Management (Fasal Niyojan aur Beej Prabandhan)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Pest and Disease Management (Keet aur Rog Prabandhan)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Water Management and On-Farm Resource Recycling (Jal Prabandhan aur Farm Sansadhan Punarchakran)",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Organic Certification and Marketing (Jaivik Pramanikaran aur Vipanan)",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Jaivik kheti (Organic Farming) ka mool siddhant kya hai?",
+      "options": {
+        "A": "Maximizing chemical use",
+        "B": "Working with nature, not against it",
+        "C": "Using genetically modified seeds",
+        "D": "Monoculture farming"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jaivik kheti prakriti ke saath milkar kaam karne par zor deti hai, jisse mitti, paudhe, janwar aur manushya ka swasthya bana rahe."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Organic farming mein inme se kya PURI TARAH se प्रतिबंधित (banned) hai?",
+      "options": {
+        "A": "Compost khad",
+        "B": "Synthetic chemical pesticides",
+        "C": "Gobar ki khad",
+        "D": "Crop rotation"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Synthetic (rasayanik) keetnashak aur urvarak jaivik kheti mein sakhti se mana hain kyunki ye mitti aur paryavaran ko nuksan pahunchate hain."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Paramparik kheti (Conventional farming) ke mukable jaivik kheti ka ek mukhya fayda kya hai?",
+      "options": {
+        "A": "Shuru mein zyada paidawar",
+        "B": "Mitti ki urvarata mein sudhar",
+        "C": "Chemicals par nirbharta",
+        "D": "Kam majdoori ki zaroorat"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jaivik kheti lambe samay mein mitti ke jaivik padarth ko badhati hai, jisse uski urvarata aur jal dharan kshamta behtar hoti hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "IFOAM ka full form kya hai, jo ek antarrashtriya jaivik kheti sangathan hai?",
+      "options": {
+        "A": "Indian Federation of Organic Agriculture Movements",
+        "B": "International Federation of Organic Agriculture Movements",
+        "C": "International Fund for Organic Agriculture Management",
+        "D": "Indian Farmers of Organic Agriculture Management"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IFOAM (International Federation of Organic Agriculture Movements) vishva star par jaivik kheti ke manakon ko badhava dene wala ek pramukh sangathan hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "'Modern Organic Farming' ka janak kise mana jata hai?",
+      "options": {
+        "A": "Sir Albert Howard",
+        "B": "M.S. Swaminathan",
+        "C": "Norman Borlaug",
+        "D": "Louis Pasteur"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Sir Albert Howard, ek British botanist jinhone India mein kaam kiya, ko unke Indore method of composting ke liye modern organic farming ka janak mana jata hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Jaivik kheti mein 'biodiversity' (jaiv vividhata) ka kya mahatva hai?",
+      "options": {
+        "A": "Isse koi fark nahi padta",
+        "B": "Yeh keeton aur bimariyon ko niyantrit karne mein madad karta hai",
+        "C": "Yeh sirf sundarta ke liye hai",
+        "D": "Yeh chemical khad ki zaroorat badhata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Khet mein aur aas-paas alag-alag prakaar ke paudhe aur jeev hone se ek santulit paristhitik tantra banta hai, jo hanikarak keeton ko prakritik roop se niyantrit karta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Organic farming ka mukhya uddeshya kya NAHIN hai?",
+      "options": {
+        "A": "Swasth bhojan utpadan karna",
+        "B": "Paryavaran ka sanrakshan karna",
+        "C": "Mitti ki urvarata banaye rakhna",
+        "D": "Turant aur sabse zyada upaj hasil karna"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Jaivik kheti ka dhyan lambe samay tak tikau (sustainable) upaj par hota hai, na ki chemical ka istemal karke turant sabse zyada upaj lene par."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "GMO ka kya matlab hai, jiska istemal organic farming mein varjit hai?",
+      "options": {
+        "A": "Good Farming Organism",
+        "B": "Genetically Modified Organism",
+        "C": "Green Manure Option",
+        "D": "Global Market Output"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GMO (Genetically Modified Organism) aise jeev hain jinke genetic material ko laboratory mein badla gaya hai. Inka istemal jaivik kheti mein anumati nahi hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Jaivik kheti ke 'Principle of Health' (swasthya ka siddhant) ka kya arth hai?",
+      "options": {
+        "A": "Sirf kisan ka swasthya",
+        "B": "Sirf upbhokta ka swasthya",
+        "C": "Mitti, paudhe, pashu, manushya aur grah ka swasthya ek aur avibhajya hai",
+        "D": "Fasal ka swasthya chemicals se banaye rakhna"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Swasthya ka siddhant yeh batata hai ki sabhi ka swasthya aapas mein juda hua hai. Swasth mitti se swasth paudhe, aur unse swasth pashu aur manushya bante hain."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Bharat mein jaivik kheti ko badhava dene wali sarkari sanstha kaun si hai?",
+      "options": {
+        "A": "ICAR",
+        "B": "NCOF (National Centre of Organic Farming)",
+        "C": "FCI",
+        "D": "NABARD"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "NCOF, Ghaziabad, Krishi Mantralaya ke antargat kaam karta hai aur desh mein jaivik kheti ke prachar, prashikshan aur vikas ke liye jimmedar hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek khet ko paramparik se jaivik mein badalne ke samay ko kya kehte hain?",
+      "options": {
+        "A": "Transformation period",
+        "B": "Conversion period",
+        "C": "Waiting period",
+        "D": "Cleaning period"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Conversion period woh samay hai jiske dauran khet ko jaivik manakon ke anusaar taiyar kiya jata hai aur pichle chemical avasheshon ko kam kiya jata hai. Isme aamtaur par 2-3 saal lagte hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Jaivik kheti mein 'sustainability' (tikaupan) ka kya arth hai?",
+      "options": {
+        "A": "Ek hi fasal baar baar ugana",
+        "B": "Bina bhavishya ki chinta kiye kheti karna",
+        "C": "Aane wali peedhiyon ki zarooraton se samjhauta kiye bina kheti karna",
+        "D": "Sirf ek saal ke liye labh kamana"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Tikaupan ka matlab hai is tarah se sansadhanon ka upyog karna ki vartaman zarooratein bhi poori hon aur bhavishya ki peedhiyon ke liye bhi sansadhan bache rahen."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Organic farming ke liye sabse pehla kadam kya hona chahiye?",
+      "options": {
+        "A": "Mehenge beej kharidna",
+        "B": "Apne khet ki mitti ko samajhna aur uska vishleshan karana",
+        "C": "Bada tractor kharidna",
+        "D": "Seedhe marketing shuru kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi prakar ki kheti shuru karne se pehle, khaas kar jaivik kheti, mitti ke swasthya, uske prakar aur usmein maujood poshak tatvon ko janna bahut zaroori hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Kaun sa rajya Bharat ka pehla 'fully organic state' ghoshit kiya gaya hai?",
+      "options": {
+        "A": "Punjab",
+        "B": "Kerala",
+        "C": "Sikkim",
+        "D": "Mizoram"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sikkim ne 2016 mein apni poori krishi bhumi ko jaivik pramanit karake duniya ka pehla poorn jaivik rajya banne ka gaurav hasil kiya."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Jaivik kheti mein 'closed-loop system' ka kya matlab hai?",
+      "options": {
+        "A": "Khet ke bahar se kuch bhi nahi lana",
+        "B": "Farm par utpann hue avasheshon (residues) ka farm par hi punah upyog karna",
+        "C": "Sirf band kamre mein kheti karna",
+        "D": "Bazar mein kuch na bechna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Closed-loop system ka lakshya farm ko आत्मनिर्भर (self-sufficient) banana hai, jahan pashuon ka gobar, faslon ke avashesh aadi ko khad ke roop mein wapas khet mein istemal kiya jata hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Organic farming mein Nitrogen ke liye Urea ki jagah kya istemal karte hain?",
+      "options": {
+        "A": "DAP",
+        "B": "Potash",
+        "C": "Dalhani faslein (Leguminous crops) aur compost",
+        "D": "Superphosphate"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Dalhani faslein jaise chana, matar, moong hawa se nitrogen lekar mitti mein sthir karti hain. Compost aur gobar ki khad bhi nitrogen ka achha srot hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Jaivik aur paramparik kheti ke beech ka mukhya antar kis cheez ke istemal se sambandhit hai?",
+      "options": {
+        "A": "Pani",
+        "B": "Sooraj ki roshni",
+        "C": "Inputs (jaise khad aur keetnashak)",
+        "D": "Majdoor"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Sabse bada antar inputs ka hai. Jaivik kheti prakritik inputs par nirbhar karti hai, jabki paramparik kheti synthetic (rasayanik) inputs par."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Mitti mein jaivik padarth (organic matter) badhane ka sabse achha tarika kya hai?",
+      "options": {
+        "A": "Rasayanik khad dalna",
+        "B": "Compost ya gobar ki khad milana",
+        "C": "Khet ki gehri jutai karna",
+        "D": "Pesticide ka chhidkav karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Compost, gobar ki khad, aur fasal avashesh mitti mein organic matter ko badhate hain, jisse mitti ki sanrachna, jal dharan kshamta aur poshak tatva badhte hain."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Vermicompost banane ke liye kis jeev ka upyog hota hai?",
+      "options": {
+        "A": "Deemak (Termite)",
+        "B": "Kenkua (Earthworm)",
+        "C": "Cheenti (Ant)",
+        "D": "Makdi (Spider)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vermicompost kenkuon (earthworms) dwara jaivik kachre ko pachakar banayi gayi ek uttam prakar ki khad hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Hari khad (Green Manure) ke liye kaun si fasal ugayi jaati hai?",
+      "options": {
+        "A": "Gehun (Wheat)",
+        "B": "Dhan (Paddy)",
+        "C": "Dhaincha ya Sanai (Sesbania or Sunnhemp)",
+        "D": "Makka (Corn)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Dhaincha, Sanai, Moong jaise dalhani paudhon ko ugakar phool aane se pehle khet mein hi jot diya jata hai. Yeh mitti mein nitrogen aur organic matter badhate hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Mitti ki jaanch (Soil Testing) karana kyon zaroori hai?",
+      "options": {
+        "A": "Mitti ka rang dekhne ke liye",
+        "B": "Mitti mein poshak tatvon ki kami ya adhikta ka pata lagane ke liye",
+        "C": "Yeh ek anavashyak kharch hai",
+        "D": "Padosi se tulna karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mitti ki jaanch se pH, organic carbon, N, P, K aur anya micro-nutrients ki matra ka pata chalta hai, jiske aadhar par sahi khad prabandhan kiya ja sakta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Ek achhe compost ke liye Carbon-Nitrogen (C:N) anupat kitna hona chahiye?",
+      "options": {
+        "A": "100:1",
+        "B": "1:1",
+        "C": "25:1 se 30:1",
+        "D": "1:25"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Sookhe padarth (carbon-rich) jaise patte, bhusa aur hare padarth (nitrogen-rich) jaise gobar, sabjiyon ke chhilke ka anupat 25:1 se 30:1 ke beech hone par compost jaldi aur achhi banti hai."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Mitti ke pH ka paudhon par kya asar padta hai?",
+      "options": {
+        "A": "Koi asar nahi padta",
+        "B": "Yeh poshak tatvon ki uplabdhta (availability) ko prabhavit karta hai",
+        "C": "Yeh sirf paudhon ki unchai badhata hai",
+        "D": "Yeh sirf pani sokhne ki kshamta ko prabhavit karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mitti ka pH level (amliya ya kshariya) yeh tay karta hai ki paudhe mitti se poshak tatvon ko kitni aasani se le sakte hain. Adhiktar paudhe 6.0 se 7.0 pH ke beech achhe se badhte hain."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Compost banate samay dher ko palatna (turning) kyon zaroori hai?",
+      "options": {
+        "A": "Rang badalne ke liye",
+        "B": "Hawa ka sanchar (aeration) karne aur tapman niyantrit karne ke liye",
+        "C": "Compost ko sookha rakhne ke liye",
+        "D": "Yeh zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Palatne se compost dher ke har hisse mein oxygen pahunchti hai, jo sookshmajeeviyon (microbes) ko tezi se kaam karne mein madad karti hai aur dher ko ek saman roop se sadne deti hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Inme se kaun sa ek jaiv urvarak (Bio-fertilizer) ka udaharan hai?",
+      "options": {
+        "A": "Urea",
+        "B": "Rhizobium",
+        "C": "Potash",
+        "D": "Superphosphate"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Rhizobium ek prakar ka bacteria hai jo dalhani faslon ki jadon mein rehkar hawa se nitrogen ko mitti mein sthir karta hai, isliye ise jaiv urvarak kehte hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Agar mitti bahut zyada amliya (acidic) hai, to use sudharne ke liye kya milana chahiye?",
+      "options": {
+        "A": "Gypsum",
+        "B": "Choona (Lime)",
+        "C": "Sand (Ret)",
+        "D": "Urea"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Choona (Calcium Carbonate) mitti ki amliyata ko kam karke uske pH ko santulit karne mein madad karta hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "NADEP compost banane ki vidhi kisne viksit ki thi?",
+      "options": {
+        "A": "Ek kisan N.D. Pandharipande ne",
+        "B": "Ek vaigyanik M.S. Swaminathan ne",
+        "C": "Ek videshi company ne",
+        "D": "Sarkar ne"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Maharashtra ke ek kisan, Narayan Deotao Pandharipande (NADEP), ne kam gobar ka istemal karke hawa ke sanchar par aadharit yeh prabhavi compost banane ki vidhi viksit ki thi."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Mitti mein 'humus' ka kya kaam hai?",
+      "options": {
+        "A": "Mitti ko kathor banana",
+        "B": "Mitti ki jal dharan kshamta aur poshak tatva badhana",
+        "C": "Paudhon mein bimari failana",
+        "D": "Mitti ka rang safed karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Humus poori tarah se sada hua jaivik padarth hai jo mitti ko bhurbhura banata hai, pani sokhne ki kshamta badhata hai aur poshak tatvon ka bhandar hota hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Panchagavya, jo ek jaivik input hai, kin cheezon se milkar banta hai?",
+      "options": {
+        "A": "Paanch alag-alag pedon ke patte",
+        "B": "Gai ka gobar, mutra, doodh, dahi aur ghee",
+        "C": "Paanch prakar ki mitti",
+        "D": "Paanch alag-alag chemical"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Panchagavya ek paramparik jaivik tonic hai jo gaay se milne wale paanch utpadon - gobar, mutra, doodh, dahi aur ghee - ko milakar banaya jata hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Mitti ke katav (Soil Erosion) ko rokne ka jaivik tarika kaun sa hai?",
+      "options": {
+        "A": "Khet ko khali chhod dena",
+        "B": "Contour farming aur cover crops ugana",
+        "C": "Gehri jutai karna",
+        "D": "Pedon ko kaat dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dhalan par samtal rekhaon (contours) par kheti karne aur mitti ko dhakne wali faslein (cover crops) ugane se pani ka bahav dheema hota hai aur mitti ka katav rukta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Azotobacter kya hai?",
+      "options": {
+        "A": "Ek hanikarak keet",
+        "B": "Ek nitrogen-fixing bio-fertilizer",
+        "C": "Ek chemical khad",
+        "D": "Ek fungus"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Azotobacter ek free-living bacteria hai jo mitti mein rehta hai aur hawa se nitrogen lekar paudhon ko uplabdh karata hai. Yeh dalhani faslon ke alawa anya faslon mein bhi kaam karta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Vermiwash kya hota hai?",
+      "options": {
+        "A": "Kenkuon ko dhone ka pani",
+        "B": "Vermicompost unit se nikla hua taral poshak tatva",
+        "C": "Ek prakar ka keetnashak",
+        "D": "Ek kharab compost"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vermiwash woh taral padarth hai jo vermicompost bed se hokar gujarta hai aur apne saath poshak tatva, enzymes aur hormones le aata hai. Yeh paudhon ke liye ek behtareen liquid fertilizer hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Mitti ki sanrachna (soil structure) ko behtar banane mein kya madad karta hai?",
+      "options": {
+        "A": "Bhaari machinery ka istemal",
+        "B": "Jaivik padarth (Organic matter)",
+        "C": "Chemical urvarak",
+        "D": "Lagatar ek hi fasal ugana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jaivik padarth mitti ke kanon ko aapas mein baandhkar 'aggregates' banata hai, jisse mitti mein hawa aur pani ka sanchar behtar hota hai aur sanrachna sudharti hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Farm Yard Manure (FYM) ko poori tarah se sadne (decompose) ke liye kitna samay lagta hai?",
+      "options": {
+        "A": "1 hafta",
+        "B": "1 mahina",
+        "C": "3 se 4 mahine",
+        "D": "1 saal"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Gobar, pashuon ke mutra aur bichhavan ke mishran (FYM) ko achhi tarah se sadne aur khad banne mein aamtaur par 3 se 4 mahine lagte hain, jisse uske poshak tatva paudhon ke liye uplabdh ho jate hain."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Crop Rotation (fasal chakra) ka kya matlab hai?",
+      "options": {
+        "A": "Ek hi khet mein har saal ek hi fasal ugana",
+        "B": "Ek nishchit kram mein alag-alag faslein ugana",
+        "C": "Faslon ko gol-gol ghumana",
+        "D": "Sirf nakdi faslein ugana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Fasal chakra ek hi zameen par ek nishchit samay mein alag-alag parivar ki faslon ko ek kram mein ugane ki prakriya hai, jisse mitti ka swasthya bana rehta hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Fasal chakra apnane ka mukhya labh kya hai?",
+      "options": {
+        "A": "Mitti mein poshak tatvon ka santulan banaye rakhna",
+        "B": "Ek hi tarah ke keeton ko badhava dena",
+        "C": "Mitti ko kamzor karna",
+        "D": "Kisan ka kaam badhana"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Alag-alag faslon ki poshak tatvon ki zaroorat alag hoti hai. Fasal chakra se mitti mein kisi ek poshak tatva ki kami nahi hoti aur keet-bimariyon ka chakra bhi tootata hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Intercropping (antarf फसली) mein kya kiya jata hai?",
+      "options": {
+        "A": "Ek fasal katne ke baad doosri lagana",
+        "B": "Ek hi samay par ek hi khet mein do ya do se adhik faslein ugana",
+        "C": "Faslon ko mix karke beej bona",
+        "D": "Sirf ek lambi fasal ugana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Intercropping mein do ya adhik faslon ko ek saath nirdharit pattern (jaise alag-alag panktiyon) mein ugaya jata hai, jisse jagah ka behtar upyog hota hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Jaivik kheti mein beej upchar (seed treatment) ke liye inme se kiska istemal hota hai?",
+      "options": {
+        "A": "Thiram",
+        "B": "Beejamrit ya Trichoderma",
+        "C": "Formalin",
+        "D": "Chemical fungicide"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Beejamrit (gobar, gomutra, choona, mitti se bana) aur Trichoderma (ek mitra fafund) jaise jaivik utpadon ka istemal beejon ko beej-janit rogon se bachane ke liye kiya jata hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Ek achhe fasal chakra mein dalhani fasal (legume) ko shamil karna kyon zaroori hai?",
+      "options": {
+        "A": "Kyunki yeh mehengi bikti hai",
+        "B": "Kyunki yeh mitti mein Nitrogen sthir (fix) karti hai",
+        "C": "Kyunki ismein pani kam lagta hai",
+        "D": "Kyunki yeh sundar dikhti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Dalhani faslon ki jadon mein Rhizobium bacteria hota hai jo vayumandal se nitrogen lekar mitti mein sthir karta hai, jisse agli fasal ko prakritik roop se nitrogen milti hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Desi (indigenous) beejon ka sanrakshan kyon mahatvapurna hai?",
+      "options": {
+        "A": "Yeh utne achhe nahi hote",
+        "B": "Yeh sthaniya vatavaran ke anukool hote hain aur jaiv vividhata banaye rakhte hain",
+        "C": "In par company ka copyright hota hai",
+        "D": "Inhe har saal kharidna padta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Desi beej hazaron saalon se sthaniya jalvayu, mitti aur bimariyon ke anukool ho chuke hote hain. Inka sanrakshan hamari krishi virasat aur bhavishya ki khadya suraksha ke liye zaroori hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Makka (Maize) ke saath Sem (Beans) lagana kis prakar ki kheti ka udaharan hai?",
+      "options": {
+        "A": "Monocropping",
+        "B": "Relay cropping",
+        "C": "Intercropping",
+        "D": "Fallow"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Yeh ek classic intercropping ka udaharan hai. Makka uncha badhta hai aur sem uske sahare upar chadhti hai, saath hi sem mitti mein nitrogen fix karti hai jo makka ke kaam aati hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Jaivik kheti mein kis tarah ke beejon ko prathmikta di jaati hai?",
+      "options": {
+        "A": "Genetically Modified (GM) beej",
+        "B": "Organic pramanit aur anupcharit (untreated) beej",
+        "C": "Imported hybrid beej",
+        "D": "Chemical se upcharit beej"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jaivik kheti ke niyamon ke anusaar, kisan ko organic pramanit beejon ka istemal karna chahiye. Yadi yeh uplabdh na ho, to non-GM aur bina rasayanik upchar wale beej istemal kiye ja sakte hain."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Trap crop (jaal fasal) ka kya upyog hai?",
+      "options": {
+        "A": "Mukhya fasal ko poshan dena",
+        "B": "Mukhya fasal se keeton ko door aakarshit karna",
+        "C": "Mitti ki urvarata kam karna",
+        "D": "Pani ko sokhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Trap crop mukhya fasal ke kinare ya beech mein lagayi jati hai jo keeton ko apni or zyada aakarshit karti hai. Isse mukhya fasal keeton se bach jati hai, aur fir trap crop par keeton ko nasht kar diya jata hai."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Gehun ki fasal ke baad khet mein moong ki fasal ugana kyon faydemand hai?",
+      "options": {
+        "A": "Kyunki moong mehengi bikti hai",
+        "B": "Gehun dwara istemal kiye gaye nitrogen ki bharpai karne ke liye",
+        "C": "Mitti ko sakht banane ke liye",
+        "D": "Isse koi fayda nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Gehun ek anaaj wali fasal hai jo mitti se nitrogen leti hai. Uske baad moong (ek dalhani fasal) ugane se mitti mein nitrogen ki matra fir se badh jati hai, jisse mitti ka swasthya bana rehta hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Seed ball (beej gola) banane ki takneek ka kya fayda hai?",
+      "options": {
+        "A": "Yeh beejon ko mehenga banata hai",
+        "B": "Yeh beejon ko pakshiyon aur keeton se bachata hai aur unko anukulan ke liye poshan deta hai",
+        "C": "Yeh sirf phoolon ke liye istemal hota hai",
+        "D": "Yeh beejon ko jaldi ankurit nahi hone deta"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Seed ball mein beej ko mitti, khad aur kabhi-kabhi keet-virodhi padarthon ke mishran mein lapet diya jata hai. Yeh unhe seedhe bone (broadcast) par suraksha pradan karta hai, khaaskar vanikaran aur kharab zameen sudharne mein."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Cover crops (aavaran faslein) ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Bazar mein bechna",
+        "B": "Mitti ko khali na chhodna, katav rokna aur kharpatvar niyantrit karna",
+        "C": "Mitti se saare poshak tatva nikal lena",
+        "D": "Khet ko sundar dikhana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cover crops, jaise ki kuch ghaas ya dalhani faslein, mukhya fasal ke pehle ya baad mein ugayi jaati hain taki mitti dhaki rahe, jisse mitti ka katav rukta hai aur kharpatvar nahi ug pate."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Ek kisan ko apne farm ke liye fasal ka chunav karte samay kis baat ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Sthaniya jalvayu aur mitti ka prakar",
+        "B": "Pani ki uplabdhta",
+        "C": "Bazar ki maang",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Safal kheti ke liye in sabhi karakon - sthaniya paristhitiyan (jalvayu, mitti), sansadhan (pani), aur arthik pahlu (bazar) - par vichar karna avashyak hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "'Relay Cropping' kya hai?",
+      "options": {
+        "A": "Ek khet mein ek saath 4 faslein ugana",
+        "B": "Pehli fasal ke katne se theek pehle doosri fasal ke beej bona",
+        "C": "Ek fasal ko do baar katna",
+        "D": "Faslon ki daud karana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Relay cropping mein samay bachane ke liye, pehli fasal jab taiyar ho rahi hoti hai, tabhi uske beech mein doosri fasal bo di jaati hai. Jaise khade dhan mein masoor ya alsi ki buvai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Kharpatvar (weeds) ko niyantrit karne ka jaivik tarika kaun sa NAHIN hai?",
+      "options": {
+        "A": "Mulching (palvar bichhana)",
+        "B": "Haath se nindai (Hand weeding)",
+        "C": "Glyphosate ka chhidkav",
+        "D": "Intercropping"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Glyphosate ek chemical kharpatvarnashi (herbicide) hai jiska istemal jaivik kheti mein poori tarah se pratibandhit hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Heirloom beej kya hote hain?",
+      "options": {
+        "A": "Naye hybrid beej",
+        "B": "Purane, paramparik, open-pollinated beej jo peedhi dar peedhi bachaye jaate hain",
+        "C": "Genetically modified beej",
+        "D": "Videsh se aaye beej"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Heirloom beej woh purani kismein hain jinhe kisan parivar apne vishesh gunon (jaise swad, rang) ke liye saalon se bacha kar rakhte aa rahe hain. Yeh hybrid nahi hote."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Fasal yojana (Crop plan) banane ka pehla kadam kya hai?",
+      "options": {
+        "A": "Beej kharidna",
+        "B": "Apne farm ke sansadhanon aur lakshyon ka aakalan karna",
+        "C": "Khad kharidna",
+        "D": "Sarkari subsidy ke liye aavedan karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek achhi fasal yojana banane se pehle yeh janna zaroori hai ki aapke paas kitni zameen, kaisa pani, kitni poonji aur shram hai, aur aap kya hasil karna chahte hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Neem tel (Neem Oil) ka istemal jaivik kheti mein kis liye hota hai?",
+      "options": {
+        "A": "Paudhon ko poshan dene ke liye",
+        "B": "Ek prakritik keetnashak (natural pesticide) ke roop mein",
+        "C": "Mitti ki urvarata badhane ke liye",
+        "D": "Phalon ko chamkane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Neem tel mein Azadirachtin naamak tatva hota hai jo kai prakar ke keeton ko bhagata hai, unke ande dene se rokta hai aur unki badhvar ko bhi rokta hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Ladybird beetle kisan ka 'mitra keet' (friendly insect) kyon kehlata hai?",
+      "options": {
+        "A": "Yeh fasal ko kha jati hai",
+        "B": "Yeh aphids (mahu) jaise hanikarak keeton ko khati hai",
+        "C": "Yeh sundar dikhti hai",
+        "D": "Yeh mitti mein rehti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ladybird beetle ek parbhakshi (predator) keet hai jo faslon ko nuksan pahunchane wale chhote keeton jaise aphids aur mealybugs ko khakar unki sankhya ko niyantrit karti hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Pheromone trap ka upyog kis liye kiya jata hai?",
+      "options": {
+        "A": "Chuhe pakadne ke liye",
+        "B": "Nar keeton (male insects) ko aakarshit karke pakadne ke liye",
+        "C": "Pakshiyon ko bhagane ke liye",
+        "D": "Fasal ko pani dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pheromone trap mein mada keet ki gandh (pheromone) ka istemal kiya jata hai, jisse nar keet aakarshit hokar trap mein phans jaate hain. Isse unki aabadi niyantrit hoti hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Tamatar mein 'late blight' bimari kiske karan hoti hai?",
+      "options": {
+        "A": "Bacteria",
+        "B": "Virus",
+        "C": "Fungus (fafund)",
+        "D": "Poshak tatva ki kami"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Late blight (pachheti jhulsa) Phytophthora infestans naamak fafund ke karan hoti hai, jo aalu aur tamatar ki faslon mein tezi se failti hai, khaaskar nami wale mausam mein."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Jaivik fafundnashi (Bio-fungicide) ka ek udaharan kaun sa hai?",
+      "options": {
+        "A": "Endosulfan",
+        "B": "Trichoderma viride",
+        "C": "Monocrotophos",
+        "D": "DAP"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Trichoderma ek mitra fafund hai jo mitti mein paaye jane wale hanikarak fafundon ko nasht karti hai aur paudhon ko jad-galan jaisi bimariyon se bachati hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Gendaphool (Marigold) ko sabjiyon ke khet mein lagane se kya fayda hota hai?",
+      "options": {
+        "A": "Yeh sabjiyon ko chhaya deta hai",
+        "B": "Iski jadon se niklne wala rasayan Nematodes ko bhagata hai",
+        "C": "Yeh mitti se nitrogen khinch leta hai",
+        "D": "Isse koi fayda nahi hota"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Gendaphool ki jaden aise rasayan chhodti hain jo mitti mein rehne wale hanikarak Nematodes (sutra krimi) ko maarte ya bhagate hain, jisse sabjiyon ki jaden surakshit rehti hain."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "IPM ka full form kya hai?",
+      "options": {
+        "A": "Indian Pest Management",
+        "B": "Integrated Pest Management",
+        "C": "Instant Pest Management",
+        "D": "Internal Pest Management"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IPM (Integrated Pest Management) ya Samekit Keet Prabandhan ek aisi pranali hai jismein keeton ko niyantrit karne ke liye sabhi uplabdh takneekon (jaivik, yaantrik, saanskritic) ka sammilit upyog kiya jata hai, aur chemical ka istemal antim vikalp hota hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Sticky traps (chipchipe trap) ka istemal kin keeton ke liye hota hai?",
+      "options": {
+        "A": "Zameen ke andar ke keeton ke liye",
+        "B": "Udne wale chhote keeton jaise safed makkhi aur aphids ke liye",
+        "C": "Bade janwaron ke liye",
+        "D": "Deemak ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Peele ya neele rang ke sticky traps udne wale keeton ko aakarshit karte hain. Jab keet in par baithte hain, to woh chipak jaate hain. Isse unki nigrani aur niyantran dono hota hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Faslon mein bimariyon ko rokne ka sabse achha saanskritic (cultural) tarika kya hai?",
+      "options": {
+        "A": "Adhik matra mein chemical ka chhidkav",
+        "B": "Rog-pratirodhi kismon ka chunav aur swasth beejon ka upyog",
+        "C": "Paudhon ko bahut paas-paas lagana",
+        "D": "Lagatar ek hi fasal ugana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bimari aane ke baad upchar karne se behtar hai ki shuru se hi aisi kismon ka chunav kiya jaye jinmein bimariyon se ladne ki kshamta ho aur hamesha swasth, pramanit beej hi istemal kiye jayein."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Dashparni Ark kya hai?",
+      "options": {
+        "A": "Ek prakar ki khad",
+        "B": "10 alag-alag paudhon ki pattiyon se bana jaivik keetnashak",
+        "C": "Ek sinchai ki vidhi",
+        "D": "Ek mitti sudharak"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dashparni Ark ek prabhavi jaivik keetnashak hai jise 10 aise paudhon (jaise Neem, Aak, Dhatura, etc.) ki pattiyon ko gomutra mein ubaalkar banaya jata hai, jinhe janwar nahi khate."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Bacillus thuringiensis (Bt) kya hai?",
+      "options": {
+        "A": "Ek chemical keetnashak",
+        "B": "Ek prakar ka virus",
+        "C": "Ek prakritik roop se paya jane wala bacteria jo sundiyon (caterpillars) ko marta hai",
+        "D": "Ek kharpatvarnashi"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Bt ek bacteria hai jiska istemal jaivik kheti mein sundiyon aur caterpillar jaise keeton ko niyantrit karne ke liye kiya jata hai. Jab sundi ise khati hai, to uske pet mein zehar ban jata hai aur woh mar jati hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Khet ke chaaron taraf border par unchi faslein jaise Jowar ya Bajra lagane ka kya uddeshya hai?",
+      "options": {
+        "A": "Hawa ko rokna (act as windbreak) aur bahar se aane wale keeton ko rokna",
+        "B": "Khet ko sundar banana",
+        "C": "Chhaya paida karna",
+        "D": "Padosi se khet ko alag karna"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Inhe 'barrier crops' kehte hain. Yeh tez hawa se mukhya fasal ko bachati hain aur bahar se udkar aane wale keeton ke liye ek rukavat ka kaam karti hain."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Bordeaux mixture, jiska istemal fafundjanit rogon ke liye hota hai, kin cheezon se banta hai?",
+      "options": {
+        "A": "Neem aur Gomutra",
+        "B": "Copper Sulphate, Choona aur Pani",
+        "C": "Gobar aur Dahi",
+        "D": "Lehsun aur Mirch"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bordeaux mixture ek purana aur prabhavi fafundnashi hai. Ise neela thotha (Copper Sulphate), bujha hua choona (Lime) aur pani ko milakar taiyar kiya jata hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Fasal ke avasheshon (crop residues) ko khet mein jalane se kya nuksan hota hai?",
+      "options": {
+        "A": "Mitra keet mar jaate hain aur mitti ka organic carbon nasht ho jata hai",
+        "B": "Agle fasal ke liye khet jaldi taiyar ho jata hai",
+        "C": "Mitti ki urvarata badh jati hai",
+        "D": "Koi nuksan nahi hota"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Jalane se mitti ke upari satah ke sookshmajeevi aur mitra keet mar jaate hain. Saath hi mitti ka anmol jaivik carbon dhuein mein ud jata hai aur vayu pradushan bhi hota hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Fruit fly (phal makkhi) ke niyantran ke liye kaun sa trap sabse prabhavi hai?",
+      "options": {
+        "A": "Light trap",
+        "B": "Pheromone trap",
+        "C": "Sticky trap",
+        "D": "Methyl Eugenol trap"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Methyl Eugenol ek aakarshak hai jo khas taur par nar phal makkhiyon ko apni or khinchta hai. Iska istemal trap mein karke unki aabadi ko prabhavi dhang se kam kiya ja sakta hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Jaivik keet prabandhan ka pehla siddhant kya hai?",
+      "options": {
+        "A": "Keet dikhte hi spray karna",
+        "B": "Roktham (Prevention)",
+        "C": "Mehenge utpad kharidna",
+        "D": "Keeton ke aane ka intezar karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jaivik prabandhan 'roktham ilaaj se behtar hai' ke siddhant par kaam karta hai. Iska matlab hai swasth mitti, sahi fasal chakra aur aisi paristhitiyan banana ki keet aur bimariyan panpe hi nahi."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Bird perches (pakshiyon ke baithne ke liye dande) khet mein lagane se kya labh hai?",
+      "options": {
+        "A": "Pakshi aaram karte hain",
+        "B": "Pakshi sundiyon aur keeton ko khakar unki sankhya kam karte hain",
+        "C": "Pakshi fasal ko kharab karte hain",
+        "D": "Yeh sirf sajavat ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Khet mein T-aakar ke dande lagane se pakshi un par baithte hain aur wahan se unhe fasal mein maujood sundiyan aur keede-makode saaf dikhai dete hain, jinhe woh khate hain. Yeh keet niyantran ka ek prakritik tarika hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Pani bachane ke liye sinchai ki sabse kushal (efficient) vidhi kaun si hai?",
+      "options": {
+        "A": "Flood irrigation (baadh vidhi)",
+        "B": "Drip irrigation (tapka sinchai)",
+        "C": "Sprinkler irrigation (fawara sinchai)",
+        "D": "Canal irrigation (nahar sinchai)"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Drip irrigation mein pani boond-boond karke seedhe paudhon ki jadon mein diya jata hai, jisse vashpikaran (evaporation) aur pani ka bahav (runoff) se hone wala nuksan na ke barabar hota hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Mulching (palvar bichhana) ka kya labh hai?",
+      "options": {
+        "A": "Mitti mein nami banaye rakhna",
+        "B": "Kharpatvar ko rokna",
+        "C": "Mitti ka tapman niyantrit karna",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Mitti ko fasal avashesh, patton ya plastic film se dhakne ko mulching kehte hain. Isse pani ka vashpikaran rukta hai, kharpatvar nahi ugte aur mitti ka tapman bhi anukool bana rehta hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Rainwater harvesting (varsha jal sanchayan) ka mukhya uddeshya kya hai?",
+      "options": {
+        "A": "Baadh lana",
+        "B": "Barish ke pani ko ikattha karke baad mein upyog karna ya bhujal recharge karna",
+        "C": "Pani ko behne dena",
+        "D": "Chhat ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Varsha jal sanchayan mein barish ke pani ko tankiyon, talabon mein jama kiya jata hai ya zameen ke andar utara jata hai, taki sookhe ke samay uska istemal ho sake aur bhujal ka star badhe."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Khet ke fasal avasheshon (crop residues) ka sabse achha upyog kya hai?",
+      "options": {
+        "A": "Unhe jala dena",
+        "B": "Unhe khet se bahar phenk dena",
+        "C": "Compost banane ya mulching ke liye istemal karna",
+        "D": "Unhe aise hi chhod dena"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Fasal avashesh jaivik padarth ka anmol srot hain. Inhe mitti mein milane, compost banane ya mulching karne se mitti ka swasthya sudharta hai. Jalana sabse kharab vikalp hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Farm par pashu rakhne ka jaivik kheti mein kya fayda hai?",
+      "options": {
+        "A": "Gobar aur gomutra se khad aur keetnashak milte hain",
+        "B": "Pashu kheti ke kaam mein madad karte hain",
+        "C": "Kisan ko atirikt aay milti hai",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Pashu jaivik kheti ka ek abhinna ang hain. Unse khad (input) milti hai, kheti ke kaam (draught power) mein madad milti hai aur unke utpad (doodh, etc.) bechkar atirikt aay bhi hoti hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Khet ka talab (Farm pond) banane se kya labh hota hai?",
+      "options": {
+        "A": "Sinchai ke liye pani jama hota hai",
+        "B": "Machhli palan se atirikt aay ho sakti hai",
+        "C": "Farm ka micro-climate sudharta hai",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Farm pond ek bahu-upyogi sanrachna hai. Yeh sinchai ke liye pani surakshit karta hai, machhli palan ka avsar deta hai aur aas-paas ke vatavaran mein nami banaye rakhta hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Zero budget natural farming (ZBNF) mein 'Jeevamrit' ka kya upyog hai?",
+      "options": {
+        "A": "Yeh ek keetnashak hai",
+        "B": "Yeh mitti mein labhdayak sookshmajeeviyon (microbes) ki sankhya badhane ka ghol hai",
+        "C": "Yeh ek kharpatvarnashi hai",
+        "D": "Yeh beejon ko store karne ke kaam aata hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jeevamrit gobar, gomutra, besan, gud aur mitti se bana ek ghol hai. Ise sinchai ke pani ke saath dene se mitti mein karodon labhdayak sookshmajeevi shamil ho jaate hain, jo mitti ko jeevant banate hain."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Khad (manure) ke gadde ko hamesha dhak kar kyon rakhna chahiye?",
+      "options": {
+        "A": "Taki woh dikhai na de",
+        "B": "Taki uske poshak tatva (khaaskar nitrogen) dhoop aur barish se nasht na hon",
+        "C": "Taki usmein hawai jahaj na gire",
+        "D": "Dhakne ki koi zaroorat nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Khule mein rakhe gobar se amonia (nitrogen ka roop) gas bankar ud jaati hai aur barish ke pani se poshak tatva beh jaate hain. Dhakne se yeh nuksan bach jata hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agroforestry (krishi vaniki) kya hai?",
+      "options": {
+        "A": "Jungle mein kheti karna",
+        "B": "Khet ki medh par ya khet mein faslon ke saath ped lagana",
+        "C": "Sirf pedon ki kheti karna",
+        "D": "Pedon ko katna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agroforestry ek aisi pranali hai jismein ek hi zameen par ped, faslein aur/ya pashuon ko ek saath paala jata hai. Isse kisan ko lakdi, phal, chara milta hai aur paryavaran bhi surakshit rehta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Jaivik kheti mein urja (energy) ka kushal upyog kaise kiya ja sakta hai?",
+      "options": {
+        "A": "Solar pump aur biogas plant ka istemal karke",
+        "B": "Din raat diesel pump chala kar",
+        "C": "Urja ke bare mein na soch kar",
+        "D": "Sirf bijli par nirbhar rehkar"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Solar energy (saur urja) se pump chalana aur pashuon ke gobar se biogas banana, urja ke navikarneeya (renewable) srot hain jo farm ko aatmanirbhar banate hain aur kharch kam karte hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Contour bunding (samochch medhbandi) kahan ki jaati hai?",
+      "options": {
+        "A": "Samtal zameen par",
+        "B": "Dhalan wali zameen par pani aur mitti ke katav ko rokne ke liye",
+        "C": "Nadi ke kinare",
+        "D": "Retile ilake mein"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dhalan wali bhoomi par, dhalan ke vipreet samtal rekhaon (contours) par mitti ki medh (bund) banayi jaati hai. Yeh barish ke pani ke bahav ko rokti hai, jisse pani zameen mein sokhta hai aur mitti ka katav rukta hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Pitcher irrigation (matka sinchai) kis tarah ki zameen ke liye upyukt hai?",
+      "options": {
+        "A": "Jahan bahut pani ho",
+        "B": "Jahan pani ki kami ho aur sabjiyon jaisi faslein ugani hon",
+        "C": "Daldali zameen ke liye",
+        "D": "Badi faslon jaise gehun ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Is vidhi mein mitti ke matke ko zameen mein gaad diya jata hai aur usmein pani bhar dete hain. Matke ki deewaron se pani dheere-dheere ris kar paudhon ki jadon tak pahunchta hai. Yeh pani ki kami wale kshetron ke liye bahut upyogi hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Farm par alag-alag gatividhiyon (fasal, pashu, machhli, ped) ko ek saath karne ko kya kehte hain?",
+      "options": {
+        "A": "Specialized Farming System",
+        "B": "Integrated Farming System (IFS)",
+        "C": "Chemical Farming System",
+        "D": "Corporate Farming"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Integrated Farming System (Samekit Krishi Pranali) mein kheti ke alag-alag ghatak ek doosre par nirbhar hote hain. Ek ka avashesh doosre ke liye input ka kaam karta hai, jisse farm tikau aur labhdayak banta hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Ek kisan apne kitchen waste ka sabse achha istemal kaise kar sakta hai?",
+      "options": {
+        "A": "Kachre mein phenk kar",
+        "B": "Compost ya vermicompost banakar",
+        "C": "Janwaron ko khila kar",
+        "D": "Jala kar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kitchen se nikalne wala jaivik kachra (sabjiyon ke chhilke, etc.) poshak tatvon se bharpoor hota hai. Ise compost banakar khet ya kitchen garden ke liye behtareen khad taiyar ki ja sakti hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Sinchai ke liye pani ki gunvatta (quality) check karna kyon zaroori hai?",
+      "options": {
+        "A": "Yeh zaroori nahi hai",
+        "B": "Kyunki khara pani (high salt content) mitti aur fasal dono ko nuksan pahuncha sakta hai",
+        "C": "Pani ka rang dekhne ke liye",
+        "D": "Pani ka tapman napne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Adhik namak wala ya pradooshit pani mitti ko banjar bana sakta hai aur paudhon ki badhvar par bura asar daal sakta hai. Isliye, sinchai ke pani ki jaanch karana ek achhi practice hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Azolla kya hai aur iska jaivik kheti mein kya upyog hai?",
+      "options": {
+        "A": "Ek kharpatvar",
+        "B": "Ek aquatic fern jo nitrogen fix karta hai aur pashuon ke liye protein-rich chara hai",
+        "C": "Ek hanikarak keet",
+        "D": "Ek mitti ka prakar"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Azolla pani mein tairne wala ek chhota fern hai. Iske andar Anabaena naamak cyanobacteria rehta hai jo nitrogen sthir karta hai. Iska upyog dhan ke khet mein hari khad ke roop mein aur pashuon ke chare ke roop mein hota hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Bharat mein jaivik utpadan ke liye rashtriya karyakram ka kya naam hai?",
+      "options": {
+        "A": "National Program for Organic Products",
+        "B": "National Program for Organic Production (NPOP)",
+        "C": "Organic Farming Scheme of India",
+        "D": "Indian Organic Mission"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "NPOP (National Program for Organic Production) Bharat sarkar dwara jaivik kheti ke manakon, pramanikaran aur export ko niyamit karne ke liye banaya gaya karyakram hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Kisi utpad par 'India Organic' logo laga hone ka kya matlab hai?",
+      "options": {
+        "A": "Yeh utpad Bharat mein bana hai",
+        "B": "Yeh utpad NPOP manakon ke anusaar pramanit (certified) hai",
+        "C": "Yeh utpad mehenga hai",
+        "D": "Yeh sirf export ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "India Organic logo (jise 'Jaivik Bharat' logo bhi kehte hain) is baat ki guarantee deta hai ki utpad NPOP ke nirdharit jaivik manakon par khara utarta hai aur ek pramanit sanstha dwara jaancha gaya hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Jaivik pramanikaran (organic certification) ke liye sabse mahatvapurna cheez kya hai?",
+      "options": {
+        "A": "Bada farm hona",
+        "B": "Har cheez ka sahi record rakhna (Record keeping)",
+        "C": "Shehar ke paas hona",
+        "D": "Acha marketing network hona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pramanikaran agency yeh dekhne ke liye ki aap jaivik niyamon ka palan kar rahe hain, aapke records par bahut nirbhar karti hai. Kab, kya, kahan se kharida, kab istemal kiya - in sabka likhit record hona anivarya hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "PGS-India ka full form kya hai?",
+      "options": {
+        "A": "Primary Guarantee System",
+        "B": "Participatory Guarantee System",
+        "C": "Private Growers Society",
+        "D": "Public Group Scheme"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PGS (Participatory Guarantee System) ek low-cost, sthaniya jaivik pramanikaran pranali hai jismein kisan ek doosre ke farms ka nirikshan karke aur aapsi vishwas ke aadhar par pramanikaran karte hain. Yeh mukhya roop se gharelu bazar ke liye hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Third-party certification aur PGS certification mein mukhya antar kya hai?",
+      "options": {
+        "A": "Koi antar nahi hai",
+        "B": "Third-party ek swatantra agency karti hai, jabki PGS kisanon ka samuh khud karta hai",
+        "C": "PGS zyada mehenga hai",
+        "D": "Third-party sirf videshi bazar ke liye hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Third-party certification mein ek bahari, sarkari manyata prapt agency farm ka audit karti hai. PGS mein, kisanon ka ek samooh aapas mein hi ek doosre ke farm ki jaanch karke guarantee deta hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Ek organic kisan apne utpad ko behtar daam par kaise bech sakta hai?",
+      "options": {
+        "A": "Seedhe grahakon ko bechkar (Direct marketing)",
+        "B": "Farmers' market mein bechkar",
+        "C": "Value addition karke (jaise aachar, jam banakar)",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Bichauliyon ko hatakar seedhe grahak tak pahunchna, farmers' market mein stall lagana, ya kachhe utpad ko process karke bechna (value addition), yeh sabhi tarike kisan ko behtar munafe dilate hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Jaivik pramanikaran mein 'Conversion Period' aamtaur par kitna lamba hota hai?",
+      "options": {
+        "A": "6 mahine",
+        "B": "1 saal",
+        "C": "2 se 3 saal",
+        "D": "5 saal"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pehli baar pramanikaran ke liye aavedan karne par, farm ko 2 se 3 saal tak jaivik vidhiyon se kheti karni padti hai taki mitti se purane rasayanik avashesh nikal jayein. Is avadhi ko conversion period kehte hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Ek kisan ko apne farm ka 'Farm Diary' ya 'Logbook' banaye rakhna kyon zaroori hai?",
+      "options": {
+        "A": "Apni yadasht ke liye",
+        "B": "Certification audit ke samay dikhane ke liye",
+        "C": "Farm ki gatividhiyon ka vishleshan karne ke liye",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Farm diary pramanikaran ke liye ek anivarya dastavez hai. Saath hi, yeh kisan ko apne kharch, aay aur kheti ki safalta-asafalta ka vishleshan karne mein bhi madad karti hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Group certification (samuh pramanikaran) kin kisanon ke liye faydemand hai?",
+      "options": {
+        "A": "Bade kisanon ke liye",
+        "B": "Chhote aur simant kisanon ke liye jinke liye vyaktigat certification mehenga hai",
+        "C": "Sirf contract farming karne walon ke liye",
+        "D": "Shehri kisanon ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Group certification mein kai chhote kisan milkar ek samuh banate hain. Isse pramanikaran ka kharch sab mein bant jata hai aur prakriya aasan ho jaati hai. Samuh ka ek Internal Control System (ICS) hota hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Organic utpadon ki packaging karte samay kis baat ka dhyan rakhna chahiye?",
+      "options": {
+        "A": "Packaging sundar honi chahiye",
+        "B": "Packaging par label saaf aur poori jankari ke saath hona chahiye",
+        "C": "Packaging material food-grade aur paryavaran-anukool hona chahiye",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Achhi packaging utpad ko surakshit rakhti hai. Label par certification logo, lot number, expiry date jaisi zaroori jankari honi chahiye. Eco-friendly packaging organic ke moolyon ke anuroop hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Jaivik pramanikaran ki prakriya mein 'Inspection' (nirikshan) ka kya role hai?",
+      "options": {
+        "A": "Yeh sirf ek formality hai",
+        "B": "Inspector farm par aakar jaanch karta hai ki kisan NPOP manakon ka palan kar raha hai ya nahi",
+        "C": "Inspector kisan ko training deta hai",
+        "D": "Inspector marketing mein madad karta hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Varshik nirikshan pramanikaran prakriya ka ek mahatvapurna hissa hai. Ismein inspector farm ke record, storage, fields aur kisan se baat-cheet karke yeh sunishchit karta hai ki sabhi niyam-kanoon ka palan ho raha hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Agar ek organic farm ke bagal mein ek chemical farm hai, to 'buffer zone' ka kya uddeshya hai?",
+      "options": {
+        "A": "Dono kisanon ko alag rakhna",
+        "B": "Chemical farm se aane wale rasayanik chhidkav (spray drift) se organic fasal ko bachana",
+        "C": "Janwaron ko rokne ke liye",
+        "D": "Sundarta ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Buffer zone organic aur non-organic khet ke beech ki ek khali jagah ya gair-fasli patti hoti hai. Iska uddeshya padosi khet se anchahe chemical ko organic khet mein aane se rokna hai. Iski chaudai NPOP manakon dwara nirdharit hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Ek organic kisan ko apne utpadon ka 'Traceability' record kyon rakhna chahiye?",
+      "options": {
+        "A": "Yeh anavashyak hai",
+        "B": "Taki kisi samasya ya shikayat par yeh pata lagaya ja sake ki utpad kis khet se aur kab aaya tha",
+        "C": "Sarkar ko tax dene ke liye",
+        "D": "Transport ka hisab rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Traceability ka matlab hai utpad ko 'farm to fork' tak track karne ki kshamta. Isse grahak ka vishwas badhta hai aur food safety sunishchit hoti hai. Har packet par ek unique code hota hai jisse uski poori history pata chal sakti hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Organic utpad aamtaur par paramparik utpadon se mehenge kyon hote hain?",
+      "options": {
+        "A": "Majdoori (labour) zyada lagti hai",
+        "B": "Upaj shuru mein thodi kam ho sakti hai",
+        "C": "Pramanikaran (certification) mein kharch aata hai",
+        "D": "Uparokt sabhi"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Jaivik kheti mein kharpatvar aur keet niyantran mein adhik manav shram lagta hai, shuruati saalon mein upaj kam ho sakti hai aur pramanikaran ka kharch bhi judta hai. In karanon se unki keemat thodi zyada hoti hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "APEDA (Agricultural and Processed Food Products Export Development Authority) ka organic farming mein kya role hai?",
+      "options": {
+        "A": "Yeh kisanon ko beej bechti hai",
+        "B": "Yeh Bharat se organic utpadon ke niryat (export) ko niyantrit aur badhava deti hai",
+        "C": "Yeh sirf gharelu bazar dekhti hai",
+        "D": "Yeh chemical khad banati hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "APEDA, Vanijya Mantralaya ke antargat, NPOP karyakram ko lagu karne aur Bharat se jaivik utpadon ke export ke liye manak taiyar karne aur usko badhava dene wali pramukh sanstha hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek safal organic farming business ke liye kya zaroori hai?",
+      "options": {
+        "A": "Sirf achha utpadan karna",
+        "B": "Sirf achhi marketing karna",
+        "C": "Achha utpadan, sahi pramanikaran aur prabhavi marketing ka santulan",
+        "D": "Sarkari anudan par nirbhar rehna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Ek safal organic kisan banne ke liye sirf achhi fasal ugana kafi nahi hai. Us fasal ka sahi pramanikaran karana aur fir use sahi grahak tak pahunchakar achha daam lena bhi utna hi mahatvapurna hai."
+    }
+  ]
+}

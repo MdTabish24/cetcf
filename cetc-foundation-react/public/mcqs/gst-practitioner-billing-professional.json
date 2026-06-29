@@ -1,0 +1,1443 @@
+{
+  "course_name": "GST Practitioner & Billing Professional",
+  "sector": "Business, Retail & Finance",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to GST & Basic Concepts",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "GST Registration & Compliance",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Types of Supply & Levy of GST",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Invoicing, Billing & E-Way Bill",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Input Tax Credit (ITC) & Payment of Tax",
+      "question_range": "Q69-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "GST Returns & Record Keeping",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "India mein GST kab लागू (implement) hua tha?",
+      "options": {
+        "A": "1st April 2017",
+        "B": "1st July 2017",
+        "C": "1st August 2017",
+        "D": "1st January 2018"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bharat mein Goods and Services Tax (GST) ko 1st July 2017 se poore desh mein लागू kiya gaya tha."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "GSTIN ka full form kya hai?",
+      "options": {
+        "A": "Goods and Services Tax India Number",
+        "B": "Goods and Supply Tax Identification Number",
+        "C": "Goods and Services Tax Identification Number",
+        "D": "Goods and Sales Tax Identification Number"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "GSTIN ka sahi full form 'Goods and Services Tax Identification Number' hai. Yeh har registered taxpayer ko milne wala ek unique 15-digit code hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "GST kaun sa tax hai?",
+      "options": {
+        "A": "Direct Tax",
+        "B": "Indirect Tax",
+        "C": "Both A and B",
+        "D": "None of the above"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GST ek Indirect Tax hai. Yeh goods aur services ki supply par lagta hai aur iska bojh aakhir mein consumer par padta hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "GST Council ka Chairman kaun hota hai?",
+      "options": {
+        "A": "Prime Minister of India",
+        "B": "Union Finance Minister",
+        "C": "President of India",
+        "D": "RBI Governor"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GST Council ke chairman hamesha India ke Union Finance Minister (Kendriya Vitt Mantri) hote hain."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Inmein se kaun sa tax GST mein merge nahi hua hai?",
+      "options": {
+        "A": "VAT",
+        "B": "Service Tax",
+        "C": "Basic Customs Duty",
+        "D": "Central Excise Duty"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Basic Customs Duty (BCD) GST mein merge nahi hui hai. Yeh abhi bhi import hone wale goods par alag se lagayi jaati hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "GST ke 'Dual Model' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf Central Government tax lagati hai",
+        "B": "Sirf State Government tax lagati hai",
+        "C": "Central aur State Government dono ek saath tax lagati hain",
+        "D": "Tax do baar lagaya jaata hai"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dual Model ka matlab hai ki ek hi transaction par Central Government (CGST) aur State Government (SGST/UTGST) dono tax lagate hain."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "GST mein 'Supply' ka kya matlab hai?",
+      "options": {
+        "A": "Sirf maal bechna (Sale of goods)",
+        "B": "Sirf services dena (Provision of services)",
+        "C": "Sale, transfer, barter, exchange, license, rental, lease ya disposal",
+        "D": "Sirf maal transfer karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "GST law ke anusaar, 'Supply' ek bahut broad term hai jismein sale, transfer, barter, exchange, license, rental, lease ya disposal jaise sabhi forms of supply shamil hain."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "HSN code ka istemal kiske liye hota hai?",
+      "options": {
+        "A": "Services ko classify karne ke liye",
+        "B": "Goods ko classify karne ke liye",
+        "C": "Taxpayers ko identify karne ke liye",
+        "D": "Invoice number generate karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "HSN (Harmonized System of Nomenclature) code ka istemal goods ko systematically classify karne ke liye kiya jaata hai, jisse unpar sahi GST rate lagaya ja sake."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "SAC code ka istemal kiske liye hota hai?",
+      "options": {
+        "A": "Goods ko classify karne ke liye",
+        "B": "Services ko classify karne ke liye",
+        "C": "Export transactions ke liye",
+        "D": "Bank transactions ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SAC (Services Accounting Code) ka istemal services ko classify karne ke liye kiya jaata hai, jisse unpar sahi GST rate lagaya ja sake."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "GST kis principle par aadharit hai?",
+      "options": {
+        "A": "Origin based taxation",
+        "B": "Destination based taxation",
+        "C": "Both A and B",
+        "D": "None of the above"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "GST ek destination-based tax hai. Iska matlab hai ki tax uss state ko milta hai jahan goods ya services ka consumption hota hai, na ki jahan se unki shuruaat hoti hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Ek 'taxable person' GST ke anusaar kaun hai?",
+      "options": {
+        "A": "Jo GST ke antargat registered hai ya registration ke liye liable hai",
+        "B": "Jiska PAN card hai",
+        "C": "Jo sirf business karta hai",
+        "D": "Jo sirf salary kamata hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "GST law mein, 'taxable person' woh व्यक्ति ya entity hai jo GST Act ke under ya to registered hai ya registration lene ke liye liable hai (turnover limit cross karne par)."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "GSTIN kitne digits ka hota hai?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "16"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "GSTIN (Goods and Services Tax Identification Number) ek 15-digit ka alphanumeric code hota hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "GSTIN ka 10-digit hissa kya represent karta hai?",
+      "options": {
+        "A": "State Code",
+        "B": "Business Category Code",
+        "C": "Permanent Account Number (PAN)",
+        "D": "Aadhaar Number"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "GSTIN ke 15 digits mein se, 3rd se 12th digit (total 10 digits) uss business ya individual ka PAN number hota hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "GSTN ka kya kaam hai?",
+      "options": {
+        "A": "Tax rates decide karna",
+        "B": "GST ke liye IT infrastructure provide karna",
+        "C": "Tax collection karna",
+        "D": "Tax laws banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "GSTN (Goods and Services Tax Network) ek non-profit company hai jo Central aur State Governments, taxpayers aur dusre stakeholders ko GST ke liye shared IT infrastructure aur services provide karti hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "GST ke antargat 'Goods' ki definition mein kya shamil NAHI hai?",
+      "options": {
+        "A": "Movable property",
+        "B": "Actionable claims",
+        "C": "Growing crops",
+        "D": "Money and securities"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "GST Act ke Section 2(52) ke anusaar, 'Goods' ka matlab har tarah ki movable property hai, lekin ismein money aur securities shamil nahi hain."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "GST mein tax rates ke slabs kya hain?",
+      "options": {
+        "A": "5%, 12%, 18%, 28%",
+        "B": "0%, 5%, 12%, 18%, 28%",
+        "C": "5%, 10%, 15%, 20%",
+        "D": "10%, 20%, 30%"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GST mein mukhya roop se 5 tax slabs hain: 0% (Nil rated), 5%, 12%, 18%, aur 28%. Kuch items par cess bhi lagta hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "UTGST kab lagaya jaata hai?",
+      "options": {
+        "A": "Jab goods ek state se doosre state mein jaate hain",
+        "B": "Jab supply ek hi Union Territory ke andar hoti hai",
+        "C": "Jab goods import kiye jaate hain",
+        "D": "Jab services export ki jaati hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "UTGST (Union Territory Goods and Services Tax) tab lagaya jaata hai jab goods ya services ki supply ek hi Union Territory (jaise Chandigarh, Andaman & Nicobar) ke andar hoti hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Normal states mein goods ke liye GST registration ki threshold limit kya hai?",
+      "options": {
+        "A": "Rs. 10 Lakhs",
+        "B": "Rs. 20 Lakhs",
+        "C": "Rs. 40 Lakhs",
+        "D": "Rs. 50 Lakhs"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Jyada-tar normal states mein, agar koi supplier sirf goods mein deal karta hai, to uske liye aggregate turnover ki threshold limit Rs. 40 Lakhs hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Services ke liye GST registration ki threshold limit kya hai?",
+      "options": {
+        "A": "Rs. 10 Lakhs",
+        "B": "Rs. 20 Lakhs",
+        "C": "Rs. 40 Lakhs",
+        "D": "Rs. 5 Lakhs"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Services provide karne wale suppliers ke liye (ya goods aur services dono), aggregate turnover ki threshold limit Rs. 20 Lakhs hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Special Category States ke liye GST registration ki limit kya hai?",
+      "options": {
+        "A": "Rs. 5 Lakhs",
+        "B": "Rs. 10 Lakhs/Rs. 20 Lakhs",
+        "C": "Rs. 30 Lakhs",
+        "D": "Rs. 40 Lakhs"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Special Category States (jaise North-Eastern states) ke liye turnover limit kam hai. Goods ke liye Rs. 20 Lakhs aur services ke liye Rs. 10 Lakhs (state specific rules ke anusaar)."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "GST registration ke liye kaun sa form bhara jaata hai?",
+      "options": {
+        "A": "Form GSTR-1",
+        "B": "Form GST REG-01",
+        "C": "Form GSTR-3B",
+        "D": "Form GST REG-06"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Naye GST registration ke liye application Form GST REG-01 mein file ki jaati hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Kya ek hi PAN par alag-alag states mein multiple GST registration liye ja sakte hain?",
+      "options": {
+        "A": "Nahi, ek PAN par sirf ek hi GSTIN milta hai",
+        "B": "Haan, har state ke liye alag registration lena hota hai",
+        "C": "Sirf special permission se le sakte hain",
+        "D": "Sirf companies le sakti hain, individuals nahi"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Haan, agar aapka business alag-alag states mein hai, to aapko har uss state ke liye alag se GST registration lena hoga jahan se aap taxable supply karte hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "GST registration certificate kis form mein issue hota hai?",
+      "options": {
+        "A": "Form GST REG-01",
+        "B": "Form GST REG-02",
+        "C": "Form GST REG-06",
+        "D": "Form GST REG-07"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Jab GST registration application approve ho jaati hai, to department Form GST REG-06 mein Registration Certificate issue karta hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Agar koi Inter-state supply karta hai, to uske liye registration lena kab anivarya (compulsory) hai?",
+      "options": {
+        "A": "Jab turnover 20 lakh se zyada ho",
+        "B": "Jab turnover 40 lakh se zyada ho",
+        "C": "Pehle transaction se hi, chahe turnover kitna bhi ho",
+        "D": "Registration anivarya nahi hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Inter-state taxable supply (ek state se doosre state mein goods bechna) ke case mein, turnover limit nahi dekhi jaati. Supplier ko pehle transaction se hi compulsory registration lena hota hai (kuch specific items ko chhodkar)."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Casual Taxable Person kaun hota hai?",
+      "options": {
+        "A": "Jo hamesha tax deta hai",
+        "B": "Jo kabhi-kabhi (occasionally) aise state mein business karta hai jahan uska permanent business place nahi hai",
+        "C": "Jo tax chori karta hai",
+        "D": "Jiska business chhota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Casual Taxable Person woh hota hai jo kisi event ya exhibition ke liye temporary taur par kisi doosre state mein business karne jaata hai, jahan uska koi fixed business place nahi hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "GST registration lene ke liye sabse zaruri document kya hai?",
+      "options": {
+        "A": "Aadhaar Card",
+        "B": "Voter ID Card",
+        "C": "PAN Card",
+        "D": "Passport"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "GST registration ke liye PAN (Permanent Account Number) hona anivarya hai. GSTIN PAN-based hota hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Composition Scheme kin taxpayers ke liye hai?",
+      "options": {
+        "A": "Bade taxpayers jinka turnover 5 crore se zyada ho",
+        "B": "Chhote taxpayers jinka turnover ek prescribed limit tak ho",
+        "C": "Sirf service providers ke liye",
+        "D": "Sirf importers ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Composition Scheme chhote taxpayers ke liye ek saral scheme hai, jinka aggregate turnover prescribed limit (jaise 1.5 crore) se kam ho. Isme unhe kam rate par tax dena hota hai aur compliance bhi aasan hoti hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Composition Scheme wale dealer kya apne customer se tax collect kar sakte hain?",
+      "options": {
+        "A": "Haan, kar sakte hain",
+        "B": "Nahi, nahi kar sakte",
+        "C": "Sirf 1% tax collect kar sakte hain",
+        "D": "Sirf state government ki permission se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Composition Scheme ke antargat registered dealer apne customers se GST collect nahi kar sakte. Unhe apni jeb se turnover par ek fixed percentage tax dena hota hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Agar ek e-commerce operator (jaise Amazon, Flipkart) ke through maal bechna hai, to GST registration kab zaruri hai?",
+      "options": {
+        "A": "Jab turnover 20 lakh se zyada ho",
+        "B": "Jab turnover 40 lakh se zyada ho",
+        "C": "Pehle din se hi, turnover chahe zero ho",
+        "D": "Registration zaruri nahi hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Jo log e-commerce operators ke through goods bechte hain, unhe compulsory GST registration lena hota hai, bhale hi unka turnover threshold limit se kam ho."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "GST registration cancel karwane ke liye kaun sa form bhara jaata hai?",
+      "options": {
+        "A": "Form GST REG-16",
+        "B": "Form GST REG-01",
+        "C": "Form GSTR-10",
+        "D": "Form GST REG-19"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Apna GST registration cancel karwane ke liye taxpayer ko Form GST REG-16 mein application file karni hoti hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Voluntary Registration ka kya matlab hai?",
+      "options": {
+        "A": "Jabardasti registration karwana",
+        "B": "Turnover limit cross na hone par bhi apni marzi se registration lena",
+        "C": "Registration na lena",
+        "D": "Sirf ek saal ke liye registration lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Voluntary Registration ka matlab hai ki koi bhi business, bhale hi uska turnover threshold limit se kam ho, apni ichha se GST registration le sakta hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "GST registration na lene par (jabki aap liable hain) kya ho sakta hai?",
+      "options": {
+        "A": "Koi dikkat nahi hai",
+        "B": "Sirf warning milti hai",
+        "C": "Tax aur penalty lagayi ja sakti hai",
+        "D": "Business band ho jaata hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Agar aap GST registration ke liye liable hain aur nahi lete, to tax department aap par jitna tax banta hai, uske upar penalty bhi laga sakta hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Ek Non-Resident Taxable Person ko registration kab lena hota hai?",
+      "options": {
+        "A": "Business shuru karne ke baad",
+        "B": "Business shuru karne se kam se kam 5 din pehle",
+        "C": "Jab turnover 20 lakh cross ho",
+        "D": "Registration ki zarurat nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Non-Resident Taxable Person (jo India ka निवासी nahi hai lekin yahan temporary business karna chahta hai) ko India mein business shuru karne se kam se kam 5 din pehle registration lena anivarya hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Aggregate Turnover mein kya shamil hota hai?",
+      "options": {
+        "A": "Sirf taxable supplies ki value",
+        "B": "Taxable, exempt, export supplies aur inter-state supplies ki value",
+        "C": "Sirf profit",
+        "D": "Sirf kharidi hui cheezon ki value"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Aggregate Turnover mein ek PAN ke under ki gayi sabhi supplies (taxable, exempt, exports, inter-state) ki value jodi jaati hai, lekin ismein CGST, SGST, IGST, UTGST aur cess shamil nahi hota."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Jab Delhi ka supplier Delhi ke hi customer ko maal bechta hai, to kaun sa tax lagega?",
+      "options": {
+        "A": "IGST",
+        "B": "CGST + SGST",
+        "C": "CGST + UTGST",
+        "D": "Sirf SGST"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Delhi ek Union Territory hai jiska apna legislature hai. Isliye, Delhi ke andar hone wali supply par CGST (Central) aur SGST (State) lagta hai. Yadi legislature na hota (jaise Chandigarh), to CGST+UTGST lagta. Note: Delhi/Puducherry/J&K ke liye SGST hi use hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Jab Uttar Pradesh ka supplier Maharashtra ke customer ko maal bechta hai, to kaun sa tax lagega?",
+      "options": {
+        "A": "IGST",
+        "B": "CGST + SGST",
+        "C": "CGST + UTGST",
+        "D": "Sirf CGST"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Yeh ek Inter-state supply (ek state se doosre state) hai. Aisi sabhi supplies par Integrated Goods and Services Tax (IGST) lagta hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "RCM ka full form kya hai?",
+      "options": {
+        "A": "Reverse Collection Mechanism",
+        "B": "Reverse Charge Mechanism",
+        "C": "Real Charge Mode",
+        "D": "Reduced Charge Mechanism"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RCM ka full form Reverse Charge Mechanism hai. Ismein tax pay karne ki zimmedari supplier ki jagah recipient (kharidar) ki hoti hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Composite Supply kya hoti hai?",
+      "options": {
+        "A": "Jab do alag-alag cheezein alag-alag bechi jaati hain",
+        "B": "Jab do ya zyada cheezein ek saath naturally bundled karke ek hi price par bechi jaati hain",
+        "C": "Jab customer discount maangta hai",
+        "D": "Jab supply par tax nahi lagta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Composite Supply mein do ya zyada goods/services naturally ek saath package mein aate hain aur unhe alag nahi kiya ja sakta. Jaise, TV ke saath remote. Is par wahi GST rate lagta hai jo principal supply (TV) ka hota hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Ek hotel mein room book karne ke saath breakfast free milna, yeh kiska example hai?",
+      "options": {
+        "A": "Mixed Supply",
+        "B": "Composite Supply",
+        "C": "Exempt Supply",
+        "D": "Zero-rated Supply"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Yeh ek Composite Supply ka example hai kyunki hotel accommodation (principal supply) ke saath breakfast dena ek natural bundle hai. Poore package par hotel room ka GST rate lagega."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Mixed Supply kya hoti hai?",
+      "options": {
+        "A": "Jab supply par tax nahi lagta",
+        "B": "Jab do ya zyada cheezein jo alag-alag bhi bechi ja sakti hain, unhe ek saath ek hi price par becha jaata hai",
+        "C": "Jab sirf ek hi cheez bechi jaati hai",
+        "D": "Jab supplier aur customer ek hi state ke hon"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mixed Supply mein do ya zyada alag-alag items ko ek saath ek package mein becha jaata hai, jo naturally bundled nahi hote. Jaise, Diwali gift hamper jismein sweets, chocolates, aur cold drinks hain."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Ek gift box mein ek ghadi (18% GST), ek pen (12% GST) aur ek wallet (18% GST) hai. Agar yeh Mixed Supply hai, to ispar kya GST rate lagega?",
+      "options": {
+        "A": "12%",
+        "B": "18%",
+        "C": "Sabka average",
+        "D": "Sab par alag alag"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Mixed Supply ke case mein, poore package par uss item ka GST rate lagta hai jiska tax rate sabse zyada ho. Yahan ghadi aur wallet ka rate 18% hai, jo sabse zyada hai, isliye poore box par 18% GST lagega."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Zero-rated supply kya hai?",
+      "options": {
+        "A": "Aisi supply jis par 0% tax lagta hai",
+        "B": "Exports ya SEZ unit/developer ko ki gayi supply",
+        "C": "Aisi supply jo GST ke daayre se bahar hai",
+        "D": "Chhoti-moti supply"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Zero-rated supply ka matlab aisi supplies se hai jin par output tax to zero hota hai, lekin unke inputs par pay kiye gaye tax ka credit (ITC) mil jaata hai. Ismein Exports aur SEZ ko ki gayi supply shamil hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Exempt Supply aur Nil-rated Supply mein kya fark hai?",
+      "options": {
+        "A": "Koi fark nahi hai, dono same hain",
+        "B": "Exempt supply par tax lag sakta tha par notification se maaf hai, Nil-rated par Act mein hi 0% rate hai",
+        "C": "Exempt supply par ITC milta hai, Nil-rated par nahi",
+        "D": "Nil-rated par tax lagta hai, Exempt par nahi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Nil-rated supplies woh hain jinke liye GST Act mein hi 0% tax rate define kiya gaya hai (jaise namak). Exempt supplies woh hain jo waise to taxable hain, lekin unhe government ne ek notification ke zariye tax se chhoot de rakhi hai (jaise fresh milk)."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Intra-state supply kya hoti hai?",
+      "options": {
+        "A": "Jab supplier aur recipient alag-alag state mein hon",
+        "B": "Jab supplier aur recipient ek hi state mein hon",
+        "C": "Jab maal import kiya jaata hai",
+        "D": "Jab maal export kiya jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Intra-state supply tab hoti hai jab supplier ka location aur place of supply dono ek hi state ya union territory mein ho."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "IGST ka paisa kisko milta hai?",
+      "options": {
+        "A": "Sirf Central Government ko",
+        "B": "Sirf State Government ko",
+        "C": "Central Government collect karti hai aur baad mein destination state ke saath share karti hai",
+        "D": "Dono governments 50-50 le leti hain"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "IGST ko Central Government collect karti hai. Baad mein, settlement process ke through, iska woh hissa jo state ka banta hai (SGST component), uss state ko transfer kar diya jaata hai jahan goods/services consume hue hain (destination state)."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar ek unregistered dealer se ek registered dealer maal kharidta hai, to RCM ke antargat tax kaun pay karega?",
+      "options": {
+        "A": "Unregistered dealer",
+        "B": "Registered dealer (kharidar)",
+        "C": "Koi nahi pay karega",
+        "D": "Dono aadha-aadha pay karenge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Jab ek registered person kisi unregistered person se specified goods ya services kharidta hai, to Reverse Charge Mechanism (RCM) lagoo hota hai aur tax jama karne ki zimmedari registered person (kharidar) ki hoti hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Kya petrol par GST lagta hai?",
+      "options": {
+        "A": "Haan, 28% lagta hai",
+        "B": "Haan, 18% lagta hai",
+        "C": "Nahi, abhi yeh GST ke daayre se bahar hai",
+        "D": "Sirf commercial vehicles ke liye lagta hai"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Petroleum crude, high-speed diesel, motor spirit (petrol), natural gas, aur aviation turbine fuel ko abhi GST ke daayre mein nahi laya gaya hai. In par purane tax (Excise Duty, VAT) hi lagte hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Place of Supply ka niyam kyon mahatvapurna (important) hai?",
+      "options": {
+        "A": "Yeh decide karne ke liye ki supply intra-state hai ya inter-state",
+        "B": "Yeh decide karne ke liye ki tax rate kya hoga",
+        "C": "Yeh decide karne ke liye ki invoice kab banana hai",
+        "D": "Yeh decide karne ke liye ki discount kitna dena hai"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Place of Supply ke niyam yeh tay karte hain ki supply ka sthan kya maana jaayega. Isse hi yeh pata chalta hai ki transaction Intra-State (CGST+SGST) hai ya Inter-State (IGST) hai, jisse sahi tax lagaya ja sake."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "CGST ka full form kya hai?",
+      "options": {
+        "A": "Central Goods and Services Tax",
+        "B": "Common Goods and Services Tax",
+        "C": "Company Goods and Services Tax",
+        "D": "Core Goods and Services Tax"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "CGST ka full form Central Goods and Services Tax hai. Yeh tax Central Government dwara lagaya aur collect kiya jaata hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "SGST ka full form kya hai?",
+      "options": {
+        "A": "State Goods and Services Tax",
+        "B": "Special Goods and Services Tax",
+        "C": "Sales Goods and Services Tax",
+        "D": "Single Goods and Services Tax"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "SGST ka full form State Goods and Services Tax hai. Yeh tax State Government dwara lagaya aur collect kiya jaata hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Ek advocate apni legal services ek business firm ko deta hai. Is par GST kaun pay karega?",
+      "options": {
+        "A": "Advocate (Supplier)",
+        "B": "Business Firm (Recipient) under RCM",
+        "C": "Dono 50-50",
+        "D": "Koi nahi, legal services exempt hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Advocates dwara business entities ko di gayi legal services par Reverse Charge Mechanism (RCM) lagoo hota hai. Iska matlab hai ki GST pay karne ki zimmedari service lene wali business firm ki hogi."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Ek registered dealer jab doosre registered dealer ko maal bechta hai, to use kaun sa document issue karna chahiye?",
+      "options": {
+        "A": "Bill of Supply",
+        "B": "Tax Invoice",
+        "C": "Receipt Voucher",
+        "D": "Delivery Challan"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jab ek registered person kisi doosre registered person ko taxable goods ya services supply karta hai, to use Tax Invoice issue karna anivarya hai. Ismein tax alag se dikhaya jaata hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Bill of Supply kab issue kiya jaata hai?",
+      "options": {
+        "A": "Jab taxable goods beche jaate hain",
+        "B": "Jab exempt goods beche jaate hain ya Composition dealer supply karta hai",
+        "C": "Jab maal export kiya jaata hai",
+        "D": "Jab maal import kiya jaata hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bill of Supply tab issue kiya jaata hai jab koi registered person exempt (tax-free) goods/services supply karta hai ya jab koi Composition Scheme wala dealer supply karta hai. Ismein tax charge nahi kiya jaata."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "E-way bill ki aavashyakta (requirement) kab hoti hai?",
+      "options": {
+        "A": "Jab bhi koi maal transport hota hai",
+        "B": "Jab consignment ki value Rs. 50,000 se zyada ho",
+        "C": "Jab consignment ki value Rs. 1,00,000 se zyada ho",
+        "D": "Sirf inter-state movement ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aam taur par, jab bhi transport kiye ja rahe maal (consignment) ki value Rs. 50,000 se adhik hoti hai, to E-way bill generate karna anivarya hota hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "E-way bill kaun se portal par generate kiya jaata hai?",
+      "options": {
+        "A": "gst.gov.in",
+        "B": "ewaybillgst.gov.in",
+        "C": "incometaxindia.gov.in",
+        "D": "cbic.gov.in"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "E-way bill generate karne ke liye official government portal ewaybillgst.gov.in hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Debit Note kab issue kiya jaata hai?",
+      "options": {
+        "A": "Jab original invoice mein taxable value ya tax kam charge ho gaya ho",
+        "B": "Jab customer maal wapas kar de",
+        "C": "Jab customer ne extra payment kar di ho",
+        "D": "Jab maal kharab nikle"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Debit Note tab issue kiya jaata hai jab supplier ko customer se extra paisa lena hota hai. Aisa tab hota hai jab original invoice mein galti se value ya tax kam laga diya gaya ho."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Credit Note kab issue kiya jaata hai?",
+      "options": {
+        "A": "Jab original invoice mein value kam likh di ho",
+        "B": "Jab customer ne maal wapas kar diya ho ya goods ki quality kharab ho",
+        "C": "Jab naya order milta hai",
+        "D": "Jab supplier ko extra paisa lena ho"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Credit Note tab issue kiya jaata hai jab supplier ko customer ko paisa wapas karna hota hai ya uski liability kam karni hoti hai. Aisa sales return, post-sale discount ya quality issues ke case mein hota hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Tax Invoice mein inmein se kaun si detail anivarya (mandatory) NAHI hai?",
+      "options": {
+        "A": "Supplier ka GSTIN",
+        "B": "Recipient ka GSTIN (agar registered hai)",
+        "C": "HSN Code",
+        "D": "Supplier ke maalik ka naam"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Tax Invoice mein supplier ka naam (business name) zaruri hai, lekin uske maalik (proprietor) ka personal naam likhna anivarya nahi hai. Baaki sabhi details (GSTIN, HSN code etc.) mandatory hain."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "E-invoicing kin taxpayers ke liye anivarya hai?",
+      "options": {
+        "A": "Sabhi GST registered taxpayers ke liye",
+        "B": "Sirf Composition dealers ke liye",
+        "C": "Un taxpayers ke liye jinka aggregate turnover prescribed limit se zyada ho",
+        "D": "Sirf service providers ke liye"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "E-invoicing un B2B transactions ke liye anivarya hai jo aise taxpayers dwara ki jaati hain jinka aggregate turnover government dwara samay-samay par nirdharit limit (jaise 5 crore) se adhik ho."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "E-invoicing ka kya matlab hai?",
+      "options": {
+        "A": "Email se invoice bhejna",
+        "B": "Invoice ko computer par banana",
+        "C": "Invoice data ko government ke IRP (Invoice Registration Portal) par register karana",
+        "D": "Online payment lena"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "E-invoicing ka matlab hai apne standard invoice data ko electronically government ke Invoice Registration Portal (IRP) par upload karna. IRP uss invoice ko validate karke ek unique Invoice Reference Number (IRN) aur QR code generate karta hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "E-way bill ki validity kis cheez par nirbhar karti hai?",
+      "options": {
+        "A": "Maal ki keemat par",
+        "B": "Transport kiye jaa rahe distance par",
+        "C": "Maal ke wajan par",
+        "D": "Transporter ke type par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "E-way bill ki validity (kitne din tak मान्य rahega) uss doori par nirbhar karti hai jitni door maal ko transport kiya jaana hai. Jaise, har 200 km ke liye 1 din ki validity milti hai."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Ek B2C (Business to Consumer) invoice mein, agar sale ki value Rs. 50,000 se kam hai, to kya customer ka naam aur address likhna anivarya hai?",
+      "options": {
+        "A": "Haan, hamesha anivarya hai",
+        "B": "Nahi, anivarya nahi hai",
+        "C": "Sirf naam likhna anivarya hai",
+        "D": "Sirf address likhna anivarya hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "GST rules ke anusaar, agar ek B2C (unregistered customer) supply ki taxable value Rs. 50,000 se kam hai, to tax invoice mein customer ka naam aur address likhna anivarya nahi hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Invoice-cum-bill of supply kab issue kiya ja sakta hai?",
+      "options": {
+        "A": "Kabhi nahi kiya ja sakta",
+        "B": "Jab ek registered person ek hi customer ko taxable aur exempt dono tarah ki supply karta hai",
+        "C": "Jab sirf exempt supply ki jaati hai",
+        "D": "Jab sirf taxable supply ki jaati hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Jab koi registered supplier ek hi invoice mein ek hi unregistered customer ko taxable aur exempt dono tarah ke goods/services supply karta hai, to woh ek single 'Invoice-cum-Bill of Supply' issue kar सकता है."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "HSN code kitne digit ka ho sakta hai?",
+      "options": {
+        "A": "Sirf 4 digit",
+        "B": "Sirf 6 digit",
+        "C": "2, 4, 6 ya 8 digit",
+        "D": "Sirf 8 digit"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "HSN code 2, 4, 6, ya 8 digits ka ho sakta hai. Turnover ke आधार par, taxpayer ko 4, 6 ya 8 digit HSN code apne invoice mein mention karna hota hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Ek tax invoice ki kitni copies banani hoti hain (in case of goods)?",
+      "options": {
+        "A": "Ek - Original",
+        "B": "Do - Original aur Duplicate",
+        "C": "Teen - Original, Duplicate, Triplicate",
+        "D": "Jitni marzi bana sakte hain"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Goods ki supply ke case mein, tax invoice ki teen copies banani hoti hain: Original for Recipient, Duplicate for Transporter, aur Triplicate for Supplier."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Services ke case mein tax invoice ki kitni copies banani hoti hain?",
+      "options": {
+        "A": "Ek - Original",
+        "B": "Do - Original aur Duplicate",
+        "C": "Teen - Original, Duplicate, Triplicate",
+        "D": "Char copies"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Services ki supply ke case mein, tax invoice ki do copies banani hoti hain: Original for Recipient aur Duplicate for Supplier."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "IRN ka full form kya hai?",
+      "options": {
+        "A": "Invoice Reference Number",
+        "B": "Indian Registration Number",
+        "C": "Invoice Registration Note",
+        "D": "Internal Reference Number"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "E-invoicing ke sandarbh mein, IRN ka full form 'Invoice Reference Number' hai. Yeh IRP dwara har invoice ke liye generate kiya gaya ek unique 64-character number hota hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Delivery Challan par maal kab bheja ja sakta hai?",
+      "options": {
+        "A": "Jab supply ka nature pata na ho (e.g., job work)",
+        "B": "Jab maal sale ke liye bheja ja raha ho",
+        "C": "Jab customer payment kar de",
+        "D": "Jab maal wapas aa raha ho"
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "Delivery Challan par maal tab bheja ja sakta hai jab woh 'supply' na ho. Jaise ki job work ke liye maal bhejna, 'sale on approval' basis par bhejna, ya ek branch se doosri branch mein bhejna (jahan invoice ki zarurat na ho)."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "ITC ka full form kya hai?",
+      "options": {
+        "A": "Input Tax Credit",
+        "B": "Internal Tax Credit",
+        "C": "Input Tax Collection",
+        "D": "Income Tax Credit"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "ITC ka full form Input Tax Credit hai. Iska matlab hai ki business ke liye ki gayi kharidari par jo GST aapne pay kiya hai, use aap apni sales par banne wale GST se adjust kar sakte hain."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "ITC claim karne ke liye aapke paas kya hona anivarya hai?",
+      "options": {
+        "A": "Supplier ka phone number",
+        "B": "Valid Tax Invoice ya Debit Note",
+        "C": "Delivery Challan",
+        "D": "Payment ki receipt"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ITC claim karne ki sabse pehli shart hai ki aapke paas ek valid Tax Invoice ya Debit Note hona chahiye jo supplier ne issue kiya ho."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Aapko kharida hua maal (goods) ya services mil jaani chahiye, yeh ITC lene ki shart hai ya nahi?",
+      "options": {
+        "A": "Haan, yeh ek anivarya shart hai",
+        "B": "Nahi, yeh zaruri nahi hai",
+        "C": "Sirf goods ke case mein zaruri hai",
+        "D": "Sirf services ke case mein zaruri hai"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Haan, ITC claim karne ke liye yeh anivarya hai ki aapko woh goods ya services receive ho chuki hon jinke against aap credit le rahe hain."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Agar aapke supplier ne सरकार ko tax nahi bhara, to kya aapko ITC milega?",
+      "options": {
+        "A": "Haan, mil jayega",
+        "B": "Nahi, nahi milega",
+        "C": "Aadha milega",
+        "D": "Yeh supplier ki zimmedari hai, aapko farak nahi padta"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GST ke naye niyamon ke anusaar, aapko ITC tabhi milega jab aapke supplier ne uss invoice par collect kiya gaya tax sarkaar ko jama kar diya ho aur apni GSTR-1 file kar di ho."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Blocked Credit (Section 17(5)) ka kya matlab hai?",
+      "options": {
+        "A": "Aisa credit jo abhi process mein hai",
+        "B": "Aisi kharidari jin par chah kar bhi ITC nahi liya ja sakta",
+        "C": "Aisa credit jo supplier ne block kar diya hai",
+        "D": "Aisa credit jo agle mahine milega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blocked Credit ka matlab kuch aise specific goods aur services se hai jin par pay kiye gaye GST ka credit lene ki anumati nahi hai, bhale hi woh business ke liye istemal hue hon. Jaise, food and beverages, club membership etc."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Kya personal use ke liye kharidi gayi car par pay kiye gaye GST ka ITC mil sakta hai?",
+      "options": {
+        "A": "Haan, mil sakta hai",
+        "B": "Nahi, nahi mil sakta",
+        "C": "Sirf 50% mil sakta hai",
+        "D": "Sirf agar car mehengi ho"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Personal use ke liye kharidi gayi kisi bhi cheez par ITC nahi milta. Motor vehicles par ITC aam taur par blocked hota hai, kuch exceptions (jaise transport business) ko chhodkar."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Ek invoice ka ITC claim karne ki time limit kya hai?",
+      "options": {
+        "A": "Invoice date se 1 saal tak",
+        "B": "Agle financial year ke 30th November tak ya annual return file karne ki date tak, jo bhi pehle ho",
+        "C": "Agle financial year ke 30th September tak ya annual return file karne ki date tak, jo bhi pehle ho",
+        "D": "Koi time limit nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Kisi financial year ke invoice ka ITC aap agle financial year ke 30th November tak ya uss saal ki annual return file karne ki date tak (jo bhi pehle aaye) claim kar sakte hain."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Agar aapne supplier ko invoice ke 180 din ke andar payment nahi ki, to ITC ka kya hoga?",
+      "options": {
+        "A": "Kuch nahi hoga, ITC valid rahega",
+        "B": "Aapko liya hua ITC reverse karna padega aur us par interest bhi dena hoga",
+        "C": "ITC 50% ho jayega",
+        "D": "Supplier ko penalty lagegi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "GST law ke anusaar, agar aap apne supplier ko invoice date se 180 din ke andar payment nahi karte (value + tax), to aapko uss invoice par liya gaya ITC reverse karna padega. Jab aap payment kar denge, tab aap dobara ITC claim kar sakte hain."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Electronic Credit Ledger mein kya hota hai?",
+      "options": {
+        "A": "Aapka cash balance",
+        "B": "Aapka available ITC balance",
+        "C": "Aapki total tax liability",
+        "D": "Aapke bank account ka details"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electronic Credit Ledger ek digital register hai jo GST portal par maintain hota hai. Ismein taxpayer ka saara available Input Tax Credit ka balance dikhta hai."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Electronic Cash Ledger mein paisa kaise aata hai?",
+      "options": {
+        "A": "ITC claim karne se",
+        "B": "Net banking, challan, etc. se tax jama karne par",
+        "C": "Sales karne se apne aap aa jaata hai",
+        "D": "Government transfer karti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Electronic Cash Ledger aapke e-wallet jaisa hai. Ismein paisa tab aata hai jab aap GST portal par challan generate karke Net banking, debit/credit card, NEFT/RTGS ya over the counter payment karke tax, interest, penalty etc. jama karte hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Tax liability pay karne ke liye ITC ka istemal kis order mein hota hai?",
+      "options": {
+        "A": "Pehle IGST, phir CGST, phir SGST",
+        "B": "Kaise bhi kar sakte hain",
+        "C": "IGST credit pehle IGST ke liye, phir CGST/SGST ke liye. CGST credit pehle CGST ke liye, phir IGST ke liye.",
+        "D": "Sirf same tax ke against use kar sakte hain (IGST for IGST, CGST for CGST)"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "ITC utilization ke niyam hain: IGST credit pehle IGST liability ke liye, phir bacha hua CGST ya SGST ke liye use hoga. CGST credit pehle CGST, phir IGST ke liye (SGST ke liye nahi). SGST credit pehle SGST, phir IGST ke liye (CGST ke liye nahi)."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "GST mein tax payment ke liye challan ka form number kya hai?",
+      "options": {
+        "A": "Form GST PMT-09",
+        "B": "Form GST PMT-06",
+        "C": "Form GSTR-3B",
+        "D": "Form GST REG-01"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GST mein tax, interest, penalty, fees etc. pay karne ke liye jo challan generate hota hai, uska form number GST PMT-06 hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Kya aap CGST ka credit SGST ki liability set-off karne ke liye use kar sakte hain?",
+      "options": {
+        "A": "Haan",
+        "B": "Nahi",
+        "C": "Sirf 50% tak",
+        "D": "Special permission se"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Nahi, CGST ka ITC SGST ki liability ke against aur SGST ka ITC CGST ki liability ke against use nahi kiya ja sakta. Inka cross-utilization allowed nahi hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Agar aapne galti se ek head (e.g., CGST) mein paisa jama kar diya, jabki karna doosre head (e.g., SGST) mein tha, to use transfer karne ke liye kaun sa form use hota hai?",
+      "options": {
+        "A": "Form GST PMT-06",
+        "B": "Form GST PMT-09",
+        "C": "Form GSTR-1",
+        "D": "Form GSTR-9"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Form GST PMT-09 ka istemal Electronic Cash Ledger mein galti se kisi galat head (major ya minor) mein jama kiye gaye amount ko sahi head mein transfer karne ke liye kiya jaata hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Bank dwara diye jaane wale 'Interest on loans' par GST lagta hai ya nahi, aur kya bank ko is par ITC milta hai?",
+      "options": {
+        "A": "Haan, GST lagta hai aur ITC milta hai",
+        "B": "Nahi, yeh exempt supply hai aur isse related ITC reverse karna padta hai",
+        "C": "GST lagta hai par ITC nahi milta",
+        "D": "GST nahi lagta par ITC milta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Interest on loans/deposits jaisi financial services GST se exempt hain. Kyunki yeh exempt supply hai, isliye bank ko in services ko dene mein istemal hue common inputs ka ITC (as per Rule 42/43) reverse karna padta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "ITC claim karne ke liye, aapko apni return (GSTR-3B) file karni zaruri hai ya nahi?",
+      "options": {
+        "A": "Zaruri nahi hai",
+        "B": "Haan, return file karna anivarya hai",
+        "C": "Sirf agar ITC 1 lakh se zyada ho",
+        "D": "Sirf saal ke end mein zaruri hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ITC claim karne ki ek shart yeh bhi hai ki recipient (jise credit lena hai) ne apni GST return (GSTR-3B) file kar di ho."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Electronic Liability Register mein kya show hota hai?",
+      "options": {
+        "A": "Aapka ITC balance",
+        "B": "Aapka cash balance",
+        "C": "Aapki total tax liability jo return file karne par banti hai",
+        "D": "Aapke suppliers ki list"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Electronic Liability Register (Part-I) mein taxpayer ki GSTR-1 aur GSTR-3B ke आधार par banne wali total tax liability (aur anya dues) ka record hota hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "GSTR-1 kya hai aur ismein kya detail jaati hai?",
+      "options": {
+        "A": "Yeh purchase ki return hai",
+        "B": "Yeh outward supplies (sales) ki details ki return hai",
+        "C": "Yeh tax payment ki return hai",
+        "D": "Yeh annual return hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GSTR-1 ek monthly ya quarterly return hai jismein taxpayer apni sabhi outward supplies (sales) ki invoice-wise details furnish karta hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "GSTR-3B kya hai?",
+      "options": {
+        "A": "Sirf sales ki summary",
+        "B": "Sirf purchase ki summary",
+        "C": "Sales, ITC claimed aur tax paid ki monthly summary return",
+        "D": "Registration ke waqt bhara jaane wala form"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "GSTR-3B ek monthly summary return hai jismein taxpayer apni sales, ITC, aur net tax liability ki summary figures declare karke tax ka payment karta hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Monthly GSTR-1 file karne ki due date kya hai?",
+      "options": {
+        "A": "Agle mahine ki 10 tarikh",
+        "B": "Agle mahine ki 11 tarikh",
+        "C": "Agle mahine ki 15 tarikh",
+        "D": "Agle mahine ki 20 tarikh"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Jin taxpayers ko monthly GSTR-1 file karni hoti hai, unke liye due date agle mahine ki 11 tarikh hoti hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Monthly GSTR-3B file karne ki due date kya hai?",
+      "options": {
+        "A": "Agle mahine ki 10 tarikh",
+        "B": "Agle mahine ki 15 tarikh",
+        "C": "Agle mahine ki 20 tarikh",
+        "D": "Agle mahine ki 25 tarikh"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Jyada-tar taxpayers ke liye monthly GSTR-3B file karne ki due date agle mahine ki 20 tarikh hoti hai (kuch states ke liye 22/24 bhi hai)."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "QRMP scheme ka full form kya hai?",
+      "options": {
+        "A": "Quick Response Monthly Payment",
+        "B": "Quarterly Return Monthly Payment",
+        "C": "Quick Return Management Plan",
+        "D": "Quarterly Registration Monthly Plan"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "QRMP ka full form 'Quarterly Return Monthly Payment' hai. Yeh chhote taxpayers (turnover up to 5 crores) ke liye ek scheme hai jismein woh GSTR-1 aur GSTR-3B quarterly file kar sakte hain, lekin tax monthly pay karte hain."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "GSTR-2B kya hai?",
+      "options": {
+        "A": "Yeh ek return hai jo taxpayer file karta hai",
+        "B": "Yeh ek auto-drafted ITC statement hai jo har mahine generate hota hai",
+        "C": "Yeh sales ki summary hai",
+        "D": "Yeh annual return hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GSTR-2B ek static, auto-drafted statement hai jo har mahine GST portal par generate hota hai. Ismein aapke suppliers dwara unki GSTR-1 mein report kiye gaye invoices ke आधार par aapka eligible aur ineligible ITC dikhaya jaata hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Annual Return kaun se form mein file ki jaati hai?",
+      "options": {
+        "A": "GSTR-1",
+        "B": "GSTR-3B",
+        "C": "GSTR-9",
+        "D": "GSTR-10"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "GST ke antargat Annual Return Form GSTR-9 mein file ki jaati hai. Ismein poore financial year mein file ki gayi monthly/quarterly returns ka data consolidate kiya jaata hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Final Return (GSTR-10) kab file karni hoti hai?",
+      "options": {
+        "A": "Har saal ke ant mein",
+        "B": "Har mahine ke ant mein",
+        "C": "GST registration cancel hone ke baad",
+        "D": "Business shuru karne se pehle"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Final Return (GSTR-10) tab file ki jaati hai jab kisi taxpayer ka GST registration cancel ya surrender ho jaata hai. Yeh cancellation order ki date se 3 mahine ke andar file karni hoti hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar GSTR-3B late file ki jaaye to late fee kitni lagti hai (per day)?",
+      "options": {
+        "A": "Rs. 10 (CGST) + Rs. 10 (SGST)",
+        "B": "Rs. 25 (CGST) + Rs. 25 (SGST)",
+        "C": "Rs. 50 (CGST) + Rs. 50 (SGST)",
+        "D": "Rs. 100 (CGST) + Rs. 100 (SGST)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Agar GSTR-3B mein tax liability hai, to late file karne par Rs. 25 per day CGST aur Rs. 25 per day SGST (total Rs. 50 per day) ki late fee lagti hai, jo maximum limit ke adheen hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "GST ke anusaar, accounts aur records ko kitne saal tak sambhal kar rakhna anivarya hai?",
+      "options": {
+        "A": "3 saal",
+        "B": "5 saal",
+        "C": "6 saal (72 months)",
+        "D": "8 saal"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "GST Act ke Section 36 ke anusaar, har registered person ko apne accounts aur records (invoices, ledgers, etc.) ko kam se kam 72 months (6 saal) tak maintain karna anivarya hai. Yeh 6 saal uss financial year ki annual return file karne ki due date se gine jaate hain."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Invoice Furnishing Facility (IFF) ka istemal kaun kar sakta hai?",
+      "options": {
+        "A": "Sabhi taxpayers",
+        "B": "Sirf bade taxpayers",
+        "C": "QRMP scheme wale chhote taxpayers",
+        "D": "Sirf Composition dealers"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Invoice Furnishing Facility (IFF) ka istemal QRMP scheme wale taxpayers kar sakte hain. Iske zariye woh quarter ke pehle do mahino ke apne B2B invoices upload kar sakte hain, taaki unke customers ko samay par ITC mil sake."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Nil GSTR-3B return SMS ke through file ki ja sakti hai?",
+      "options": {
+        "A": "Nahi, sirf portal se hoti hai",
+        "B": "Haan, ki ja sakti hai",
+        "C": "Sirf GSTR-1 ho sakti hai",
+        "D": "Yeh facility band ho gayi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Haan, agar aapki kisi mahine mein koi sales, purchase ya tax liability nahi hai, to aap apni Nil GSTR-3B return GST portal par login kiye bina, ek simple SMS bhejkar file kar sakte hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "GST Audit (GSTR-9C) kin taxpayers ke liye anivarya hai?",
+      "options": {
+        "A": "Sabhi taxpayers ke liye",
+        "B": "Jinka turnover 1 crore se zyada ho",
+        "C": "Jinka turnover 5 crore se zyada ho",
+        "D": "Jinka turnover 2 crore se zyada ho"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "GST Audit aur Reconciliation Statement (GSTR-9C) un taxpayers ke liye anivarya hai jinka aggregate turnover kisi financial year mein 5 crore rupaye se adhik ho."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Agar GSTR-1 mein koi galti ho jaaye, to use kaise theek kiya ja sakta hai?",
+      "options": {
+        "A": "Uss return ko revise karke",
+        "B": "Agle mahine ki GSTR-1 mein amendment table mein theek karke",
+        "C": "Ek email bhejkar",
+        "D": "Galti theek nahi ho sakti"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "GST mein GSTR-1 ko revise karne ka option nahi hai. Purani galti ko theek karne ke liye, agle mahine (ya aane wale kisi bhi mahine) ki GSTR-1 mein diye gaye amendment tables ka istemal karke sahi details daali jaati hain."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Taxpayer ko apne principal place of business par kya display karna zaruri hai?",
+      "options": {
+        "A": "Apna PAN card",
+        "B": "GST Registration Certificate",
+        "C": "Apna bank statement",
+        "D": "Pichle saal ki balance sheet"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Har registered taxpayer ko apne principal place of business aur har additional place of business par ek prominent jagah par apna GST Registration Certificate display karna anivarya hai."
+    }
+  ]
+}

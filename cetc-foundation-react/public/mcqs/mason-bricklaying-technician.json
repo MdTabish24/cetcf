@@ -1,0 +1,1443 @@
+{
+  "course_name": "Mason & Bricklaying Technician",
+  "sector": "Construction & Building Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Safety, Tools & Equipment",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Building Materials & Mortar Mixes",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Bricklaying Fundamentals & Techniques",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Wall Construction & Structural Elements",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Plastering, Pointing & Finishing",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Quality Control, Repair & Estimation",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Construction site par kaam karte samay sabse pehle kya ensure karna chahiye?",
+      "options": {
+        "A": "Apna PPE (Personal Protective Equipment) pehna hai",
+        "B": "Lunch break ka time pata karna",
+        "C": "Apne tools ko chamkana",
+        "D": "Dusre workers se baat karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Construction site par safety sabse important hai, aur PPE jaise helmet, safety shoes, gloves, safety glasses pehanna bahut zaroori hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Brickwork ke liye mortar apply karne ke liye kaunsa hand tool use hota hai?",
+      "options": {
+        "A": "Hammer",
+        "B": "Trowel",
+        "C": "Chisel",
+        "D": "Pliers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Trowel (karni) brickwork mein mortar ko uthane, spread karne aur trim karne ke liye ek essential tool hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Kisi wall ki vertical straightness check karne ke liye kaunsa tool use kiya jata hai?",
+      "options": {
+        "A": "Spirit Level",
+        "B": "Measuring Tape",
+        "C": "Plumb Bob",
+        "D": "Line Dori"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Plumb bob (saahul) ka use vertical alignment (seedhapan) check karne ke liye hota hai, jabki spirit level horizontal (level) aur vertical dono check karta hai, par plumb bob zyada accurate verticality ke liye hota hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Safety shoes pehenna kyon zaroori hai construction site par?",
+      "options": {
+        "A": "Yeh fashion statement hai",
+        "B": "Pairon ko girne wale objects se bachane ke liye",
+        "C": "Thand se bachane ke liye",
+        "D": "Zyada comfortable rehne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Safety shoes steel toe cap ke saath aate hain jo pairon ko heavy objects ke girne se hone wale nuksaan se bachate hain."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Electrical tools use karte samay kya precaution lena chahiye?",
+      "options": {
+        "A": "Wet hands se operate karna",
+        "B": "Damaged wires ko ignore karna",
+        "C": "Proper earthing aur insulation check karna",
+        "D": "Tools ko pani mein dhona"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Electrical tools ke saath kaam karte samay, electric shock se bachne ke liye proper earthing aur undamaged insulation wale wires ka hona bahut zaroori hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Mortar mix karne ke liye kaunsi machine use ki jaati hai large quantity mein?",
+      "options": {
+        "A": "Grinder",
+        "B": "Drill Machine",
+        "C": "Concrete Mixer",
+        "D": "Saw Machine"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Concrete mixer (ya mortar mixer) ka use cement, sand, aur pani ko uniformly mix karke mortar ya concrete banane ke liye hota hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Spirit level ka primary use kya hai?",
+      "options": {
+        "A": "Weight measure karna",
+        "B": "Horizontal aur vertical surfaces ko level check karna",
+        "C": "Material cut karna",
+        "D": "Holes drill karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spirit level surfaces ki levelness (samantarta) aur plumbness (seedhapan) check karne ke liye use hota hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Hazardous chemicals ke saath kaam karte samay kaunsa PPE zaroori hai?",
+      "options": {
+        "A": "Safety Goggles aur Gloves",
+        "B": "Helmet aur Safety Shoes",
+        "C": "Ear Plugs",
+        "D": "Reflective Vest"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Chemicals se aankhon aur skin ko bachane ke liye safety goggles aur gloves pehenna bahut zaroori hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Measuring tape ka use kis kaam ke liye hota hai?",
+      "options": {
+        "A": "Wall ko todne ke liye",
+        "B": "Measurements lene ke liye",
+        "C": "Mortar mix karne ke liye",
+        "D": "Bricks cut karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Measuring tape (maapne wala fita) lambai, chaudai aur unchai jaise dimensions ko measure karne ke liye use hota hai."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Scaffolding par kaam karte samay kaunsi safety precaution leni chahiye?",
+      "options": {
+        "A": "Scaffolding ko overload karna",
+        "B": "Safety harness pehenna",
+        "C": "Tools ko scaffolding par chhod dena",
+        "D": "Jaldi se upar chadna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Height par kaam karte samay scaffolding se girne ke khatre ko kam karne ke liye safety harness pehenna aur use anchor karna bahut zaroori hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Chhote areas mein mortar mix karne ke liye kaunsa tool prefer kiya jata hai?",
+      "options": {
+        "A": "JCB",
+        "B": "Hand Trowel aur Hoe",
+        "C": "Concrete Pump",
+        "D": "Forklift"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chhote areas ya kam quantity ke liye, hand trowel (karni) aur hoe (kudali) ka use karke mortar ko manually mix kiya ja sakta hai."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Site par first aid box kyon hona chahiye?",
+      "options": {
+        "A": "Documents store karne ke liye",
+        "B": "Minor injuries ka turant ilaaj karne ke liye",
+        "C": "Tools rakhne ke liye",
+        "D": "Khana rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "First aid box mein basic medical supplies hote hain jo site par hone wali chhoti-moti choton aur accidents ka turant ilaaj karne mein madad karte hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Power tools jaise angle grinder use karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Loose kapde pehenna",
+        "B": "Safety guard ko hata dena",
+        "C": "Safety goggles aur face shield pehenna",
+        "D": "Tool ko forcefully use karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Angle grinder se sparks aur debris nikalte hain, isliye aankhon aur chehre ko bachane ke liye safety goggles aur face shield pehenna bahut zaroori hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "Line dori aur pins ka use kis liye hota hai brickwork mein?",
+      "options": {
+        "A": "Bricks ko cut karne ke liye",
+        "B": "Bricks ki course ko straight aur level rakhne ke liye",
+        "C": "Mortar ko mix karne ke liye",
+        "D": "Holes drill karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Line dori (mason's line) aur pins (ya corner blocks) ka use bricks ki har course ko straight aur horizontally level rakhne ke liye reference line provide karte hain."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek mason ke liye sabse important quality kya hai?",
+      "options": {
+        "A": "Tez daudna",
+        "B": "Accuracy aur attention to detail",
+        "C": "Zyada khana",
+        "D": "Zyada sona"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek ache mason ke liye kaam mein accuracy (sateekta) aur detail par dhyaan dena bahut zaroori hai taki strong aur aesthetic structures banaye ja sakein."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Toolbox mein tools ko kaise store karna chahiye?",
+      "options": {
+        "A": "Ek dusre par phenk kar",
+        "B": "Clean aur organized tareeke se",
+        "C": "Gandi haalat mein",
+        "D": "Kahin bhi chhod kar"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools ko clean aur organized tareeke se rakhne se unki life badhti hai aur zaroorat padne par aasani se mil jaate hain."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Heavy materials ko manually lift karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Apni peeth (back) ko mod kar uthana",
+        "B": "Ghutanon (knees) ko mod kar uthana",
+        "C": "Akele uthana chahe kitna bhi heavy ho",
+        "D": "Jaldi se uthana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Heavy materials ko lift karte samay, apni peeth ko seedha rakhna aur ghutanon ko mod kar uthana chahiye, taaki back injury se bacha ja sake. Agar zyada heavy ho toh help leni chahiye."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Standard brick ka approximate size kya hota hai (India mein) without mortar?",
+      "options": {
+        "A": "190mm x 90mm x 90mm",
+        "B": "230mm x 110mm x 70mm",
+        "C": "100mm x 50mm x 50mm",
+        "D": "300mm x 150mm x 150mm"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Indian standard (modular) brick ka nominal size 200mm x 100mm x 100mm hota hai with mortar joint, aur actual size 190mm x 90mm x 90mm hota hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Cement ko store karte samay kis baat ka dhyaan rakhna chahiye?",
+      "options": {
+        "A": "Direct sunlight mein rakhna",
+        "B": "Moisture (nami) se bachana",
+        "C": "Zameen par seedha rakhna",
+        "D": "Open air mein rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Cement hygroscopic hota hai, matlab yeh hawa se nami absorb kar leta hai aur apni strength kho deta hai. Isliye use moisture-free environment mein store karna chahiye."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Mortar banane ke liye kaunse main ingredients hote hain?",
+      "options": {
+        "A": "Cement, Pani, Steel",
+        "B": "Cement, Sand, Water",
+        "C": "Bricks, Cement, Water",
+        "D": "Gravel, Cement, Water"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mortar cement, sand (fine aggregate) aur pani ka mix hota hai, jise bricks ko jodne aur plastering ke liye use kiya jata hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Achhe quality ki bricks ki kya pehchan hai?",
+      "options": {
+        "A": "Halka rang aur khurduri surface",
+        "B": "Sharp edges, uniform colour aur ring sound jab do bricks ko takraya jaye",
+        "C": "Asani se toot jati hain",
+        "D": "Pani absorb nahi karti"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Achhi quality ki bricks ki edges sharp hoti hain, uniform colour hota hai, aur jab do bricks ko takraya jaye to metallic ring sound aati hai. Unka water absorption bhi limited hota hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "M20 grade concrete ka kya matlab hai?",
+      "options": {
+        "A": "20 kg cement per bag",
+        "B": "20 MPa compressive strength 28 din baad",
+        "C": "20% water content",
+        "D": "20 mm aggregate size"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "M20 grade concrete ka matlab hai ki uski characteristic compressive strength 28 din baad 20 N/mm² (ya 20 MPa) hogi."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Sand (ret) ka kya role hai mortar mein?",
+      "options": {
+        "A": "Strength badhana",
+        "B": "Shrinkage ko kam karna aur economical banana",
+        "C": "Colour dena",
+        "D": "Pani absorb karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sand mortar mein shrinkage ko kam karta hai, cracks ko rokta hai, aur cement ki quantity ko kam karke mix ko economical banata hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Ordinary Portland Cement (OPC) kitne grades mein available hota hai India mein?",
+      "options": {
+        "A": "1 grade only",
+        "B": "2 grades (33, 43)",
+        "C": "3 grades (33, 43, 53)",
+        "D": "5 grades"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Ordinary Portland Cement (OPC) India mein primarily 33, 43 aur 53 grades mein available hota hai, jo 28 din ki compressive strength ko darshate hain."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Fly ash bricks ke kya fayde hain?",
+      "options": {
+        "A": "Bahut heavy hoti hain",
+        "B": "Lightweight, less water absorption aur eco-friendly",
+        "C": "High cost",
+        "D": "Jaldi toot jati hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fly ash bricks lightweight hoti hain, water absorption kam hota hai, aur yeh thermal insulation provide karti hain. Yeh eco-friendly bhi hain kyunki waste material se banti hain."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Mortar mix ratio 1:4 ka kya matlab hai?",
+      "options": {
+        "A": "1 part cement, 4 parts water",
+        "B": "1 part sand, 4 parts cement",
+        "C": "1 part cement, 4 parts sand",
+        "D": "1 part water, 4 parts sand"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mortar mix ratio mein pehla number cement ki quantity aur dusra sand ki quantity ko volume ke hisaab se darshata hai. Jaise 1:4 ka matlab 1 hissa cement aur 4 hissa sand."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Bricks ko pani mein soak (bhigona) kyon kiya jata hai brickwork se pehle?",
+      "options": {
+        "A": "Unka weight badhane ke liye",
+        "B": "Mortar se pani absorb na karein, jisse mortar ki strength bani rahe",
+        "C": "Unka rang badalne ke liye",
+        "D": "Unko saaf karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bricks porous hoti hain aur mortar se pani absorb kar sakti hain, jisse mortar ki curing process disrupt ho sakti hai aur uski strength kam ho sakti hai. Soaking se yeh roka jaata hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Cement ki shelf life (store karne ki avadhi) kitni hoti hai ek ache storage condition mein?",
+      "options": {
+        "A": "1 saal",
+        "B": "3 mahine",
+        "C": "1 mahina",
+        "D": "6 mahine"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Achhe storage conditions mein, cement apni strength 3 mahine tak retain karta hai. Uske baad uski strength dheere-dheere kam hone lagti hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Agar mortar bahut zyada pani se bana ho toh kya hoga?",
+      "options": {
+        "A": "Uski strength badh jayegi",
+        "B": "Uski strength kam ho jayegi aur shrinkage cracks aayenge",
+        "C": "Woh jaldi set ho jayega",
+        "D": "Woh zyada durable banega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Excess water mortar ki workability badhata hai, lekin uski strength ko kam karta hai aur drying par shrinkage cracks aane ki sambhavna badhata hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Lime mortar ka primary advantage kya hai over cement mortar?",
+      "options": {
+        "A": "Bahut zyada strength",
+        "B": "Self-healing properties aur better workability",
+        "C": "Bahut fast setting",
+        "D": "High cost"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Lime mortar ki strength cement mortar se kam hoti hai, lekin uski workability achhi hoti hai, breathing properties hoti hain, aur yeh self-healing properties bhi show karta hai (chhoti cracks ko repair karta hai)."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Aggregates (bajri/kankar) ka use concrete mein kyon kiya jata hai?",
+      "options": {
+        "A": "Concrete ko rang dene ke liye",
+        "B": "Cost-effective banane aur volume provide karne ke liye",
+        "C": "Concrete ko halka banane ke liye",
+        "D": "Concrete ko transparent banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aggregates concrete ka bulk banate hain, uski strength aur durability mein contribute karte hain, aur cement ki quantity ko kam karke concrete ko economical banate hain."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Achhe quality ke sand mein kya impurities nahi honi chahiye?",
+      "options": {
+        "A": "Silt, clay aur organic matter",
+        "B": "Stone particles",
+        "C": "Water",
+        "D": "Cement"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Silt, clay aur organic matter sand mein hone se mortar ya concrete ki strength aur durability kam ho sakti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Ready-Mix Concrete (RMC) ka kya fayda hai?",
+      "options": {
+        "A": "Site par hi banaya ja sakta hai",
+        "B": "Consistent quality aur time saving",
+        "C": "Bahut sasta hota hai",
+        "D": "Zyada water ki zaroorat hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RMC plant mein controlled conditions mein banta hai, isliye uski quality consistent hoti hai. Yeh site par mix karne ka time bachata hai aur wastage kam karta hai."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Mortar ki workability kis par depend karti hai?",
+      "options": {
+        "A": "Sirf cement ki quantity par",
+        "B": "Water content, sand ki grading aur mix proportion par",
+        "C": "Sirf temperature par",
+        "D": "Sirf color par"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Mortar ki workability (kitni aasani se use apply kiya ja sakta hai) water content, sand particles ki shape aur grading, aur cement-sand ratio par depend karti hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Bricklaying mein 'frog' kya hota hai?",
+      "options": {
+        "A": "Ek type ka jaanwar",
+        "B": "Brick ke upari surface par bana indentation",
+        "C": "Brick ka corner",
+        "D": "Mortar joint ka naam"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Frog brick ke top surface par ek depression hota hai jismein mortar bhar jaata hai, jo brick aur mortar ke beech better bond banane mein madad karta hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Stretcher bond mein bricks ko kaise rakha jata hai?",
+      "options": {
+        "A": "Unki width (chaudai) ke along",
+        "B": "Unki length (lambai) ke along",
+        "C": "Unki height (uchai) ke along",
+        "D": "Randomly"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Stretcher bond mein bricks ko unki lambai ke along rakha jata hai, aur har course mein bricks offset hoti hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Wall ki verticality (seedhapan) check karne ke liye kaunsa tool use hota hai during bricklaying?",
+      "options": {
+        "A": "Measuring tape",
+        "B": "Spirit level aur Plumb bob",
+        "C": "Hammer",
+        "D": "Trowel"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Spirit level horizontal aur verticality dono check karta hai, jabki plumb bob specifically verticality (plumb) check karne ke liye use hota hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "English bond mein alternate courses mein kya pattern hota hai?",
+      "options": {
+        "A": "Sirf stretcher courses",
+        "B": "Sirf header courses",
+        "C": "Ek course stretcher aur agla course header",
+        "D": "Random mix"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "English bond sabse strong bond mana jata hai, jismein alternate courses mein stretchers aur headers hote hain, jo achha interlocking provide karte hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Mortar joints ki thickness generally kitni honi chahiye?",
+      "options": {
+        "A": "5 mm",
+        "B": "10 mm",
+        "C": "20 mm",
+        "D": "25 mm"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Standard mortar joint ki thickness 10 mm (approx 3/8 inch) hoti hai, jo strength aur aesthetics ke liye optimal hoti hai."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Wall corners par achhi bonding ke liye kya use kiya jata hai?",
+      "options": {
+        "A": "Sirf half bricks",
+        "B": "Queen Closer",
+        "C": "King Closer",
+        "D": "Sirf full bricks"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Queen closer (brick ki length ke along aadhi kaati hui brick) ka use corners par bonding ko improve karne aur header course mein continuous vertical joint ko break karne ke liye hota hai."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Brickwork mein 'raking out' kya hota hai?",
+      "options": {
+        "A": "Naye mortar ko apply karna",
+        "B": "Purane ya fresh mortar joints se extra mortar nikalna",
+        "C": "Bricks ko todna",
+        "D": "Wall ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Raking out ka matlab hai mortar joints se loose ya extra mortar ko nikalna, jisse pointing ya plastering ke liye achhi key (pakad) mil sake."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Wall ke base par 'Damp Proof Course (DPC)' kyon provide kiya jata hai?",
+      "options": {
+        "A": "Wall ko sundar banane ke liye",
+        "B": "Ground se moisture ko wall mein upar aane se rokne ke liye",
+        "C": "Wall ko zyada strength dene ke liye",
+        "D": "Wall ko garam rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "DPC (Damp Proof Course) ek water-resistant layer hoti hai jo ground se capillary action dwara moisture ko wall mein upar chadne se rokti hai, jisse wall dry rehti hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Mason's square (guniya) ka use kis liye hota hai?",
+      "options": {
+        "A": "Mortar mix karne ke liye",
+        "B": "Right angles (90 degree) check karne ke liye",
+        "C": "Bricks todne ke liye",
+        "D": "Measurements lene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Mason's square (guniya) ka use corners aur joints ki squareness (90 degree angle) check karne ke liye hota hai, taaki wall straight bane."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Bricklaying mein 'buttering' kya hai?",
+      "options": {
+        "A": "Brick par ghee lagana",
+        "B": "Brick ke ends aur sides par mortar lagana",
+        "C": "Brick ko pani mein bhigona",
+        "D": "Brick ko todna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Buttering ka matlab hai brick ke ends aur sides par mortar lagana, jisse jab brick ko rakha jaye toh woh adjoining bricks ke saath achhe se bond ho sake."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Cavity wall ka primary purpose kya hai?",
+      "options": {
+        "A": "Wall ko kamzor banana",
+        "B": "Thermal insulation aur dampness se protection provide karna",
+        "C": "Zyada bricks use karna",
+        "D": "Wall ko halka banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Cavity wall mein do alag-alag walls hoti hain jinke beech mein ek air gap hota hai. Yeh air gap thermal insulation provide karta hai aur bahar se aane wali nami ko andar aane se rokta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Header bond mein bricks ko kaise rakha jata hai?",
+      "options": {
+        "A": "Lambai ke along",
+        "B": "Chaudai ke along (short face exposed)",
+        "C": "Diagonal position mein",
+        "D": "Vertically"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Header bond mein bricks ko unki width (chhoti face) exposed rakhte hue rakha jata hai. Yeh zyada thickness wali walls ke liye use hota hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Wall ki setting out (layout) karte samay sabse pehle kya check karna zaroori hai?",
+      "options": {
+        "A": "Bricks ka color",
+        "B": "Foundation ki levelness aur squareness",
+        "C": "Mortar ka rang",
+        "D": "Weather forecast"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Kisi bhi construction se pehle, foundation ki levelness aur corners ki squareness (90 degree angles) check karna bahut zaroori hai, taki structure straight aur stable bane."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Jo bricks aadhe mein kaati jaati hain (lengthwise), unhe kya kehte hain?",
+      "options": {
+        "A": "Bat",
+        "B": "Closer",
+        "C": "Header",
+        "D": "Stretcher"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Bat ek brick ka piece hota hai jo uski width ke along cut kiya jata hai. Half bat, three-quarter bat, quarter bat jaise variations hote hain jo bonding mein use hote hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Flemish bond ka kya fayda hai English bond ke upar?",
+      "options": {
+        "A": "Zyada strength",
+        "B": "Better aesthetic appearance",
+        "C": "Kam bricks lagti hain",
+        "D": "Easy to construct"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Flemish bond mein har course mein alternate headers aur stretchers hote hain. Yeh English bond se thoda kam strong hota hai, lekin iski appearance (dikhavat) zyada attractive mani jaati hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Wall mein 'raking bond' kyon use kiya jata hai?",
+      "options": {
+        "A": "Wall ko kamzor banane ke liye",
+        "B": "Wall ki thickness kam karne ke liye",
+        "C": "Increased stability aur load distribution ke liye thick walls mein",
+        "D": "Decoration ke liye"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Raking bond (jaise diagonal bond ya herring-bone bond) thick walls mein use hota hai, jismein bricks ko diagonal ya zigzag pattern mein rakha jata hai, jisse wall ki stability aur load distribution improve hoti hai."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Brickwork mein 'toothing' kya hota hai?",
+      "options": {
+        "A": "Wall ko todna",
+        "B": "Nayi wall ko existing wall se jodne ke liye steps banana",
+        "C": "Mortar joints ko saaf karna",
+        "D": "Bricks ko colour karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Toothing ek method hai jismein existing wall ke end par alternate courses mein bricks ko aage nikala jata hai, taaki future mein ek nayi wall ko isse achhe se joda ja sake."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Load-bearing wall ka kya function hota hai?",
+      "options": {
+        "A": "Sirf kamre ko divide karna",
+        "B": "Structure ke upari hisse ka weight uthana",
+        "C": "Decorate karna",
+        "D": "Sound proofing karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Load-bearing wall (bhaar-vahak deewar) structure ke upari floors, roof aur dusre structural elements ka weight uthati hai aur use foundation tak transfer karti hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Lintel ka kya kaam hai door ya window opening ke upar?",
+      "options": {
+        "A": "Decorate karna",
+        "B": "Opening ke upar ki wall ka load support karna",
+        "C": "Hawa aane dena",
+        "D": "Pani rokna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lintel (dalan) ek horizontal structural member hota hai jo door ya window opening ke upar ki wall ka weight uthata hai aur use sides ki walls par transfer karta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Foundation kyon banai jaati hai kisi bhi structure ke liye?",
+      "options": {
+        "A": "Sirf aesthetics ke liye",
+        "B": "Structure ka load safely ground mein transfer karne ke liye",
+        "C": "Pani store karne ke liye",
+        "D": "Bas ek extra layer dene ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Foundation (neev) structure ke total load ko safely aur evenly ground mein distribute karti hai, jisse settlement aur structural damage se bacha ja sake."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Partition wall ka primary function kya hai?",
+      "options": {
+        "A": "Heavy load uthana",
+        "B": "Ek bade kamre ko chhote hisson mein divide karna",
+        "C": "Main support provide karna",
+        "D": "Building ko earthquake se bachana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Partition wall (vibhajak deewar) non-load-bearing hoti hai aur iska primary function spaces ko divide karna aur privacy provide karna hota hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Sill ka kya role hai window opening mein?",
+      "options": {
+        "A": "Window ke upar load uthana",
+        "B": "Window ke neeche se pani ko andar aane se rokna",
+        "C": "Window ko kholna",
+        "D": "Window ko band karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sill (dehleez) window opening ke neeche ek horizontal component hota hai jo baarish ke pani ko window ke andar aane se rokta hai aur use bahar ki taraf drain karta hai."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Footing ka kya matlab hai foundation mein?",
+      "options": {
+        "A": "Deewar ka upari hissa",
+        "B": "Foundation ka sabse neeche wala hissa jo load distribute karta hai",
+        "C": "Floor ki surface",
+        "D": "Roof ka support"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Footing foundation ka sabse neeche wala part hota hai jo wall ya column se aane wale load ko ground par bade area mein failata hai, jisse soil par pressure kam ho."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Arches ka use kyon kiya jata tha purane zamane mein openings ke upar?",
+      "options": {
+        "A": "Zyada decorative dikhne ke liye",
+        "B": "Load ko sides ki walls par transfer karne ke liye",
+        "C": "Pani rokne ke liye",
+        "D": "Hawa rokne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Arches (mehraab) openings ke upar load ko compressional forces ke roop mein sides ki supports (abutments) par transfer karte hain, jisse bade openings ko support milta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Corbel kya hai aur kyon use hota hai?",
+      "options": {
+        "A": "Ek type ka door",
+        "B": "Wall se bahar nikla hua projection jo load support karta hai",
+        "C": "Floor ka material",
+        "D": "Window ka frame"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Corbel (karni) wall se bahar nikla hua ek structural piece hota hai jo beam, slab ya dusre structural elements ko support karne ke liye use hota hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Gabion wall kis liye use hoti hai?",
+      "options": {
+        "A": "Building ke andar partition ke liye",
+        "B": "Retaining wall (mitti ko rokne ke liye) aur erosion control ke liye",
+        "C": "Roof banane ke liye",
+        "D": "Floor banane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Gabion wall wire mesh cages se banti hai jismein rocks ya stones bhare hote hain. Yeh retaining walls, erosion control, aur landscape features ke liye use hoti hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Chajja (sunshade) ka kya purpose hai?",
+      "options": {
+        "A": "Wall ko support karna",
+        "B": "Door ya window ko dhoop aur baarish se bachana",
+        "C": "Foundation ko mazboot karna",
+        "D": "Building ko color karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Chajja (sunshade) ek horizontal projection hota hai jo doors aur windows ke upar bana hota hai, taaki unhe direct sunlight aur baarish se bachaya ja sake."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Column aur pier mein kya difference hai?",
+      "options": {
+        "A": "Koi difference nahi",
+        "B": "Column circular hota hai aur pier square",
+        "C": "Column vertical load uthata hai, pier wall ko support karta hai aur load bearing bhi ho sakta hai",
+        "D": "Pier sirf decorative hota hai"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Column ek freestanding vertical support hota hai jo load uthata hai. Pier ek wall ka thickening ya projection hota hai jo load utha sakta hai ya wall ko stability de sakta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Plinth beam kahan provide kiya jata hai?",
+      "options": {
+        "A": "Roof ke upar",
+        "B": "Foundation aur wall ke junction par",
+        "C": "Door ke upar",
+        "D": "Floor ke neeche"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Plinth beam foundation ke upar aur ground level par provide kiya jata hai. Yeh wall ke load ko evenly distribute karta hai aur DPC ko support karta hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Retaining wall ka kya function hai?",
+      "options": {
+        "A": "Building ko garam rakhna",
+        "B": "Soil ya earth ko hold karke rakhna, jisse woh slide na ho",
+        "C": "Sound proofing karna",
+        "D": "Window ko support karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Retaining wall (dharan deewar) ek structure hota hai jo soil ya rock ko hold karke rakhta hai, jisse woh slide ya collapse na ho, khas kar slopes par."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Ache brickwork mein vertical joints ka alignment kaisa hona chahiye?",
+      "options": {
+        "A": "Ek ke upar ek",
+        "B": "Har alternate course mein offset (staggered)",
+        "C": "Diagonal",
+        "D": "Randomly"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vertical joints ko har alternate course mein offset (staggered) rakhna chahiye, jisse achhi bonding aur strength milti hai. Continuous vertical joint wall ko kamzor karta hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Rubble masonry kahan use hoti hai?",
+      "options": {
+        "A": "High-rise buildings mein",
+        "B": "Compound walls, retaining walls aur foundations mein",
+        "C": "Bahut thin partition walls mein",
+        "D": "Glass walls mein"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Rubble masonry mein un-dressed ya roughly dressed stones ka use hota hai. Yeh mostly foundations, compound walls, aur retaining walls jaise structures mein use hoti hai jahan aesthetics se zyada strength aur cost-effectiveness dekhi jaati hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Parapet wall ka kya function hai?",
+      "options": {
+        "A": "Building ko support karna",
+        "B": "Roof ke edge par safety aur aesthetics provide karna",
+        "C": "Water drainage control karna",
+        "D": "Windows ko support karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Parapet wall roof ke edge par ek chhoti wall hoti hai jo safety barrier ka kaam karti hai aur building ke aesthetics ko bhi badhati hai."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Agar foundation ki soil ki bearing capacity kam ho toh kya karna chahiye?",
+      "options": {
+        "A": "Foundation ko chhota banana",
+        "B": "Foundation area ko badhana (spread footing)",
+        "C": "Zyada pani dalna",
+        "D": "Foundation ko aur shallow banana"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Agar soil ki bearing capacity kam hai, toh foundation ka area badhana chahiye (jaise spread footing ya raft foundation) taaki load zyada bade area mein distribute ho aur soil par pressure kam ho."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Plastering ka primary purpose kya hai?",
+      "options": {
+        "A": "Wall ko kamzor banana",
+        "B": "Wall surface ko smooth, durable aur protective finish dena",
+        "C": "Wall ko rough banana",
+        "D": "Wall ko todna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plastering wall surface ko smooth, level, aur durable banata hai. Yeh wall ko weather se bachata hai aur ek achha base provide karta hai paint ya wallpaper ke liye."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Plastering ke liye kaunse tools use hote hain?",
+      "options": {
+        "A": "Hammer aur Chisel",
+        "B": "Trowel, Floats aur Straight Edge",
+        "C": "Saw aur Axe",
+        "D": "Pliers aur Screwdriver"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Plastering ke liye trowel (karni) mortar ko apply karne ke liye, floats (phanti) surface ko smooth karne ke liye, aur straight edge level check karne ke liye use hote hain."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Plastering se pehle wall surface ko kyon wet (geela) karna chahiye?",
+      "options": {
+        "A": "Taki plaster chipak na sake",
+        "B": "Taki wall plaster se pani na soke aur achha bond bane",
+        "C": "Taki wall ka rang badal jaye",
+        "D": "Taki wall gandi ho jaye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Wall ko geela karne se woh plaster se pani nahi soke gi. Isse plaster aur wall ke beech achha bond banta hai aur plaster mein cracks aane ki sambhavna kam hoti hai."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Pointing ka kya matlab hai?",
+      "options": {
+        "A": "Wall par paint karna",
+        "B": "Mortar joints ko fill karna aur finish dena",
+        "C": "Wall ko todna",
+        "D": "Bricks ko arrange karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pointing ek finishing process hai jismein masonry joints se purana ya loose mortar nikal kar fresh mortar se achhe se fill kiya jata hai aur ek specific finish diya jata hai, jaise flush, raked, ya V-joint."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Curing ka kya role hai plastering ke baad?",
+      "options": {
+        "A": "Plaster ko jaldi sukhana",
+        "B": "Plaster ki strength badhana aur cracks rokna",
+        "C": "Plaster ko rang dena",
+        "D": "Plaster ko soft banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Curing (taraai) plaster ko geela rakhne ka process hai taaki hydration process poora ho sake. Isse plaster ki strength badhti hai aur shrinkage cracks nahi aate."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Plaster ki thickness generally kitni honi chahiye single coat mein?",
+      "options": {
+        "A": "5 mm se kam",
+        "B": "12 mm se 15 mm",
+        "C": "50 mm se zyada",
+        "D": "1 mm"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Normal single coat plaster ki thickness 12 mm se 15 mm hoti hai. Zyada thick plaster mein cracks aane ka khatra hota hai."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Gypsum plaster ka kya fayda hai?",
+      "options": {
+        "A": "Bahut zyada pani absorb karta hai",
+        "B": "Smooth finish, fast setting aur curing ki zaroorat nahi",
+        "C": "Bahut rough finish deta hai",
+        "D": "Bahut slow set hota hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Gypsum plaster smooth finish deta hai, jaldi set hota hai, aur iske liye curing ki zaroorat nahi hoti. Lekin yeh wet areas ke liye suitable nahi hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Pointing mein 'flush joint' kaisa dikhta hai?",
+      "options": {
+        "A": "Joint wall surface se andar hota hai",
+        "B": "Joint wall surface ke barabar hota hai",
+        "C": "Joint wall surface se bahar nikla hota hai",
+        "D": "V-shaped hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flush joint mein mortar joint wall ki surface ke barabar hota hai, jisse ek smooth aur plain finish milta hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar plaster mein hairline cracks aa rahe hain toh uska kya reason ho sakta hai?",
+      "options": {
+        "A": "Zyada curing",
+        "B": "Insufficient curing ya improper mix ratio",
+        "C": "Bahut thanda mausam",
+        "D": "Wall bahut saaf thi"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Hairline cracks (shrinkage cracks) mostly insufficient curing, bahut zyada pani ka use, ya incorrect mix ratio (cement content zyada hona) ke karan hote hain."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Roughcast plaster kya hota hai?",
+      "options": {
+        "A": "Ek smooth finish",
+        "B": "Ek rough texture wala plaster jo weather protection deta hai",
+        "C": "Sirf andar ki walls ke liye",
+        "D": "Ek type ka paint"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Roughcast plaster ek type ka exterior plaster hai jismein coarse aggregate (bajri) ko mix mein dala jata hai aur use wall par forcefully phenka jata hai, jisse ek rough aur highly durable finish milti hai jo weather resistant hoti hai."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Tiling karte samay tiles ko lagane se pehle kya prepare karna zaroori hai?",
+      "options": {
+        "A": "Surface ko ganda karna",
+        "B": "Surface ko clean, dry aur level karna",
+        "C": "Surface ko rough banana",
+        "D": "Surface ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tiling se pehle surface ko achhe se clean, dry, aur level karna bahut zaroori hai, taaki tiles achhe se chipak sakein aur uniform dikhein."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Tile adhesive ko kahan apply karna chahiye?",
+      "options": {
+        "A": "Sirf tile ke beech mein",
+        "B": "Tile ke poore back surface par aur/ya wall/floor par",
+        "C": "Sirf corners par",
+        "D": "Sirf edges par"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tile adhesive ko tile ke poore back surface par (back buttering) aur/ya wall/floor par evenly spread karna chahiye, jisse achha coverage aur strong bond bane."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Grouting ka kya purpose hai tiling mein?",
+      "options": {
+        "A": "Tiles ko todna",
+        "B": "Tiles ke beech ke gaps ko fill karna aur water seepage rokna",
+        "C": "Tiles ko clean karna",
+        "D": "Tiles ko cut karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Grouting ek process hai jismein tiles ke beech ke gaps ko grout (cementitious material) se fill kiya jata hai. Yeh water seepage ko rokta hai, tiles ko stable rakhta hai, aur aesthetics badhata hai."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Tile spacers kyon use hote hain tiling mein?",
+      "options": {
+        "A": "Tiles ko fix karne ke liye",
+        "B": "Uniform grout lines (joints) maintain karne ke liye",
+        "C": "Tiles ko todne ke liye",
+        "D": "Tiles ko saaf karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Tile spacers (tile lagane ke beech mein use hone wale plastic crosses) ka use tiles ke beech uniform gaps maintain karne ke liye hota hai, jisse grout lines evenly dikhein."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Jab tiles lagate hain, toh sabse pehle kahan se shuru karna chahiye?",
+      "options": {
+        "A": "Randomly kahin se bhi",
+        "B": "Room ke center se ya ek reference line se",
+        "C": "Corner se",
+        "D": "Door ke paas se"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Tiling shuru karte samay room ke center se ya ek reference line se shuru karna chahiye. Isse cut tiles corners par aati hain aur overall layout symmetrical dikhta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Mosaic tiling kya hai?",
+      "options": {
+        "A": "Bade size ki tiles lagana",
+        "B": "Chhote-chhote rang-birange pieces ko jod kar design banana",
+        "C": "Sirf white tiles lagana",
+        "D": "Tiles ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mosaic tiling ek art form hai jismein chhote-chhote tukdon (jaise tile, glass, stone) ko jod kar ek bada design ya pattern banaya jata hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "Achhe brickwork ki pehchan kya hai?",
+      "options": {
+        "A": "Uneven courses aur zigzag joints",
+        "B": "Plumb, level, straight courses aur uniform joints",
+        "C": "Bahut zyada mortar joints",
+        "D": "Bricks ka different size"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Achhe brickwork mein walls plumb (vertical), level (horizontal), aur straight honi chahiye. Mortar joints uniform thickness ke hone chahiye aur bonding proper honi chahiye."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Agar wall mein dampness (nami) aa rahi hai toh uska kya karan ho sakta hai?",
+      "options": {
+        "A": "Proper DPC nahi hai ya damaged hai",
+        "B": "Wall bahut dry hai",
+        "C": "Wall ko paint kiya gaya hai",
+        "D": "Wall bahut purani hai"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Rising dampness (zameen se upar aane wali nami) ka sabse common karan damaged ya missing DPC (Damp Proof Course) hota hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Cracks ko repair karne ke liye kaunsa method use hota hai?",
+      "options": {
+        "A": "Sirf paint karna",
+        "B": "Cracks ko saaf karna, fill karna aur patch karna",
+        "C": "Cracks ko ignore karna",
+        "D": "Poori wall ko tod dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cracks ko repair karne ke liye pehle unhe saaf kiya jata hai, phir suitable filler (mortar, epoxy) se fill kiya jata hai aur phir patch karke finish diya jata hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Ek standard brick wall (190x90x90mm brick, 10mm mortar) ki 1 square meter area mein approximately kitni bricks lagti hain?",
+      "options": {
+        "A": "25 bricks",
+        "B": "50 bricks",
+        "C": "100 bricks",
+        "D": "150 bricks"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "1 square meter area mein 10 mm mortar joint ke saath approximately 50 bricks (190x90x90mm size) lagti hain."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Repointing ka kya matlab hai?",
+      "options": {
+        "A": "Wall ko paint karna",
+        "B": "Damaged mortar joints ko remove karke fresh mortar se fill karna",
+        "C": "Nayi bricks lagana",
+        "D": "Wall ko saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Repointing ek maintenance technique hai jismein purane ya damaged mortar joints ko nikal kar unki jagah naya aur fresh mortar fill kiya jata hai, jisse wall ki durability aur aesthetics badhti hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Ek mason ke liye professional ethics mein kya shamil hona chahiye?",
+      "options": {
+        "A": "Time par kaam na karna",
+        "B": "Quality work, honesty aur safety norms follow karna",
+        "C": "Material waste karna",
+        "D": "Dusron ki help na karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Professional ethics mein quality work provide karna, imandari se kaam karna, aur safety regulations ko follow karna shamil hota hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Agar wall mein 'efflorescence' dikhe toh kya karna chahiye?",
+      "options": {
+        "A": "Ignorance",
+        "B": "Brush se saaf karna aur source of moisture check karna",
+        "C": "Zyada pani dalna",
+        "D": "Wall ko paint karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Efflorescence (bricks par safed namak ke daag) moisture ke karan hota hai. Ise brush se saaf karna chahiye aur moisture ke source ko identify karke theek karna chahiye."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Wall plaster ki strength kaise check ki jaati hai?",
+      "options": {
+        "A": "Uska rang dekh kar",
+        "B": "Us par tap karke sound sunna ya scratch test karna",
+        "C": "Uska weight measure karke",
+        "D": "Uska size dekh kar"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Achhe plaster par tap karne se solid sound aati hai aur scratch karne par woh easily nahi nikalta. Visual inspection bhi important hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Sustainability in construction ka kya matlab hai?",
+      "options": {
+        "A": "Sirf costly materials use karna",
+        "B": "Environment-friendly materials aur methods use karna",
+        "C": "Zyada waste generate karna",
+        "D": "Building ko jaldi banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sustainable construction ka matlab hai environment par kam se kam negative impact wale materials aur methods ka use karna, energy efficiency badhana, aur waste ko kam karna."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Estimating materials for a wall mein kya-kya calculate karna padta hai?",
+      "options": {
+        "A": "Sirf bricks ka number",
+        "B": "Bricks, cement, sand aur water ki quantity",
+        "C": "Sirf labour cost",
+        "D": "Sirf transport cost"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Ek wall ke liye materials estimate karte samay bricks ka number, aur unko jodne ke liye cement, sand aur pani ki quantity (mortar ke liye) calculate karna zaroori hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Agar mortar mix mein cement kam ho toh kya hoga?",
+      "options": {
+        "A": "Mortar zyada strong ho jayega",
+        "B": "Mortar ki strength kam ho jayegi aur bond weak hoga",
+        "C": "Mortar jaldi set ho jayega",
+        "D": "Mortar ka rang badal jayega"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Cement binder ka kaam karta hai. Agar cement kam hoga toh mortar ki binding property aur strength kam ho jayegi, jisse bond weak banega."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Masonry work mein 'bulging' (wall ka bahar ki taraf nikalna) ka kya karan ho sakta hai?",
+      "options": {
+        "A": "Achhi quality ki bricks",
+        "B": "Poor workmanship, overloaded wall ya foundation settlement",
+        "C": "Bahut kam load",
+        "D": "Proper curing"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bulging poor workmanship (improper bonding), wall par over-loading, ya foundation ke settlement ke karan ho sakta hai, jo wall ki stability ko affect karta hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Job site par effective communication kyon zaroori hai?",
+      "options": {
+        "A": "Sirf gossip karne ke liye",
+        "B": "Misunderstandings se bachne aur kaam ko smoothly chalane ke liye",
+        "C": "Time waste karne ke liye",
+        "D": "Kaam ko slow karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Effective communication se instructions clear rehte hain, safety badhti hai, aur team work achha hota hai, jisse kaam efficiently poora hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Agar brickwork mein 'through cracks' develop ho jayein toh kya karna chahiye?",
+      "options": {
+        "A": "Sirf paint kar dena",
+        "B": "Expert advice lena aur structural assessment karwana",
+        "C": "Chhupa dena",
+        "D": "Pani dalna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Through cracks (jo poori wall mein aar-paar ho) serious structural issues indicate karte hain. Iske liye ek structural engineer ya expert ki salah lena aur proper assessment karwana bahut zaroori hai."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Masonry tools ki proper maintenance kyon zaroori hai?",
+      "options": {
+        "A": "Sirf tools ko naya dikhane ke liye",
+        "B": "Tools ki life badhane, efficiency maintain karne aur safety ke liye",
+        "C": "Tools ko kam use karne ke liye",
+        "D": "Tools ko dhona nahi chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Tools ki proper cleaning, oiling, aur storage se unki life badhti hai, woh achhe se kaam karte hain aur safety bhi maintain rehti hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Ek experienced mason ko naye technician ko kya sikhana chahiye?",
+      "options": {
+        "A": "Sirf mushkil kaam",
+        "B": "Basic skills, safety practices aur quality standards",
+        "C": "Kaam se bachna",
+        "D": "Tools ko ganda rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek experienced mason ko naye technician ko basic skills, proper tool usage, safety protocols, aur high quality work standards sikhane chahiye, jo uske career ke liye bahut important hain."
+    }
+  ]
+}

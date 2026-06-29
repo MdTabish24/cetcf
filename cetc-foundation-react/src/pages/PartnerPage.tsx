@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Wallet, Landmark, ClipboardCheck, Handshake } from 'lucide-react';
 import api, { getUser, setToken, setUser, clearToken } from '../services/api';
+import IndiaMap from '../components/home/IndiaMap';
 
 export default function PartnerPage() {
   const [user, setLocalUser] = useState(getUser());
@@ -132,7 +133,7 @@ export default function PartnerPage() {
 
         {/* Main Content */}
         <main style={{ flex: 1, padding: '32px' }}>
-          <h1 style={{ fontSize: '24px', color: 'var(--navy)', textTransform: 'capitalize', marginBottom: '24px' }}>
+          <h1 style={{ fontSize: '24px', color: 'var(--text-main)', textTransform: 'capitalize', marginBottom: '24px' }}>
             {activeTab} Overview
           </h1>
 
@@ -145,11 +146,11 @@ export default function PartnerPage() {
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '16px' }}>
                   <div className="card" style={{ padding: '24px' }}>
                     <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Total Enrolled</div>
-                    <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--navy)' }}>{data.total_candidates || 0}</div>
+                    <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--text-main)' }}>{data.total_candidates || 0}</div>
                   </div>
                   <div className="card" style={{ padding: '24px' }}>
                     <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Active Batches</div>
-                    <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--navy)' }}>{data.total_batches || 0}</div>
+                    <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--text-main)' }}>{data.total_batches || 0}</div>
                   </div>
                   <div className="card" style={{ padding: '24px' }}>
                     <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Certificates Issued</div>
@@ -293,10 +294,52 @@ export default function PartnerPage() {
                   ].map((item, i) => (
                     <div key={i} className="card" style={{ padding: '24px', textAlign: 'center' }}>
                       <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px' }}>{item.icon}</div>
-                      <h3 style={{ fontSize: '16px', fontWeight: 700, color: 'var(--navy)', marginBottom: '8px' }}>{item.title}</h3>
+                      <h3 style={{ fontSize: '16px', fontWeight: 700, color: 'var(--text-main)', marginBottom: '8px' }}>{item.title}</h3>
                       <p style={{ fontSize: '13px', color: 'var(--muted)', lineHeight: 1.6 }}>{item.desc}</p>
                     </div>
                   ))}
+                </div>
+              </div>
+
+              {/* ── Partner Logos & Presence ────────────────────── */}
+              <div style={{ marginBottom: '80px', display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '80px', alignItems: 'center' }}>
+                <div>
+                  <span className="sec-eyebrow">Pan-India Presence</span>
+                  <h2 className="sec-title" style={{ marginBottom: '24px' }}>Empowering Skills Across The Nation</h2>
+                  <p style={{ color: 'var(--muted)', fontSize: '16px', lineHeight: 1.7, marginBottom: '32px' }}>
+                    With training centers and affiliated institutes spread across multiple states, we ensure that quality skill education reaches every corner of India.
+                  </p>
+                  <div style={{ background: '#fff', borderRadius: '24px', padding: '24px', border: '1px solid var(--border)', boxShadow: '0 10px 40px rgba(0,0,0,0.03)' }}>
+                    <IndiaMap />
+                  </div>
+                </div>
+
+                <div>
+                  <span className="sec-eyebrow">Affiliations & Partners</span>
+                  <h2 className="sec-title" style={{ marginBottom: '48px' }}>Recognized By The Best</h2>
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(140px, 1fr))', gap: '24px' }}>
+                    {[1, 2, 3, 4, 5].map((num) => (
+                      <div key={num} style={{ background: '#fff', padding: '20px', borderRadius: '20px', border: '1px solid var(--border)', boxShadow: '0 4px 15px rgba(0,0,0,0.02)', display: 'flex', alignItems: 'center', justifyContent: 'center', height: '140px', transition: 'all 0.3s' }} className="partner-card">
+                        <img 
+                          src={`/partners/partner-${num}.jpeg`} 
+                          alt={`Partner ${num}`} 
+                          style={{ maxHeight: '100%', maxWidth: '100%', objectFit: 'contain', filter: 'grayscale(100%) opacity(0.7)', transition: 'all 0.3s', cursor: 'pointer' }}
+                          onMouseOver={(e) => { 
+                            e.currentTarget.style.filter = 'grayscale(0%) opacity(1)'; 
+                            e.currentTarget.style.transform = 'scale(1.1)'; 
+                            (e.currentTarget.parentElement as HTMLElement).style.borderColor = 'var(--gold)';
+                            (e.currentTarget.parentElement as HTMLElement).style.boxShadow = '0 10px 30px rgba(184, 134, 11, 0.15)';
+                          }}
+                          onMouseOut={(e) => { 
+                            e.currentTarget.style.filter = 'grayscale(100%) opacity(0.7)'; 
+                            e.currentTarget.style.transform = 'scale(1)'; 
+                            (e.currentTarget.parentElement as HTMLElement).style.borderColor = 'var(--border)';
+                            (e.currentTarget.parentElement as HTMLElement).style.boxShadow = '0 4px 15px rgba(0,0,0,0.02)';
+                          }}
+                        />
+                      </div>
+                    ))}
+                  </div>
                 </div>
               </div>
 

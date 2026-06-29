@@ -1,0 +1,1443 @@
+{
+  "course_name": "Web Development — Full Stack Basics",
+  "sector": "Advanced IT, Programming & Tech Skills",
+  "level": "Intermediate",
+  "duration": "4 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "HTML5 & CSS3 Fundamentals",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "JavaScript Core Concepts & DOM Manipulation",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Frontend Frameworks (React Basics)",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Backend Development with Node.js & Express.js",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Database Management (SQL & NoSQL Basics)",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Version Control (Git) & Deployment Basics",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which HTML5 tag is used to define a section of navigation links?",
+      "options": {
+        "A": "<nav>",
+        "B": "<navigation>",
+        "C": "<menu>",
+        "D": "<links>"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The <nav> tag is a semantic HTML5 element specifically designed to contain navigation links."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "What is the correct CSS property to change the text color of an element?",
+      "options": {
+        "A": "text-color",
+        "B": "font-color",
+        "C": "color",
+        "D": "foreground-color"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'color' property in CSS is used to set the foreground color of an element's text."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Which CSS property is used to control the spacing between elements' borders and their content?",
+      "options": {
+        "A": "margin",
+        "B": "padding",
+        "C": "spacing",
+        "D": "border-spacing"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Padding is the space between the content of an element and its border. Margin is the space outside the border."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "What does the 'DOCTYPE html' declaration at the beginning of an HTML document signify?",
+      "options": {
+        "A": "It defines the document's character set.",
+        "B": "It specifies that the document is an HTML5 document.",
+        "C": "It links to an external CSS stylesheet.",
+        "D": "It declares the document as a JavaScript file."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The <!DOCTYPE html> declaration is a standard way to tell the browser that the document is an HTML5 document."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Which of the following is NOT a valid way to include CSS in an HTML page?",
+      "options": {
+        "A": "Inline styles using the 'style' attribute.",
+        "B": "Internal stylesheet using the <style> tag in the <head>.",
+        "C": "External stylesheet using the <link> tag in the <body>.",
+        "D": "External stylesheet using the <link> tag in the <head>."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "External stylesheets are linked using the <link> tag, which must be placed inside the <head> section of the HTML document, not the <body>."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "In the CSS Box Model, which component is closest to the actual content of an element?",
+      "options": {
+        "A": "Margin",
+        "B": "Border",
+        "C": "Padding",
+        "D": "Outline"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The CSS Box Model consists of content, padding, border, and margin. Padding is directly around the content."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Which HTML tag is used to create an unordered list?",
+      "options": {
+        "A": "<ol>",
+        "B": "<ul>",
+        "C": "<li>",
+        "D": "<list>"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The <ul> tag is used to create an unordered (bulleted) list, while <ol> is for ordered (numbered) lists. <li> is for list items."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "What is the purpose of the 'alt' attribute in an <img> tag?",
+      "options": {
+        "A": "To specify the image's alignment.",
+        "B": "To provide alternative text for the image if it cannot be displayed.",
+        "C": "To define the image's source URL.",
+        "D": "To set the image's width and height."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'alt' attribute provides alternative text for an image, which is crucial for accessibility and when the image fails to load."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "How can you make a responsive image that scales proportionally with the viewport?",
+      "options": {
+        "A": "Set 'width: 100%; height: 100%;' in CSS.",
+        "B": "Set 'width: auto; height: auto;' in CSS.",
+        "C": "Set 'max-width: 100%; height: auto;' in CSS.",
+        "D": "Use the <picture> element without any CSS."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Setting 'max-width: 100%;' ensures the image never exceeds its parent container's width, and 'height: auto;' maintains its aspect ratio, making it responsive."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Which CSS selector would target all paragraph elements that are direct children of a <div> element?",
+      "options": {
+        "A": "div p",
+        "B": "div > p",
+        "C": "div + p",
+        "D": "div ~ p"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The child combinator (>) selects elements that are direct children of a specified element. 'div p' would select all descendant paragraphs."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What is the primary benefit of using semantic HTML5 tags like <article>, <section>, and <aside>?",
+      "options": {
+        "A": "They automatically apply predefined styles to content.",
+        "B": "They improve SEO and accessibility by providing meaning to content structure.",
+        "C": "They are deprecated and should be avoided.",
+        "D": "They allow for faster page loading times."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Semantic HTML tags give meaning to the content they contain, which helps search engines understand the page structure and improves accessibility for screen readers."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "To center a block-level element horizontally within its parent using CSS, which properties would you typically use?",
+      "options": {
+        "A": "text-align: center;",
+        "B": "margin: auto;",
+        "C": "display: block; justify-content: center;",
+        "D": "position: absolute; left: 50%; transform: translateX(-50%);"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "For a block-level element, setting 'margin-left: auto;' and 'margin-right: auto;' (often shortened to 'margin: auto;') will center it horizontally. 'text-align: center;' centers inline content, not block elements themselves."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Which of the following CSS properties is used to create a flexible container that can arrange its items in rows or columns?",
+      "options": {
+        "A": "display: grid;",
+        "B": "display: block;",
+        "C": "display: flex;",
+        "D": "display: inline-block;"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'display: flex;' property turns an element into a flex container, allowing its direct children to be arranged using Flexbox properties."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "When using CSS Grid, what property is used on the container to define the number and size of columns?",
+      "options": {
+        "A": "grid-template-rows",
+        "B": "grid-template-columns",
+        "C": "grid-gap",
+        "D": "grid-auto-columns"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'grid-template-columns' property defines the column tracks of the grid. 'grid-template-rows' defines row tracks."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Consider the following HTML: <div class='container'><p>Text 1</p><p class='highlight'>Text 2</p></div>. Which CSS rule has the highest specificity?",
+      "options": {
+        "A": "p { color: blue; }",
+        "B": ".container p { color: green; }",
+        "C": ".highlight { color: red; }",
+        "D": "div .highlight { color: purple; }"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Specificity is calculated based on the number of IDs, classes, and element names. 'div .highlight' (0,2,1) has higher specificity than '.highlight' (0,1,0), '.container p' (0,1,1), and 'p' (0,0,1)."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "What is the purpose of the 'viewport' meta tag in responsive web design?",
+      "options": {
+        "A": "To set the default font size for the entire page.",
+        "B": "To define the visible area of a web page and control its scaling on different devices.",
+        "C": "To specify the character encoding of the document.",
+        "D": "To declare a new CSS custom property (variable)."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'viewport' meta tag, typically '<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">', instructs the browser on how to control the page's dimensions and scaling."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Which of the following would you use to define a custom font for your webpage, ensuring fallback options?",
+      "options": {
+        "A": "@font-face rule with 'font-family' and 'src'.",
+        "B": "<link rel='font' href='myfont.ttf'>",
+        "C": "font-import: url('myfont.ttf');",
+        "D": "Using only 'font-family: \"My Custom Font\";' in CSS."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "The @font-face CSS rule is used to define custom fonts, allowing you to specify font sources ('src') and fallback font families. Option D would only work if the user already has that font installed."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Which keyword is used to declare a constant in JavaScript?",
+      "options": {
+        "A": "var",
+        "B": "let",
+        "C": "const",
+        "D": "static"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'const' keyword is used to declare a constant variable in JavaScript, meaning its value cannot be reassigned after initialization."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "What is the correct way to write an IF statement in JavaScript?",
+      "options": {
+        "A": "if x == 5 then",
+        "B": "if (x == 5)",
+        "C": "if x = 5",
+        "D": "if (x === 5) then"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "In JavaScript, the condition for an IF statement must be enclosed in parentheses: 'if (condition) { ... }'. The '==' operator is for loose equality."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Which operator is used for strict equality comparison in JavaScript?",
+      "options": {
+        "A": "==",
+        "B": "=",
+        "C": "===",
+        "D": "!="
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The '===' operator checks for strict equality, meaning both the value and the type of the operands must be the same. '==' checks for loose equality (value only, with type coercion)."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "How do you add an element at the end of an array in JavaScript?",
+      "options": {
+        "A": "array.add(item)",
+        "B": "array.push(item)",
+        "C": "array.append(item)",
+        "D": "array[array.length] = item"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'push()' method adds one or more elements to the end of an array and returns the new length of the array."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "What is the purpose of 'document.getElementById()' in JavaScript?",
+      "options": {
+        "A": "To create a new HTML element with a given ID.",
+        "B": "To select the first HTML element that matches a specified CSS selector.",
+        "C": "To find an HTML element by its unique 'id' attribute.",
+        "D": "To modify the ID of an existing HTML element."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'document.getElementById()' method is used to retrieve a reference to the HTML element whose 'id' attribute matches the specified string."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Which of the following is an example of a JavaScript higher-order function?",
+      "options": {
+        "A": "console.log()",
+        "B": "Math.random()",
+        "C": "Array.prototype.map()",
+        "D": "JSON.parse()"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A higher-order function is a function that takes one or more functions as arguments or returns a function as its result. 'map()', 'filter()', and 'reduce()' are common examples."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "What will be the output of `console.log(typeof null);`?",
+      "options": {
+        "A": "null",
+        "B": "undefined",
+        "C": "object",
+        "D": "number"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "This is a well-known quirk in JavaScript. While 'null' represents the intentional absence of any object value, 'typeof null' returns 'object'. This is considered a bug in the language that cannot be fixed for backward compatibility."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "What is the difference between 'let' and 'var' for variable declaration in JavaScript?",
+      "options": {
+        "A": "'let' is block-scoped, 'var' is function-scoped.",
+        "B": "'let' is function-scoped, 'var' is block-scoped.",
+        "C": "'let' allows redeclaration, 'var' does not.",
+        "D": "There is no significant difference."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "'let' declares block-scoped local variables, meaning they are only accessible within the block they are defined in. 'var' declares function-scoped or globally-scoped variables."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Which method is used to prevent the default action of an event in JavaScript?",
+      "options": {
+        "A": "event.stopImmediatePropagation()",
+        "B": "event.preventDefault()",
+        "C": "event.stopPropagation()",
+        "D": "event.cancelAction()"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'event.preventDefault()' method stops the default action of an element from happening (e.g., a form submission, a link navigation)."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "What does the 'this' keyword refer to inside a regular function in non-strict mode?",
+      "options": {
+        "A": "The function itself.",
+        "B": "The global object (window in browsers).",
+        "C": "The object that called the function.",
+        "D": "Undefined."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "In non-strict mode, if a regular function is called without a specific context (i.e., not as a method of an object), 'this' defaults to the global object (window in browsers, global in Node.js). In strict mode, it would be 'undefined'."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "How do you convert a JavaScript object to a JSON string?",
+      "options": {
+        "A": "JSON.parse(object)",
+        "B": "object.toJSONString()",
+        "C": "JSON.stringify(object)",
+        "D": "object.toString()"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'JSON.stringify()' method converts a JavaScript value (usually an object or array) to a JSON string. 'JSON.parse()' does the opposite."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "What is an arrow function (=>) commonly used for in ES6?",
+      "options": {
+        "A": "To declare a new class.",
+        "B": "To create a function with a shorter syntax and lexical 'this' binding.",
+        "C": "To define a generator function.",
+        "D": "To handle asynchronous operations."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Arrow functions provide a more concise syntax for writing function expressions. A key feature is that they do not bind their own 'this' value; instead, they inherit 'this' from the enclosing lexical context."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Which method would you use to iterate over an array and create a new array with the results of calling a provided function on every element?",
+      "options": {
+        "A": "forEach()",
+        "B": "filter()",
+        "C": "map()",
+        "D": "reduce()"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'map()' method creates a new array populated with the results of calling a provided function on every element in the calling array."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "What is the output of `console.log('5' + 3);`?",
+      "options": {
+        "A": "8",
+        "B": "53",
+        "C": "NaN",
+        "D": "Error"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "When the '+' operator is used with a string and a number, JavaScript performs string concatenation. The number '3' is coerced into a string '3', resulting in '53'."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Explain the concept of 'event bubbling' in the DOM.",
+      "options": {
+        "A": "Events trigger on parent elements first, then propagate down to children.",
+        "B": "Events trigger on the target element, then propagate up through its ancestors to the root.",
+        "C": "Events are handled by the browser and do not propagate.",
+        "D": "It's a way to prevent event propagation entirely."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Event bubbling is the phase where an event, after being handled by the target element, propagates upwards through the DOM tree, triggering handlers on its parent elements, then grandparent elements, and so on, up to the document root."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "How can you make an asynchronous operation in JavaScript wait for a result before continuing, without blocking the main thread?",
+      "options": {
+        "A": "Using a 'setTimeout' with a long delay.",
+        "B": "Using 'alert()' to pause execution.",
+        "C": "Using 'async/await' with Promises.",
+        "D": "Running the operation in a separate web worker only."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'async/await' syntax in JavaScript provides a cleaner way to work with asynchronous operations (Promises), allowing you to write asynchronous code that looks and behaves like synchronous code, without blocking the main thread."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "What is a closure in JavaScript?",
+      "options": {
+        "A": "A function that has access to its own scope, the scope of the outer function, and the global scope, even after the outer function has finished executing.",
+        "B": "A way to close a program or script.",
+        "C": "An error that occurs when a variable is not properly defined.",
+        "D": "A method to encapsulate private class members."
+      },
+      "correct": "A",
+      "difficulty": "hard",
+      "explanation": "A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In simpler terms, a closure gives you access to an outer function's scope from an inner function, even after the outer function has closed."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "What is JSX in React?",
+      "options": {
+        "A": "A JavaScript framework for backend development.",
+        "B": "A syntax extension for JavaScript that looks like HTML.",
+        "C": "A type of database used with React.",
+        "D": "A CSS preprocessor."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "JSX (JavaScript XML) is a syntax extension for JavaScript that allows you to write HTML-like code directly within your JavaScript files, which React then transpiles into 'React.createElement()' calls."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "In React, how do you pass data from a parent component to a child component?",
+      "options": {
+        "A": "Using state directly in the child component.",
+        "B": "Using props.",
+        "C": "Using context API only.",
+        "D": "Using callbacks."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Props (short for properties) are the mechanism for passing data from a parent component to a child component in React."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Which React hook is used for managing state within a functional component?",
+      "options": {
+        "A": "useEffect",
+        "B": "useContext",
+        "C": "useState",
+        "D": "useReducer"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'useState' hook allows functional components to have state variables. It returns a pair: the current state value and a function that lets you update it."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "What is the purpose of the 'key' prop when rendering a list of components in React?",
+      "options": {
+        "A": "To provide a unique identifier for CSS styling.",
+        "B": "To help React identify which items have changed, are added, or are removed, for efficient updates.",
+        "C": "To define the component's type.",
+        "D": "To specify the order in which components should be rendered."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Keys are crucial for React's reconciliation algorithm. They help React identify which items in a list have changed, been added, or been removed, improving performance and avoiding bugs."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Which command is typically used to create a new React project using Create React App?",
+      "options": {
+        "A": "npm start react-app my-app",
+        "B": "npm build my-app",
+        "C": "npx create-react-app my-app",
+        "D": "react new project my-app"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'npx create-react-app my-app' command uses the Create React App toolchain to set up a new React project with a pre-configured build environment."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "In React, what is a controlled component?",
+      "options": {
+        "A": "A component whose state is managed entirely by the DOM.",
+        "B": "An input form element whose value is controlled by React state.",
+        "C": "A component that uses external libraries for its logic.",
+        "D": "A component that cannot receive props."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "In a controlled component, form data is handled by the React component's state. The input element's value is always driven by the React state, requiring an 'onChange' handler to update the state."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "What is the primary function of the 'useEffect' hook in React?",
+      "options": {
+        "A": "To perform state updates asynchronously.",
+        "B": "To handle side effects like data fetching, subscriptions, or manually changing the DOM.",
+        "C": "To create context for global state management.",
+        "D": "To optimize component rendering performance."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'useEffect' hook is used to perform side effects in functional components. These include data fetching, setting up subscriptions, or manually changing the DOM, and it runs after every render."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Which of the following best describes the Virtual DOM in React?",
+      "options": {
+        "A": "It's a direct manipulation of the browser's DOM.",
+        "B": "It's a lightweight copy of the actual DOM, used to optimize updates.",
+        "C": "It's a server-side rendering technique.",
+        "D": "It's a database for storing component states."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The Virtual DOM is a programming concept where a virtual representation of the UI is kept in memory and synced with the 'real' DOM. React uses it to efficiently update the actual DOM by comparing the current and previous Virtual DOMs."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "What is the correct way to conditionally render a component in React?",
+      "options": {
+        "A": "{if (condition) { <Component /> }}",
+        "B": "{condition && <Component />}",
+        "C": "<Component if={condition} />",
+        "D": "render If condition then <Component />"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "In JSX, you can use JavaScript expressions. The logical AND operator (&&) is a common way to conditionally render components: if 'condition' is true, '<Component />' is rendered; otherwise, nothing is rendered."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "When should you use the 'useCallback' hook in React?",
+      "options": {
+        "A": "To memoize a value that is expensive to compute.",
+        "B": "To prevent a function from being recreated on every render, often passed to child components.",
+        "C": "To manage complex state logic.",
+        "D": "To fetch data from an API."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The 'useCallback' hook returns a memoized callback function. This is useful when passing callbacks to optimized child components that rely on reference equality to prevent unnecessary renders."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "What is 'lifting state up' in React?",
+      "options": {
+        "A": "Moving a component's state to a global store like Redux.",
+        "B": "Moving the state from a child component to its nearest common ancestor.",
+        "C": "Increasing the number of state variables in a component.",
+        "D": "Using 'useState' in a parent component."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lifting state up is a pattern where if two child components need to share state, or if a child component's state needs to affect another component, the state is moved to their nearest common ancestor."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Which of the following is NOT a good practice when using props in React?",
+      "options": {
+        "A": "Passing functions as props to child components.",
+        "B": "Modifying props directly within the child component.",
+        "C": "Using prop types for validation.",
+        "D": "Destructuring props in the child component."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Props are read-only. A child component should never modify the props it receives from its parent. This ensures a unidirectional data flow and predictable state management."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "What does the 'ReactDOM.render()' method do?",
+      "options": {
+        "A": "It builds the entire React application bundle.",
+        "B": "It renders a React element into the DOM in the supplied container and returns a reference to the component.",
+        "C": "It fetches data from a server to populate the UI.",
+        "D": "It creates a new virtual DOM for the application."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ReactDOM.render() is the entry point for a React application. It takes a React element (often the root component) and a DOM element, and renders the React element into that DOM element."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Which of these is a common method for handling forms in React?",
+      "options": {
+        "A": "Using direct DOM manipulation with 'document.querySelector'.",
+        "B": "Making all form inputs uncontrolled components.",
+        "C": "Using controlled components where input values are tied to component state.",
+        "D": "Submitting the form directly to a server without JavaScript."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Controlled components are the standard way to handle form inputs in React. The input's value is controlled by React state, and changes are handled via 'onChange' event handlers."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "What is the purpose of React Router?",
+      "options": {
+        "A": "To handle network requests in React applications.",
+        "B": "To manage the global state of a React application.",
+        "C": "To enable client-side routing and navigation between different views/pages without full page reloads.",
+        "D": "To optimize the performance of React components."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "React Router is a popular library for client-side routing in React applications, allowing navigation between different components based on the URL without refreshing the entire page."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "When would you typically use 'useMemo' hook?",
+      "options": {
+        "A": "To store a function that changes only when certain dependencies change.",
+        "B": "To perform side effects after rendering.",
+        "C": "To memoize a computed value that is expensive to recalculate on every render.",
+        "D": "To manage complex state logic with a reducer."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "The 'useMemo' hook returns a memoized value. It only recomputes the memoized value when one of the dependencies has changed. This is useful for optimizing performance by avoiding expensive calculations on every render."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Which React hook is used to access the context API within a functional component?",
+      "options": {
+        "A": "useState",
+        "B": "useEffect",
+        "C": "useContext",
+        "D": "useReducer"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'useContext' hook allows a functional component to subscribe to React context, making it possible to consume values from a context provider without prop drilling."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "What is Node.js primarily used for?",
+      "options": {
+        "A": "Frontend development only.",
+        "B": "Running JavaScript code on the server-side.",
+        "C": "Styling web pages.",
+        "D": "Database management."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine, allowing JavaScript to be executed outside of a web browser, typically for server-side applications."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Which of the following is a core module in Node.js for handling file system operations?",
+      "options": {
+        "A": "http",
+        "B": "fs",
+        "C": "path",
+        "D": "util"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'fs' (File System) module provides an API for interacting with the file system in a way similar to standard POSIX functions."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "What is NPM (Node Package Manager) primarily used for?",
+      "options": {
+        "A": "To compile Node.js code.",
+        "B": "To manage Node.js versions.",
+        "C": "To install, manage, and share JavaScript packages/modules.",
+        "D": "To debug Node.js applications."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "NPM is the default package manager for Node.js. It allows developers to easily install, manage, and publish reusable JavaScript packages and modules."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Which HTTP method is typically used to retrieve data from a server?",
+      "options": {
+        "A": "POST",
+        "B": "PUT",
+        "C": "GET",
+        "D": "DELETE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The GET method is used to request data from a specified resource. It should only retrieve data and have no other effect on the data."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "In Express.js, what is 'middleware'?",
+      "options": {
+        "A": "A type of database.",
+        "B": "Functions that have access to the request object, the response object, and the next middleware function in the application's request-response cycle.",
+        "C": "A client-side library for making API calls.",
+        "D": "A template engine for rendering HTML."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Middleware functions in Express.js are functions that execute in the middle of the request-response cycle. They can perform tasks like logging, authentication, parsing request bodies, etc."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Which of the following is NOT a valid HTTP status code for a successful response?",
+      "options": {
+        "A": "200 OK",
+        "B": "201 Created",
+        "C": "204 No Content",
+        "D": "400 Bad Request"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "400 Bad Request is a client error status code, indicating that the server cannot or will not process the request due to something that is perceived to be a client error."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "How do you start an Express.js server on a specific port?",
+      "options": {
+        "A": "app.listen(port, callback);",
+        "B": "server.start(port);",
+        "C": "express.run(port);",
+        "D": "app.launch(port);"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "The 'app.listen()' method is used in Express.js to bind and listen for connections on the specified host and port."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "What is the purpose of 'res.json()' in an Express.js route handler?",
+      "options": {
+        "A": "To redirect the client to a different URL.",
+        "B": "To send a file as a response.",
+        "C": "To send a JSON response to the client.",
+        "D": "To render an HTML template."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'res.json()' method sends a JSON response. It takes an object or array and converts it to a JSON string before sending it to the client."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Which module in Node.js allows you to create an HTTP server?",
+      "options": {
+        "A": "fs",
+        "B": "path",
+        "C": "http",
+        "D": "events"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'http' module provides classes and methods to create an HTTP server and client. Express.js builds upon this module."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "What is a 'RESTful API'?",
+      "options": {
+        "A": "An API that only uses the GET method.",
+        "B": "An architectural style for designing networked applications using standard HTTP methods and stateless communication.",
+        "C": "An API that requires XML for data exchange.",
+        "D": "A type of database API."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "REST (Representational State Transfer) is an architectural style for distributed hypermedia systems. RESTful APIs use standard HTTP methods (GET, POST, PUT, DELETE) and typically communicate using stateless requests and JSON/XML data."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "In Node.js, what does the 'event loop' enable?",
+      "options": {
+        "A": "Synchronous execution of all code.",
+        "B": "Non-blocking I/O operations, allowing Node.js to handle many concurrent connections.",
+        "C": "Blocking I/O operations to ensure data integrity.",
+        "D": "Automatic garbage collection."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "The event loop is a core part of Node.js's non-blocking, asynchronous nature. It allows Node.js to perform non-blocking I/O operations by offloading operations to the system kernel and then placing them back onto the event queue when completed."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "How do you parse JSON data sent in the body of a POST request in Express.js?",
+      "options": {
+        "A": "Using 'body-parser' middleware or 'express.json()'.",
+        "B": "Manually parsing 'req.body' as a string.",
+        "C": "It's automatically parsed by Express.js.",
+        "D": "Using 'req.query' to access the body."
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Express.js provides built-in middleware 'express.json()' (or the separate 'body-parser' package) to parse incoming requests with JSON payloads, making them available on 'req.body'."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Which method is typically used to update an existing resource on the server in a RESTful API?",
+      "options": {
+        "A": "GET",
+        "B": "POST",
+        "C": "PUT",
+        "D": "PATCH"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The PUT method is generally used to completely replace an existing resource with new data. PATCH is used for partial updates."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "What is the primary benefit of using environment variables (e.g., via `dotenv` package) in a Node.js application?",
+      "options": {
+        "A": "To improve frontend styling.",
+        "B": "To store sensitive configuration data (like API keys, database credentials) outside of source code and easily manage different settings for various environments (development, production).",
+        "C": "To speed up JavaScript execution.",
+        "D": "To create new HTML elements dynamically."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Environment variables are crucial for storing configuration that varies between environments (e.g., database URLs, API keys) and for keeping sensitive information out of version control."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "When developing a Node.js application, which file is commonly used to define project metadata and dependencies?",
+      "options": {
+        "A": "index.js",
+        "B": "app.js",
+        "C": "package.json",
+        "D": "config.yaml"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'package.json' file is central to Node.js projects. It contains metadata about the project (name, version, description) and lists all project dependencies and scripts."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Consider a scenario where an Express route needs to perform an asynchronous database query. How should the error from the query be handled to prevent the server from crashing and send an appropriate response?",
+      "options": {
+        "A": "Ignore the error, as Express handles it automatically.",
+        "B": "Use a try-catch block around the async operation and call `next(error)` or `res.status(500).send('Error');`.",
+        "C": "Restart the Node.js server immediately upon error.",
+        "D": "Log the error to the console and do nothing else."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Asynchronous errors in Express.js routes should be caught (e.g., with 'try-catch' or '.catch()' for Promises) and then either passed to the 'next' middleware function (which can be an error-handling middleware) or explicitly handled by sending an error response to the client."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "What is the purpose of `res.redirect('/new-path')` in Express.js?",
+      "options": {
+        "A": "To render an HTML page at '/new-path'.",
+        "B": "To send a file located at '/new-path'.",
+        "C": "To instruct the client's browser to navigate to a different URL.",
+        "D": "To fetch data from '/new-path' on the server."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 'res.redirect()' method sends an HTTP redirect (typically a 302 Found status) to the client, telling the browser to request a different URL."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Which of the following is an example of a Relational Database Management System (RDBMS)?",
+      "options": {
+        "A": "MongoDB",
+        "B": "Cassandra",
+        "C": "MySQL",
+        "D": "Redis"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "MySQL is a popular open-source RDBMS that uses structured query language (SQL). MongoDB, Cassandra, and Redis are NoSQL databases."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "What does SQL stand for?",
+      "options": {
+        "A": "Standard Query Language",
+        "B": "Structured Query Language",
+        "C": "Sequential Query Logic",
+        "D": "Server Query Language"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SQL stands for Structured Query Language, which is a domain-specific language used in programming and designed for managing data held in an RDBMS."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Which SQL keyword is used to retrieve data from a database?",
+      "options": {
+        "A": "UPDATE",
+        "B": "INSERT",
+        "C": "SELECT",
+        "D": "DELETE"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The SELECT statement is used to fetch data from a database. UPDATE modifies existing data, INSERT adds new data, and DELETE removes data."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "In a relational database, what is a 'primary key'?",
+      "options": {
+        "A": "A field that can contain duplicate values.",
+        "B": "A field that uniquely identifies each record in a table.",
+        "C": "A field used to establish a relationship with another table.",
+        "D": "A field that stores encrypted data."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A primary key is a column or a set of columns in a table that uniquely identifies each row/record in that table. It cannot contain NULL values and must be unique."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "What is the main characteristic of a NoSQL database compared to a SQL database?",
+      "options": {
+        "A": "Strict schema definition and ACID compliance.",
+        "B": "Fixed table structures and relational data models.",
+        "C": "Flexible schema, often non-relational, and designed for scalability and high availability.",
+        "D": "Only stores data in key-value pairs."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "NoSQL databases are often characterized by their flexible schemas, non-relational data models (e.g., document, key-value, graph), and their ability to scale horizontally and handle large volumes of unstructured or semi-structured data."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Which SQL clause is used to filter records based on a specified condition?",
+      "options": {
+        "A": "ORDER BY",
+        "B": "GROUP BY",
+        "C": "WHERE",
+        "D": "HAVING"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The WHERE clause is used to extract only those records that fulfill a specified condition."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "In MongoDB, what is the equivalent of a 'table' in a relational database?",
+      "options": {
+        "A": "Document",
+        "B": "Field",
+        "C": "Collection",
+        "D": "Database"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In MongoDB, data is stored in 'collections', which are analogous to tables in relational databases. A collection contains 'documents', which are analogous to rows."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Which SQL JOIN returns only the rows that have matching values in both tables?",
+      "options": {
+        "A": "LEFT JOIN",
+        "B": "RIGHT JOIN",
+        "C": "FULL JOIN",
+        "D": "INNER JOIN"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "An INNER JOIN (or simply JOIN) returns only the rows where there is a match in both tables based on the join condition."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "What is an 'ORM' (Object-Relational Mapping) and why is it used?",
+      "options": {
+        "A": "A type of NoSQL database that stores objects.",
+        "B": "A technique that maps objects in a program to tables in a relational database, allowing developers to interact with the database using their preferred programming language instead of raw SQL.",
+        "C": "A tool for optimizing SQL queries.",
+        "D": "A system for managing database backups."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ORM libraries (like Sequelize for Node.js or SQLAlchemy for Python) provide an abstraction layer over the database, allowing developers to work with database records as objects in their application code, reducing the need to write raw SQL."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Which MongoDB operation is used to add new documents to a collection?",
+      "options": {
+        "A": "db.collection.find()",
+        "B": "db.collection.update()",
+        "C": "db.collection.insertMany()",
+        "D": "db.collection.remove()"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'insertMany()' (or 'insertOne()') method is used to add one or more new documents into a collection in MongoDB."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "What is the purpose of an 'index' in a database?",
+      "options": {
+        "A": "To encrypt data for security.",
+        "B": "To define relationships between tables.",
+        "C": "To speed up data retrieval operations by providing quick lookup access to data.",
+        "D": "To enforce data validation rules."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Indexes are special lookup tables that the database search engine can use to speed up data retrieval. They are similar to an index in a book."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Consider a 'users' table with columns 'id', 'name', 'email'. Which SQL query would select all users whose name starts with 'A'?",
+      "options": {
+        "A": "SELECT * FROM users WHERE name = 'A%';",
+        "B": "SELECT * FROM users WHERE name LIKE 'A%';",
+        "C": "SELECT * FROM users WHERE name BEGINS 'A';",
+        "D": "SELECT * FROM users WHERE name CONTAINS 'A';"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The LIKE operator is used in a WHERE clause to search for a specified pattern in a column. The '%' wildcard represents zero or more characters."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "What is 'Mongoose' commonly used for in Node.js applications?",
+      "options": {
+        "A": "As a SQL database client.",
+        "B": "As an ODM (Object Data Modeling) library for MongoDB, providing schema validation and an easier way to interact with MongoDB from Node.js.",
+        "C": "As a package manager for Node.js.",
+        "D": "As an authentication library."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mongoose is an ODM library for MongoDB and Node.js. It simplifies interaction with MongoDB by providing a schema-based solution to model application data and offering methods for CRUD operations."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Which of the following describes the 'ACID' properties in the context of database transactions?",
+      "options": {
+        "A": "Accessibility, Consistency, Isolation, Durability",
+        "B": "Atomicity, Consistency, Isolation, Durability",
+        "C": "Availability, Concurrency, Integrity, Data-safety",
+        "D": "Asynchronous, Concurrent, Independent, Distributed"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ACID (Atomicity, Consistency, Isolation, Durability) is a set of properties that guarantee valid transactions in relational databases. They ensure data integrity even in the face of errors or power failures."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "What is the purpose of the 'GROUP BY' clause in SQL?",
+      "options": {
+        "A": "To sort the result-set by one or more columns.",
+        "B": "To filter records based on a condition.",
+        "C": "To group rows that have the same values in specified columns into a summary row, often with aggregate functions.",
+        "D": "To combine rows from two or more tables."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The GROUP BY clause is used with aggregate functions (COUNT, MAX, MIN, SUM, AVG) to group the result-set by one or more columns."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "When designing a relational database, what is a 'foreign key' used for?",
+      "options": {
+        "A": "To uniquely identify a record within a table.",
+        "B": "To ensure that a column contains only unique values.",
+        "C": "To link two tables together by referencing the primary key of another table.",
+        "D": "To store large binary objects (BLOBs)."
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A foreign key is a column or a combination of columns that is used to establish and enforce a link between the data in two tables. It refers to the primary key in another table."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "What is the primary purpose of Git?",
+      "options": {
+        "A": "To deploy web applications to production servers.",
+        "B": "To manage project dependencies and packages.",
+        "C": "To track changes in source code during software development and allow multiple developers to collaborate.",
+        "D": "To optimize database queries."
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Git is a distributed version control system used for tracking changes in source code during software development. It helps coordinate work among multiple developers."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Which Git command is used to record changes to the repository?",
+      "options": {
+        "A": "git save",
+        "B": "git add",
+        "C": "git commit",
+        "D": "git push"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'git commit' command records the changes to the repository, creating a new snapshot of the project. 'git add' stages changes for the next commit."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "What is a 'branch' in Git?",
+      "options": {
+        "A": "A separate copy of the entire repository.",
+        "B": "A lightweight movable pointer to a commit, used for developing features in isolation.",
+        "C": "A tag used to mark a specific version of the code.",
+        "D": "A remote repository."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A branch in Git is essentially a separate line of development. It allows developers to work on new features or bug fixes without affecting the main codebase until the changes are ready."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Which command is used to send your local commits to a remote repository (e.g., GitHub)?",
+      "options": {
+        "A": "git pull",
+        "B": "git fetch",
+        "C": "git clone",
+        "D": "git push"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The 'git push' command is used to upload local repository content to a remote repository."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "What does 'git clone' do?",
+      "options": {
+        "A": "Creates a new branch in the current repository.",
+        "B": "Copies an existing remote repository to your local machine.",
+        "C": "Restores a previous version of a file.",
+        "D": "Merges two branches together."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The 'git clone' command is used to create a copy of an existing Git repository, creating a new local repository with all the project's files, history, and branches."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "What is the purpose of a '.gitignore' file?",
+      "options": {
+        "A": "To specify which files should be tracked by Git.",
+        "B": "To list files and directories that Git should intentionally ignore and not track.",
+        "C": "To configure Git user settings.",
+        "D": "To store commit messages."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The '.gitignore' file specifies untracked files that Git should ignore. This is useful for files like build artifacts, node_modules, or sensitive configuration files."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Which command is used to download changes from a remote repository into your local working directory and automatically merge them?",
+      "options": {
+        "A": "git fetch",
+        "B": "git pull",
+        "C": "git checkout",
+        "D": "git rebase"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 'git pull' command is a combination of 'git fetch' (to download changes) and 'git merge' (to integrate them into your current branch)."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "What is a 'merge conflict' in Git?",
+      "options": {
+        "A": "When two branches have identical content.",
+        "B": "When Git cannot automatically combine changes from two different branches because they have modified the same lines in the same file.",
+        "C": "An error that prevents you from pushing to a remote repository.",
+        "D": "When you try to commit without adding files first."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A merge conflict occurs when Git attempts to combine two branches, and both branches have made changes to the same part of the same file, or one branch deleted a file while the other modified it."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Which hosting provider is known for its ease of use in deploying static frontend applications (e.g., React apps) directly from a Git repository?",
+      "options": {
+        "A": "AWS EC2",
+        "B": "DigitalOcean Droplets",
+        "C": "Netlify / Vercel",
+        "D": "Heroku (for full-stack applications)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Netlify and Vercel are very popular platforms that specialize in deploying static sites and serverless functions, offering seamless integration with Git repositories for continuous deployment of frontend applications."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "What is the primary benefit of Continuous Integration (CI) in a development workflow?",
+      "options": {
+        "A": "To manually test all code changes before deployment.",
+        "B": "To automatically build and test code changes frequently, integrating them into a shared repository early and often.",
+        "C": "To deploy applications only once a month.",
+        "D": "To prevent developers from pushing code to the main branch."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Continuous Integration (CI) is a practice where developers integrate code into a shared repository frequently, usually multiple times a day. Each integration is then verified by an automated build and automated tests."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "After making changes to a file, what is the correct sequence of Git commands to save these changes to your local repository?",
+      "options": {
+        "A": "git commit -> git add",
+        "B": "git save -> git commit",
+        "C": "git add -> git commit",
+        "D": "git push -> git add"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "First, 'git add' stages the changes, marking them for inclusion in the next commit. Then, 'git commit' records the staged changes into the repository history."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "What is the difference between `git fetch` and `git pull`?",
+      "options": {
+        "A": "`git fetch` downloads changes and automatically merges them, while `git pull` only downloads.",
+        "B": "`git pull` downloads changes and automatically merges them, while `git fetch` only downloads them without merging.",
+        "C": "They are identical commands and can be used interchangeably.",
+        "D": "`git fetch` only works with local branches, `git pull` works with remote."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "`git fetch` downloads commits, files, and refs from a remote repository into your local repository, but it doesn't merge them. `git pull` is a combination of `git fetch` followed by `git merge`."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "If you want to revert to a specific previous commit in Git, effectively removing all subsequent commits from the history, which command would you typically use?",
+      "options": {
+        "A": "git reset --soft <commit-hash>",
+        "B": "git revert <commit-hash>",
+        "C": "git reset --hard <commit-hash>",
+        "D": "git checkout <commit-hash>"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "`git reset --hard <commit-hash>` moves the HEAD pointer and the current branch pointer to the specified commit, and also resets the working directory and staging area to match that commit. It effectively discards all changes after that commit."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "What is a 'Pull Request' (or 'Merge Request') in platforms like GitHub/GitLab?",
+      "options": {
+        "A": "A request to download a repository.",
+        "B": "A formal proposal to merge a branch's changes into another branch, allowing for code review and discussion.",
+        "C": "A command to force-push changes to a remote repository.",
+        "D": "A request to revert a commit."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A Pull Request (or Merge Request) is a feature in Git hosting platforms that allows developers to propose changes, discuss them, and get them reviewed before merging them into a target branch (e.g., 'main')."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "When deploying a full-stack application (e.g., Node.js backend + React frontend), which of the following is generally considered a suitable hosting solution for the backend?",
+      "options": {
+        "A": "Netlify (primarily for static sites and serverless functions)",
+        "B": "Vercel (primarily for static sites and serverless functions)",
+        "C": "AWS EC2 / Heroku / DigitalOcean Droplets (for running servers)",
+        "D": "GitHub Pages (only for static sites)"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Platforms like AWS EC2, Heroku, or DigitalOcean Droplets provide environments where you can run your Node.js server, connect to databases, and handle server-side logic. Netlify, Vercel, and GitHub Pages are better suited for static frontends."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "What is a 'CI/CD pipeline' in the context of web development?",
+      "options": {
+        "A": "A manual process for testing and deploying code.",
+        "B": "A set of automated steps that enable developers to deliver code changes more frequently and reliably by automating the build, test, and deployment phases.",
+        "C": "A tool for designing user interfaces.",
+        "D": "A database schema migration tool."
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "A CI/CD pipeline (Continuous Integration/Continuous Deployment or Delivery) is an automated process that takes code changes from version control, builds them, runs tests, and then deploys them to various environments, ensuring faster and more reliable software delivery."
+    }
+  ]
+}

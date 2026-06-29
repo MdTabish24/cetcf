@@ -1,0 +1,1443 @@
+{
+  "course_name": "Permanent Makeup (Microblading & PMU)",
+  "sector": "Advanced Beauty, Cosmetology & Aesthetics",
+  "level": "Advanced",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to PMU, Skin Anatomy & Physiology",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Client Consultation, Health, Safety & Contraindications",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Pigments, Color Theory & Needle Knowledge",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Microblading Techniques (Eyebrows)",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "PMU Techniques (Eyeliner, Lips, Areola)",
+      "question_range": "Q69-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Aftercare, Touch-ups, Correction & Business Aspects",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "PMU mein 'Permanent' word ka kya matlab hai?",
+      "options": {
+        "A": "Ki pigment kabhi fade nahi hoga",
+        "B": "Ki pigment dermis layer mein implant hota hai aur long-lasting hota hai, par fade ho sakta hai",
+        "C": "Ki tattoo ki tarah pigment remove nahi ho sakta",
+        "D": "Ki iska koi touch-up nahi chahiye hota"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PMU mein 'permanent' ka matlab hai ki pigment dermis layer mein implant hota hai aur long-lasting hota hai, par time ke sath fade ho sakta hai aur touch-ups ki zaroorat pad sakti hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Skin ki kaun si layer mein pigment implant kiya jata hai PMU procedures mein?",
+      "options": {
+        "A": "Epidermis",
+        "B": "Dermis",
+        "C": "Hypodermis",
+        "D": "Stratum Corneum"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Permanent Makeup mein pigment dermis layer mein implant kiya jata hai takki woh long-lasting ho. Epidermis bahut shallow hoti hai aur pigment jaldi nikal jayega."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Skin ka primary function kya hai jo PMU professionals ko pata hona chahiye?",
+      "options": {
+        "A": "Vitamin D produce karna",
+        "B": "Body temperature regulate karna",
+        "C": "Protection from external environment aur pathogens",
+        "D": "Sensory reception"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Skin ka primary function body ko external environment aur pathogens se protect karna hai. PMU professionals ko iski integrity maintain karna important hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Healing process ke kis stage mein pigment ka final color settle hota hai?",
+      "options": {
+        "A": "Immediately after procedure",
+        "B": "First 24 hours",
+        "C": "4-6 weeks after the procedure",
+        "D": "During the scabbing phase"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pigment ka final color skin ke complete healing aur regeneration ke baad, jo usually 4-6 weeks lagta hai, settle hota hai. Initial color dark ya intense dikh sakta hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Facial anatomy mein, kaun si muscle eyebrows ko lift karne ke liye responsible hai?",
+      "options": {
+        "A": "Orbicularis Oculi",
+        "B": "Frontalis",
+        "C": "Corrugator Supercilii",
+        "D": "Procerus"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Frontalis muscle forehead par hoti hai aur eyebrows ko lift karne ke liye responsible hai. Iski placement eyebrow mapping mein consider karna zaroori hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "PMU procedure ke dauraan excessive bleeding ka kya karan ho sakta hai?",
+      "options": {
+        "A": "Client ne caffeine consume kiya ho",
+        "B": "Client ne blood thinners liye ho",
+        "C": "Excessive pressure ya deep implantation",
+        "D": "All of the above"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Excessive bleeding ke kayi karan ho sakte hain jaise blood thinners (aspirin, ibuprofen), alcohol, caffeine ka sevan, ya phir technician dwara excessive pressure ya too deep implantation."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Skin type 'Oily' hone par PMU pigment retention par kya asar pad sakta hai?",
+      "options": {
+        "A": "Better pigment retention",
+        "B": "No effect on pigment retention",
+        "C": "Poorer pigment retention and faster fading",
+        "D": "Pigment will appear darker"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Oily skin types mein sebum production zyada hone ke karan pigment retention poorer ho sakta hai aur fading faster ho sakti hai. Iske liye specific techniques aur aftercare advice ki zaroorat padti hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "PMU ke liye skin ki elasticity aur turgor ko assess karna kyu important hai?",
+      "options": {
+        "A": "To decide needle size",
+        "B": "To determine pigment brand",
+        "C": "To predict pigment retention aur healing, aur technique adjust karne ke liye",
+        "D": "To check for allergies"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Skin ki elasticity aur turgor ko assess karna bahut important hai. Loose ya inelastic skin par pigment implantation difficult ho sakta hai aur healing bhi affect ho sakti hai. Isse technique aur pressure adjust karne mein madad milti hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "Agar client ki skin thin aur delicate hai, toh PMU procedure mein kya precaution leni chahiye?",
+      "options": {
+        "A": "Zyada pressure apply karna",
+        "B": "Lighter hand pressure aur shallow depth use karna",
+        "C": "Darker pigment use karna",
+        "D": "Procedure duration badha dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Thin aur delicate skin par lighter hand pressure aur shallow depth use karna chahiye taaki trauma kam ho aur over-implantation ya pigment migration se bacha ja sake."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "PMU se pehle skin ki integrity check karna kyu zaroori hai?",
+      "options": {
+        "A": "To ensure uniform pigment absorption",
+        "B": "To identify any skin conditions ya lesions jo procedure ko hinder kar sakte hain",
+        "C": "To calculate the procedure cost",
+        "D": "To choose the right machine"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skin ki integrity check karna zaroori hai taaki koi bhi underlying skin condition, infection, ya lesion ko identify kiya ja sake jo procedure ko affect kar sakta hai ya contraindication ho sakta hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Facial symmetry ko maintain karna PMU mein kyu crucial hai?",
+      "options": {
+        "A": "Client ke satisfaction ke liye aur natural look achieve karne ke liye",
+        "B": "Taaki procedure jaldi khatam ho",
+        "C": "Pigment retention improve karne ke liye",
+        "D": "Needle breakage rokne ke liye"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Facial symmetry maintain karna client ke satisfaction aur natural-looking results ke liye bahut crucial hai. Asymmetry se client dissatisfied ho sakte hain."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Epidermis ke kis layer mein cell regeneration sabse zyada hoti hai?",
+      "options": {
+        "A": "Stratum Corneum",
+        "B": "Stratum Granulosum",
+        "C": "Stratum Basale",
+        "D": "Stratum Spinosum"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Stratum Basale (ya Stratum Germinativum) epidermis ki sabse innermost layer hai jahan continuous cell division (mitosis) hoti hai aur naye skin cells banate hain."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Dermis mein kaun se structures hote hain jo PMU ke liye relevant hain?",
+      "options": {
+        "A": "Melanocytes",
+        "B": "Keratinocytes",
+        "C": "Collagen, elastin fibers, blood vessels, nerve endings",
+        "D": "Hair follicles ke outer part"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Dermis mein collagen aur elastin fibers hote hain jo skin ko strength aur elasticity dete hain, blood vessels jo nutrients supply karte hain, aur nerve endings jo sensation provide karte hain. Pigment inhi structures ke aas-paas implant hota hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "PMU ke baad skin mein itching aur mild swelling hona normal hai, par kab ye alarming ho sakta hai?",
+      "options": {
+        "A": "First 24 hours mein",
+        "B": "Agar itching aur swelling severe ho aur 3 din se zyada rahe",
+        "C": "Jab scabs girne lagte hain",
+        "D": "Touch-up ke baad"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mild itching aur swelling initial healing process ka part hai. Lekin agar itching aur swelling severe ho, pus formation ho, ya 3 din se zyada rahe toh infection ya allergic reaction ka sign ho sakta hai aur medical attention ki zaroorat hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Fitzpatrick Skin Type Scale PMU professionals ke liye kyu useful hai?",
+      "options": {
+        "A": "To determine pigment cost",
+        "B": "To assess skin's reaction to sun exposure aur pigment choice mein help karta hai",
+        "C": "To check client's age",
+        "D": "To measure skin thickness"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fitzpatrick Scale skin ke sun exposure ke prati reaction ko classify karta hai aur isse pigment selection mein madad milti hai taaki client ki natural skin tone aur undertone ke hisaab se best match choose kiya ja sake aur unwanted color shifts ko avoid kiya ja sake."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Hyperpigmentation ka risk kis skin type mein zyada hota hai PMU ke baad?",
+      "options": {
+        "A": "Fitzpatrick Type I (very fair)",
+        "B": "Fitzpatrick Type II (fair)",
+        "C": "Fitzpatrick Type IV-VI (medium to dark skin tones)",
+        "D": "All skin types equally"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Hyperpigmentation, ya Post-Inflammatory Hyperpigmentation (PIH), ka risk Fitzpatrick Type IV-VI jaisi darker skin tones mein zyada hota hai. In skin types mein trauma (jaise PMU procedure) ke baad skin mein melanin production badh sakti hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "PMU mein scarring ko minimize karne ke liye kya precaution leni chahiye?",
+      "options": {
+        "A": "Heavy pressure use karna",
+        "B": "Overworking the skin aur proper depth maintain karna",
+        "C": "Gaadha pigment use karna",
+        "D": "Faster machine speed use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scarring ko minimize karne ke liye skin ko overwork nahi karna chahiye aur proper implantation depth maintain karni chahiye. Excessive trauma ya too deep implantation se scarring ka risk badh jata hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Client consultation ka sabse important aspect kya hai?",
+      "options": {
+        "A": "Client se advance payment lena",
+        "B": "Client ki expectations samajhna aur realistic outcomes set karna",
+        "C": "Procedure ki duration explain karna",
+        "D": "Sirf procedure ke risks batana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client consultation ka sabse important aspect client ki expectations ko clearly samajhna aur unhe realistic outcomes ke baare mein inform karna hai, taaki miscommunication na ho aur client satisfied rahe."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Patch test PMU procedure se kitne din pehle karna chahiye?",
+      "options": {
+        "A": "Just before the procedure",
+        "B": "24 hours pehle",
+        "C": "Kam se kam 48-72 hours pehle",
+        "D": "Only if client requests"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Patch test kam se kam 48-72 hours pehle karna chahiye taaki kisi bhi allergic reaction ko time mil sake develop hone ke liye. Kuch cases mein 7 din tak ka wait bhi recommend kiya jata hai."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Bloodborne pathogens jaise Hepatitis B/C aur HIV se bachne ke liye PMU professionals ko kya precautions leni chahiye?",
+      "options": {
+        "A": "Only wear gloves",
+        "B": "Universal precautions follow karna, jaise PPE use karna, single-use needles aur proper sterilization/disinfection",
+        "C": "Sirf healthy clients ko treat karna",
+        "D": "Procedure ke baad hands wash karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Bloodborne pathogens se bachne ke liye Universal Precautions follow karna essential hai. Isme Personal Protective Equipment (PPE) jaise gloves, masks, eyewear, single-use needles, aur proper sterilization/disinfection protocols shamil hain."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "PMU ke liye absolute contraindication kya hai?",
+      "options": {
+        "A": "Minor cold sore history",
+        "B": "Pregnancy aur breastfeeding",
+        "C": "Mild eczema on body",
+        "D": "Client who had Botox 2 weeks ago"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pregnancy aur breastfeeding PMU ke liye absolute contraindications hain kyuki is dauraan body mein hormonal changes hote hain jo pigment retention aur healing ko affect kar sakte hain, aur chemicals ka foetus/infant par asar ho sakta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "PMU procedure se pehle client ko kya avoid karne ki advice deni chahiye?",
+      "options": {
+        "A": "Alcohol, caffeine aur blood thinners",
+        "B": "Water",
+        "C": "Food",
+        "D": "Exercise"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Client ko procedure se kam se kam 24-48 ghante pehle alcohol, caffeine aur blood thinners (jaise aspirin, ibuprofen) avoid karne ki advice deni chahiye kyuki ye bleeding ko badha sakte hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Sterilization aur Disinfection mein kya difference hai?",
+      "options": {
+        "A": "Koi difference nahi hai",
+        "B": "Sterilization sabhi microorganisms ko kill karta hai, Disinfection sirf pathogens ko reduce karta hai",
+        "C": "Disinfection zyada effective hai sterilization se",
+        "D": "Sterilization sirf skin par use hota hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sterilization sabhi microorganisms (bacteria, viruses, fungi, spores) ko destroy karta hai, jabki disinfection sirf most pathogens ko reduce karta hai, par spores ko nahi."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "PMU technician ko konsi medical conditions ke baare mein client se poochhna chahiye?",
+      "options": {
+        "A": "Diabetes, cardiac conditions, blood disorders, allergies",
+        "B": "Hair color, eye color",
+        "C": "Favorite food, hobbies",
+        "D": "Past travel history"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "PMU technician ko client ki medical history detailed mein leni chahiye, especially diabetes, cardiac conditions, blood disorders (jaise hemophilia), allergies, autoimmune diseases, aur medications ke baare mein."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Agar client mein Herpes Simplex Virus (cold sores) ki history hai aur unhe lip PMU karwana hai, toh kya precaution leni chahiye?",
+      "options": {
+        "A": "Procedure cancel kar dena chahiye",
+        "B": "Antiviral medication prescribed karwana chahiye procedure se pehle aur baad mein",
+        "C": "Sirf light pigment use karna chahiye",
+        "D": "Zyada depth par kaam karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Herpes Simplex Virus ki history wale clients ko lip PMU se pehle aur baad mein antiviral medication lena chahiye taaki cold sore outbreak trigger na ho. Procedure-induced trauma se virus reactivate ho sakta hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "Cross-contamination ko rokne ke liye sabse effective method kya hai?",
+      "options": {
+        "A": "Gloves ko baar baar change karna",
+        "B": "Workstation ko regularly clean karna",
+        "C": "Single-use disposable items aur proper hand hygiene use karna",
+        "D": "Client ko mask pehnana"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Cross-contamination ko rokne ke liye single-use disposable items (needles, cartridges, pigment cups) ka use aur rigorous hand hygiene (gloves change karna, hands wash karna) sabse effective methods hain."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Informed Consent Form mein kya shamil hona chahiye?",
+      "options": {
+        "A": "Sirf client ka naam aur address",
+        "B": "Procedure ki detailed description, potential risks, benefits, aftercare instructions, aur client ki signature",
+        "C": "Technician ka resume",
+        "D": "Client ke friends ka contact details"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Informed Consent Form mein procedure ki detailed description, potential risks, benefits, aftercare instructions, aur client ki signature honi chahiye, jo indicate karta hai ki client ne sab kuch samajh liya hai aur consent de raha hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "PMU ke dauraan client ko pain management ke liye kya options diye ja sakte hain?",
+      "options": {
+        "A": "Only oral painkillers",
+        "B": "Topical anesthetic creams ya gels",
+        "C": "No pain management is needed",
+        "D": "Client ko distract karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PMU procedures ke dauraan topical anesthetic creams ya gels ka use kiya jata hai pain ko minimize karne ke liye. Client ki comfort bahut important hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Agar client PMU appointment ke din cold ya flu ke symptoms show karta hai, toh kya karna chahiye?",
+      "options": {
+        "A": "Procedure continue karna chahiye",
+        "B": "Procedure reschedule karna chahiye",
+        "C": "Sirf mask pehen kar procedure karna chahiye",
+        "D": "Anti-bacterial wipes se area clean karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Agar client cold ya flu ke symptoms show karta hai, toh procedure reschedule karna chahiye. Aisa karne se infection ka risk kam hota hai aur client ki healing bhi better hoti hai."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Autoclave ka primary use kya hai PMU setting mein?",
+      "options": {
+        "A": "Pigments store karna",
+        "B": "Sterilize reusable instruments",
+        "C": "Skin clean karna",
+        "D": "Needles dispose karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Autoclave high-pressure steam ka use karke reusable instruments ko sterilize karta hai, sabhi microorganisms, including spores, ko destroy karta hai. PMU mein mostly disposable items use hote hain, par kuch tools ke liye relevant ho sakta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Sharps container ka kya purpose hai?",
+      "options": {
+        "A": "Used pigments store karna",
+        "B": "Used needles aur blades ko safely dispose karna",
+        "C": "Cotton pads rakhna",
+        "D": "Client ke personal belongings rakhna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Sharps container specially designed hota hai taaki used needles, blades, aur any other sharp objects ko safely dispose kiya ja sake, needlestick injuries aur cross-contamination ko prevent karne ke liye."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Local anesthesia ke side effects kya ho sakte hain jo client ko batane chahiye?",
+      "options": {
+        "A": "Mild swelling, redness, temporary numbness",
+        "B": "Permanent paralysis",
+        "C": "Hair loss",
+        "D": "Weight gain"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Local anesthesia ke common side effects mein mild swelling, redness, temporary numbness, aur kabhi kabhi bruising shamil hain. Client ko inke baare mein inform karna zaroori hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "PMU ke dauraan eye protection kyu zaroori hai?",
+      "options": {
+        "A": "To look fashionable",
+        "B": "To prevent pigment particles, blood ya tissue debris se eyes ko protect karne ke liye",
+        "C": "To see better",
+        "D": "To block UV light"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PMU ke dauraan eye protection (goggles ya face shield) technician aur client dono ke liye zaroori hai taaki pigment particles, blood ya tissue debris se eyes ko protect kiya ja sake aur contamination ko roka ja sake."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Agar client koi autoimmune disorder (jaise Lupus, Rheumatoid Arthritis) se suffer kar raha hai, toh PMU ke liye kya precaution leni chahiye?",
+      "options": {
+        "A": "Unhe normal treat karna chahiye",
+        "B": "Doctor ke clearance ke bina procedure nahi karna chahiye",
+        "C": "Zyada pressure use karna chahiye",
+        "D": "Sirf light colors use karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Autoimmune disorders wale clients mein healing process compromised ho sakti hai aur infection ka risk zyada hota hai. Aise cases mein procedure karne se pehle client ke physician se medical clearance lena mandatory hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "PMU pigments mein sabse common base ingredient kya hota hai?",
+      "options": {
+        "A": "Food coloring",
+        "B": "Iron Oxides",
+        "C": "Vegetable dyes",
+        "D": "Acrylics"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "PMU pigments mein Iron Oxides sabse common base ingredients mein se hain. Ye stable, safe aur various shades mein available hote hain. Organic aur inorganic pigments ka blend bhi use hota hai."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Color theory mein, primary colors kaun se hain?",
+      "options": {
+        "A": "Green, Orange, Purple",
+        "B": "Red, Yellow, Blue",
+        "C": "Black, White, Grey",
+        "D": "Pink, Brown, Beige"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Color theory mein, Red, Yellow aur Blue primary colors hain. Inko mix karke secondary aur tertiary colors banaye ja sakte hain."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Agar eyebrow PMU brown pigment blue-greyish heal ho raha hai, toh isko neutralize karne ke liye kaun sa color use karna chahiye?",
+      "options": {
+        "A": "Blue",
+        "B": "Green",
+        "C": "Orange/Warm Red",
+        "D": "Black"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Color theory ke according, blue-greyish tones ko neutralize karne ke liye unka complementary color, yaani orange ya warm red pigments ka use kiya jata hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "PMU needles mein 'taper' ka kya matlab hai?",
+      "options": {
+        "A": "Needle ki length",
+        "B": "Needle tip ki sharpness aur length",
+        "C": "Needle ka diameter",
+        "D": "Kitni needles ek saath hain"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Needle taper needle tip ki sharpness aur length ko refer karta hai. Long taper needles sharper hoti hain aur fine lines ke liye achhi hoti hain, jabki short taper needles pigment ko quickly deposit karti hain."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Round Liner (RL) needle configuration ka primary use kya hai?",
+      "options": {
+        "A": "Shading aur filling",
+        "B": "Fine lines, outlines aur hair strokes",
+        "C": "Lip blush applications",
+        "D": "Areola pigmentation"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Round Liner (RL) needles tightly packed hoti hain aur fine lines, precise outlines aur realistic hair strokes banane ke liye ideal hoti hain."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Skin ke undertone ko identify karna kyu important hai pigment selection mein?",
+      "options": {
+        "A": "To match client's clothing",
+        "B": "To ensure the pigment heals beautifully aur unwanted color shifts ko avoid kare",
+        "C": "To decide machine speed",
+        "D": "To know client's age"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Skin ke undertone (warm, cool, neutral) ko identify karna bahut important hai taaki aisa pigment choose kiya ja sake jo client ki natural skin tone ke sath harmonize kare aur healing ke baad unwanted color changes (jaise greyish ya reddish tones) na aaye."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Organic pigments ke baare mein kaun sa statement sahi hai?",
+      "options": {
+        "A": "Ye hamesha inorganic pigments se zyada stable hote hain",
+        "B": "Ye brighter, more vibrant colors dete hain aur fade hone par thode unpredictable ho sakte hain",
+        "C": "Ye sirf black color mein available hote hain",
+        "D": "Ye kabhi allergic reactions nahi karte"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Organic pigments generally brighter aur more vibrant colors dete hain, par inorganic pigments ke mukable thode less stable ho sakte hain aur fade hone par unpredictable color shifts dikha sakte hain."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "PMU machine mein 'stroke length' ka kya function hai?",
+      "options": {
+        "A": "Needle ki sharpness determine karta hai",
+        "B": "Needle ki upar-neeche ki movement range ko control karta hai",
+        "C": "Machine ki speed control karta hai",
+        "D": "Pigment flow control karta hai"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Stroke length machine mein needle ki upar-neeche ki movement range ko control karta hai. Longer stroke length deeper implantation ke liye suitable hoti hai aur shading ke liye, jabki shorter stroke length fine lines aur delicate work ke liye."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Agar client ki lips mein bluish undertone hai, toh lip blush ke liye kaun sa pigment add karna chahiye?",
+      "options": {
+        "A": "More blue",
+        "B": "A warm orange corrector",
+        "C": "Green",
+        "D": "Purple"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Bluish undertone ko neutralize karne ke liye color theory ke according, warm orange corrector pigment add karna chahiye taaki lips ka final color natural aur vibrant dikhe."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Magnum (M1 or M2) needle configuration ka primary use kya hai?",
+      "options": {
+        "A": "Hair strokes",
+        "B": "Large area shading, filling aur blending",
+        "C": "Eyeliner outlines",
+        "D": "細かいディテール (Fine details)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Magnum needles flat aur spread out hoti hain, jo large areas ko shade, fill aur blend karne ke liye ideal hoti hain, jaise lip blush ya areola pigmentation mein."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "PMU pigments ko store karne ka best tarika kya hai?",
+      "options": {
+        "A": "Sunlight mein",
+        "B": "Cool, dark place mein, tightly sealed",
+        "C": "Freezer mein",
+        "D": "Open air mein"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Pigments ko cool, dark place mein, air-tight containers mein tightly sealed store karna chahiye taaki unki quality, consistency aur shelf life maintain rahe."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "PMU machine ki 'speed' kisko control karti hai?",
+      "options": {
+        "A": "Needle ki depth",
+        "B": "Needle ki punctures per second",
+        "C": "Pigment ki viscosity",
+        "D": "Machine ka weight"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Machine ki speed needle ke punctures per second ko control karti hai. Higher speed faster work aur smoother shading ke liye hoti hai, jabki lower speed more control aur precise lines ke liye."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Color fading ke kya common reasons ho sakte hain PMU mein?",
+      "options": {
+        "A": "Sun exposure, improper aftercare, skin type, pigment quality",
+        "B": "Too much water intake",
+        "C": "Not enough sleep",
+        "D": "Wearing makeup"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Color fading ke common reasons mein sun exposure, improper aftercare, client ki skin type, pigment ki quality, aur technician ki technique shamil hain."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Microblading blades kis type ke needles se bante hain?",
+      "options": {
+        "A": "Round needles",
+        "B": "Flat, tightly grouped needles",
+        "C": "Magnum needles",
+        "D": "Shader needles"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Microblading blades tiny, flat, tightly grouped needles se bante hain jo skin mein fine hair-like strokes create karte hain."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Agar client ki skin mature hai aur thin ho gayi hai, toh pigment selection aur technique mein kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Darkest possible pigment use karna chahiye",
+        "B": "Lighter, softer pigments aur gentle technique use karni chahiye",
+        "C": "Deepest implantation depth use karni chahiye",
+        "D": "Boldest designs choose karna chahiye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Mature aur thin skin par lighter, softer pigments aur gentle technique use karni chahiye taaki skin ko trauma kam ho aur natural-looking results milen. Deep implantation se pigment migration ya blurring ka risk ho sakta hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "PMU mein 'warm' aur 'cool' colors ka kya significance hai?",
+      "options": {
+        "A": "Ye sirf fashion trends hain",
+        "B": "Ye skin undertones ko complement karte hain aur color correction mein use hote hain",
+        "C": "Ye pigment ki shelf life batate hain",
+        "D": "Ye machine ki speed determine karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "'Warm' aur 'cool' colors skin ke undertones ko complement karne aur unwanted color shifts ko neutralize karne ke liye color theory mein use hote hain. Warm pigments (red, orange, yellow) cool undertones ko balance karte hain aur vice versa."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "PMU machine needles ke liye 'gauge' ka kya matlab hai?",
+      "options": {
+        "A": "Needle ki length",
+        "B": "Needle ki sharpness",
+        "C": "Needle rod ka diameter",
+        "D": "Needle tip ka diameter"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Needle gauge needle tip ke diameter ko refer karta hai. Smaller gauge numbers (jaise 06) thinner needles hote hain, aur larger gauge numbers (jaise 12) thicker needles hote hain, jo pigment flow aur line width ko affect karte hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Microblading mein 'hair strokes' kyu banaye jaate hain?",
+      "options": {
+        "A": "To make eyebrows look darker",
+        "B": "To create a natural-looking eyebrow appearance by mimicking real hair",
+        "C": "To remove existing hair",
+        "D": "To perform shading"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Microblading mein hair strokes isliye banaye jaate hain taaki eyebrows ko natural-looking appearance mile, asli baalon ki tarah dikhe aur sparse areas ko fill kiya ja sake."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Microblading se pehle brow mapping kyu zaroori hai?",
+      "options": {
+        "A": "To save time during procedure",
+        "B": "To create a symmetrical aur aesthetically pleasing eyebrow shape according to client's facial features",
+        "C": "To decide pigment color",
+        "D": "To sterilize the area"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Brow mapping ek crucial step hai jisse client ke facial features ke according symmetrical aur aesthetically pleasing eyebrow shape design kiya jata hai. Isse client approval bhi milta hai."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Microblading ke dauraan 'too deep' implantation ke kya results ho sakte hain?",
+      "options": {
+        "A": "Crisp, defined strokes",
+        "B": "Blurry, greyish strokes (pigment migration) aur scarring",
+        "C": "Better pigment retention",
+        "D": "Faster healing"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Too deep implantation se pigment dermis ki lower layers mein ja sakta hai, jisse strokes blurry, greyish ho sakte hain (pigment migration) aur scarring ka risk bhi badh jata hai."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Microblading ke liye 'Golden Ratio' ka kya significance hai?",
+      "options": {
+        "A": "It's a ratio for pigment mixing",
+        "B": "It's a mathematical ratio (1.618:1) for aesthetic symmetry and proportion in brow design",
+        "C": "It determines the cost of the procedure",
+        "D": "It's a type of needle"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Golden Ratio (phi, approximately 1.618:1) ek mathematical proportion hai jo aesthetics mein use hota hai. Brow mapping mein iska use eyebrows ki length, arch aur overall placement ko facial features ke according symmetrical aur aesthetically pleasing banane ke liye kiya jata hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Microblading technique mein 'stretch' kyu zaroori hai?",
+      "options": {
+        "A": "To make client comfortable",
+        "B": "To ensure the skin is taut aur strokes crisp bane",
+        "C": "To apply more pigment",
+        "D": "To speed up the process"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Skin ko stretch karna bahut zaroori hai taaki skin taut ho aur blade smoothly glide kare, jisse crisp aur well-defined hair strokes banen. Loose skin par strokes blurry ho sakte hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Microblading ke baad eyebrows ka color initial days mein darker kyu lagta hai?",
+      "options": {
+        "A": "Over-pigmentation ke karan",
+        "B": "Healing process, oxidation aur scabbing ke karan",
+        "C": "Wrong pigment choice ke karan",
+        "D": "Too much pressure ke karan"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Initial days mein eyebrows darker dikhte hain kyuki healing process mein pigment oxidize hota hai aur scabbing hoti hai. Jab scabs girte hain toh color settle ho kar lighter aur natural ho jata hai."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Microblading ke liye manual hand tool ka kya advantage hai?",
+      "options": {
+        "A": "It's faster than machine",
+        "B": "It allows for precise, hair-like strokes aur greater control",
+        "C": "It uses less pigment",
+        "D": "It's completely painless"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Manual hand tool greater control provide karta hai, jisse technician skin mein delicate, hair-like strokes manually create kar sakta hai, jo machine se thoda different effect deta hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Microblading ke dauraan 'overworking' the skin ka kya matlab hai?",
+      "options": {
+        "A": "Too many strokes in one area, excessive pressure, ya repeated passes",
+        "B": "Using too little pigment",
+        "C": "Working too fast",
+        "D": "Not stretching the skin enough"
+      },
+      "correct": "A",
+      "difficulty": "medium",
+      "explanation": "Overworking the skin ka matlab hai ek hi area par bahut zyada strokes lagana, excessive pressure use karna, ya baar baar passes karna. Isse skin trauma, scarring aur pigment migration ka risk badh jata hai."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Microblading ke liye 'C-curve' aur 'S-curve' hair stroke patterns kyu use hote hain?",
+      "options": {
+        "A": "To make eyebrows look artificial",
+        "B": "To mimic natural hair growth patterns aur create realistic look",
+        "C": "To fill large areas quickly",
+        "D": "To create a shading effect"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "C-curve aur S-curve hair stroke patterns natural eyebrow hair growth direction aur curvature ko mimic karte hain, jisse eyebrows ko realistic aur organic appearance milta hai."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Microblading mein 'patchy' healing ka kya karan ho sakta hai?",
+      "options": {
+        "A": "Client ki proper aftercare na karna",
+        "B": "Uneven pigment implantation, client ki skin type, ya improper aftercare",
+        "C": "Too much pigment use karna",
+        "D": "Too shallow strokes"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Patchy healing ke kayi karan ho sakte hain jaise technician dwara uneven pigment implantation, client ki particular skin type (jaise oily skin), ya client dwara improper aftercare follow karna."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Microblading touch-up session kab schedule karna chahiye?",
+      "options": {
+        "A": "Immediately after the first procedure",
+        "B": "4-6 weeks after the initial procedure",
+        "C": "After 6 months",
+        "D": "Only if client requests"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Touch-up session initial procedure ke 4-6 weeks baad schedule karna chahiye. Isse skin ko complete heal hone ka time milta hai aur technician pigment retention ko assess karke necessary adjustments kar sakta hai."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Microblading ke dauraan 'pain' ko manage karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Oral antibiotics",
+        "B": "Topical numbing cream",
+        "C": "Injectable anesthesia",
+        "D": "Painkillers for the technician"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Microblading ke dauraan client ke comfort ke liye topical numbing creams ya gels ka use kiya jata hai pain ko manage karne ke liye."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Microblading se pehle client ko eyebrow hair remove karna chahiye ya nahi?",
+      "options": {
+        "A": "Saare hair remove kar dene chahiye",
+        "B": "Only stray hairs jo design area se bahar hain, unhe remove karna chahiye",
+        "C": "Koi hair remove nahi karna chahiye",
+        "D": "Eyebrow waxing karwani chahiye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Client ke natural eyebrow hair ko preserve karna chahiye. Sirf woh stray hairs jo design area se bahar hain, unhe tweeze ya trim karna chahiye taaki natural look maintain rahe."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Microblading ke baad 'redness' kitne time tak normal hai?",
+      "options": {
+        "A": "Several weeks",
+        "B": "A few hours to 1-2 days",
+        "C": "Permanent",
+        "D": "Only during the procedure"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Microblading ke baad mild redness procedure ke area mein kuch ghanto se 1-2 din tak normal hai. Agar redness severe ho ya long-lasting ho, toh infection ka sign ho sakta hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Microblading ke liye kaun si blade type fine, crisp hair strokes ke liye best hai?",
+      "options": {
+        "A": "U-shaped blade",
+        "B": "Slanted blade (e.g., #12 or #14)",
+        "C": "Shader blade",
+        "D": "Round blade"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Slanted blades, jaise #12 ya #14, fine aur crisp hair strokes banane ke liye bahut popular aur effective hain. U-shaped blades bhi use hote hain, par slanted blades zyada control provide karte hain."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Microblading ke dauraan 'too shallow' implantation ke kya results ho sakte hain?",
+      "options": {
+        "A": "Pigment will last longer",
+        "B": "Strokes will fade quickly ya heal 'patchy'",
+        "C": "Darker color",
+        "D": "No effect"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Too shallow implantation ka matlab hai ki pigment epidermis mein deposit hua hai, jo jaldi fade ho jayega ya patchy heal hoga kyuki epidermal cells continuously shed hote rehte hain."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Microblading ke baad eyebrows ki 'aftercare' mein kya shamil hai?",
+      "options": {
+        "A": "Sun exposure, swimming, heavy sweating for 10-14 days",
+        "B": "Keeping the area dry, avoiding direct water, applying a thin layer of aftercare balm",
+        "C": "Applying makeup immediately",
+        "D": "Picking at scabs"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Microblading aftercare mein area ko dry rakhna, direct water contact avoid karna, sun exposure se bachna, swimming aur heavy sweating se door rehna, aur technician dwara recommend kiye gaye aftercare balm ki thin layer apply karna shamil hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Eyeliner PMU mein 'lash enhancement' ka kya matlab hai?",
+      "options": {
+        "A": "Thick winged eyeliner banana",
+        "B": "Pigment ko sirf eyelashes ke beech mein implant karna for a fuller lash line effect",
+        "C": "Lower lash line ko bold banana",
+        "D": "Eyelashes ko curl karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lash enhancement eyeliner PMU mein pigment ko sirf eyelashes ke beech mein implant kiya jata hai, jisse lash line fuller aur defined dikhti hai, bina obvious eyeliner ke."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Lip PMU mein 'lip blush' technique ka kya purpose hai?",
+      "options": {
+        "A": "Lips ko dark black color dena",
+        "B": "Lips ko natural-looking color aur definition dena, aur unki shape enhance karna",
+        "C": "Only lip lining karna",
+        "D": "Lips ko bada dikhana without color"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lip blush technique lips ko natural-looking color aur definition provide karti hai, unki shape enhance karti hai aur overall lips ko fuller aur youthful appearance deti hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Eyeliner PMU ke dauraan client ki eyes ko kaise protect karna chahiye?",
+      "options": {
+        "A": "Client ko aankhein band rakhne ko bolna",
+        "B": "Protective eye shields ya pads use karna",
+        "C": "Sirf technician goggles pehne",
+        "D": "Koi protection nahi chahiye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Eyeliner PMU ke dauraan client ki eyes ko protective eye shields ya pads se protect karna bahut zaroori hai taaki pigment ya needle se koi injury na ho."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Lip PMU ke baad lips par swelling kitne time tak common hai?",
+      "options": {
+        "A": "Several weeks",
+        "B": "Initial 24-48 hours",
+        "C": "Permanent",
+        "D": "No swelling occurs"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Lip PMU ke baad initial 24-48 ghanto mein swelling common hai. Ice packs use karke isse reduce kiya ja sakta hai."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Areola Repigmentation PMU ka primary goal kya hai?",
+      "options": {
+        "A": "To make the area sensitive",
+        "B": "To restore the natural color aur 3D appearance of the areola after mastectomy ya surgery",
+        "C": "To create a permanent tattoo",
+        "D": "To remove scars"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Areola Repigmentation ka primary goal mastectomy ya breast surgery ke baad areola ke natural color aur 3D appearance ko restore karna hai, jisse patient ki self-esteem improve hoti hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Eyeliner PMU ke liye kaun si needle configuration usually use ki jaati hai for fine lines?",
+      "options": {
+        "A": "Magnum",
+        "B": "Round Liner (1RL, 3RL)",
+        "C": "Flat Shader",
+        "D": "Microblading blade"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Fine lines aur precise eyeliner ke liye Round Liner (RL) needles, especially 1RL ya 3RL, use ki jaati hain kyuki ye sharp aur controlled lines create karti hain."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Lip PMU ke dauraan 'over-lining' kyu avoid karna chahiye?",
+      "options": {
+        "A": "To make lips look smaller",
+        "B": "To prevent an unnatural aur obvious look jo heal hone par blur ho sakta hai",
+        "C": "To save pigment",
+        "D": "To make the procedure faster"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lip PMU mein over-lining ko avoid karna chahiye kyuki skin aur lip tissue ki healing alag hoti hai. Over-lining se heal hone par unnatural, blurry ya 'ring around the mouth' effect aa sakta hai."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Areola Repigmentation mein '3D effect' kaise achieve kiya jata hai?",
+      "options": {
+        "A": "By using only one dark color",
+        "B": "By using different shades of pigment aur shading techniques to create depth aur highlight",
+        "C": "By injecting fillers",
+        "D": "By using a very thin needle"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "3D effect achieve karne ke liye different shades of pigment (lighter aur darker tones) aur advanced shading techniques ka use kiya jata hai, jisse areola ko realistic depth aur dimension milti hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Eyeliner PMU ke liye pigment selection mein kya dhyan rakhna chahiye?",
+      "options": {
+        "A": "Client ke hair color ko match karna",
+        "B": "Client ke eye color aur skin tone ko complement karna, aur black ya dark brown shades choose karna",
+        "C": "Brightest possible color choose karna",
+        "D": "Only blue pigment use karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Eyeliner PMU ke liye pigment selection mein client ke eye color aur skin tone ko complement karna important hai. Generally, black ya dark brown shades use kiye jaate hain jo natural dikhen."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Lip PMU ke baad, client ko kya avoid karne ki advice deni chahiye for initial days?",
+      "options": {
+        "A": "Spicy food, very hot beverages, kissing",
+        "B": "Water",
+        "C": "Sleeping",
+        "D": "Talking"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Lip PMU ke baad client ko spicy food, very hot beverages, kissing, aur direct sun exposure avoid karne ki advice deni chahiye taaki irritation kam ho aur healing promote ho."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Scalp Micropigmentation (SMP) ka primary purpose kya hai?",
+      "options": {
+        "A": "To grow new hair",
+        "B": "To create the illusion of a fuller head of hair or a shaved head look by replicating hair follicles",
+        "C": "To color grey hair",
+        "D": "To remove scars from scalp"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scalp Micropigmentation (SMP) hair follicles ko replicate karke hair loss ya thinning areas mein fuller head of hair ka illusion create karti hai, ya shaved head look deti hai."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "Eyeliner PMU mein 'winged liner' ke liye kya technique use ki jaati hai?",
+      "options": {
+        "A": "Only dots lagana",
+        "B": "Outer corner par ek upward flick create karna",
+        "C": "Bottom lash line par pigment lagana",
+        "D": "Only lash enhancement karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Winged eyeliner mein outer corner par ek upward flick create kiya jata hai jo eye ko lift aur elongate karta hai. Isme precision aur symmetry bahut important hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Lip PMU mein 'dark lip neutralization' kyu kiya jata hai?",
+      "options": {
+        "A": "To make lips darker",
+        "B": "To lighten dark lips aur uneven pigmentation ko correct karna, for a more uniform base color",
+        "C": "To create a glossy effect",
+        "D": "To remove existing lip filler"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Dark lip neutralization dark ya hyperpigmented lips ko lighten aur uneven pigmentation ko correct karne ke liye kiya jata hai, taaki ek uniform base color ban sake jiske upar desired lip color apply kiya ja sake."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Eyeliner PMU ke dauraan client ko kya position mein rakhna chahiye?",
+      "options": {
+        "A": "Sitting upright",
+        "B": "Lying down flat with eyes closed",
+        "C": "Standing",
+        "D": "Sideways"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Eyeliner PMU ke dauraan client ko flat letana chahiye aur unki aankhein band rakhni chahiye. Isse client comfortable rehta hai aur technician ko stable working surface milta hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Areola Repigmentation mein color matching kyu critical hai?",
+      "options": {
+        "A": "To match client's hair color",
+        "B": "To ensure the new areola blends seamlessly with the surrounding skin tone aur looks natural",
+        "C": "To decide needle type",
+        "D": "To make it stand out"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Areola Repigmentation mein color matching critical hai taaki naya areola surrounding skin tone ke sath seamlessly blend ho aur natural, realistic dikhe. Isme multiple pigments ka blend use ho sakta hai."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Lip PMU mein 'vermillion border' ka kya importance hai?",
+      "options": {
+        "A": "It's the inner part of the lip",
+        "B": "It's the natural outline of the lips, jise define karna lip PMU ka key aspect hai",
+        "C": "It's the area above the lip",
+        "D": "It's the area below the lip"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Vermillion border lips ki natural outline hai. Lip PMU mein isko carefully define karna lips ko shapely aur well-defined appearance dene ke liye bahut important hai."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "PMU ke baad aftercare instructions ko follow na karne ka kya result ho sakta hai?",
+      "options": {
+        "A": "Faster healing",
+        "B": "Infection, poor pigment retention, scarring",
+        "C": "Darker color",
+        "D": "No effect"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Aftercare instructions ko follow na karne se infection, poor pigment retention, scarring, aur other complications ka risk badh jata hai. Proper aftercare successful healing ke liye essential hai."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "PMU touch-up session kyu zaroori hai?",
+      "options": {
+        "A": "To charge client more money",
+        "B": "To perfect the shape, adjust color, aur ensure long-lasting results",
+        "C": "To remove the pigment",
+        "D": "To make the procedure faster"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Touch-up session initial procedure ke baad shape ko perfect karne, color ko adjust karne, aur pigment retention ko maximize karke long-lasting results ensure karne ke liye zaroori hai."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Agar client PMU ke baad itching experience karta hai, toh usko kya advice deni chahiye?",
+      "options": {
+        "A": "Area ko khujana (scratch) chahiye",
+        "B": "Cool compress apply karna aur aftercare balm use karna, aur khujane se bachna",
+        "C": "Makeup apply karna",
+        "D": "Hot shower lena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Itching healing process ka normal part hai. Client ko area ko khujane se bachna chahiye kyuki isse pigment nikal sakta hai ya infection ho sakta hai. Cool compress aur prescribed aftercare balm apply karne ki advice deni chahiye."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "PMU color correction mein 'saline removal' ka kya role hai?",
+      "options": {
+        "A": "To add more pigment",
+        "B": "To lighten unwanted pigment through a saline solution application",
+        "C": "To make the pigment darker",
+        "D": "To change the pigment color completely"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Saline removal technique unwanted ya incorrectly applied pigment ko lighten karne ke liye use ki jaati hai. Saline solution ko skin mein implant karke pigment ko bahar nikalne mein madad milti hai."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "PMU business setup ke liye sabse pehla step kya hai?",
+      "options": {
+        "A": "Marketing campaign launch karna",
+        "B": "Proper training, certification aur licensing acquire karna",
+        "C": "Expensive equipment purchase karna",
+        "D": "Social media account banana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi professional PMU business ke liye, proper training, certification, aur local regulations ke according necessary licensing acquire karna sabse pehla aur crucial step hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "PMU ke baad sun exposure kyu avoid karna chahiye?",
+      "options": {
+        "A": "To make the pigment darker",
+        "B": "UV rays can cause pigment fading, discoloration aur hyperpigmentation",
+        "C": "To prevent sunburn",
+        "D": "To keep the skin cool"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Sun exposure PMU pigments ko fade kar sakta hai, unka color change kar sakta hai, aur hyperpigmentation ka risk badha sakta hai. Isliye healing period mein aur long-term bhi sun protection zaroori hai."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Agar client ke eyebrows reddish heal ho gaye hain, toh color correction ke liye kaun sa color use karna chahiye?",
+      "options": {
+        "A": "Red",
+        "B": "Green-based corrector",
+        "C": "Blue",
+        "D": "Yellow"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Color theory ke according, red ko neutralize karne ke liye uska complementary color, yaani green-based corrector pigment use kiya jata hai."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "PMU pricing strategies mein kya consider karna chahiye?",
+      "options": {
+        "A": "Sirf competitor ki prices",
+        "B": "Cost of materials, technician's skill, experience, location, market demand aur overheads",
+        "C": "Client ke kapde",
+        "D": "Only profit margin"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Pricing karte waqt material cost, technician ki skill aur experience, clinic ki location, market demand, overhead expenses (rent, utilities) aur competitor ki pricing sabko consider karna chahiye."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Client retention ke liye kya strategies apnani chahiye?",
+      "options": {
+        "A": "Ek baar service de kar client ko bhool jana",
+        "B": "Excellent customer service, follow-up calls/messages, loyalty programs, aur referral incentives",
+        "C": "Sirf discounts dena",
+        "D": "Koi follow-up nahi karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Client retention ke liye excellent customer service, regular follow-up, loyalty programs, aur referral incentives offer karna bahut effective hota hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "PMU business mein social media marketing kyu important hai?",
+      "options": {
+        "A": "To waste time",
+        "B": "To showcase work, attract new clients, aur brand visibility badhane ke liye",
+        "C": "To only post personal photos",
+        "D": "To avoid client interaction"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Social media marketing PMU professionals ke liye bahut important hai. Isse apne work ko showcase kar sakte hain (before/after photos), naye clients attract kar sakte hain, aur brand visibility badha sakte hain."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "PMU removal options mein laser removal ka kya advantage hai?",
+      "options": {
+        "A": "It's the cheapest option",
+        "B": "It can effectively break down pigment particles for complete or partial removal",
+        "C": "It's completely painless",
+        "D": "It's a one-time procedure"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Laser removal (jaise Q-switched ya Picosecond laser) unwanted PMU pigment ko effectively break down kar sakta hai, jisse complete ya partial removal possible hai. Isme kayi sessions lag sakte hain aur ye costly ho sakta hai."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "PMU technician ko apne skills ko update karne ke liye kya karna chahiye?",
+      "options": {
+        "A": "Kuch nahi karna chahiye",
+        "B": "Regularly attend advanced trainings, workshops, aur industry conferences",
+        "C": "Sirf purani techniques use karte rehna",
+        "D": "Dusre professionals ko copy karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PMU industry constantly evolve ho rahi hai. Technician ko apne skills ko update rakhne ke liye regularly advanced trainings, workshops, aur industry conferences attend karne chahiye."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Scar camouflage PMU ka kya objective hai?",
+      "options": {
+        "A": "Scars ko permanent tattoo mein badalna",
+        "B": "Scars ko skin tone se blend karke unhe less visible banana",
+        "C": "Scars ko remove karna",
+        "D": "Scars ko highlighted karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Scar camouflage PMU mein scars ke color ko surrounding skin tone se match karne ke liye pigment implant kiya jata hai, jisse scars less visible ho jate hain aur blend ho jaate hain."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "PMU ke baad 'dry healing' method mein client ko kya instruct kiya jata hai?",
+      "options": {
+        "A": "Area ko baar baar wet karna",
+        "B": "Area ko completely dry rakhna aur koi balm apply nahi karna",
+        "C": "Heavy balms apply karna",
+        "D": "Makeup apply karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dry healing method mein client ko instruct kiya jata hai ki treated area ko completely dry rakhen aur koi balm apply na karen, taaki natural scabbing ho aur pigment skin mein better retain ho."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Agar client ko PMU ke baad infection ke symptoms dikhen (pus, severe redness, fever), toh kya action lena chahiye?",
+      "options": {
+        "A": "Client ko ignore karna",
+        "B": "Client ko immediately doctor se consult karne ki advice deni chahiye",
+        "C": "Apne aap anti-bacterial cream prescribe karna",
+        "D": "Touch-up session schedule karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Infection ke symptoms dikhne par client ko immediately doctor se consult karne ki advice deni chahiye. PMU technicians ko medical advice dene ka adhikar nahi hota."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "PMU business mein 'portfolio' ka kya importance hai?",
+      "options": {
+        "A": "It's optional",
+        "B": "It showcases a technician's skill, style, aur previous work to potential clients",
+        "C": "It's only for experienced technicians",
+        "D": "It's a collection of client contacts"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ek strong portfolio (before/after photos) PMU technician ke skill, style, aur previous work ko potential clients ko showcase karne ke liye bahut important hai. Ye trust aur credibility build karta hai."
+    }
+  ]
+}

@@ -1,0 +1,1443 @@
+{
+  "course_name": "Computer Hardware & Networking",
+  "sector": "Digital & Information Technology",
+  "level": "Foundation",
+  "duration": "3 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Introduction to Computer Hardware & Peripherals",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Internal PC Components & Assembly",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Operating Systems & Software Basics",
+      "question_range": "Q35-Q50"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Networking Fundamentals",
+      "question_range": "Q51-Q67"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Network Topologies & Devices",
+      "question_range": "Q68-Q84"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Troubleshooting & Maintenance",
+      "question_range": "Q85-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Which component is considered the 'brain' of the computer?",
+      "options": {
+        "A": "RAM",
+        "B": "Hard Drive",
+        "C": "CPU",
+        "D": "Motherboard"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Central Processing Unit (CPU) is responsible for executing instructions and performing calculations, hence often called the 'brain' of the computer."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "Which of the following is an input device?",
+      "options": {
+        "A": "Monitor",
+        "B": "Printer",
+        "C": "Keyboard",
+        "D": "Speaker"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A keyboard is used to input text and commands into the computer. Monitor, printer, and speaker are output devices."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "What type of port is commonly used to connect a modern monitor to a computer?",
+      "options": {
+        "A": "PS/2",
+        "B": "VGA",
+        "C": "HDMI",
+        "D": "Ethernet"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "HDMI (High-Definition Multimedia Interface) is a common digital interface for connecting modern monitors, TVs, and projectors, transmitting both video and audio. While VGA is also for monitors, it's an older analog standard."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Which storage device uses non-volatile flash memory and has no moving parts?",
+      "options": {
+        "A": "HDD (Hard Disk Drive)",
+        "B": "SSD (Solid State Drive)",
+        "C": "CD-ROM",
+        "D": "Floppy Disk"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Solid State Drives (SSDs) use flash memory and have no mechanical parts, making them faster and more durable than traditional HDDs."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "A technician needs to connect a printer to a computer. Which port is most commonly used for this purpose today?",
+      "options": {
+        "A": "Serial Port",
+        "B": "Parallel Port",
+        "C": "USB Port",
+        "D": "VGA Port"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "USB (Universal Serial Bus) ports are the most common interface for connecting printers, scanners, and many other peripherals to computers today."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "What is the primary function of a computer's power supply unit (PSU)?",
+      "options": {
+        "A": "To process data",
+        "B": "To store data permanently",
+        "C": "To convert AC power to DC power for components",
+        "D": "To display images on the screen"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The PSU's main role is to convert the alternating current (AC) from the wall outlet into direct current (DC) that the computer's internal components can use."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Which type of computer is designed for portability and integrates all components into a single compact unit?",
+      "options": {
+        "A": "Desktop PC",
+        "B": "Server",
+        "C": "Workstation",
+        "D": "Laptop"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "Laptops are portable computers that combine all essential components like screen, keyboard, and trackpad into a single unit."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "Which of these is an example of an output device?",
+      "options": {
+        "A": "Mouse",
+        "B": "Webcam",
+        "C": "Speakers",
+        "D": "Microphone"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Speakers output audio from the computer. Mouse, webcam, and microphone are input devices."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "What does RAM stand for?",
+      "options": {
+        "A": "Read Access Memory",
+        "B": "Random Access Memory",
+        "C": "Run Anywhere Memory",
+        "D": "Realtime Active Memory"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RAM stands for Random Access Memory, which is volatile memory used for temporary storage of data that the CPU is actively using."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "A client complains that their old printer is not connecting to their new computer. The printer uses a 25-pin D-sub connector. What type of port is this likely to be?",
+      "options": {
+        "A": "USB",
+        "B": "Ethernet",
+        "C": "Parallel",
+        "D": "HDMI"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The 25-pin D-sub connector is characteristic of a parallel port, which was commonly used for older printers before USB became standard."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "What is the primary characteristic that distinguishes hardware from software?",
+      "options": {
+        "A": "Hardware is expensive, software is cheap.",
+        "B": "Hardware is tangible, software is intangible.",
+        "C": "Hardware is always internal, software is always external.",
+        "D": "Hardware needs electricity, software does not."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Hardware refers to the physical, tangible components of a computer system, while software refers to the intangible programs and data."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Which of the following is an example of firmware?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Windows 10",
+        "C": "BIOS",
+        "D": "Google Chrome"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Firmware is a specific type of software that provides low-level control for a device's specific hardware. The BIOS (Basic Input/Output System) is a prime example, embedded in a chip on the motherboard."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "To connect a computer to a wired network, which type of port is required?",
+      "options": {
+        "A": "USB-C",
+        "B": "HDMI",
+        "C": "Ethernet",
+        "D": "Audio Jack"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "An Ethernet port (RJ-45) is used for wired network connections, typically with an Ethernet cable."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "What is the main purpose of a graphics card (GPU) in a computer?",
+      "options": {
+        "A": "To store large amounts of data",
+        "B": "To perform general processing tasks",
+        "C": "To render images and video for display",
+        "D": "To connect to the internet"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Graphics Processing Unit (GPU) is specialized hardware designed to accelerate the creation of images, videos, and animations, offloading this task from the CPU."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "A user wants to quickly transfer files between their computer and a small external storage device. Which port would be most suitable for maximum speed?",
+      "options": {
+        "A": "USB 2.0",
+        "B": "USB 3.0",
+        "C": "PS/2",
+        "D": "VGA"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "USB 3.0 (and newer versions like 3.1, 3.2, USB-C with Thunderbolt) offers significantly faster data transfer speeds compared to USB 2.0, making it ideal for quick file transfers."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Which component acts as the central communication hub, connecting all other hardware components?",
+      "options": {
+        "A": "CPU",
+        "B": "RAM",
+        "C": "Motherboard",
+        "D": "Hard Drive"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The motherboard is the main circuit board that connects all the computer's components, allowing them to communicate with each other."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "What is the primary advantage of an SSD over an HDD for an operating system drive?",
+      "options": {
+        "A": "Lower cost per gigabyte",
+        "B": "Larger storage capacity",
+        "C": "Faster boot times and application loading",
+        "D": "More resistant to physical shock"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "SSDs offer significantly faster read/write speeds than HDDs due to their flash memory technology, leading to quicker boot times, faster application loading, and overall snappier system performance. They are also generally more resistant to physical shock."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "What is the primary function of the CPU cooler (heatsink and fan)?",
+      "options": {
+        "A": "To make the CPU run faster",
+        "B": "To prevent the CPU from overheating",
+        "C": "To provide power to the CPU",
+        "D": "To store temporary data for the CPU"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CPUs generate a lot of heat, and the cooler's job is to dissipate that heat to prevent damage and maintain optimal performance."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Which of these is a common form factor for motherboards?",
+      "options": {
+        "A": "PCIe",
+        "B": "SATA",
+        "C": "ATX",
+        "D": "DDR4"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "ATX (Advanced Technology eXtended) is a widely used motherboard form factor that defines the board's dimensions, mounting points, and power connector layout."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "When installing RAM, what ensures it is inserted correctly into the motherboard slot?",
+      "options": {
+        "A": "The color of the RAM sticks",
+        "B": "The notch on the RAM module aligning with the slot key",
+        "C": "The number of pins on the RAM",
+        "D": "The voltage rating of the RAM"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RAM modules have a specific notch that must align with a key in the motherboard slot, preventing incorrect insertion and ensuring proper electrical contact."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Which cable type is used to connect an internal hard drive to the motherboard for data transfer?",
+      "options": {
+        "A": "Molex",
+        "B": "SATA",
+        "C": "PCIe",
+        "D": "Ethernet"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SATA (Serial Advanced Technology Attachment) cables are the standard for connecting internal hard drives and SSDs to the motherboard for data communication."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Before touching any internal computer components, what is a crucial safety step to prevent electrostatic discharge (ESD)?",
+      "options": {
+        "A": "Wear rubber gloves",
+        "B": "Work on a carpeted floor",
+        "C": "Ground yourself using an anti-static wrist strap",
+        "D": "Keep the computer plugged in"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "An anti-static wrist strap connected to a grounded surface is essential to discharge any static electricity from your body, preventing damage to sensitive components."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "What is the purpose of thermal paste when installing a CPU cooler?",
+      "options": {
+        "A": "To secure the cooler to the CPU",
+        "B": "To electrically insulate the CPU",
+        "C": "To improve heat transfer between the CPU and the cooler",
+        "D": "To prevent dust accumulation"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Thermal paste fills microscopic gaps between the CPU's integrated heat spreader and the cooler's base, improving the efficiency of heat transfer."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Which slot on a motherboard is primarily used for installing a high-performance graphics card?",
+      "options": {
+        "A": "PCI",
+        "B": "PCIe x16",
+        "C": "SATA",
+        "D": "DIMM"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "PCIe x16 (PCI Express x16) slots are specifically designed for high-bandwidth devices like graphics cards, providing the necessary data lanes."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "A technician is assembling a new PC. After installing the CPU, what is the next critical step before mounting the CPU cooler?",
+      "options": {
+        "A": "Install the RAM modules",
+        "B": "Apply thermal paste to the CPU",
+        "C": "Connect the power cables",
+        "D": "Install the hard drive"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Applying thermal paste is crucial after installing the CPU into its socket and before attaching the cooler to ensure efficient heat dissipation."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "What is the typical voltage supplied by a standard ATX power supply to the motherboard's main connector?",
+      "options": {
+        "A": "5V and 12V",
+        "B": "3.3V, 5V, and 12V",
+        "C": "1.5V and 3.3V",
+        "D": "24V"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "An ATX power supply provides several DC voltages to the motherboard and components, most commonly +3.3V, +5V, and +12V rails."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Which component holds the CPU and RAM, and allows them to communicate with all other peripherals?",
+      "options": {
+        "A": "Power Supply Unit",
+        "B": "Hard Disk Drive",
+        "C": "Graphics Card",
+        "D": "Motherboard"
+      },
+      "correct": "D",
+      "difficulty": "easy",
+      "explanation": "The motherboard is the central circuit board where the CPU, RAM, and other expansion cards are installed, facilitating communication between all components."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "What type of memory is volatile and loses its contents when the computer is turned off?",
+      "options": {
+        "A": "ROM",
+        "B": "SSD",
+        "C": "RAM",
+        "D": "HDD"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "RAM (Random Access Memory) is volatile, meaning it requires power to maintain the stored information. ROM, SSD, and HDD are non-volatile."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "When building a PC, which component should generally be installed first into the computer case?",
+      "options": {
+        "A": "Hard Drive",
+        "B": "Power Supply Unit",
+        "C": "Graphics Card",
+        "D": "Motherboard"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "While there's some flexibility, installing the PSU first often provides more space to work with inside the case, especially for routing cables, before the motherboard and other components take up room."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "What is the purpose of the CMOS battery on a motherboard?",
+      "options": {
+        "A": "To power the CPU",
+        "B": "To store the BIOS settings and system time when the PC is off",
+        "C": "To provide backup power to the RAM",
+        "D": "To cool the chipset"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The CMOS battery powers the Complementary Metal-Oxide-Semiconductor (CMOS) chip, which stores the BIOS/UEFI settings (like boot order) and keeps the real-time clock running even when the computer is unplugged."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "A user wants to upgrade their computer's storage with the fastest possible option for their operating system. Assuming their motherboard supports it, which interface should they look for?",
+      "options": {
+        "A": "SATA III",
+        "B": "IDE",
+        "C": "PCIe (NVMe)",
+        "D": "USB 3.0"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "NVMe (Non-Volatile Memory Express) SSDs, which connect via the PCIe interface, offer significantly higher speeds than SATA-based SSDs, making them the fastest option for system drives."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Which cable connects the power supply to the motherboard's main 20/24-pin power connector?",
+      "options": {
+        "A": "SATA power cable",
+        "B": "Molex power cable",
+        "C": "ATX 24-pin power cable",
+        "D": "PCIe power cable"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The ATX 24-pin (or older 20-pin) power cable is the primary connector providing power from the PSU to the motherboard."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "What is the purpose of expansion slots (like PCIe) on a motherboard?",
+      "options": {
+        "A": "To connect external peripherals like printers",
+        "B": "To install additional components like graphics cards or network cards",
+        "C": "To store temporary data for the CPU",
+        "D": "To provide power to the motherboard"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Expansion slots allow users to add functionality to the computer by installing expansion cards such as graphics cards, sound cards, network cards, or storage controllers."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "When installing a CPU, what specific type of socket mechanism is commonly used on modern motherboards to secure the CPU?",
+      "options": {
+        "A": "ZIF (Zero Insertion Force) socket",
+        "B": "Pin Grid Array (PGA)",
+        "C": "Ball Grid Array (BGA)",
+        "D": "Land Grid Array (LGA)"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "Modern Intel CPUs typically use LGA (Land Grid Array) sockets, where the pins are on the motherboard and the CPU has contact pads. AMD CPUs often use PGA (Pin Grid Array) sockets, where pins are on the CPU. ZIF is a general term for easy insertion, common to both, but LGA specifically refers to the pin arrangement on the board."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "What is the primary role of an Operating System (OS)?",
+      "options": {
+        "A": "To create documents and spreadsheets",
+        "B": "To manage computer hardware and software resources",
+        "C": "To browse the internet",
+        "D": "To protect against viruses"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "The OS acts as an intermediary between the user/applications and the computer hardware, managing resources like memory, CPU, and peripherals."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Which of the following is NOT an operating system?",
+      "options": {
+        "A": "Windows 10",
+        "B": "macOS Ventura",
+        "C": "Microsoft Office",
+        "D": "Ubuntu Linux"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Microsoft Office is a suite of application software (word processor, spreadsheet, etc.), not an operating system."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "What is a 'driver' in the context of computer software?",
+      "options": {
+        "A": "A program for navigating web pages",
+        "B": "Software that allows the OS to communicate with a hardware device",
+        "C": "A utility for cleaning temporary files",
+        "D": "A program for creating presentations"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A device driver is a piece of software that tells the operating system how to interact with a specific hardware device, enabling them to work together."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Which file system is commonly used by Microsoft Windows for internal hard drives?",
+      "options": {
+        "A": "FAT32",
+        "B": "ext4",
+        "C": "NTFS",
+        "D": "HFS+"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "NTFS (New Technology File System) is the default and most robust file system used by modern versions of Windows for internal hard drives, supporting large file sizes and advanced features."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "What is the function of the 'Recycle Bin' (or 'Trash') in an operating system?",
+      "options": {
+        "A": "To permanently delete files",
+        "B": "To store frequently accessed files",
+        "C": "To temporarily hold deleted files, allowing for recovery",
+        "D": "To optimize disk space"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The Recycle Bin provides a temporary holding area for deleted files, allowing users to restore them if deleted by mistake, before permanent deletion."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "A user wants to check the amount of free space on their C: drive in Windows. Which utility would they typically use?",
+      "options": {
+        "A": "Task Manager",
+        "B": "Device Manager",
+        "C": "File Explorer (This PC)",
+        "D": "Command Prompt"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In Windows, 'File Explorer' (specifically 'This PC') provides a graphical interface to view drives, their capacity, and free space."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Which type of software is designed to protect a computer from malicious programs like viruses and malware?",
+      "options": {
+        "A": "Word Processor",
+        "B": "Antivirus",
+        "C": "Web Browser",
+        "D": "Spreadsheet"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Antivirus software is specifically designed to detect, prevent, and remove malicious software from a computer system."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "What is the process of loading the operating system into the computer's memory when it starts up?",
+      "options": {
+        "A": "Installation",
+        "B": "Hibernation",
+        "C": "Booting",
+        "D": "Formatting"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Booting (or bootstrapping) is the process by which a computer starts up and loads the operating system into RAM."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Which utility in Windows allows you to view and manage installed hardware devices and their drivers?",
+      "options": {
+        "A": "Programs and Features",
+        "B": "Disk Management",
+        "C": "Device Manager",
+        "D": "System Information"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Device Manager provides a centralized view of all hardware devices connected to the computer, allowing users to check their status, update drivers, or disable devices."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "What does GUI stand for?",
+      "options": {
+        "A": "General User Interface",
+        "B": "Graphical User Interface",
+        "C": "Global Utility Interface",
+        "D": "Graphics Universal Interaction"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "GUI (Graphical User Interface) allows users to interact with electronic devices through graphical icons and visual indicators, rather than text-based commands."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Which command-line utility in Windows can be used to check and repair disk errors?",
+      "options": {
+        "A": "IPCONFIG",
+        "B": "PING",
+        "C": "CHKDSK",
+        "D": "FORMAT"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "CHKDSK (Check Disk) is a command-line utility in Windows that verifies the file system integrity of a volume and attempts to fix logical file system errors."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "A user wants to remove an unwanted program from their Windows computer. Where should they typically go to safely uninstall it?",
+      "options": {
+        "A": "Delete the program folder from C:\\Program Files",
+        "B": "Drag the program shortcut to the Recycle Bin",
+        "C": "Control Panel > Programs and Features (or Settings > Apps)",
+        "D": "Run 'format c:' command"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Using 'Programs and Features' in Control Panel (or 'Apps' in Windows Settings) ensures that the program is properly uninstalled, removing all associated files and registry entries."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "What is the primary purpose of disk defragmentation?",
+      "options": {
+        "A": "To delete unnecessary files",
+        "B": "To organize fragmented files on an HDD for faster access",
+        "C": "To protect against viruses",
+        "D": "To create backup copies of files"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Disk defragmentation reorganizes fragmented data on a hard disk drive (HDD) so that related pieces of data are stored contiguously, improving read/write speeds. It is not necessary for SSDs."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Which type of software is essential for the computer to function and manage basic operations?",
+      "options": {
+        "A": "Application Software",
+        "B": "Utility Software",
+        "C": "System Software",
+        "D": "Productivity Software"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "System software, primarily the Operating System, is fundamental for managing and controlling the computer's hardware and software resources, allowing other software to run."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "A user reports their printer stopped working after a Windows update. What is the most likely first troubleshooting step related to software?",
+      "options": {
+        "A": "Replace the printer cable",
+        "B": "Reinstall the printer driver",
+        "C": "Restart the computer",
+        "D": "Buy a new printer"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Windows updates can sometimes corrupt or replace existing drivers with incompatible versions. Reinstalling the correct, latest printer driver from the manufacturer's website is a common and effective troubleshooting step."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "What is the term for a program that translates human-readable source code into machine code that a computer can execute?",
+      "options": {
+        "A": "Operating System",
+        "B": "Interpreter",
+        "C": "Compiler",
+        "D": "Driver"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A compiler is a program that takes code written in a high-level programming language and translates it into machine code or another low-level language that the computer's processor can understand and execute."
+    },
+    {
+      "qno": 51,
+      "module": 4,
+      "question": "What is a Local Area Network (LAN)?",
+      "options": {
+        "A": "A network covering a large geographical area, like a country.",
+        "B": "A network connecting devices in a small, localized area, like an office or home.",
+        "C": "A network used only for wireless communication.",
+        "D": "A network that connects to satellites."
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A LAN connects computers and other devices within a limited geographical area, such as a home, school, or office building."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Which device is used to connect multiple computers in a LAN and forward data to the correct destination within that LAN?",
+      "options": {
+        "A": "Modem",
+        "B": "Router",
+        "C": "Switch",
+        "D": "Repeater"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A network switch connects devices within a LAN and intelligently forwards data frames to the specific device for which they are intended, based on MAC addresses."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "What is an IP address primarily used for?",
+      "options": {
+        "A": "To identify a specific hardware device's manufacturer",
+        "B": "To uniquely identify a device on a network",
+        "C": "To encrypt network traffic",
+        "D": "To provide power to network devices"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "An IP (Internet Protocol) address is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It serves two main functions: host or network interface identification and location addressing."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Which protocol suite is the fundamental set of protocols for the internet and most modern networks?",
+      "options": {
+        "A": "NetBEUI",
+        "B": "IPX/SPX",
+        "C": "TCP/IP",
+        "D": "AppleTalk"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) is the foundational set of communication protocols used to interconnect network devices on the internet and in private computer networks."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "What is the unique hardware address assigned to each network interface card (NIC)?",
+      "options": {
+        "A": "IP Address",
+        "B": "Subnet Mask",
+        "C": "MAC Address",
+        "D": "Gateway Address"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A MAC (Media Access Control) address is a unique identifier assigned to network interfaces for communications on a physical network segment."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Which type of network spans a large geographical area, often connecting multiple LANs?",
+      "options": {
+        "A": "PAN (Personal Area Network)",
+        "B": "LAN (Local Area Network)",
+        "C": "WAN (Wide Area Network)",
+        "D": "MAN (Metropolitan Area Network)"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A WAN (Wide Area Network) covers a broad area (e.g., a country or continent) and links together multiple LANs, often using public telecommunication lines."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "What is the main function of a router in a network?",
+      "options": {
+        "A": "To connect devices within a single LAN",
+        "B": "To convert analog signals to digital signals",
+        "C": "To forward data packets between different networks",
+        "D": "To provide wireless connectivity only"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A router connects different networks (e.g., a home LAN to the internet) and determines the best path for data packets to travel between them."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "In a client-server network model, what is the role of a server?",
+      "options": {
+        "A": "To request resources and services",
+        "B": "To provide resources and services to clients",
+        "C": "To act as a central hub for all network traffic",
+        "D": "To only connect to the internet"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "A server is a powerful computer that provides shared resources, data, services, or programs to other computers (clients) on a network."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Which command-line utility is used to test the reachability of a host on an Internet Protocol (IP) network?",
+      "options": {
+        "A": "IPCONFIG",
+        "B": "TRACERT",
+        "C": "PING",
+        "D": "NETSTAT"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "The PING command sends ICMP echo request packets to a target host and listens for echo reply packets, indicating network connectivity."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "What is the purpose of a subnet mask in IP addressing?",
+      "options": {
+        "A": "To hide the IP address from other users",
+        "B": "To define the network portion and host portion of an IP address",
+        "C": "To encrypt network traffic",
+        "D": "To assign IP addresses dynamically"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A subnet mask is used to divide an IP address into two parts: a network address and a host address, determining which part identifies the network and which identifies the specific device on that network."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Which of the following IP address ranges is reserved for private networks (e.g., home or office LANs)?",
+      "options": {
+        "A": "1.0.0.0 - 1.255.255.255",
+        "B": "192.168.0.0 - 192.168.255.255",
+        "C": "172.0.0.0 - 172.255.255.255",
+        "D": "200.0.0.0 - 200.255.255.255"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The 192.168.0.0/16 range (192.168.0.0 to 192.168.255.255) is one of the three commonly used private IP address ranges (along with 10.0.0.0/8 and 172.16.0.0/12)."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "What does DHCP stand for, and what is its primary role?",
+      "options": {
+        "A": "Dynamic Host Control Protocol; manually assigns IP addresses.",
+        "B": "Dynamic Host Configuration Protocol; automatically assigns IP addresses.",
+        "C": "Domain Host Connection Protocol; manages domain names.",
+        "D": "Data Handling Control Protocol; manages data flow."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "DHCP (Dynamic Host Configuration Protocol) is a network management protocol used to dynamically assign IP addresses and other network configuration parameters to devices connected to a network."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "A user cannot access websites but can ping an external IP address. What is a likely cause?",
+      "options": {
+        "A": "Faulty network cable",
+        "B": "Incorrect IP address",
+        "C": "DNS resolution issue",
+        "D": "Router is turned off"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "If you can ping an IP address but not access websites (which use domain names), it indicates that your network connectivity is fine, but the system cannot translate domain names into IP addresses. This points to a DNS (Domain Name System) resolution problem."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Which command in Windows command prompt displays the current IP address, subnet mask, and default gateway for all network adapters?",
+      "options": {
+        "A": "PING",
+        "B": "TRACERT",
+        "C": "IPCONFIG",
+        "D": "NETSTAT"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "The 'ipconfig' command (or 'ifconfig' on Linux/macOS) is used to display and manage network interface configuration settings."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "What is the primary difference between IPv4 and IPv6?",
+      "options": {
+        "A": "IPv6 uses fewer bits for addresses, making it simpler.",
+        "B": "IPv6 uses 128-bit addresses, while IPv4 uses 32-bit addresses.",
+        "C": "IPv4 is more secure than IPv6.",
+        "D": "IPv4 supports more devices than IPv6."
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "IPv4 addresses are 32-bit, allowing for about 4.3 billion unique addresses. IPv6 addresses are 128-bit, providing a vastly larger address space to accommodate the growing number of internet-connected devices."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Which networking device operates at Layer 2 (Data Link Layer) of the OSI model and uses MAC addresses to forward frames?",
+      "options": {
+        "A": "Router",
+        "B": "Hub",
+        "C": "Switch",
+        "D": "Modem"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "A network switch operates at Layer 2 (Data Link Layer) of the OSI model. It learns the MAC addresses of connected devices and uses them to intelligently forward data frames only to the intended recipient, reducing network congestion."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Which term describes a network where all connected devices have equal capabilities and can share resources with each other without a dedicated server?",
+      "options": {
+        "A": "Client-Server Network",
+        "B": "Peer-to-Peer Network",
+        "C": "Wide Area Network",
+        "D": "Metropolitan Area Network"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "In a peer-to-peer (P2P) network, each computer (peer) has equal status and can function as both a client and a server, sharing resources directly with other peers."
+    },
+    {
+      "qno": 68,
+      "module": 5,
+      "question": "In a Star topology, what happens if the central device (hub or switch) fails?",
+      "options": {
+        "A": "Only the connected devices fail",
+        "B": "The entire network fails",
+        "C": "The network continues to function normally",
+        "D": "Only the central device needs replacement"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "In a Star topology, all devices connect to a central hub or switch. If this central device fails, the entire network segment connected to it will cease to function."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Which type of network cable is commonly used for wired Ethernet connections in homes and offices?",
+      "options": {
+        "A": "Coaxial cable",
+        "B": "Fiber optic cable",
+        "C": "Twisted-pair (UTP/STP) cable",
+        "D": "Serial cable"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Unshielded Twisted Pair (UTP) and Shielded Twisted Pair (STP) cables, commonly known as Ethernet cables (e.g., Cat5e, Cat6), are the most prevalent for wired LAN connections."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "What is the connector type typically found on an Ethernet cable?",
+      "options": {
+        "A": "RJ-11",
+        "B": "RJ-45",
+        "C": "USB",
+        "D": "HDMI"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "RJ-45 (Registered Jack 45) is the standard connector for Ethernet cables, used for connecting to network cards, switches, and routers."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Which network topology connects all devices in a single continuous cable segment?",
+      "options": {
+        "A": "Star",
+        "B": "Ring",
+        "C": "Bus",
+        "D": "Mesh"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "In a Bus topology, all devices are connected to a single central cable, called the bus. Data travels along this bus, and each device checks if the data is for it."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "What is the purpose of an Access Point (AP) in a wireless network?",
+      "options": {
+        "A": "To route traffic between different networks",
+        "B": "To amplify network signals over long distances",
+        "C": "To allow wireless devices to connect to a wired network",
+        "D": "To filter malicious network traffic"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "An Access Point (AP) is a device that creates a wireless local area network (WLAN), typically in an office or large building, and connects wireless devices to a wired network."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Which network device modulates and demodulates signals to convert digital data into analog signals for transmission over telephone lines (or vice-versa)?",
+      "options": {
+        "A": "Switch",
+        "B": "Router",
+        "C": "Modem",
+        "D": "Hub"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A modem (modulator-demodulator) is a device that converts digital signals from a computer into analog signals suitable for transmission over traditional telephone lines, cable, or fiber, and vice versa."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "What is SSID in the context of Wi-Fi?",
+      "options": {
+        "A": "Signal Strength Indicator Display",
+        "B": "Secure System Identification Data",
+        "C": "Service Set Identifier",
+        "D": "System Security Information Detector"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "SSID (Service Set Identifier) is the name of a wireless network. It's the name you see when you scan for Wi-Fi networks."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Which type of cable offers the highest bandwidth and is immune to electromagnetic interference?",
+      "options": {
+        "A": "UTP Ethernet",
+        "B": "STP Ethernet",
+        "C": "Coaxial cable",
+        "D": "Fiber optic cable"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "Fiber optic cables transmit data using light pulses through glass or plastic fibers, offering significantly higher bandwidth and immunity to EMI compared to copper cables."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "In which network topology does each device have a dedicated point-to-point link to every other device?",
+      "options": {
+        "A": "Star",
+        "B": "Ring",
+        "C": "Bus",
+        "D": "Mesh"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "In a Mesh topology, every device is connected to every other device, providing redundancy and fault tolerance, but it is expensive to implement."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "What is the standard frequency band typically used by Wi-Fi networks?",
+      "options": {
+        "A": "FM Radio bands",
+        "B": "2.4 GHz and 5 GHz",
+        "C": "Cellular 4G/5G bands",
+        "D": "Satellite communication bands"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wi-Fi networks primarily operate in the 2.4 GHz and 5 GHz frequency bands, with 5 GHz offering higher speeds but shorter range, and 2.4 GHz offering longer range but lower speeds."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Which component is responsible for translating private IP addresses to public IP addresses for internet access?",
+      "options": {
+        "A": "Switch",
+        "B": "Hub",
+        "C": "NAT (Network Address Translation) router",
+        "D": "Access Point"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "NAT (Network Address Translation) is a method of remapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. It's typically performed by a router to allow multiple devices on a private network to share a single public IP address for internet access."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "A network administrator wants to implement a network that provides high fault tolerance and reliability. Which topology would be most suitable?",
+      "options": {
+        "A": "Bus",
+        "B": "Star",
+        "C": "Ring",
+        "D": "Mesh"
+      },
+      "correct": "D",
+      "difficulty": "hard",
+      "explanation": "A Mesh topology offers the highest fault tolerance because multiple paths exist between any two nodes. If one link fails, data can be rerouted through another path."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "What is the primary function of a network hub?",
+      "options": {
+        "A": "To intelligently forward data to specific devices",
+        "B": "To broadcast all incoming data to all connected devices",
+        "C": "To connect different networks together",
+        "D": "To filter network traffic based on security rules"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "A hub is a basic networking device that simply broadcasts any incoming data packet to all other connected devices, regardless of the intended recipient. This creates unnecessary network traffic and collisions."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Which Wi-Fi security protocol is considered the most secure for modern wireless networks?",
+      "options": {
+        "A": "WEP",
+        "B": "WPA",
+        "C": "WPA2",
+        "D": "WPA3"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "WPA3 (Wi-Fi Protected Access 3) is the latest and most secure encryption standard for wireless networks, offering stronger security features than its predecessors, WEP, WPA, and WPA2."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "What is the default gateway address typically used in a home network?",
+      "options": {
+        "A": "The IP address of the local computer",
+        "B": "The IP address of the modem/router",
+        "C": "The IP address of the DNS server",
+        "D": "The public IP address assigned by the ISP"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "The default gateway is the IP address of the device (usually the router) that allows devices on the local network to communicate with devices on other networks, such as the internet."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "When configuring a static IP address, in addition to the IP address itself, what other two crucial pieces of information are needed?",
+      "options": {
+        "A": "MAC address and device name",
+        "B": "Subnet mask and default gateway",
+        "C": "ISP name and account password",
+        "D": "Router model and serial number"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "For a device to communicate effectively on a network with a static IP, it also needs to know its subnet mask (to define its local network) and the default gateway (to communicate outside its local network)."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Which network device connects a local network to the internet and performs Network Address Translation (NAT)?",
+      "options": {
+        "A": "Switch",
+        "B": "Hub",
+        "C": "Router",
+        "D": "Repeater"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "A router is a network device that forwards data packets between computer networks. Routers perform the 'traffic directing' functions on the Internet. Most home routers also include NAT functionality."
+    },
+    {
+      "qno": 85,
+      "module": 6,
+      "question": "A user reports their computer is making a loud grinding noise. What is the most likely culprit?",
+      "options": {
+        "A": "CPU overheating",
+        "B": "Faulty RAM module",
+        "C": "Failing hard disk drive (HDD) or fan",
+        "D": "Corrupt operating system"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Loud grinding noises are often indicative of mechanical failure, commonly associated with the spinning platters of an HDD or worn-out bearings in a cooling fan."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "What is a common first step when troubleshooting a computer that won't turn on?",
+      "options": {
+        "A": "Replace the motherboard",
+        "B": "Check power connections and outlet",
+        "C": "Reinstall the operating system",
+        "D": "Replace the CPU"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Always start with the simplest checks. Ensure the power cable is securely plugged into both the computer and a working wall outlet, and test the outlet with another device."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "A computer boots up but there is no display on the monitor. What is a common troubleshooting step?",
+      "options": {
+        "A": "Replace the hard drive",
+        "B": "Check the monitor's power and video cable connections",
+        "C": "Reinstall RAM modules",
+        "D": "Update the BIOS"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Often, a 'no display' issue is due to a loose or disconnected video cable (HDMI, DisplayPort, VGA) or the monitor not being powered on or selected to the correct input."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "If a user complains about slow computer performance, what is a basic software maintenance step to suggest?",
+      "options": {
+        "A": "Install more RAM",
+        "B": "Run a disk cleanup and defragmentation (for HDD) / TRIM (for SSD)",
+        "C": "Replace the CPU",
+        "D": "Upgrade the graphics card"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Regular disk cleanup removes temporary files, and defragmentation (for HDDs) or TRIM (for SSDs) helps optimize disk access, which can improve overall system responsiveness."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "What is the purpose of blowing compressed air into a computer case?",
+      "options": {
+        "A": "To cool down the CPU temporarily",
+        "B": "To clean dust from internal components and fans",
+        "C": "To lubricate moving parts",
+        "D": "To discharge static electricity"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Compressed air is used to remove accumulated dust from components like fans, heatsinks, and vents, which can impede airflow and cause overheating."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "A user cannot connect to the internet, and 'ipconfig' shows an IP address of 169.254.x.x. What does this typically indicate?",
+      "options": {
+        "A": "The computer has a valid static IP address.",
+        "B": "The computer received an IP address from DHCP successfully.",
+        "C": "The computer failed to obtain an IP address from a DHCP server.",
+        "D": "The computer is connected to a public network."
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "An IP address in the 169.254.x.x range (APIPA - Automatic Private IP Addressing) indicates that the computer failed to obtain an IP address from a DHCP server and has assigned itself a temporary, non-routable address."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "What is the first step to take when troubleshooting a network cable that is suspected to be faulty?",
+      "options": {
+        "A": "Replace the network card",
+        "B": "Check if the cable is securely plugged in at both ends",
+        "C": "Restart the router",
+        "D": "Run a virus scan"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Always start with physical checks. A loose cable is a very common cause of network connectivity issues."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "What is a recommended practice for data protection against hardware failure or accidental deletion?",
+      "options": {
+        "A": "Regularly defragment the hard drive",
+        "B": "Install a powerful graphics card",
+        "C": "Perform regular backups of important data",
+        "D": "Keep the computer always turned on"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Regular backups are crucial for data recovery in case of hardware failure, software corruption, or accidental deletion."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "A user reports slow internet speeds. After checking the local network, the technician suspects an issue with the ISP. Which command-line utility can help trace the path to a remote server and identify where the delay occurs?",
+      "options": {
+        "A": "IPCONFIG",
+        "B": "PING",
+        "C": "TRACERT",
+        "D": "NETSTAT"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "TRACERT (Traceroute) maps the path that data packets take to reach a destination, showing each hop and the time taken, which can help pinpoint where network slowdowns or failures occur."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Before performing any internal hardware work on a computer, what should always be done to the power supply?",
+      "options": {
+        "A": "Set it to 230V",
+        "B": "Switch it off and unplug it from the wall socket",
+        "C": "Test its voltage output",
+        "D": "Leave it on for continuous power"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Always switch off the power supply and unplug the computer from the wall to prevent electrical shock and damage to components when working inside the case."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "A laptop battery is not holding a charge well. What is the most common and practical solution?",
+      "options": {
+        "A": "Reinstall the operating system",
+        "B": "Update the BIOS",
+        "C": "Replace the battery",
+        "D": "Defragment the hard drive"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Laptop batteries degrade over time. If a battery isn't holding a charge, replacing it with a new one is the most direct and effective solution."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "What is a common cause of unexpected computer shutdowns or reboots?",
+      "options": {
+        "A": "Too much free disk space",
+        "B": "Underperforming graphics card",
+        "C": "Overheating CPU or PSU issues",
+        "D": "Too many open browser tabs"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Overheating (especially the CPU or GPU) or a failing power supply unit (PSU) are very common causes of sudden shutdowns, as the system protects itself from damage or loses stable power."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "A user complains that their Wi-Fi signal is weak in certain parts of their house. What is a common solution?",
+      "options": {
+        "A": "Replace the computer's CPU",
+        "B": "Move the wireless router to a central location or add a Wi-Fi extender",
+        "C": "Upgrade the monitor",
+        "D": "Install more RAM"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Moving the router to a more central location or using a Wi-Fi extender/mesh system can significantly improve wireless signal coverage and strength in areas with poor reception."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Which tool would a technician use to test the continuity and proper wiring of an Ethernet cable?",
+      "options": {
+        "A": "Multimeter",
+        "B": "Loopback adapter",
+        "C": "Cable tester",
+        "D": "Tone generator and probe"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "A cable tester is specifically designed to verify that network cables are correctly wired and have continuity, identifying opens, shorts, and miswires."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "A computer consistently displays a 'Blue Screen of Death' (BSOD). What is a common troubleshooting category for this issue?",
+      "options": {
+        "A": "Network connectivity issues",
+        "B": "Browser compatibility problems",
+        "C": "Hardware failure, corrupt drivers, or OS issues",
+        "D": "Low disk space"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "BSODs indicate a critical system error. Common causes include faulty hardware (especially RAM or storage), incompatible or corrupt device drivers, or severe operating system file corruption."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "When cleaning a computer screen, what type of cleaning agent is recommended?",
+      "options": {
+        "A": "Window cleaner with ammonia",
+        "B": "Rubbing alcohol",
+        "C": "Specialized screen cleaner or plain water with a microfiber cloth",
+        "D": "Acetone"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Harsh chemicals like ammonia or acetone can damage screen coatings. A specialized screen cleaner or simply a damp microfiber cloth with plain water is recommended for safe cleaning."
+    }
+  ]
+}

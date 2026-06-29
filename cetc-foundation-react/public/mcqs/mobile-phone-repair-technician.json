@@ -1,0 +1,1443 @@
+{
+  "course_name": "Mobile Phone Repair Technician",
+  "sector": "Electrical & Electronics Trades",
+  "level": "Foundation",
+  "duration": "2 Months",
+  "total_marks": 100,
+  "pass_percentage": 50,
+  "exam_duration_minutes": 60,
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Basic Electronics & Tools",
+      "question_range": "Q1-Q17"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Mobile Phone Components & Function",
+      "question_range": "Q18-Q34"
+    },
+    {
+      "module_number": 3,
+      "module_title": "Disassembly & Assembly Techniques",
+      "question_range": "Q35-Q51"
+    },
+    {
+      "module_number": 4,
+      "module_title": "Software & Basic Troubleshooting",
+      "question_range": "Q52-Q68"
+    },
+    {
+      "module_number": 5,
+      "module_title": "Common Hardware Repairs",
+      "question_range": "Q69-Q85"
+    },
+    {
+      "module_number": 6,
+      "module_title": "Advanced Troubleshooting & Customer Service",
+      "question_range": "Q86-Q100"
+    }
+  ],
+  "questions": [
+    {
+      "qno": 1,
+      "module": 1,
+      "question": "Multimeter ka use kya hai?",
+      "options": {
+        "A": "Voltage, Current aur Resistance measure karna",
+        "B": "Screw tight karna",
+        "C": "Phone display clean karna",
+        "D": "Battery charge karna"
+      },
+      "correct": "A",
+      "difficulty": "easy",
+      "explanation": "Multimeter ek electronic measuring instrument hai jo voltage, current aur resistance jaisi electrical properties ko measure karta hai."
+    },
+    {
+      "qno": 2,
+      "module": 1,
+      "question": "ESD ka full form kya hai mobile repair mein?",
+      "options": {
+        "A": "Electronic Static Discharge",
+        "B": "Electrostatic Discharge",
+        "C": "Electric Shock Device",
+        "D": "Energy Saving Device"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "ESD ka full form Electrostatic Discharge hai, jo sensitive electronic components ko damage hone se bachata hai."
+    },
+    {
+      "qno": 3,
+      "module": 1,
+      "question": "Ek short circuit ko detect karne ke liye multimeter ki kaun si setting use karte hain?",
+      "options": {
+        "A": "Voltage AC",
+        "B": "Resistance (Ohm)",
+        "C": "Continuity",
+        "D": "Current DC"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Continuity setting short circuit detect karne ke liye use hoti hai. Agar multimeter beep karta hai, to wahan continuity hai, jo short circuit indicate kar sakti hai."
+    },
+    {
+      "qno": 4,
+      "module": 1,
+      "question": "Soldering iron ka primary use kya hai mobile repair mein?",
+      "options": {
+        "A": "Components ko garam karna",
+        "B": "Components ko jodna (join karna)",
+        "C": "Display ko remove karna",
+        "D": "Phone ko charge karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Soldering iron ka use electronic components ko PCB par solder wire ki help se permanent join karne ke liye hota hai."
+    },
+    {
+      "qno": 5,
+      "module": 1,
+      "question": "Hot air gun ka use kis kaam ke liye hota hai?",
+      "options": {
+        "A": "Display ko chipkane ke liye",
+        "B": "Components ko desolder aur resolder karne ke liye",
+        "C": "Battery ko test karne ke liye",
+        "D": "Software update karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hot air gun ka use surface-mount components (SMD) ko PCB se remove (desolder) aur wapas lagane (resolder) ke liye kiya jata hai."
+    },
+    {
+      "qno": 6,
+      "module": 1,
+      "question": "Capacitor ka function kya hota hai circuit mein?",
+      "options": {
+        "A": "Current increase karna",
+        "B": "Voltage regulate karna",
+        "C": "Charge store karna",
+        "D": "Resistance provide karna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Capacitor ek electrical component hai jo electrical energy ko electrostatic field mein store karta hai."
+    },
+    {
+      "qno": 7,
+      "module": 1,
+      "question": "Resistor ka unit kya hai?",
+      "options": {
+        "A": "Volt",
+        "B": "Ampere",
+        "C": "Ohm",
+        "D": "Farad"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Resistance ko Ohms (Ω) mein measure kiya jata hai."
+    },
+    {
+      "qno": 8,
+      "module": 1,
+      "question": "DC power supply ka use mobile repair mein kya hai?",
+      "options": {
+        "A": "Phone ko charge karna",
+        "B": "Phone ko direct power dekar test karna",
+        "C": "Display brightness adjust karna",
+        "D": "Software install karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "DC power supply ka use phone ko battery ke bina direct power dekar uski functionality aur current consumption ko test karne ke liye hota hai."
+    },
+    {
+      "qno": 9,
+      "module": 1,
+      "question": "ESD wrist strap kyon pehnte hain?",
+      "options": {
+        "A": "Fashion ke liye",
+        "B": "Operator ko electric shock se bachane ke liye",
+        "C": "Static electricity ko operator se components tak jane se rokne ke liye",
+        "D": "Static electricity ko components se operator tak jane se rokne ke liye"
+      },
+      "correct": "D",
+      "difficulty": "medium",
+      "explanation": "ESD wrist strap operator ke body mein build-up static electricity ko ground karta hai, jisse sensitive components damage hone se bach jate hain."
+    },
+    {
+      "qno": 10,
+      "module": 1,
+      "question": "Diode ka primary function kya hai?",
+      "options": {
+        "A": "Current ko dono directions mein flow hone dena",
+        "B": "Current ko sirf ek direction mein flow hone dena",
+        "C": "Voltage ko store karna",
+        "D": "Resistance provide karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Diode ek semiconductor device hai jo current ko sirf ek direction mein flow hone deta hai."
+    },
+    {
+      "qno": 11,
+      "module": 1,
+      "question": "Kaun sa tool phone ke back panel ya display ko alag karne ke liye use hota hai without damage?",
+      "options": {
+        "A": "Hammer",
+        "B": "Prying tool (Spudger)",
+        "C": "Pliers",
+        "D": "Screwdriver"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Prying tools (jaise plastic spudgers) specially designed hote hain taaki phone ke delicate parts ko bina damage kiye open kiya ja sake."
+    },
+    {
+      "qno": 12,
+      "module": 1,
+      "question": "Flux ka kya role hai soldering mein?",
+      "options": {
+        "A": "Solder ko hard banana",
+        "B": "Oxidation prevent karna aur solder flow improve karna",
+        "C": "Components ko thanda karna",
+        "D": "Solder joint ko strong banana"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flux soldering ke dauran oxidation ko prevent karta hai aur molten solder ke flow ko improve karta hai, jisse clean aur strong joint banta hai."
+    },
+    {
+      "qno": 13,
+      "module": 1,
+      "question": "Kaun sa component current ke flow ko control karta hai?",
+      "options": {
+        "A": "Capacitor",
+        "B": "Resistor",
+        "C": "Inductor",
+        "D": "Diode"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Resistor current ke flow ko resist karke control karta hai."
+    },
+    {
+      "qno": 14,
+      "module": 1,
+      "question": "IC (Integrated Circuit) ka kya matlab hai?",
+      "options": {
+        "A": "Internal Component",
+        "B": "Integrated Circuit",
+        "C": "Input Connector",
+        "D": "Intelligent Chip"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "IC ka full form Integrated Circuit hai, jo multiple electronic components ko ek single chip par combine karta hai."
+    },
+    {
+      "qno": 15,
+      "module": 1,
+      "question": "Ek mobile phone mein 'Ground' point ka kya importance hai?",
+      "options": {
+        "A": "Signal strength badhana",
+        "B": "Circuit ke liye reference voltage provide karna",
+        "C": "Battery ko charge karna",
+        "D": "Display ko power dena"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Ground point circuit ke sabhi components ke liye common reference voltage (usually 0V) provide karta hai, jo proper circuit operation ke liye essential hai."
+    },
+    {
+      "qno": 16,
+      "module": 1,
+      "question": "Kaun sa tool fine screws ko kholne aur tight karne ke liye use hota hai mobile phones mein?",
+      "options": {
+        "A": "Pliers",
+        "B": "Standard screwdriver",
+        "C": "Precision screwdriver set",
+        "D": "Wrench"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Mobile phones mein bahut chhote aur specific types ke screws hote hain, jinhe kholne ke liye precision screwdriver set ki zaroorat hoti hai."
+    },
+    {
+      "qno": 17,
+      "module": 1,
+      "question": "Agar multimeter continuity mode mein beep nahi kar raha hai, to iska kya matlab ho sakta hai?",
+      "options": {
+        "A": "Short circuit hai",
+        "B": "Open circuit hai",
+        "C": "Voltage bahut high hai",
+        "D": "Resistance bahut low hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Continuity mode mein beep na karna usually open circuit ya high resistance indicate karta hai, matlab current flow nahi ho raha hai."
+    },
+    {
+      "qno": 18,
+      "module": 2,
+      "question": "Mobile phone mein 'Motherboard' ka kya function hai?",
+      "options": {
+        "A": "Sirf battery ko hold karna",
+        "B": "Saare components ko connect karna aur unhe operate karna",
+        "C": "Display ko power dena",
+        "D": "Speaker ka sound control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Motherboard phone ka main circuit board hai, jo CPU, memory, aur dusre ICs ko connect karta hai aur phone ke sabhi functions ko control karta hai."
+    },
+    {
+      "qno": 19,
+      "module": 2,
+      "question": "Li-ion battery ki kya khasiyat hai jo mobile phones mein use hoti hai?",
+      "options": {
+        "A": "Bahut sasti hoti hai",
+        "B": "Lightweight hoti hai aur high energy density deti hai",
+        "C": "Hamesha garam rehti hai",
+        "D": "Sirf ek baar charge ho sakti hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lithium-ion batteries lightweight hoti hain aur high energy density provide karti hain, isliye mobile phones ke liye ideal hain."
+    },
+    {
+      "qno": 20,
+      "module": 2,
+      "question": "Mobile phone mein 'CPU' ka kya role hai?",
+      "options": {
+        "A": "Camera ko control karna",
+        "B": "Phone ke saare operations ko process karna",
+        "C": "Sirf display output dena",
+        "D": "Network signal receive karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "CPU (Central Processing Unit) phone ka brain hota hai, jo saare calculations aur instructions ko process karta hai."
+    },
+    {
+      "qno": 21,
+      "module": 2,
+      "question": "Agar phone mein sound nahi aa raha hai speaker se, to kaun sa component faulty ho sakta hai?",
+      "options": {
+        "A": "Charging Port",
+        "B": "Speaker",
+        "C": "Vibrator",
+        "D": "SIM Tray"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Speaker sound output ke liye responsible hota hai. Agar speaker se sound nahi aa raha hai, to speaker hi faulty ho sakta hai."
+    },
+    {
+      "qno": 22,
+      "module": 2,
+      "question": "Mobile phone mein display ke kitne common types hote hain?",
+      "options": {
+        "A": "1 (LCD)",
+        "B": "2 (LCD aur AMOLED)",
+        "C": "3 (LCD, LED aur CRT)",
+        "D": "4 (AMOLED, OLED, LCD, Plasma)"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Mobile phones mein commonly LCD (Liquid Crystal Display) aur AMOLED (Active Matrix Organic Light Emitting Diode) displays use hote hain."
+    },
+    {
+      "qno": 23,
+      "module": 2,
+      "question": "Charging port ka kya function hai?",
+      "options": {
+        "A": "Headphone connect karna",
+        "B": "Phone ko power supply se connect karke charge karna",
+        "C": "SIM card insert karna",
+        "D": "Volume control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Charging port phone ko charger se connect karne aur battery ko charge karne ke liye hota hai."
+    },
+    {
+      "qno": 24,
+      "module": 2,
+      "question": "Mobile phone mein 'Power IC' ka kya role hai?",
+      "options": {
+        "A": "Sirf camera ko power dena",
+        "B": "Phone ke saare components ko required voltage aur current supply karna",
+        "C": "Network signal amplify karna",
+        "D": "Display ki backlight control karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Power IC (Power Management IC) phone ke different sections ko required voltage aur current supply ko manage karta hai."
+    },
+    {
+      "qno": 25,
+      "module": 2,
+      "question": "Haptic feedback ke liye kaun sa component responsible hai?",
+      "options": {
+        "A": "Speaker",
+        "B": "Microphone",
+        "C": "Vibrator motor",
+        "D": "Antenna"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Vibrator motor phone mein haptic feedback (vibration) provide karta hai."
+    },
+    {
+      "qno": 26,
+      "module": 2,
+      "question": "SIM card reader ka kya kaam hai?",
+      "options": {
+        "A": "Memory card read karna",
+        "B": "Subscriber Identity Module (SIM) ko read karna",
+        "C": "Fingerprint scan karna",
+        "D": "USB device connect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SIM card reader SIM card ko read karta hai, jisse phone cellular network se connect ho pata hai."
+    },
+    {
+      "qno": 27,
+      "module": 2,
+      "question": "Mobile phone mein 'NAND' chip ka kya function hai?",
+      "options": {
+        "A": "Temporary data store karna",
+        "B": "Operating system aur user data store karna",
+        "C": "Network signal process karna",
+        "D": "Sound output control karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "NAND chip (Flash memory) phone ki main storage hoti hai jahan OS, apps aur user data store hota hai."
+    },
+    {
+      "qno": 28,
+      "module": 2,
+      "question": "Agar phone call ke dauran aapki awaaz dusre end par nahi ja rahi hai, to kaun sa component suspect ho sakta hai?",
+      "options": {
+        "A": "Speaker",
+        "B": "Microphone",
+        "C": "Earpiece",
+        "D": "Vibrator"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Microphone aapki awaaz ko capture karta hai. Agar awaaz nahi ja rahi hai, to microphone faulty ho sakta hai."
+    },
+    {
+      "qno": 29,
+      "module": 2,
+      "question": "Kaun sa component phone ko wireless network (Wi-Fi) se connect karne mein help karta hai?",
+      "options": {
+        "A": "Bluetooth Module",
+        "B": "Wi-Fi Antenna/Module",
+        "C": "GPS Module",
+        "D": "NFC Module"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Wi-Fi Antenna aur usse associated module phone ko Wi-Fi networks se connect karne ke liye responsible hote hain."
+    },
+    {
+      "qno": 30,
+      "module": 2,
+      "question": "Accelerometer sensor ka kya kaam hai?",
+      "options": {
+        "A": "Light intensity detect karna",
+        "B": "Phone ke orientation aur motion ko detect karna",
+        "C": "Temperature measure karna",
+        "D": "Fingerprint scan karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Accelerometer phone ke orientation (portrait/landscape) aur linear acceleration (motion) ko detect karta hai."
+    },
+    {
+      "qno": 31,
+      "module": 2,
+      "question": "Earpiece speaker ka kya use hai?",
+      "options": {
+        "A": "Music play karna",
+        "B": "Call ke dauran awaaz sunna",
+        "C": "Alarm bajana",
+        "D": "Hands-free calling enable karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Earpiece speaker call ke dauran dusre person ki awaaz ko sunne ke liye hota hai."
+    },
+    {
+      "qno": 32,
+      "module": 2,
+      "question": "Ek smartphone mein 'RAM' ka kya purpose hai?",
+      "options": {
+        "A": "Long-term data storage",
+        "B": "Temporary data storage for running apps",
+        "C": "Display graphics processing",
+        "D": "Network communication"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "RAM (Random Access Memory) running applications aur current operating system data ke liye temporary storage provide karti hai."
+    },
+    {
+      "qno": 33,
+      "module": 2,
+      "question": "Mobile phone mein 'Backlight IC' ka kya function hai?",
+      "options": {
+        "A": "Camera flash control karna",
+        "B": "Display ki backlight brightness control karna",
+        "C": "Keyboard illumination control karna",
+        "D": "Battery charging control karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Backlight IC display ki brightness ko regulate karne ke liye responsible hota hai, especially LCD panels mein."
+    },
+    {
+      "qno": 34,
+      "module": 2,
+      "question": "Antenna ka kya kaam hai mobile phone mein?",
+      "options": {
+        "A": "Battery ko power dena",
+        "B": "Radio waves transmit aur receive karna",
+        "C": "Phone ko waterproof banana",
+        "D": "Touch input detect karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Antenna cellular, Wi-Fi, Bluetooth aur GPS signals (radio waves) ko transmit aur receive karne ke liye use hota hai."
+    },
+    {
+      "qno": 35,
+      "module": 3,
+      "question": "Phone ko open karne se pehle sabse pehla safety step kya hai?",
+      "options": {
+        "A": "Battery remove karna",
+        "B": "SIM card tray nikalna",
+        "C": "Phone ko switch off karna",
+        "D": "Display ko garam karna"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Kisi bhi repair se pehle phone ko completely switch off karna zaroori hai taaki electric shock ya component damage se bacha ja sake."
+    },
+    {
+      "qno": 36,
+      "module": 3,
+      "question": "Display replacement ke dauran, adhesive ko soft karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Cold water",
+        "B": "Hair dryer ya heat gun",
+        "C": "Sharp knife",
+        "D": "Super glue"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Heat (hair dryer ya heat gun se) adhesive ko soft karti hai, jisse display ko safely remove karna aasan ho jata hai."
+    },
+    {
+      "qno": 37,
+      "module": 3,
+      "question": "Kaun sa tool delicate flex cables ko disconnect karne ke liye best hai?",
+      "options": {
+        "A": "Metal tweezers",
+        "B": "Plastic spudger",
+        "C": "Flathead screwdriver",
+        "D": "Pliers"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Plastic spudger non-conductive hota hai aur delicate flex cables ko bina damage kiye disconnect karne ke liye ideal hai."
+    },
+    {
+      "qno": 38,
+      "module": 3,
+      "question": "Screws ko organize karna kyon important hai disassembly ke dauran?",
+      "options": {
+        "A": "Repair time badhane ke liye",
+        "B": "Components ko mix hone se bachane aur correct location par re-assemble karne ke liye",
+        "C": "Sirf professional look ke liye",
+        "D": "Screw ko saaf rakhne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Alag-alag screws ki length aur type different hote hain. Unhe organize karne se re-assembly ke dauran galti hone ki sambhavna kam ho jati hai."
+    },
+    {
+      "qno": 39,
+      "module": 3,
+      "question": "Agar phone ki battery non-removable hai, to use disconnect karne ka standard procedure kya hai?",
+      "options": {
+        "A": "Seedha pull karke nikal dena",
+        "B": "Battery connector ko motherboard se disconnect karna",
+        "C": "Battery ko cut karna",
+        "D": "Phone ko on rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Non-removable battery ko disconnect karne ke liye uske flex connector ko motherboard se carefully disconnect karna hota hai, na ki battery ko physically remove karna."
+    },
+    {
+      "qno": 40,
+      "module": 3,
+      "question": "Phone ki waterproofing seal ko damage hone se kaise bachayenge display removal ke dauran?",
+      "options": {
+        "A": "Bahut zyada heat use karke",
+        "B": "Sharp metal tools use karke",
+        "C": "Carefully aur evenly heat apply karke, aur thin prying tools use karke",
+        "D": "Seal ko ignore karke"
+      },
+      "correct": "C",
+      "difficulty": "hard",
+      "explanation": "Waterproofing seal delicate hoti hai. Use damage se bachane ke liye controlled heat aur non-metallic, thin prying tools ka use karna chahiye."
+    },
+    {
+      "qno": 41,
+      "module": 3,
+      "question": "Jab ek naya display install karte hain, to kya ensure karna zaroori hai?",
+      "options": {
+        "A": "Display ko bahut tightly press karna",
+        "B": "Saare flex cables properly connected hon",
+        "C": "Purane adhesive ko rehne dena",
+        "D": "Phone ko immediately on karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Naye display ko install karte samay, sabhi flex cables (display, touch, front camera) ka proper aur secure connection ensure karna bahut zaroori hai."
+    },
+    {
+      "qno": 42,
+      "module": 3,
+      "question": "Agar screws magnetize ho gaye hain, to unhe handle karne ke liye kaun sa tool helpful hoga?",
+      "options": {
+        "A": "Plastic tweezers",
+        "B": "Magnetizer/Demagnetizer tool",
+        "C": "Metal screwdriver",
+        "D": "Pliers"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Magnetizer/Demagnetizer tool screws ko magnetize ya demagnetize karne ke liye use hota hai, jisse unhe handle karna aasan ho jata hai."
+    },
+    {
+      "qno": 43,
+      "module": 3,
+      "question": "Kya phone repair karte samay gloves pehnna zaroori hai?",
+      "options": {
+        "A": "Nahi, sirf agar haath gande hon",
+        "B": "Haan, ESD protection aur finger oils se bachne ke liye",
+        "C": "Sirf agar chemical use kar rahe hon",
+        "D": "Nahi, gloves se grip kam hoti hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Gloves ESD protection provide karte hain aur components par finger oils ya smudges lagne se bachate hain."
+    },
+    {
+      "qno": 44,
+      "module": 3,
+      "question": "Jab motherboard ko phone se remove karte hain, to kaun se connections disconnect karne hote hain?",
+      "options": {
+        "A": "Sirf battery connector",
+        "B": "Display, battery, camera, antenna, charging port flex cables",
+        "C": "Sirf antenna cables",
+        "D": "Koi connection nahi, seedha pull kar do"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Motherboard phone ka central hub hai. Use remove karne ke liye usse connect hone wale sabhi peripheral components ke flex cables ko disconnect karna padta hai."
+    },
+    {
+      "qno": 45,
+      "module": 3,
+      "question": "Adhesive residue ko display ya frame se remove karne ke liye kya use karte hain?",
+      "options": {
+        "A": "Water",
+        "B": "Isopropyl Alcohol (IPA)",
+        "C": "Petrol",
+        "D": "Sandpaper"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Isopropyl Alcohol (IPA) adhesive residue ko safely aur effectively remove karne mein madad karta hai."
+    },
+    {
+      "qno": 46,
+      "module": 3,
+      "question": "Agar aapko pata chale ki phone mein Torx screws hain, to aap kaun sa screwdriver use karenge?",
+      "options": {
+        "A": "Phillips head",
+        "B": "Flathead",
+        "C": "Torx screwdriver",
+        "D": "Pentalobe"
+      },
+      "correct": "C",
+      "difficulty": "easy",
+      "explanation": "Har screw type ke liye specific screwdriver ki zaroorat hoti hai. Torx screws ke liye Torx screwdriver hi use hota hai."
+    },
+    {
+      "qno": 47,
+      "module": 3,
+      "question": "Jab phone ko re-assemble karte hain, to kya ensure karna chahiye?",
+      "options": {
+        "A": "Kuch screws ko loose chhod dena",
+        "B": "Saare connectors properly seated hon aur screws apni jagah par hon",
+        "C": "Extra components ko fenk dena",
+        "D": "Battery ko ulta laga dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Proper re-assembly ke liye sabhi connectors ka sahi tarike se laga hona aur saare screws ka apni original jagah par tight hona zaroori hai."
+    },
+    {
+      "qno": 48,
+      "module": 3,
+      "question": "Agar phone ka frame bend ho gaya hai, to naya display lagane se pehle kya karna chahiye?",
+      "options": {
+        "A": "Seedha naya display laga dena",
+        "B": "Frame ko straighten karna ya replace karna",
+        "C": "Bahut zyada adhesive use karna",
+        "D": "Display ko chhota karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Bend frame par naya display lagane se display crack ho sakta hai ya theek se fit nahi hoga. Frame ko theek karna ya replace karna zaroori hai."
+    },
+    {
+      "qno": 49,
+      "module": 3,
+      "question": "Pentalobe screws kis brand ke phones mein commonly milte hain?",
+      "options": {
+        "A": "Samsung",
+        "B": "Xiaomi",
+        "C": "Apple (iPhones)",
+        "D": "Nokia"
+      },
+      "correct": "C",
+      "difficulty": "medium",
+      "explanation": "Pentalobe screws Apple iPhones aur kuch MacBooks mein use hote hain, jo unke proprietary design ka hissa hai."
+    },
+    {
+      "qno": 50,
+      "module": 3,
+      "question": "Jab battery ko remove karte hain, to kya precaution leni chahiye?",
+      "options": {
+        "A": "Use bend karna ya puncture karna",
+        "B": "Carefully pry karna aur zyada force avoid karna",
+        "C": "Use garam karna",
+        "D": "Directly pull karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Lithium-ion batteries ko puncture ya bend karne se aag lag sakti hai ya explosion ho sakta hai. Unhe bahut carefully remove karna chahiye."
+    },
+    {
+      "qno": 51,
+      "module": 3,
+      "question": "Agar phone ke components par dust ya debris hai, to use kaise clean karenge?",
+      "options": {
+        "A": "Water se dho kar",
+        "B": "Compressed air blower aur soft brush se",
+        "C": "Kapde se ragad kar",
+        "D": "Vacuum cleaner se"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Compressed air blower aur soft brush delicate components se dust aur debris ko safely remove karne ke liye best hain."
+    },
+    {
+      "qno": 52,
+      "module": 4,
+      "question": "Agar phone boot loop mein stuck hai (logo par atka hai), to iska kya karan ho sakta hai?",
+      "options": {
+        "A": "Battery full charge hai",
+        "B": "Software corruption ya faulty update",
+        "C": "Screen tuti hui hai",
+        "D": "Charger kharab hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Boot loop usually software corruption, failed update, ya OS files ke damage hone ki wajah se hota hai."
+    },
+    {
+      "qno": 53,
+      "module": 4,
+      "question": "Factory Reset karne se phone par kya effect hota hai?",
+      "options": {
+        "A": "Sirf apps delete hote hain",
+        "B": "Saara user data aur settings delete ho jaate hain, phone factory settings par aa jata hai",
+        "C": "Operating system update ho jata hai",
+        "D": "Battery life badh jati hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Factory Reset phone ko uski original factory settings par restore karta hai, jisse saara user data aur installed apps delete ho jaate hain."
+    },
+    {
+      "qno": 54,
+      "module": 4,
+      "question": "Agar phone slow chal raha hai aur apps crash ho rahe hain, to pehla troubleshooting step kya hoga?",
+      "options": {
+        "A": "Naya display laga dena",
+        "B": "Cache clear karna aur unwanted apps uninstall karna",
+        "C": "Battery change karna",
+        "D": "Charging port saaf karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Slow performance aur app crashes often accumulated cache, insufficient storage, ya background mein chal rahe bahut saare apps ki wajah se hote hain."
+    },
+    {
+      "qno": 55,
+      "module": 4,
+      "question": "Phone 'Flashing' ka kya matlab hai?",
+      "options": {
+        "A": "Phone ki camera flash use karna",
+        "B": "Phone par naya firmware ya operating system install karna",
+        "C": "Phone ki screen ko saaf karna",
+        "D": "Phone ko fast charge karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flashing mein phone ke internal memory par naya firmware (OS) install kiya jata hai, jo software issues ko solve karne mein help karta hai."
+    },
+    {
+      "qno": 56,
+      "module": 4,
+      "question": "Safe Mode Android phones mein kyon use hota hai?",
+      "options": {
+        "A": "Games khelne ke liye",
+        "B": "Third-party apps ko disable karke troubleshooting karne ke liye",
+        "C": "Battery life extend karne ke liye",
+        "D": "Phone ko permanently unlock karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Safe Mode sirf basic system apps ke saath phone ko boot karta hai, jisse aap problematic third-party apps ko identify aur uninstall kar sakte hain."
+    },
+    {
+      "qno": 57,
+      "module": 4,
+      "question": "Agar phone mein network signal nahi aa raha hai (software issue suspect hai), to kya check karenge?",
+      "options": {
+        "A": "Antenna ko change kar denge",
+        "B": "Airplane mode on/off karke, network settings reset karke, SIM card check karke",
+        "C": "Display ko change kar denge",
+        "D": "Battery ko replace kar denge"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Network signal issues ke liye pehle software related steps jaise airplane mode, network settings reset, aur SIM card ki proper placement check karna chahiye."
+    },
+    {
+      "qno": 58,
+      "module": 4,
+      "question": "Data backup kyon important hai repair se pehle?",
+      "options": {
+        "A": "Sirf agar phone naya ho",
+        "B": "Customer ke data ko loss hone se bachane ke liye",
+        "C": "Repair process ko slow karne ke liye",
+        "D": "Phone ki speed badhane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Repair ke dauran data loss ka risk hota hai, isliye customer ke important photos, contacts, aur documents ka backup lena zaroori hai."
+    },
+    {
+      "qno": 59,
+      "module": 4,
+      "question": "Agar phone mein touch response nahi aa raha hai (software issue suspect hai), to kya kar sakte hain?",
+      "options": {
+        "A": "Screen ko zor se dabana",
+        "B": "Phone ko restart karna ya factory reset karna",
+        "C": "Naya charger lagana",
+        "D": "SIM card nikal dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Restart ya factory reset jaise software solutions kabhi-kabhi temporary touch issues ko solve kar sakte hain, agar problem hardware se na ho."
+    },
+    {
+      "qno": 60,
+      "module": 4,
+      "question": "Android phone mein 'Developer Options' kyon use hote hain?",
+      "options": {
+        "A": "Normal user settings ke liye",
+        "B": "Advanced system settings aur debugging options access karne ke liye",
+        "C": "Games download karne ke liye",
+        "D": "Battery save karne ke liye"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Developer Options mein USB debugging, animation scales, aur other advanced settings hoti hain jo troubleshooting aur development ke liye useful hain."
+    },
+    {
+      "qno": 61,
+      "module": 4,
+      "question": "Agar phone ka Wi-Fi ya Bluetooth connect nahi ho raha hai (software issue suspect hai), to kya check karenge?",
+      "options": {
+        "A": "Wi-Fi/Bluetooth antenna change karna",
+        "B": "Network settings reset karna, phone restart karna, software update check karna",
+        "C": "Battery replace karna",
+        "D": "Charging port clean karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Software related connectivity issues ko troubleshoot karne ke liye network settings reset, restart aur OS updates helpful ho sakte hain."
+    },
+    {
+      "qno": 62,
+      "module": 4,
+      "question": "Phone 'Hard Reset' aur 'Soft Reset' mein kya difference hai?",
+      "options": {
+        "A": "Koi difference nahi",
+        "B": "Hard Reset data erase karta hai, Soft Reset sirf phone restart karta hai",
+        "C": "Soft Reset data erase karta hai, Hard Reset restart karta hai",
+        "D": "Dono battery change karte hain"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Hard Reset (Factory Reset) saara data erase karta hai, jabki Soft Reset (restart) sirf phone ko reboot karta hai bina data loss ke."
+    },
+    {
+      "qno": 63,
+      "module": 4,
+      "question": "Agar phone mein 'Storage Full' ka message aa raha hai, to kya steps le sakte hain?",
+      "options": {
+        "A": "Naya phone kharid lena",
+        "B": "Unwanted apps uninstall karna, cache clear karna, files ko cloud/SD card par move karna",
+        "C": "Battery ko replace karna",
+        "D": "Display ko change karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Storage full issue ko solve karne ke liye unnecessary apps, cache aur large files ko manage karna zaroori hai."
+    },
+    {
+      "qno": 64,
+      "module": 4,
+      "question": "Firmware update ke dauran power loss hone par kya ho sakta hai?",
+      "options": {
+        "A": "Phone ki battery life badh jayegi",
+        "B": "Phone brick ho sakta hai (unusable ho sakta hai)",
+        "C": "Sirf wallpaper change hoga",
+        "D": "Phone aur fast ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Firmware update ke dauran power loss hone se phone ka operating system corrupt ho sakta hai, jisse phone brick ho sakta hai."
+    },
+    {
+      "qno": 65,
+      "module": 4,
+      "question": "Agar phone ki screen freeze ho gayi hai aur koi response nahi de rahi hai, to kya karna chahiye?",
+      "options": {
+        "A": "Phone ko fek dena",
+        "B": "Force restart karne ki koshish karna (power button aur volume button combination)",
+        "C": "Display ko tod dena",
+        "D": "Charger ko disconnect kar dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Screen freeze hone par force restart (power button aur volume down/up button ka combination) phone ko reboot karne mein help kar sakta hai."
+    },
+    {
+      "qno": 66,
+      "module": 4,
+      "question": "Google account ka kya role hai Android phones mein?",
+      "options": {
+        "A": "Sirf email check karna",
+        "B": "Apps download karna, data sync karna, phone ko locate karna",
+        "C": "Call history store karna",
+        "D": "Display settings control karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Google account Play Store se apps download karne, contacts aur calendar sync karne, aur Find My Device jaisi features ke liye essential hai."
+    },
+    {
+      "qno": 67,
+      "module": 4,
+      "question": "Agar phone mein app download nahi ho rahe hain, to kya check karenge?",
+      "options": {
+        "A": "Speaker functionality",
+        "B": "Internet connection, storage space, Google Play Store settings",
+        "C": "Vibrator motor",
+        "D": "Camera quality"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "App download issues usually internet connectivity, insufficient storage, ya Play Store ke cache/data se related hote hain."
+    },
+    {
+      "qno": 68,
+      "module": 4,
+      "question": "Software troubleshooting mein 'ADB' ka kya use hai?",
+      "options": {
+        "A": "Advanced Battery Doctor",
+        "B": "Android Debug Bridge, jo PC se phone ko control aur debug karta hai",
+        "C": "Automatic Data Backup",
+        "D": "App Development Board"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "ADB (Android Debug Bridge) ek command-line tool hai jo developers aur technicians ko Android device se communicate aur control karne deta hai."
+    },
+    {
+      "qno": 69,
+      "module": 5,
+      "question": "Agar phone ki display tut gayi hai, to repair ke liye kya karna hoga?",
+      "options": {
+        "A": "Sirf glass change karna",
+        "B": "Pura display assembly replace karna",
+        "C": "Phone ko factory reset karna",
+        "D": "Battery ko replace karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Modern smartphones mein, display aur digitizer (touch panel) ek saath laminated hote hain, isliye pura display assembly replace karna padta hai."
+    },
+    {
+      "qno": 70,
+      "module": 5,
+      "question": "Charging port kharab hone ke kya symptoms ho sakte hain?",
+      "options": {
+        "A": "Phone vibrate karna",
+        "B": "Phone charge na hona ya intermittent charge hona",
+        "C": "Screen flicker karna",
+        "D": "Camera kaam na karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Charging port kharab hone par phone charge nahi hota ya baar-baar connect/disconnect hota hai."
+    },
+    {
+      "qno": 71,
+      "module": 5,
+      "question": "Liquid damage wale phone ko repair karne ka pehla step kya hai?",
+      "options": {
+        "A": "Immediately charger lagana",
+        "B": "Phone ko switch off karna aur battery disconnect karna",
+        "C": "Hair dryer se sukhana",
+        "D": "Rice mein rakhna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Liquid damage hone par sabse pehle phone ko switch off karke battery disconnect karna zaroori hai taaki short circuit aur further damage se bacha ja sake."
+    },
+    {
+      "qno": 72,
+      "module": 5,
+      "question": "Agar phone ki battery drain ho rahi hai bahut tez, to kya reason ho sakta hai?",
+      "options": {
+        "A": "Naya display laga hai",
+        "B": "Old/damaged battery, background apps, high brightness",
+        "C": "Charging port saaf hai",
+        "D": "Wi-Fi kaam kar raha hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Battery drain ke common reasons mein old battery, excessive background app usage, aur high screen brightness shamil hain."
+    },
+    {
+      "qno": 73,
+      "module": 5,
+      "question": "Microphone replacement ke liye kaun si technique use hoti hai?",
+      "options": {
+        "A": "Sirf glue se chipka dena",
+        "B": "Soldering ya flex cable replacement",
+        "C": "Tape se lagana",
+        "D": "Screw se tight karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Microphones ya to PCB par solder hote hain ya flex cable ke through connect hote hain, jinhe replace karne ke liye soldering ya flex replacement ki zaroorat hoti hai."
+    },
+    {
+      "qno": 74,
+      "module": 5,
+      "question": "Speaker (loudspeaker) kaam na karne par kya check karenge?",
+      "options": {
+        "A": "Front camera",
+        "B": "Speaker unit, uske connectors, aur audio settings",
+        "C": "Vibrator motor",
+        "D": "SIM card tray"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Speaker issues ke liye speaker unit ki physical condition, uske flex connectors aur phone ke audio settings ko check karna chahiye."
+    },
+    {
+      "qno": 75,
+      "module": 5,
+      "question": "Agar phone ka camera blur photos le raha hai ya focus nahi kar raha, to kya issue ho sakta hai?",
+      "options": {
+        "A": "Battery kharab hai",
+        "B": "Camera lens dirty hai ya camera module damaged hai",
+        "C": "Charging port ganda hai",
+        "D": "Wi-Fi signal weak hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Blur photos ya focusing issues usually dirty camera lens, damaged camera module, ya software glitches ki wajah se hote hain."
+    },
+    {
+      "qno": 76,
+      "module": 5,
+      "question": "Power button ya volume button stuck hone par kya repair option hai?",
+      "options": {
+        "A": "Pura phone replace karna",
+        "B": "Button flex cable assembly replace karna",
+        "C": "Display change karna",
+        "D": "Software update karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Stuck buttons often damaged button flex cable ya debris ke jam jane ki wajah se hote hain, jinhe replace karke theek kiya ja sakta hai."
+    },
+    {
+      "qno": 77,
+      "module": 5,
+      "question": "Agar phone earphone connect karne par bhi sound nahi de raha, to kya check karenge?",
+      "options": {
+        "A": "Main speaker",
+        "B": "Headphone jack ya uski flex cable",
+        "C": "Vibrator motor",
+        "D": "Front camera"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Headphone jack mein problem ya uski connectivity issue ki wajah se earphone mein sound nahi aata."
+    },
+    {
+      "qno": 78,
+      "module": 5,
+      "question": "Liquid damage ke baad PCB ko clean karne ke liye kaun sa solution use karte hain?",
+      "options": {
+        "A": "Normal tap water",
+        "B": "Distilled water aur Isopropyl Alcohol (IPA)",
+        "C": "Bleach",
+        "D": "Soft drink"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Distilled water aur Isopropyl Alcohol (IPA) conductive salts aur corrosion ko remove karne ke liye safe aur effective hain."
+    },
+    {
+      "qno": 79,
+      "module": 5,
+      "question": "Agar phone over-heating ho raha hai, to kya possible reasons ho sakte hain?",
+      "options": {
+        "A": "Cold weather",
+        "B": "Heavy usage, faulty battery, CPU overwork, short circuit",
+        "C": "Low brightness",
+        "D": "Wi-Fi bandh hai"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Over-heating ke reasons mein intensive app usage, degraded battery, CPU par zyada load, ya internal short circuit shamil hain."
+    },
+    {
+      "qno": 80,
+      "module": 5,
+      "question": "SIM card reader damage hone par kya issue aata hai?",
+      "options": {
+        "A": "Phone charge nahi hota",
+        "B": "SIM card detect nahi hota ya network nahi aata",
+        "C": "Display kaam nahi karta",
+        "D": "Sound nahi aata"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "SIM card reader damage hone par phone SIM card ko read nahi kar pata, jisse network connectivity issue hoti hai."
+    },
+    {
+      "qno": 81,
+      "module": 5,
+      "question": "Agar phone mein proximity sensor kaam nahi kar raha, to kya problem hogi?",
+      "options": {
+        "A": "Fingerprint scan nahi hoga",
+        "B": "Calls ke dauran screen off nahi hogi",
+        "C": "Brightness adjust nahi hogi",
+        "D": "Phone vibrate nahi hoga"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Proximity sensor call ke dauran screen ko automatically off karta hai jab phone kaan ke paas hota hai, jisse accidental touches avoid hote hain."
+    },
+    {
+      "qno": 82,
+      "module": 5,
+      "question": "Vibrator motor replace karne ke liye kaun sa tool sabse zaroori hai?",
+      "options": {
+        "A": "Multimeter",
+        "B": "Screwdriver",
+        "C": "Hot air gun",
+        "D": "Pliers"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Vibrator motor usually screws se attached hota hai, isliye screwdriver sabse zaroori tool hai."
+    },
+    {
+      "qno": 83,
+      "module": 5,
+      "question": "Agar phone ki flash light kaam nahi kar rahi, to kya check karenge?",
+      "options": {
+        "A": "Front camera",
+        "B": "Rear camera module, uski connectivity, ya software settings",
+        "C": "Earpiece speaker",
+        "D": "Charging port"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Flash light rear camera module ka part hoti hai. Uski non-functionality ke liye camera module, uske connections ya software settings check karne hote hain."
+    },
+    {
+      "qno": 84,
+      "module": 5,
+      "question": "Home button (physical) kaam na karne par kya repair option hai?",
+      "options": {
+        "A": "Pura display replace karna",
+        "B": "Home button flex cable assembly replace karna",
+        "C": "Battery change karna",
+        "D": "Software update karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Physical home button ki functionality uske flex cable par depend karti hai. Faulty hone par uski assembly replace ki ja sakti hai."
+    },
+    {
+      "qno": 85,
+      "module": 5,
+      "question": "Agar phone mein koi component short circuit dikha raha hai, to uski location kaise find karenge?",
+      "options": {
+        "A": "Randomly components change karke",
+        "B": "Multimeter se continuity check karke aur voltage drop test karke",
+        "C": "Phone ko garam karke",
+        "D": "Sirf visually inspect karke"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Short circuit ki exact location find karne ke liye multimeter se continuity test aur voltage drop method ka use karte hain."
+    },
+    {
+      "qno": 86,
+      "module": 6,
+      "question": "Customer ko repair cost estimate dete samay kya considerations honi chahiye?",
+      "options": {
+        "A": "Sirf part ki cost batana",
+        "B": "Part ki cost, labour charges, aur possible extra charges clear karna",
+        "C": "Customer ko confuse karna",
+        "D": "Sabse zyada cost bata dena"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Transparency maintain karne ke liye customer ko detailed cost breakup dena chahiye, jisme parts aur labour charges shamil hon."
+    },
+    {
+      "qno": 87,
+      "module": 6,
+      "question": "Agar customer phone repair hone ke baad bhi kisi issue ki complaint karta hai, to aapka pehla step kya hoga?",
+      "options": {
+        "A": "Customer ko ignore karna",
+        "B": "Complaint ko sunna aur phone ko re-examine karna",
+        "C": "Customer par gussa hona",
+        "D": "Bolna ki ab phone theek nahi ho sakta"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ki complaint ko sunna aur issue ko dobara troubleshoot karna professional customer service ka part hai."
+    },
+    {
+      "qno": 88,
+      "module": 6,
+      "question": "Koi phone 'dead' hai (bilkul on nahi ho raha), to troubleshooting kahan se shuru karenge?",
+      "options": {
+        "A": "Display change karna",
+        "B": "Battery, charging port, aur power IC section check karna",
+        "C": "Camera module check karna",
+        "D": "Software update karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Dead phone ke liye sabse pehle power source aur power management circuit ko check kiya jata hai, jaise battery, charging port aur Power IC."
+    },
+    {
+      "qno": 89,
+      "module": 6,
+      "question": "Customer ko repair warranty ke baare mein inform karna kyon zaroori hai?",
+      "options": {
+        "A": "Sirf apni marzi se",
+        "B": "Customer trust build karne aur future issues ke liye clarity dene ke liye",
+        "C": "Extra fees charge karne ke liye",
+        "D": "Customer ko darane ke liye"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Repair warranty customer ko assurance deti hai aur technician ki credibility badhati hai."
+    },
+    {
+      "qno": 90,
+      "module": 6,
+      "question": "Agar phone mein water damage hai aur wo on nahi ho raha, to kya karna chahiye?",
+      "options": {
+        "A": "Charger laga kar on karne ki koshish karna",
+        "B": "Phone ko disassemble karke, clean karke, aur dry karke test karna",
+        "C": "Usse ignore karna",
+        "D": "Nayi battery laga dena"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Water damage mein phone ko disassemble karke, corrosion ko clean karke aur components ko properly dry karke hi further troubleshooting karna chahiye."
+    },
+    {
+      "qno": 91,
+      "module": 6,
+      "question": "Customer se phone receive karte samay kya details note karna zaroori hai?",
+      "options": {
+        "A": "Sirf customer ka naam",
+        "B": "Phone model, IMEI, customer ki complaint, aur physical condition",
+        "C": "Customer ki age",
+        "D": "Phone ka colour"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Ye details future reference, ownership verification aur repair history maintain karne ke liye crucial hain."
+    },
+    {
+      "qno": 92,
+      "module": 6,
+      "question": "Agar phone mein short circuit hai aur power supply par high current draw ho raha hai, to kya method use kar sakte hain short ko locate karne ke liye?",
+      "options": {
+        "A": "Sirf visually inspect karna",
+        "B": "Thermal camera ya rosin method use karna",
+        "C": "Randomly ICs remove karna",
+        "D": "Phone ko on karne ki koshish karna"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Thermal camera ya rosin method short circuit wale component ko identify karne mein help karte hain jo heat ho raha hota hai."
+    },
+    {
+      "qno": 93,
+      "module": 6,
+      "question": "Customer ko repair process ke baare mein kya batana chahiye?",
+      "options": {
+        "A": "Kuch nahi, surprise dena chahiye",
+        "B": "Expected time, cost, aur kya repair kiya jayega",
+        "C": "Sirf technical jargon",
+        "D": "Sirf yeh ki phone theek ho jayega"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ko clear communication provide karna unhe inform aur confident feel karata hai."
+    },
+    {
+      "qno": 94,
+      "module": 6,
+      "question": "Agar phone ka network signal weak hai (hardware issue suspect hai), to kya check karenge?",
+      "options": {
+        "A": "Display connection",
+        "B": "Antenna flex cable, RF IC, ya network section mein physical damage",
+        "C": "Charging port",
+        "D": "Vibrator motor"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Weak network signal hardware issue hone par antenna, RF (Radio Frequency) IC, aur network section ke components ko check karna zaroori hai."
+    },
+    {
+      "qno": 95,
+      "module": 6,
+      "question": "Phone repair ke baad final quality check mein kya shamil hai?",
+      "options": {
+        "A": "Sirf phone on ho raha hai ya nahi",
+        "B": "Sabhi functions (display, touch, camera, mic, speaker, charging, network) ka test karna",
+        "C": "Customer ko seedha phone de dena",
+        "D": "Phone ka weight check karna"
+      },
+      "correct": "B",
+      "difficulty": "medium",
+      "explanation": "Comprehensive quality check mein phone ke sabhi major functions ko test karna shamil hai taaki customer ko fully functional phone mile."
+    },
+    {
+      "qno": 96,
+      "module": 6,
+      "question": "Customer ko data privacy ke baare mein kya assurance deni chahiye?",
+      "options": {
+        "A": "Ki uska data dekha jayega",
+        "B": "Ki uske data ko private rakha jayega aur koi access nahi kiya jayega",
+        "C": "Ki data delete kar diya jayega",
+        "D": "Ki data backup lena zaroori nahi hai"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ke personal data ki privacy maintain karna ek professional repair technician ki responsibility hai."
+    },
+    {
+      "qno": 97,
+      "module": 6,
+      "question": "Agar phone mein 'No Service' ka message aa raha hai aur SIM theek hai, to kya possible reason ho sakta hai?",
+      "options": {
+        "A": "Screen damage",
+        "B": "Baseband IC ya RF Transceiver IC mein problem",
+        "C": "Battery low",
+        "D": "Vibrator motor kharab"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "No Service ka issue often Baseband IC ya RF Transceiver IC (network related ICs) mein problem ki wajah se hota hai."
+    },
+    {
+      "qno": 98,
+      "module": 6,
+      "question": "Customer ke phone ko handle karte samay kya precaution leni chahiye?",
+      "options": {
+        "A": "Use carelessly handle karna",
+        "B": "Use apne phone ki tarah carefully handle karna",
+        "C": "Use dusre phones ke saath mix kar dena",
+        "D": "Use gande haathon se touch karna"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer ke phone ko utmost care ke saath handle karna chahiye, jaise ki wo apna hi phone ho."
+    },
+    {
+      "qno": 99,
+      "module": 6,
+      "question": "Agar phone mein charging hoti hai lekin battery percentage increase nahi hota, to kya issue ho sakta hai?",
+      "options": {
+        "A": "Speaker kharab hai",
+        "B": "Charging IC (Tristar/U2 IC) ya battery management system mein problem",
+        "C": "Camera focus nahi kar raha",
+        "D": "Wi-Fi kaam nahi kar raha"
+      },
+      "correct": "B",
+      "difficulty": "hard",
+      "explanation": "Charging hoti hai par percentage increase na hone ka matlab hai ki power input to hai, par battery use store ya recognize nahi kar pa rahi, jo Charging IC ya BMS se related ho sakta hai."
+    },
+    {
+      "qno": 100,
+      "module": 6,
+      "question": "Customer ko repaired phone wapas dete samay kya ensure karna chahiye?",
+      "options": {
+        "A": "Sirf phone on ho",
+        "B": "Customer ko phone ki working condition dikhana aur koi bhi doubt clear karna",
+        "C": "Jaldi se jaldi phone de dena",
+        "D": "Customer ko repair ke baare mein kuch na batana"
+      },
+      "correct": "B",
+      "difficulty": "easy",
+      "explanation": "Customer satisfaction ke liye unhe repair ki working condition dikhana aur unke sabhi sawalon ka jawab dena zaroori hai."
+    }
+  ]
+}
