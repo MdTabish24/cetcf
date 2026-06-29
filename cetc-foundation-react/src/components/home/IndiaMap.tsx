@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from 'react-simple-maps';
+import { ComposableMap, Geographies, Geography, Marker } from 'react-simple-maps';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Phone, Mail, Building, Navigation } from 'lucide-react';
 
@@ -100,10 +100,10 @@ export default function IndiaMap() {
           height={380}
         >
           <Geographies geography={INDIA_TOPO}>
-            {({ geographies }) =>
+            {({ geographies }: { geographies: any[] }) =>
               geographies
-                .filter((geo) => geo.properties.name === 'India')
-                .map((geo) => (
+                .filter((geo: any) => geo.properties.name === 'India')
+                .map((geo: any) => (
                   <Geography
                     key={geo.rsmKey}
                     geography={geo}
