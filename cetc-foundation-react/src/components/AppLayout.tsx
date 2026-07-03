@@ -30,7 +30,6 @@ export default function AppLayout() {
       <nav className="navbar" id="main-nav" style={{ background: 'rgba(2, 11, 24, 0.85)', backdropFilter: 'blur(12px)', borderBottom: '1px solid var(--border)' }}>
         <div className="navbar-inner">
           <Link to="/" className="nav-brand" id="nav-brand" style={{ color: 'var(--text-main)' }}>
-            <img src="/favicon.svg" alt="CETCF Logo" style={{ height: '36px', marginRight: '4px' }} />
             <div className="nav-brand-text">
               <span className="nav-brand-name">CETCF</span>
               <span className="nav-brand-sub">Education · Training · Certification</span>

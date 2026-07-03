@@ -12,7 +12,7 @@ const translations: Record<string, Record<Lang, string>> = {
   // Navbar
   'nav.home': { en: 'Home', hi: 'होम' },
   'nav.courses': { en: 'Courses', hi: 'कोर्सेज़' },
-  'nav.verify': { en: 'Verify', hi: 'सत्यापन' },
+  'nav.verify': { en: 'Verification', hi: 'सत्यापन' },
   'nav.partner': { en: 'Partner (AAC)', hi: 'पार्टनर (AAC)' },
   'nav.about': { en: 'About', hi: 'हमारे बारे में' },
   'nav.login': { en: 'Login', hi: 'लॉगिन' },
