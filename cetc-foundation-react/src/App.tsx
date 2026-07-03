@@ -23,7 +23,7 @@ function App() {
         <Route path="certifications" element={<Navigate to="/courses" replace />} />
         <Route path="exam" element={<ExamPage />} />
         <Route path="exam/:slug" element={<ExamTakePage />} />
-        <Route path="Verification" element={<VerifyPage />} />
+        <Route path="verify" element={<VerifyPage />} />
         <Route path="partner" element={<PartnerPage />} />
         <Route path="about" element={<AboutPage />} />
         <Route path="login" element={<LoginPage />} />
