@@ -21,8 +21,8 @@ export default function AppLayout() {
     <>
       {/* ── Banner (Home Page Only) ────────────────────── */}
       {location.pathname === '/' && (
-        <div style={{ width: '100%' }}>
-          <img src="/cetcf_banner_header.png" alt="CETCF Banner" style={{ width: '100%', height: 'clamp(250px, 45vh, 450px)', display: 'block', objectFit: 'cover', objectPosition: 'center' }} />
+        <div style={{ width: '100%', height: '45vh', overflow: 'hidden' }}>
+          <img src="/cetcf_banner_header.png" alt="CETCF Banner" style={{ width: '100%', height: '100%', display: 'block' }} />
         </div>
       )}
 
