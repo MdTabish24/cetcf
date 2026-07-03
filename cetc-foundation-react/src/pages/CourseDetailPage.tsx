@@ -123,9 +123,6 @@ export default function CourseDetailPage() {
             <span className="course-meta-tag" style={{ background: 'rgba(255,255,255,0.08)', color: 'rgba(255,255,255,0.7)', border: '1px solid rgba(255,255,255,0.12)', display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
               <Calendar size={14} /> Duration: {course.duration}
             </span>
-            <span className={`badge badge-${course.level.toLowerCase()}`}>
-              {course.level}
-            </span>
           </div>
         </div>
       </section>

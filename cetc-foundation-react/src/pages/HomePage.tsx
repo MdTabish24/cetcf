@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { BookOpen, Landmark, Award, ClipboardCheck, Globe, GraduationCap, PlayCircle, Trophy, Handshake } from 'lucide-react';
+import { Landmark, Award, ClipboardCheck, Globe, GraduationCap, PlayCircle, Trophy } from 'lucide-react';
 import { SECTORS } from '../data/courses';
 import { useLang } from '../context/LangContext';
 
@@ -158,7 +158,7 @@ export default function HomePage() {
                 { icon: <Globe size={24} color="var(--gold)" />, text: t('trust.panIndia') },
                 { icon: <GraduationCap size={24} color="var(--gold)" />, text: t('trust.rpl') }
               ].map((item, i) => (
-                <div key={i} className="trust-item" style={{ display: 'inline-flex', alignItems: 'center', gap: '12px', fontSize: '16px', fontWeight: 600, color: 'var(--text-main)' }}>
+                <div key={i} className="trust-item" style={{ display: 'inline-flex', alignItems: 'center', gap: '12px', fontSize: '24px', fontWeight: 600, color: 'var(--text-main)' }}>
                   <div style={{ padding: '12px', background: 'rgba(184, 134, 11, 0.1)', borderRadius: '12px', border: '1px solid rgba(184, 134, 11, 0.2)' }}>
                     {item.icon}
                   </div>
@@ -318,40 +318,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ══════════════════════════════════════════════════════
-          CTA BANNER
-          ══════════════════════════════════════════════════════ */}
-      <section style={{
-        background: 'var(--navy)',
-        padding: '80px 0',
-        textAlign: 'center',
-        position: 'relative',
-        overflow: 'hidden',
-      }}>
-        <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '100%', height: '100%', background: 'radial-gradient(circle, rgba(184, 134, 11, 0.15) 0%, transparent 60%)', zIndex: 0 }} />
-        <div className="wrap" style={{ position: 'relative', zIndex: 2 }}>
-          <h2 style={{
-            fontFamily: 'var(--font-display)',
-            fontSize: 'clamp(32px, 4vw, 48px)',
-            color: '#fff',
-            fontWeight: 800,
-            marginBottom: '16px',
-          }}>
-            {t('cta.title1')} <span className="glow-text" style={{ color: 'var(--gold)' }}>{t('cta.title2')}</span>
-          </h2>
-          <p style={{ fontSize: '18px', color: 'rgba(255,255,255,0.7)', maxWidth: '600px', margin: '0 auto 40px', lineHeight: 1.6 }}>
-            {t('cta.sub')}
-          </p>
-          <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
-            <Link to="/courses" className="btn" style={{ background: 'var(--gold)', color: '#fff', fontWeight: 700, display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
-              <BookOpen size={18} /> {t('cta.explore')}
-            </Link>
-            <Link to="/partner" className="btn btn-outline" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', borderColor: 'var(--border)', color: '#fff' }}>
-              <Handshake size={18} /> {t('cta.partner')}
-            </Link>
-          </div>
-        </div>
-      </section>
+
     </>
   );
 }

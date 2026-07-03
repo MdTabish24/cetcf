@@ -9,7 +9,6 @@ export default function CertificationsPage() {
 
   const [search, setSearch] = useState('');
   const [activeSector, setActiveSector] = useState(initialSector);
-  const [activeLevel, setActiveLevel] = useState('');
 
   const createDropEffect = (e: React.MouseEvent, sectorName: string) => {
     const emojis: Record<string, string[]> = {
@@ -72,10 +71,9 @@ export default function CertificationsPage() {
     return COURSES.filter((c) => {
       const matchSearch = !search || c.name.toLowerCase().includes(search.toLowerCase()) || c.sector.toLowerCase().includes(search.toLowerCase());
       const matchSector = !activeSector || c.sector === activeSector;
-      const matchLevel = !activeLevel || c.level === activeLevel;
-      return matchSearch && matchSector && matchLevel;
+      return matchSearch && matchSector;
     });
-  }, [search, activeSector, activeLevel]);
+  }, [search, activeSector]);
 
   return (
     <>
@@ -86,7 +84,7 @@ export default function CertificationsPage() {
           <h1>225+ Certifications Across <span style={{ color: 'var(--gold-light)' }}>23 Sectors</span></h1>
           <p className="page-hero-sub">
             Browse our complete range of government-recognized vocational certifications.
-            Filter by sector, level, or search for a specific course.
+            Filter by sector or search for a specific course.
           </p>
         </div>
       </section>
@@ -112,28 +110,6 @@ export default function CertificationsPage() {
                 <X size={16} />
               </button>
             )}
-          </div>
-
-          {/* Level Filters */}
-          <div className="filter-pills" id="level-filters">
-            <button
-              className={`filter-pill ${!activeLevel ? 'active' : ''}`}
-              onClick={() => setActiveLevel('')}
-            >
-              All Levels ({COURSES.length})
-            </button>
-            {['Foundation', 'Intermediate', 'Advanced'].map((level) => {
-              const count = COURSES.filter(c => c.level === level).length;
-              return (
-                <button
-                  key={level}
-                  className={`filter-pill ${activeLevel === level ? 'active' : ''}`}
-                  onClick={() => setActiveLevel(activeLevel === level ? '' : level)}
-                >
-                  {level} ({count})
-                </button>
-              );
-            })}
           </div>
 
           <div className="page-layout">
@@ -176,7 +152,6 @@ export default function CertificationsPage() {
               <p style={{ fontSize: '14px', color: 'var(--muted)', marginBottom: '24px', paddingBottom: '16px', borderBottom: '1px solid var(--border)' }}>
                 Showing <strong style={{ color: 'var(--text-main)' }}>{filtered.length}</strong> course{filtered.length !== 1 ? 's' : ''}
                 {activeSector && <> in <strong style={{ color: 'var(--text-main)' }}>{activeSector}</strong></>}
-                {activeLevel && <> · <strong style={{ color: 'var(--text-main)' }}>{activeLevel}</strong> level</>}
               </p>
 
           {/* Courses Grid */}
@@ -195,14 +170,11 @@ export default function CertificationsPage() {
                     <div className="course-card-top" style={{ background: `linear-gradient(90deg, ${color}, ${color}88)` }}></div>
                     <div className="course-card-body">
                       <div className="course-card-sector" style={{ color }}>
-                        {course.icon} {course.sector}
+                        Sector: {course.sector}
                       </div>
-                      <h3 className="course-card-title">{course.name}</h3>
+                      <h3 className="course-card-title">Course: {course.name}</h3>
                       <div className="course-card-meta">
                         <span className="course-meta-tag" style={{ display: 'inline-flex', alignItems: 'center', gap: '6px' }}><Calendar size={14} /> {course.duration}</span>
-                        <span className={`badge badge-${course.level.toLowerCase()}`}>
-                          {course.level}
-                        </span>
                       </div>
                     </div>
                     <div className="course-card-footer">

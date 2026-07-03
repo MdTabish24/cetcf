@@ -249,7 +249,7 @@ export default function PartnerPage() {
           <span className="sec-eyebrow" style={{ color: 'var(--gold-light)' }}>Partnership Program</span>
           <h1>Become an <span style={{ color: 'var(--gold-light)' }}>Authorized Assessment Center</span></h1>
           <p className="page-hero-sub">
-            Join CETCF's partner network. Earn commissions for every certified candidate.
+            Join CETCF's partner network. Empower your institute with national recognition.
             Operate your own government-authorized assessment center in your city.
           </p>
           <div style={{ marginTop: '24px', display: 'flex', gap: '16px', justifyContent: 'center' }}>
@@ -288,9 +288,9 @@ export default function PartnerPage() {
                 <h2 className="sec-title">AAC Partner Benefits</h2>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '16px', marginTop: '32px' }}>
                   {[
-                    { icon: <Wallet size={36} color="var(--cetc-gold)" />, title: 'Earn Per Certification', desc: 'Receive a commission for every candidate you certify.' },
-                    { icon: <Landmark size={36} color="var(--cetc-gold)" />, title: 'Government Recognition', desc: 'Your center operates under CETCF\'s Section 8 license.' },
-                    { icon: <ClipboardCheck size={36} color="var(--cetc-gold)" />, title: 'Ready-to-Use Exams', desc: 'We provide MCQs, online platform, and study materials.' }
+                    { icon: <Wallet size={36} color="var(--cetc-gold)" />, title: 'National Recognition', desc: 'Your institute gets listed as an Authorized Assessment Center.' },
+                    { icon: <Landmark size={36} color="var(--cetc-gold)" />, title: 'Government Authorization', desc: 'Your center operates under CETCF\'s Section 8 license guidelines.' },
+                    { icon: <ClipboardCheck size={36} color="var(--cetc-gold)" />, title: 'Ready-to-Use Platform', desc: 'We provide MCQs, online examination platform, and certification portal.' }
                   ].map((item, i) => (
                     <div key={i} className="card" style={{ padding: '24px', textAlign: 'center' }}>
                       <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px' }}>{item.icon}</div>
@@ -362,7 +362,7 @@ export default function PartnerPage() {
                         <input className="form-input" type="email" name="email" required value={formData.email} onChange={e => setFormData({...formData, email: e.target.value})} />
                       </div>
                       <div className="form-group">
-                        <label className="form-label">Center Name</label>
+                        <label className="form-label">Institute Name</label>
                         <input className="form-input" type="text" name="centerName" value={formData.centerName} onChange={e => setFormData({...formData, centerName: e.target.value})} />
                       </div>
                       <div className="form-group">
@@ -372,6 +372,10 @@ export default function PartnerPage() {
                       <div className="form-group">
                         <label className="form-label">State *</label>
                         <input className="form-input" type="text" name="state" required value={formData.state} onChange={e => setFormData({...formData, state: e.target.value})} />
+                      </div>
+                      <div className="form-group" style={{ gridColumn: '1 / -1' }}>
+                        <label className="form-label">Courses currently run at your institute</label>
+                        <textarea className="form-input" rows={3} value={formData.message} onChange={e => setFormData({...formData, message: e.target.value})} placeholder="E.g. Beautician, Computer Basic..."></textarea>
                       </div>
                     </div>
                     <div style={{ textAlign: 'center', marginTop: '24px' }}>
@@ -384,6 +388,38 @@ export default function PartnerPage() {
               </div>
             </>
           )}
+        </div>
+      </section>
+
+      {/* ══════════════════════════════════════════════════════
+          CTA BANNER (Moved from Home Page)
+          ══════════════════════════════════════════════════════ */}
+      <section style={{
+        background: 'var(--navy)',
+        padding: '80px 0',
+        textAlign: 'center',
+        position: 'relative',
+        overflow: 'hidden',
+      }}>
+        <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '100%', height: '100%', background: 'radial-gradient(circle, rgba(184, 134, 11, 0.15) 0%, transparent 60%)', zIndex: 0 }} />
+        <div className="wrap" style={{ position: 'relative', zIndex: 2 }}>
+          <h2 style={{
+            fontFamily: 'var(--font-display)',
+            fontSize: 'clamp(32px, 4vw, 48px)',
+            color: '#fff',
+            fontWeight: 800,
+            marginBottom: '16px',
+          }}>
+            Initiate Your <span className="glow-text" style={{ color: 'var(--gold)' }}>Next Step</span>
+          </h2>
+          <p style={{ fontSize: '18px', color: 'rgba(255,255,255,0.7)', maxWidth: '600px', margin: '0 auto 40px', lineHeight: 1.6 }}>
+            Join our network of authorized centers and bring quality education to your city.
+          </p>
+          <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
+            <button className="btn" onClick={() => window.scrollTo({top: 0, behavior: 'smooth'})} style={{ background: 'var(--gold)', color: '#fff', fontWeight: 700, display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+              <Handshake size={18} /> Apply Now
+            </button>
+          </div>
         </div>
       </section>
     </>
