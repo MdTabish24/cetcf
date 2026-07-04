@@ -87,6 +87,12 @@ app.use(
         return;
       }
 
+      // Hardcode live domain variations to prevent CORS issues caused by .env protocol mismatch
+      if (origin.includes('cetcf.org')) {
+        callback(null, true);
+        return;
+      }
+
       let normalizedOrigin = origin;
       try {
         normalizedOrigin = new URL(origin).origin;
