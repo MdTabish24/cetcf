@@ -24,15 +24,23 @@ export default function CourseDetailPage() {
   
   // Auth Modal State
   const [showAuth, setShowAuth] = useState(false);
-  const [authStep, setAuthStep] = useState<'mobile' | 'otp'>('mobile');
+  const [authStep, setAuthStep] = useState<'mobile' | 'otp' | 'profile'>('mobile');
   const [mobile, setMobile] = useState('');
   const [otp, setOtp] = useState('');
+  const [name, setName] = useState('');
+  const [photo, setPhoto] = useState<File | null>(null);
   const [pendingPathway, setPendingPathway] = useState<'video' | 'rpl' | null>(null);
 
   const handleAction = (pathway: 'video' | 'rpl') => {
     const user = getUser() as any;
     if (!user) {
       setPendingPathway(pathway);
+      setShowAuth(true);
+      return;
+    }
+    if (!user.name || !user.photo_url) {
+      setPendingPathway(pathway);
+      setAuthStep('profile');
       setShowAuth(true);
       return;
     }
@@ -89,12 +97,44 @@ export default function CourseDetailPage() {
     if (res.success && res.token && res.user) {
       setToken(res.token as string);
       setUser(res.user as Record<string, unknown>);
-      setShowAuth(false);
-      if (pendingPathway) {
-        startCheckout(res.user, pendingPathway);
+      
+      const user = res.user as any;
+      if (!user.profileComplete) {
+        setAuthStep('profile');
+      } else {
+        setShowAuth(false);
+        if (pendingPathway) {
+          startCheckout(user, pendingPathway);
+        }
       }
     } else {
       setError(res.message || 'Invalid OTP');
+    }
+  };
+
+  const handleSaveProfile = async () => {
+    if (!name.trim() || !photo) return setError('Please provide name and passport photo');
+    setLoading(true);
+    setError('');
+    try {
+      const { candidateApi } = await import('../services/api');
+      const photoRes = await candidateApi.uploadPhoto(photo);
+      if (!photoRes.success) throw new Error(photoRes.message || 'Photo upload failed');
+      
+      const profRes = await candidateApi.updateProfile({ name });
+      if (!profRes.success) throw new Error(profRes.message || 'Profile update failed');
+
+      const updatedUser = { ...getUser(), name, photo_url: photoRes.photoUrl, profileComplete: true };
+      setUser(updatedUser);
+      
+      setShowAuth(false);
+      if (pendingPathway) {
+        startCheckout(updatedUser, pendingPathway);
+      }
+    } catch (err: any) {
+      setError(err.message || 'Failed to save profile');
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -322,7 +362,7 @@ export default function CourseDetailPage() {
               Please enter your mobile number to continue with purchase.
             </p>
             
-            {authStep === 'mobile' ? (
+            {authStep === 'mobile' && (
               <div className="form-group">
                 <label className="form-label">Mobile Number</label>
                 <input 
@@ -341,7 +381,9 @@ export default function CourseDetailPage() {
                   {loading ? 'Sending...' : 'Send OTP'}
                 </button>
               </div>
-            ) : (
+            )}
+            
+            {authStep === 'otp' && (
               <div className="form-group">
                 <label className="form-label">Enter OTP</label>
                 <input 
@@ -362,6 +404,42 @@ export default function CourseDetailPage() {
                 <div style={{ textAlign: 'center', marginTop: '16px' }}>
                   <button onClick={() => setAuthStep('mobile')} style={{ background: 'none', border: 'none', color: 'var(--muted)', fontSize: '12px', cursor: 'pointer', textDecoration: 'underline' }}>Change Mobile Number</button>
                 </div>
+              </div>
+            )}
+
+            {authStep === 'profile' && (
+              <div className="form-group">
+                <p style={{ fontSize: '13px', color: 'var(--muted)', marginBottom: '16px' }}>Please complete your profile to receive your certificate.</p>
+                
+                <label className="form-label">Full Name</label>
+                <input 
+                  type="text" 
+                  className="form-control" 
+                  placeholder="As per Aadhaar/Govt ID"
+                  value={name}
+                  onChange={e => setName(e.target.value)}
+                  style={{ marginBottom: '16px' }}
+                />
+                
+                <label className="form-label">Passport Size Photo</label>
+                <div style={{ border: '1px dashed rgba(255,255,255,0.2)', padding: '16px', borderRadius: '8px', background: 'rgba(0,0,0,0.2)', marginBottom: '16px' }}>
+                  <input 
+                    type="file" 
+                    accept="image/*"
+                    onChange={e => setPhoto(e.target.files?.[0] || null)}
+                    style={{ fontSize: '12px', color: '#fff', width: '100%' }}
+                  />
+                  {photo && <div style={{ fontSize: '11px', color: 'var(--success)', marginTop: '8px' }}>Selected: {photo.name}</div>}
+                </div>
+
+                <button 
+                  className="btn btn-gold" 
+                  style={{ width: '100%', marginTop: '16px' }}
+                  onClick={handleSaveProfile}
+                  disabled={loading || !name.trim() || !photo}
+                >
+                  {loading ? 'Saving...' : 'Save & Proceed to Payment'}
+                </button>
               </div>
             )}
             
