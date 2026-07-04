@@ -94,6 +94,9 @@ export const authApi = {
 
   verifyOtp: (mobile: string, otp: string) =>
     request('POST', '/auth/verify-otp', { mobile, otp }, { auth: false }),
+    
+  widgetLogin: (mobile: string) =>
+    request('POST', '/auth/widget-login', { mobile }, { auth: false }),
 
   partnerLogin: (mobile: string, password: string) =>
     request('POST', '/auth/partner/login', { mobile, password }, { auth: false }),

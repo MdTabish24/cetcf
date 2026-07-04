@@ -87,6 +87,57 @@ router.post('/verify-otp', validateVerifyOtp, async (req, res) => {
     return res.status(500).json({ success: false, message: 'Server error. Please try again.' });
   }
 });
+/**
+ * POST /api/auth/widget-login
+ * Login/register candidate after successful MSG91 Widget OTP verification
+ */
+router.post('/widget-login', async (req, res) => {
+  const { mobile } = req.body;
+  if (!mobile || mobile.length < 10) {
+    return res.status(400).json({ success: false, message: 'Invalid mobile number' });
+  }
+
+  try {
+    // Check if user exists
+    let user = (await db.query('SELECT * FROM users WHERE mobile = $1', [mobile])).rows[0];
+    let isNewUser = false;
+
+    if (!user) {
+      // Create new user
+      const result = await db.query(
+        'INSERT INTO users (mobile, role) VALUES ($1, $2) RETURNING *',
+        [mobile, 'candidate']
+      );
+      user = result.rows[0];
+      isNewUser = true;
+    }
+
+    const token = generateToken({
+      id: user.id,
+      mobile: user.mobile,
+      name: user.name,
+      role: user.role,
+    });
+
+    return res.json({
+      success: true,
+      isNewUser,
+      token,
+      user: {
+        id: user.id,
+        mobile: user.mobile,
+        name: user.name,
+        email: user.email,
+        photo_url: user.photo_url,
+        role: user.role,
+        profileComplete: !!(user.name && user.photo_url),
+      },
+    });
+  } catch (err) {
+    console.error('[Auth] widget-login error:', err);
+    return res.status(500).json({ success: false, message: 'Server error during widget login.' });
+  }
+});
 
 /**
  * POST /api/auth/partner/login
