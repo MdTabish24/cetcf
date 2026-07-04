@@ -291,13 +291,14 @@ export default function CourseDetailPage() {
               >
                 <GraduationCap size={18} /> Buy Video Course — ₹{(course.fee + 500).toLocaleString('en-IN')}
               </button>
-              <Link 
-                to={`/exam/${course.slug}`}
+              <button 
+                onClick={() => handleAction('rpl')}
                 className="btn btn-outline" 
+                disabled={loading}
                 style={{ background: 'rgba(255,255,255,0.1)', display: 'inline-flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}
               >
-                <Zap size={18} /> Take Exam Now — Free
-              </Link>
+                <Zap size={18} /> Take Exam Now — ₹{course.fee.toLocaleString('en-IN')}
+              </button>
               {error && <div style={{ width: '100%', color: '#ff6b6b', fontSize: '14px', marginTop: '8px' }}>{error}</div>}
             </div>
           </div>
