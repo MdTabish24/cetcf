@@ -86,6 +86,8 @@ router.post('/verify-otp', validateVerifyOtp, async (req, res) => {
     console.error('[Auth] verify-otp error:', err);
     return res.status(500).json({ success: false, message: 'Server error. Please try again.' });
   }
+});
+
 /**
  * GET /api/auth/msg91-token
  * Generates a dynamic JWT token for the MSG91 frontend widget
