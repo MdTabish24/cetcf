@@ -86,7 +86,33 @@ router.post('/verify-otp', validateVerifyOtp, async (req, res) => {
     console.error('[Auth] verify-otp error:', err);
     return res.status(500).json({ success: false, message: 'Server error. Please try again.' });
   }
+/**
+ * GET /api/auth/msg91-token
+ * Generates a dynamic JWT token for the MSG91 frontend widget
+ */
+router.get('/msg91-token', async (req, res) => {
+  try {
+    const axios = require('axios');
+    const response = await axios.post('https://api.msg91.com/api/v5/widget/createJWT', {
+      widgetId: "3667636d5342333438373336"
+    }, {
+      headers: {
+        'authkey': '547193AK7ky5YSWq6a47bf8bP1',
+        'Content-Type': 'application/json'
+      }
+    });
+    
+    if (response.data && response.data.tokenAuth) {
+      return res.json({ success: true, tokenAuth: response.data.tokenAuth });
+    } else {
+      throw new Error('Invalid response from MSG91');
+    }
+  } catch (err) {
+    console.error('[Auth] msg91-token error:', err.response?.data || err.message);
+    return res.status(500).json({ success: false, message: 'OTP Service unavailable' });
+  }
 });
+
 /**
  * POST /api/auth/widget-login
  * Login/register candidate after successful MSG91 Widget OTP verification

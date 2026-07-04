@@ -78,9 +78,22 @@ export default function CourseDetailPage() {
     setLoading(true);
     setError('');
     
+    let dynamicToken = "";
+    try {
+      const tokenRes = await api.auth.getMsg91Token();
+      if (tokenRes.success && tokenRes.tokenAuth) {
+        dynamicToken = tokenRes.tokenAuth as string;
+      } else {
+        throw new Error('Failed to generate secure token');
+      }
+    } catch (e) {
+      setLoading(false);
+      return setError('Failed to connect to OTP service. Please try again.');
+    }
+
     const configuration = {
       widgetId: "3667636d5342333438373336",
-      tokenAuth: "547193TRa84CYBG6a47be3aP1",
+      tokenAuth: dynamicToken,
       identifier: mobile,
       success: async (_data: any) => {
         try {

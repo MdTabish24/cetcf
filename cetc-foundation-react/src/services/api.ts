@@ -89,6 +89,9 @@ async function request<T = unknown>(
 // ── Auth APIs ─────────────────────────────────────────────────────────
 
 export const authApi = {
+  getMsg91Token: () =>
+    request('GET', '/auth/msg91-token', undefined, { auth: false }),
+
   sendOtp: (mobile: string) =>
     request('POST', '/auth/send-otp', { mobile }, { auth: false }),
 
