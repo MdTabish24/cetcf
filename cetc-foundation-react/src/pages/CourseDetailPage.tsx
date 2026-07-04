@@ -115,6 +115,7 @@ export default function CourseDetailPage() {
 
     if ((window as any).initSendOTP) {
       (window as any).initSendOTP(configuration);
+      setLoading(false); // Stop our loading spinner so the user can use the widget
     } else {
       setLoading(false);
       setError("OTP Service is currently loading or blocked. Please try again.");
