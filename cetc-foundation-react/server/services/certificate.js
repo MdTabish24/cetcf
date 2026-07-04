@@ -132,6 +132,14 @@ async function generateCertificatePDF(data) {
       doc.image(photoBuffer, W - 110, 60, { width: photoWidth, height: photoHeight });
       // Add a border to the photo
       doc.rect(W - 110, 60, photoWidth, photoHeight).lineWidth(1).stroke('#333333');
+      
+      // Overlay Stamp
+      try {
+        const stampPath = path.join(__dirname, '../assets/stamp.png');
+        doc.image(stampPath, W - 120, 100, { width: 60, height: 60 });
+      } catch (err) {
+        console.warn('Stamp image not found');
+      }
     } catch (err) {
       console.warn('Failed to load passport photo for certificate:', err.message);
     }
