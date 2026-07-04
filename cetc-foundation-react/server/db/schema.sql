@@ -39,11 +39,11 @@ CREATE TABLE IF NOT EXISTS trades (
   syllabus_topics TEXT[],
   fee INTEGER NOT NULL DEFAULT 1000,        -- in INR
   passing_marks INTEGER NOT NULL DEFAULT 40,
-  question_count INTEGER NOT NULL DEFAULT 60,
+  question_count INTEGER NOT NULL DEFAULT 20,
   duration_mins INTEGER NOT NULL DEFAULT 90,
-  difficulty_easy_pct INTEGER DEFAULT 40,
-  difficulty_medium_pct INTEGER DEFAULT 40,
-  difficulty_hard_pct INTEGER DEFAULT 20,
+  difficulty_easy_pct INTEGER DEFAULT 50,
+  difficulty_medium_pct INTEGER DEFAULT 25,
+  difficulty_hard_pct INTEGER DEFAULT 25,
   commission_rate INTEGER DEFAULT 200,      -- per passed candidate
   is_active BOOLEAN DEFAULT TRUE,
   created_at TIMESTAMP DEFAULT NOW()
