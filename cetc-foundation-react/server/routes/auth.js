@@ -94,23 +94,17 @@ router.post('/verify-otp', validateVerifyOtp, async (req, res) => {
  */
 router.get('/msg91-token', async (req, res) => {
   try {
-    const axios = require('axios');
-    const response = await axios.post('https://api.msg91.com/api/v5/widget/createJWT', {
-      widgetId: "3667636d5342333438373336"
-    }, {
-      headers: {
-        'authkey': '547193AK7ky5YSWq6a47bf8bP1',
-        'Content-Type': 'application/json'
-      }
-    });
+    // MSG91 tokenAuth is a static token from the MSG91 dashboard,
+    // not generated via API. Use it directly from environment config.
+    const tokenAuth = process.env.MSG91_TOKEN_AUTH || '547193TRa84CYBG6a47be3aP1';
     
-    if (response.data && response.data.tokenAuth) {
-      return res.json({ success: true, tokenAuth: response.data.tokenAuth });
-    } else {
-      throw new Error('Invalid response from MSG91');
+    if (!tokenAuth) {
+      throw new Error('MSG91_TOKEN_AUTH not configured');
     }
+    
+    return res.json({ success: true, tokenAuth });
   } catch (err) {
-    console.error('[Auth] msg91-token error:', err.response?.data || err.message);
+    console.error('[Auth] msg91-token error:', err.message);
     return res.status(500).json({ success: false, message: 'OTP Service unavailable' });
   }
 });
