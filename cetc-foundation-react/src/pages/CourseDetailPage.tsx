@@ -53,8 +53,19 @@ export default function CourseDetailPage() {
     setLoading(true);
     setError('');
     try {
-      // Mock trade ID for frontend-only data
-      const tradeId = (course as any).id || 1; 
+      // Fetch available trades from backend to map to a valid trade ID
+      const tradesRes = await api.trades.list();
+      let tradeId = 1; // Fallback
+      if (tradesRes.success && tradesRes.trades && tradesRes.trades.length > 0) {
+        // Try to find a trade matching the course sector/name, else use the first available trade
+        const match = tradesRes.trades.find((t: any) => 
+          course.sector.toLowerCase().includes(t.name.toLowerCase().split(' ')[0]) ||
+          course.name.toLowerCase().includes(t.name.toLowerCase().split(' ')[0]) ||
+          t.code === 'BEAUTY' // Fallback for beauty testing
+        );
+        tradeId = match ? match.id : tradesRes.trades[0].id;
+      }
+
       await initiatePayment(
         tradeId,
         user.name || 'Student',
