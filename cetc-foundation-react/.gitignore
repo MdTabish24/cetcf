@@ -31,4 +31,8 @@ generated/
 rzp-key.csv
 credentials_of_otp.txt
 *.csv
-*.txt
+
+# Large generated files — don't push to GitHub
+certificate template/
+generate_all.py
+cetcf_new_website.html
