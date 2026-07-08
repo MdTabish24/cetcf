@@ -24,17 +24,20 @@ export default function CourseDetailPage() {
   
   // Auth Modal State
   const [showAuth, setShowAuth] = useState(false);
-  const [authStep, setAuthStep] = useState<'mobile' | 'profile'>('mobile');
+  const [authStep, setAuthStep] = useState<'mobile' | 'otp' | 'profile'>('mobile');
   const [mobile, setMobile] = useState('');
+  const [otp, setOtp] = useState('');
   const [name, setName] = useState('');
   const [photo, setPhoto] = useState<File | null>(null);
   const [pendingPathway, setPendingPathway] = useState<'video' | 'rpl' | null>(null);
+  const [devOtp, setDevOtp] = useState('');
 
   const handleAction = (pathway: 'video' | 'rpl') => {
     const user = getUser() as any;
     if (!user) {
       setPendingPathway(pathway);
       setShowAuth(true);
+      setAuthStep('mobile');
       return;
     }
     if (!user.name || !user.photo_url) {
@@ -74,64 +77,56 @@ export default function CourseDetailPage() {
   };
 
   const handleSendOtp = async () => {
-    if (mobile.length !== 10) return setError('Invalid mobile number');
+    if (mobile.length !== 10) return setError('Please enter a valid 10-digit mobile number');
+    setLoading(true);
+    setError('');
+    setDevOtp('');
+    
+    try {
+      const res = await api.auth.sendOtp(mobile);
+      if (res.success) {
+        setAuthStep('otp');
+        // In dev mode, show the OTP for testing
+        if (res.devOtp) {
+          setDevOtp(res.devOtp as string);
+        }
+      } else {
+        setError(res.message || 'Failed to send OTP. Please try again.');
+      }
+    } catch (e) {
+      setError('Failed to send OTP. Please try again.');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleVerifyOtp = async () => {
+    if (otp.length !== 6) return setError('Please enter the 6-digit OTP');
     setLoading(true);
     setError('');
     
-    let dynamicToken = "";
     try {
-      const tokenRes = await api.auth.getMsg91Token();
-      if (tokenRes.success && tokenRes.tokenAuth) {
-        dynamicToken = tokenRes.tokenAuth as string;
+      const res = await api.auth.verifyOtp(mobile, otp);
+      if (res.success && res.token && res.user) {
+        setToken(res.token as string);
+        setUser(res.user as Record<string, unknown>);
+        
+        const user = res.user as any;
+        if (!user.profileComplete) {
+          setAuthStep('profile');
+        } else {
+          setShowAuth(false);
+          if (pendingPathway) {
+            startCheckout(user, pendingPathway);
+          }
+        }
       } else {
-        throw new Error('Failed to generate secure token');
+        setError(res.message || 'Invalid OTP. Please try again.');
       }
     } catch (e) {
+      setError('Verification failed. Please try again.');
+    } finally {
       setLoading(false);
-      return setError('Failed to connect to OTP service. Please try again.');
-    }
-
-    const configuration = {
-      widgetId: "3667636d5342333438373336",
-      tokenAuth: dynamicToken,
-      identifier: mobile,
-      success: async (_data: any) => {
-        try {
-          const res = await api.auth.widgetLogin(mobile);
-          if (res.success && res.token && res.user) {
-            setToken(res.token as string);
-            setUser(res.user as Record<string, unknown>);
-            
-            const user = res.user as any;
-            if (!user.profileComplete) {
-              setAuthStep('profile');
-            } else {
-              setShowAuth(false);
-              if (pendingPathway) {
-                startCheckout(user, pendingPathway);
-              }
-            }
-          } else {
-            setError(res.message || 'Login failed after OTP verification');
-          }
-        } catch (e: any) {
-           setError('Server error during login');
-        } finally {
-           setLoading(false);
-        }
-      },
-      failure: (error: any) => {
-        setLoading(false);
-        setError(error.message || 'OTP Verification Failed');
-      }
-    };
-
-    if ((window as any).initSendOTP) {
-      (window as any).initSendOTP(configuration);
-      setLoading(false); // Stop our loading spinner so the user can use the widget
-    } else {
-      setLoading(false);
-      setError("OTP Service is currently loading or blocked. Please try again.");
     }
   };
 
@@ -401,7 +396,48 @@ export default function CourseDetailPage() {
                   onClick={handleSendOtp}
                   disabled={loading || mobile.length !== 10}
                 >
-                  {loading ? 'Processing...' : 'Verify with MSG91'}
+                  {loading ? 'Sending OTP...' : 'Send OTP'}
+                </button>
+              </div>
+            )}
+
+            {authStep === 'otp' && (
+              <div className="form-group">
+                <p style={{ fontSize: '13px', color: 'var(--muted)', marginBottom: '16px' }}>
+                  OTP sent to <strong style={{ color: '#fff' }}>+91 {mobile}</strong>
+                  <button 
+                    onClick={() => { setAuthStep('mobile'); setOtp(''); setError(''); }}
+                    style={{ background: 'none', border: 'none', color: 'var(--gold)', cursor: 'pointer', fontSize: '13px', marginLeft: '8px' }}
+                  >Change</button>
+                </p>
+                {devOtp && (
+                  <div style={{ background: 'rgba(255,215,0,0.1)', border: '1px solid rgba(255,215,0,0.3)', padding: '8px 12px', borderRadius: '6px', marginBottom: '12px', fontSize: '13px', color: 'var(--gold)' }}>
+                    🔧 Dev Mode — OTP: <strong>{devOtp}</strong>
+                  </div>
+                )}
+                <label className="form-label">Enter OTP</label>
+                <input 
+                  type="text" 
+                  className="form-control" 
+                  placeholder="6-digit OTP"
+                  value={otp}
+                  onChange={e => setOtp(e.target.value.replace(/\D/g, '').slice(0, 6))}
+                  style={{ letterSpacing: '8px', fontSize: '20px', textAlign: 'center', fontWeight: 'bold' }}
+                />
+                <button 
+                  className="btn btn-gold" 
+                  style={{ width: '100%', marginTop: '16px' }}
+                  onClick={handleVerifyOtp}
+                  disabled={loading || otp.length !== 6}
+                >
+                  {loading ? 'Verifying...' : 'Verify OTP'}
+                </button>
+                <button 
+                  onClick={handleSendOtp}
+                  disabled={loading}
+                  style={{ width: '100%', marginTop: '8px', background: 'none', border: '1px solid rgba(255,255,255,0.15)', color: 'var(--muted)', padding: '10px', borderRadius: '8px', cursor: 'pointer', fontSize: '13px' }}
+                >
+                  Resend OTP
                 </button>
               </div>
             )}
