@@ -54,7 +54,7 @@ export default function CourseDetailPage() {
     setError('');
     try {
       // Fetch available trades from backend to map to a valid trade ID
-      const tradesRes = await api.trades.list();
+      const tradesRes = await api.trades.list() as any;
       let tradeId = 1; // Fallback
       if (tradesRes.success && tradesRes.trades && tradesRes.trades.length > 0) {
         // Try to find a trade matching the course sector/name, else use the first available trade
