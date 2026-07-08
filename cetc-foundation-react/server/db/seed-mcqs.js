@@ -9,10 +9,10 @@ const { pool } = require('./index');
 
 // Helper to extract courses from TS file
 function getCoursesFromTS() {
-  const tsPath = path.join(__dirname, '../../src/data/courses.ts');
+  const tsPath = path.join(__dirname, '../../src/data/courses.tsx');
   const tsContent = fs.readFileSync(tsPath, 'utf8');
   const match = tsContent.match(/const RAW_COURSES[\s\S]*?=\s*\[([\s\S]*?)\];/);
-  if (!match) throw new Error("Could not find RAW_COURSES in courses.ts");
+  if (!match) throw new Error("Could not find RAW_COURSES in courses.tsx");
   
   const rawText = match[1];
   const courseLines = rawText.match(/\[(.*?)\]/g);
