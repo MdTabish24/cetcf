@@ -238,9 +238,9 @@ export default function ExamPage() {
               </div>
             </div>
 
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr minmax(300px, 350px)', gap: '24px', alignItems: 'start' }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '24px', alignItems: 'start' }}>
               {/* Question Area */}
-              <div className="card" style={{ padding: '32px' }}>
+              <div className="card" style={{ padding: '32px', flex: '1 1 min(100%, 500px)' }}>
                 <div style={{ fontSize: '14px', color: 'var(--gold)', marginBottom: '12px', fontWeight: 'bold' }}>
                   Question {currentQIdx + 1} of {questions.length}
                 </div>
@@ -301,7 +301,7 @@ export default function ExamPage() {
               </div>
 
               {/* Navigation Grid */}
-              <div className="card" style={{ padding: '20px' }}>
+              <div className="card" style={{ padding: '20px', flex: '1 1 300px' }}>
                 <h4 style={{ color: '#fff', marginBottom: '16px', fontSize: '15px' }}>Question Navigator</h4>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '8px' }}>
                   {questions.map((q, idx) => {

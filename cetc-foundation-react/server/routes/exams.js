@@ -99,10 +99,10 @@ router.post('/start', ...requireCandidate, async (req, res) => {
     );
     const usedIds = usedQsResult.rows.map((r) => r.qid);
 
-    // Select questions
+    // Select questions (Hardcoded to 20 as requested by user)
     const questionIds = await selectQuestions(
       trade_id,
-      candidate.question_count,
+      20, // Override candidate.question_count
       candidate.difficulty_easy_pct,
       candidate.difficulty_medium_pct,
       candidate.difficulty_hard_pct,
@@ -296,9 +296,12 @@ router.post('/:id/submit', ...requireCandidate, async (req, res) => {
 
     const total = questionIds.length;
     const percentage = (score / total) * 100;
-    const isPassed = score >= exam.passing_marks;
+    // User requested 20 questions, so passing is 40% of 20 (8 correct answers)
+    const isPassed = percentage >= 40; 
     const result = isPassed ? 'pass' : 'fail';
     const grade = calculateGrade(percentage);
+
+    console.log(`[Exam Submit] candId=${exam.cand_id}, score=${score}/${total} (${percentage}%), result=${result}`);
 
     // Update exam
     await db.query(
