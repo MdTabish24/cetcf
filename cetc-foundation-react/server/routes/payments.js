@@ -51,12 +51,23 @@ router.post('/create-order', paymentLimiter, authenticate, async (req, res) => {
     }
 
     const receiptId = `cetcf_${req.user.id}_${trade_id}_${Date.now()}`;
+    // Allow free mock payment for testing if mobile is 9999999999
+    let isMock = false;
+    if (req.user.mobile === '9999999999') {
+      isMock = true;
+      console.log(`[Payment] Bypassing payment for test user ${req.user.mobile}`);
+    }
+
     const order = await paymentService.createOrder(trade.fee, receiptId, {
       user_id: req.user.id,
       trade_id,
       trade_name: trade.name,
       pathway,
     });
+
+    if (isMock) {
+      order.mock = true;
+    }
 
     // Save pending payment record
     const paymentRecord = await db.query(
