@@ -85,11 +85,16 @@ router.post('/start', ...requireCandidate, async (req, res) => {
 
     // Check if there's already an ongoing exam
     const ongoingExam = await db.query(
-      `SELECT id FROM exams WHERE candidate_id = $1 AND result = 'ongoing' ORDER BY created_at DESC LIMIT 1`,
+      `SELECT id, total_questions FROM exams WHERE candidate_id = $1 AND result = 'ongoing' ORDER BY created_at DESC LIMIT 1`,
       [candidate.id]
     );
     if (ongoingExam.rows.length) {
-      return res.json({ success: true, examId: ongoingExam.rows[0].id, resumed: true, message: 'Resuming your active exam.' });
+      if (ongoingExam.rows[0].total_questions !== 20) {
+        // Old exam with 30 questions, fail it to reset
+        await db.query(`UPDATE exams SET result = 'fail' WHERE id = $1`, [ongoingExam.rows[0].id]);
+      } else {
+        return res.json({ success: true, examId: ongoingExam.rows[0].id, resumed: true, message: 'Resuming your active exam.' });
+      }
     }
 
     // Get questions already used in previous attempts

@@ -39,30 +39,9 @@ export default function ExamPage() {
   const timerInterval = useRef<any>(null);
   const saveInterval = useRef<any>(null);
 
-  // Focus tracking
+  // Tab switching tracking disabled as per user request
   useEffect(() => {
-    if (step !== 'exam' || !examId) return;
-
-    const handleVisibilityChange = async () => {
-      if (document.hidden) {
-        try {
-          const res = await api.exams.reportTabSwitch(examId);
-          if (res.autoSubmitted) {
-            alert(res.message);
-            fetchResult(examId);
-          } else if (res.warning) {
-            alert(res.warning);
-          }
-        } catch (e) {
-          console.error('Tab switch report failed', e);
-        }
-      }
-    };
-
-    document.addEventListener('visibilitychange', handleVisibilityChange);
-    return () => {
-      document.removeEventListener('visibilitychange', handleVisibilityChange);
-    };
+    // No-op
   }, [step, examId]);
 
   // Timer logic
@@ -196,8 +175,6 @@ export default function ExamPage() {
               <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '6px' }}>
                 {[
                   'Once started, the exam cannot be paused or restarted.',
-                  'Switching tabs will be tracked and counted.',
-                  'Switching tabs more than 3 times will auto-submit your exam resulting in a fail.',
                   'Ensure a stable internet connection before starting.',
                   'No external help or reference material allowed.',
                 ].map((rule, i) => (
