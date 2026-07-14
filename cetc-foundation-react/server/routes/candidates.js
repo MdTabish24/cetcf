@@ -101,7 +101,7 @@ router.get('/dashboard', ...requireCandidate, async (req, res) => {
 
     // Get enrollments with trade and exam details
     const enrollments = await db.query(
-      `SELECT c.id, c.status, c.attempts_used, c.max_attempts, c.enrollment_date,
+      `SELECT c.id, c.trade_id, c.pathway, c.status, c.attempts_used, c.max_attempts, c.enrollment_date,
               t.name as trade_name, t.code as trade_code, t.fee, t.duration_mins,
               (SELECT COUNT(*) FROM exams e WHERE e.candidate_id = c.id) as exam_count,
               (SELECT e2.result FROM exams e2 WHERE e2.candidate_id = c.id ORDER BY e2.created_at DESC LIMIT 1) as last_result,
