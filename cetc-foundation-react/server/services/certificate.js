@@ -115,29 +115,25 @@ async function generateCertificatePDF(data) {
   // 2. Overlay Passport Photo (Top Right)
   if (photoUrl) {
     try {
-      // Assuming photoUrl is a local file or we need to fetch it.
-      // For simplicity, if it's a URL, we'll try to use axios to fetch it as arraybuffer
       let photoBuffer;
       if (photoUrl.startsWith('http')) {
         const axios = require('axios');
         const res = await axios.get(photoUrl, { responseType: 'arraybuffer' });
         photoBuffer = Buffer.from(res.data);
       } else {
-        // local path
         photoBuffer = fs.readFileSync(path.join(__dirname, '..', photoUrl));
       }
       
-      // Draw Photo at Top Right
-      const photoWidth = 80;
-      const photoHeight = 100;
-      doc.image(photoBuffer, W - 110, 60, { width: photoWidth, height: photoHeight });
+      const photoWidth = 70;
+      const photoHeight = 90;
+      doc.image(photoBuffer, 480, 80, { width: photoWidth, height: photoHeight });
       // Add a border to the photo
-      doc.rect(W - 110, 60, photoWidth, photoHeight).lineWidth(1).stroke('#333333');
+      doc.rect(480, 80, photoWidth, photoHeight).lineWidth(1).stroke('#333333');
       
       // Overlay Stamp
       try {
         const stampPath = path.join(__dirname, '../assets/stamp.png');
-        doc.image(stampPath, W - 120, 100, { width: 60, height: 60 });
+        doc.image(stampPath, 460, 130, { width: 70, height: 70 });
       } catch (err) {
         console.warn('Stamp image not found');
       }
@@ -148,39 +144,46 @@ async function generateCertificatePDF(data) {
 
   // 3. Overlay Candidate Name
   doc.font('Helvetica-Bold').fontSize(22).fillColor('#000000');
-  doc.text(candidateName.toUpperCase(), 0, 267, { width: W, align: 'center' });
+  doc.text(candidateName.toUpperCase(), 0, 310, { width: W, align: 'center' });
 
   // 4. Overlay Course Name
   doc.font('Helvetica-Bold').fontSize(16).fillColor('#000000');
-  doc.text(tradeName.toUpperCase(), 0, 403, { width: W, align: 'center' });
+  doc.text(tradeName.toUpperCase(), 0, 420, { width: W, align: 'center' });
 
   // 5. Overlay Issue Date
-  doc.font('Helvetica-Bold').fontSize(14).fillColor('#000000');
-  doc.text(formattedDate, 0, 520, { width: W, align: 'center' });
+  // Extracting day and month
+  const d = new Date(issueDate);
+  const day = d.getDate();
+  const suffix = (day % 10 === 1 && day !== 11) ? 'st' : (day % 10 === 2 && day !== 12) ? 'nd' : (day % 10 === 3 && day !== 13) ? 'rd' : 'th';
+  const monthStr = d.toLocaleDateString('en-IN', { month: 'long' });
+  const yearStr = d.getFullYear();
+  const issuedString = `Issued on this ${day}${suffix} day of ${monthStr}, ${yearStr}`;
 
-  // 6. Draw QR Code (Bottom Left or middle)
-  // Placing it above the logos on the left
-  doc.image(qrBuffer, 50, 600, { width: 90, height: 90 });
+  doc.font('Helvetica-Bold').fontSize(15).fillColor('#000000');
+  doc.text(issuedString, 0, 560, { width: W, align: 'center' });
+
+  // 6. Draw QR Code (Bottom Left)
+  doc.image(qrBuffer, 50, 650, { width: 90, height: 90 });
+  
+  // QR text (Issue Date under QR)
+  doc.font('Helvetica-Bold').fontSize(8).fillColor('#ffffff');
+  doc.rect(50, 740, 90, 12).fill('#000000');
+  doc.fillColor('#ffffff').text(`Issue Date: ${d.toLocaleDateString('en-IN')}`, 50, 742, { width: 90, align: 'center' });
 
   // 7. Overlay Marks Table
-  // Theory, Practical, Total, Percentage, Grade
-  const tableY = 777;
-  doc.font('Helvetica-Bold').fontSize(12).fillColor('#000000');
+  doc.fillColor('#000000').fontSize(10);
+  const tableY = 811; 
   
   // Theory (Using score)
-  doc.text(`${score}/${totalMarks}`, 70, tableY, { width: 90, align: 'center' });
-  
+  doc.text(`${score}/${totalMarks}`, 215, tableY, { width: 50, align: 'center' });
   // Practical
-  doc.text('N/A', 170, tableY, { width: 85, align: 'center' });
-  
+  doc.text('N/A', 285, tableY, { width: 50, align: 'center' });
   // Total
-  doc.text(`${score}/${totalMarks}`, 265, tableY, { width: 90, align: 'center' });
-  
+  doc.text(`${score}/${totalMarks}`, 355, tableY, { width: 60, align: 'center' });
   // Percentage
-  doc.text(`${percentage}%`, 365, tableY, { width: 110, align: 'center' });
-  
+  doc.text(`${percentage}%`, 435, tableY, { width: 50, align: 'center' });
   // Grade
-  doc.text(grade, 485, tableY, { width: 80, align: 'center' });
+  doc.text(grade, 505, tableY, { width: 40, align: 'center' });
 
   doc.end();
 
@@ -196,7 +199,9 @@ async function generateCertificatePDF(data) {
     pdfUrl = await storage.uploadFile(localPath, `certificates/${pdfFileName}`, 'application/pdf');
   } catch (err) {
     // Fallback: serve from local
-    const baseUrl = process.env.CERT_BASE_URL || 'http://localhost:5000';
+    // Use API base URL for downloads
+    const frontendUrl = process.env.FRONTEND_URL || 'http://cetcf.org';
+    const baseUrl = frontendUrl + '/api';
     pdfUrl = `${baseUrl}/uploads/${pdfFileName}`;
   }
 
