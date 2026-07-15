@@ -78,7 +78,12 @@ export default function CourseDetailPage() {
         },
         (err) => {
           setLoading(false);
-          setError(err);
+          if (typeof err === 'string' && err.includes('Already enrolled')) {
+            alert('You are already enrolled! Redirecting to your Dashboard to start the exam...');
+            navigate('/dashboard');
+          } else {
+            setError(err);
+          }
         }
       );
     } catch (err) {
