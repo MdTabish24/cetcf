@@ -48,7 +48,7 @@ export default function AdminPage() {
     try {
       if (activeTab === 'dashboard') {
         const res = await api.admin.getDashboard();
-        if (res.success) setData(res.data || res.dashboard);
+        if (res.success) setData(res.kpis);
       } else if (activeTab === 'partners') {
         const res = await api.admin.getPartners();
         if (res.success) setData(res.partners);
@@ -142,19 +142,19 @@ export default function AdminPage() {
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '16px' }}>
                 <div className="card" style={{ padding: '24px' }}>
                   <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Total Candidates</div>
-                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--text-main)' }}>{data.total_candidates || 0}</div>
+                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--text-main)' }}>{data.totalCandidates || 0}</div>
                 </div>
                 <div className="card" style={{ padding: '24px' }}>
                   <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Total Partners</div>
-                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--text-main)' }}>{data.total_partners || 0}</div>
+                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--text-main)' }}>{data.totalPartners || 0}</div>
                 </div>
                 <div className="card" style={{ padding: '24px' }}>
                   <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Certificates Issued</div>
-                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--success)' }}>{data.total_certificates || 0}</div>
+                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--success)' }}>{data.totalCerts || 0}</div>
                 </div>
                 <div className="card" style={{ padding: '24px' }}>
                   <div style={{ fontSize: '12px', color: 'var(--muted)', textTransform: 'uppercase' }}>Total Revenue</div>
-                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--gold)' }}>₹{data.total_revenue || 0}</div>
+                  <div style={{ fontSize: '32px', fontWeight: 700, color: 'var(--gold)' }}>₹{data.revenueToday || 0}</div>
                 </div>
               </div>
             )}
