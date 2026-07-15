@@ -13,20 +13,21 @@ async function regenerateAllCerts() {
       SELECT 
         e.id as exam_id,
         c.id as candidate_id,
-        c.full_name as candidate_name,
-        c.photo_url,
+        u.name as candidate_name,
+        u.photo_url,
         t.id as trade_id,
-        t.trade_name,
-        t.trade_code,
+        t.name as trade_name,
+        t.code as trade_code,
         e.score,
         e.total_marks,
         e.percentage,
         e.grade,
-        e.exam_date,
+        cert.issue_date as exam_date,
         cert.certificate_number,
         cert.id as cert_id
       FROM exams e
       JOIN candidates c ON e.candidate_id = c.id
+      JOIN users u ON c.user_id = u.id
       JOIN trades t ON e.trade_id = t.id
       JOIN certificates cert ON cert.exam_id = e.id
       WHERE e.status = 'passed'
