@@ -23,7 +23,7 @@ async function regenerateAllCerts() {
         cert.percentage,
         cert.grade,
         cert.issue_date as exam_date,
-        cert.certificate_number,
+        cert.cert_number as certificate_number,
         cert.id as cert_id
       FROM exams e
       JOIN candidates c ON e.candidate_id = c.id
