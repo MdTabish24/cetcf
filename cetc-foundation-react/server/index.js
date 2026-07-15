@@ -125,7 +125,7 @@ app.use('/api/', generalLimiter);
 // ── Static Files (uploads) ────────────────────────────────────────────
 const uploadsDir = path.join(__dirname, 'uploads');
 if (!fs.existsSync(uploadsDir)) fs.mkdirSync(uploadsDir, { recursive: true });
-app.use('/uploads', express.static(uploadsDir));
+app.use('/api/uploads', express.static(uploadsDir));
 
 // ── API Routes ────────────────────────────────────────────────────────
 app.use('/api/auth', authRoutes);
