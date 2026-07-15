@@ -120,20 +120,6 @@ export default function ExamPage() {
     }
   };
 
-  const fetchResult = async (exId: number) => {
-    setLoading(true);
-    try {
-      const res = await api.exams.getResult(exId);
-      if (res.success) {
-        setResultData(res.result);
-        setStep('result');
-      }
-    } catch (e) {
-      console.error(e);
-    } finally {
-      setLoading(false);
-    }
-  };
 
   const handleAnswerChange = (qId: number, val: string) => {
     setAnswers(prev => ({ ...prev, [qId]: val }));
