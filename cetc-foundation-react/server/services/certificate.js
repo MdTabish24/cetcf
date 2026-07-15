@@ -15,7 +15,8 @@ const storage = require('./storage');
 function calculateGrade(percentage) {
   if (percentage >= 85) return 'A';
   if (percentage >= 70) return 'B';
-  if (percentage >= 67) return 'C';
+  if (percentage >= 55) return 'C';
+  if (percentage >= 40) return 'D';
   return null; // Fail
 }
 
