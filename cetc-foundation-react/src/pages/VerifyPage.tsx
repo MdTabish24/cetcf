@@ -1,24 +1,32 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { Search, Hourglass, Lock, Zap, Download, XCircle, ClipboardCheck, Smartphone, Mail } from 'lucide-react';
 import api from '../services/api';
 
 export default function VerifyPage() {
-  const [certNumber, setCertNumber] = useState('');
+  const [searchParams] = useSearchParams();
+  const [certNumber, setCertNumber] = useState(searchParams.get('cert') || '');
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<null | 'found' | 'not_found' | 'revoked'>(null);
   const [certData, setCertData] = useState<any>(null);
   const [errorMessage, setErrorMessage] = useState('');
 
-  const handleVerify = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!certNumber.trim()) return;
+  useEffect(() => {
+    const certParam = searchParams.get('cert');
+    if (certParam) {
+      verifyCert(certParam);
+    }
+  }, []);
+
+  const verifyCert = async (certNum: string) => {
+    if (!certNum.trim()) return;
     
     setLoading(true);
     setResult(null);
     setErrorMessage('');
     
     try {
-      const res = await api.certificates.verify(certNumber.trim());
+      const res = await api.certificates.verify(certNum.trim());
       
       if (res.success && res.valid) {
         setResult('found');
@@ -34,6 +42,13 @@ export default function VerifyPage() {
       setLoading(false);
     }
   };
+
+  const handleVerify = async (e: React.FormEvent) => {
+    e.preventDefault();
+    verifyCert(certNumber);
+  };
+
+
 
   const formatDate = (dateStr: string) => {
     return new Date(dateStr).toLocaleDateString('en-IN', {

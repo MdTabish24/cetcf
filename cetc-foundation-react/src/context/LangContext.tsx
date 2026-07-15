@@ -16,6 +16,7 @@ const translations: Record<string, Record<Lang, string>> = {
   'nav.partner': { en: 'Partner (AAC)', hi: 'पार्टनर (AAC)' },
   'nav.about': { en: 'About', hi: 'हमारे बारे में' },
   'nav.login': { en: 'Login', hi: 'लॉगिन' },
+  'nav.dashboard': { en: 'Dashboard', hi: 'डैशबोर्ड' },
   'nav.getCertified': { en: 'Get Certified', hi: 'प्रमाणपत्र पाएं' },
 
   // Hero
