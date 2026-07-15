@@ -4,6 +4,10 @@ const crypto = require('crypto');
 
 async function fixCertificates() {
   try {
+    // Fix the constraint first to allow grade D
+    await db.query(`ALTER TABLE certificates DROP CONSTRAINT IF EXISTS certificates_grade_check`);
+    await db.query(`ALTER TABLE certificates ADD CONSTRAINT certificates_grade_check CHECK (grade IN ('A','B','C','D'))`);
+
     // Find exams that passed but have no certificate
     const exams = await db.query(`
       SELECT e.*, c.user_id, c.id as cand_id, c.trade_id as cand_trade_id,

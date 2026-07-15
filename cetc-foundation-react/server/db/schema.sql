@@ -117,7 +117,7 @@ CREATE TABLE IF NOT EXISTS certificates (
   cert_number VARCHAR(50) UNIQUE NOT NULL,  -- CETC/YYYY/TRADECODE/XXXXXX
   trade_id INTEGER REFERENCES trades(id),
   issue_date TIMESTAMP DEFAULT NOW(),
-  grade CHAR(1) CHECK (grade IN ('A','B','C')),
+  grade CHAR(1) CHECK (grade IN ('A','B','C','D')),
   score INTEGER,
   percentage DECIMAL(5,2),
   qr_url TEXT,
