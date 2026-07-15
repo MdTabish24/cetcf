@@ -4,9 +4,10 @@
 
 -- Default Admin
 INSERT INTO admins (email, password_hash, name) VALUES
-  ('admin@cetcfoundation.org', '$2b$10$rOzJqZzZzZzZzZzZzZzZeO5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Quu', 'CETC Admin')
+  ('info.cetcf@gmail.com', '$2b$10$rOzJqZzZzZzZzZzZzZzZeO5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Quu', 'CETC Admin')
   ON CONFLICT (email) DO NOTHING;
--- Default password: Admin@CETCF2025
+-- Note: The hash above is a dummy hash. 
+-- For production, run update-admin.js to set the actual password: ShoebMomin_cetcf01@421302
 
 -- Certification Trades (8 trades as per spec)
 INSERT INTO trades (code, name, description, fee, passing_marks, question_count, duration_mins, commission_rate, syllabus_topics) VALUES
