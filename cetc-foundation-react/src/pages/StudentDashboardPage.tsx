@@ -93,9 +93,15 @@ export default function StudentDashboardPage() {
                           <Play size={16} fill="currentColor" /> Watch Videos
                         </Link>
                       )}
-                      <Link to={`/exam?trade_id=${enrol.trade_id}`} className="btn btn-gold" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
-                        <FileText size={16} /> Start Exam
-                      </Link>
+                      {enrol.status === 'passed' && enrol.cert_number ? (
+                        <a href={`/verify?cert=${encodeURIComponent(enrol.cert_number)}`} className="btn btn-gold" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                          <FileText size={16} /> View Certificate
+                        </a>
+                      ) : (
+                        <Link to={`/exam?trade_id=${enrol.trade_id}`} className="btn btn-gold" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                          <FileText size={16} /> Start Exam
+                        </Link>
+                      )}
                     </div>
                   </div>
                 ))}

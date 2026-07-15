@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
 import { GraduationCap, MapPin, Mail, Phone, Send, LogIn, Languages } from 'lucide-react';
 import { useLang } from '../context/LangContext';
+import { getUser } from '../services/api';
 
 export default function AppLayout() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -50,14 +51,25 @@ export default function AppLayout() {
               </li>
             ))}
             <li>
-              <Link
-                to="/login"
-                className="nav-link-login"
-                onClick={() => setMenuOpen(false)}
-                style={{ display: 'flex', alignItems: 'center', gap: '6px', fontWeight: 600, color: 'var(--text-main)' }}
-              >
-                <LogIn size={18} /> {t('nav.login')}
-              </Link>
+              {getUser() ? (
+                <Link
+                  to="/dashboard"
+                  className="nav-link-login"
+                  onClick={() => setMenuOpen(false)}
+                  style={{ display: 'flex', alignItems: 'center', gap: '6px', fontWeight: 600, color: 'var(--text-main)' }}
+                >
+                  <LogIn size={18} /> {t('nav.dashboard') || 'Dashboard'}
+                </Link>
+              ) : (
+                <Link
+                  to="/login"
+                  className="nav-link-login"
+                  onClick={() => setMenuOpen(false)}
+                  style={{ display: 'flex', alignItems: 'center', gap: '6px', fontWeight: 600, color: 'var(--text-main)' }}
+                >
+                  <LogIn size={18} /> {t('nav.login')}
+                </Link>
+              )}
             </li>
             {/* Language Toggle */}
             <li>
