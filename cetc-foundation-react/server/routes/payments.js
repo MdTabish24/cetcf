@@ -51,12 +51,6 @@ router.post('/create-order', paymentLimiter, authenticate, async (req, res) => {
     }
 
     const receiptId = `cetcf_${req.user.id}_${trade_id}_${Date.now()}`;
-    // Allow free mock payment for testing if mobile is 9999999999
-    let isMock = false;
-    if (req.user.mobile === '9999999999') {
-      isMock = true;
-      console.log(`[Payment] Bypassing payment for test user ${req.user.mobile}`);
-    }
 
     const order = await paymentService.createOrder(trade.fee, receiptId, {
       user_id: req.user.id,
@@ -64,10 +58,6 @@ router.post('/create-order', paymentLimiter, authenticate, async (req, res) => {
       trade_name: trade.name,
       pathway,
     });
-
-    if (isMock) {
-      order.mock = true;
-    }
 
     // Save pending payment record
     const paymentRecord = await db.query(
@@ -83,7 +73,6 @@ router.post('/create-order', paymentLimiter, authenticate, async (req, res) => {
         amount: order.amount,
         currency: order.currency,
         receipt: receiptId,
-        mock: order.mock || false,
       },
       paymentRecordId: paymentRecord.rows[0].id,
       key: process.env.RAZORPAY_KEY_ID,
@@ -109,13 +98,7 @@ router.post('/verify', paymentLimiter, authenticate, async (req, res) => {
     return res.status(400).json({ success: false, message: 'Payment verification data is incomplete.' });
   }
 
-  let isValid = false;
-  if (req.user.mobile === '9999999999' && razorpay_payment_id.startsWith('pay_dev_')) {
-    isValid = true;
-    console.log(`[Payment Verify] Bypassed signature check for test user ${req.user.mobile}`);
-  } else {
-    isValid = paymentService.verifyPaymentSignature(razorpay_order_id, razorpay_payment_id, razorpay_signature);
-  }
+  let isValid = paymentService.verifyPaymentSignature(razorpay_order_id, razorpay_payment_id, razorpay_signature);
 
   if (!isValid) {
     return res.status(400).json({ success: false, message: 'Payment signature verification failed. Please contact support.' });

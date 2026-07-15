@@ -35,13 +35,6 @@ async function sendOTP(mobile) {
   otpStore.set(mobile, { otp, expiresAt, attempts: 0 });
 
   const isDev = process.env.DEV_MODE === 'true' || !process.env.MSG91_AUTH_KEY;
-
-  if (mobile === '9999999999') {
-    console.log(`[TEST OTP] Mobile: 9999999999, OTP: 123456`);
-    otpStore.set(mobile, { otp: '123456', expiresAt, attempts: 0 });
-    return { success: true, devOtp: '123456', message: 'Test account OTP sent' };
-  }
-
   if (isDev) {
     console.log(`[DEV OTP] Mobile: ${mobile}, OTP: ${otp}`);
     return { success: true, devOtp: otp, message: 'OTP sent (DEV MODE — visible for testing)' };

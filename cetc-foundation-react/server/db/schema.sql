@@ -77,7 +77,7 @@ CREATE TABLE IF NOT EXISTS candidates (
   enrollment_date TIMESTAMP DEFAULT NOW(),
   status VARCHAR(20) DEFAULT 'enrolled' CHECK (status IN ('enrolled','exam_ready','passed','failed','expired')),
   attempts_used INTEGER DEFAULT 0,
-  max_attempts INTEGER DEFAULT 3,
+  max_attempts INTEGER DEFAULT 1,
   UNIQUE(user_id, trade_id)
 );
 
@@ -117,7 +117,7 @@ CREATE TABLE IF NOT EXISTS certificates (
   cert_number VARCHAR(50) UNIQUE NOT NULL,  -- CETC/YYYY/TRADECODE/XXXXXX
   trade_id INTEGER REFERENCES trades(id),
   issue_date TIMESTAMP DEFAULT NOW(),
-  grade CHAR(1) CHECK (grade IN ('A','B','C','D')),
+  grade CHAR(1) CHECK (grade IN ('A','B','C')),
   score INTEGER,
   percentage DECIMAL(5,2),
   qr_url TEXT,

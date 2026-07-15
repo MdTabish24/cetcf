@@ -78,8 +78,8 @@ router.post('/start', ...requireCandidate, async (req, res) => {
 
     const candidate = candidateResult.rows[0];
 
-    // Check attempts (temporarily bypass max attempts limit for test user or increase it)
-    if (candidate.attempts_used >= 100) {
+    // Check attempts
+    if (candidate.attempts_used >= candidate.max_attempts) {
       return res.status(403).json({ success: false, message: `You have used all exam attempts. Please re-enroll.` });
     }
 
@@ -301,8 +301,8 @@ router.post('/:id/submit', ...requireCandidate, async (req, res) => {
 
     const total = questionIds.length;
     const percentage = (score / total) * 100;
-    // User requested 20 questions, so passing is 40% of 20 (8 correct answers)
-    const isPassed = percentage >= 40; 
+    // Passing is 50% (10 correct answers out of 20)
+    const isPassed = percentage >= 50; 
     const result = isPassed ? 'pass' : 'fail';
     const grade = calculateGrade(percentage);
 
