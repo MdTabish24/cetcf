@@ -26,8 +26,9 @@ export default function AdminPage() {
       const res = await api.auth.adminLogin(email, password);
       if (res.success) {
         setToken(res.token as string);
-        setUser(res.user as any);
-        setLocalUser(res.user as any);
+        const loggedInUser = res.admin || res.user;
+        setUser(loggedInUser as any);
+        setLocalUser(loggedInUser as any);
       } else {
         setLoginError(res.message || 'Login failed');
       }
