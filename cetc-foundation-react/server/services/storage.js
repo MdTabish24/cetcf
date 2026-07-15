@@ -38,7 +38,8 @@ async function uploadFile(localFilePath, destKey, contentType = 'application/oct
       fs.copyFileSync(localFilePath, destPath);
     }
 
-    const baseUrl = process.env.CERT_BASE_URL || 'http://localhost:5000';
+    const frontendUrl = process.env.FRONTEND_URL || 'http://cetcf.org';
+    const baseUrl = frontendUrl + '/api';
     return `${baseUrl}/uploads/${fileName}`;
   }
 
