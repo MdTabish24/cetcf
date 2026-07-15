@@ -52,7 +52,7 @@ const paymentLimiter = rateLimit({
  */
 const loginLimiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 10,
+  max: 1000,
   message: {
     success: false,
     message: 'Too many login attempts. Please wait 15 minutes before trying again.',
