@@ -42,7 +42,7 @@ const validateVerifyOtp = [
 ];
 
 const validateAdminLogin = [
-  body('email').isEmail().normalizeEmail().withMessage('Enter a valid email address'),
+  body('email').isEmail().withMessage('Enter a valid email address').toLowerCase(),
   body('password').isLength({ min: 6 }).withMessage('Password must be at least 6 characters'),
   validate,
 ];
