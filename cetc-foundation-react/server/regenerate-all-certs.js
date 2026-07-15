@@ -30,7 +30,7 @@ async function regenerateAllCerts() {
       JOIN users u ON c.user_id = u.id
       JOIN trades t ON e.trade_id = t.id
       JOIN certificates cert ON cert.exam_id = e.id
-      WHERE e.status = 'passed'
+      WHERE e.result = 'pass'
     `);
 
     const certs = result.rows;
