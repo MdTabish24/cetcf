@@ -1,10 +1,6 @@
-const { Pool } = require('pg');
+const db = require('./db/index');
 const { generateCertificatePDF, generateCertNumber, calculateGrade } = require('./services/certificate');
 const crypto = require('crypto');
-
-const db = new Pool({
-  connectionString: 'postgresql://postgres:cetcf2024@localhost:5432/cetcf_db'
-});
 
 async function fixCertificates() {
   try {
@@ -59,7 +55,7 @@ async function fixCertificates() {
   } catch (err) {
     console.error(err);
   } finally {
-    db.end();
+    db.pool.end();
   }
 }
 
