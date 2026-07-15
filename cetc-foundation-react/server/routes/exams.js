@@ -114,9 +114,9 @@ router.post('/start', ...requireCandidate, async (req, res) => {
       usedIds
     );
 
-    if (questionIds.length < Math.floor(candidate.question_count * 0.8)) {
+    if (questionIds.length < 16) { // 80% of 20 is 16
       // Fallback: allow repeats if bank is small
-      const fallback = await selectQuestions(trade_id, candidate.question_count, candidate.difficulty_easy_pct, candidate.difficulty_medium_pct, candidate.difficulty_hard_pct, []);
+      const fallback = await selectQuestions(trade_id, 20, candidate.difficulty_easy_pct, candidate.difficulty_medium_pct, candidate.difficulty_hard_pct, []);
       questionIds.splice(0, questionIds.length, ...fallback);
     }
 
