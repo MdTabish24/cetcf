@@ -19,9 +19,9 @@ async function regenerateAllCerts() {
         t.name as trade_name,
         t.code as trade_code,
         e.score,
-        e.total_marks,
-        e.percentage,
-        e.grade,
+        e.total_questions as total_marks,
+        cert.percentage,
+        cert.grade,
         cert.issue_date as exam_date,
         cert.certificate_number,
         cert.id as cert_id
