@@ -96,7 +96,7 @@ export default function AdminPage() {
   }
 
   return (
-    <div style={{ display: 'flex', minHeight: '100vh', background: '#f8fafc' }}>
+    <div style={{ display: 'flex', minHeight: '100vh', background: 'var(--bg-deep)' }}>
       {/* Sidebar */}
       <aside style={{ width: '250px', background: 'var(--navy)', color: '#fff', padding: '24px 0', position: 'relative' }}>
         <div style={{ padding: '0 24px', marginBottom: '32px' }}>
