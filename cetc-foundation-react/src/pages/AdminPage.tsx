@@ -164,7 +164,7 @@ export default function AdminPage() {
               <div className="card" style={{ padding: '24px', overflowX: 'auto' }}>
                 <table style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse' }}>
                   <thead>
-                    <tr style={{ borderBottom: '1px solid #eee' }}>
+                    <tr style={{ borderBottom: '1px solid var(--border)' }}>
                       <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Center Name</th>
                       <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Contact</th>
                       <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>City</th>
@@ -174,7 +174,7 @@ export default function AdminPage() {
                   </thead>
                   <tbody>
                     {data.map((p: any) => (
-                      <tr key={p.id} style={{ borderBottom: '1px solid #f8f9fa' }}>
+                      <tr key={p.id} style={{ borderBottom: '1px solid var(--border)' }}>
                         <td style={{ padding: '12px', fontSize: '14px', fontWeight: 600 }}>{p.org_name || p.name}</td>
                         <td style={{ padding: '12px', fontSize: '13px' }}>{p.email}<br/><span style={{ color: 'var(--muted)' }}>{p.phone}</span></td>
                         <td style={{ padding: '12px', fontSize: '14px' }}>{p.city}, {p.state}</td>
@@ -208,7 +208,7 @@ export default function AdminPage() {
               <div className="card" style={{ padding: '24px', overflowX: 'auto' }}>
                 <table style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse' }}>
                   <thead>
-                    <tr style={{ borderBottom: '1px solid #eee' }}>
+                    <tr style={{ borderBottom: '1px solid var(--border)' }}>
                       <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Name</th>
                       <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Mobile</th>
                       <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Enrollment No</th>
@@ -217,7 +217,7 @@ export default function AdminPage() {
                   </thead>
                   <tbody>
                     {data.map((c: any) => (
-                      <tr key={c.id} style={{ borderBottom: '1px solid #f8f9fa' }}>
+                      <tr key={c.id} style={{ borderBottom: '1px solid var(--border)' }}>
                         <td style={{ padding: '12px', fontSize: '14px', fontWeight: 600 }}>{c.name}</td>
                         <td style={{ padding: '12px', fontSize: '14px' }}>{c.mobile}</td>
                         <td style={{ padding: '12px', fontSize: '14px', fontFamily: 'monospace' }}>{c.enrollment_no}</td>
@@ -235,7 +235,7 @@ export default function AdminPage() {
               <div className="card" style={{ padding: '24px', overflowX: 'auto' }}>
                 <table style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse' }}>
                   <thead>
-                    <tr style={{ borderBottom: '1px solid #eee' }}>
+                    <tr style={{ borderBottom: '1px solid var(--border)' }}>
                       <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Cert Number</th>
                       <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Candidate</th>
                       <th style={{ padding: '12px', fontSize: '13px', color: 'var(--muted)' }}>Trade</th>
@@ -245,7 +245,7 @@ export default function AdminPage() {
                   </thead>
                   <tbody>
                     {data.map((c: any) => (
-                      <tr key={c.id} style={{ borderBottom: '1px solid #f8f9fa' }}>
+                      <tr key={c.id} style={{ borderBottom: '1px solid var(--border)' }}>
                         <td style={{ padding: '12px', fontSize: '14px', fontWeight: 600, fontFamily: 'monospace' }}>{c.cert_number}</td>
                         <td style={{ padding: '12px', fontSize: '14px' }}>{c.candidate_name}</td>
                         <td style={{ padding: '12px', fontSize: '14px' }}>{c.trade_name}</td>
