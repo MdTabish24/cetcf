@@ -124,16 +124,16 @@ async function generateCertificatePDF(data) {
         photoBuffer = fs.readFileSync(path.join(__dirname, '..', photoUrl));
       }
       
-      const photoWidth = 70;
-      const photoHeight = 90;
-      doc.image(photoBuffer, 480, 80, { width: photoWidth, height: photoHeight });
+      const photoWidth = 60;
+      const photoHeight = 80;
+      doc.image(photoBuffer, 505, 130, { width: photoWidth, height: photoHeight });
       // Add a border to the photo
-      doc.rect(480, 80, photoWidth, photoHeight).lineWidth(1).stroke('#333333');
+      doc.rect(505, 130, photoWidth, photoHeight).lineWidth(1).stroke('#333333');
       
       // Overlay Stamp
       try {
         const stampPath = path.join(__dirname, '../assets/stamp.png');
-        doc.image(stampPath, 460, 130, { width: 70, height: 70 });
+        doc.image(stampPath, 519, 185, { width: 55, height: 55 });
       } catch (err) {
         console.warn('Stamp image not found');
       }
@@ -144,11 +144,11 @@ async function generateCertificatePDF(data) {
 
   // 3. Overlay Candidate Name
   doc.font('Helvetica-Bold').fontSize(22).fillColor('#000000');
-  doc.text(candidateName.toUpperCase(), 0, 310, { width: W, align: 'center' });
+  doc.text(candidateName.toUpperCase(), 0, 285, { width: W, align: 'center' });
 
   // 4. Overlay Course Name
   doc.font('Helvetica-Bold').fontSize(16).fillColor('#000000');
-  doc.text(tradeName.toUpperCase(), 0, 420, { width: W, align: 'center' });
+  doc.text(tradeName.toUpperCase(), 0, 400, { width: W, align: 'center' });
 
   // 5. Overlay Issue Date
   // Extracting day and month
@@ -157,33 +157,35 @@ async function generateCertificatePDF(data) {
   const suffix = (day % 10 === 1 && day !== 11) ? 'st' : (day % 10 === 2 && day !== 12) ? 'nd' : (day % 10 === 3 && day !== 13) ? 'rd' : 'th';
   const monthStr = d.toLocaleDateString('en-IN', { month: 'long' });
   const yearStr = d.getFullYear();
-  const issuedString = `Issued on this ${day}${suffix} day of ${monthStr}, ${yearStr}`;
+  const issuedString = `${day}${suffix} day of ${monthStr}, ${yearStr}`;
 
-  doc.font('Helvetica-Bold').fontSize(15).fillColor('#000000');
-  doc.text(issuedString, 0, 560, { width: W, align: 'center' });
+  doc.font('Helvetica-Bold').fontSize(14).fillColor('#000000');
+  doc.text(issuedString, 45, 538, { width: W, align: 'center' });
 
   // 6. Draw QR Code (Bottom Left)
-  doc.image(qrBuffer, 50, 650, { width: 90, height: 90 });
+  const qrX = 50;
+  const qrY = 640;
+  doc.image(qrBuffer, qrX, qrY, { width: 70, height: 70 });
   
   // QR text (Issue Date under QR)
   doc.font('Helvetica-Bold').fontSize(8).fillColor('#ffffff');
-  doc.rect(50, 740, 90, 12).fill('#000000');
-  doc.fillColor('#ffffff').text(`Issue Date: ${d.toLocaleDateString('en-IN')}`, 50, 742, { width: 90, align: 'center' });
+  doc.rect(qrX, qrY + 70, 70, 12).fill('#000000');
+  doc.fillColor('#ffffff').text(`Issue Date: ${d.toLocaleDateString('en-IN')}`, qrX, qrY + 72, { width: 70, align: 'center' });
 
   // 7. Overlay Marks Table
   doc.fillColor('#000000').fontSize(10);
-  const tableY = 811; 
+  const tableY = 805; 
   
   // Theory (Using score)
-  doc.text(`${score}/${totalMarks}`, 215, tableY, { width: 50, align: 'center' });
+  doc.text(`${score}/${totalMarks}`, 165, tableY, { width: 60, align: 'center' });
   // Practical
-  doc.text('N/A', 285, tableY, { width: 50, align: 'center' });
+  doc.text('N/A', 230, tableY, { width: 60, align: 'center' });
   // Total
-  doc.text(`${score}/${totalMarks}`, 355, tableY, { width: 60, align: 'center' });
+  doc.text(`${score}/${totalMarks}`, 290, tableY, { width: 60, align: 'center' });
   // Percentage
-  doc.text(`${percentage}%`, 435, tableY, { width: 50, align: 'center' });
+  doc.text(`${percentage}%`, 355, tableY, { width: 60, align: 'center' });
   // Grade
-  doc.text(grade, 505, tableY, { width: 40, align: 'center' });
+  doc.text(grade, 410, tableY, { width: 60, align: 'center' });
 
   doc.end();
 
